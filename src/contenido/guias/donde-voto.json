@@ -1,0 +1,70 @@
+{
+  "orden": 2,
+  "nombre": "Dónde me toca votar",
+  "titulo": "¿Dónde me toca votar?",
+  "tituloSeo": "Dónde me toca votar: mesa y colegio",
+  "descripcion": "Tu mesa y tu colegio electoral vienen en la tarjeta censal. También puedes consultarlos en la Sede Electrónica del INE. Qué documento llevar y horario.",
+  "resumen": "Mira tu tarjeta censal o consulta tu mesa en la Sede Electrónica del INE.",
+  "entradilla": "Tu mesa y tu colegio vienen en la tarjeta censal que recibirás en casa. También puedes consultarlos en la Sede Electrónica del Instituto Nacional de Estadística (INE).",
+  "esencial": [
+    "La tarjeta censal que te llega a casa dice tu mesa y tu colegio.",
+    "También puedes consultarlo en la Sede Electrónica del INE: con Cl@ve, el sistema de identificación de la Administración por internet, o sin él, indicando tu provincia, tu municipio y la inicial de tu primer apellido.",
+    "Lleva el documento nacional de identidad (DNI), el pasaporte o el carné de conducir, con fotografía. Sirven aunque estén caducados.",
+    "Los colegios abren de 9:00 a 20:00."
+  ],
+  "secciones": [
+    {
+      "titulo": "Paso a paso",
+      "bloques": [
+        {
+          "tipo": "pasos",
+          "items": [
+            {
+              "titulo": "Mira tu tarjeta censal",
+              "texto": "La recibirás en casa. En ella aparecen tu mesa y tu colegio electoral."
+            },
+            {
+              "titulo": "O consúltalo por internet",
+              "texto": "Entra en la [Sede Electrónica del INE](https://sede.ine.gob.es). Puedes identificarte con Cl@ve o hacer la consulta de mesa y local sin Cl@ve, indicando tu provincia, tu municipio y la inicial de tu primer apellido."
+            },
+            {
+              "titulo": "Prepara tu documento",
+              "texto": "Sirven el DNI, el pasaporte o el carné de conducir, siempre con fotografía."
+            },
+            {
+              "titulo": "Ve a votar el 29 de noviembre",
+              "texto": "Los colegios están abiertos de 9:00 a 20:00."
+            }
+          ]
+        },
+        {
+          "tipo": "aviso",
+          "titulo": "El documento tiene que llevar foto",
+          "texto": "Lleva el DNI, el pasaporte o el carné de conducir con fotografía. Sirven aunque estén caducados."
+        }
+      ]
+    },
+    {
+      "titulo": "Horario del 29 de noviembre",
+      "bloques": [
+        {
+          "tipo": "tabla",
+          "titulo": "Horario de los colegios el día de la votación",
+          "columnas": ["Hora", "Qué pasa"],
+          "filas": [
+            ["9:00", "Abren los colegios."],
+            ["20:00", "Cierran los colegios. Si a esa hora estás en la cola dentro del colegio, puedes votar."]
+          ]
+        }
+      ]
+    }
+  ],
+  "fuentes": [
+    { "texto": "Sede Electrónica del Instituto Nacional de Estadística (INE)", "url": "https://sede.ine.gob.es" },
+    { "texto": "Instituto Nacional de Estadística (INE)", "url": "https://www.ine.es" }
+  ],
+  "actualizado": "2026-10-10",
+  "pendiente": [
+    "Enlace directo a la consulta de mesa y local electoral del INE, con y sin Cl@ve. De momento se enlaza la portada de la Sede Electrónica."
+  ]
+}

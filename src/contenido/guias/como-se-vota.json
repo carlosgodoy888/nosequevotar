@@ -1,0 +1,93 @@
+{
+  "orden": 4,
+  "nombre": "Cómo se vota",
+  "titulo": "¿Cómo se vota el 29 de noviembre?",
+  "tituloSeo": "Cómo se vota al Congreso y al Senado",
+  "descripcion": "Votas dos veces el mismo día: al Congreso, con papeleta y sobre blancos, y al Senado, con papeleta y sobre sepia. Qué puedes marcar en cada uno.",
+  "resumen": "Dos votos el mismo día: Congreso con papeleta blanca y Senado con papeleta sepia.",
+  "entradilla": "Votas dos veces el mismo día: al Congreso, con una papeleta blanca en un sobre blanco, y al Senado, con una papeleta sepia en un sobre sepia.",
+  "esencial": [
+    "El mismo día votas al Congreso y al Senado.",
+    "Congreso: eliges la lista de un partido tal como viene, sin cambiar ni tachar nombres.",
+    "Senado: marcas a personas, que pueden ser de partidos distintos: hasta tres en una provincia, hasta dos en Gran Canaria, Mallorca, Tenerife, Ceuta y Melilla, y una en el resto de islas.",
+    "Puedes coger las papeletas en el colegio o llevar de casa las que te lleguen por correo."
+  ],
+  "secciones": [
+    {
+      "titulo": "Paso a paso",
+      "bloques": [
+        {
+          "tipo": "pasos",
+          "items": [
+            {
+              "titulo": "Prepara las papeletas",
+              "texto": "Cógelas en el colegio o lleva de casa las que te lleguen por correo."
+            },
+            {
+              "titulo": "Congreso: papeleta blanca",
+              "texto": "Elige la lista de un partido tal como viene. No puedes cambiar ni tachar nombres. Métela en el sobre blanco."
+            },
+            {
+              "titulo": "Senado: papeleta sepia",
+              "texto": "Marca a las personas que quieras, que pueden ser de partidos distintos: hasta tres en una provincia, hasta dos en Gran Canaria, Mallorca, Tenerife, Ceuta y Melilla, y una en el resto de islas. Métela en el sobre sepia."
+            },
+            {
+              "titulo": "Vota en tu mesa",
+              "texto": "Identifícate y deposita los sobres en las urnas."
+            }
+          ]
+        },
+        {
+          "tipo": "aviso",
+          "titulo": "No taches ni marques de más",
+          "texto": "En la papeleta del Congreso no puedes cambiar ni tachar nombres: el voto sería nulo. En la del Senado, si marcas más nombres de los permitidos donde votas, el voto también es nulo. Lo tienes en la guía [voto en blanco, nulo y abstención](/guia/voto-en-blanco/)."
+        }
+      ]
+    },
+    {
+      "titulo": "Congreso y Senado, comparados",
+      "bloques": [
+        {
+          "tipo": "tabla",
+          "titulo": "Diferencias entre el voto al Congreso y al Senado",
+          "columnas": ["", "Congreso", "Senado"],
+          "filas": [
+            ["Papeleta", "Blanca.", "Sepia."],
+            ["Qué eliges", "La lista de un partido, tal como viene.", "Personas, que pueden ser de partidos distintos: hasta tres en una provincia; hasta dos en Gran Canaria, Mallorca, Tenerife, Ceuta y Melilla; una en el resto de islas."],
+            ["Sobre", "Blanco.", "Sepia."],
+            ["Cuántos se eligen", "350 diputados.", "208 senadores."]
+          ]
+        },
+        {
+          "tipo": "caja",
+          "titulo": "Cómo se cuenta tu voto",
+          "items": [
+            "Tu voto se cuenta en tu provincia.",
+            "Solo entran en el reparto las listas con al menos el 3 % de los votos.",
+            "Los escaños se asignan con el método D'Hondt."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "El día de la votación",
+      "bloques": [
+        {
+          "tipo": "fechas",
+          "filas": [
+            { "id": "votacion" }
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Si no sabes cuál es tu colegio o qué documento llevar, mira la guía [dónde me toca votar](/guia/donde-voto/)."
+        }
+      ]
+    }
+  ],
+  "fuentes": [
+    { "texto": "Junta Electoral Central", "url": "https://www.juntaelectoralcentral.es" },
+    { "texto": "Real decreto de convocatoria, en el Boletín Oficial del Estado (PDF)", "url": "https://www.boe.es/boe/dias/2026/10/06/pdfs/BOE-A-2026-20742.pdf" }
+  ],
+  "actualizado": "2026-10-10"
+}

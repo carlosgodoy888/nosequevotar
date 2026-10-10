@@ -1,0 +1,35 @@
+<!doctype html>
+<!-- Fuente de src/estatico/og.png (1200 × 630) e icono-180.png (180 × 180).
+     Para regenerarlas, captura esta página con un navegador a esos tamaños:
+     #og para la imagen de compartir y #icono para el icono. -->
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Imagen para compartir</title>
+<style>
+  @font-face { font-family: "Archivo"; src: url("../estatico/fuentes/archivo.woff2") format("woff2"); font-weight: 100 900; }
+  @font-face { font-family: "Source Serif 4"; src: url("../estatico/fuentes/source-serif-4.woff2") format("woff2"); font-weight: 200 900; }
+  body { margin: 0; }
+  #og { position: relative; width: 1200px; height: 630px; box-sizing: border-box; background: #EFE3C8; color: #16181D; padding: 64px 80px 56px; display: flex; flex-direction: column; justify-content: space-between; font-family: "Archivo", sans-serif; }
+  #og::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 16px; background: repeating-linear-gradient(135deg, #16181D 0 6px, #EFE3C8 6px 14px); }
+  .marca { display: flex; align-items: center; gap: 18px; font: 800 40px/1 "Archivo", sans-serif; margin-top: 8px; }
+  .casilla { position: relative; width: 40px; height: 40px; border: 5px solid #16181D; box-sizing: border-box; background: #fff; }
+  .casilla::before, .casilla::after { content: ""; position: absolute; left: 2px; right: 2px; top: 50%; height: 5px; margin-top: -2.5px; background: #16181D; }
+  .casilla::before { transform: rotate(45deg); } .casilla::after { transform: rotate(-45deg); }
+  h1 { margin: 0; font: 900 92px/1.0 "Archivo", sans-serif; letter-spacing: -0.02em; max-width: 1000px; }
+  .pie { display: flex; justify-content: space-between; align-items: baseline; border-top: 3px solid #16181D; padding-top: 22px; font: 400 30px/1.2 "Source Serif 4", serif; }
+  .pie strong { font: 800 30px/1.2 "Archivo", sans-serif; }
+  #icono { width: 180px; height: 180px; background: #EFE3C8; display: flex; align-items: center; justify-content: center; }
+  #icono .casilla { width: 116px; height: 116px; border-width: 14px; }
+  #icono .casilla::before, #icono .casilla::after { height: 14px; margin-top: -7px; left: 4px; right: 4px; }
+</style>
+</head>
+<body>
+<div id="og">
+  <div class="marca"><span class="casilla"></span>No sé qué votar</div>
+  <h1>Todo lo que necesitas para votar, sin siglas.</h1>
+  <div class="pie"><strong>nosequevotar.es</strong><span>Elecciones generales · 29 de noviembre de 2026</span></div>
+</div>
+<div id="icono"><span class="casilla"></span></div>
+</body>
+</html>

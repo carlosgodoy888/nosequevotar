@@ -1,0 +1,92 @@
+{
+  "orden": 3,
+  "nombre": "Voto en blanco, nulo y abstención",
+  "titulo": "¿Qué diferencia hay entre voto en blanco, voto nulo y abstención?",
+  "tituloSeo": "Voto en blanco, nulo y abstención: diferencias",
+  "descripcion": "El voto en blanco es válido: en el Congreso, el sobre vacío; en el Senado, la papeleta sin marcar. El voto nulo y la abstención no cuentan en el reparto.",
+  "resumen": "El voto en blanco es válido: sobre vacío al Congreso, papeleta sin marcar al Senado.",
+  "entradilla": "Votar en blanco es meter el sobre del Congreso vacío o la papeleta del Senado sin marcar, y es un voto válido. El voto nulo y la abstención no cuentan en el reparto.",
+  "esencial": [
+    "Voto en blanco al Congreso: el sobre sin ninguna papeleta dentro. Al Senado: la papeleta sepia sin marcar a ningún candidato.",
+    "Un papel en blanco dentro del sobre no es voto en blanco: es voto nulo.",
+    "El voto en blanco es válido. En el Congreso cuenta para calcular el 3 % que necesita cada lista en la provincia.",
+    "El voto nulo y la abstención no cuentan para ningún partido."
+  ],
+  "secciones": [
+    {
+      "titulo": "Las tres opciones, comparadas",
+      "bloques": [
+        {
+          "tipo": "tabla",
+          "titulo": "Voto en blanco, voto nulo y abstención",
+          "columnas": ["Opción", "Qué es", "¿Es válido?", "Cómo cuenta"],
+          "filas": [
+            ["Voto en blanco", "En el Congreso, el sobre sin ninguna papeleta dentro. En el Senado, la papeleta sepia sin marcar a ningún candidato.", "Sí.", "En el Congreso, se suma al total sobre el que se calcula el 3 % que necesita cada lista en la provincia."],
+            ["Voto nulo", "Una papeleta rota, tachada o con añadidos, papeletas de partidos distintos en el mismo sobre o un papel en blanco dentro del sobre. En el Senado, marcar más candidatos de los permitidos.", "No.", "No cuenta para ningún partido ni para el 3 %."],
+            ["Abstención", "No votar.", "No es un voto.", "No entra en el reparto."]
+          ]
+        },
+        {
+          "tipo": "aviso",
+          "titulo": "Un papel en blanco anula tu voto",
+          "texto": "Meter un papel en blanco en el sobre no es voto en blanco: es voto nulo. Para votar en blanco al Congreso, el sobre tiene que ir vacío."
+        }
+      ]
+    },
+    {
+      "titulo": "Cómo votar en blanco",
+      "bloques": [
+        {
+          "tipo": "pasos",
+          "items": [
+            {
+              "titulo": "Congreso: deja el sobre blanco vacío",
+              "texto": "Ni papeleta ni papel en blanco: el sobre del Congreso va vacío."
+            },
+            {
+              "titulo": "Senado: no marques a nadie",
+              "texto": "Usa la papeleta sepia sin marcar a ningún candidato."
+            },
+            {
+              "titulo": "Entrega tus votos en la mesa",
+              "texto": "Identifícate y deposita los sobres en las urnas, como cualquier otro voto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Qué anula un voto",
+      "bloques": [
+        {
+          "tipo": "lista",
+          "items": [
+            "Una papeleta rota, tachada o con añadidos.",
+            "Papeletas de partidos distintos en el mismo sobre.",
+            "Un papel en blanco dentro del sobre.",
+            "En el Senado, marcar más nombres de los permitidos."
+          ]
+        },
+        {
+          "tipo": "tabla",
+          "titulo": "Cuántos nombres puedes marcar como máximo en la papeleta del Senado",
+          "columnas": ["Dónde votas", "Máximo de nombres", "Anula el voto"],
+          "filas": [
+            ["En una provincia", "3", "Marcar más de tres."],
+            ["En Gran Canaria, Mallorca, Tenerife, Ceuta o Melilla", "2", "Marcar más de dos."],
+            ["En el resto de islas", "1", "Marcar más de uno."]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Si quieres saber cómo se rellena cada papeleta, mira la guía [cómo se vota](/guia/como-se-vota/)."
+        }
+      ]
+    }
+  ],
+  "fuentes": [
+    { "texto": "Ley Orgánica del Régimen Electoral General, artículo 96, en el Boletín Oficial del Estado", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672" },
+    { "texto": "Junta Electoral Central", "url": "https://www.juntaelectoralcentral.es" }
+  ],
+  "actualizado": "2026-10-10"
+}

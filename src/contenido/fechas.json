@@ -1,0 +1,15 @@
+[
+  { "id": "convocatoria", "inicio": "2026-10-06", "texto": "Convocatoria de las elecciones y apertura del voto por correo." },
+  { "id": "censo", "inicio": "2026-10-12", "fin": "2026-10-19", "texto": "Consulta del censo electoral y reclamaciones.", "guia": "censo" },
+  { "id": "coaliciones", "inicio": "2026-10-16", "texto": "Último día para registrar coaliciones." },
+  { "id": "candidaturas", "inicio": "2026-10-21", "fin": "2026-10-26", "texto": "Presentación de candidaturas." },
+  { "id": "proclamadas", "inicio": "2026-11-03", "texto": "El Boletín Oficial del Estado (BOE) publica las candidaturas proclamadas." },
+  { "id": "envio-correo", "inicio": "2026-11-09", "texto": "Empieza el envío de la documentación del voto por correo.", "guia": "voto-por-correo" },
+  { "id": "campana", "inicio": "2026-11-13", "fin": "2026-11-27", "texto": "Campaña electoral." },
+  { "id": "pedir-correo", "inicio": "2026-11-19", "texto": "Último día para pedir el voto por correo.", "guia": "voto-por-correo" },
+  { "id": "sondeos", "inicio": "2026-11-24", "fin": "2026-11-28", "texto": "Prohibido publicar sondeos." },
+  { "id": "depositar-correo", "inicio": "2026-11-25", "texto": "Último día para depositar el voto por correo.", "guia": "voto-por-correo" },
+  { "id": "reflexion", "inicio": "2026-11-28", "texto": "Jornada de reflexión." },
+  { "id": "votacion", "inicio": "2026-11-29", "texto": "Votación. Los colegios abren de 9:00 a 20:00.", "guia": "como-se-vota" },
+  { "id": "constitucion", "inicio": "2026-12-23", "texto": "Se constituyen el Congreso y el Senado." }
+]

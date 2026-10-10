@@ -1,0 +1,93 @@
+{
+  "nombre": "No sé qué votar",
+  "url": "https://nosequevotar.es",
+  "correo": "hola@nosequevotar.es",
+  "actualizado": "2026-10-10",
+  "fuentesCalendario": [
+    { "texto": "Calendario electoral de la Junta Electoral Central (PDF)", "url": "https://www.juntaelectoralcentral.es/cs/jec/documentos/eg2026_calendario.pdf" },
+    { "texto": "Real decreto de convocatoria, en el Boletín Oficial del Estado (PDF)", "url": "https://www.boe.es/boe/dias/2026/10/06/pdfs/BOE-A-2026-20742.pdf" }
+  ],
+  "eleccion": {
+    "nombre": "Elecciones generales",
+    "fecha": "2026-11-29",
+    "diputados": 350,
+    "senadores": 208,
+    "horario": "de 9:00 a 20:00"
+  },
+  "menu": [
+    { "texto": "Guías para votar", "ruta": "/guia/" },
+    { "texto": "Calendario", "ruta": "/calendario/" },
+    { "texto": "Test", "ruta": "/test/" },
+    { "texto": "Temas", "ruta": "/temas/" },
+    { "texto": "Partidos", "ruta": "/partidos/" },
+    { "texto": "Método", "ruta": "/metodo/" }
+  ],
+  "pie": [
+    { "texto": "Método", "ruta": "/metodo/" },
+    { "texto": "Aviso legal", "ruta": "/aviso-legal/" },
+    { "texto": "Privacidad", "ruta": "/privacidad/" },
+    { "texto": "Cookies", "ruta": "/cookies/" }
+  ],
+  "pronto": [
+    {
+      "ruta": "/test/",
+      "titulo": "Test sin siglas",
+      "descripcion": "El test sin siglas de No sé qué votar: elige propuestas reales sin saber de qué partido son. Disponible muy pronto.",
+      "texto": "Leerás propuestas reales sin saber de quién son, marcarás las que te convencen y al final verás quién firmaba cada una. Lo abrimos muy pronto."
+    },
+    {
+      "ruta": "/resultado/",
+      "titulo": "Resultado del test",
+      "descripcion": "Aquí verás el resultado del test sin siglas de No sé qué votar. Disponible muy pronto.",
+      "texto": "Aquí verás con qué partidos coincides más después de hacer el test. Lo abrimos muy pronto."
+    },
+    {
+      "ruta": "/reto/",
+      "titulo": "Reto",
+      "descripcion": "El reto de No sé qué votar: adivina quién firma cada propuesta. Disponible muy pronto.",
+      "texto": "Un juego corto para adivinar quién firma cada propuesta. Lo abrimos muy pronto."
+    },
+    {
+      "ruta": "/temas/",
+      "titulo": "Temas",
+      "descripcion": "Fichas por tema con las propuestas de los partidos, con cita y página del programa. Disponible muy pronto.",
+      "texto": "Fichas por tema con lo que propone cada partido, con la cita y la página de su programa. Las publicamos muy pronto."
+    },
+    {
+      "ruta": "/partidos/",
+      "titulo": "Partidos",
+      "descripcion": "Fichas de los partidos que se presentan a las elecciones generales del 29 de noviembre de 2026. Disponible muy pronto.",
+      "texto": "Una ficha por partido con sus propuestas y sus fuentes. Las publicamos muy pronto."
+    },
+    {
+      "ruta": "/provincias/",
+      "titulo": "Provincias",
+      "descripcion": "Qué candidaturas se presentan en cada provincia en las elecciones generales del 29 de noviembre de 2026. Disponible muy pronto.",
+      "texto": "Una página por provincia con las candidaturas que se presentan en ella. La publicamos muy pronto."
+    },
+    {
+      "ruta": "/metodo/",
+      "titulo": "Método",
+      "descripcion": "Cómo elige y redacta No sé qué votar las propuestas, y cómo pedir una corrección. Disponible muy pronto.",
+      "texto": "Cómo elegimos y redactamos las propuestas, y cómo pedir una corrección. Lo publicamos muy pronto."
+    },
+    {
+      "ruta": "/aviso-legal/",
+      "titulo": "Aviso legal",
+      "descripcion": "Aviso legal de No sé qué votar. Disponible muy pronto.",
+      "texto": "Estamos preparando el aviso legal. Mientras tanto, puedes escribirnos para cualquier consulta."
+    },
+    {
+      "ruta": "/privacidad/",
+      "titulo": "Privacidad",
+      "descripcion": "Política de privacidad de No sé qué votar. Disponible muy pronto.",
+      "texto": "Estamos preparando la política de privacidad. Mientras tanto, puedes escribirnos para cualquier consulta."
+    },
+    {
+      "ruta": "/cookies/",
+      "titulo": "Cookies",
+      "descripcion": "Política de cookies de No sé qué votar. Disponible muy pronto.",
+      "texto": "Estamos preparando la política de cookies. Hoy esta web no usa cookies."
+    }
+  ]
+}

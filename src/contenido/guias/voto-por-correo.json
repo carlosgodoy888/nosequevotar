@@ -1,0 +1,88 @@
+{
+  "orden": 1,
+  "nombre": "Voto por correo",
+  "titulo": "¿Cómo voto por correo?",
+  "tituloSeo": "Cómo votar por correo el 29 de noviembre",
+  "descripcion": "Pide el voto por correo hasta el 19 de noviembre, por internet o en una oficina de Correos, y entrégalo hasta el 25 de noviembre. Plazos y pasos.",
+  "resumen": "Pídelo hasta el 19 de noviembre y entrégalo en Correos hasta el 25 de noviembre.",
+  "entradilla": "Pídelo en Correos hasta el 19 de noviembre, por internet o en una oficina, y entrega tu voto en una oficina de Correos hasta el 25 de noviembre.",
+  "esencial": [
+    "Puedes pedirlo del 6 de octubre al 19 de noviembre.",
+    "Se pide por internet, en la web de Correos, o en persona, en cualquier oficina de Correos. Por internet necesitas certificado digital o el documento nacional de identidad (DNI) electrónico, y la aplicación AutoFirma instalada.",
+    "La documentación te llega a partir del 9 de noviembre a la dirección que elijas.",
+    "Tu voto se entrega en una oficina de Correos hasta el 25 de noviembre."
+  ],
+  "secciones": [
+    {
+      "titulo": "Paso a paso",
+      "bloques": [
+        {
+          "tipo": "pasos",
+          "items": [
+            {
+              "titulo": "Pide el voto por correo",
+              "texto": "Tienes del 6 de octubre al 19 de noviembre. Hazlo por internet, en la [web de Correos](https://www.correos.es): necesitas certificado digital o DNI electrónico, y la aplicación AutoFirma instalada. También puedes ir en persona a cualquier oficina de Correos."
+            },
+            {
+              "titulo": "Recibe la documentación",
+              "texto": "Te la envían a partir del 9 de noviembre a la dirección que indiques al pedirlo. No tiene por qué ser tu domicilio."
+            },
+            {
+              "titulo": "Entrega tu voto",
+              "texto": "Llévalo a una oficina de Correos hasta el 25 de noviembre. Tienes que ir en persona y con tu documento de identidad."
+            }
+          ]
+        },
+        {
+          "tipo": "aviso",
+          "titulo": "Si lo pides, ya no puedes votar en tu mesa",
+          "texto": "Una vez aceptada tu solicitud, ya no puedes votar en tu mesa el 29 de noviembre, aunque no llegues a enviar el voto."
+        }
+      ]
+    },
+    {
+      "titulo": "Fechas del voto por correo",
+      "bloques": [
+        {
+          "tipo": "fechas",
+          "filas": [
+            { "id": "convocatoria", "texto": "Se abre el plazo para pedir el voto por correo." },
+            { "id": "envio-correo" },
+            { "id": "pedir-correo" },
+            { "id": "depositar-correo" },
+            { "id": "votacion", "texto": "Votación. Si pediste el voto por correo, ya no puedes votar en tu mesa." }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Si no puedes ir a entregarlo",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Otra persona puede entregar tu voto en Correos. Necesita tres cosas:"
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            "Una autorización firmada por ti.",
+            "Una fotocopia de tu documento de identidad.",
+            "Una fotocopia de su propio documento de identidad."
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Correos ofrece un modelo de autorización."
+        }
+      ]
+    }
+  ],
+  "fuentes": [
+    { "texto": "Correos", "url": "https://www.correos.es" },
+    { "texto": "Calendario electoral de la Junta Electoral Central (PDF)", "url": "https://www.juntaelectoralcentral.es/cs/jec/documentos/eg2026_calendario.pdf" }
+  ],
+  "actualizado": "2026-10-10",
+  "pendiente": [
+    "Enlace directo a la página de Correos para pedir el voto y al modelo de autorización. De momento se enlaza la portada de Correos."
+  ]
+}

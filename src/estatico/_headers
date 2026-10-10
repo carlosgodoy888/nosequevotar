@@ -1,0 +1,17 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# Los juegos nunca cargan nada de terceros: solo recursos del propio dominio.
+/test/
+  Content-Security-Policy: default-src 'self'
+/test/*
+  Content-Security-Policy: default-src 'self'
+/resultado/
+  Content-Security-Policy: default-src 'self'
+/resultado/*
+  Content-Security-Policy: default-src 'self'
+/reto/
+  Content-Security-Policy: default-src 'self'
+/reto/*
+  Content-Security-Policy: default-src 'self'

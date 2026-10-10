@@ -4,3 +4,6 @@ node_modules/
 .dev.vars
 .env
 *.log
+
+# Se genera con node scripts/construir.mjs (en local y en GitHub Actions)
+public/

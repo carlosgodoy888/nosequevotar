@@ -1,0 +1,79 @@
+{
+  "orden": 5,
+  "nombre": "Comprueba que estás en el censo",
+  "titulo": "Comprueba que estás en el censo",
+  "tituloSeo": "Comprueba si estás en el censo electoral",
+  "descripcion": "Consulta si estás en el censo electoral y reclama del 12 al 19 de octubre en tu ayuntamiento o en la Sede Electrónica del INE. Vale el censo a 1 de agosto.",
+  "resumen": "Consulta y reclama del 12 al 19 de octubre en tu ayuntamiento o en el INE.",
+  "entradilla": [
+    {
+      "hasta": "2026-10-11",
+      "texto": "Podrás consultarlo y reclamar del 12 al 19 de octubre, en tu ayuntamiento o en la Sede Electrónica del Instituto Nacional de Estadística (INE)."
+    },
+    {
+      "desde": "2026-10-12",
+      "hasta": "2026-10-19",
+      "texto": "Puedes consultarlo y reclamar hasta el 19 de octubre, en tu ayuntamiento o en la Sede Electrónica del Instituto Nacional de Estadística (INE)."
+    },
+    {
+      "desde": "2026-10-20",
+      "texto": "El plazo para reclamar terminó el 19 de octubre. La consulta se hace en tu ayuntamiento o en la Sede Electrónica del Instituto Nacional de Estadística (INE)."
+    }
+  ],
+  "esencial": [
+    "El censo electoral es la lista de personas que pueden votar.",
+    "En estas elecciones vale el censo cerrado a 1 de agosto de 2026.",
+    "Se consulta en tu ayuntamiento o en la Sede Electrónica del INE.",
+    "El plazo para consultarlo y reclamar es del 12 al 19 de octubre."
+  ],
+  "secciones": [
+    {
+      "titulo": "Paso a paso",
+      "bloques": [
+        {
+          "tipo": "aviso",
+          "desde": "2026-10-20",
+          "titulo": "El plazo de reclamación ha terminado",
+          "texto": "Las reclamaciones se podían presentar del 12 al 19 de octubre."
+        },
+        {
+          "tipo": "pasos",
+          "items": [
+            {
+              "titulo": "Consulta tus datos",
+              "texto": "Hazlo en tu ayuntamiento o en la página de [trámites del censo electoral](https://sede.ine.gob.es/tramite/censo_electoral/) de la Sede Electrónica del INE."
+            },
+            {
+              "titulo": "Reclama si hay un error",
+              "texto": "Si no apareces o tus datos están mal, puedes reclamar del 12 al 19 de octubre en tu ayuntamiento o en la Sede Electrónica del INE."
+            }
+          ]
+        },
+        {
+          "tipo": "aviso",
+          "hasta": "2026-10-19",
+          "titulo": "Solo hay una semana para reclamar",
+          "texto": "Las reclamaciones se presentan del 12 al 19 de octubre. Comprueba tus datos dentro de ese plazo."
+        }
+      ]
+    },
+    {
+      "titulo": "Fechas del censo",
+      "bloques": [
+        {
+          "tipo": "fechas",
+          "filas": [
+            { "inicio": "2026-08-01", "texto": "Cierre del censo que vale para estas elecciones." },
+            { "id": "censo" }
+          ]
+        }
+      ]
+    }
+  ],
+  "fuentes": [
+    { "texto": "Trámites del censo electoral, en la Sede Electrónica del INE", "url": "https://sede.ine.gob.es/tramite/censo_electoral/" },
+    { "texto": "Instituto Nacional de Estadística (INE)", "url": "https://www.ine.es" },
+    { "texto": "Junta Electoral Central", "url": "https://www.juntaelectoralcentral.es" }
+  ],
+  "actualizado": "2026-10-10"
+}
