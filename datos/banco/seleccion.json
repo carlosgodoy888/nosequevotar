@@ -73,7 +73,7 @@
     "t2023-pensiones-bildu-2": "Reserva sobre la edad de jubilación.",
     "t2023-pensiones-bng-2": "Reserva sobre la edad de jubilación.",
     "t2023-pensiones-cc-2": "Reserva sobre un pacto de Estado de pensiones.",
-    "t2023-sanidad-pp-1": "El PP no tiene propuestas sobre listas de espera; se usa su plan de choque en atención primaria.",
+    "t2023-sanidad-pp-1": "El PP no tiene propuestas sobre listas de espera; se usa su plan urgente en atención primaria.",
     "t2023-sanidad-pp-2": "Reserva sobre plazas de formación de médicos de familia.",
     "t2023-sanidad-vox-2": "Reserva sobre inversión en atención primaria.",
     "t2023-sanidad-sumar-2": "Reserva sobre gestión pública.",
@@ -89,7 +89,8 @@
     "t2023-sanidad-bng-2": "Reserva sobre el copago farmacéutico.",
     "t2023-sanidad-cc-1": "Coalición Canaria no tiene propuestas sobre listas de espera; se usa la de salud mental.",
     "t2023-sanidad-cc-2": "Reserva sobre la financiación sanitaria del Estado.",
-    "t2023-vivienda-vox-2": "Reserva sobre suelo (oferta), no directamente sobre el precio de acceso."
+    "t2023-vivienda-vox-2": "Reserva sobre suelo (oferta), no directamente sobre el precio de acceso.",
+    "t2023-impuestos-pp-2": "Reserva sobre el impuesto a las grandes fortunas."
   },
   "tarjetas": [
     {
@@ -166,7 +167,7 @@
       ],
       "uso": "reserva",
       "candidata": "sumar-vivienda#23",
-      "texto": "Fijar en zonas tensionadas precios de referencia del alquiler iguales al 30 % de la renta de los hogares. Quien los supere perdería deducciones del impuesto sobre la renta (IRPF) y las empresas, un recargo en sociedades."
+      "texto": "Fijar en zonas tensionadas precios de referencia del alquiler del 30 % de la renta de los hogares. Superarlos quitaría deducciones del impuesto sobre la renta (IRPF) y supondría un recargo en sociedades para fondos y empresas."
     },
     {
       "tema": "vivienda",
@@ -227,7 +228,7 @@
       ],
       "uso": "reserva",
       "candidata": "pnv-vivienda#3",
-      "texto": "Defender un equilibrio entre la persona inquilina y la propietaria que asegure los derechos de ambas partes."
+      "texto": "Defender un equilibrio entre inquilinos y propietarios de vivienda que asegure los derechos de ambas partes."
     },
     {
       "tema": "vivienda",
@@ -283,10 +284,11 @@
       ],
       "uso": "reserva",
       "candidata": "pp-impuestos#4",
-      "texto": "Simplificar el impuesto sobre la renta (IRPF) y el de sociedades para las pequeñas y medianas empresas. Sobre todo, para las que tienen pérdidas o aumentan su plantilla indefinida.",
+      "texto": "Eliminar el impuesto a las grandes fortunas, que pagan quienes tienen los patrimonios más altos.",
       "omitido": {
-        "nota": "La cita junta dos medidas; se recoge la simplificación del IRPF y de sociedades para pymes (ahora dentro del eje) y se omite eliminar el impuesto a las grandes fortunas, que sola no llega a 15 palabras."
-      }
+        "nota": "La cita junta dos medidas; se recoge la principal (eliminar el impuesto a las grandes fortunas) y se omite simplificar el IRPF y el impuesto de sociedades para pymes. «Que pagan quienes tienen los patrimonios más altos» explica qué es el impuesto."
+      },
+      "fueraDeEje": true
     },
     {
       "tema": "impuestos",
@@ -295,7 +297,7 @@
       ],
       "uso": "test",
       "candidata": "psoe-impuestos#16",
-      "texto": "Aumentar en el impuesto sobre la renta (IRPF) el mínimo por hijos y por personas dependientes."
+      "texto": "Aumentar en el impuesto sobre la renta (IRPF) el mínimo por descendientes y por personas dependientes."
     },
     {
       "tema": "impuestos",
@@ -331,7 +333,7 @@
       "uso": "reserva",
       "fueraDeEje": true,
       "candidata": "vox-impuestos#15",
-      "texto": "Suprimir en toda España los impuestos sobre el patrimonio y sobre sucesiones y donaciones. También la plusvalía municipal, que cobran los ayuntamientos al vender un inmueble."
+      "texto": "Suprimir en toda España los impuestos sobre el patrimonio y sobre sucesiones y donaciones. También la plusvalía municipal, que cobran los ayuntamientos cuando se vende, se hereda o se dona un inmueble urbano."
     },
     {
       "tema": "impuestos",
@@ -474,9 +476,9 @@
       ],
       "uso": "test",
       "candidata": "pp-inmigracion#4",
-      "texto": "Reforzar la inspección en las fronteras con más personal y mejor formado, e impulsar la implantación de los nuevos sistemas europeos de control fronterizo.",
+      "texto": "Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos registros europeos de entradas y salidas de viajeros.",
       "omitido": {
-        "nota": "Se omite la coordinación y participación en las actividades de FRONTEX, y los dos sistemas europeos se nombran juntos."
+        "nota": "Se recoge el refuerzo de la inspección y el registro europeo de entradas y salidas. Se omiten el Sistema Europeo de Información y Autorización de Viaje y la coordinación y participación en las actividades de FRONTEX."
       }
     },
     {
@@ -532,7 +534,7 @@
       ],
       "uso": "test",
       "candidata": "sumar-inmigracion#19",
-      "texto": "Castigar como delito la devolución sumaria en la frontera y eliminar la disposición de la ley de extranjería que permite esta práctica.",
+      "texto": "Convertir en delito la devolución sumaria en la frontera y suprimir la disposición de la ley de extranjería que permite esta práctica.",
       "omitido": {
         "nota": "Se recoge la medida principal y se omiten el monitoreo independiente de derechos humanos en la frontera sur, la referencia a Melilla en junio de 2022 y la depuración de responsabilidades.",
         "cifras": [
@@ -640,9 +642,9 @@
       "uso": "test",
       "candidata": "bng-inmigracion#4",
       "traduccion": "Cierre de los Centros de Internamiento para Extranjeros (CIE) en el Estado español y fin de las deportaciones, garantizando el respeto escrupuloso de los derechos humanos de la población migrante, refugiada y/o solicitante de asilo.",
-      "texto": "Cerrar los centros de internamiento de extranjeros (CIE) en España y poner fin a las deportaciones.",
+      "texto": "Cerrar los centros de internamiento de extranjeros (CIE) en España y poner fin a las expulsiones.",
       "omitido": {
-        "nota": "Cerrar los CIE y poner fin a las deportaciones no se separan: los CIE existen para ejecutar deportaciones. Se omite «garantindo o respecto escrupuloso dos dereitos humanos…», que es un objetivo general."
+        "nota": "Cerrar los CIE y poner fin a las expulsiones no se separan: los CIE existen para ejecutar expulsiones. Se omite «garantindo o respecto escrupuloso dos dereitos humanos…», que es un objetivo general."
       }
     },
     {
@@ -688,7 +690,7 @@
       ],
       "uso": "test",
       "candidata": "pp-empleo#4",
-      "texto": "Actualizar el salario mínimo interprofesional (SMI) en el marco del diálogo social, involucrando a sindicatos, empresarios y personas expertas en las decisiones."
+      "texto": "Actualizar el salario mínimo interprofesional (SMI) dentro del diálogo social, con participación de sindicatos, empresarios y expertos."
     },
     {
       "tema": "empleo",
@@ -725,9 +727,9 @@
       ],
       "uso": "test",
       "candidata": "vox-empleo#0",
-      "texto": "Impulsar la subida de todos los salarios, sobre todo los más bajos, reduciendo de forma drástica las cargas y la regulación sobre las empresas.",
+      "texto": "Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y las normas para las empresas.",
       "omitido": {
-        "nota": "La subida de salarios y la reducción de cargas no se separan: la cita presenta la segunda como el medio de la primera. Sola, la subida no llega a 15 palabras. Se omite la justificación («para que ello no conlleve una destrucción de empleo»)."
+        "nota": "La cita tiene dos medidas en dos frases: subir los salarios y reducir las cargas y la regulación de las empresas. Se recogen las dos porque la subida sola no llega a 15 palabras. Se omite la justificación de la segunda («para que ello no conlleve una destrucción de empleo») y el adjetivo «abusiva»."
       }
     },
     {
@@ -909,9 +911,9 @@
       "uso": "reserva",
       "fueraDeEje": true,
       "candidata": "pp-pensiones#2",
-      "texto": "Dar más transparencia y accesibilidad al sistema de pensiones, para que todos los trabajadores puedan consultar con más sencillez una estimación de su pensión futura.",
+      "texto": "Impulsar la contributividad del sistema de pensiones, es decir, que la pensión dependa más de lo cotizado durante la vida laboral.",
       "omitido": {
-        "nota": "Se omite la primera medida de la cita: impulsar la contributividad del sistema."
+        "nota": "La cita junta dos medidas; se recoge la principal (la contributividad) y se omite dar más transparencia y accesibilidad al sistema para consultar la pensión futura."
       }
     },
     {
@@ -921,7 +923,7 @@
       ],
       "uso": "test",
       "candidata": "psoe-pensiones#0",
-      "texto": "Reformar la Constitución para garantizar que todas las pensiones mantengan su poder adquisitivo según el índice de precios de consumo (IPC), en cualquier circunstancia."
+      "texto": "Reformar la Constitución para que todas las pensiones se revaloricen siempre según el índice de precios de consumo (IPC)."
     },
     {
       "tema": "pensiones",
@@ -1116,7 +1118,7 @@
       "uso": "test",
       "fueraDeEje": true,
       "candidata": "pp-sanidad#0",
-      "texto": "Promover un plan de choque en atención primaria para resolver la falta de especialistas en ese nivel asistencial."
+      "texto": "Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria."
     },
     {
       "tema": "sanidad",
@@ -1153,7 +1155,7 @@
       ],
       "uso": "test",
       "candidata": "vox-sanidad#8",
-      "texto": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos. Para ello, incentivar a los centros públicos y reforzar los conciertos con la sanidad privada."
+      "texto": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos, con incentivos a los centros públicos y más conciertos con centros privados."
     },
     {
       "tema": "sanidad",
@@ -1224,7 +1226,7 @@
       "fueraDeEje": true,
       "candidata": "junts-sanidad#3",
       "traduccion": "Poder ampliar el número de plazas MIR para poder abastecer de médicos especialistas al sistema público de salud de Cataluña.",
-      "texto": "Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud de su comunidad tenga especialistas."
+      "texto": "Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud autonómico tenga especialistas."
     },
     {
       "tema": "sanidad",
@@ -1320,7 +1322,7 @@
       "uso": "test",
       "fueraDeEje": true,
       "candidata": "cc-sanidad#3",
-      "texto": "Pedir que el Gobierno del Estado aumente la partida que transfiere a su comunidad autónoma para la atención a la salud mental."
+      "texto": "Pedir que el Gobierno central aumente la partida que transfiere a la comunidad autónoma para la atención a la salud mental."
     },
     {
       "tema": "sanidad",
@@ -1717,8 +1719,8 @@
     {
       "id": "t2023-sanidad-junts-1",
       "original": "el sistema públic de salut a Catalunya",
-      "usado": "el sistema público de salud de su comunidad",
-      "motivo": "Territorio propio; el sentido no cambia."
+      "usado": "el sistema público de salud autonómico",
+      "motivo": "Territorio propio; «autonómico» mantiene el alcance sin el posesivo."
     },
     {
       "id": "t2023-sanidad-bng-1",
@@ -1735,7 +1737,7 @@
     {
       "id": "t2023-sanidad-cc-1",
       "original": "la partida que transfiere a Canarias",
-      "usado": "la partida que transfiere a su comunidad autónoma",
+      "usado": "la comunidad autónoma",
       "motivo": "Territorio propio; el sentido no cambia."
     },
     {
@@ -1761,6 +1763,36 @@
       "original": "la pràctica il·legal de les devolucions en calent",
       "usado": "las devoluciones en caliente",
       "motivo": "«Ilegal» es la valoración de la propuesta."
+    },
+    {
+      "id": "t2023-inmigracion-bng-1",
+      "original": "fin das deportacións",
+      "usado": "poner fin a las expulsiones",
+      "motivo": "«Deportaciones» es un término marcado; «expulsión» es el término legal. El sentido no cambia."
+    },
+    {
+      "id": "t2023-empleo-vox-1",
+      "original": "reduciremos drásticamente",
+      "usado": "reducir en gran medida",
+      "motivo": "«De forma drástica» se leía como favorable; «en gran medida» mantiene la intensidad."
+    },
+    {
+      "id": "t2023-sanidad-pp-1",
+      "original": "PLAN DE CHOQUE",
+      "usado": "plan urgente",
+      "motivo": "Expresión de campaña."
+    },
+    {
+      "id": "t2023-pensiones-psoe-1",
+      "original": "ante cualquier circunstancia",
+      "usado": "siempre",
+      "motivo": "La coletilla se leía como favorable; «siempre» mantiene el alcance."
+    },
+    {
+      "id": "t2023-sanidad-cc-1",
+      "original": "el Gobierno del Estado",
+      "usado": "el Gobierno central",
+      "motivo": "«Gobierno del Estado» es propio de una sensibilidad concreta; «Gobierno central» es la expresión neutra."
     }
   ],
   "resumenAutorrevision": "Resultado por criterio, además de los cambios del registro: **fidelidad**: 6 cambios (verbos más fuertes que la cita y alcances recortados o añadidos); **neutralidad y lenguaje cargado**: 1 cambio en esta pasada; las sustituciones hechas al redactar están en la tabla de abajo; **legibilidad**: 2 cambios (jerga y una expresión ambigua); todas las frases tienen 25 palabras o menos y todas las siglas se explican la primera vez (lo comprueba generar.mjs); **lectura a ciegas** de los 24 textos de PP, PSOE, Vox y Sumar: sin cambios. No encontré palabras ni giros que delaten al partido por el estilo; lo que puede delatar es el contenido (expulsión inmediata, IVA cero, 32 horas), que es lo que el test compara. Se evitaron «blindar», «efecto llamada», «ilegal» aplicado a personas y nombres de programas. Todas las tarjetas siguen el mismo patrón (infinitivo y una segunda frase con el cómo o a quién afecta) y el mismo registro; **equilibrio**: 2 cambios para que en cada tema la tarjeta de test más larga y la más corta no se separen más de 10 palabras (lo comprueba generar.mjs). Las tarjetas vagas porque el programa es vago se han dejado vagas (tabla de abajo). Único aviso de generar.mjs: «mafias» (PSOE, inmigración). Se mantiene: es la palabra de la cita, es descriptiva y la usan programas de bloques distintos.",
@@ -2361,8 +2393,90 @@
     }
   ],
   "decididas": [
-    "Eje de sanidad: se mantiene «listas de espera». El PP va con su propuesta más cercana del tema (plan de choque en atención primaria), fuera de eje.",
+    "Eje de sanidad: se mantiene «listas de espera». El PP va con su propuesta más cercana del tema (plan urgente en atención primaria), fuera de eje.",
     "Coalición Canaria en impuestos: sin tarjeta. «Una isla concreta» cambia el sentido de una medida pensada para La Palma; queda como «sin propuesta neutralizable».",
     "Tarjeta compartida de devoluciones en caliente: separada en tres (ERC, Junts y Bildu), cada una con su cita, su página, su enlace y sus detalles. Regla desde ahora: una tarjeta = un partido = una cita (lo comprueba generar.mjs)."
+  ],
+  "pasada3": [
+    {
+      "id": "t2023-vivienda-sumar-2",
+      "antes": "Fijar en zonas tensionadas precios de referencia del alquiler iguales al 30 % de la renta de los hogares. Quien los supere perdería deducciones del impuesto sobre la renta (IRPF) y las empresas, un recargo en sociedades.",
+      "motivo": "Prueba 2 (los tres revisores): la elipsis «y las empresas, un recargo» se leía al revés que la cita y omitía a los fondos."
+    },
+    {
+      "id": "t2023-vivienda-pnv-2",
+      "antes": "Defender un equilibrio entre la persona inquilina y la propietaria que asegure los derechos de ambas partes.",
+      "motivo": "Prueba 2 (C): «la persona inquilina» se leía como rasgo de estilo."
+    },
+    {
+      "id": "t2023-impuestos-pp-2",
+      "antes": "Simplificar el impuesto sobre la renta (IRPF) y el de sociedades para las pequeñas y medianas empresas. Sobre todo, para las que tienen pérdidas o aumentan su plantilla indefinida.",
+      "motivo": "Prueba 2 (los tres revisores): faltaba la medida principal de la cita."
+    },
+    {
+      "id": "t2023-impuestos-psoe-1",
+      "antes": "Aumentar en el impuesto sobre la renta (IRPF) el mínimo por hijos y por personas dependientes.",
+      "motivo": "Prueba 2 (A): «hijos» estrechaba el alcance; «descendientes» es el término de la cita y del impuesto."
+    },
+    {
+      "id": "t2023-impuestos-vox-2",
+      "antes": "Suprimir en toda España los impuestos sobre el patrimonio y sobre sucesiones y donaciones. También la plusvalía municipal, que cobran los ayuntamientos al vender un inmueble.",
+      "motivo": "Prueba 2 (A): la explicación «al vender un inmueble» era incompleta; la plusvalía municipal también se paga al heredar o donar."
+    },
+    {
+      "id": "t2023-inmigracion-pp-1",
+      "antes": "Reforzar la inspección en las fronteras con más personal y mejor formado, e impulsar la implantación de los nuevos sistemas europeos de control fronterizo.",
+      "motivo": "Prueba 1 (T24): «la implantación de los nuevos sistemas europeos de control fronterizo» sonaba a lenguaje de gestión."
+    },
+    {
+      "id": "t2023-inmigracion-sumar-1",
+      "antes": "Castigar como delito la devolución sumaria en la frontera y eliminar la disposición de la ley de extranjería que permite esta práctica.",
+      "motivo": "Prueba 1 (T3): «castigar como delito» se leía como desfavorable. La cita dice «tipificaremos el delito»."
+    },
+    {
+      "id": "t2023-inmigracion-bng-1",
+      "antes": "Cerrar los centros de internamiento de extranjeros (CIE) en España y poner fin a las deportaciones.",
+      "motivo": "Prueba 2 (A): «deportaciones» es un término marcado; «expulsiones» es el término legal y no cambia el sentido."
+    },
+    {
+      "id": "t2023-empleo-pp-1",
+      "antes": "Actualizar el salario mínimo interprofesional (SMI) en el marco del diálogo social, involucrando a sindicatos, empresarios y personas expertas en las decisiones.",
+      "motivo": "Prueba 1 (T1): el gerundio «involucrando a…» delataba. Redacción decidida por el responsable del proyecto."
+    },
+    {
+      "id": "t2023-empleo-vox-1",
+      "antes": "Impulsar la subida de todos los salarios, sobre todo los más bajos, reduciendo de forma drástica las cargas y la regulación sobre las empresas.",
+      "motivo": "Prueba 1 (T18): «reduciendo de forma drástica» se leía como favorable y delataba. En la cita son dos frases y dos medidas; la rebaja no es el medio para subir sueldos, sino para no destruir empleo."
+    },
+    {
+      "id": "t2023-pensiones-pp-2",
+      "antes": "Dar más transparencia y accesibilidad al sistema de pensiones, para que todos los trabajadores puedan consultar con más sencillez una estimación de su pensión futura.",
+      "motivo": "Prueba 2 (los tres revisores): faltaba la medida principal de la cita."
+    },
+    {
+      "id": "t2023-pensiones-psoe-1",
+      "antes": "Reformar la Constitución para garantizar que todas las pensiones mantengan su poder adquisitivo según el índice de precios de consumo (IPC), en cualquier circunstancia.",
+      "motivo": "Prueba 1 (T20): «en cualquier circunstancia» se leía como favorable desde los dos lados."
+    },
+    {
+      "id": "t2023-sanidad-pp-1",
+      "antes": "Promover un plan de choque en atención primaria para resolver la falta de especialistas en ese nivel asistencial.",
+      "motivo": "Prueba 1 (T11): «plan de choque» es expresión de campaña y «ese nivel asistencial» era jerga. Redacción decidida por el responsable del proyecto."
+    },
+    {
+      "id": "t2023-sanidad-vox-1",
+      "antes": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos. Para ello, incentivar a los centros públicos y reforzar los conciertos con la sanidad privada.",
+      "motivo": "Prueba 1 (T7): «Para ello» presentaba los conciertos con la privada como la solución."
+    },
+    {
+      "id": "t2023-sanidad-junts-1",
+      "antes": "Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud de su comunidad tenga especialistas.",
+      "motivo": "Prueba 2 (A y B): «su comunidad» delataba a un partido de ámbito autonómico."
+    },
+    {
+      "id": "t2023-sanidad-cc-1",
+      "antes": "Pedir que el Gobierno del Estado aumente la partida que transfiere a su comunidad autónoma para la atención a la salud mental.",
+      "motivo": "Prueba 2 (A y B): «su comunidad autónoma» delataba; se quita el posesivo, como en Junts. Además, «el Gobierno del Estado» pasa a «el Gobierno central», la expresión neutra."
+    }
   ]
 }

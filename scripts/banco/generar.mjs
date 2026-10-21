@@ -313,6 +313,15 @@ ${tabla(['Tarjeta', 'Antes', 'Después', 'Motivo'], [...(sel.pasada2 || []).map(
     return [r.id, celdaMd(r.antes), `${celdaMd(t.texto)} (${palabras(t.texto)} palabras)`, celdaMd(`${r.motivo}${r.nuevaCita ? ' (cita nueva)' : ''}`)];
   }), ...(sel.pasada2Retiradas || []).map(r => [r.id, celdaMd(r.antes), '(retirada)', celdaMd(r.motivo)])])}
 
+### Tercera pasada: comprobaciones con agentes
+
+Cambios decididos por el responsable del proyecto a partir de datos/banco/ia/PRUEBA-AGENTES.md y REVISION-IA.md. Se cambiaron ${(sel.pasada3 || []).length} tarjetas.
+
+${(sel.pasada3 || []).length ? tabla(['Tarjeta', 'Antes', 'Después', 'Motivo'], sel.pasada3.map(r => {
+    const t = tarjetas.find(x => x.id === r.id);
+    return [r.id, celdaMd(r.antes), `${celdaMd(t.texto)} (${palabras(t.texto)} palabras)`, celdaMd(r.motivo)];
+  })) : 'Sin cambios.'}
+
 ### Partes omitidas (una medida por tarjeta)
 
 ${tabla(['Tarjeta', 'Qué se omite y por qué', 'Cifras de la cita que no están en el texto'], tarjetas.filter(t => t.omitido).map(t => [t.id, celdaMd(t.omitido.nota), (t.omitido.cifras || []).join(', ') || '—']))}

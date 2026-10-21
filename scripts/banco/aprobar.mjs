@@ -9,12 +9,16 @@
 // - si los dos marcan delata = si, queda «para reescribir» (no pasa);
 // - si solo uno marca delata = si, pasa, con aviso;
 // - si se rechaza la de test y se aprueba la de reserva, la reserva pasa a test;
-// - si un partido se queda sin ninguna tarjeta aprobada en un tema donde la tenía, falla.
+// - si un partido se queda sin ninguna tarjeta aprobada en un tema donde la tenía, falla;
+// - si una reserva pasa a test y su tema queda con más de 10 palabras de diferencia entre la tarjeta de test
+//   más larga y la más corta, avisa (no falla: se corrige a mano y se vuelve a revisar).
 // Escribe src/contenido/juegos/banco-2023.json (solo si no falla) y datos/banco/APROBACION.md (siempre).
 
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { join, dirname, relative, resolve } from 'node:path';
-import { RAIZ, BANCO, TEMAS, NOMBRE_PARTIDO, leerJson, escribirJson, deCsv } from './comun.mjs';
+import { RAIZ, BANCO, TEMAS, NOMBRE_PARTIDO, leerJson, escribirJson, deCsv, palabras } from './comun.mjs';
+
+const MAX_DIFERENCIA = 10;
 
 function opcion(nombre, defecto) {
   const i = process.argv.indexOf(`--${nombre}`);
@@ -104,6 +108,18 @@ async function main() {
   }
   // Si una reserva sube a test, la de test rechazada ya no está; si la de test estaba aprobada, la reserva sigue de reserva.
 
+  // Equilibrio: en los temas con alguna reserva promovida, las tarjetas de test no pueden separarse más de 10 palabras.
+  const avisosEquilibrio = [];
+  for (const tema of new Set(aprobadas.filter(t => promovidas.has(t.id)).map(t => t.tema))) {
+    const tests = aprobadas.filter(t => t.tema === tema && t.uso === 'test');
+    const n = tests.map(t => palabras(t.texto));
+    const dif = Math.max(...n) - Math.min(...n);
+    if (dif > MAX_DIFERENCIA) {
+      const larga = tests[n.indexOf(Math.max(...n))], corta = tests[n.indexOf(Math.min(...n))];
+      avisosEquilibrio.push(`«${tema}»: ${dif} palabras de diferencia entre las tarjetas de test (máximo ${MAX_DIFERENCIA}): la más larga es ${larga.id} (${Math.max(...n)}) y la más corta ${corta.id} (${Math.min(...n)})`);
+    }
+  }
+
   const lista = (xs) => xs.length ? xs.map(x => `- ${x}`).join('\n') : '- Ninguna.';
   const md = `# Aprobación del banco de 2023
 
@@ -131,11 +147,15 @@ ${lista(sustituciones)}
 
 ## Avisos: solo un revisor marca «delata» (la tarjeta pasa)
 ${lista(avisosDelata)}
+
+## Avisos de equilibrio (temas con una reserva que pasa a test)
+${lista(avisosEquilibrio)}
 `;
   await mkdir(dirname(INFORME), { recursive: true });
   await writeFile(INFORME, md);
 
-  console.log(`Aprobadas: ${aprobadas.length} de ${banco.tarjetas.length} · para reescribir: ${paraReescribir.length} · rechazadas: ${rechazadas.length} · sin revisar: ${sinRevisar.length} · reservas que pasan a test: ${sustituciones.length} · avisos de «delata»: ${avisosDelata.length}`);
+  console.log(`Aprobadas: ${aprobadas.length} de ${banco.tarjetas.length} · para reescribir: ${paraReescribir.length} · rechazadas: ${rechazadas.length} · sin revisar: ${sinRevisar.length} · reservas que pasan a test: ${sustituciones.length} · avisos de «delata»: ${avisosDelata.length} · avisos de equilibrio: ${avisosEquilibrio.length}`);
+  for (const a of avisosEquilibrio) console.warn(`AVISO de equilibrio: ${a}`);
   console.log(`Escrito ${relative(RAIZ, INFORME)}`);
   if (errores.length) {
     console.error(`\nERROR: hay partidos sin ninguna tarjeta aprobada en un tema donde la tenían:\n${errores.map(e => `  · ${e}`).join('\n')}`);

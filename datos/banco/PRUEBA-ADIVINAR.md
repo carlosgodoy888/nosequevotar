@@ -3,7 +3,7 @@
 Cada texto es una propuesta real de un programa electoral de 2023. Escribe al lado de qué partido crees que es: **PP, PSOE, Vox o Sumar**.
 Si no lo sabes, escribe «no sé». No busques nada: cuenta tu primera impresión.
 
-**T1.** Actualizar el salario mínimo interprofesional (SMI) en el marco del diálogo social, involucrando a sindicatos, empresarios y personas expertas en las decisiones.
+**T1.** Actualizar el salario mínimo interprofesional (SMI) dentro del diálogo social, con participación de sindicatos, empresarios y expertos.
 
 Partido: ________________
 
@@ -15,7 +15,7 @@ Partido: ________________
 
 ---
 
-**T3.** Castigar como delito la devolución sumaria en la frontera y eliminar la disposición de la ley de extranjería que permite esta práctica.
+**T3.** Convertir en delito la devolución sumaria en la frontera y suprimir la disposición de la ley de extranjería que permite esta práctica.
 
 Partido: ________________
 
@@ -39,7 +39,7 @@ Partido: ________________
 
 ---
 
-**T7.** Reducir las listas de espera en volumen y tiempo en todos los ámbitos. Para ello, incentivar a los centros públicos y reforzar los conciertos con la sanidad privada.
+**T7.** Reducir las listas de espera en volumen y tiempo en todos los ámbitos, con incentivos a los centros públicos y más conciertos con centros privados.
 
 Partido: ________________
 
@@ -63,13 +63,13 @@ Partido: ________________
 
 ---
 
-**T11.** Promover un plan de choque en atención primaria para resolver la falta de especialistas en ese nivel asistencial.
+**T11.** Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria.
 
 Partido: ________________
 
 ---
 
-**T12.** Aumentar en el impuesto sobre la renta (IRPF) el mínimo por hijos y por personas dependientes.
+**T12.** Aumentar en el impuesto sobre la renta (IRPF) el mínimo por descendientes y por personas dependientes.
 
 Partido: ________________
 
@@ -105,7 +105,7 @@ Partido: ________________
 
 ---
 
-**T18.** Impulsar la subida de todos los salarios, sobre todo los más bajos, reduciendo de forma drástica las cargas y la regulación sobre las empresas.
+**T18.** Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y las normas para las empresas.
 
 Partido: ________________
 
@@ -117,7 +117,7 @@ Partido: ________________
 
 ---
 
-**T20.** Reformar la Constitución para garantizar que todas las pensiones mantengan su poder adquisitivo según el índice de precios de consumo (IPC), en cualquier circunstancia.
+**T20.** Reformar la Constitución para que todas las pensiones se revaloricen siempre según el índice de precios de consumo (IPC).
 
 Partido: ________________
 
@@ -141,6 +141,6 @@ Partido: ________________
 
 ---
 
-**T24.** Reforzar la inspección en las fronteras con más personal y mejor formado, e impulsar la implantación de los nuevos sistemas europeos de control fronterizo.
+**T24.** Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos registros europeos de entradas y salidas de viajeros.
 
 Partido: ________________

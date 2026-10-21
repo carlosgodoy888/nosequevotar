@@ -1,6 +1,6 @@
 {
   "anio": 2023,
-  "generado": "2026-10-21T20:46:17.521Z",
+  "generado": "2026-10-21T21:54:34.470Z",
   "temas": [
     {
       "id": "vivienda",
@@ -293,7 +293,7 @@
       "partidos": [
         "sumar"
       ],
-      "texto": "Fijar en zonas tensionadas precios de referencia del alquiler iguales al 30 % de la renta de los hogares. Quien los supere perdería deducciones del impuesto sobre la renta (IRPF) y las empresas, un recargo en sociedades.",
+      "texto": "Fijar en zonas tensionadas precios de referencia del alquiler del 30 % de la renta de los hogares. Superarlos quitaría deducciones del impuesto sobre la renta (IRPF) y supondría un recargo en sociedades para fondos y empresas.",
       "cita": "La segunda es establecer unos precios de referencia para las zonas tensionadas equivalentes al 30% de la renta de los hogares que alquilan, eliminando las deducciones fiscales en el IRPF de los alquileres que se sitúen por encima del precio de referencia y estableciendo un recargo en el impuesto de sociedades para los fondos y empresas que alquilen viviendas por encima de los precios de referencia.",
       "traduccion": null,
       "documento": "2023-sumar",
@@ -428,7 +428,7 @@
       "partidos": [
         "pnv"
       ],
-      "texto": "Defender un equilibrio entre la persona inquilina y la propietaria que asegure los derechos de ambas partes.",
+      "texto": "Defender un equilibrio entre inquilinos y propietarios de vivienda que asegure los derechos de ambas partes.",
       "cita": "Y abogaremos por un equilibrio entre arrendatario y arrendador que asegure los derechos de ambas partes.",
       "traduccion": null,
       "documento": "2023-pnv",
@@ -556,11 +556,11 @@
       "id": "t2023-impuestos-pp-2",
       "uso": "reserva",
       "tema": "impuestos",
-      "fueraDeEje": false,
+      "fueraDeEje": true,
       "partidos": [
         "pp"
       ],
-      "texto": "Simplificar el impuesto sobre la renta (IRPF) y el de sociedades para las pequeñas y medianas empresas. Sobre todo, para las que tienen pérdidas o aumentan su plantilla indefinida.",
+      "texto": "Eliminar el impuesto a las grandes fortunas, que pagan quienes tienen los patrimonios más altos.",
       "cita": "Eliminaremos el impuesto a las grandes fortunas, y simplificaremos el IRPF y el Impuesto sobre Sociedades para las pymes, con especial atención a las empresas con pérdidas y aquellas que incrementen el promedio de su plantilla de trabajadores con contratos indefinidos.",
       "traduccion": null,
       "documento": "2023-pp",
@@ -568,7 +568,7 @@
       "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=23",
       "verificacion": "exacta",
       "omitido": {
-        "nota": "La cita junta dos medidas; se recoge la simplificación del IRPF y de sociedades para pymes (ahora dentro del eje) y se omite eliminar el impuesto a las grandes fortunas, que sola no llega a 15 palabras."
+        "nota": "La cita junta dos medidas; se recoge la principal (eliminar el impuesto a las grandes fortunas) y se omite simplificar el IRPF y el impuesto de sociedades para pymes. «Que pagan quienes tienen los patrimonios más altos» explica qué es el impuesto."
       },
       "revision": {
         "estado": "borrador",
@@ -585,7 +585,7 @@
       "partidos": [
         "psoe"
       ],
-      "texto": "Aumentar en el impuesto sobre la renta (IRPF) el mínimo por hijos y por personas dependientes.",
+      "texto": "Aumentar en el impuesto sobre la renta (IRPF) el mínimo por descendientes y por personas dependientes.",
       "cita": "Aumentaremos el mínimo por descendientes y personas dependientes en el IRPF con el fin de apoyar a las familias con hijos, impulsar la natalidad y acompañar en el cuidado de las personas mayores y dependiente.",
       "traduccion": null,
       "documento": "2023-psoe",
@@ -657,7 +657,7 @@
       "partidos": [
         "vox"
       ],
-      "texto": "Suprimir en toda España los impuestos sobre el patrimonio y sobre sucesiones y donaciones. También la plusvalía municipal, que cobran los ayuntamientos al vender un inmueble.",
+      "texto": "Suprimir en toda España los impuestos sobre el patrimonio y sobre sucesiones y donaciones. También la plusvalía municipal, que cobran los ayuntamientos cuando se vende, se hereda o se dona un inmueble urbano.",
       "cita": "Suprimiremos el Impuesto sobre el Patrimonio, el Impuesto sobre Sucesiones y Donaciones y Plusvalías municipales en todo el territorio nacional, impuestos que suponen confiscaciones injustas, duplicadas o desproporcionadas del patrimonio de los españoles.",
       "traduccion": null,
       "documento": "2023-vox",
@@ -955,7 +955,7 @@
       "partidos": [
         "pp"
       ],
-      "texto": "Reforzar la inspección en las fronteras con más personal y mejor formado, e impulsar la implantación de los nuevos sistemas europeos de control fronterizo.",
+      "texto": "Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos registros europeos de entradas y salidas de viajeros.",
       "cita": "POTENCIAREMOS LA INSPECCIÓN FRONTERIZA, incrementando el número y formación del personal, impulsando la implantación del nuevo Sistema Europeo de Registro de Entradas y Salidas y del Sistema Europeo de Información y Autorización de Viaje, así como la coordinación y participación en las actividades de FRONTEX.",
       "traduccion": null,
       "documento": "2023-pp",
@@ -963,7 +963,7 @@
       "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=81",
       "verificacion": "exacta",
       "omitido": {
-        "nota": "Se omite la coordinación y participación en las actividades de FRONTEX, y los dos sistemas europeos se nombran juntos."
+        "nota": "Se recoge el refuerzo de la inspección y el registro europeo de entradas y salidas. Se omiten el Sistema Europeo de Información y Autorización de Viaje y la coordinación y participación en las actividades de FRONTEX."
       },
       "revision": {
         "estado": "borrador",
@@ -1090,7 +1090,7 @@
       "partidos": [
         "sumar"
       ],
-      "texto": "Castigar como delito la devolución sumaria en la frontera y eliminar la disposición de la ley de extranjería que permite esta práctica.",
+      "texto": "Convertir en delito la devolución sumaria en la frontera y suprimir la disposición de la ley de extranjería que permite esta práctica.",
       "cita": "Tipificaremos el delito de devolución sumaria en frontera y eliminaremos la disposición adicional de la Ley de Extranjería que legitima esta práctica, financiando y promoviendo mecanismos de monitoreo independiente de los derechos humanos en la Frontera Sur para que masacres como la de Melilla en junio de 2022 no vuelvan a suceder nunca más y se depuren todas las responsabilidades.",
       "traduccion": null,
       "documento": "2023-sumar",
@@ -1319,7 +1319,7 @@
       "partidos": [
         "bng"
       ],
-      "texto": "Cerrar los centros de internamiento de extranjeros (CIE) en España y poner fin a las deportaciones.",
+      "texto": "Cerrar los centros de internamiento de extranjeros (CIE) en España y poner fin a las expulsiones.",
       "cita": "Peche dos Centros de Internamento para Estranxeiros (CIEs) no Estado español e fin das deportacións, garantindo o respecto escrupuloso dos dereitos humanos para a poboación migrante, refuxiada e/ou solicitante de asilo.",
       "traduccion": "Cierre de los Centros de Internamiento para Extranjeros (CIE) en el Estado español y fin de las deportaciones, garantizando el respeto escrupuloso de los derechos humanos de la población migrante, refugiada y/o solicitante de asilo.",
       "documento": "2023-bng",
@@ -1327,7 +1327,7 @@
       "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=20",
       "verificacion": "exacta",
       "omitido": {
-        "nota": "Cerrar los CIE y poner fin a las deportaciones no se separan: los CIE existen para ejecutar deportaciones. Se omite «garantindo o respecto escrupuloso dos dereitos humanos…», que es un objetivo general."
+        "nota": "Cerrar los CIE y poner fin a las expulsiones no se separan: los CIE existen para ejecutar expulsiones. Se omite «garantindo o respecto escrupuloso dos dereitos humanos…», que es un objetivo general."
       },
       "revision": {
         "estado": "borrador",
@@ -1416,7 +1416,7 @@
       "partidos": [
         "pp"
       ],
-      "texto": "Actualizar el salario mínimo interprofesional (SMI) en el marco del diálogo social, involucrando a sindicatos, empresarios y personas expertas en las decisiones.",
+      "texto": "Actualizar el salario mínimo interprofesional (SMI) dentro del diálogo social, con participación de sindicatos, empresarios y expertos.",
       "cita": "ACTUALIZAREMOS EL SALARIO MÍNIMO INTERPROFESIONAL EN EL MARCO DEL DIÁLOGO SOCIAL. Involucraremos a sindicatos, empresarios y expertos en la toma de decisiones sobre el SMI.",
       "traduccion": null,
       "documento": "2023-pp",
@@ -1504,7 +1504,7 @@
       "partidos": [
         "vox"
       ],
-      "texto": "Impulsar la subida de todos los salarios, sobre todo los más bajos, reduciendo de forma drástica las cargas y la regulación sobre las empresas.",
+      "texto": "Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y las normas para las empresas.",
       "cita": "Impulsaremos la subida de todos los salarios, especialmente los más bajos. Para que ello no conlleve una destrucción de empleo, reduciremos drásticamente las cargas sobre las empresas y la regulación abusiva que perjudican la generación de empleo.",
       "traduccion": null,
       "documento": "2023-vox",
@@ -1512,7 +1512,7 @@
       "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=22",
       "verificacion": "exacta",
       "omitido": {
-        "nota": "La subida de salarios y la reducción de cargas no se separan: la cita presenta la segunda como el medio de la primera. Sola, la subida no llega a 15 palabras. Se omite la justificación («para que ello no conlleve una destrucción de empleo»)."
+        "nota": "La cita tiene dos medidas en dos frases: subir los salarios y reducir las cargas y la regulación de las empresas. Se recogen las dos porque la subida sola no llega a 15 palabras. Se omite la justificación de la segunda («para que ello no conlleve una destrucción de empleo») y el adjetivo «abusiva»."
       },
       "revision": {
         "estado": "borrador",
@@ -1893,7 +1893,7 @@
       "partidos": [
         "pp"
       ],
-      "texto": "Dar más transparencia y accesibilidad al sistema de pensiones, para que todos los trabajadores puedan consultar con más sencillez una estimación de su pensión futura.",
+      "texto": "Impulsar la contributividad del sistema de pensiones, es decir, que la pensión dependa más de lo cotizado durante la vida laboral.",
       "cita": "Impulsaremos la contributividad del sistema y lo dotaremos de mayor transparencia y accesibilidad, de modo que todos los trabajadores puedan acceder con mayor sencillez a la estimación de la pensión futura.",
       "traduccion": null,
       "documento": "2023-pp",
@@ -1901,7 +1901,7 @@
       "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=20",
       "verificacion": "exacta",
       "omitido": {
-        "nota": "Se omite la primera medida de la cita: impulsar la contributividad del sistema."
+        "nota": "La cita junta dos medidas; se recoge la principal (la contributividad) y se omite dar más transparencia y accesibilidad al sistema para consultar la pensión futura."
       },
       "revision": {
         "estado": "borrador",
@@ -1918,7 +1918,7 @@
       "partidos": [
         "psoe"
       ],
-      "texto": "Reformar la Constitución para garantizar que todas las pensiones mantengan su poder adquisitivo según el índice de precios de consumo (IPC), en cualquier circunstancia.",
+      "texto": "Reformar la Constitución para que todas las pensiones se revaloricen siempre según el índice de precios de consumo (IPC).",
       "cita": "Blindaremos el poder adquisitivo de las pensiones con un cambio constitucional. Garantizaremos ante cualquier circunstancia el poder adquisitivo de todas las pensiones con arreglo al IPC.",
       "traduccion": null,
       "documento": "2023-psoe",
@@ -2326,7 +2326,7 @@
       "partidos": [
         "pp"
       ],
-      "texto": "Promover un plan de choque en atención primaria para resolver la falta de especialistas en ese nivel asistencial.",
+      "texto": "Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria.",
       "cita": "PROMOVEREMOS UN PLAN DE CHOQUE EN ATENCIÓN PRIMARIA para dar solución al grave problema de déficit de especialistas en este nivel asistencial que sufre España.",
       "traduccion": null,
       "documento": "2023-pp",
@@ -2414,7 +2414,7 @@
       "partidos": [
         "vox"
       ],
-      "texto": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos. Para ello, incentivar a los centros públicos y reforzar los conciertos con la sanidad privada.",
+      "texto": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos, con incentivos a los centros públicos y más conciertos con centros privados.",
       "cita": "Reduciremos el volumen y tiempo de las listas de espera en todos los ámbitos, incentivando a los centros públicos para su reducción, y reforzando los conciertos con la sanidad privada.",
       "traduccion": null,
       "documento": "2023-vox",
@@ -2555,7 +2555,7 @@
       "partidos": [
         "junts"
       ],
-      "texto": "Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud de su comunidad tenga especialistas.",
+      "texto": "Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud autonómico tenga especialistas.",
       "cita": "Poder ampliar el nombre de places MIR per poder abastir de metges especialitzats els sistema públic de salut a Catalunya.",
       "traduccion": "Poder ampliar el número de plazas MIR para poder abastecer de médicos especialistas al sistema público de salud de Cataluña.",
       "documento": "2023-junts",
@@ -2743,7 +2743,7 @@
       "partidos": [
         "cc"
       ],
-      "texto": "Pedir que el Gobierno del Estado aumente la partida que transfiere a su comunidad autónoma para la atención a la salud mental.",
+      "texto": "Pedir que el Gobierno central aumente la partida que transfiere a la comunidad autónoma para la atención a la salud mental.",
       "cita": "Y reivindicaremos que el Gobierno del Estado aumente la partida que transfiere a Canarias para seguir impulsando la atención a la salud mental.",
       "traduccion": null,
       "documento": "2023-cc",
