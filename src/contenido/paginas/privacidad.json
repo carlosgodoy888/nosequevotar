@@ -1,0 +1,61 @@
+{
+  "borrador": true,
+  "ruta": "/privacidad/",
+  "titulo": "Privacidad",
+  "tituloSeo": "Privacidad: qué hace esta web con tus datos",
+  "descripcion": "No sé qué votar no usa cookies, no guarda nada en tu navegador y no envía datos a nadie. Las respuestas del test se quedan en tu navegador.",
+  "entradilla": "Esta web no te pide datos, no usa cookies, no guarda nada en tu navegador y no envía a nadie lo que haces en ella.",
+  "secciones": [
+    {
+      "titulo": "Quién es el responsable",
+      "bloques": [
+        { "tipo": "parrafo", "texto": "[PENDIENTE: responsable]" },
+        { "tipo": "parrafo", "texto": "Para cualquier duda sobre tus datos, escríbenos a [hola@nosequevotar.es](mailto:hola@nosequevotar.es)." }
+      ]
+    },
+    {
+      "titulo": "Qué datos te pedimos",
+      "bloques": [
+        { "tipo": "parrafo", "texto": "Ninguno. No hay registro ni formularios: no te pedimos el nombre, el correo ni ningún otro dato." }
+      ]
+    },
+    {
+      "titulo": "Qué hace el código de esta web",
+      "bloques": [
+        {
+          "tipo": "lista",
+          "items": [
+            "**No usa cookies.**",
+            "**No guarda nada en tu navegador.** No usa el almacenamiento local ni el de sesión.",
+            "**No envía datos a ningún sitio.** No carga herramientas de medición ni de publicidad, y no hace peticiones a otras webs: las tipografías y todo lo demás se sirven desde este dominio.",
+            "**Algunos enlaces y botones llevan una marca para contar clics en el futuro.** Hoy la función que los contaría está vacía: no registra ni envía nada."
+          ]
+        },
+        { "tipo": "parrafo", "texto": "El JavaScript de la web solo sirve para abrir y cerrar el menú en el móvil, marcar en el calendario qué fechas ya han pasado y cuál es la próxima, contar los días que faltan para votar y mover la tarjeta de ejemplo de la portada. Todo eso ocurre en tu navegador, con la fecha de hoy, y no sale de él." }
+      ]
+    },
+    {
+      "titulo": "El test",
+      "bloques": [
+        { "tipo": "parrafo", "texto": "En el test no se mide nada. Las respuestas del test se quedan en tu navegador." }
+      ]
+    },
+    {
+      "titulo": "Enlaces a otras webs",
+      "bloques": [
+        { "tipo": "parrafo", "texto": "Si pulsas un enlace a una fuente oficial, como el Boletín Oficial del Estado (BOE), sales de esta web. A partir de ahí se aplica la política de privacidad de esa otra web." }
+      ]
+    },
+    {
+      "titulo": "Si nos escribes",
+      "bloques": [
+        { "tipo": "parrafo", "texto": "Si nos escribes un correo, recibimos tu dirección y lo que nos cuentes." }
+      ]
+    }
+  ],
+  "actualizado": "2026-10-21",
+  "pendiente": [
+    "Responsable del tratamiento: rellenar el hueco [PENDIENTE: responsable] antes de publicar.",
+    "Correos recibidos en hola@nosequevotar.es: para qué se usan, cuánto se guardan y dónde."
+  ]
+}

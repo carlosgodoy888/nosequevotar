@@ -2,9 +2,10 @@
 // que luego se envuelve con la plantilla base.
 import { esc, enlinea, textoFecha, atributosPeriodo, diasHasta, estados } from './util.mjs';
 import { miga, llamadaTest, fuentesOficiales, otrasGuias } from './parciales.mjs';
-import { bloque, tablaFechas } from './bloques.mjs';
+import { bloque, tablaFechas, fuenteFecha } from './bloques.mjs';
 
 const INICIO = { texto: 'Inicio', ruta: '/' };
+const CUANTAS = ['', 'Una', 'Dos', 'Tres', 'Cuatro', 'Cinco', 'Seis', 'Siete', 'Ocho', 'Nueve', 'Diez'];
 const GUIAS = { texto: 'Guías', ruta: '/guia/' };
 
 // Texto que puede variar con la fecha: una cadena o una lista de variantes con desde/hasta.
@@ -19,10 +20,40 @@ function cuentaAtras(ctx) {
   return `<p class="cuenta" data-cuenta="${ctx.sitio.eleccion.fecha}"${oculta}><span class="cuenta__numero">${Math.max(dias, 0)}</span> <span class="cuenta__texto">${dias === 1 ? 'día para votar' : 'días para votar'}</span></p>`;
 }
 
-function tarjetasGuias(guias) {
+// En la portada (con hoy) una guía con portadaHasta deja de verse después de esa fecha,
+// y extra añade más tarjetas al final de la lista.
+function tarjetasGuias(guias, { hoy, extra = '' } = {}) {
+  const periodo = (g) => hoy && g.portadaHasta ? atributosPeriodo({ hasta: g.portadaHasta }, hoy) : '';
   return `<ul class="tarjetas">
-${guias.map(g => `<li><a class="tarjeta-enlace" href="/guia/${g.slug}/" data-evento="clic_guia"><span class="tarjeta-enlace__titulo">${esc(g.nombre)}</span><span class="tarjeta-enlace__texto">${esc(g.resumen)}</span></a></li>`).join('\n')}
+${guias.map(g => `<li${periodo(g)}><a class="tarjeta-enlace" href="/guia/${g.slug}/" data-evento="clic_guia"><span class="tarjeta-enlace__titulo">${esc(g.nombre)}</span><span class="tarjeta-enlace__texto">${esc(g.resumen)}</span></a></li>`).join('\n')}${extra ? `\n${extra}` : ''}
 </ul>`;
+}
+
+// Tarjeta «Próximo plazo» de la portada, con lo que el votante tiene que hacer o puede hacer (paraVotante).
+// El HTML trae todos los plazos con sus fechas: es lo que se ve sin JavaScript y nunca queda desfasado.
+// Al abrir la página, sitio.js deja como principal el próximo de publico "todos" y, debajo, el próximo
+// de "extranjero"; oculta los pasados y, cuando ya no queda ninguno de "todos", la tarjeta entera.
+function tarjetaPlazo(ctx) {
+  const dePublico = (publico) => ctx.fechas.filter(f => f.paraVotante && f.publico === publico)
+    .sort((a, b) => (a.fin || a.inicio).localeCompare(b.fin || b.inicio));
+  const enlaceGuia = (slug) => {
+    const g = slug && ctx.guias.find(x => x.slug === slug);
+    return g ? ` <a href="/guia/${g.slug}/" data-evento="clic_guia">Guía: ${esc(g.nombre.toLowerCase())}</a>` : '';
+  };
+  const item = (f, guia) => `<li data-publico="${f.publico}" data-inicio="${f.inicio}"${f.fin ? ` data-fin="${f.fin}"` : ''}>` +
+    `<time class="plazo__fecha" datetime="${f.inicio}">${textoFecha(f.inicio, f.fin)}</time> <span class="plazo__texto">${enlinea(f.texto)}</span>${guia ? enlaceGuia(f.guia) : ''}${fuenteFecha(f)}</li>`;
+
+  const todos = dePublico('todos');
+  if (!todos.length) return '';
+  const fuera = dePublico('extranjero');
+  return `<li class="plazo" data-plazo><p class="plazo__rotulo">Plazos para votar</p>
+<ul class="plazo__lista">
+${todos.map(f => item(f, true)).join('\n')}
+</ul>${fuera.length ? `
+<div class="plazo__fuera"><p class="plazo__fuera-rotulo">Si vives o estás fuera de España:</p>
+<ul class="plazo__lista">
+${fuera.map(f => item(f, false)).join('\n')}
+</ul>${enlaceGuia(fuera[0].guia)}</div>` : ''}</li>`;
 }
 
 export function guia(g, ctx) {
@@ -71,12 +102,12 @@ export function indiceGuias(ctx) {
   return {
     ruta,
     titulo: 'Guías para votar el 29 de noviembre',
-    descripcion: 'Guías cortas para votar en las elecciones generales del 29 de noviembre de 2026: voto por correo, dónde votar, voto en blanco, cómo se vota y censo.',
+    descripcion: 'Guías cortas para votar en las elecciones generales del 29 de noviembre de 2026: voto por correo, dónde votar, voto en blanco, cómo se vota, censo y voto desde el extranjero.',
     miga: [INICIO, { texto: 'Guías', ruta }],
     contenido: `<div class="envoltorio texto">
 ${miga([INICIO, { texto: 'Guías', ruta }])}
 <h1>Guías para votar</h1>
-<p class="entradilla">Cinco guías cortas para votar el 29 de noviembre sin errores. Cada una responde a una pregunta y enlaza a la fuente oficial.</p>
+<p class="entradilla">${CUANTAS[ctx.guias.length] || ctx.guias.length} guías cortas para votar el 29 de noviembre sin errores. Cada una responde a una pregunta y enlaza a la fuente oficial.</p>
 <section class="bloque" aria-labelledby="lista-guias">
 <h2 id="lista-guias" class="solo-lector">Todas las guías</h2>
 ${tarjetasGuias(ctx.guias)}
@@ -97,7 +128,7 @@ export function calendario(ctx) {
   return {
     ruta,
     titulo: 'Calendario de las elecciones del 29 de noviembre',
-    descripcion: 'Todas las fechas de las elecciones generales del 29 de noviembre de 2026: censo, voto por correo, candidaturas, campaña, jornada de reflexión y votación.',
+    descripcion: 'Todas las fechas de las elecciones generales del 29 de noviembre de 2026: censo, voto por correo y desde el extranjero, candidaturas, campaña, votación y escrutinio.',
     miga: [INICIO, { texto: 'Calendario', ruta }],
     contenido: `<div class="envoltorio texto">
 ${miga([INICIO, { texto: 'Calendario', ruta }])}
@@ -161,7 +192,7 @@ ${cuentaAtras(ctx)}
 <section class="seccion" aria-labelledby="guias-titulo">
 <div class="envoltorio">
 <h2 id="guias-titulo">Guías para votar</h2>
-${tarjetasGuias(ctx.guias)}
+${tarjetasGuias(ctx.guias, { hoy: ctx.hoy, extra: tarjetaPlazo(ctx) })}
 </div>
 </section>
 
@@ -208,6 +239,35 @@ ${tablaFechas(proximas, ctx, { titulo: 'Próximas fechas' })}
 <a class="boton" href="mailto:${ctx.sitio.correo}">${ctx.sitio.correo}</a>
 </div>
 </section>`,
+  };
+}
+
+// Páginas de texto (privacidad…) con secciones y bloques, como las guías pero sin fuentes ni llamada al test.
+export function texto(p, ctx) {
+  const secciones = p.secciones.map((s, i) => {
+    const id = `seccion-${i + 1}`;
+    return `<section class="guia__seccion" aria-labelledby="${id}">
+<h2 id="${id}">${esc(s.titulo)}</h2>
+${s.bloques.map(b => bloque(b, ctx)).join('\n')}
+</section>`;
+  }).join('\n');
+  const pendientes = (p.pendiente || []).map(x => `<!-- PENDIENTE: ${x.replace(/--/g, '—')} -->`).join('\n');
+  return {
+    ruta: p.ruta,
+    titulo: p.tituloSeo,
+    descripcion: p.descripcion,
+    actualizado: p.actualizado,
+    miga: [INICIO, { texto: p.titulo, ruta: p.ruta }],
+    contenido: `<article class="envoltorio texto guia">
+${miga([INICIO, { texto: p.titulo, ruta: p.ruta }])}
+<header class="guia__cabeza">
+<h1>${esc(p.titulo)}</h1>
+<p class="entradilla">${enlinea(p.entradilla)}</p>
+</header>
+${secciones}
+<p class="fuentes__fecha">Actualizado el <time datetime="${p.actualizado}">${textoFecha(p.actualizado, null, true)}</time></p>
+${pendientes}
+</article>`,
   };
 }
 

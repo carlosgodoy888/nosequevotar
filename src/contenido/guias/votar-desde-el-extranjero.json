@@ -1,0 +1,111 @@
+{
+  "orden": 6,
+  "nombre": "Votar desde el extranjero",
+  "titulo": "¿Cómo voto desde el extranjero?",
+  "tituloSeo": "Cómo votar desde el extranjero el 29 de noviembre",
+  "descripcion": "Si vives fuera, vota por correo hasta el 24 de noviembre o en tu consulado del 21 al 26. Si estás fuera una temporada, pide el voto hasta el 31 de octubre.",
+  "resumen": "Si vives fuera, por correo o en tu consulado. Si estás fuera una temporada, pide el voto hasta el 31 de octubre.",
+  "entradilla": "Si vives fuera, te llega a casa la documentación y votas por correo hasta el 24 de noviembre o en tu consulado del 21 al 26 de noviembre. Si solo estás fuera una temporada, pide el voto en tu consulado hasta el 31 de octubre.",
+  "esencial": [
+    "Depende de si vives en el extranjero o solo estás fuera una temporada.",
+    "Si vives fuera, no tienes que pedir nada: te envían la documentación a tu dirección.",
+    "Si vives fuera, votas por correo hasta el 24 de noviembre o en urna en tu embajada o consulado del 21 al 26 de noviembre.",
+    "Si estás fuera una temporada, pide el voto en tu consulado hasta el 31 de octubre y envíalo por correo certificado antes del 26 de noviembre."
+  ],
+  "secciones": [
+    {
+      "titulo": "Si vives en el extranjero",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Es tu caso si figuras en el censo de los electores que viven en el extranjero. Su nombre oficial es «censo de electores residentes-ausentes»."
+        },
+        {
+          "tipo": "pasos",
+          "items": [
+            {
+              "titulo": "Recibe la documentación",
+              "texto": "No tienes que pedirla. Te la envían por correo certificado a tu dirección del 24 al 30 de octubre: los sobres, dos certificados de que estás en el censo, una hoja con instrucciones y la lista de lugares donde puedes votar en urna."
+            },
+            {
+              "titulo": "Consigue las papeletas",
+              "texto": "Te envían las papeletas oficiales del 4 al 8 de noviembre, o hasta el 14 de noviembre si se recurre la proclamación de candidaturas en tu provincia ([ley electoral, artículo 75](https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672#asetentaycinco)). También puedes descargarlas: el Ministerio del Interior las publica cuando se proclaman las candidaturas."
+            },
+            {
+              "titulo": "Vota por correo o en urna",
+              "texto": "Elige una de las dos formas. Las tienes comparadas en la tabla de abajo."
+            }
+          ]
+        },
+        {
+          "tipo": "tabla",
+          "titulo": "Las dos formas de votar si vives en el extranjero",
+          "columnas": ["", "Por correo", "En urna"],
+          "filas": [
+            ["Cuándo", "Envíalo como muy tarde el 24 de noviembre.", "Del 21 al 26 de noviembre, por la mañana y por la tarde."],
+            ["Dónde", "Por correo postal, certificado si se puede, a tu embajada o consulado.", "En tu embajada o consulado, o en los lugares que se habiliten, también en los consulados honorarios."],
+            ["Qué necesitas", "En el sobre para la Junta Electoral metes el sobre de votación, un certificado firmado con el número de tu pasaporte o de tu documento nacional de identidad (DNI) y una fotocopia de ese documento. Ese sobre y el otro certificado van en el sobre para el consulado.", "Tu pasaporte o DNI y uno de los certificados que te enviaron."],
+            ["Cuánto cuesta", "Nada.", "Nada."]
+          ]
+        },
+        {
+          "tipo": "aviso",
+          "titulo": "El voto por correo tiene que llegar en plazo",
+          "texto": "No valen los sobres que lleguen al consulado antes de la proclamación definitiva de candidaturas ni después del 27 de noviembre."
+        }
+      ]
+    },
+    {
+      "titulo": "Si estás fuera una temporada",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Es tu caso si, con las elecciones ya convocadas, estás fuera de España y crees que seguirás fuera el 29 de noviembre. Tienes que estar en el Registro de Matrícula Consular como no residente."
+        },
+        {
+          "tipo": "pasos",
+          "items": [
+            {
+              "titulo": "Pide el voto en tu consulado",
+              "texto": "Hasta el 31 de octubre. Entrega la solicitud en persona en tu oficina consular, con tu DNI o tu pasaporte. El impreso lo tienes en el consulado o en este [impreso oficial de solicitud (PDF)](https://www.exteriores.gob.es/es/Documents/Elecciones/GENERAL%20%20Solicitud%20voto%20ERTA%20castellano.pdf)."
+            },
+            {
+              "titulo": "Recibe la documentación",
+              "texto": "Te la envían por correo certificado a la dirección en el extranjero que pongas en la solicitud, como muy tarde el 9 de noviembre. Si se recurre la proclamación de candidaturas, como muy tarde el 17 de noviembre."
+            },
+            {
+              "titulo": "Envía tu voto",
+              "texto": "Por correo certificado, antes del 26 de noviembre. El sobre tiene que llevar el matasellos de Correos del país donde estás: sin él, el voto no vale."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Fechas para votar desde el extranjero",
+      "bloques": [
+        {
+          "tipo": "fechas",
+          "filas": [
+            { "id": "extranjero-documentacion" },
+            { "id": "extranjero-temporal-pedir" },
+            { "id": "extranjero-papeletas" },
+            { "id": "extranjero-urna" },
+            { "id": "extranjero-correo" },
+            { "id": "extranjero-temporal-voto" },
+            { "id": "votacion" }
+          ]
+        }
+      ]
+    }
+  ],
+  "fuentes": [
+    { "texto": "Ley Orgánica del Régimen Electoral General, artículo 75 (si vives en el extranjero), en el Boletín Oficial del Estado", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672#asetentaycinco" },
+    { "texto": "Real Decreto 1621/2007 (si estás una temporada en el extranjero), en el Boletín Oficial del Estado", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-21501" },
+    { "texto": "Real decreto de convocatoria, en el Boletín Oficial del Estado", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742" }
+  ],
+  "actualizado": "2026-10-21",
+  "pendiente": [
+    "Añadir enlace a las papeletas descargables de 2026 del Ministerio del Interior"
+  ]
+}

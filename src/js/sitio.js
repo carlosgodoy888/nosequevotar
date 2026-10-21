@@ -104,11 +104,26 @@
 
   // Fechas: la página llega calculada desde la construcción; aquí se recalcula
   // con la fecha de hoy en Madrid por si la web lleva días sin publicarse.
-  var hoy;
-  try {
-    hoy = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Madrid' }).format(new Date());
-  } catch (err) {
-    hoy = new Date().toISOString().slice(0, 10);
+  // Siempre es el día en Madrid, nunca el de la zona horaria del dispositivo.
+  var hoy = hoyMadrid(new Date());
+
+  function hoyMadrid(ahora) {
+    try {
+      var partes = {};
+      new Intl.DateTimeFormat('en-US', { timeZone: 'Europe/Madrid', year: 'numeric', month: '2-digit', day: '2-digit' })
+        .formatToParts(ahora).forEach(function (p) { partes[p.type] = p.value; });
+      if (partes.year && partes.month && partes.day) return partes.year + '-' + partes.month + '-' + partes.day;
+    } catch (err) { /* Navegador sin zonas horarias: se calcula a mano. */ }
+    // Hora de Madrid a partir de UTC: +2 en verano (del último domingo de marzo al último
+    // domingo de octubre, a la 1:00 UTC) y +1 el resto del año.
+    var anio = ahora.getUTCFullYear();
+    var ultimoDomingo = function (mes) {
+      var d = new Date(Date.UTC(anio, mes + 1, 0, 1));
+      return d.getTime() - d.getUTCDay() * 86400000;
+    };
+    var t = ahora.getTime();
+    var verano = t >= ultimoDomingo(2) && t < ultimoDomingo(9);
+    return new Date(t + (verano ? 2 : 1) * 3600000).toISOString().slice(0, 10);
   }
 
   // Bloques que solo se ven entre dos fechas (data-desde y data-hasta, incluidas).
@@ -147,6 +162,25 @@
     el.querySelector('.cuenta__numero').textContent = dias;
     el.querySelector('.cuenta__texto').textContent = dias === 1 ? 'día para votar' : 'días para votar';
   });
+
+  // Tarjeta «Próximo plazo» de la portada. El HTML trae todos los plazos; aquí se deja como
+  // principal el próximo para todos y, debajo, el próximo para quien vive o está fuera de España.
+  // Se ocultan los pasados y, si ya no queda ninguno para todos, la tarjeta entera.
+  var plazo = document.querySelector('[data-plazo]');
+  if (plazo) {
+    var elegir = function (publico) {
+      var items = Array.prototype.slice.call(plazo.querySelectorAll('[data-publico="' + publico + '"]'));
+      var fin = function (li) { return li.getAttribute('data-fin') || li.getAttribute('data-inicio'); };
+      var proximo = items.map(fin).filter(function (f) { return f >= hoy; }).sort()[0];
+      items.forEach(function (li) { li.hidden = fin(li) !== proximo; });
+      return proximo;
+    };
+    var fuera = plazo.querySelector('.plazo__fuera');
+    if (fuera) fuera.hidden = !elegir('extranjero');
+    plazo.hidden = !elegir('todos');
+    plazo.querySelector('.plazo__rotulo').textContent = 'Próximo plazo';
+    plazo.classList.add('plazo--calculada');
+  }
 
   // Tarjeta de ejemplo de la portada.
   var tarjeta = document.getElementById('tarjeta');

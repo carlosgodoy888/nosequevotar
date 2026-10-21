@@ -54,6 +54,13 @@ export function resolverFechas(filas, fechas) {
   });
 }
 
+// «Fuente: ley electoral, artículo 47», con enlace al BOE. Solo si la fecha la trae.
+export function fuenteFecha(f) {
+  if (!f.fuentes || !f.fuentes.length) return '';
+  const enlaces = f.fuentes.map(x => `<a href="${esc(x.url)}" rel="external" data-evento="clic_fuente">${esc(x.texto)}</a>`).join(' y ');
+  return ` <span class="fuente-fecha">Fuente: ${enlaces}.</span>`;
+}
+
 // Tabla de fechas con su estado (pasada, ahora, próxima). sitio.js lo recalcula en el navegador.
 export function tablaFechas(filas, ctx, { periodo = '', titulo = 'Fechas', enlacesGuia = false } = {}) {
   const est = estados(filas, ctx.hoy);
@@ -65,7 +72,7 @@ export function tablaFechas(filas, ctx, { periodo = '', titulo = 'Fechas', enlac
     const anio = f.inicio < ctx.fechas[0].inicio;
     return `<tr role="row" class="fila-fecha${e ? ` es-${e}` : ''}" data-inicio="${f.inicio}"${f.fin ? ` data-fin="${f.fin}"` : ''}>` +
       `<th scope="row" role="rowheader"><time datetime="${f.inicio}">${textoFecha(f.inicio, f.fin, anio)}</time></th>` +
-      `<td role="cell">${enlinea(f.texto)}${enlace}</td>` +
+      `<td role="cell">${enlinea(f.texto)}${enlace}${fuenteFecha(f)}</td>` +
       `<td role="cell" class="fila-fecha__estado">${e ? ROTULO_ESTADO[e] : ''}</td></tr>`;
   }).join('\n');
   return `<div class="tabla-marco"${periodo}><table class="fechas-tabla" role="table">
