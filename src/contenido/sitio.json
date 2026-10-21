@@ -2,16 +2,18 @@
   "nombre": "No sé qué votar",
   "url": "https://nosequevotar.es",
   "correo": "hola@nosequevotar.es",
-  "actualizado": "2026-10-10",
+  "actualizado": "2026-10-21",
   "fuentesCalendario": [
     { "texto": "Calendario electoral de la Junta Electoral Central (PDF)", "url": "https://www.juntaelectoralcentral.es/cs/jec/documentos/eg2026_calendario.pdf" },
-    { "texto": "Real decreto de convocatoria, en el Boletín Oficial del Estado (PDF)", "url": "https://www.boe.es/boe/dias/2026/10/06/pdfs/BOE-A-2026-20742.pdf" }
+    { "texto": "Real decreto de convocatoria, en el Boletín Oficial del Estado (PDF)", "url": "https://www.boe.es/boe/dias/2026/10/06/pdfs/BOE-A-2026-20742.pdf" },
+    { "texto": "Ley Orgánica del Régimen Electoral General, en el Boletín Oficial del Estado", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672" },
+    { "texto": "Real Decreto 1621/2007, sobre el voto de quien está una temporada en el extranjero, en el Boletín Oficial del Estado", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-21501" }
   ],
   "eleccion": {
     "nombre": "Elecciones generales",
     "fecha": "2026-11-29",
     "diputados": 350,
-    "senadores": 208,
+    "senadores": 209,
     "horario": "de 9:00 a 20:00"
   },
   "menu": [

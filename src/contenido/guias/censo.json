@@ -4,7 +4,8 @@
   "titulo": "Comprueba que estás en el censo",
   "tituloSeo": "Comprueba si estás en el censo electoral",
   "descripcion": "Consulta si estás en el censo electoral y reclama del 12 al 19 de octubre en tu ayuntamiento o en la Sede Electrónica del INE. Vale el censo a 1 de agosto.",
-  "resumen": "Consulta y reclama del 12 al 19 de octubre en tu ayuntamiento o en el INE.",
+  "resumen": "El plazo para reclamar terminó el 19 de octubre. La consulta se hace en tu ayuntamiento o en el INE.",
+  "portadaHasta": "2026-10-19",
   "entradilla": [
     {
       "hasta": "2026-10-11",
@@ -75,5 +76,5 @@
     { "texto": "Instituto Nacional de Estadística (INE)", "url": "https://www.ine.es" },
     { "texto": "Junta Electoral Central", "url": "https://www.juntaelectoralcentral.es" }
   ],
-  "actualizado": "2026-10-10"
+  "actualizado": "2026-10-21"
 }

@@ -27,6 +27,7 @@ Antes de subir nada, vuelve a construir sin `FECHA_HOY`.
 | Texto de una guía | `src/contenido/guias/<guía>.json` |
 | Fechas del calendario (las usan también las guías) | `src/contenido/fechas.json` |
 | Menú, pie, páginas «Muy pronto» y datos de la elección | `src/contenido/sitio.json` |
+| Páginas de texto, como la de privacidad | `src/contenido/paginas/<página>.json` |
 | Cabecera, pie y estructura de las páginas | `src/plantillas/` |
 | Estilos | `src/estilos/sitio.css` |
 | JavaScript (menú, fechas y medición) | `src/js/sitio.js` |
@@ -49,3 +50,14 @@ Antes de subir nada, vuelve a construir sin `FECHA_HOY`.
 - Cualquier bloque admite `desde` y `hasta` para mostrarse solo en esas fechas.
 - En los textos se puede usar `**negrita**` y `[enlace](https://…)`.
 - `pendiente`: notas internas. Se avisan al construir y van como comentario en el HTML, sin mostrarse.
+- `portadaHasta` (opcional): último día en que la tarjeta de la guía sale en la portada.
+- `borrador: true` (opcional): la guía no se publica ni se enlaza desde ninguna página.
+
+### Formato de una fecha (`fechas.json`)
+
+- `id`, `inicio` y, si dura varios días, `fin` (AAAA-MM-DD). `texto` y, si la hay, la `guia` que la explica.
+- `paraVotante`: `true` si es algo que el votante tiene que hacer o puede hacer. Solo esas salen en la tarjeta «Próximo plazo» de la portada; todas salen en el calendario.
+- `publico` (solo con `paraVotante`): `"todos"` o `"extranjero"`. El HTML de la tarjeta trae todos estos plazos (es lo que se ve sin JavaScript). Al abrir la página, `sitio.js` calcula el día en Madrid y deja arriba la próxima fecha de `"todos"` y debajo, en una línea, la próxima de `"extranjero"`; cuando ya no queda ninguna de `"todos"`, oculta la tarjeta.
+- `fuentes` (opcional): lista de `texto` y `url` con la norma que fija la fecha. Se muestra debajo de la fecha.
+
+Las páginas de texto (`src/contenido/paginas/`) llevan `ruta`, `titulo`, `tituloSeo`, `descripcion`, `entradilla`, `secciones` (como las guías), `actualizado` y, si hace falta, `pendiente`.

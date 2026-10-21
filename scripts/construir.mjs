@@ -41,6 +41,13 @@ async function cargarGuias() {
   return guias.sort((a, b) => a.orden - b.orden);
 }
 
+// Páginas de texto (privacidad…): una por archivo en src/contenido/paginas/. Como las guías, admiten borrador: true.
+async function cargarPaginas() {
+  const dir = join(SRC, 'contenido', 'paginas');
+  const archivos = (await readdir(dir)).filter(a => a.endsWith('.json'));
+  return Promise.all(archivos.map(a => leerJson(join(dir, a))));
+}
+
 async function escribir(ruta, contenido) {
   const destino = join(PUBLIC, ruta.endsWith('/') ? ruta + 'index.html' : ruta);
   await mkdir(dirname(destino), { recursive: true });
@@ -59,7 +66,12 @@ ${urls}
 async function construir() {
   const sitio = await leerJson(join(SRC, 'contenido', 'sitio.json'));
   const fechas = await leerJson(join(SRC, 'contenido', 'fechas.json'));
-  const guias = await cargarGuias();
+  // Las guías con borrador: true no se publican ni se enlazan desde ninguna página.
+  const todas = await cargarGuias();
+  const guias = todas.filter(g => !g.borrador);
+  const borradores = todas.filter(g => g.borrador);
+  const todosTextos = await cargarPaginas();
+  const textos = todosTextos.filter(p => !p.borrador);
   const hoy = hoyMadrid();
 
   const css = await readFile(join(SRC, 'estilos', 'sitio.css'), 'utf8');
@@ -79,6 +91,7 @@ async function construir() {
     paginas.indiceGuias(ctx),
     ...guias.map(g => paginas.guia(g, ctx)),
     paginas.calendario(ctx),
+    ...textos.map(p => paginas.texto(p, ctx)),
     ...sitio.pronto.map(p => paginas.pronto(p, ctx)),
     paginas.error404(ctx),
   ];
@@ -89,14 +102,16 @@ async function construir() {
   const ultima = guias.map(g => g.actualizado).sort().at(-1);
   const indexables = generadas.filter(p => p.indexar !== false).map(p => {
     const g = guias.find(x => `/guia/${x.slug}/` === p.ruta);
-    return { ruta: p.ruta, lastmod: g ? g.actualizado : ultima };
+    return { ruta: p.ruta, lastmod: g ? g.actualizado : (p.actualizado || ultima) };
   });
   await writeFile(join(PUBLIC, 'sitemap.xml'), sitemap(sitio, indexables));
   await writeFile(join(PUBLIC, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${sitio.url}/sitemap.xml\n`);
 
   console.log(`Hoy (Madrid): ${hoy}`);
   console.log(`${generadas.length} páginas generadas, ${indexables.length} en el sitemap.`);
-  const pendientes = guias.flatMap(g => (g.pendiente || []).map(p => `  · ${g.nombre}: ${p}`));
+  const enBorrador = [...borradores.map(g => g.nombre), ...todosTextos.filter(p => p.borrador).map(p => p.titulo)];
+  if (enBorrador.length) console.log(`BORRADOR (sin publicar): ${enBorrador.join(', ')}`);
+  const pendientes = [...todas, ...todosTextos].flatMap(g => (g.pendiente || []).map(p => `  · ${g.nombre || g.titulo}: ${p}`));
   if (pendientes.length) console.log(`PENDIENTE:\n${pendientes.join('\n')}`);
 }
 
