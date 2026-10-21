@@ -1,0 +1,293 @@
+[
+  {
+    "id": "2023-pp",
+    "partido": "pp",
+    "original": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+    "local": {
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-pp.pdf",
+      "sha256": "c93baafc88bdcb33adcd7e8be9dc309b09056362183ad7b7767f3d5134313108",
+      "paginas": 112,
+      "modificado": "Wed Jul  5 16:45:39 2023",
+      "creado": "Wed Jul  5 14:17:34 2023"
+    },
+    "capturas": 0,
+    "fueraDeVentana": false,
+    "captura": {
+      "fecha": "2025-06-19 07:24:30 UTC",
+      "url": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "sha256": "c93baafc88bdcb33adcd7e8be9dc309b09056362183ad7b7767f3d5134313108",
+      "contentType": "application/pdf"
+    },
+    "coincide": true,
+    "version": {
+      "origen": "local",
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-pp.pdf",
+      "sha256": "c93baafc88bdcb33adcd7e8be9dc309b09056362183ad7b7767f3d5134313108",
+      "paginas": 112,
+      "url": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf"
+    },
+    "verificacion": "sin-captura-2023",
+    "motivo": "Internet Archive no guardó esta dirección hasta el 19 de junio de 2025, con contenido idéntico al archivo local. Las fechas internas del PDF son del 5 de julio de 2023 y su nombre interno es «AF LIBRO PROGRAMA_23J_FINAL_CORR_5J». La dirección de pp.es sirvió otro contenido el 14 de noviembre de 2025, por eso no se enlaza la original."
+  },
+  {
+    "id": "2023-psoe",
+    "partido": "psoe",
+    "original": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+    "local": {
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-psoe.pdf",
+      "sha256": "02d4972a848250fec9b8b2cffc5aaa78733acb0ac010e79ce1787161f91a42f2",
+      "paginas": 272,
+      "modificado": "Fri Jul  7 17:58:35 2023",
+      "creado": "Thu Jul  6 16:47:17 2023"
+    },
+    "capturas": 1,
+    "fueraDeVentana": false,
+    "captura": {
+      "fecha": "2023-07-09 06:40:11 UTC",
+      "url": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "sha256": "02d4972a848250fec9b8b2cffc5aaa78733acb0ac010e79ce1787161f91a42f2",
+      "contentType": "application/pdf"
+    },
+    "coincide": true,
+    "version": {
+      "origen": "local",
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-psoe.pdf",
+      "sha256": "02d4972a848250fec9b8b2cffc5aaa78733acb0ac010e79ce1787161f91a42f2",
+      "paginas": 272,
+      "url": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf"
+    },
+    "verificacion": "captura-2023"
+  },
+  {
+    "id": "2023-vox",
+    "partido": "vox",
+    "original": "https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf",
+    "local": {
+      "archivo": "fuentes/descargas/vox-programa-2023-archivo/2026-10-14-Programa-VOX-2023-con-menos-peso.pdf",
+      "sha256": "a63a7230318668bb141ade1b8957b86827e11c06ac57b2148e36011cfe8021db",
+      "paginas": 178,
+      "modificado": "Thu Jul 13 13:50:05 2023",
+      "creado": "Thu Jul  6 17:32:34 2023"
+    },
+    "capturas": 1,
+    "fueraDeVentana": true,
+    "captura": {
+      "fecha": "2023-11-16 09:16:43 UTC",
+      "url": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf",
+      "sha256": "a63a7230318668bb141ade1b8957b86827e11c06ac57b2148e36011cfe8021db",
+      "contentType": "application/pdf"
+    },
+    "coincide": true,
+    "version": {
+      "origen": "local",
+      "archivo": "fuentes/descargas/vox-programa-2023-archivo/2026-10-14-Programa-VOX-2023-con-menos-peso.pdf",
+      "sha256": "a63a7230318668bb141ade1b8957b86827e11c06ac57b2148e36011cfe8021db",
+      "paginas": 178,
+      "url": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf"
+    },
+    "verificacion": "captura-2023-fuera-de-ventana"
+  },
+  {
+    "id": "2023-sumar",
+    "partido": "sumar",
+    "original": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+    "local": {
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-sumar.pdf",
+      "sha256": "d5ccdac0d20f1b93a5f703f180d086041bd988835072dd5cb5d1378bf0195820",
+      "paginas": 182,
+      "modificado": "Mon Jul 10 08:57:33 2023",
+      "creado": "Mon Jul 10 08:57:20 2023"
+    },
+    "capturas": 6,
+    "fueraDeVentana": false,
+    "captura": {
+      "fecha": "2023-07-24 22:53:36 UTC",
+      "url": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "sha256": "d5ccdac0d20f1b93a5f703f180d086041bd988835072dd5cb5d1378bf0195820",
+      "contentType": "application/pdf"
+    },
+    "coincide": true,
+    "version": {
+      "origen": "local",
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-sumar.pdf",
+      "sha256": "d5ccdac0d20f1b93a5f703f180d086041bd988835072dd5cb5d1378bf0195820",
+      "paginas": 182,
+      "url": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf"
+    },
+    "verificacion": "captura-2023"
+  },
+  {
+    "id": "2023-erc",
+    "partido": "erc",
+    "original": "https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf",
+    "local": {
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-erc.pdf",
+      "sha256": "455e0629d90ef63ab59c43c35d67cdd739165958587e3242eb5b6e4914afe991",
+      "paginas": 132,
+      "modificado": "Wed Jul  5 13:45:58 2023",
+      "creado": "Wed Jul  5 13:26:05 2023"
+    },
+    "capturas": 1,
+    "fueraDeVentana": false,
+    "captura": {
+      "fecha": "2023-07-06 11:51:17 UTC",
+      "url": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf",
+      "sha256": "455e0629d90ef63ab59c43c35d67cdd739165958587e3242eb5b6e4914afe991",
+      "contentType": "application/pdf"
+    },
+    "coincide": true,
+    "version": {
+      "origen": "local",
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-erc.pdf",
+      "sha256": "455e0629d90ef63ab59c43c35d67cdd739165958587e3242eb5b6e4914afe991",
+      "paginas": 132,
+      "url": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf"
+    },
+    "verificacion": "captura-2023"
+  },
+  {
+    "id": "2023-junts",
+    "partido": "junts",
+    "original": "https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+    "local": {
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-junts.pdf",
+      "sha256": "7f73e138b6020f9a12ff260f7baeb3aa2807b60903e91052435f7e0ded7d938b",
+      "paginas": 148,
+      "modificado": "Wed Jul 19 14:07:35 2023",
+      "creado": "Fri Jul  7 19:34:27 2023"
+    },
+    "capturas": 1,
+    "fueraDeVentana": false,
+    "captura": {
+      "fecha": "2023-07-19 15:58:04 UTC",
+      "url": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "sha256": "7f73e138b6020f9a12ff260f7baeb3aa2807b60903e91052435f7e0ded7d938b",
+      "contentType": "application/pdf"
+    },
+    "coincide": true,
+    "version": {
+      "origen": "local",
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-junts.pdf",
+      "sha256": "7f73e138b6020f9a12ff260f7baeb3aa2807b60903e91052435f7e0ded7d938b",
+      "paginas": 148,
+      "url": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf"
+    },
+    "verificacion": "captura-2023"
+  },
+  {
+    "id": "2023-pnv",
+    "partido": "pnv",
+    "original": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+    "local": {
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-pnv.pdf",
+      "sha256": "46fec3a017cdc5c4e506fa5e228b97690071d5a03dfd3d8128392aa20f57d132",
+      "paginas": 52,
+      "modificado": "Fri Jul  7 10:46:03 2023",
+      "creado": "Fri Jul  7 10:39:59 2023"
+    },
+    "capturas": 2,
+    "fueraDeVentana": false,
+    "captura": {
+      "fecha": "2023-07-26 06:00:16 UTC",
+      "url": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "sha256": "46fec3a017cdc5c4e506fa5e228b97690071d5a03dfd3d8128392aa20f57d132",
+      "contentType": "application/pdf"
+    },
+    "coincide": true,
+    "version": {
+      "origen": "local",
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-pnv.pdf",
+      "sha256": "46fec3a017cdc5c4e506fa5e228b97690071d5a03dfd3d8128392aa20f57d132",
+      "paginas": 52,
+      "url": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j"
+    },
+    "verificacion": "captura-2023"
+  },
+  {
+    "id": "2023-bildu",
+    "partido": "bildu",
+    "original": "https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+    "local": {
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-bildu.pdf",
+      "sha256": "6634c0786c1e771c61c1a65e549dfde0d4581d09e19949466e931c96a9642465",
+      "paginas": 16,
+      "modificado": "Thu Jul  6 16:13:01 2023",
+      "creado": "Thu Jul  6 16:13:00 2023"
+    },
+    "capturas": 2,
+    "fueraDeVentana": false,
+    "captura": {
+      "fecha": "2023-07-27 19:16:29 UTC",
+      "url": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+      "sha256": "6634c0786c1e771c61c1a65e549dfde0d4581d09e19949466e931c96a9642465",
+      "contentType": "application/pdf"
+    },
+    "coincide": true,
+    "version": {
+      "origen": "local",
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-bildu.pdf",
+      "sha256": "6634c0786c1e771c61c1a65e549dfde0d4581d09e19949466e931c96a9642465",
+      "paginas": 16,
+      "url": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf"
+    },
+    "verificacion": "captura-2023"
+  },
+  {
+    "id": "2023-bng",
+    "partido": "bng",
+    "original": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+    "local": {
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-bng.pdf",
+      "sha256": "b8994deec0bbc45cdcbef5d7c5395cabf30b0509706303c3d8e76058c48eebfd",
+      "paginas": 68,
+      "modificado": "Fri Jun 23 00:03:52 2023",
+      "creado": "Thu Jun 22 15:07:03 2023"
+    },
+    "capturas": 2,
+    "fueraDeVentana": false,
+    "captura": {
+      "fecha": "2023-07-26 16:44:23 UTC",
+      "url": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "sha256": "b8994deec0bbc45cdcbef5d7c5395cabf30b0509706303c3d8e76058c48eebfd",
+      "contentType": "application/pdf"
+    },
+    "coincide": true,
+    "version": {
+      "origen": "local",
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-bng.pdf",
+      "sha256": "b8994deec0bbc45cdcbef5d7c5395cabf30b0509706303c3d8e76058c48eebfd",
+      "paginas": 68,
+      "url": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf"
+    },
+    "verificacion": "captura-2023"
+  },
+  {
+    "id": "2023-cc",
+    "partido": "cc",
+    "original": "https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf",
+    "local": {
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-cc.pdf",
+      "sha256": "ebcac3e6b17012c77d1a761041dc1615c2b28a527666a1467db66e4b82b49c33",
+      "paginas": 14,
+      "modificado": "Mon Jun 26 11:40:33 2023",
+      "creado": "Mon Jun 26 11:40:33 2023"
+    },
+    "capturas": 1,
+    "fueraDeVentana": true,
+    "captura": {
+      "fecha": "2023-12-10 07:25:30 UTC",
+      "url": "https://web.archive.org/web/20231210072530id_/https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf",
+      "sha256": "ebcac3e6b17012c77d1a761041dc1615c2b28a527666a1467db66e4b82b49c33",
+      "contentType": "application/pdf"
+    },
+    "coincide": true,
+    "version": {
+      "origen": "local",
+      "archivo": "fuentes/descargas/programas-2023/2026-10-14-2023-cc.pdf",
+      "sha256": "ebcac3e6b17012c77d1a761041dc1615c2b28a527666a1467db66e4b82b49c33",
+      "paginas": 14,
+      "url": "https://web.archive.org/web/20231210072530id_/https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf"
+    },
+    "verificacion": "captura-2023-fuera-de-ventana"
+  }
+]

@@ -1,0 +1,2754 @@
+{
+  "titulos": {
+    "2023-pp": "Programa electoral. Un proyecto al servicio de un gran país. 365 medidas",
+    "2023-psoe": "Programa electoral. Elecciones generales 23 julio 2023",
+    "2023-vox": "Programa electoral para las Elecciones Generales del 23J de 2023",
+    "2023-sumar": "Un programa por ti. Elecciones Generales 23 de julio 2023",
+    "2023-erc": "Defensa Catalunya! Eleccions espanyoles 2023. Programa electoral",
+    "2023-junts": "Programa electoral per Catalunya",
+    "2023-pnv": "Euskadiren ahotsa. Con voz propia.",
+    "2023-bildu": "Compromiso de Euskal Herria Bildu",
+    "2023-bng": "Programa Electoral. Eleccións Xerais 2023. Que Galiza Conte! Con Máis Forza!",
+    "2023-cc": "Manifiesto. Un objetivo común, la defensa de Canarias"
+  },
+  "ejes": {
+    "vivienda": {
+      "eje": "Cómo hacer más accesible la vivienda",
+      "motivo": "Eje de partida. Los cuatro estatales tienen propuestas sobre el acceso a la vivienda y son distintas entre sí: avales hipotecarios para jóvenes, construcción de vivienda pública, IVA cero en la primera compra y un gran parque público de alquiler."
+    },
+    "impuestos": {
+      "eje": "El impuesto sobre la renta (IRPF)",
+      "motivo": "Eje de partida. Los cuatro estatales tienen una propuesta concreta y distinta: corregir la inflación en la tarifa, subir el mínimo por hijos, dos tipos del 15 % y el 25 %, y más tramos hasta el 52 %."
+    },
+    "inmigracion": {
+      "eje": "La entrada irregular y el control de fronteras",
+      "motivo": "Eje de partida. Los cuatro estatales tienen propuesta y son muy distintas: más inspección fronteriza, desmantelar mafias en origen, expulsión inmediata y castigar como delito la devolución sumaria en frontera."
+    },
+    "empleo": {
+      "eje": "Los sueldos, incluido el salario mínimo, y la jornada laboral",
+      "motivo": "El eje de partida (salario mínimo y jornada) dejaba fuera a Vox, que no propone nada sobre el salario mínimo ni la jornada, pero sí «la subida de todos los salarios, especialmente los más bajos». Ampliado a los sueldos, cubre a los cuatro estatales sin perder el centro del eje: PP y PSOE proponen sobre el salario mínimo y Sumar sobre la jornada."
+    },
+    "pensiones": {
+      "eje": "Cuánto suben las pensiones",
+      "motivo": "Eje de partida. Lo cubren PP, PSOE y Sumar. Vox no tiene ninguna propuesta sobre la subida de las pensiones: su programa solo trae dos (que no paguen IRPF y su sostenibilidad), y ningún otro eje de pensiones cubriría a los cuatro."
+    },
+    "sanidad": {
+      "eje": "Las listas de espera",
+      "motivo": "Eje de partida. Lo cubren PSOE, Vox y Sumar; el PP no tiene propuestas sobre listas de espera. La alternativa «atención primaria y falta de profesionales» cubriría a los cuatro, pero el PP y Sumar proponen casi lo mismo («plan de choque en atención primaria») y la propuesta del PSOE en ese terreno es menor (una asignatura en el grado). Las listas de espera dan contrastes más claros (ley con plazos máximos frente a conciertos con la privada). Decidido por el responsable del proyecto: se mantiene el eje y el PP va con su propuesta más cercana del tema, fuera de eje."
+    }
+  },
+  "motivosFueraDeEje": {
+    "t2023-impuestos-pnv-1": "El PNV no tiene propuestas sobre el IRPF; se usa su propuesta sobre el IVA.",
+    "t2023-impuestos-pnv-2": "Reserva sin relación con el IRPF: lucha contra el fraude.",
+    "t2023-impuestos-bildu-1": "Bildu no tiene propuestas sobre el IRPF; se usa la de impuestos a banca, energéticas y grandes fortunas.",
+    "t2023-impuestos-bildu-2": "Reserva sin relación con el IRPF.",
+    "t2023-impuestos-psoe-2": "Reserva sobre el impuesto a las grandes fortunas.",
+    "t2023-impuestos-vox-2": "Reserva sobre patrimonio, sucesiones y plusvalía.",
+    "t2023-impuestos-sumar-2": "Reserva sobre el impuesto a las grandes fortunas.",
+    "t2023-impuestos-erc-2": "Reserva sobre los impuestos a banca y energéticas.",
+    "t2023-impuestos-junts-2": "Reserva sobre el impuesto de sociedades.",
+    "t2023-impuestos-bng-2": "Reserva sobre el IVA de la energía.",
+    "t2023-inmigracion-psoe-2": "Reserva sobre vías legales de migración.",
+    "t2023-inmigracion-sumar-2": "Reserva sobre regularización.",
+    "t2023-inmigracion-junts-2": "Reserva sobre vías legales y situación de quienes ya están en el país.",
+    "t2023-inmigracion-bildu-2": "Reserva sobre la ley de extranjería en general.",
+    "t2023-inmigracion-pnv-2": "Reserva sobre el reparto de menores y solicitantes de asilo.",
+    "t2023-inmigracion-bng-2": "Reserva sobre derechos y regularización.",
+    "t2023-empleo-pp-2": "Reserva sobre autónomos.",
+    "t2023-empleo-vox-2": "Reserva sobre cotizaciones por contratos indefinidos.",
+    "t2023-empleo-erc-2": "Reserva sobre el despido.",
+    "t2023-empleo-junts-2": "Reserva sobre autónomos.",
+    "t2023-empleo-pnv-2": "Reserva sobre la prestación por desempleo.",
+    "t2023-empleo-bng-2": "Reserva sobre ETT, subcontratación y falsos autónomos.",
+    "t2023-empleo-cc-1": "Coalición Canaria no tiene propuestas sobre sueldos ni jornada; se usa la de bonificar contratos indefinidos.",
+    "t2023-empleo-cc-2": "Reserva sobre incentivos a contratar jóvenes.",
+    "t2023-pensiones-pp-2": "Reserva sobre contributividad y transparencia.",
+    "t2023-pensiones-psoe-2": "Reserva sobre el fondo de reserva.",
+    "t2023-pensiones-vox-1": "Vox no tiene propuestas sobre la subida de las pensiones; se usa la de que las pensiones no paguen IRPF, que es la más cercana (cuánto cobra el pensionista).",
+    "t2023-pensiones-vox-2": "Reserva sobre desgravaciones fiscales a jubilados con familiares jóvenes a su cargo (medida 131).",
+    "t2023-pensiones-sumar-2": "Reserva sobre la protección constitucional de la Seguridad Social.",
+    "t2023-pensiones-erc-2": "Reserva sobre la edad de jubilación.",
+    "t2023-pensiones-junts-2": "Reserva sobre pensiones no contributivas y su fiscalidad (cuantía, no subida anual).",
+    "t2023-pensiones-pnv-2": "Reserva sobre el fondo de reserva.",
+    "t2023-pensiones-bildu-2": "Reserva sobre la edad de jubilación.",
+    "t2023-pensiones-bng-2": "Reserva sobre la edad de jubilación.",
+    "t2023-pensiones-cc-2": "Reserva sobre un pacto de Estado de pensiones.",
+    "t2023-sanidad-pp-1": "El PP no tiene propuestas sobre listas de espera; se usa su propuesta de 1.000 plazas más de formación en medicina familiar.",
+    "t2023-sanidad-pp-2": "Reserva sobre un plan urgente en atención primaria.",
+    "t2023-sanidad-vox-2": "Reserva sobre inversión en atención primaria.",
+    "t2023-sanidad-sumar-2": "Reserva sobre gestión pública.",
+    "t2023-sanidad-erc-1": "ERC no tiene propuestas sobre listas de espera; se usa la de falta de especialistas.",
+    "t2023-sanidad-erc-2": "Reserva sobre la cartera de servicios.",
+    "t2023-sanidad-junts-1": "Junts no tiene propuestas sobre listas de espera; se usa la de plazas MIR.",
+    "t2023-sanidad-junts-2": "Reserva sobre la ley de profesiones sanitarias.",
+    "t2023-sanidad-pnv-1": "El PNV no tiene propuestas sobre listas de espera; se usa la de plazas MIR.",
+    "t2023-sanidad-pnv-2": "Reserva sobre el derecho al olvido oncológico.",
+    "t2023-sanidad-bildu-1": "Bildu no tiene propuestas sobre listas de espera; se usa la de plazas MIR y atención primaria.",
+    "t2023-sanidad-bildu-2": "Reserva sobre gestión privada.",
+    "t2023-sanidad-bng-1": "El BNG no tiene propuestas sobre listas de espera; se usa la de financiación sanitaria.",
+    "t2023-sanidad-bng-2": "Reserva sobre el copago farmacéutico.",
+    "t2023-sanidad-cc-1": "Coalición Canaria no tiene propuestas sobre listas de espera; se usa la de salud mental.",
+    "t2023-sanidad-cc-2": "Reserva sobre la financiación sanitaria del Estado.",
+    "t2023-vivienda-vox-2": "Reserva sobre suelo (oferta), no directamente sobre el precio de acceso.",
+    "t2023-impuestos-pp-2": "Reserva sobre el impuesto a las grandes fortunas."
+  },
+  "tarjetas": [
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "test",
+      "candidata": "pp-vivienda#2",
+      "texto": "Crear un programa de avales para que jóvenes de hasta 35 años obtengan hipotecas de hasta el 95 % del precio de la vivienda."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "reserva",
+      "candidata": "pp-vivienda#4",
+      "texto": "Movilizar todo el suelo público destinado a vivienda pública para promover viviendas de alquiler asequible."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "test",
+      "candidata": "psoe-vivienda#41",
+      "texto": "Construir 183.000 viviendas públicas para alquiler y garantizar que la mitad vaya destinada a personas jóvenes.",
+      "omitido": {
+        "nota": "La cita junta dos medidas; se recoge la principal (construir 183.000 viviendas, la mitad para jóvenes) y se omite ampliar la dotación y los receptores del Bono de Alquiler Joven."
+      }
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "reserva",
+      "candidata": "psoe-vivienda#4",
+      "texto": "Alcanzar en los próximos años un 20 % de vivienda pública de alquiler, como la media de Francia, Países Bajos o Alemania."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "test",
+      "candidata": "vox-vivienda#5",
+      "texto": "Eliminar el impuesto sobre el valor añadido (IVA) en la compra de la primera vivienda habitual, modificando la ley de ese impuesto."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "vox-vivienda#3",
+      "texto": "Liberar todo el suelo que no esté o deba estar especialmente protegido por su interés ambiental, paisajístico o productivo, o por la defensa nacional."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "test",
+      "candidata": "sumar-vivienda#37",
+      "texto": "Crear en menos de diez años dos millones de viviendas sociales y asequibles de alquiler, con un gasto medio del 1 % del producto interior bruto."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "reserva",
+      "candidata": "sumar-vivienda#23",
+      "texto": "Fijar en zonas tensionadas precios de referencia del alquiler del 30 % de la renta de los hogares. Superarlos quitaría deducciones del impuesto sobre la renta (IRPF) y supondría un recargo en sociedades para fondos y empresas."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "reserva",
+      "candidata": "erc-vivienda#4",
+      "traduccion": "Hacer posible que las comunidades autónomas que tengan competencias en materia de vivienda y derecho civil, foral o especial puedan regular íntegramente los contratos de arrendamientos urbanos, incluida la regulación de los precios del alquiler, la duración de los contratos y sus prórrogas, en el marco del art. 150.1 de la Constitución española.",
+      "texto": "Permitir, vía artículo 150.1 de la Constitución, que las comunidades con competencias en vivienda y derecho civil propio regulen todo el alquiler: precios, duración y prórrogas."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "test",
+      "candidata": "erc-vivienda#13",
+      "traduccion": "Restablecer la deducción en el IRPF de las rentas del alquiler de la vivienda habitual para los arrendatarios, que fue suprimida con efectos del 1 de enero de 2015.",
+      "texto": "Recuperar la deducción en el impuesto sobre la renta (IRPF) por el alquiler de la vivienda habitual para los inquilinos.",
+      "omitido": {
+        "nota": "Se omite la fecha de supresión de la deducción («suprimida con efectos de l’1 de gener de 2015») para respetar el equilibrio del tema.",
+        "cifras": [
+          "1",
+          "2015"
+        ]
+      }
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "test",
+      "candidata": "junts-vivienda#1",
+      "traduccion": "A medio plazo, aumentar progresivamente los fondos estatales destinados a políticas de vivienda, para situarlos en la media europea, del 0,6 % del PIB.",
+      "texto": "Aumentar poco a poco, a medio plazo, los fondos del Estado para políticas de vivienda hasta la media europea, el 0,6 % del producto interior bruto."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "reserva",
+      "candidata": "junts-vivienda#21",
+      "traduccion": "Instar al Estado español a recuperar la deducción estatal en la cuota del IRPF por alquiler de vivienda habitual para los jóvenes menores de 30 años, como una de las herramientas que incentive el alquiler y, por tanto, el acceso a la vivienda y la emancipación de los jóvenes.",
+      "texto": "Pedir al Estado que recupere la deducción estatal del impuesto sobre la renta (IRPF) por alquiler de la vivienda habitual para menores de 30 años."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "test",
+      "candidata": "pnv-vivienda#0",
+      "texto": "Defender políticas que fomenten el alquiler y la promoción de vivienda pública suficiente, atendiendo en especial a las situaciones de emergencia social.",
+      "omitido": {
+        "nota": "Se omite «tal y como se viene desarrollando por el Gobierno Vasco»: es un logro propio, no la medida, y señala el territorio."
+      }
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "reserva",
+      "candidata": "pnv-vivienda#3",
+      "texto": "Defender un equilibrio entre inquilinos y propietarios de vivienda que asegure los derechos de ambas partes."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "test",
+      "candidata": "bildu-vivienda#0",
+      "texto": "Recuperar de forma indefinida la prórroga automática de los contratos de alquiler al renovarlos, con las mismas condiciones y la misma renta."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "reserva",
+      "candidata": "bildu-vivienda#1",
+      "texto": "Congelar de forma temporal y retroactiva las cuotas de hipotecas inferiores a 250.000 euros hasta que se revierta la subida de los tipos de interés. La subida máxima sería del 15 % sobre la cuota previa a julio de 2022."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "test",
+      "candidata": "bng-vivienda#0",
+      "traduccion": "Aumentar la inversión destinada a vivienda hasta alcanzar los 250 euros por habitante.",
+      "texto": "Aumentar la inversión destinada a la vivienda hasta que alcance los 250 euros por cada habitante."
+    },
+    {
+      "tema": "vivienda",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "reserva",
+      "candidata": "bng-vivienda#6",
+      "traduccion": "Ampliar los criterios de recargo del IBI de forma que promuevan una mayor movilización de la vivienda vacía.",
+      "texto": "Ampliar los criterios del recargo del impuesto sobre bienes inmuebles (IBI) para que se pongan en uso más viviendas vacías."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "test",
+      "candidata": "pp-impuestos#1",
+      "texto": "Corregir en la tarifa del impuesto sobre la renta (IRPF) los efectos de la inflación."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "reserva",
+      "candidata": "pp-impuestos#4",
+      "texto": "Eliminar el impuesto a las grandes fortunas, que pagan quienes tienen los patrimonios más altos.",
+      "omitido": {
+        "nota": "La cita junta dos medidas; se recoge la principal (eliminar el impuesto a las grandes fortunas) y se omite simplificar el IRPF y el impuesto de sociedades para pymes. «Que pagan quienes tienen los patrimonios más altos» explica qué es el impuesto."
+      },
+      "fueraDeEje": true
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "test",
+      "candidata": "psoe-impuestos#16",
+      "texto": "Aumentar en el impuesto sobre la renta (IRPF) el mínimo por descendientes y por personas dependientes."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "psoe-impuestos#10",
+      "texto": "Evaluar los resultados del impuesto temporal a las grandes fortunas. Si procede, avanzar en el debate sobre cómo gravar la riqueza dentro de la financiación autonómica."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "test",
+      "pagina": 74,
+      "cita": "IRPF: para implementar la perspectiva de familia, fortaleceremos la economía de las familias y protegeremos su capacidad de ahorro e inversión procediendo a la simplificación progresiva y continuada del IRPF a un tipo único reducido del 15% a aplicar sobre bases imponibles inferiores a 70.000 euros y un tipo ordinario del 25% a aplicar a bases imponibles superiores a dicha cantidad, aplicando la exención de 22.000€ anuales de rentas del trabajo con independencia de tener uno o dos pagadores.",
+      "texto": "Simplificar poco a poco el impuesto sobre la renta (IRPF) a dos tipos: 15 % para bases inferiores a 70.000 euros y 25 % para las superiores.",
+      "omitido": {
+        "nota": "Se recoge la medida principal (dos tipos) y se omite la exención de 22.000 euros anuales de rentas del trabajo, con uno o dos pagadores; con ella la tarjeta superaba en más de 10 palabras a las del PP y el PSOE.",
+        "cifras": [
+          "22000"
+        ]
+      }
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "vox-impuestos#15",
+      "texto": "Suprimir en toda España los impuestos sobre el patrimonio y sobre sucesiones y donaciones. También la plusvalía municipal, que cobran los ayuntamientos cuando se vende, se hereda o se dona un inmueble urbano."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "test",
+      "candidata": "sumar-impuestos#7",
+      "texto": "Crear en el impuesto sobre la renta (IRPF) más tramos desde 120.000 euros y subir el tipo máximo del 45 % al 52 % desde 300.000 euros."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "sumar-impuestos#1",
+      "texto": "Hacer permanente un impuesto a las grandes fortunas y reforzar su progresividad, con tipos de al menos el 4 % para los patrimonios más altos."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "test",
+      "candidata": "erc-impuestos#1",
+      "traduccion": "Para corregirlo, se propone incrementar los tipos aplicados a las rentas del capital, así como crear nuevos tramos adicionales para las rentas más altas.",
+      "texto": "Subir en el impuesto sobre la renta (IRPF) los tipos de las rentas del capital y crear nuevos tramos para las rentas más altas."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "erc-impuestos#2",
+      "traduccion": "Por este motivo, Esquerra apuesta por convertir los impuestos extraordinarios a la banca y a las empresas energéticas en figuras permanentes y que, en consecuencia, un 50 % de lo recaudado se transfiera directamente a las comunidades autónomas, dado que son las principales responsables del gasto social.",
+      "texto": "Convertir en permanentes los impuestos extraordinarios a la banca y a las energéticas. El 50 % de lo recaudado iría directamente a las comunidades autónomas."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "test",
+      "candidata": "junts-impuestos#6",
+      "traduccion": "Asimismo, revisar y reequilibrar la fiscalidad que grava las rentas del trabajo en el impuesto sobre la renta, ya que son las que soportan el grueso de la presión fiscal, con unos tipos impositivos que llegan a ser excesivos.",
+      "texto": "Revisar y reequilibrar lo que pagan las rentas del trabajo en el impuesto sobre la renta (IRPF)."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "junts-impuestos#11",
+      "traduccion": "En cuanto al tipo nominal del impuesto sobre sociedades para las pymes, debe bajar del 25 % al 20 %, compensando así la rebaja de 5 puntos del tipo general aplicada en la última reforma fiscal y que se aplica a las grandes empresas.",
+      "texto": "Bajar del 25 % al 20 % el tipo del impuesto de sociedades para las pequeñas y medianas empresas.",
+      "omitido": {
+        "nota": "Se omite la justificación («compensando así la rebaja de 5 puntos del tipo general…»).",
+        "cifras": [
+          "5"
+        ]
+      }
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "test",
+      "fueraDeEje": true,
+      "candidata": "pnv-impuestos#8",
+      "texto": "Revisar la lista de bienes y servicios del impuesto sobre el valor añadido (IVA) y sus tipos general, reducido y superreducido."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "pnv-impuestos#10",
+      "texto": "Luchar contra el fraude y la evasión fiscal, facilitando la cooperación entre las distintas haciendas del Estado.",
+      "omitido": {
+        "nota": "Se omite la segunda medida de la cita: «Combatir y erradicar las tasas de economía sumergida»."
+      }
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "test",
+      "fueraDeEje": true,
+      "candidata": "bildu-impuestos#0",
+      "texto": "Subir y hacer permanentes los impuestos a la banca, a las energéticas y a las grandes fortunas.",
+      "omitido": {
+        "nota": "Se omite «respetando la competencia y capacidad de nuestras haciendas forales»: es una condición territorial, no el núcleo de la medida."
+      }
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "bildu-impuestos#1",
+      "texto": "Aprobar un impuesto especial sobre los beneficios de las grandes cadenas de distribución de alimentos."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "test",
+      "candidata": "bng-impuestos#3",
+      "traduccion": "Establecer distintos tipos de gravamen en función de la naturaleza de los rendimientos, reduciendo la tributación por los ingresos del trabajo y aumentando la correspondiente a los derivados del capital.",
+      "texto": "Fijar en el impuesto sobre la renta (IRPF) tipos distintos según el origen de los ingresos, bajando los del trabajo y subiendo los del capital."
+    },
+    {
+      "tema": "impuestos",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "bng-impuestos#13",
+      "traduccion": "Establecer la permanencia de la rebaja del IVA de la electricidad, gas, biomasa para calefacción y leña al 5 %, y del resto de suministros básicos.",
+      "texto": "Hacer permanente la rebaja al 5 % del impuesto sobre el valor añadido (IVA) de la electricidad, el gas, la biomasa para calefacción y la leña. También la del resto de suministros básicos."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "test",
+      "candidata": "pp-inmigracion#4",
+      "texto": "Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar el nuevo registro europeo de entradas y salidas de viajeros.",
+      "omitido": {
+        "nota": "Se recoge el refuerzo de la inspección y el registro europeo de entradas y salidas. Se omiten el Sistema Europeo de Información y Autorización de Viaje y la coordinación y participación en las actividades de FRONTEX."
+      }
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "reserva",
+      "candidata": "pp-inmigracion#7",
+      "texto": "Agilizar la ejecución de las órdenes de retorno de inmigrantes en situación irregular y de expulsión de quienes hayan cometido delitos. Se haría con mejores acuerdos con los países de origen o de tránsito."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "test",
+      "candidata": "psoe-inmigracion#1",
+      "texto": "Potenciar una estrategia para desmantelar las mafias que trafican con seres humanos en los países de origen."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "psoe-inmigracion#11",
+      "texto": "Habilitar mejores vías de migración regular y ordenada, fomentando convenios de migración circular: trabajo temporal en España y regreso al país de origen.",
+      "omitido": {
+        "nota": "Se omite «exitosos como los que ya funcionan»: valora y señala a quien gobierna."
+      }
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "test",
+      "candidata": "vox-inmigracion#3",
+      "texto": "Expulsar de forma inmediata a todas las personas inmigrantes que entren de forma irregular en España."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "reserva",
+      "candidata": "vox-inmigracion#7",
+      "texto": "Trasladar el mensaje claro de que cualquier inmigrante que llegue a España de forma irregular nunca podrá regularizar su situación."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "test",
+      "candidata": "sumar-inmigracion#19",
+      "texto": "Convertir en delito la devolución sumaria en la frontera y suprimir la disposición de la ley de extranjería que permite esta práctica.",
+      "omitido": {
+        "nota": "Se recoge la medida principal y se omiten el monitoreo independiente de derechos humanos en la frontera sur, la referencia a Melilla en junio de 2022 y la depuración de responsabilidades.",
+        "cifras": [
+          "2022"
+        ]
+      }
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "sumar-inmigracion#3",
+      "texto": "Reformar la ley de extranjería para que dé prioridad al reconocimiento de derechos e introduzca un procedimiento de regularización permanente."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "test",
+      "candidata": "erc-inmigracion#6",
+      "traduccion": "Poner fin a la práctica ilegal de las devoluciones en caliente. Hay que eliminar el mecanismo específico de devoluciones y expulsiones en Ceuta y Melilla por ser discriminatorio en relación con el resto de la población y por falta de garantías jurídicas básicas de todo procedimiento.",
+      "texto": "Acabar con las devoluciones en caliente y eliminar el mecanismo específico de devoluciones y expulsiones en Ceuta y Melilla."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "test",
+      "candidata": "junts-inmigracion#2",
+      "traduccion": "La eliminación de las devoluciones en caliente derogando la Disposición Adicional 10.ª de la Ley Orgánica 4/2000 sobre derechos y libertades de los extranjeros en España y su integración social.",
+      "texto": "Eliminar las devoluciones en caliente derogando la disposición adicional 10.ª de la Ley Orgánica 4/2000 sobre derechos y libertades de los extranjeros."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "test",
+      "candidata": "bildu-inmigracion#2",
+      "texto": "Exigir el fin de las devoluciones en caliente, tanto por vía terrestre como por vía marítima."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "reserva",
+      "candidata": "erc-inmigracion#5",
+      "traduccion": "Establecer vías legales y seguras de entrada al Estado español, para garantizar el acceso a la libre circulación y al derecho de asilo a las personas desplazadas forzosamente, ante las vulneraciones en el acceso al asilo y la protección internacional.",
+      "texto": "Establecer vías legales y seguras de entrada a España para las personas desplazadas a la fuerza. Servirían para garantizarles el acceso a la libre circulación y al derecho de asilo."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "junts-inmigracion#0",
+      "traduccion": "Trabajar para articular vías legales y seguras de migración regular y movilidad. Buscar vías de solución a las personas que se encuentran en el territorio sin su situación administrativa resuelta.",
+      "texto": "Buscar vías de solución para las personas que están en el territorio sin su situación administrativa resuelta.",
+      "omitido": {
+        "nota": "La cita junta dos medidas; se recoge la más concreta y se omite «Treballar per articular vies legals i segures de migració regular i mobilitat», que sola no llega a 15 palabras."
+      }
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "bildu-inmigracion#0",
+      "texto": "Exigir que se derogue la ley de extranjería y se sustituya por una nueva. Esta garantizaría todos los derechos humanos y civiles de las personas migrantes y su acceso a los servicios públicos básicos."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "test",
+      "candidata": "pnv-inmigracion#4",
+      "texto": "Volver a plantear la reforma de la ley de extranjería. Fijaría cómo comprobar que los rechazos en frontera cumplen los tratados humanitarios y de derechos humanos."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "pnv-inmigracion#1",
+      "texto": "Adoptar medidas para repartir de forma equitativa a los menores migrantes no acompañados y a las personas que piden asilo."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "test",
+      "candidata": "bng-inmigracion#4",
+      "traduccion": "Cierre de los Centros de Internamiento para Extranjeros (CIE) en el Estado español y fin de las deportaciones, garantizando el respeto escrupuloso de los derechos humanos de la población migrante, refugiada y/o solicitante de asilo.",
+      "texto": "Cerrar los centros de internamiento de extranjeros (CIE) en España y poner fin a las expulsiones.",
+      "omitido": {
+        "nota": "Cerrar los CIE y poner fin a las expulsiones no se separan: los CIE existen para ejecutar expulsiones. Se omite «garantindo o respecto escrupuloso dos dereitos humanos…», que es un objetivo general."
+      }
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "pagina": 19,
+      "cita": "Impulsar as reformas lexislativas necesarias para garantir os dereitos da poboación migrante (vivenda, traballo, atención sanitaria, educación...) así como favorecer e facilitar os procesos de regularización administrativa.",
+      "traduccion": "Impulsar las reformas legislativas necesarias para garantizar los derechos de la población migrante (vivienda, trabajo, atención sanitaria, educación...) así como favorecer y facilitar los procesos de regularización administrativa.",
+      "texto": "Impulsar las reformas legales necesarias para garantizar los derechos de la población migrante, como vivienda, trabajo, sanidad o educación.",
+      "omitido": {
+        "nota": "Se omite la segunda medida: favorecer y facilitar los procesos de regularización administrativa."
+      }
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "cc"
+      ],
+      "uso": "test",
+      "candidata": "cc-inmigracion#2",
+      "texto": "Pedir al Gobierno de España que impulse en la Unión Europea más cooperación con los países de origen y tránsito contra la inmigración irregular."
+    },
+    {
+      "tema": "inmigracion",
+      "partidos": [
+        "cc"
+      ],
+      "uso": "reserva",
+      "candidata": "cc-inmigracion#1",
+      "texto": "Pedir al Gobierno de España que promueva en la Unión Europea más coordinación entre las políticas de los Estados miembros. Entre ellas, el rescate de inmigrantes en el mar.",
+      "omitido": {
+        "nota": "Se omite «intensificándose el apoyo directo de la UE a los Estados Miembros en esta materia»."
+      }
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "test",
+      "candidata": "pp-empleo#4",
+      "texto": "Actualizar el salario mínimo interprofesional (SMI) dentro del diálogo social, con participación de sindicatos, empresarios y expertos."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "pp-empleo#10",
+      "texto": "Aprobar una tarifa 0 para los nuevos autónomos durante su primer año, es decir, sin pagar cuota a la Seguridad Social."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "test",
+      "candidata": "psoe-empleo#0",
+      "texto": "Garantizar en el Estatuto de los Trabajadores que el salario mínimo interprofesional (SMI) se ajuste al 60 % del salario medio."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "reserva",
+      "candidata": "psoe-empleo#17",
+      "texto": "Poner en marcha un plan nacional para que las empresas ofrezcan mejor conciliación. Incluiría jornadas que combinen presencia y teletrabajo, horarios más adaptables y la opción de concentrar la semana laboral en cuatro días."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "test",
+      "candidata": "vox-empleo#0",
+      "texto": "Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y la regulación sobre las empresas.",
+      "omitido": {
+        "nota": "La cita tiene dos medidas en dos frases: subir los salarios y reducir las cargas y la regulación de las empresas. Se recogen las dos porque la subida sola no llega a 15 palabras. Se omiten la justificación de la segunda («para que ello no conlleve una destrucción de empleo») y el adjetivo «abusiva», que solo valora."
+      }
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "vox-empleo#1",
+      "texto": "Bonificar las cotizaciones de las empresas que contraten de forma indefinida a trabajadores españoles: el 100 % el primer año y el 50 % el segundo, a cualquier edad."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "test",
+      "candidata": "sumar-empleo#2",
+      "texto": "Fijar por ley en 2024 una jornada máxima de 37,5 horas sin bajar el salario. Después, abrir un diálogo social para reducirla hasta 32 horas semanales."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "reserva",
+      "candidata": "sumar-empleo#5",
+      "texto": "Subir cada año el salario mínimo interprofesional (SMI) por encima del índice de precios de consumo (IPC)."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "test",
+      "candidata": "erc-empleo#0",
+      "traduccion": "El pleno empleo como política pública, con un salario digno y la reducción de las desigualdades salariales, con el incremento del salario mínimo interprofesional a 1.250 euros y con el establecimiento de una escala salarial 1/12 para una equidad retributiva más justa y la erradicación de la brecha salarial.",
+      "texto": "Subir el salario mínimo interprofesional (SMI), el sueldo más bajo que se puede pagar por ley, hasta los 1.250 euros.",
+      "omitido": {
+        "nota": "La cita junta varias medidas; se recoge la principal (subir el salario mínimo a 1.250 euros) y se omiten la escala salarial 1/12 y los objetivos generales (pleno empleo, salario digno, erradicar la brecha salarial).",
+        "cifras": [
+          "1",
+          "12"
+        ]
+      }
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "pagina": 90,
+      "cita": "Recuperació d’una indemnització mínima de 45 dies de salari per any treballat amb un topall de 42 mensualitats per acomiadaments improcedents i preveure legislativament la possibilitat d’incrementar-les atenent a les circumstàncies de cada cas concret d’acord amb l’article 24 de la Carta Social Europea.",
+      "traduccion": "Recuperación de una indemnización mínima de 45 días de salario por año trabajado con un tope de 42 mensualidades para los despidos improcedentes, y prever legalmente la posibilidad de incrementarlas según las circunstancias de cada caso concreto, de acuerdo con el artículo 24 de la Carta Social Europea.",
+      "texto": "Recuperar una indemnización mínima de 45 días de salario por año trabajado, con un tope de 42 mensualidades, en los despidos improcedentes. La ley permitiría aumentarla según cada caso, de acuerdo con el artículo 24 de la Carta Social Europea."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "test",
+      "candidata": "junts-empleo#5",
+      "traduccion": "El salario mínimo interprofesional debe aumentar de los 1.080 € actuales hasta los 1.319 € del salario medio europeo. La Generalitat debe poder fijarlo para Cataluña.",
+      "texto": "Subir el salario mínimo interprofesional de 1.080 euros, el de 2023, hasta los 1.319 euros del salario medio europeo.",
+      "omitido": {
+        "nota": "Se omite la segunda medida: «La Generalitat ha de poder-lo fixar per Catalunya»."
+      }
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "junts-empleo#29",
+      "traduccion": "Establecer una tarifa cero para autónomos no habituales y para los que tienen ingresos bajos, por ejemplo ingresos inferiores al SMI.",
+      "texto": "Establecer una tarifa cero para los autónomos no habituales y para los que tienen ingresos bajos. Por ejemplo, ingresos inferiores al salario mínimo interprofesional."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "test",
+      "candidata": "pnv-empleo#11",
+      "texto": "Impulsar mecanismos que vinculen los salarios a la productividad, protegiendo los derechos de los trabajadores, dentro de un pacto por el empleo.",
+      "omitido": {
+        "nota": "La cita enumera las bases de un pacto por el empleo; se recoge la que entra en el eje (vincular salarios y productividad) y se omiten la estabilidad del empleo, la formación continua y la competitividad. Se omite la justificación («para permitir que las empresas sean más competitivas»)."
+      }
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "pnv-empleo#17",
+      "texto": "Ampliar la cobertura por desempleo hasta un máximo de 36 meses, vinculando las ayudas a participar en programas para encontrar trabajo."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "test",
+      "candidata": "bildu-empleo#3",
+      "texto": "Reducir la jornada laboral a 32 horas semanales sin bajar el salario ni cambiar las condiciones de trabajo."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "reserva",
+      "candidata": "bildu-empleo#4",
+      "texto": "Aplicar medidas específicas para mujeres y jóvenes contra la brecha salarial, la precariedad, la temporalidad y el trabajo a tiempo parcial."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "test",
+      "candidata": "bng-empleo#8",
+      "traduccion": "Promover la implantación de la jornada laboral de 35 horas semanales sin reducción salarial.",
+      "texto": "Promover la implantación de una jornada laboral de 35 horas semanales sin que se reduzca el salario."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "bng-empleo#12",
+      "traduccion": "Eliminar las empresas de trabajo temporal (ETT), la subcontratación en cadena y los falsos autónomos.",
+      "texto": "Eliminar las empresas de trabajo temporal (ETT), la subcontratación en cadena y los falsos autónomos."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "cc"
+      ],
+      "uso": "test",
+      "fueraDeEje": true,
+      "candidata": "cc-empleo#2",
+      "texto": "Pedir bonificaciones en las cotizaciones empresariales por contratos indefinidos de jóvenes de 16 a 30, mayores de 45 y mujeres poco representadas en su ocupación."
+    },
+    {
+      "tema": "empleo",
+      "partidos": [
+        "cc"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "cc-empleo#1",
+      "texto": "Defender que se mantengan los incentivos a la contratación indefinida de jóvenes por parte de microempresas y autónomos.",
+      "omitido": {
+        "nota": "Se omiten los demás incentivos de la cita: emprendimiento joven, primer empleo joven y contratos en prácticas."
+      }
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "test",
+      "pagina": 19,
+      "cita": "GARANTIZAREMOS LA REVALORIZACIÓN DE LAS PENSIONES EN EL MARCO DEL PACTO DE TOLEDO.",
+      "texto": "Garantizar la revalorización de las pensiones en el marco del Pacto de Toledo, el acuerdo parlamentario sobre el sistema de pensiones."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "pp-pensiones#2",
+      "texto": "Impulsar la contributividad del sistema de pensiones, es decir, que la pensión dependa más de lo cotizado durante la vida laboral.",
+      "omitido": {
+        "nota": "La cita junta dos medidas; se recoge la principal (la contributividad) y se omite dar más transparencia y accesibilidad al sistema para consultar la pensión futura."
+      }
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "test",
+      "candidata": "psoe-pensiones#0",
+      "texto": "Reformar la Constitución para que todas las pensiones se revaloricen siempre según el índice de precios de consumo (IPC)."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "psoe-pensiones#11",
+      "texto": "Rellenar el fondo de reserva de la Seguridad Social, la hucha de las pensiones, hasta superar los 20.000 millones de euros en 2027."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "test",
+      "fueraDeEje": true,
+      "pagina": 75,
+      "cita": "las pensiones contributivas estarán exentas de IRPF por justicia con quienes han tributado durante toda su vida laboral.",
+      "texto": "Eximir a las pensiones contributivas de pagar el impuesto sobre la renta de las personas físicas (IRPF)."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "pagina": 65,
+      "cita": "Programa de desgravaciones fiscales para los perceptores de rentas de jubilación y mayores de 65 años que incurran en cargas a favor de familiares menores de 35 años en concepto de gastos sanitarios, educación escolar y universitaria, práctica deportiva y adquisición de su primera vivienda.",
+      "texto": "Crear un programa de desgravaciones fiscales para jubilados y mayores de 65 años que paguen gastos de familiares menores de 35: sanidad, estudios, deporte o su primera vivienda.",
+      "omitido": {
+        "nota": "Sustituye a la reserva anterior (sostenibilidad de las pensiones desmontando el sistema autonómico), cuya medida es reorganizar el Estado y no las pensiones. Es la medida 131, descartada por el fallo de verificar.mjs."
+      }
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "test",
+      "pagina": 15,
+      "cita": "se subirán por encima del IPC las pensiones mínimas y las pensiones no contributivas, hasta que su cuantía alcance, al menos, el umbral de la pobreza.",
+      "texto": "Subir las pensiones mínimas y no contributivas por encima del índice de precios de consumo (IPC) hasta llegar, al menos, al umbral de la pobreza."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "sumar-pensiones#3",
+      "texto": "Impulsar una reforma constitucional que garantice con solidez los derechos sociales y, en concreto, que proteja de forma especial el derecho a la Seguridad Social."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "test",
+      "candidata": "erc-pensiones#6",
+      "traduccion": "Incrementar las pensiones mínimas y establecer revalorizaciones automáticas anclándolas a la evolución del salario mínimo interprofesional, dando cumplimiento a las exigencias de la Carta Social Europea.",
+      "texto": "Subir las pensiones mínimas y revalorizarlas de forma automática según la evolución del salario mínimo interprofesional."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "erc-pensiones#0",
+      "traduccion": "Rebaja de la edad ordinaria de jubilación a los 65 años, sin condicionarla a ninguna cotización mínima.",
+      "texto": "Bajar la edad ordinaria de jubilación a los 65 años, sin exigir ningún mínimo de cotización."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "test",
+      "candidata": "junts-pensiones#11",
+      "traduccion": "Hay que avanzar en una convergencia entre el SMI vigente y la pensión mínima contributiva; hay que entender que la pensión es el salario de las personas jubiladas.",
+      "texto": "Avanzar hacia la convergencia entre el salario mínimo interprofesional vigente y la pensión mínima contributiva."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "junts-pensiones#3",
+      "traduccion": "Seguiremos mejorando las bases reguladoras de las pensiones no contributivas, mejorándolas hasta el 75 % para rentas bajas, y mejorar la fiscalidad de las pensiones que se compatibilizan con rentas procedentes del trabajo.",
+      "texto": "Seguir mejorando las bases reguladoras de las pensiones no contributivas, hasta el 75 % para las rentas bajas.",
+      "omitido": {
+        "nota": "Se omite la segunda medida: mejorar la fiscalidad de las pensiones que se compatibilizan con rentas del trabajo."
+      }
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "test",
+      "pagina": 33,
+      "cita": "defenderemos la vinculación de las pensiones conforme al IPC para que esa revalorización sea irregresiva.",
+      "texto": "Defender que las pensiones se revaloricen según el índice de precios de consumo (IPC) y que esa revalorización no pueda dar marcha atrás."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "pnv-pensiones#8",
+      "texto": "Reformar la ley general de la Seguridad Social para impedir o limitar el uso libre del fondo de reserva de las pensiones. Para ello, recuperar el tope del 3 %."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "test",
+      "candidata": "bildu-pensiones#0",
+      "texto": "Aumentar de manera inmediata la cuantía de las pensiones mínimas hasta llegar a los 1.080 euros.",
+      "omitido": {
+        "nota": "Se omite la segunda medida: «asumiendo también la capacidad propia para complementar estas pensiones aplicando a nuestra realidad las directrices marcadas por la Carta Social Europea»."
+      }
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "bildu-pensiones#2",
+      "texto": "Rechazar cualquier aumento de la edad de jubilación o del número de años que se usan para calcular la pensión."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "test",
+      "candidata": "bng-pensiones#0",
+      "traduccion": "Incremento de las pensiones mínimas hasta situarlas en el 60 % del salario medio.",
+      "texto": "Subir la cuantía de las pensiones mínimas hasta situarla en el 60 % del salario medio."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "bng-pensiones#2",
+      "traduccion": "Recuperar la jubilación ordinaria a los 65 años y la parcial a los 61 años.",
+      "texto": "Recuperar la jubilación ordinaria a los 65 años y la jubilación parcial a los 61 años."
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "cc"
+      ],
+      "uso": "test",
+      "candidata": "cc-pensiones#0",
+      "texto": "Garantizar que las pensiones públicas se actualicen según el coste de la vida, con medidas como financiarlas a través de los Presupuestos Generales del Estado.",
+      "omitido": {
+        "nota": "Se recoge la medida del eje (actualizar según el coste de la vida) con su financiación, y se omiten la sostenibilidad del sistema y la reducción de la brecha de género."
+      }
+    },
+    {
+      "tema": "pensiones",
+      "partidos": [
+        "cc"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "cc-pensiones#1",
+      "texto": "Apoyar un pacto de Estado de pensiones con todos los partidos parlamentarios y los actores sociales, tramitado en la comisión del Pacto de Toledo."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "pp-sanidad#0",
+      "texto": "Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "pp"
+      ],
+      "uso": "test",
+      "fueraDeEje": true,
+      "candidata": "pp-sanidad#3",
+      "texto": "Impulsar con las comunidades autónomas 1.000 plazas más de formación en medicina familiar en la oferta de 2024."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "test",
+      "candidata": "psoe-sanidad#0",
+      "texto": "Fijar por ley tiempos máximos de espera en la sanidad pública: 120 días para operar, 60 para consultas de especialistas y 30 para pruebas, en todo el país."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "psoe"
+      ],
+      "uso": "reserva",
+      "candidata": "psoe-sanidad#1",
+      "texto": "Garantizar tiempos máximos de espera en la atención a la salud mental, con un máximo de 15 días para menores de 21 años."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "test",
+      "candidata": "vox-sanidad#8",
+      "texto": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos. Se incentivaría a los centros públicos y se reforzarían los conciertos con la sanidad privada."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "vox"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "vox-sanidad#6",
+      "texto": "Aumentar la inversión en atención primaria, reforzando la atención rural y las zonas más saturadas.",
+      "omitido": {
+        "nota": "Se omiten las demás medidas de la cita: potenciar la atención presencial y a domicilio, y la digitalización."
+      }
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "test",
+      "candidata": "sumar-sanidad#7",
+      "texto": "Aprobar una ley de listas de espera con tiempos máximos y un registro homogéneo, transparente y fiable de las listas en todo el país."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "sumar"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "sumar-sanidad#4",
+      "texto": "Garantizar el carácter público del Sistema Nacional de Salud, impidiendo las formas de gestión privatizadas.",
+      "omitido": {
+        "nota": "Se omite la segunda medida: el plan de desprivatización de limpieza, hostelería o lavandería."
+      }
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "test",
+      "fueraDeEje": true,
+      "candidata": "erc-sanidad#4",
+      "traduccion": "Promover las políticas necesarias para hacer frente al déficit de profesionales especialistas. Por ejemplo, regular el diploma de acreditación de paliativos, flexibilizar la jubilación de todos los profesionales en todas las especialidades —especialmente las más deficitarias—, poner remedio a la elección de plazas en formación sanitaria especializada o resolver las dificultades en la acreditación de las especialidades de enfermería, entre otras.",
+      "texto": "Promover políticas contra la falta de profesionales especialistas, como flexibilizar su jubilación o regular la acreditación en cuidados paliativos.",
+      "omitido": {
+        "nota": "De los cuatro ejemplos de la cita se recogen dos; se omiten la elección de plazas en formación especializada y la acreditación de las especialidades de enfermería."
+      }
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "erc"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "erc-sanidad#8",
+      "traduccion": "Incorporar nuevas prestaciones y fármacos a la cartera de servicios a nivel estatal, ya que posteriormente deben ser financiados por las comunidades autónomas.",
+      "texto": "Incorporar nuevas prestaciones y nuevos fármacos a la cartera de servicios sanitarios de ámbito estatal."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "test",
+      "fueraDeEje": true,
+      "candidata": "junts-sanidad#3",
+      "traduccion": "Poder ampliar el número de plazas MIR para poder abastecer de médicos especialistas al sistema público de salud de Cataluña.",
+      "texto": "Obtener la competencia para ampliar el número de plazas de médico interno residente (MIR) y así dotar de especialistas al sistema público de salud autonómico."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "junts"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "junts-sanidad#4",
+      "traduccion": "Reformar la Ley de Ordenación de las Profesiones Sanitarias (LOPS), que después de 20 años ha quedado obsoleta: hay que revisar las competencias profesionales (cuando se hizo había licenciados y diplomados, y ahora todos son graduados) e introducir nuevas profesiones (bioingenieros, bioinformáticos, etc.).",
+      "texto": "Reformar la ley de ordenación de las profesiones sanitarias para revisar las competencias profesionales e incluir nuevas profesiones, como bioingenieros o bioinformáticos.",
+      "omitido": {
+        "nota": "Se omite la justificación («que després de 20 anys ha quedat obsoleta»).",
+        "cifras": [
+          "20"
+        ]
+      }
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "test",
+      "fueraDeEje": true,
+      "pagina": 46,
+      "cita": "proponemos cambios en el MIR de manera que se adecúen las plazas y que no queden vacantes, así como facilitar los trámites de acreditación de unidades docentes.",
+      "texto": "Cambiar el sistema de formación de médico interno residente (MIR) para ajustar las plazas y que no queden vacantes.",
+      "omitido": {
+        "nota": "Se omite la segunda medida: facilitar los trámites de acreditación de unidades docentes."
+      }
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "pnv"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "pnv-sanidad#0",
+      "texto": "Impulsar la regulación del derecho al olvido oncológico. Las entidades financieras y aseguradoras no tendrían el historial médico de quien ha superado un cáncer al contratar préstamos, seguros o créditos."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "test",
+      "fueraDeEje": true,
+      "candidata": "bildu-sanidad#0",
+      "texto": "Ampliar y asegurar la adjudicación de plazas de médico interno residente (MIR) para cubrir todas las necesarias y reforzar en especial la atención primaria."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "bildu"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "bildu-sanidad#1",
+      "texto": "Derogar la Ley 15/1997 de gestión del sistema de salud, que permite privatizar y externalizar los servicios sanitarios."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "test",
+      "fueraDeEje": true,
+      "candidata": "bng-sanidad#0",
+      "traduccion": "Aumentar la financiación de la sanidad pública hasta, como mínimo, la media de inversión por habitante de la UE, con el incremento del valor de los parámetros de dispersión y envejecimiento de la población, asegurando mayor racionalidad en el gasto farmacéutico y garantizando la participación gallega en la fijación del precio de los medicamentos.",
+      "texto": "Aumentar la financiación de la sanidad pública hasta, como mínimo, la media de inversión por habitante de la Unión Europea.",
+      "omitido": {
+        "nota": "Se omiten las demás medidas de la cita: más peso de la dispersión y el envejecimiento, racionalizar el gasto farmacéutico y la participación gallega en el precio de los medicamentos."
+      }
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "bng"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "bng-sanidad#4",
+      "traduccion": "Modificar el marco legal actual que regula la participación económica de los usuarios de la sanidad pública en la financiación de la prestación farmacéutica para poner fin al modelo actual de copagos y repagos, que se revela como un impuesto a la enfermedad.",
+      "texto": "Modificar la ley sobre lo que pagan los usuarios de la sanidad pública por sus medicamentos para acabar con los copagos y repagos."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "cc"
+      ],
+      "uso": "test",
+      "fueraDeEje": true,
+      "candidata": "cc-sanidad#3",
+      "texto": "Pedir que el Gobierno central aumente la partida que transfiere a la comunidad autónoma para la atención a la salud mental."
+    },
+    {
+      "tema": "sanidad",
+      "partidos": [
+        "cc"
+      ],
+      "uso": "reserva",
+      "fueraDeEje": true,
+      "candidata": "cc-sanidad#1",
+      "texto": "Defender un nuevo modelo de financiación sanitaria. La obligación constitucional del Estado de financiar la sanidad sería más transparente y específica, sin diluirse en la financiación autonómica.",
+      "omitido": {
+        "nota": "Sustituye a la reserva anterior, que juntaba una medida educativa (detectar antes al alumnado vulnerable) y otra sanitaria (más profesionales de salud mental) que sola no llega a 15 palabras."
+      }
+    }
+  ],
+  "sinPropuesta": [
+    {
+      "partido": "cc",
+      "tema": "vivienda",
+      "motivo": "Su documento (14 páginas) solo nombra la vivienda en una frase genérica sobre igualdad (p. 9), sin ningún compromiso."
+    },
+    {
+      "partido": "cc",
+      "tema": "impuestos",
+      "etiqueta": "sin propuesta neutralizable",
+      "motivo": "Sin propuesta neutralizable. Sus tres propuestas fiscales dependen de su territorio: ampliar diez años la bonificación del 60 % del IRPF para los residentes en La Palma (p. 5), mantener el incentivo al cine «en Canarias» con el «diferencial fiscal con la Península» (p. 9) y aplicar el IGIC, su impuesto propio, a las compras digitales (p. 11). Escribir «una isla concreta» cambia el sentido de una medida pensada para La Palma."
+    }
+  ],
+  "sinReserva": [],
+  "descartes": [
+    {
+      "partido": "vox",
+      "tema": "inmigracion",
+      "pagina": 102,
+      "resumen": "Bloqueo naval y devolución inmediata.",
+      "motivo": "No se elige como tarjeta de test por ser la propuesta más llamativa; se prefiere la expulsión inmediata, que resume mejor su posición."
+    },
+    {
+      "partido": "bildu",
+      "tema": "inmigracion",
+      "pagina": 11,
+      "resumen": "Corredores seguros empezando por reabrir los pasos entre Irun y Hendaia.",
+      "motivo": "Nombra un paso fronterizo de su propio territorio; neutralizarlo cambia el sentido. No se usa como reserva."
+    },
+    {
+      "partido": "bildu",
+      "tema": "empleo",
+      "pagina": 3,
+      "resumen": "SMI de 1.200 euros y SMI propio.",
+      "motivo": "La cita sigue en la página 4 con un SMI propio para su territorio «acorde a nuestra realidad»; neutralizarlo cambia el sentido. Se usa como reserva la de la brecha salarial."
+    },
+    {
+      "partido": "pnv",
+      "tema": "impuestos",
+      "pagina": 16,
+      "resumen": "Convertir en impuestos los gravámenes a banca y energéticas.",
+      "motivo": "Sigue en la página 17 con la reclamación de concertarlos con su territorio; neutralizarlo cambia el sentido. Se usa como reserva la de fraude fiscal."
+    },
+    {
+      "partido": "cc",
+      "tema": "impuestos",
+      "pagina": "5, 9 y 11",
+      "resumen": "Bonificación del IRPF en La Palma, incentivo fiscal al cine en Canarias e IGIC en compras digitales.",
+      "motivo": "Dependen de su territorio: CC queda sin tarjeta de impuestos."
+    },
+    {
+      "partido": "junts",
+      "tema": "sanidad",
+      "pagina": 109,
+      "resumen": "Traspaso de los edificios de hospitales a la Generalitat.",
+      "motivo": "Depende de su territorio y la cita queda cortada en el salto de página."
+    },
+    {
+      "partido": "pp",
+      "tema": "vivienda",
+      "pagina": 33,
+      "resumen": "Explorar soluciones para un uso racional del suelo (Pacto de Estado).",
+      "motivo": "Quitada por el ayudante al no verificarse por el salto de página (antes de arreglar verificar.mjs). Revisada en la segunda pasada: no se usa. «Exploraremos soluciones» es más vago que los avales a jóvenes y junta cuatro medidas (suelo, precios, alquiler y rehabilitación)."
+    },
+    {
+      "partido": "vox",
+      "tema": "impuestos",
+      "pagina": 8,
+      "resumen": "Medida 4, privilegios fiscales forales.",
+      "motivo": "Quitada por el ayudante al quedar cortada en el salto de página (antes de arreglar verificar.mjs). Revisada en la segunda pasada: no se usa. Queda fuera del eje (IRPF) y depende del territorio («derechos históricos»)."
+    },
+    {
+      "partido": "vox",
+      "tema": "pensiones",
+      "pagina": 65,
+      "resumen": "Medida 131, desgravaciones a jubilados.",
+      "motivo": "Quitada por el ayudante al quedar cortada en el salto de página (antes de arreglar verificar.mjs). Revisada en la segunda pasada: **se usa como reserva** (t2023-pensiones-vox-2) en lugar de «sostenibilidad de las pensiones desmontando el sistema autonómico», cuya medida es reorganizar el Estado. Sigue fuera de eje."
+    },
+    {
+      "partido": "vox",
+      "tema": "empleo",
+      "pagina": 23,
+      "resumen": "Medida 37, brecha maternal; medida 353 (p. 163), contratar madres.",
+      "motivo": "Quitadas por el ayudante al quedar cortadas en el salto de página (antes de arreglar verificar.mjs). Revisada en la segunda pasada: no se usan. Quedan fuera del eje (sueldos y jornada), y la tarjeta de test de Vox ya está dentro."
+    },
+    {
+      "partido": "bng",
+      "tema": "empleo",
+      "pagina": 45,
+      "resumen": "Condiciones del personal investigador.",
+      "motivo": "Quitada por el ayudante: partida entre páginas y poco central para el tema. Revisada en la segunda pasada: no se usa. Fuera del eje y poco central."
+    },
+    {
+      "partido": "junts",
+      "tema": "empleo",
+      "pagina": 66,
+      "resumen": "Subvención del 50 % del SMI y bonificación del 100 % en contratos en prácticas.",
+      "motivo": "No incluida por el ayudante al pasar de página (antes de arreglar verificar.mjs). Revisada en la segunda pasada: no se usa. Fuera del eje (son incentivos a contratos en prácticas) y junta dos medidas; la de test de Junts ya está dentro del eje."
+    },
+    {
+      "partido": "pnv",
+      "tema": "empleo",
+      "pagina": "30-31",
+      "resumen": "Fórmulas contractuales y becarios: que la cotización de las prácticas no disuada a las empresas.",
+      "motivo": "No incluida por el ayudante al pasar de página (antes de arreglar verificar.mjs). Revisada en la segunda pasada: no se usa. Es una reflexión sin medida concreta y queda fuera del eje."
+    },
+    {
+      "partido": "vox",
+      "tema": "empleo",
+      "pagina": "90-91",
+      "resumen": "Equiparación salarial y «justa jubilación» de Fuerzas Armadas y policías.",
+      "motivo": "No incluida por el ayudante al pasar de página (antes de arreglar verificar.mjs). Revisada en la segunda pasada: no se usa. Afecta solo a un colectivo, junta dos medidas y usa lenguaje valorativo («justa», «dignificación»); la tarjeta de test de Vox en empleo ya está dentro del eje."
+    },
+    {
+      "partido": "junts",
+      "tema": "sanidad",
+      "pagina": "98-99",
+      "resumen": "Acceso gratuito universal a productos de higiene menstrual, anticonceptivos hormonales y preservativos.",
+      "motivo": "No incluida por el ayudante al pasar de página (antes de arreglar verificar.mjs). Revisada en la segunda pasada: no se usa. Tampoco está en el eje (listas de espera) y no es más concreta que la de plazas MIR."
+    }
+  ],
+  "verificacion": {
+    "corregidas": 10,
+    "descartadas": 11,
+    "nota": "Corregidas: 5 citas que los ayudantes volvieron a copiar del texto (página equivocada, una errata, un arranque que faltaba) y 5 que completé al elegirlas porque los ayudantes las habían cortado en el salto de página (Vox IRPF desde la p. 74, PP pensiones, Vox pensiones, ERC despido y BNG regularización). Descartadas: 11 propuestas quitadas o no incluidas por los ayudantes (las 11 están en la tabla de descartes, con la revisión de la segunda pasada; solo una pasa al banco, la medida 131 de Vox) porque, al principio, verificar.mjs no aceptaba citas que pasan a la página siguiente (el pie y la cabecera de página quedan en medio). Después lo corregí: ahora vale partir la cita en un espacio, con al menos 25 caracteres en su página y el resto en la siguiente. Algunas candidatas siguen cortadas en sus archivos; ninguna de las elegidas."
+  },
+  "documentosBreves": {
+    "2023-bildu": "16 páginas («Compromiso de Euskal Herria Bildu»): una presentación y medidas numeradas por secciones. Tiene alguna propuesta en los seis temas, pero pocas: 3 de vivienda, 3 de impuestos, 5 de inmigración, 11 de empleo, 4 de pensiones y 4 de sanidad. No trata el IRPF ni las listas de espera (tarjetas fuera de eje en impuestos y sanidad).",
+    "2023-cc": "14 páginas: un manifiesto firmado el 26 de junio de 2023 y una lista de «compromisos con Canarias». Sin propuesta en vivienda; en impuestos solo tiene propuestas ligadas a su territorio (una se usa neutralizada, sin reserva); 4 de inmigración, 4 de empleo, 2 de pensiones y 5 de sanidad. No trata sueldos, jornada ni listas de espera (fuera de eje en empleo y sanidad)."
+  },
+  "notasVersiones": [
+    "**PP · sin captura de 2023** (versiones.json: «verificacion»: «sin-captura-2023»). Internet Archive no guardó la dirección del programa (pp.es/storage/2023/07/…) hasta el 19 de junio de 2025, con contenido idéntico byte a byte al archivo local; se enlaza esa captura. El archivo tiene fechas internas del 5 de julio de 2023 (creado a las 14:17 y modificado a las 16:45) y nombre interno «AF LIBRO PROGRAMA_23J_FINAL_CORR_5J». La dirección de pp.es sirvió otro contenido el 14 de noviembre de 2025 (4,99 MB frente a 7,7 MB) y volvió a servir el mismo el 15 de noviembre: por eso no se enlaza la dirección original.",
+    "**Vox y Coalición Canaria**: no hay capturas de mayo a julio de 2023, pero sí de 2023 (16 de noviembre y 10 de diciembre) que coinciden byte a byte con los archivos locales. Se dan por buenas por decisión del responsable del proyecto.",
+    "Los otros siete coinciden byte a byte con una captura de mayo a julio de 2023. No ha hecho falta descargar nada a archivo-2023/: se trabaja con los archivos locales.",
+    "Las fechas internas (pdfinfo) de los diez PDF son de junio y julio de 2023, aunque el servidor de algunos partidos los marque como modificados después."
+  ],
+  "problemas": [
+    "El PP no tiene captura de 2023 de su programa: se enlaza una captura de 2025 idéntica al archivo (ver sección 2).",
+    "Tres de los cuatro estatales en pensiones y en sanidad: Vox no propone nada sobre la subida de las pensiones y el PP nada sobre listas de espera (tarjetas fuera de eje).",
+    "Algunas tarjetas de test se parecen mucho entre partidos (PSOE y Sumar en listas de espera; ERC y Junts en ligar la pensión mínima al salario mínimo). La prueba de adivinar y los revisores dirán si se distinguen.",
+    "Algunas tarjetas de partidos territoriales pueden delatar su origen por el contenido (competencias autonómicas, «su comunidad») aunque no nombren el territorio."
+  ],
+  "decisiones": [],
+  "dudas": [
+    "**Versión del programa del PP.** No hay captura de 2023; las fechas internas y el nombre interno apuntan a la versión final del 5 de julio de 2023, pero no se puede probar con Internet Archive.",
+    "**Tarjetas parecidas entre partidos.** PSOE y Sumar proponen una ley de listas de espera con tiempos máximos (el PSOE con plazos concretos y Sumar con un registro único); ERC y Junts, acercar la pensión mínima al salario mínimo (ERC con revalorización automática, Junts como convergencia). No se han unido porque cada una añade algo distinto. Si los revisores las ven iguales, se unen.",
+    "**Contexto tomado de la página y no de la cita.** En las tarjetas de test de ERC y BNG en impuestos, el texto dice «impuesto sobre la renta (IRPF)» porque la propuesta está dentro de su apartado del IRPF (p. 70 de ERC y p. 39 del BNG), aunque la frase citada no lo nombre. Lo mismo con «es decir, sin pagar cuota a la Seguridad Social» (tarifa 0 del PP) y «doce veces» (la escala 1/12 de ERC, que su p. 92 explica así: «no superi més de dotze vegades el salari més baix»).",
+    "**Neutralización del territorio.** «Su comunidad» (Junts y CC en sanidad). El sentido se mantiene, pero el contenido puede seguir delatando a un partido territorial.",
+    "**Partes omitidas por la regla de una medida por tarjeta.** 30 tarjetas recogen solo la medida principal de su cita o quitan una justificación con cifra (lista en la sección 6). Los revisores ven la cita entera; la guía les explica que lo omitido no es un fallo de alcance salvo que cambie el sentido de lo que queda.",
+    "**Citas recortadas a la parte que contiene la propuesta** (literales, pero sin el principio de la frase): PNV en pensiones y sanidad, Sumar y Vox en pensiones. Lo omitido es un logro pasado, una referencia a lo anterior o una justificación.",
+    "**Vox en pensiones** solo tiene dos propuestas en todo el programa; las dos tarjetas están fuera de eje.",
+    "**Bildu y CC** son documentos breves (ver sección 8): sus tarjetas salen de muy pocas candidatas.",
+    "Las candidatas son exhaustivas en la medida en que lo fueron los cinco ayudantes; no se ha revisado a mano que no falte ninguna propuesta en los programas largos (PSOE, Sumar, Vox)."
+  ],
+  "vagas": [
+    {
+      "id": "t2023-vivienda-pnv-1",
+      "nota": "El programa del PNV casi no trata la vivienda (4 frases): la tarjeta es tan genérica como la cita."
+    },
+    {
+      "id": "t2023-vivienda-pnv-2",
+      "nota": "Igual de genérica que la cita."
+    },
+    {
+      "id": "t2023-pensiones-pp-1",
+      "nota": "La cita no dice cuánto ni cómo suben las pensiones, solo que se garantiza su revalorización en el Pacto de Toledo."
+    },
+    {
+      "id": "t2023-pensiones-junts-1",
+      "nota": "«Avanzar hacia la convergencia», sin cifra ni plazo, como la cita."
+    },
+    {
+      "id": "t2023-pensiones-cc-1",
+      "nota": "«Actualizadas según el coste de la vida», sin más concreción, como la cita."
+    },
+    {
+      "id": "t2023-empleo-pnv-1",
+      "nota": "Un pacto con objetivos generales; la cita no concreta medidas."
+    },
+    {
+      "id": "t2023-inmigracion-psoe-1",
+      "nota": "Una estrategia contra las mafias en origen, sin medidas concretas en la cita."
+    },
+    {
+      "id": "t2023-impuestos-junts-1",
+      "nota": "«Revisar y reequilibrar» sin cifra, como la cita."
+    }
+  ],
+  "autorrevision": [
+    {
+      "id": "t2023-vivienda-psoe-1",
+      "fallaba": "Fidelidad (verbo): la cita dice «queremos construir», un objetivo; «construir» a secas era más fuerte.",
+      "queda": "Tener como objetivo construir 183.000 viviendas públicas de alquiler y garantizar que la mitad sea para jóvenes. También ampliar el presupuesto de la ayuda estatal al alquiler para jóvenes y el número de personas que la reciben."
+    },
+    {
+      "id": "t2023-vivienda-psoe-2",
+      "fallaba": "Fidelidad (verbo): la cita dice «el objetivo será alcanzar».",
+      "queda": "Tener como objetivo alcanzar en los próximos años el 20 % de vivienda pública en alquiler. Así se llegaría a la media de países de la Unión Europea como Francia, Países Bajos o Alemania."
+    },
+    {
+      "id": "t2023-vivienda-pp-2",
+      "fallaba": "Legibilidad: «redes públicas», «patrimonial» y «dominio público» son jerga; «tanto patrimonial como demanial» quiere decir «todo el suelo público, sea cual sea su régimen».",
+      "queda": "Movilizar el suelo de titularidad pública reservado a vivienda, sea cual sea su régimen jurídico. Se destinaría a fórmulas para promover viviendas en alquiler asequible."
+    },
+    {
+      "id": "t2023-vivienda-bildu-1",
+      "fallaba": "Legibilidad: «viven de alquiler» puede entenderse como «viven de las rentas del alquiler».",
+      "queda": "Recuperar de forma indefinida la prórroga automática de los contratos de alquiler cuando se renuevan. Se mantendrían las mismas condiciones y la misma renta. Afecta a las personas que viven en una vivienda alquilada."
+    },
+    {
+      "id": "t2023-impuestos-pnv-2",
+      "fallaba": "Neutralidad: «justicia social» es valorativo.",
+      "queda": "Luchar contra el fraude y la evasión fiscal para repartir las cargas fiscales de forma más equitativa. Se facilitaría la cooperación entre las distintas haciendas del Estado. También combatir y erradicar la economía sumergida."
+    },
+    {
+      "id": "t2023-inmigracion-pp-1",
+      "fallaba": "Fidelidad (verbo): la cita dice «impulsando la implantación», no «aplicar».",
+      "queda": "Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos sistemas europeos de registro de entradas y salidas y de autorización de viaje, y colaborar con la agencia europea de fronteras."
+    },
+    {
+      "id": "t2023-inmigracion-pp-2",
+      "fallaba": "Fidelidad (alcance): faltaba «a la seguridad».",
+      "queda": "Agilizar las órdenes de retorno de inmigrantes irregulares y la expulsión de quienes hayan cometido delitos. Se haría con mejores acuerdos con países de origen y tránsito, para prevenir amenazas a la seguridad y evitar que se animen nuevas llegadas."
+    },
+    {
+      "id": "t2023-empleo-pp-1",
+      "fallaba": "Fidelidad (alcance): la cita dice «decisiones sobre el SMI», no solo sobre su cuantía.",
+      "queda": "Actualizar el salario mínimo interprofesional (SMI) en el marco del diálogo social. Sindicatos, empresarios y personas expertas participarían en la toma de decisiones sobre el SMI."
+    },
+    {
+      "id": "t2023-empleo-erc-1",
+      "fallaba": "Fidelidad: la cita habla de «erradicación de la brecha salarial»; «menos brecha» rebajaba el alcance.",
+      "queda": "Subir el salario mínimo interprofesional a 1.250 euros y fijar una escala salarial 1/12: el sueldo más alto no superaría doce veces el más bajo. Busca el pleno empleo, reducir la desigualdad y acabar con la brecha salarial."
+    },
+    {
+      "id": "t2023-empleo-pp-1",
+      "fallaba": "Equilibrio: tras el cambio anterior, 13 palabras de diferencia con la tarjeta más larga del tema; además, «involucrar» es el verbo de la cita.",
+      "queda": "Actualizar el salario mínimo interprofesional (SMI) en el marco del diálogo social. Se involucraría a sindicatos, empresarios y personas expertas en la toma de decisiones sobre el SMI."
+    },
+    {
+      "id": "t2023-empleo-erc-1",
+      "fallaba": "Equilibrio: era la tarjeta más larga del tema (39 palabras).",
+      "queda": "Subir el salario mínimo interprofesional a 1.250 euros y fijar una escala salarial 1/12: el sueldo más alto no superaría doce veces el más bajo. Busca el pleno empleo, menos desigualdad y acabar con la brecha salarial."
+    }
+  ],
+  "sustituciones": [
+    {
+      "id": "t2023-vivienda-pnv-1",
+      "original": "el Gobierno Vasco dentro de su ámbito competencial exclusivo",
+      "usado": "(omitido)",
+      "motivo": "Logro propio y territorio; no es la medida."
+    },
+    {
+      "id": "t2023-vivienda-psoe-1",
+      "original": "Bono de Alquiler Joven",
+      "usado": "(omitido)",
+      "motivo": "Segunda medida de la cita; además, nombre de un programa asociado al gobierno de un partido."
+    },
+    {
+      "id": "t2023-impuestos-bildu-1",
+      "original": "respetando la competencia y capacidad de nuestras haciendas forales",
+      "usado": "(omitido)",
+      "motivo": "Condición territorial en primera persona; no es el núcleo de la medida."
+    },
+    {
+      "id": "t2023-impuestos-psoe-2",
+      "original": "para acabar con la competencia fiscal desleal entre territorios",
+      "usado": "(omitido)",
+      "motivo": "Justificación; «desleal» es valorativo."
+    },
+    {
+      "id": "t2023-impuestos-vox-2",
+      "original": "impuestos que suponen confiscaciones injustas, duplicadas o desproporcionadas",
+      "usado": "(omitido)",
+      "motivo": "Justificación valorativa, no forma parte de la medida."
+    },
+    {
+      "id": "t2023-impuestos-junts-1",
+      "original": "tipus impositius que arriben a ser excessius",
+      "usado": "(omitido)",
+      "motivo": "Valorativo."
+    },
+    {
+      "id": "t2023-impuestos-erc-2",
+      "original": "Esquerra aposta per",
+      "usado": "(omitido)",
+      "motivo": "Nombre del partido."
+    },
+    {
+      "id": "t2023-inmigracion-vox-1",
+      "original": "que accedan ilegalmente",
+      "usado": "que entren de forma irregular en España",
+      "motivo": "«Ilegal» aplicado a personas es un término asociado a un bloque; «irregular» es el descriptivo. El sentido no cambia."
+    },
+    {
+      "id": "t2023-inmigracion-vox-2",
+      "original": "que llegue ilegalmente",
+      "usado": "que llegue a España de forma irregular",
+      "motivo": "Igual que la anterior."
+    },
+    {
+      "id": "t2023-inmigracion-pp-2",
+      "original": "evitar el efecto “llamada”",
+      "usado": "(omitido)",
+      "motivo": "Justificación; además, término asociado a un bloque."
+    },
+    {
+      "id": "t2023-inmigracion-psoe-2",
+      "original": "convenios de migración circular exitosos",
+      "usado": "convenios de migración circular",
+      "motivo": "«Exitosos» es valorativo."
+    },
+    {
+      "id": "t2023-inmigracion-sumar-1",
+      "original": "para que masacres como la de Melilla en junio de 2022 no vuelvan a suceder",
+      "usado": "(omitido)",
+      "motivo": "Caso concreto que identifica la sensibilidad del partido; «masacres» es un término cargado."
+    },
+    {
+      "id": "t2023-inmigracion-pnv-1",
+      "original": "la postura maximalista de EH Bildu y de ERC",
+      "usado": "(omitido)",
+      "motivo": "Nombres de partidos y crítica a otros."
+    },
+    {
+      "id": "t2023-empleo-junts-1",
+      "original": "La Generalitat ha de poder-lo fixar per Catalunya",
+      "usado": "(omitido)",
+      "motivo": "Segunda medida de la cita y territorio propio."
+    },
+    {
+      "id": "t2023-empleo-bildu-1",
+      "original": "respondiendo a la exigencia de la mayoría sindical vasca",
+      "usado": "(omitido)",
+      "motivo": "Justificación y territorio propio."
+    },
+    {
+      "id": "t2023-empleo-vox-1",
+      "original": "la regulación abusiva que perjudican la generación de empleo",
+      "usado": "la regulación sobre las empresas",
+      "motivo": "«Abusiva» es valorativo."
+    },
+    {
+      "id": "t2023-empleo-erc-1",
+      "original": "un salari digne … una equitat retributiva més justa",
+      "usado": "(omitido)",
+      "motivo": "Valorativo."
+    },
+    {
+      "id": "t2023-pensiones-psoe-1",
+      "original": "Blindaremos el poder adquisitivo de las pensiones con un cambio constitucional",
+      "usado": "Reformar la Constitución para garantizar … el poder adquisitivo",
+      "motivo": "«Blindar» es un término de campaña."
+    },
+    {
+      "id": "t2023-pensiones-sumar-2",
+      "original": "que blinde el derecho a la Seguridad Social",
+      "usado": "que proteja de forma especial",
+      "motivo": "«Blindar» es un término de campaña."
+    },
+    {
+      "id": "t2023-pensiones-vox-1",
+      "original": "por justicia con quienes han tributado",
+      "usado": "(omitido)",
+      "motivo": "Justificación; «por justicia» es valorativo."
+    },
+    {
+      "id": "t2023-pensiones-bildu-1",
+      "original": "asumiendo también la capacidad propia … aplicando a nuestra realidad",
+      "usado": "(omitido)",
+      "motivo": "Segunda medida de la cita, territorio propio y primera persona."
+    },
+    {
+      "id": "t2023-sanidad-sumar-2",
+      "original": "Se blindará el carácter público",
+      "usado": "Garantizar el carácter público",
+      "motivo": "«Blindar» es un término de campaña."
+    },
+    {
+      "id": "t2023-sanidad-junts-1",
+      "original": "el sistema públic de salut a Catalunya",
+      "usado": "el sistema público de salud autonómico",
+      "motivo": "Territorio propio; «autonómico» mantiene el alcance sin el posesivo."
+    },
+    {
+      "id": "t2023-sanidad-bng-1",
+      "original": "garantindo a participación galega",
+      "usado": "(omitido)",
+      "motivo": "Medida secundaria de la cita y territorio propio."
+    },
+    {
+      "id": "t2023-sanidad-bng-2",
+      "original": "que se revela como un imposto á enfermidade",
+      "usado": "(omitido)",
+      "motivo": "Valorativo."
+    },
+    {
+      "id": "t2023-sanidad-cc-1",
+      "original": "la partida que transfiere a Canarias",
+      "usado": "la comunidad autónoma",
+      "motivo": "Territorio propio; el sentido no cambia."
+    },
+    {
+      "id": "t2023-sanidad-bildu-2",
+      "original": "aprobada por el PP",
+      "usado": "(omitido)",
+      "motivo": "Nombre de partido."
+    },
+    {
+      "id": "t2023-pensiones-cc-1",
+      "original": "pensiones dignas … que blinden su presente y futuro",
+      "usado": "(omitido)",
+      "motivo": "«Dignas» es valorativo y «blindar» es un término de campaña; además, son parte de lo omitido por la regla de una medida."
+    },
+    {
+      "id": "t2023-pensiones-cc-2",
+      "original": "un sistema de pensiones dignas, fiable y duradero",
+      "usado": "(omitido)",
+      "motivo": "Objetivo sin cifra ni plazo; «dignas» es valorativo."
+    },
+    {
+      "id": "t2023-inmigracion-erc-1",
+      "original": "la pràctica il·legal de les devolucions en calent",
+      "usado": "las devoluciones en caliente",
+      "motivo": "«Ilegal» es la valoración de la propuesta."
+    },
+    {
+      "id": "t2023-inmigracion-bng-1",
+      "original": "fin das deportacións",
+      "usado": "poner fin a las expulsiones",
+      "motivo": "«Deportaciones» es un término marcado; «expulsión» es el término legal. El sentido no cambia."
+    },
+    {
+      "id": "t2023-sanidad-pp-2",
+      "original": "PLAN DE CHOQUE",
+      "usado": "plan urgente",
+      "motivo": "Expresión de campaña."
+    },
+    {
+      "id": "t2023-pensiones-psoe-1",
+      "original": "ante cualquier circunstancia",
+      "usado": "siempre",
+      "motivo": "La coletilla se leía como favorable; «siempre» mantiene el alcance."
+    },
+    {
+      "id": "t2023-sanidad-cc-1",
+      "original": "el Gobierno del Estado",
+      "usado": "el Gobierno central",
+      "motivo": "«Gobierno del Estado» es propio de una sensibilidad concreta; «Gobierno central» es la expresión neutra."
+    },
+    {
+      "id": "t2023-empleo-vox-1",
+      "original": "la regulación abusiva",
+      "usado": "la regulación",
+      "motivo": "«Abusiva» solo valora; «regulación» es la palabra de la cita."
+    },
+    {
+      "id": "t2023-inmigracion-psoe-2",
+      "original": "convenios de migración circular exitosos como los que ya funcionan",
+      "usado": "convenios de migración circular: trabajo temporal en España y regreso al país de origen",
+      "motivo": "«Exitosos» valora y «como los que ya funcionan» señala a quien gobierna."
+    },
+    {
+      "id": "t2023-empleo-vox-1",
+      "original": "reduciremos drásticamente",
+      "usado": "reducir en gran medida",
+      "motivo": "«De forma drástica» se leía como favorable; «en gran medida» mantiene la intensidad."
+    }
+  ],
+  "resumenAutorrevision": "Resultado por criterio, además de los cambios del registro: **fidelidad**: 6 cambios (verbos más fuertes que la cita y alcances recortados o añadidos); **neutralidad y lenguaje cargado**: 1 cambio en esta pasada; las sustituciones hechas al redactar están en la tabla de abajo; **legibilidad**: 2 cambios (jerga y una expresión ambigua); todas las frases tienen 25 palabras o menos y todas las siglas se explican la primera vez (lo comprueba generar.mjs); **lectura a ciegas** de los 24 textos de PP, PSOE, Vox y Sumar: sin cambios. No encontré palabras ni giros que delaten al partido por el estilo; lo que puede delatar es el contenido (expulsión inmediata, IVA cero, 32 horas), que es lo que el test compara. Se evitaron «blindar», «efecto llamada», «ilegal» aplicado a personas y nombres de programas. Todas las tarjetas siguen el mismo patrón (infinitivo y una segunda frase con el cómo o a quién afecta) y el mismo registro; **equilibrio**: 2 cambios para que en cada tema la tarjeta de test más larga y la más corta no se separen más de 10 palabras (lo comprueba generar.mjs). Las tarjetas vagas porque el programa es vago se han dejado vagas (tabla de abajo). Único aviso de generar.mjs: «mafias» (PSOE, inmigración). Se mantiene: es la palabra de la cita, es descriptiva y la usan programas de bloques distintos.",
+  "pasada2": [
+    {
+      "id": "t2023-vivienda-pp-1",
+      "antes": "Poner en marcha un programa de avales para jóvenes de hasta 35 años. Su fin es garantizar que obtengan hipotecas por hasta el 95 % del precio total de la vivienda.",
+      "motivo": "Equilibrio",
+      "despues": "Crear un programa de avales para que jóvenes de hasta 35 años obtengan hipotecas de hasta el 95 % del precio de la vivienda."
+    },
+    {
+      "id": "t2023-vivienda-pp-2",
+      "antes": "Movilizar el suelo de titularidad pública reservado a vivienda, sea cual sea su régimen jurídico. Se destinaría a fórmulas para promover viviendas en alquiler asequible.",
+      "motivo": "Relleno quitado",
+      "despues": "Movilizar el suelo público reservado a vivienda, sea cual sea su régimen jurídico, para promover viviendas en alquiler asequible."
+    },
+    {
+      "id": "t2023-vivienda-psoe-1",
+      "antes": "Tener como objetivo construir 183.000 viviendas públicas de alquiler y garantizar que la mitad sea para jóvenes. También ampliar el presupuesto de la ayuda estatal al alquiler para jóvenes y el número de personas que la reciben.",
+      "motivo": "Verbo de marco quitado; Una medida",
+      "despues": "Construir 183.000 viviendas públicas para alquiler y garantizar que la mitad vaya destinada a personas jóvenes."
+    },
+    {
+      "id": "t2023-vivienda-psoe-2",
+      "antes": "Tener como objetivo alcanzar en los próximos años el 20 % de vivienda pública en alquiler. Así se llegaría a la media de países de la Unión Europea como Francia, Países Bajos o Alemania.",
+      "motivo": "Verbo de marco quitado",
+      "despues": "Alcanzar en los próximos años un 20 % de vivienda pública de alquiler, como la media de Francia, Países Bajos o Alemania."
+    },
+    {
+      "id": "t2023-vivienda-vox-1",
+      "antes": "Modificar la ley del impuesto sobre el valor añadido (IVA) para eliminarlo en la compra de la primera vivienda habitual. Así, quien compre su primera casa no pagaría este impuesto.",
+      "motivo": "Relleno quitado",
+      "despues": "Eliminar el impuesto sobre el valor añadido (IVA) en la compra de la primera vivienda habitual, modificando la ley de ese impuesto."
+    },
+    {
+      "id": "t2023-vivienda-vox-2",
+      "antes": "Liberar todo el suelo que no esté o deba estar especialmente protegido por su interés ambiental, paisajístico o productivo, o por la defensa nacional. Solo quedaría fuera el suelo con esa protección especial.",
+      "motivo": "Relleno quitado",
+      "despues": "Liberar todo el suelo que no esté o deba estar especialmente protegido por su interés ambiental, paisajístico o productivo, o por la defensa nacional."
+    },
+    {
+      "id": "t2023-vivienda-sumar-1",
+      "antes": "Crear en menos de diez años un parque de dos millones de viviendas sociales y asequibles de alquiler. Se financiaría con un gasto sostenido del 1 % del producto interior bruto (PIB) de media.",
+      "motivo": "Equilibrio",
+      "despues": "Crear en menos de diez años dos millones de viviendas sociales y asequibles de alquiler, con un gasto medio del 1 % del producto interior bruto."
+    },
+    {
+      "id": "t2023-vivienda-sumar-2",
+      "antes": "Fijar en zonas tensionadas precios de referencia del alquiler del 30 % de la renta de los hogares. Quien supere ese precio perdería deducciones del impuesto sobre la renta (IRPF); fondos y empresas pagarían un recargo en el impuesto de sociedades.",
+      "motivo": "Equilibrio",
+      "despues": "Fijar en zonas tensionadas precios de referencia del alquiler del 30 % de la renta de los hogares. Superarlos quitaría deducciones del impuesto sobre la renta (IRPF) y supondría un recargo en sociedades para fondos y empresas."
+    },
+    {
+      "id": "t2023-vivienda-erc-1",
+      "antes": "Permitir que las comunidades autónomas con competencias en vivienda y derecho civil propio regulen por completo los contratos de alquiler: precios, duración y prórrogas. Se haría en el marco del artículo 150.1 de la Constitución.",
+      "motivo": "Equilibrio",
+      "despues": "Permitir, vía artículo 150.1 de la Constitución, que las comunidades con competencias en vivienda y derecho civil propio regulen todo el alquiler: precios, duración y prórrogas."
+    },
+    {
+      "id": "t2023-vivienda-erc-2",
+      "antes": "Recuperar la deducción en el impuesto sobre la renta (IRPF) por el alquiler de la vivienda habitual para los inquilinos. Esta deducción se eliminó con efectos desde el 1 de enero de 2015.",
+      "motivo": "Equilibrio",
+      "despues": "Recuperar la deducción en el impuesto sobre la renta (IRPF) por el alquiler de la vivienda habitual para los inquilinos. Se suprimió desde el 1 de enero de 2015."
+    },
+    {
+      "id": "t2023-vivienda-junts-1",
+      "antes": "Aumentar poco a poco, a medio plazo, el dinero del Estado para políticas de vivienda. El objetivo es llegar a la media europea: el 0,6 % del producto interior bruto (PIB).",
+      "motivo": "Equilibrio",
+      "despues": "Aumentar poco a poco, a medio plazo, los fondos del Estado para políticas de vivienda hasta la media europea, el 0,6 % del producto interior bruto."
+    },
+    {
+      "id": "t2023-vivienda-junts-2",
+      "antes": "Pedir al Estado que recupere la deducción estatal del impuesto sobre la renta (IRPF) por alquilar la vivienda habitual, para menores de 30 años. Busca facilitar el acceso a la vivienda y la emancipación juvenil.",
+      "motivo": "Justificación quitada",
+      "despues": "Pedir al Estado que recupere la deducción estatal del impuesto sobre la renta (IRPF) por alquiler de la vivienda habitual para menores de 30 años."
+    },
+    {
+      "id": "t2023-vivienda-pnv-1",
+      "antes": "Defender políticas que fomenten el alquiler y una promoción suficiente de vivienda pública. Deben atender en especial las emergencias sociales, como ya hace el gobierno autonómico en sus competencias exclusivas.",
+      "motivo": "Caso concreto quitado",
+      "despues": "Defender políticas que fomenten el alquiler y la promoción de vivienda pública suficiente, atendiendo en especial a las situaciones de emergencia social."
+    },
+    {
+      "id": "t2023-vivienda-pnv-2",
+      "antes": "Defender un equilibrio entre la persona que alquila una vivienda y la persona propietaria. Se trata de que queden asegurados los derechos de ambas partes.",
+      "motivo": "Relleno quitado",
+      "despues": "Defender un equilibrio entre inquilinos y propietarios de vivienda que asegure los derechos de ambas partes."
+    },
+    {
+      "id": "t2023-vivienda-bildu-1",
+      "antes": "Recuperar de forma indefinida la prórroga automática de los contratos de alquiler cuando se renuevan. Se mantendrían las mismas condiciones y la misma renta. Afecta a las personas que viven en una vivienda alquilada.",
+      "motivo": "Relleno quitado",
+      "despues": "Recuperar de forma indefinida la prórroga automática de los contratos de alquiler al renovarlos, con las mismas condiciones y la misma renta."
+    },
+    {
+      "id": "t2023-vivienda-bildu-2",
+      "antes": "Congelar de forma temporal y retroactiva las cuotas de hipotecas inferiores a 250.000 euros hasta que se revierta la subida de tipos de interés. Podrían subir como máximo un 15 % sobre la cuota previa a julio de 2022.",
+      "motivo": "Sin cambios de fondo",
+      "despues": "Congelar de forma temporal y retroactiva las cuotas de hipotecas inferiores a 250.000 euros hasta que se revierta la subida de los tipos de interés. La subida máxima sería del 15 % sobre la cuota previa a julio de 2022."
+    },
+    {
+      "id": "t2023-vivienda-bng-1",
+      "antes": "Aumentar la inversión destinada a vivienda hasta alcanzar los 250 euros por habitante. Así, el gasto en políticas de vivienda llegaría a esa cantidad por cada persona.",
+      "motivo": "Relleno quitado",
+      "despues": "Aumentar la inversión destinada a la vivienda hasta que alcance los 250 euros por cada habitante."
+    },
+    {
+      "id": "t2023-vivienda-bng-2",
+      "antes": "Ampliar los criterios del recargo del impuesto sobre bienes inmuebles (IBI) para fomentar que se usen más viviendas vacías. Afectaría a los propietarios de viviendas vacías.",
+      "motivo": "Relleno quitado",
+      "despues": "Ampliar los criterios del recargo del impuesto sobre bienes inmuebles (IBI) para que se movilicen más viviendas vacías."
+    },
+    {
+      "id": "t2023-impuestos-pp-1",
+      "antes": "Corregir el efecto de la inflación en la tarifa del impuesto sobre la renta (IRPF). Sin ese ajuste, la inflación supone una subida real de impuestos para la clase media.",
+      "motivo": "Justificación quitada",
+      "despues": "Corregir en la tarifa del impuesto sobre la renta (IRPF) los efectos de la inflación."
+    },
+    {
+      "id": "t2023-impuestos-pp-2",
+      "antes": "Eliminar el impuesto a las grandes fortunas. Simplificar el impuesto sobre la renta (IRPF) y el de sociedades para las pequeñas y medianas empresas. Sobre todo, para las que tienen pérdidas o aumentan su plantilla con contratos indefinidos.",
+      "motivo": "Una medida",
+      "despues": "Eliminar el impuesto a las grandes fortunas, que pagan quienes tienen los patrimonios más altos."
+    },
+    {
+      "id": "t2023-impuestos-psoe-1",
+      "antes": "Aumentar en el impuesto sobre la renta (IRPF) el mínimo por hijos y por personas dependientes. Busca apoyar a las familias con hijos, impulsar la natalidad y ayudar a cuidar a mayores y dependientes.",
+      "motivo": "Justificación quitada",
+      "despues": "Aumentar en el impuesto sobre la renta (IRPF) el mínimo por descendientes y por personas dependientes."
+    },
+    {
+      "id": "t2023-impuestos-psoe-2",
+      "antes": "Evaluar los resultados del impuesto temporal a las grandes fortunas. Si procede, avanzar en el debate sobre cómo gravar la riqueza en el modelo de financiación autonómica, para acabar con la competencia fiscal entre comunidades.",
+      "motivo": "Justificación quitada",
+      "despues": "Evaluar los resultados del impuesto temporal a las grandes fortunas. Si procede, avanzar en el debate sobre cómo gravar la riqueza dentro de la financiación autonómica."
+    },
+    {
+      "id": "t2023-impuestos-vox-1",
+      "antes": "Simplificar de forma progresiva el impuesto sobre la renta (IRPF): un tipo del 15 % para bases por debajo de 70.000 euros y del 25 % por encima. Quedarían exentos 22.000 euros anuales del trabajo, con uno o dos pagadores.",
+      "motivo": "Una medida; Equilibrio",
+      "despues": "Simplificar poco a poco el impuesto sobre la renta (IRPF) a dos tipos: 15 % para bases inferiores a 70.000 euros y 25 % para las superiores."
+    },
+    {
+      "id": "t2023-impuestos-vox-2",
+      "antes": "Suprimir en toda España el impuesto sobre el patrimonio y el de sucesiones y donaciones. También la plusvalía municipal, que cobran los ayuntamientos cuando se vende un inmueble.",
+      "motivo": "Relleno quitado",
+      "despues": "Suprimir en toda España los impuestos sobre el patrimonio y sobre sucesiones y donaciones. También la plusvalía municipal, que cobran los ayuntamientos cuando se vende, se hereda o se dona un inmueble urbano."
+    },
+    {
+      "id": "t2023-impuestos-sumar-1",
+      "antes": "Hacer más progresivo el impuesto sobre la renta (IRPF). Habría más tramos a partir de 120.000 euros, y el tipo máximo subiría del 45 % actual al 52 % para rentas desde 300.000 euros.",
+      "motivo": "Verbo de marco quitado; Equilibrio",
+      "despues": "Crear en el impuesto sobre la renta (IRPF) más tramos desde 120.000 euros y subir el tipo máximo del 45 % al 52 % desde 300.000 euros."
+    },
+    {
+      "id": "t2023-impuestos-sumar-2",
+      "antes": "Hacer permanente un impuesto a las grandes fortunas y reforzar su progresividad. Los patrimonios más altos pagarían tipos de, al menos, el 4 %. Afectaría a las personas con grandes patrimonios.",
+      "motivo": "Relleno quitado",
+      "despues": "Hacer permanente un impuesto a las grandes fortunas y reforzar su progresividad, con tipos de al menos el 4 % para los patrimonios más altos."
+    },
+    {
+      "id": "t2023-impuestos-erc-1",
+      "antes": "Proponer subir en el impuesto sobre la renta (IRPF) los tipos de las rentas del capital, como intereses o dividendos. Además, crear nuevos tramos adicionales para las rentas más altas.",
+      "motivo": "Verbo de marco quitado",
+      "despues": "Subir en el impuesto sobre la renta (IRPF) los tipos de las rentas del capital y crear nuevos tramos para las rentas más altas."
+    },
+    {
+      "id": "t2023-impuestos-erc-2",
+      "antes": "Convertir en permanentes los impuestos extraordinarios a la banca y a las energéticas. La mitad de lo recaudado, el 50 %, iría directamente a las comunidades autónomas, porque son las principales responsables del gasto social.",
+      "motivo": "Justificación quitada",
+      "despues": "Convertir en permanentes los impuestos extraordinarios a la banca y a las energéticas. El 50 % de lo recaudado iría directamente a las comunidades autónomas."
+    },
+    {
+      "id": "t2023-impuestos-junts-1",
+      "antes": "Revisar y reequilibrar lo que pagan las rentas del trabajo en el impuesto sobre la renta (IRPF). El motivo es que estas rentas soportan la mayor parte de la presión fiscal.",
+      "motivo": "Justificación quitada",
+      "despues": "Revisar y reequilibrar lo que pagan las rentas del trabajo en el impuesto sobre la renta (IRPF)."
+    },
+    {
+      "id": "t2023-impuestos-junts-2",
+      "antes": "Bajar del 25 % al 20 % el tipo del impuesto de sociedades para las pequeñas y medianas empresas. Compensaría la rebaja de 5 puntos que la última reforma aplicó a las grandes empresas.",
+      "motivo": "Justificación quitada",
+      "despues": "Bajar del 25 % al 20 % el tipo del impuesto de sociedades para las pequeñas y medianas empresas."
+    },
+    {
+      "id": "t2023-impuestos-pnv-1",
+      "antes": "Proponer revisar la lista de bienes y servicios del impuesto sobre el valor añadido (IVA) y sus tipos. El objetivo es evitar desigualdades: según estudios, es el impuesto que más las aumenta.",
+      "motivo": "Verbo de marco quitado; Justificación quitada",
+      "despues": "Revisar la lista de bienes y servicios del impuesto sobre el valor añadido (IVA) y sus tipos general, reducido y superreducido."
+    },
+    {
+      "id": "t2023-impuestos-pnv-2",
+      "antes": "Luchar contra el fraude y la evasión fiscal para repartir las cargas fiscales de forma más equitativa. Se facilitaría la cooperación entre las distintas haciendas del Estado. También combatir y erradicar la economía sumergida.",
+      "motivo": "Justificación quitada; Una medida",
+      "despues": "Luchar contra el fraude y la evasión fiscal, facilitando la cooperación entre las distintas haciendas del Estado."
+    },
+    {
+      "id": "t2023-impuestos-bildu-1",
+      "antes": "Aumentar la carga impositiva y hacer permanentes los impuestos a la banca, las energéticas y las grandes fortunas. Se respetaría la competencia de las haciendas forales para gestionarlos y recaudarlos.",
+      "motivo": "Caso concreto quitado",
+      "despues": "Aumentar la carga impositiva y hacer permanentes los impuestos a la banca, a las energéticas y a las grandes fortunas."
+    },
+    {
+      "id": "t2023-impuestos-bildu-2",
+      "antes": "Aprobar un impuesto especial sobre los beneficios de las grandes cadenas que distribuyen alimentos. Afectaría a las grandes empresas de distribución alimentaria, como las cadenas de supermercados.",
+      "motivo": "Relleno quitado",
+      "despues": "Aprobar un impuesto especial sobre los beneficios de las grandes cadenas de distribución de alimentos."
+    },
+    {
+      "id": "t2023-impuestos-bng-1",
+      "antes": "Fijar tipos distintos en el impuesto sobre la renta (IRPF) según el origen de los ingresos. Los del trabajo pagarían menos y los que vienen del capital, como intereses o dividendos, pagarían más.",
+      "motivo": "Equilibrio",
+      "despues": "Fijar en el impuesto sobre la renta (IRPF) tipos distintos según el origen de los ingresos: menos para el trabajo y más para el capital."
+    },
+    {
+      "id": "t2023-impuestos-bng-2",
+      "antes": "Hacer permanente la rebaja al 5 % del impuesto sobre el valor añadido (IVA) de la electricidad, el gas, la biomasa para calefacción y la leña. También se mantendría la rebaja del resto de suministros básicos.",
+      "motivo": "Equilibrio",
+      "despues": "Hacer permanente la rebaja al 5 % del impuesto sobre el valor añadido (IVA) de la electricidad, el gas, la biomasa para calefacción y la leña. También la del resto de suministros básicos."
+    },
+    {
+      "id": "t2023-inmigracion-pp-1",
+      "antes": "Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos sistemas europeos de registro de entradas y salidas y de autorización de viaje, y colaborar con la agencia europea de fronteras.",
+      "motivo": "Una medida; Equilibrio",
+      "despues": "Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos registros europeos de entradas y salidas de viajeros."
+    },
+    {
+      "id": "t2023-inmigracion-pp-2",
+      "antes": "Agilizar las órdenes de retorno de inmigrantes irregulares y la expulsión de quienes hayan cometido delitos. Se haría con mejores acuerdos con países de origen y tránsito, para prevenir amenazas a la seguridad y evitar que se animen nuevas llegadas.",
+      "motivo": "Justificación quitada",
+      "despues": "Agilizar las órdenes de retorno de inmigrantes irregulares y la expulsión de quienes hayan cometido delitos. Se haría con mejores acuerdos con los países de origen o de tránsito."
+    },
+    {
+      "id": "t2023-inmigracion-psoe-1",
+      "antes": "Potenciar una estrategia para desmantelar las mafias que trafican con seres humanos. Se actuaría en los países de origen, de donde salen las personas que migran hacia España.",
+      "motivo": "Relleno quitado",
+      "despues": "Potenciar una estrategia para desmantelar las mafias que trafican con seres humanos en los países de origen."
+    },
+    {
+      "id": "t2023-inmigracion-psoe-2",
+      "antes": "Habilitar mejores vías de migración regular y ordenada que faciliten la integración social y laboral de las personas migrantes. Se impulsarían convenios de migración circular, de trabajo temporal y regreso, como los que ya funcionan.",
+      "motivo": "Justificación quitada",
+      "despues": "Habilitar mejores vías de migración regular y ordenada, fomentando convenios de migración circular como los que ya funcionan."
+    },
+    {
+      "id": "t2023-inmigracion-vox-1",
+      "antes": "Expulsar de inmediato a todos los inmigrantes que entren en España de forma irregular. La medida se aplicaría a cualquier persona que acceda al país sin cumplir los requisitos legales.",
+      "motivo": "Relleno quitado",
+      "despues": "Expulsar de forma inmediata a todas las personas inmigrantes que entren de forma irregular en España."
+    },
+    {
+      "id": "t2023-inmigracion-vox-2",
+      "antes": "Trasladar el mensaje claro de que cualquier inmigrante que llegue a España de forma irregular nunca podrá regularizar su situación. Afectaría a todas las llegadas sin permiso.",
+      "motivo": "Relleno quitado",
+      "despues": "Trasladar el mensaje claro de que cualquier inmigrante que llegue a España de forma irregular nunca podrá regularizar su situación."
+    },
+    {
+      "id": "t2023-inmigracion-sumar-1",
+      "antes": "Castigar como delito la devolución sumaria en frontera y derogar la norma que la permite. Y financiar un control independiente de derechos humanos en la frontera sur, para evitar casos como Melilla en 2022 y depurar responsabilidades.",
+      "motivo": "Una medida; Caso concreto quitado",
+      "despues": "Convertir en delito la devolución sumaria en la frontera y suprimir la disposición de la ley de extranjería que permite esta práctica."
+    },
+    {
+      "id": "t2023-inmigracion-sumar-2",
+      "antes": "Reformar la ley orgánica sobre derechos y libertades de los extranjeros y su integración social para que priorice el reconocimiento de derechos. Además, introduciría un procedimiento de regularización permanente.",
+      "motivo": "Relleno quitado",
+      "despues": "Reformar la ley de extranjería para que dé prioridad al reconocimiento de derechos e introduzca un procedimiento de regularización permanente."
+    },
+    {
+      "id": "t2023-inmigracion-erc-1",
+      "antes": "Acabar con las llamadas devoluciones en caliente, es decir, devolver de inmediato a migrantes en la frontera sin las garantías de un procedimiento. Afecta a quienes intentan entrar en España sin permiso.",
+      "motivo": "Tarjeta compartida separada; Justificación quitada",
+      "despues": "Acabar con las devoluciones en caliente y eliminar el mecanismo específico de devoluciones y expulsiones en Ceuta y Melilla."
+    },
+    {
+      "id": "t2023-inmigracion-junts-1",
+      "antes": "Acabar con las llamadas devoluciones en caliente, es decir, devolver de inmediato a migrantes en la frontera sin las garantías de un procedimiento. Afecta a quienes intentan entrar en España sin permiso.",
+      "motivo": "Tarjeta compartida separada",
+      "despues": "Eliminar las devoluciones en caliente derogando la disposición adicional 10.ª de la Ley Orgánica 4/2000 sobre derechos y libertades de los extranjeros."
+    },
+    {
+      "id": "t2023-inmigracion-bildu-1",
+      "antes": "Acabar con las llamadas devoluciones en caliente, es decir, devolver de inmediato a migrantes en la frontera sin las garantías de un procedimiento. Afecta a quienes intentan entrar en España sin permiso.",
+      "motivo": "Tarjeta compartida separada",
+      "despues": "Exigir el fin de las devoluciones en caliente, tanto por vía terrestre como por vía marítima."
+    },
+    {
+      "id": "t2023-inmigracion-erc-2",
+      "antes": "Establecer vías legales y seguras para entrar en España. Así se garantizaría que las personas desplazadas a la fuerza puedan circular libremente y pedir asilo, ante las vulneraciones actuales de ese derecho.",
+      "motivo": "Justificación quitada",
+      "despues": "Establecer vías legales y seguras de entrada a España que garanticen la libre circulación y el asilo de las personas desplazadas a la fuerza."
+    },
+    {
+      "id": "t2023-inmigracion-junts-2",
+      "antes": "Trabajar para articular vías legales y seguras de migración regular y movilidad. Buscar también soluciones para las personas que están en el territorio sin su situación administrativa resuelta.",
+      "motivo": "Una medida",
+      "despues": "Buscar vías de solución para las personas que están en el territorio sin su situación administrativa resuelta."
+    },
+    {
+      "id": "t2023-inmigracion-bildu-2",
+      "antes": "Exigir la derogación de la ley de extranjería y sustituirla por una nueva ley. Esta respetaría y garantizaría todos los derechos humanos y civiles de las personas migrantes y su acceso a los servicios públicos básicos.",
+      "motivo": "Sin cambios de fondo",
+      "despues": "Exigir que se derogue la ley de extranjería y se sustituya por una nueva. Esta garantizaría todos los derechos humanos y civiles de las personas migrantes y su acceso a los servicios públicos básicos."
+    },
+    {
+      "id": "t2023-inmigracion-pnv-1",
+      "antes": "Volver a plantear la reforma de la ley de extranjería. El fin es poder comprobar que se cumplen los tratados de derechos humanos cuando se rechaza en la frontera a migrantes y solicitantes de asilo.",
+      "motivo": "Equilibrio",
+      "despues": "Volver a plantear la reforma de la ley de extranjería para comprobar que se cumplen los tratados de derechos humanos en los rechazos en frontera."
+    },
+    {
+      "id": "t2023-inmigracion-pnv-2",
+      "antes": "Adoptar medidas para repartir de forma equitativa a los menores migrantes que llegan sin familia. El reparto incluiría también a las personas que piden asilo.",
+      "motivo": "Relleno quitado",
+      "despues": "Adoptar medidas para repartir de forma equitativa a los menores migrantes no acompañados y a las personas que piden asilo."
+    },
+    {
+      "id": "t2023-inmigracion-bng-1",
+      "antes": "Cerrar los centros de internamiento de extranjeros (CIE) y poner fin a las deportaciones. Se garantizaría el respeto estricto de los derechos humanos de migrantes, refugiados y solicitantes de asilo.",
+      "motivo": "Justificación quitada",
+      "despues": "Cerrar los centros de internamiento de extranjeros (CIE) en España y poner fin a las expulsiones."
+    },
+    {
+      "id": "t2023-inmigracion-bng-2",
+      "antes": "Impulsar reformas legales para garantizar los derechos de la población migrante, como vivienda, trabajo, sanidad o educación. También favorecer y facilitar los procesos de regularización administrativa.",
+      "motivo": "Una medida",
+      "despues": "Impulsar las reformas legales necesarias para garantizar los derechos de la población migrante, como vivienda, trabajo, sanidad o educación."
+    },
+    {
+      "id": "t2023-inmigracion-cc-1",
+      "antes": "Pedir al Gobierno de España que impulse en la Unión Europea más cooperación con los países de origen y tránsito. El objetivo es combatir la inmigración irregular.",
+      "motivo": "Relleno quitado",
+      "despues": "Pedir al Gobierno de España que impulse en la Unión Europea más cooperación con los países de origen y tránsito contra la inmigración irregular."
+    },
+    {
+      "id": "t2023-inmigracion-cc-2",
+      "antes": "Pedir al Gobierno de España que promueva en la Unión Europea más coordinación entre los Estados miembros en el rescate de inmigrantes en el mar. La Unión debería apoyar más y de forma directa a los Estados en esta materia.",
+      "motivo": "Una medida",
+      "despues": "Pedir al Gobierno de España que promueva en la Unión Europea más coordinación entre los Estados miembros en el rescate de inmigrantes en el mar."
+    },
+    {
+      "id": "t2023-empleo-pp-1",
+      "antes": "Actualizar el salario mínimo interprofesional (SMI) en el marco del diálogo social. Se involucraría a sindicatos, empresarios y personas expertas en la toma de decisiones sobre el SMI.",
+      "motivo": "Equilibrio",
+      "despues": "Actualizar el salario mínimo interprofesional (SMI) dentro del diálogo social, con participación de sindicatos, empresarios y expertos."
+    },
+    {
+      "id": "t2023-empleo-pp-2",
+      "antes": "Aprobar la tarifa 0 para nuevos autónomos durante su primer año, es decir, sin pagar cuota a la Seguridad Social. Busca dar flexibilidad y sostenibilidad financiera a los trabajadores autónomos.",
+      "motivo": "Justificación quitada",
+      "despues": "Aprobar una tarifa 0 para los nuevos autónomos durante su primer año, es decir, sin pagar cuota a la Seguridad Social."
+    },
+    {
+      "id": "t2023-empleo-psoe-1",
+      "antes": "Garantizar en el Estatuto de los Trabajadores que el salario mínimo interprofesional (SMI) se ajuste al 60 % del salario medio. También ayudaría a lograr la igualdad salarial entre hombres y mujeres.",
+      "motivo": "Justificación quitada",
+      "despues": "Garantizar en el Estatuto de los Trabajadores que el salario mínimo interprofesional (SMI) se ajuste al 60 % del salario medio."
+    },
+    {
+      "id": "t2023-empleo-psoe-2",
+      "antes": "Poner en marcha un plan nacional para que las empresas ofrezcan mejor conciliación. Incluiría jornadas que combinen trabajo presencial y a distancia, horarios más adaptables y la posibilidad de concentrar la semana laboral en cuatro días.",
+      "motivo": "Sin cambios de fondo",
+      "despues": "Poner en marcha un plan nacional para que las empresas ofrezcan mejor conciliación. Incluiría jornadas que combinen presencia y teletrabajo, horarios más adaptables y la opción de concentrar la semana laboral en cuatro días."
+    },
+    {
+      "id": "t2023-empleo-vox-1",
+      "antes": "Impulsar la subida de todos los salarios, sobre todo los más bajos. Para evitar que se destruya empleo, se reducirían de forma drástica las cargas y la regulación sobre las empresas.",
+      "motivo": "Justificación quitada",
+      "despues": "Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y las normas para las empresas."
+    },
+    {
+      "id": "t2023-empleo-vox-2",
+      "antes": "Reducir las cotizaciones a las empresas que contraten de forma indefinida a trabajadores españoles. Los nuevos empleos tendrían una bonificación del 100 % el primer año y del 50 % el segundo, sea cual sea la edad.",
+      "motivo": "Verbo de marco quitado",
+      "despues": "Bonificar las cotizaciones de las empresas que contraten de forma indefinida a trabajadores españoles: el 100 % el primer año y el 50 % el segundo, a cualquier edad."
+    },
+    {
+      "id": "t2023-empleo-sumar-1",
+      "antes": "Reducir la jornada laboral sin bajar el salario. En 2024 se fijaría por ley un máximo de 37,5 horas semanales y se abriría un diálogo social para seguir reduciéndola hasta 32 horas.",
+      "motivo": "Equilibrio",
+      "despues": "Fijar por ley en 2024 una jornada máxima de 37,5 horas sin bajar el salario. Después, abrir un diálogo social para reducirla hasta 32 horas semanales."
+    },
+    {
+      "id": "t2023-empleo-sumar-2",
+      "antes": "Subir el salario mínimo interprofesional (SMI) por encima del índice de precios de consumo (IPC) cada año. Así quienes lo cobran seguirían ganando poder adquisitivo.",
+      "motivo": "Justificación quitada",
+      "despues": "Subir cada año el salario mínimo interprofesional (SMI) por encima del índice de precios de consumo (IPC)."
+    },
+    {
+      "id": "t2023-empleo-erc-1",
+      "antes": "Subir el salario mínimo interprofesional a 1.250 euros y fijar una escala salarial 1/12: el sueldo más alto no superaría doce veces el más bajo. Busca el pleno empleo, menos desigualdad y acabar con la brecha salarial.",
+      "motivo": "Justificación quitada",
+      "despues": "Subir el salario mínimo interprofesional a 1.250 euros y fijar una escala salarial 1/12: el sueldo más alto no superaría doce veces el más bajo."
+    },
+    {
+      "id": "t2023-empleo-erc-2",
+      "antes": "Recuperar una indemnización mínima de 45 días de salario por año trabajado, con un tope de 42 mensualidades, en los despidos improcedentes. La ley permitiría subirla según cada caso, como prevé el artículo 24 de la Carta Social Europea.",
+      "motivo": "Sin cambios de fondo",
+      "despues": "Recuperar una indemnización mínima de 45 días de salario por año trabajado, con un tope de 42 mensualidades, en los despidos improcedentes. La ley permitiría aumentarla según cada caso, de acuerdo con el artículo 24 de la Carta Social Europea."
+    },
+    {
+      "id": "t2023-empleo-junts-1",
+      "antes": "Subir el salario mínimo interprofesional de los 1.080 euros actuales a 1.319 euros, la cifra del salario medio europeo. Además, el gobierno autonómico debería poder fijarlo en su territorio.",
+      "motivo": "Una medida; Caso concreto quitado",
+      "despues": "Subir el salario mínimo interprofesional de los 1.080 euros actuales hasta los 1.319 euros del salario medio europeo."
+    },
+    {
+      "id": "t2023-empleo-junts-2",
+      "antes": "Establecer una tarifa cero en la cuota para los autónomos no habituales y para los que tienen ingresos bajos. Por ejemplo, los que ingresan menos que el salario mínimo interprofesional.",
+      "motivo": "Relleno quitado",
+      "despues": "Establecer una tarifa cero para los autónomos no habituales y para los que tienen ingresos bajos. Por ejemplo, ingresos inferiores al salario mínimo interprofesional."
+    },
+    {
+      "id": "t2023-empleo-pnv-1",
+      "antes": "Un pacto por el empleo entre instituciones, empresas y sindicatos que avance en empleo estable, formación continua y competitividad. Incluiría mecanismos para vincular los salarios a la productividad, protegiendo los derechos de las personas trabajadoras.",
+      "motivo": "Una medida; Justificación quitada",
+      "despues": "Impulsar mecanismos que vinculen los salarios a la productividad, protegiendo los derechos de los trabajadores, dentro de un pacto por el empleo."
+    },
+    {
+      "id": "t2023-empleo-pnv-2",
+      "antes": "Mejorar la protección por desempleo ampliando su duración hasta un máximo de 36 meses. Las ayudas se vincularían a participar en procesos para mejorar la empleabilidad.",
+      "motivo": "Sin cambios de fondo",
+      "despues": "Ampliar la duración de la prestación por desempleo hasta un máximo de 36 meses, vinculando las ayudas a participar en procesos para mejorar la empleabilidad."
+    },
+    {
+      "id": "t2023-empleo-bildu-1",
+      "antes": "Reducir la jornada laboral a 32 horas semanales sin bajar el salario ni cambiar las condiciones de trabajo. Responde a lo que pide la mayoría sindical de su comunidad.",
+      "motivo": "Justificación quitada; Caso concreto quitado",
+      "despues": "Reducir la jornada laboral a 32 horas semanales sin bajar el salario ni cambiar las condiciones de trabajo."
+    },
+    {
+      "id": "t2023-empleo-bildu-2",
+      "antes": "Aplicar medidas específicas para mujeres y jóvenes que reduzcan la brecha salarial que sufren. También buscarían reducir la precariedad, la temporalidad y el trabajo a tiempo parcial frecuentes en estos grupos.",
+      "motivo": "Relleno quitado",
+      "despues": "Aplicar medidas específicas para mujeres y jóvenes contra la brecha salarial, la precariedad, la temporalidad y la parcialidad que sufren."
+    },
+    {
+      "id": "t2023-empleo-bng-1",
+      "antes": "Promover la implantación de una jornada laboral de 35 horas semanales, sin reducir el salario. Es decir, trabajar menos horas a la semana cobrando lo mismo que ahora.",
+      "motivo": "Relleno quitado",
+      "despues": "Promover la implantación de una jornada laboral de 35 horas semanales sin que se reduzca el salario."
+    },
+    {
+      "id": "t2023-empleo-bng-2",
+      "antes": "Eliminar las empresas de trabajo temporal (ETT), la subcontratación en cadena y los falsos autónomos. Son personas que trabajan como autónomas aunque en realidad dependen de una sola empresa.",
+      "motivo": "Relleno quitado",
+      "despues": "Eliminar las empresas de trabajo temporal (ETT), la subcontratación en cadena y los falsos autónomos."
+    },
+    {
+      "id": "t2023-empleo-cc-1",
+      "antes": "Pedir bonificaciones en la cuota empresarial de la Seguridad Social por contratos indefinidos. Se aplicarían a jóvenes de 16 a 30 años, mayores de 45 años y mujeres en ocupaciones donde están poco representadas.",
+      "motivo": "Equilibrio",
+      "despues": "Pedir bonificaciones en las cotizaciones empresariales por contratos indefinidos de jóvenes de 16 a 30, mayores de 45 y mujeres poco representadas en su ocupación."
+    },
+    {
+      "id": "t2023-empleo-cc-2",
+      "antes": "Defender que se mantengan los incentivos a la contratación indefinida de jóvenes por parte de microempresas y autónomos. También los incentivos al emprendimiento joven, al primer empleo joven y a los contratos en prácticas.",
+      "motivo": "Una medida",
+      "despues": "Defender que se mantengan los incentivos a la contratación indefinida de jóvenes por parte de microempresas y autónomos."
+    },
+    {
+      "id": "t2023-pensiones-pp-1",
+      "antes": "Garantizar la revalorización de las pensiones en el marco del Pacto de Toledo. Es el acuerdo parlamentario que orienta las reformas del sistema de pensiones.",
+      "motivo": "Equilibrio",
+      "despues": "Garantizar la revalorización de las pensiones en el marco del Pacto de Toledo, el acuerdo parlamentario sobre el sistema de pensiones."
+    },
+    {
+      "id": "t2023-pensiones-pp-2",
+      "antes": "Impulsar que la pensión dependa más de lo cotizado y dar más transparencia al sistema. Así todos los trabajadores podrían consultar con más sencillez una estimación de su pensión futura.",
+      "motivo": "Una medida",
+      "despues": "Impulsar la contributividad del sistema de pensiones, es decir, que la pensión dependa más de lo cotizado durante la vida laboral."
+    },
+    {
+      "id": "t2023-pensiones-psoe-1",
+      "antes": "Garantizar mediante un cambio en la Constitución el poder adquisitivo de las pensiones. Todas se revalorizarían según el índice de precios de consumo (IPC) en cualquier circunstancia.",
+      "motivo": "Verbo de marco quitado",
+      "despues": "Reformar la Constitución para que todas las pensiones se revaloricen siempre según el índice de precios de consumo (IPC)."
+    },
+    {
+      "id": "t2023-pensiones-psoe-2",
+      "antes": "Rellenar el fondo de reserva de la Seguridad Social, conocido como la hucha de las pensiones. En 2027 tendría más de 20.000 millones de euros.",
+      "motivo": "Relleno quitado",
+      "despues": "Rellenar el fondo de reserva de la Seguridad Social, la hucha de las pensiones, hasta superar los 20.000 millones de euros en 2027."
+    },
+    {
+      "id": "t2023-pensiones-vox-1",
+      "antes": "Dejar exentas del impuesto sobre la renta (IRPF) las pensiones contributivas. El motivo es que quienes las cobran ya pagaron impuestos durante toda su vida laboral.",
+      "motivo": "Justificación quitada",
+      "despues": "Eximir a las pensiones contributivas de pagar el impuesto sobre la renta de las personas físicas (IRPF)."
+    },
+    {
+      "id": "t2023-pensiones-vox-2",
+      "antes": "Asegurar la sostenibilidad de las pensiones desmontando el sistema autonómico. Se eliminarían duplicidades y habría menos ministerios, consejerías, diputados y parlamentos. También se acabaría con lo que la propuesta llama despilfarro político.",
+      "motivo": "Nueva reserva",
+      "nuevaCita": true,
+      "despues": "Crear un programa de desgravaciones fiscales para jubilados y mayores de 65 años que paguen gastos de familiares menores de 35: sanidad, estudios, deporte o su primera vivienda."
+    },
+    {
+      "id": "t2023-pensiones-sumar-1",
+      "antes": "Subir las pensiones mínimas y las no contributivas por encima del índice de precios de consumo (IPC). Seguirían subiendo así hasta llegar, al menos, al umbral de la pobreza.",
+      "motivo": "Relleno quitado",
+      "despues": "Subir las pensiones mínimas y no contributivas por encima del índice de precios de consumo (IPC) hasta llegar, al menos, al umbral de la pobreza."
+    },
+    {
+      "id": "t2023-pensiones-sumar-2",
+      "antes": "Impulsar una reforma de la Constitución que garantice con solidez los derechos sociales. En concreto, el derecho a la Seguridad Social quedaría protegido de forma especial en el texto constitucional.",
+      "motivo": "Relleno quitado",
+      "despues": "Impulsar una reforma constitucional que garantice con solidez los derechos sociales y, en concreto, que proteja de forma especial el derecho a la Seguridad Social."
+    },
+    {
+      "id": "t2023-pensiones-erc-1",
+      "antes": "Subir las pensiones mínimas y revalorizarlas de forma automática según la evolución del salario mínimo interprofesional. Así se cumplirían las exigencias de la Carta Social Europea.",
+      "motivo": "Justificación quitada",
+      "despues": "Subir las pensiones mínimas y revalorizarlas de forma automática según la evolución del salario mínimo interprofesional."
+    },
+    {
+      "id": "t2023-pensiones-erc-2",
+      "antes": "Bajar la edad ordinaria de jubilación a los 65 años, sin exigir para ello ningún mínimo de cotización. Afectaría a todas las personas que se jubilan.",
+      "motivo": "Relleno quitado",
+      "despues": "Bajar la edad ordinaria de jubilación a los 65 años, sin exigir ningún mínimo de cotización."
+    },
+    {
+      "id": "t2023-pensiones-junts-1",
+      "antes": "Avanzar hacia la convergencia entre el salario mínimo interprofesional vigente y la pensión mínima contributiva. La idea es que la pensión es el salario de las personas jubiladas.",
+      "motivo": "Justificación quitada",
+      "despues": "Avanzar hacia la convergencia entre el salario mínimo interprofesional vigente y la pensión mínima contributiva."
+    },
+    {
+      "id": "t2023-pensiones-junts-2",
+      "antes": "Seguir mejorando las bases reguladoras de las pensiones no contributivas hasta el 75 % para rentas bajas. También mejorar la fiscalidad de las pensiones que se cobran junto con un sueldo.",
+      "motivo": "Una medida",
+      "despues": "Seguir mejorando las bases reguladoras de las pensiones no contributivas, hasta el 75 % para las rentas bajas."
+    },
+    {
+      "id": "t2023-pensiones-pnv-1",
+      "antes": "Defender que las pensiones se revaloricen según el índice de precios de consumo (IPC). Se busca que la revalorización sea irreversible y no pueda dar marcha atrás.",
+      "motivo": "Relleno quitado",
+      "despues": "Defender que las pensiones se revaloricen según el índice de precios de consumo (IPC) y que esa revalorización no pueda dar marcha atrás."
+    },
+    {
+      "id": "t2023-pensiones-pnv-2",
+      "antes": "Reformar la ley general de la Seguridad Social para limitar el uso libre del fondo de reserva de las pensiones. Se recuperaría el tope del 3 % y solo podría usarse en casos excepcionales con controles extraordinarios.",
+      "motivo": "Equilibrio",
+      "despues": "Reformar la ley general de la Seguridad Social para limitar el uso libre del fondo de reserva de las pensiones, recuperando el tope del 3 %."
+    },
+    {
+      "id": "t2023-pensiones-bildu-1",
+      "antes": "Subir de inmediato las pensiones mínimas hasta 1.080 euros. Además, que su comunidad pueda complementarlas con recursos propios, aplicando la Carta Social Europea para que sean suficientes.",
+      "motivo": "Una medida; Caso concreto quitado",
+      "despues": "Aumentar de manera inmediata la cuantía de las pensiones mínimas hasta llegar a los 1.080 euros."
+    },
+    {
+      "id": "t2023-pensiones-bildu-2",
+      "antes": "Rechazar cualquier aumento de la edad de jubilación y cualquier ampliación del periodo de años que se usa para calcular la pensión. Afectaría a quienes se jubilen en el futuro.",
+      "motivo": "Relleno quitado",
+      "despues": "Rechazar cualquier aumento de la edad de jubilación o del número de años que se usan para calcular la pensión."
+    },
+    {
+      "id": "t2023-pensiones-bng-1",
+      "antes": "Subir las pensiones mínimas hasta situarlas en el 60 % del salario medio. Afectaría a las personas que hoy cobran las pensiones más bajas del sistema público.",
+      "motivo": "Relleno quitado",
+      "despues": "Subir la cuantía de las pensiones mínimas hasta situarla en el 60 % del salario medio."
+    },
+    {
+      "id": "t2023-pensiones-bng-2",
+      "antes": "Recuperar la jubilación ordinaria a los 65 años y la jubilación parcial a los 61 años. Afectaría a las personas trabajadoras cercanas a la jubilación.",
+      "motivo": "Relleno quitado",
+      "despues": "Recuperar la jubilación ordinaria a los 65 años y la jubilación parcial a los 61 años."
+    },
+    {
+      "id": "t2023-pensiones-cc-1",
+      "antes": "Defender la sostenibilidad de las pensiones públicas. Las pensiones se actualizarían según el coste de la vida y se reduciría la brecha de género. Se financiarían con los Presupuestos Generales del Estado para dar certidumbre.",
+      "motivo": "Una medida",
+      "despues": "Garantizar que las pensiones públicas se actualicen según el coste de la vida, financiándolas con los Presupuestos Generales del Estado."
+    },
+    {
+      "id": "t2023-pensiones-cc-2",
+      "antes": "Apoyar un pacto de Estado firmado por todos los partidos del Parlamento y con los actores sociales. Se tramitaría en la comisión del Pacto de Toledo y garantizaría pensiones suficientes y sostenibles ahora y en el futuro.",
+      "motivo": "Justificación quitada",
+      "despues": "Apoyar un pacto de Estado de pensiones con todos los partidos parlamentarios y los actores sociales, tramitado en la comisión del Pacto de Toledo."
+    },
+    {
+      "id": "t2023-sanidad-pp-1",
+      "antes": "Promover un plan de choque en atención primaria. Su objetivo es resolver la falta de especialistas en este nivel de atención, como médicos de familia y pediatras.",
+      "motivo": "Contexto añadido quitado",
+      "despues": "Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria."
+    },
+    {
+      "id": "t2023-sanidad-pp-2",
+      "antes": "Impulsar junto con las comunidades autónomas 1.000 plazas más de formación en medicina familiar en la oferta de 2024. Así habría más médicos de familia en formación.",
+      "motivo": "Relleno quitado",
+      "despues": "Impulsar con las comunidades autónomas 1.000 plazas más de formación en medicina familiar en la oferta de 2024."
+    },
+    {
+      "id": "t2023-sanidad-psoe-1",
+      "antes": "Acabar con las listas de espera fijando por ley tiempos máximos en la sanidad pública: 120 días para operaciones, 60 para consultas de especialistas y 30 para pruebas, con independencia del lugar de residencia.",
+      "motivo": "Verbo de marco quitado",
+      "despues": "Fijar por ley tiempos máximos de espera en la sanidad pública: 120 días para operar, 60 para consultas de especialistas y 30 para pruebas, en todo el país."
+    },
+    {
+      "id": "t2023-sanidad-psoe-2",
+      "antes": "Establecer tiempos máximos de espera garantizados en la atención a la salud mental. Para los menores de 21 años, la espera máxima sería de 15 días.",
+      "motivo": "Sin cambios de fondo",
+      "despues": "Garantizar tiempos máximos de espera en la atención a la salud mental, con un máximo de 15 días para menores de 21 años."
+    },
+    {
+      "id": "t2023-sanidad-vox-1",
+      "antes": "Reducir el volumen y el tiempo de las listas de espera en todos los ámbitos. Se incentivaría a los centros públicos para reducirlas y se reforzarían los conciertos con la sanidad privada.",
+      "motivo": "Sin cambios de fondo",
+      "despues": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos, con incentivos a los centros públicos y más conciertos con centros privados."
+    },
+    {
+      "id": "t2023-sanidad-vox-2",
+      "antes": "Aumentar la inversión en atención primaria, reforzando la atención rural y las zonas más saturadas. Se potenciaría la atención presencial y a domicilio, y la digitalización para reducir la burocracia.",
+      "motivo": "Una medida",
+      "despues": "Aumentar la inversión en atención primaria, reforzando la atención rural y las zonas más saturadas."
+    },
+    {
+      "id": "t2023-sanidad-sumar-1",
+      "antes": "Aprobar una ley de listas de espera que fije tiempos máximos. También crearía un registro homogéneo, transparente y fiable de las listas de espera en todo el país.",
+      "motivo": "Equilibrio",
+      "despues": "Aprobar una ley de listas de espera con tiempos máximos y un registro homogéneo, transparente y fiable de las listas en todo el país."
+    },
+    {
+      "id": "t2023-sanidad-sumar-2",
+      "antes": "Garantizar el carácter público del Sistema Nacional de Salud, impidiendo las formas de gestión privatizadas. Un plan de desprivatización incluiría servicios como limpieza, hostelería o lavandería, para garantizar una atención de calidad.",
+      "motivo": "Una medida",
+      "despues": "Garantizar el carácter público del Sistema Nacional de Salud, impidiendo las formas de gestión privatizadas."
+    },
+    {
+      "id": "t2023-sanidad-erc-1",
+      "antes": "Promover políticas contra la falta de profesionales especialistas. Por ejemplo, regular la acreditación en cuidados paliativos y flexibilizar la jubilación de los profesionales. También mejorar la elección de plazas de formación y la acreditación en enfermería.",
+      "motivo": "Una medida",
+      "despues": "Promover políticas contra la falta de profesionales especialistas, como flexibilizar su jubilación o regular la acreditación en cuidados paliativos."
+    },
+    {
+      "id": "t2023-sanidad-erc-2",
+      "antes": "Incorporar nuevas prestaciones y fármacos a la cartera de servicios de ámbito estatal. El motivo es que después son las comunidades autónomas las que deben financiarlos.",
+      "motivo": "Justificación quitada",
+      "despues": "Incorporar nuevas prestaciones y nuevos fármacos a la cartera de servicios sanitarios de ámbito estatal."
+    },
+    {
+      "id": "t2023-sanidad-junts-1",
+      "antes": "Poder ampliar el número de plazas de médico interno residente (MIR), que forman especialistas. Así el sistema público de salud de su comunidad tendría suficientes médicos especialistas.",
+      "motivo": "Relleno quitado",
+      "despues": "Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud autonómico tenga especialistas."
+    },
+    {
+      "id": "t2023-sanidad-junts-2",
+      "antes": "Reformar la ley que ordena las profesiones sanitarias, que tiene 20 años y ha quedado obsoleta. Habría que revisar las competencias profesionales e incluir nuevas profesiones, como bioingenieros o bioinformáticos.",
+      "motivo": "Justificación quitada",
+      "despues": "Reformar la ley de ordenación de las profesiones sanitarias para revisar las competencias profesionales e incluir nuevas profesiones, como bioingenieros o bioinformáticos."
+    },
+    {
+      "id": "t2023-sanidad-pnv-1",
+      "antes": "Proponer cambios en el sistema de médico interno residente (MIR) para ajustar las plazas y que no queden vacantes. También facilitar los trámites para acreditar las unidades docentes que forman especialistas.",
+      "motivo": "Verbo de marco quitado; Una medida",
+      "despues": "Cambiar el sistema de formación de médico interno residente (MIR) para ajustar las plazas y que no queden vacantes."
+    },
+    {
+      "id": "t2023-sanidad-pnv-2",
+      "antes": "Impulsar la regulación del derecho al olvido oncológico. Las entidades financieras y aseguradoras no tendrían el historial médico de quien ha superado un cáncer al contratar un préstamo, un seguro o un crédito.",
+      "motivo": "Sin cambios de fondo",
+      "despues": "Impulsar la regulación del derecho al olvido oncológico: que bancos y aseguradoras no tengan el historial médico de quien ha superado un cáncer al contratar un préstamo, un seguro o un crédito."
+    },
+    {
+      "id": "t2023-sanidad-bildu-1",
+      "antes": "Ampliar y asegurar la adjudicación de plazas de médico interno residente (MIR) para cubrir todas las necesarias. Se reforzaría en especial la atención primaria de los centros de salud.",
+      "motivo": "Relleno quitado",
+      "despues": "Ampliar y asegurar la adjudicación de plazas de médico interno residente (MIR) para cubrir todas las necesarias y reforzar en especial la atención primaria."
+    },
+    {
+      "id": "t2023-sanidad-bildu-2",
+      "antes": "Derogar la Ley 15/1997 de gestión del sistema de salud. Esta ley permite privatizar y externalizar los servicios sanitarios. Afectaría a cómo se gestionan los servicios sanitarios públicos.",
+      "motivo": "Relleno quitado",
+      "despues": "Derogar la Ley 15/1997 de gestión del sistema de salud, que permite privatizar y externalizar los servicios sanitarios."
+    },
+    {
+      "id": "t2023-sanidad-bng-1",
+      "antes": "Subir la financiación de la sanidad pública al menos hasta la media europea por habitante, valorando más la dispersión y el envejecimiento. Además, racionalizar el gasto en fármacos y que su comunidad participe en fijar su precio.",
+      "motivo": "Una medida; Caso concreto quitado",
+      "despues": "Aumentar la financiación de la sanidad pública hasta, como mínimo, la media de inversión por habitante de la Unión Europea."
+    },
+    {
+      "id": "t2023-sanidad-bng-2",
+      "antes": "Modificar la ley que regula cuánto pagan los usuarios de la sanidad pública por sus medicamentos. El fin es acabar con el modelo actual de copagos y repagos.",
+      "motivo": "Justificación quitada",
+      "despues": "Modificar la ley sobre lo que pagan los usuarios de la sanidad pública por sus medicamentos para acabar con los copagos y repagos."
+    },
+    {
+      "id": "t2023-sanidad-cc-1",
+      "antes": "Pedir que el Gobierno del Estado aumente la partida de dinero que transfiere a su comunidad autónoma. Así se seguiría impulsando la atención a la salud mental.",
+      "motivo": "Relleno quitado",
+      "despues": "Pedir que el Gobierno central aumente la partida que transfiere a la comunidad autónoma para la atención a la salud mental."
+    },
+    {
+      "id": "t2023-sanidad-cc-2",
+      "antes": "Plantear que se detecte antes al alumnado en situación socialmente vulnerable y que reciba apoyo y refuerzo educativo de forma preventiva. También aumentar el número de profesionales de salud mental.",
+      "motivo": "Nueva reserva",
+      "nuevaCita": true,
+      "despues": "Defender un nuevo modelo de financiación sanitaria. La obligación constitucional del Estado de financiar la sanidad sería más transparente y específica, sin diluirse en la financiación autonómica."
+    }
+  ],
+  "pasada2Retiradas": [
+    {
+      "id": "t2023-impuestos-cc-1",
+      "antes": "Proponer ampliar durante diez años la bonificación del 60 % en el impuesto sobre la renta (IRPF) para los residentes de una isla concreta. Busca contribuir a su recuperación económica y social.",
+      "motivo": "Retirada: «una isla concreta» cambia el sentido de una medida pensada para La Palma. CC queda sin propuesta neutralizable en impuestos."
+    },
+    {
+      "id": "t2023-inmigracion-erc-junts-bildu-1",
+      "antes": "Acabar con las llamadas devoluciones en caliente, es decir, devolver de inmediato a migrantes en la frontera sin las garantías de un procedimiento. Afecta a quienes intentan entrar en España sin permiso.",
+      "motivo": "Separada en tres tarjetas (ERC, Junts y Bildu), cada una con su cita, su página y su enlace."
+    }
+  ],
+  "decididas": [
+    "Eje de sanidad: se mantiene «listas de espera». El PP va con su propuesta más cercana del tema (1.000 plazas más de formación en medicina familiar), fuera de eje.",
+    "Coalición Canaria en impuestos: sin tarjeta. «Una isla concreta» cambia el sentido de una medida pensada para La Palma; queda como «sin propuesta neutralizable».",
+    "Tarjeta compartida de devoluciones en caliente: separada en tres (ERC, Junts y Bildu), cada una con su cita, su página, su enlace y sus detalles. Regla desde ahora: una tarjeta = un partido = una cita (lo comprueba generar.mjs)."
+  ],
+  "pasada3": [
+    {
+      "id": "t2023-vivienda-sumar-2",
+      "antes": "Fijar en zonas tensionadas precios de referencia del alquiler iguales al 30 % de la renta de los hogares. Quien los supere perdería deducciones del impuesto sobre la renta (IRPF) y las empresas, un recargo en sociedades.",
+      "motivo": "Prueba 2 (los tres revisores): la elipsis «y las empresas, un recargo» se leía al revés que la cita y omitía a los fondos.",
+      "despues": "Fijar en zonas tensionadas precios de referencia del alquiler del 30 % de la renta de los hogares. Superarlos quitaría deducciones del impuesto sobre la renta (IRPF) y supondría un recargo en sociedades para fondos y empresas."
+    },
+    {
+      "id": "t2023-vivienda-pnv-2",
+      "antes": "Defender un equilibrio entre la persona inquilina y la propietaria que asegure los derechos de ambas partes.",
+      "motivo": "Prueba 2 (C): «la persona inquilina» se leía como rasgo de estilo.",
+      "despues": "Defender un equilibrio entre inquilinos y propietarios de vivienda que asegure los derechos de ambas partes."
+    },
+    {
+      "id": "t2023-impuestos-pp-2",
+      "antes": "Simplificar el impuesto sobre la renta (IRPF) y el de sociedades para las pequeñas y medianas empresas. Sobre todo, para las que tienen pérdidas o aumentan su plantilla indefinida.",
+      "motivo": "Prueba 2 (los tres revisores): faltaba la medida principal de la cita.",
+      "despues": "Eliminar el impuesto a las grandes fortunas, que pagan quienes tienen los patrimonios más altos."
+    },
+    {
+      "id": "t2023-impuestos-psoe-1",
+      "antes": "Aumentar en el impuesto sobre la renta (IRPF) el mínimo por hijos y por personas dependientes.",
+      "motivo": "Prueba 2 (A): «hijos» estrechaba el alcance; «descendientes» es el término de la cita y del impuesto.",
+      "despues": "Aumentar en el impuesto sobre la renta (IRPF) el mínimo por descendientes y por personas dependientes."
+    },
+    {
+      "id": "t2023-impuestos-vox-2",
+      "antes": "Suprimir en toda España los impuestos sobre el patrimonio y sobre sucesiones y donaciones. También la plusvalía municipal, que cobran los ayuntamientos al vender un inmueble.",
+      "motivo": "Prueba 2 (A): la explicación «al vender un inmueble» era incompleta; la plusvalía municipal también se paga al heredar o donar.",
+      "despues": "Suprimir en toda España los impuestos sobre el patrimonio y sobre sucesiones y donaciones. También la plusvalía municipal, que cobran los ayuntamientos cuando se vende, se hereda o se dona un inmueble urbano."
+    },
+    {
+      "id": "t2023-inmigracion-pp-1",
+      "antes": "Reforzar la inspección en las fronteras con más personal y mejor formado, e impulsar la implantación de los nuevos sistemas europeos de control fronterizo.",
+      "motivo": "Prueba 1 (T24): «la implantación de los nuevos sistemas europeos de control fronterizo» sonaba a lenguaje de gestión.",
+      "despues": "Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos registros europeos de entradas y salidas de viajeros."
+    },
+    {
+      "id": "t2023-inmigracion-sumar-1",
+      "antes": "Castigar como delito la devolución sumaria en la frontera y eliminar la disposición de la ley de extranjería que permite esta práctica.",
+      "motivo": "Prueba 1 (T3): «castigar como delito» se leía como desfavorable. La cita dice «tipificaremos el delito».",
+      "despues": "Convertir en delito la devolución sumaria en la frontera y suprimir la disposición de la ley de extranjería que permite esta práctica."
+    },
+    {
+      "id": "t2023-inmigracion-bng-1",
+      "antes": "Cerrar los centros de internamiento de extranjeros (CIE) en España y poner fin a las deportaciones.",
+      "motivo": "Prueba 2 (A): «deportaciones» es un término marcado; «expulsiones» es el término legal y no cambia el sentido.",
+      "despues": "Cerrar los centros de internamiento de extranjeros (CIE) en España y poner fin a las expulsiones."
+    },
+    {
+      "id": "t2023-empleo-pp-1",
+      "antes": "Actualizar el salario mínimo interprofesional (SMI) en el marco del diálogo social, involucrando a sindicatos, empresarios y personas expertas en las decisiones.",
+      "motivo": "Prueba 1 (T1): el gerundio «involucrando a…» delataba. Redacción decidida por el responsable del proyecto.",
+      "despues": "Actualizar el salario mínimo interprofesional (SMI) dentro del diálogo social, con participación de sindicatos, empresarios y expertos."
+    },
+    {
+      "id": "t2023-empleo-vox-1",
+      "antes": "Impulsar la subida de todos los salarios, sobre todo los más bajos, reduciendo de forma drástica las cargas y la regulación sobre las empresas.",
+      "motivo": "Prueba 1 (T18): «reduciendo de forma drástica» se leía como favorable y delataba. En la cita son dos frases y dos medidas; la rebaja no es el medio para subir sueldos, sino para no destruir empleo.",
+      "despues": "Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y las normas para las empresas."
+    },
+    {
+      "id": "t2023-pensiones-pp-2",
+      "antes": "Dar más transparencia y accesibilidad al sistema de pensiones, para que todos los trabajadores puedan consultar con más sencillez una estimación de su pensión futura.",
+      "motivo": "Prueba 2 (los tres revisores): faltaba la medida principal de la cita.",
+      "despues": "Impulsar la contributividad del sistema de pensiones, es decir, que la pensión dependa más de lo cotizado durante la vida laboral."
+    },
+    {
+      "id": "t2023-pensiones-psoe-1",
+      "antes": "Reformar la Constitución para garantizar que todas las pensiones mantengan su poder adquisitivo según el índice de precios de consumo (IPC), en cualquier circunstancia.",
+      "motivo": "Prueba 1 (T20): «en cualquier circunstancia» se leía como favorable desde los dos lados.",
+      "despues": "Reformar la Constitución para que todas las pensiones se revaloricen siempre según el índice de precios de consumo (IPC)."
+    },
+    {
+      "id": "t2023-sanidad-pp-1",
+      "antes": "Promover un plan de choque en atención primaria para resolver la falta de especialistas en ese nivel asistencial.",
+      "motivo": "Prueba 1 (T11): «plan de choque» es expresión de campaña y «ese nivel asistencial» era jerga. Redacción decidida por el responsable del proyecto.",
+      "despues": "Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria."
+    },
+    {
+      "id": "t2023-sanidad-vox-1",
+      "antes": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos. Para ello, incentivar a los centros públicos y reforzar los conciertos con la sanidad privada.",
+      "motivo": "Prueba 1 (T7): «Para ello» presentaba los conciertos con la privada como la solución.",
+      "despues": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos, con incentivos a los centros públicos y más conciertos con centros privados."
+    },
+    {
+      "id": "t2023-sanidad-junts-1",
+      "antes": "Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud de su comunidad tenga especialistas.",
+      "motivo": "Prueba 2 (A y B): «su comunidad» delataba a un partido de ámbito autonómico.",
+      "despues": "Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud autonómico tenga especialistas."
+    },
+    {
+      "id": "t2023-sanidad-cc-1",
+      "antes": "Pedir que el Gobierno del Estado aumente la partida que transfiere a su comunidad autónoma para la atención a la salud mental.",
+      "motivo": "Prueba 2 (A y B): «su comunidad autónoma» delataba; se quita el posesivo, como en Junts. Además, «el Gobierno del Estado» pasa a «el Gobierno central», la expresión neutra.",
+      "despues": "Pedir que el Gobierno central aumente la partida que transfiere a la comunidad autónoma para la atención a la salud mental."
+    }
+  ],
+  "pasada4": [
+    {
+      "id": "t2023-empleo-vox-1",
+      "antes": "Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y las normas para las empresas.",
+      "motivo": "Revisión final (A, B, C): «las normas» ampliaba el alcance; «la regulación» es la palabra de la cita."
+    },
+    {
+      "id": "t2023-impuestos-bildu-1",
+      "antes": "Aumentar la carga impositiva y hacer permanentes los impuestos a la banca, a las energéticas y a las grandes fortunas.",
+      "motivo": "Revisión final (A, B, C): el genérico «aumentar la carga impositiva» iba delante de la medida. La medida es estatal; lo foral (quién gestiona y recauda) es secundario."
+    },
+    {
+      "id": "t2023-inmigracion-pnv-1",
+      "antes": "Volver a plantear la reforma de la ley de extranjería para comprobar que se cumplen los tratados de derechos humanos en los rechazos en frontera.",
+      "motivo": "Revisión final (A, B, C): faltaban los tratados humanitarios y que la reforma fija procedimientos; sintaxis enrevesada."
+    },
+    {
+      "id": "t2023-inmigracion-pp-1",
+      "antes": "Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos registros europeos de entradas y salidas de viajeros.",
+      "motivo": "Revisión final (A, B): «los nuevos registros» en plural describía mal un solo sistema."
+    },
+    {
+      "id": "t2023-impuestos-bng-1",
+      "antes": "Fijar en el impuesto sobre la renta (IRPF) tipos distintos según el origen de los ingresos: menos para el trabajo y más para el capital.",
+      "motivo": "Revisión final (A, C): la cita dice «minorando… e aumentando», es decir, bajar y subir respecto a lo actual."
+    },
+    {
+      "id": "t2023-sanidad-vox-1",
+      "antes": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos, con incentivos a los centros públicos y más conciertos con centros privados.",
+      "motivo": "Revisión final (A, C): «más conciertos» no es «reforzar» los conciertos. Con «la sanidad privada» la frase única pasaba de 25 palabras: se parte en dos, sin «Para ello»."
+    },
+    {
+      "id": "t2023-sanidad-junts-1",
+      "antes": "Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud autonómico tenga especialistas.",
+      "motivo": "Revisión final (B, C): «Poder ampliar» no se entendía como verbo de medida; la cita se refiere a tener la capacidad de hacerlo."
+    },
+    {
+      "id": "t2023-pensiones-cc-1",
+      "antes": "Garantizar que las pensiones públicas se actualicen según el coste de la vida, financiándolas con los Presupuestos Generales del Estado.",
+      "motivo": "Revisión final (A): en la cita la financiación por los Presupuestos Generales es un ejemplo de decisión, no la forma de financiar."
+    },
+    {
+      "id": "t2023-empleo-erc-1",
+      "antes": "Subir el salario mínimo interprofesional a 1.250 euros y fijar una escala salarial 1/12: el sueldo más alto no superaría doce veces el más bajo.",
+      "motivo": "Revisión final (B): juntaba dos medidas; se recoge solo el salario mínimo."
+    },
+    {
+      "id": "t2023-empleo-junts-1",
+      "antes": "Subir el salario mínimo interprofesional de los 1.080 euros actuales hasta los 1.319 euros del salario medio europeo.",
+      "motivo": "Revisión final (B): «actuales» se quedaba anticuado; 1.080 euros era el salario mínimo de 2023."
+    },
+    {
+      "id": "t2023-inmigracion-pp-2",
+      "antes": "Agilizar las órdenes de retorno de inmigrantes irregulares y la expulsión de quienes hayan cometido delitos. Se haría con mejores acuerdos con los países de origen o de tránsito.",
+      "motivo": "Revisión final (A, C): la cita agiliza el «cumplimiento» de las órdenes; «en situación irregular» en lugar de «irregulares»."
+    },
+    {
+      "id": "t2023-empleo-pnv-2",
+      "antes": "Ampliar la duración de la prestación por desempleo hasta un máximo de 36 meses, vinculando las ayudas a participar en procesos para mejorar la empleabilidad.",
+      "motivo": "Revisión final (A, C): «cobertura» es más amplia que «prestación»; «empleabilidad» no se entendía."
+    },
+    {
+      "id": "t2023-vivienda-pp-2",
+      "antes": "Movilizar el suelo público reservado a vivienda, sea cual sea su régimen jurídico, para promover viviendas en alquiler asequible.",
+      "motivo": "Revisión final (A, C): «reservado a vivienda» ampliaba el alcance (la cita dice «redes públicas de vivienda»); «régimen jurídico» no se entendía."
+    },
+    {
+      "id": "t2023-inmigracion-erc-2",
+      "antes": "Establecer vías legales y seguras de entrada a España que garanticen la libre circulación y el asilo de las personas desplazadas a la fuerza.",
+      "motivo": "Revisión final (A, C): la cita garantiza el «acceso» a la libre circulación y al asilo."
+    },
+    {
+      "id": "t2023-pensiones-pnv-2",
+      "antes": "Reformar la ley general de la Seguridad Social para limitar el uso libre del fondo de reserva de las pensiones, recuperando el tope del 3 %.",
+      "motivo": "Revisión final (A, C): la cita dice «impedir o limitar»."
+    },
+    {
+      "id": "t2023-sanidad-pnv-2",
+      "antes": "Impulsar la regulación del derecho al olvido oncológico: que bancos y aseguradoras no tengan el historial médico de quien ha superado un cáncer al contratar un préstamo, un seguro o un crédito.",
+      "motivo": "Revisión final (A): «bancos» era más estrecho que «entidades financieras»."
+    },
+    {
+      "id": "t2023-inmigracion-cc-2",
+      "antes": "Pedir al Gobierno de España que promueva en la Unión Europea más coordinación entre los Estados miembros en el rescate de inmigrantes en el mar.",
+      "motivo": "Revisión final (A): la cita pide coordinar las políticas en general, con el rescate en el mar como una de ellas."
+    },
+    {
+      "id": "t2023-inmigracion-psoe-2",
+      "antes": "Habilitar mejores vías de migración regular y ordenada, fomentando convenios de migración circular como los que ya funcionan.",
+      "motivo": "Revisión final (C): «como los que ya funcionan» se leía como favorable y apuntaba a quien gobierna; se explica la migración circular."
+    },
+    {
+      "id": "t2023-empleo-bildu-2",
+      "antes": "Aplicar medidas específicas para mujeres y jóvenes contra la brecha salarial, la precariedad, la temporalidad y la parcialidad que sufren.",
+      "motivo": "Revisión final (C): «que sufren» se leía como favorable; «parcialidad» no se entendía."
+    },
+    {
+      "id": "t2023-vivienda-bng-2",
+      "antes": "Ampliar los criterios del recargo del impuesto sobre bienes inmuebles (IBI) para que se movilicen más viviendas vacías.",
+      "motivo": "Revisión final (C): «se movilicen» no se entendía."
+    },
+    {
+      "id": "t2023-sanidad-pp-1",
+      "antes": "Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria.",
+      "motivo": "Revisión final (B, C): la reserva trata lo mismo con cifra y plazo; «urgente» se leía como favorable. Pasa la reserva a test.",
+      "intercambio": true
+    },
+    {
+      "id": "t2023-vivienda-erc-1",
+      "antes": "Permitir, vía artículo 150.1 de la Constitución, que las comunidades con competencias en vivienda y derecho civil propio regulen todo el alquiler: precios, duración y prórrogas.",
+      "motivo": "Revisión final (B, C): la tarjeta trataba de competencias, no del acceso a la vivienda; la reserva está en el eje. Pasa la reserva a test sin su segunda frase.",
+      "intercambio": true
+    }
+  ]
+}
