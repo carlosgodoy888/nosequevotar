@@ -3,6 +3,14 @@
 //   node scripts/banco/aprobar.mjs
 //   node scripts/banco/aprobar.mjs --r1 otra/ruta-r1.csv --r2 otra/ruta-r2.csv --salida otra/ruta.json --informe otra/ruta.md
 //   (y --g1 / --g2 para los CSV del glosario)
+//   node scripts/banco/aprobar.mjs --global --fecha 2026-10-22
+//
+// Modo global: aprobación conjunta de todas las tarjetas de test y de todo el glosario por dos personas del equipo,
+// sin marcas individuales. No lee ni modifica los CSV. Las reservas no pasan al banco aprobado, y cada término del
+// glosario enlaza solo a las tarjetas de test que lo contienen (los que no aparecen en ninguna se quedan fuera).
+// Antes de escribir valida el banco; si algo falla, no escribe nada.
+//
+// Modo normal (con los CSV):
 //
 // Lee datos/banco/banco-2023.json (borrador) y datos/banco/REVISION-r1.csv y REVISION-r2.csv.
 // Reglas:
@@ -20,7 +28,7 @@
 
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { join, dirname, relative, resolve } from 'node:path';
-import { RAIZ, BANCO, TEMAS, NOMBRE_PARTIDO, leerJson, escribirJson, deCsv, palabras } from './comun.mjs';
+import { RAIZ, BANCO, TEMAS, ESTATALES, NOMBRE_PARTIDO, leerJson, escribirJson, deCsv, palabras } from './comun.mjs';
 
 const MAX_DIFERENCIA = 10;
 
@@ -53,7 +61,133 @@ async function leerRevision(ruta, quien) {
   return new Map(filas.map(f => [f.id, { fiel: siNo(f.fiel), neutral: siNo(f.neutral), delata: siNo(f.delata), notas: f.notas || '', quien }]));
 }
 
+// ───── Modo global ─────
+
+const NOTA_GLOBAL = 'Revisión y aprobación conjunta de todas las tarjetas y del glosario por dos personas del equipo, sin marcas individuales';
+const MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+
+function valor(nombre) {
+  const i = process.argv.indexOf(`--${nombre}`);
+  return i > 0 ? process.argv[i + 1] : undefined;
+}
+
+function validarGlobal(tests, glosario, todas) {
+  const errores = [];
+  const ids = new Set(todas.map(t => t.id));
+  for (const t of tests) {
+    if (t.partidos.length !== 1) errores.push(`${t.id}: ${t.partidos.length} partidos (debe haber uno)`);
+    if (t.otrasCitas || typeof t.cita !== 'string' || !t.cita.trim()) errores.push(`${t.id}: debe tener una sola cita`);
+    if (!/#page=\d+$/.test(t.enlace || '')) errores.push(`${t.id}: el enlace no lleva #page=`);
+  }
+  for (const tema of TEMAS) {
+    const delTema = tests.filter(t => t.tema === tema.id);
+    for (const p of new Set(delTema.map(t => t.partidos[0]))) {
+      const n = delTema.filter(t => t.partidos[0] === p).length;
+      if (n > 1) errores.push(`${tema.id}: ${NOMBRE_PARTIDO[p]} tiene ${n} tarjetas (como mucho una)`);
+    }
+    for (const p of ESTATALES) if (!delTema.some(t => t.partidos[0] === p)) errores.push(`${tema.id}: falta la tarjeta de ${NOMBRE_PARTIDO[p]}`);
+    const n = delTema.map(t => palabras(t.texto));
+    if (n.length && Math.max(...n) - Math.min(...n) > MAX_DIFERENCIA) errores.push(`${tema.id}: ${Math.max(...n) - Math.min(...n)} palabras de diferencia entre tarjetas (máximo ${MAX_DIFERENCIA})`);
+  }
+  for (const g of glosario) for (const id of g.tarjetas) if (!ids.has(id)) errores.push(`glosario ${g.id}: enlaza a la tarjeta ${id}, que no existe`);
+  return errores;
+}
+
+async function aprobarGlobal() {
+  const fecha = valor('fecha');
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(fecha || '') || Number.isNaN(Date.parse(fecha))) throw new Error('Falta la fecha o no es válida: usa --fecha AAAA-MM-DD');
+  const banco = await leerJson(BORRADOR);
+  const terminos = await leerJson(GLOSARIO);
+  const tests = banco.tarjetas.filter(t => t.uso === 'test');
+  const idsTest = new Set(tests.map(t => t.id));
+
+  console.log('Validación del modo global');
+  const errores = validarGlobal(tests, terminos, banco.tarjetas);
+  const comprobaciones = [
+    `${tests.length} tarjetas de test con un partido y una cita cada una`,
+    'todos los enlaces llevan #page=',
+    `cada partido tiene como mucho una tarjeta por tema y los ${TEMAS.length} temas tienen tarjeta de ${ESTATALES.map(p => NOMBRE_PARTIDO[p]).join(', ')}`,
+    `los ${terminos.length} términos del glosario enlazan a tarjetas que existen`,
+    `en cada tema, como mucho ${MAX_DIFERENCIA} palabras de diferencia entre tarjetas`,
+  ];
+  if (errores.length) {
+    console.error(`\nERROR: el banco no pasa la validación; no se escribe ${relative(RAIZ, SALIDA)}:\n${errores.map(e => `  · ${e}`).join('\n')}`);
+    process.exit(1);
+  }
+  for (const c of comprobaciones) console.log(`  OK ${c}`);
+
+  const glosario = [], fuera = [];
+  for (const { excluir, ...g } of terminos) {
+    const enlazadas = g.tarjetas.filter(id => idsTest.has(id));
+    if (enlazadas.length) glosario.push({ ...g, tarjetas: enlazadas });
+    else fuera.push(g);
+  }
+  const tarjetas = tests.map(t => ({ ...t, revision: { estado: 'aprobada', modo: 'global' } }));
+  const aprobacion = { modo: 'global', revisores: 2, fecha, nota: NOTA_GLOBAL };
+  const { anio, generado, temas, documentos } = banco;
+  await escribirJson(SALIDA, { anio, generado, temas, documentos, tarjetas, glosario, aprobacion });
+
+  // APROBACION.md
+  const [a, m, d] = fecha.split('-').map(Number);
+  const fechaLarga = `${d} de ${MESES[m - 1]} de ${a}`;
+  const partidos = [...new Set(tarjetas.map(t => t.partidos[0]))];
+  const tabla = (cab, filas) => `| ${cab.join(' | ')} |\n| ${cab.map(() => '---').join(' | ')} |\n${filas.map(f => `| ${f.join(' | ')} |`).join('\n')}`;
+  const porPartidoTema = tabla(['Partido', ...TEMAS.map(t => t.nombre), 'Total'], [
+    ...partidos.map(p => [NOMBRE_PARTIDO[p], ...TEMAS.map(t => tarjetas.filter(x => x.tema === t.id && x.partidos[0] === p).length), tarjetas.filter(x => x.partidos[0] === p).length]),
+    ['**Total**', ...TEMAS.map(t => `**${tarjetas.filter(x => x.tema === t.id).length}**`), `**${tarjetas.length}**`],
+  ]);
+  const md = `# Aprobación del banco de 2023
+
+## Cómo se ha aprobado
+
+- **Aprobación global y conjunta.** Dos personas del equipo revisaron juntas todas las tarjetas de test y todo el glosario, y los aprobaron en bloque el ${fechaLarga}. No hay marcas individuales: no se rellenaron los CSV de revisión (REVISION-r1/r2 ni GLOSARIO-r1/r2) ni se firmó con nombre.
+- **Apoyo de revisiones automáticas.** La aprobación se apoya en las revisiones hechas con agentes, que están en datos/banco/ia/:
+  - prueba de adivinar con 9 perfiles (PRUEBA-AGENTES.md);
+  - revisión de neutralidad y fidelidad (REVISION-IA.md);
+  - tercera revisión (REVISION-FINAL.md);
+  - revisor de criterios (REVISION-CRITERIOS.md);
+  - auditorías de concreción del PP (AUDITORIA-PP.md) y de PNV y CC (AUDITORIA-PNV-CC.md).
+
+  Estas revisiones orientan, pero no sustituyen a la revisión humana.
+- **Pendiente.** La prueba de adivinar con personas (PRUEBA-ADIVINAR.md, con 10 a 20 personas) queda pendiente y se hará después de publicar.
+- **Qué pasa al banco aprobado.** Solo las tarjetas de test. Las ${banco.tarjetas.length - tests.length} reservas se quedan en el borrador (datos/banco/banco-2023.json). Cada término del glosario enlaza solo a las tarjetas de test que lo contienen.
+
+Archivo escrito: \`${relative(RAIZ, SALIDA)}\`, con \`"aprobacion": { "modo": "global", "revisores": 2, "fecha": "${fecha}" }\`.
+
+## Qué se aprueba
+
+- **${tarjetas.length} tarjetas** de ${partidos.length} partidos en ${TEMAS.length} temas.
+- **${glosario.length} términos del glosario**, de ${terminos.length}.
+
+### Tarjetas por partido y tema
+
+${porPartidoTema}
+
+Coalición Canaria no tiene tarjeta de vivienda ni de impuestos: en vivienda no tiene propuesta y en impuestos su única propuesta no se podía neutralizar.
+
+### Términos del glosario por tema
+
+Un término cuenta en un tema si aparece en alguna tarjeta de ese tema.
+
+${tabla(['Tema', 'Términos'], TEMAS.map(t => [t.nombre, glosario.filter(g => g.tarjetas.some(id => tarjetas.find(x => x.id === id).tema === t.id)).length]))}
+
+### Términos que no pasan al banco aprobado
+
+${fuera.length ? `Solo aparecen en tarjetas de reserva (${fuera.length}):\n\n${fuera.map(g => `- ${g.termino}`).join('\n')}` : 'Ninguno.'}
+
+## Validación
+
+${comprobaciones.map(c => `- OK: ${c}.`).join('\n')}
+`;
+  await mkdir(dirname(INFORME), { recursive: true });
+  await writeFile(INFORME, md);
+  console.log(`\nAprobadas: ${tarjetas.length} tarjetas de test · glosario: ${glosario.length} de ${terminos.length} términos · fuera del glosario aprobado: ${fuera.length}`);
+  if (fuera.length) console.log(`  Solo en reservas: ${fuera.map(g => g.id).join(', ')}`);
+  console.log(`Escrito ${relative(RAIZ, SALIDA)}\nEscrito ${relative(RAIZ, INFORME)}`);
+}
+
 async function main() {
+  if (process.argv.includes('--global')) return aprobarGlobal();
   const banco = await leerJson(BORRADOR);
   const r1 = await leerRevision(R1, 'r1');
   const r2 = await leerRevision(R2, 'r2');
