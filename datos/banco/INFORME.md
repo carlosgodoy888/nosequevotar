@@ -1,6 +1,6 @@
 # Banco de tarjetas del test · programas de 2023
 
-Generado el 2026-10-21T21:54:34.584Z con `node scripts/banco/generar.mjs`. Borrador: nada de esto se publica hasta que lo aprueben dos revisores (`scripts/banco/aprobar.mjs`).
+Generado el 2026-10-21T23:04:45.601Z con `node scripts/banco/generar.mjs`. Borrador: nada de esto se publica hasta que lo aprueben dos revisores (`scripts/banco/aprobar.mjs`).
 
 ## 1. Resumen
 
@@ -18,7 +18,7 @@ Generado el 2026-10-21T21:54:34.584Z con `node scripts/banco/generar.mjs`. Borra
 - Algunas tarjetas de partidos territoriales pueden delatar su origen por el contenido (competencias autonómicas, «su comunidad») aunque no nombren el territorio.
 
 **Decisiones tomadas**
-- Eje de sanidad: se mantiene «listas de espera». El PP va con su propuesta más cercana del tema (plan urgente en atención primaria), fuera de eje.
+- Eje de sanidad: se mantiene «listas de espera». El PP va con su propuesta más cercana del tema (1.000 plazas más de formación en medicina familiar), fuera de eje.
 - Coalición Canaria en impuestos: sin tarjeta. «Una isla concreta» cambia el sentido de una medida pensada para La Palma; queda como «sin propuesta neutralizable».
 - Tarjeta compartida de devoluciones en caliente: separada en tres (ERC, Junts y Bildu), cada una con su cita, su página, su enlace y sus detalles. Regla desde ahora: una tarjeta = un partido = una cita (lo comprueba generar.mjs).
 
@@ -114,8 +114,8 @@ Para cada programa se buscó en el índice CDX de Internet Archive una captura d
 | t2023-pensiones-bildu-2 | reserva | Reserva sobre la edad de jubilación. |
 | t2023-pensiones-bng-2 | reserva | Reserva sobre la edad de jubilación. |
 | t2023-pensiones-cc-2 | reserva | Reserva sobre un pacto de Estado de pensiones. |
-| t2023-sanidad-pp-1 | test | El PP no tiene propuestas sobre listas de espera; se usa su plan urgente en atención primaria. |
-| t2023-sanidad-pp-2 | reserva | Reserva sobre plazas de formación de médicos de familia. |
+| t2023-sanidad-pp-1 | test | El PP no tiene propuestas sobre listas de espera; se usa su propuesta de 1.000 plazas más de formación en medicina familiar. |
+| t2023-sanidad-pp-2 | reserva | Reserva sobre un plan urgente en atención primaria. |
 | t2023-sanidad-vox-2 | reserva | Reserva sobre inversión en atención primaria. |
 | t2023-sanidad-sumar-2 | reserva | Reserva sobre gestión pública. |
 | t2023-sanidad-erc-1 | test | ERC no tiene propuestas sobre listas de espera; se usa la de falta de especialistas. |
@@ -155,7 +155,7 @@ Eje: El impuesto sobre la renta (IRPF)
 
 Eje: La entrada irregular y el control de fronteras
 
-- **PP** (24 palabras): Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos registros europeos de entradas y salidas de viajeros.
+- **PP** (24 palabras): Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar el nuevo registro europeo de entradas y salidas de viajeros.
 - **PSOE** (17 palabras): Potenciar una estrategia para desmantelar las mafias que trafican con seres humanos en los países de origen.
 - **Vox** (16 palabras): Expulsar de forma inmediata a todas las personas inmigrantes que entren de forma irregular en España.
 - **Sumar** (22 palabras): Convertir en delito la devolución sumaria en la frontera y suprimir la disposición de la ley de extranjería que permite esta práctica.
@@ -166,7 +166,7 @@ Eje: Los sueldos, incluido el salario mínimo, y la jornada laboral
 
 - **PP** (17 palabras): Actualizar el salario mínimo interprofesional (SMI) dentro del diálogo social, con participación de sindicatos, empresarios y expertos.
 - **PSOE** (20 palabras): Garantizar en el Estatuto de los Trabajadores que el salario mínimo interprofesional (SMI) se ajuste al 60 % del salario medio.
-- **Vox** (25 palabras): Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y las normas para las empresas.
+- **Vox** (25 palabras): Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y la regulación sobre las empresas.
 - **Sumar** (26 palabras): Fijar por ley en 2024 una jornada máxima de 37,5 horas sin bajar el salario. Después, abrir un diálogo social para reducirla hasta 32 horas semanales.
 
 ### Pensiones
@@ -182,9 +182,9 @@ Eje: Cuánto suben las pensiones
 
 Eje: Las listas de espera
 
-- **PP** (18 palabras, fuera de eje): Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria.
+- **PP** (18 palabras, fuera de eje): Impulsar con las comunidades autónomas 1.000 plazas más de formación en medicina familiar en la oferta de 2024.
 - **PSOE** (28 palabras): Fijar por ley tiempos máximos de espera en la sanidad pública: 120 días para operar, 60 para consultas de especialistas y 30 para pruebas, en todo el país.
-- **Vox** (25 palabras): Reducir las listas de espera en volumen y tiempo en todos los ámbitos, con incentivos a los centros públicos y más conciertos con centros privados.
+- **Vox** (28 palabras): Reducir las listas de espera en volumen y tiempo en todos los ámbitos. Se incentivaría a los centros públicos y se reforzarían los conciertos con la sanidad privada.
 - **Sumar** (24 palabras): Aprobar una ley de listas de espera con tiempos máximos y un registro homogéneo, transparente y fiable de las listas en todo el país.
 
 ## 6. Autorrevisión
@@ -192,6 +192,11 @@ Eje: Las listas de espera
 Segunda pasada completa, tarjeta por tarjeta: fidelidad, neutralidad, lenguaje cargado, legibilidad, lectura a ciegas y equilibrio dentro de cada tema.
 
 Resultado por criterio, además de los cambios del registro: **fidelidad**: 6 cambios (verbos más fuertes que la cita y alcances recortados o añadidos); **neutralidad y lenguaje cargado**: 1 cambio en esta pasada; las sustituciones hechas al redactar están en la tabla de abajo; **legibilidad**: 2 cambios (jerga y una expresión ambigua); todas las frases tienen 25 palabras o menos y todas las siglas se explican la primera vez (lo comprueba generar.mjs); **lectura a ciegas** de los 24 textos de PP, PSOE, Vox y Sumar: sin cambios. No encontré palabras ni giros que delaten al partido por el estilo; lo que puede delatar es el contenido (expulsión inmediata, IVA cero, 32 horas), que es lo que el test compara. Se evitaron «blindar», «efecto llamada», «ilegal» aplicado a personas y nombres de programas. Todas las tarjetas siguen el mismo patrón (infinitivo y una segunda frase con el cómo o a quién afecta) y el mismo registro; **equilibrio**: 2 cambios para que en cada tema la tarjeta de test más larga y la más corta no se separen más de 10 palabras (lo comprueba generar.mjs). Las tarjetas vagas porque el programa es vago se han dejado vagas (tabla de abajo). Único aviso de generar.mjs: «mafias» (PSOE, inmigración). Se mantiene: es la palabra de la cita, es descriptiva y la usan programas de bloques distintos.
+
+### Regla de territorio
+
+- Nombrar un territorio concreto (por ejemplo, La Palma, Cataluña o Euskadi) delata al partido: se neutraliza o, si neutralizarlo cambia el sentido, se usa la reserva.
+- Una referencia genérica a «la comunidad autónoma» o a lo «autonómico» se permite, porque es inherente a los partidos de ámbito autonómico. Por eso se mantienen las tarjetas de test de Junts y de CC en sanidad.
 
 ### Segunda pasada de redacción
 
@@ -341,11 +346,58 @@ Cambios decididos por el responsable del proyecto a partir de datos/banco/ia/PRU
 | t2023-sanidad-junts-1 | Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud de su comunidad tenga especialistas. | Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud autonómico tenga especialistas. (21 palabras) | Prueba 2 (A y B): «su comunidad» delataba a un partido de ámbito autonómico. |
 | t2023-sanidad-cc-1 | Pedir que el Gobierno del Estado aumente la partida que transfiere a su comunidad autónoma para la atención a la salud mental. | Pedir que el Gobierno central aumente la partida que transfiere a la comunidad autónoma para la atención a la salud mental. (21 palabras) | Prueba 2 (A y B): «su comunidad autónoma» delataba; se quita el posesivo, como en Junts. Además, «el Gobierno del Estado» pasa a «el Gobierno central», la expresión neutra. |
 
+### Cuarta pasada: revisión final con agentes
+
+Cambios decididos por el responsable del proyecto a partir de datos/banco/ia/REVISION-FINAL.md. Se cambiaron 22 tarjetas; en dos temas la reserva pasa a test.
+
+| Tarjeta | Antes | Después | Motivo |
+| --- | --- | --- | --- |
+| t2023-empleo-vox-1 | Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y las normas para las empresas. | Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y la regulación sobre las empresas. (25 palabras) | Revisión final (A, B, C): «las normas» ampliaba el alcance; «la regulación» es la palabra de la cita. |
+| t2023-impuestos-bildu-1 | Aumentar la carga impositiva y hacer permanentes los impuestos a la banca, a las energéticas y a las grandes fortunas. | Subir y hacer permanentes los impuestos a la banca, a las energéticas y a las grandes fortunas. (17 palabras) | Revisión final (A, B, C): el genérico «aumentar la carga impositiva» iba delante de la medida. La medida es estatal; lo foral (quién gestiona y recauda) es secundario. |
+| t2023-inmigracion-pnv-1 | Volver a plantear la reforma de la ley de extranjería para comprobar que se cumplen los tratados de derechos humanos en los rechazos en frontera. | Volver a plantear la reforma de la ley de extranjería. Fijaría cómo comprobar que los rechazos en frontera cumplen los tratados humanitarios y de derechos humanos. (26 palabras) | Revisión final (A, B, C): faltaban los tratados humanitarios y que la reforma fija procedimientos; sintaxis enrevesada. |
+| t2023-inmigracion-pp-1 | Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos registros europeos de entradas y salidas de viajeros. | Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar el nuevo registro europeo de entradas y salidas de viajeros. (24 palabras) | Revisión final (A, B): «los nuevos registros» en plural describía mal un solo sistema. |
+| t2023-impuestos-bng-1 | Fijar en el impuesto sobre la renta (IRPF) tipos distintos según el origen de los ingresos: menos para el trabajo y más para el capital. | Fijar en el impuesto sobre la renta (IRPF) tipos distintos según el origen de los ingresos, bajando los del trabajo y subiendo los del capital. (25 palabras) | Revisión final (A, C): la cita dice «minorando… e aumentando», es decir, bajar y subir respecto a lo actual. |
+| t2023-sanidad-vox-1 | Reducir las listas de espera en volumen y tiempo en todos los ámbitos, con incentivos a los centros públicos y más conciertos con centros privados. | Reducir las listas de espera en volumen y tiempo en todos los ámbitos. Se incentivaría a los centros públicos y se reforzarían los conciertos con la sanidad privada. (28 palabras) | Revisión final (A, C): «más conciertos» no es «reforzar» los conciertos. Con «la sanidad privada» la frase única pasaba de 25 palabras: se parte en dos, sin «Para ello». |
+| t2023-sanidad-junts-1 | Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud autonómico tenga especialistas. | Obtener la competencia para ampliar el número de plazas de médico interno residente (MIR) y así dotar de especialistas al sistema público de salud autonómico. (25 palabras) | Revisión final (B, C): «Poder ampliar» no se entendía como verbo de medida; la cita se refiere a tener la capacidad de hacerlo. |
+| t2023-pensiones-cc-1 | Garantizar que las pensiones públicas se actualicen según el coste de la vida, financiándolas con los Presupuestos Generales del Estado. | Garantizar que las pensiones públicas se actualicen según el coste de la vida, con medidas como financiarlas a través de los Presupuestos Generales del Estado. (25 palabras) | Revisión final (A): en la cita la financiación por los Presupuestos Generales es un ejemplo de decisión, no la forma de financiar. |
+| t2023-empleo-erc-1 | Subir el salario mínimo interprofesional a 1.250 euros y fijar una escala salarial 1/12: el sueldo más alto no superaría doce veces el más bajo. | Subir el salario mínimo interprofesional (SMI), el sueldo más bajo que se puede pagar por ley, hasta los 1.250 euros. (20 palabras) | Revisión final (B): juntaba dos medidas; se recoge solo el salario mínimo. |
+| t2023-empleo-junts-1 | Subir el salario mínimo interprofesional de los 1.080 euros actuales hasta los 1.319 euros del salario medio europeo. | Subir el salario mínimo interprofesional de 1.080 euros, el de 2023, hasta los 1.319 euros del salario medio europeo. (19 palabras) | Revisión final (B): «actuales» se quedaba anticuado; 1.080 euros era el salario mínimo de 2023. |
+| t2023-inmigracion-pp-2 | Agilizar las órdenes de retorno de inmigrantes irregulares y la expulsión de quienes hayan cometido delitos. Se haría con mejores acuerdos con los países de origen o de tránsito. | Agilizar la ejecución de las órdenes de retorno de inmigrantes en situación irregular y de expulsión de quienes hayan cometido delitos. Se haría con mejores acuerdos con los países de origen o de tránsito. (34 palabras) | Revisión final (A, C): la cita agiliza el «cumplimiento» de las órdenes; «en situación irregular» en lugar de «irregulares». |
+| t2023-empleo-pnv-2 | Ampliar la duración de la prestación por desempleo hasta un máximo de 36 meses, vinculando las ayudas a participar en procesos para mejorar la empleabilidad. | Ampliar la cobertura por desempleo hasta un máximo de 36 meses, vinculando las ayudas a participar en programas para encontrar trabajo. (21 palabras) | Revisión final (A, C): «cobertura» es más amplia que «prestación»; «empleabilidad» no se entendía. |
+| t2023-vivienda-pp-2 | Movilizar el suelo público reservado a vivienda, sea cual sea su régimen jurídico, para promover viviendas en alquiler asequible. | Movilizar todo el suelo público destinado a vivienda pública para promover viviendas de alquiler asequible. (15 palabras) | Revisión final (A, C): «reservado a vivienda» ampliaba el alcance (la cita dice «redes públicas de vivienda»); «régimen jurídico» no se entendía. |
+| t2023-inmigracion-erc-2 | Establecer vías legales y seguras de entrada a España que garanticen la libre circulación y el asilo de las personas desplazadas a la fuerza. | Establecer vías legales y seguras de entrada a España para las personas desplazadas a la fuerza. Servirían para garantizarles el acceso a la libre circulación y al derecho de asilo. (30 palabras) | Revisión final (A, C): la cita garantiza el «acceso» a la libre circulación y al asilo. |
+| t2023-pensiones-pnv-2 | Reformar la ley general de la Seguridad Social para limitar el uso libre del fondo de reserva de las pensiones, recuperando el tope del 3 %. | Reformar la ley general de la Seguridad Social para impedir o limitar el uso libre del fondo de reserva de las pensiones. Para ello, recuperar el tope del 3 %. (29 palabras) | Revisión final (A, C): la cita dice «impedir o limitar». |
+| t2023-sanidad-pnv-2 | Impulsar la regulación del derecho al olvido oncológico: que bancos y aseguradoras no tengan el historial médico de quien ha superado un cáncer al contratar un préstamo, un seguro o un crédito. | Impulsar la regulación del derecho al olvido oncológico. Las entidades financieras y aseguradoras no tendrían el historial médico de quien ha superado un cáncer al contratar préstamos, seguros o créditos. (30 palabras) | Revisión final (A): «bancos» era más estrecho que «entidades financieras». |
+| t2023-inmigracion-cc-2 | Pedir al Gobierno de España que promueva en la Unión Europea más coordinación entre los Estados miembros en el rescate de inmigrantes en el mar. | Pedir al Gobierno de España que promueva en la Unión Europea más coordinación entre las políticas de los Estados miembros. Entre ellas, el rescate de inmigrantes en el mar. (29 palabras) | Revisión final (A): la cita pide coordinar las políticas en general, con el rescate en el mar como una de ellas. |
+| t2023-inmigracion-psoe-2 | Habilitar mejores vías de migración regular y ordenada, fomentando convenios de migración circular como los que ya funcionan. | Habilitar mejores vías de migración regular y ordenada, fomentando convenios de migración circular: trabajo temporal en España y regreso al país de origen. (23 palabras) | Revisión final (C): «como los que ya funcionan» se leía como favorable y apuntaba a quien gobierna; se explica la migración circular. |
+| t2023-empleo-bildu-2 | Aplicar medidas específicas para mujeres y jóvenes contra la brecha salarial, la precariedad, la temporalidad y la parcialidad que sufren. | Aplicar medidas específicas para mujeres y jóvenes contra la brecha salarial, la precariedad, la temporalidad y el trabajo a tiempo parcial. (21 palabras) | Revisión final (C): «que sufren» se leía como favorable; «parcialidad» no se entendía. |
+| t2023-vivienda-bng-2 | Ampliar los criterios del recargo del impuesto sobre bienes inmuebles (IBI) para que se movilicen más viviendas vacías. | Ampliar los criterios del recargo del impuesto sobre bienes inmuebles (IBI) para que se pongan en uso más viviendas vacías. (20 palabras) | Revisión final (C): «se movilicen» no se entendía. |
+| t2023-sanidad-pp-1 | Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria. | Impulsar con las comunidades autónomas 1.000 plazas más de formación en medicina familiar en la oferta de 2024. (18 palabras) | (Intercambio de test y reserva.) Revisión final (B, C): la reserva trata lo mismo con cifra y plazo; «urgente» se leía como favorable. Pasa la reserva a test. |
+| t2023-vivienda-erc-1 | Permitir, vía artículo 150.1 de la Constitución, que las comunidades con competencias en vivienda y derecho civil propio regulen todo el alquiler: precios, duración y prórrogas. | Recuperar la deducción en el impuesto sobre la renta (IRPF) por el alquiler de la vivienda habitual para los inquilinos. (20 palabras) | (Intercambio de test y reserva.) Revisión final (B, C): la tarjeta trataba de competencias, no del acceso a la vivienda; la reserva está en el eje. Pasa la reserva a test sin su segunda frase. |
+
+### Equilibrio por partido (tarjetas de test)
+
+«Con cifra o plazo»: el texto lleva un número o una expresión de tiempo. «Verbo blando»: empieza por estudiar, impulsar, promover, pedir, defender, abogar, potenciar, exigir, avanzar hacia, volver a plantear, revisar. «Obtener» no cuenta como blando.
+
+| Partido | Tarjetas | Media de palabras | Con cifra o plazo | Verbo blando | Fuera de eje |
+| --- | --- | --- | --- | --- | --- |
+| PP | 6 | 19.7 | 2 | 1 | 1 |
+| PSOE | 6 | 19.3 | 3 | 1 | 0 |
+| Vox | 6 | 22.2 | 2 | 1 | 1 |
+| Sumar | 6 | 24.5 | 3 | 0 | 0 |
+| ERC | 6 | 19.7 | 1 | 1 | 1 |
+| Junts | 6 | 20.7 | 3 | 2 | 1 |
+| PNV | 6 | 22.2 | 0 | 5 | 2 |
+| Bildu | 6 | 18.8 | 2 | 1 | 2 |
+| BNG | 6 | 18.2 | 3 | 1 | 1 |
+| CC | 4 | 23.8 | 1 | 3 | 2 |
+
 ### Partes omitidas (una medida por tarjeta)
 
 | Tarjeta | Qué se omite y por qué | Cifras de la cita que no están en el texto |
 | --- | --- | --- |
 | t2023-vivienda-psoe-1 | La cita junta dos medidas; se recoge la principal (construir 183.000 viviendas, la mitad para jóvenes) y se omite ampliar la dotación y los receptores del Bono de Alquiler Joven. | — |
+| t2023-vivienda-erc-1 | Se omite la fecha de supresión de la deducción («suprimida con efectos de l’1 de gener de 2015») para respetar el equilibrio del tema. | 1, 2015 |
 | t2023-vivienda-pnv-1 | Se omite «tal y como se viene desarrollando por el Gobierno Vasco»: es un logro propio, no la medida, y señala el territorio. | — |
 | t2023-impuestos-pp-2 | La cita junta dos medidas; se recoge la principal (eliminar el impuesto a las grandes fortunas) y se omite simplificar el IRPF y el impuesto de sociedades para pymes. «Que pagan quienes tienen los patrimonios más altos» explica qué es el impuesto. | — |
 | t2023-impuestos-vox-1 | Se recoge la medida principal (dos tipos) y se omite la exención de 22.000 euros anuales de rentas del trabajo, con uno o dos pagadores; con ella la tarjeta superaba en más de 10 palabras a las del PP y el PSOE. | 22000 |
@@ -353,13 +405,14 @@ Cambios decididos por el responsable del proyecto a partir de datos/banco/ia/PRU
 | t2023-impuestos-pnv-2 | Se omite la segunda medida de la cita: «Combatir y erradicar las tasas de economía sumergida». | — |
 | t2023-impuestos-bildu-1 | Se omite «respetando la competencia y capacidad de nuestras haciendas forales»: es una condición territorial, no el núcleo de la medida. | — |
 | t2023-inmigracion-pp-1 | Se recoge el refuerzo de la inspección y el registro europeo de entradas y salidas. Se omiten el Sistema Europeo de Información y Autorización de Viaje y la coordinación y participación en las actividades de FRONTEX. | — |
+| t2023-inmigracion-psoe-2 | Se omite «exitosos como los que ya funcionan»: valora y señala a quien gobierna. | — |
 | t2023-inmigracion-sumar-1 | Se recoge la medida principal y se omiten el monitoreo independiente de derechos humanos en la frontera sur, la referencia a Melilla en junio de 2022 y la depuración de responsabilidades. | 2022 |
 | t2023-inmigracion-junts-2 | La cita junta dos medidas; se recoge la más concreta y se omite «Treballar per articular vies legals i segures de migració regular i mobilitat», que sola no llega a 15 palabras. | — |
 | t2023-inmigracion-bng-1 | Cerrar los CIE y poner fin a las expulsiones no se separan: los CIE existen para ejecutar expulsiones. Se omite «garantindo o respecto escrupuloso dos dereitos humanos…», que es un objetivo general. | — |
 | t2023-inmigracion-bng-2 | Se omite la segunda medida: favorecer y facilitar los procesos de regularización administrativa. | — |
 | t2023-inmigracion-cc-2 | Se omite «intensificándose el apoyo directo de la UE a los Estados Miembros en esta materia». | — |
-| t2023-empleo-vox-1 | La cita tiene dos medidas en dos frases: subir los salarios y reducir las cargas y la regulación de las empresas. Se recogen las dos porque la subida sola no llega a 15 palabras. Se omite la justificación de la segunda («para que ello no conlleve una destrucción de empleo») y el adjetivo «abusiva». | — |
-| t2023-empleo-erc-1 | Se omiten los objetivos generales de la cita (pleno empleo, salario digno, erradicar la brecha salarial). El salario mínimo y la escala 1/12 se dejan juntos: son los dos instrumentos de la misma medida, reducir las desigualdades salariales. | — |
+| t2023-empleo-vox-1 | La cita tiene dos medidas en dos frases: subir los salarios y reducir las cargas y la regulación de las empresas. Se recogen las dos porque la subida sola no llega a 15 palabras. Se omiten la justificación de la segunda («para que ello no conlleve una destrucción de empleo») y el adjetivo «abusiva», que solo valora. | — |
+| t2023-empleo-erc-1 | La cita junta varias medidas; se recoge la principal (subir el salario mínimo a 1.250 euros) y se omiten la escala salarial 1/12 y los objetivos generales (pleno empleo, salario digno, erradicar la brecha salarial). | 1, 12 |
 | t2023-empleo-junts-1 | Se omite la segunda medida: «La Generalitat ha de poder-lo fixar per Catalunya». | — |
 | t2023-empleo-pnv-1 | La cita enumera las bases de un pacto por el empleo; se recoge la que entra en el eje (vincular salarios y productividad) y se omiten la estabilidad del empleo, la formación continua y la competitividad. Se omite la justificación («para permitir que las empresas sean más competitivas»). | — |
 | t2023-empleo-cc-2 | Se omiten los demás incentivos de la cita: emprendimiento joven, primer empleo joven y contratos en prácticas. | — |
@@ -427,10 +480,12 @@ Cambios decididos por el responsable del proyecto a partir de datos/banco/ia/PRU
 | t2023-pensiones-cc-2 | un sistema de pensiones dignas, fiable y duradero | (omitido) | Objetivo sin cifra ni plazo; «dignas» es valorativo. |
 | t2023-inmigracion-erc-1 | la pràctica il·legal de les devolucions en calent | las devoluciones en caliente | «Ilegal» es la valoración de la propuesta. |
 | t2023-inmigracion-bng-1 | fin das deportacións | poner fin a las expulsiones | «Deportaciones» es un término marcado; «expulsión» es el término legal. El sentido no cambia. |
-| t2023-empleo-vox-1 | reduciremos drásticamente | reducir en gran medida | «De forma drástica» se leía como favorable; «en gran medida» mantiene la intensidad. |
-| t2023-sanidad-pp-1 | PLAN DE CHOQUE | plan urgente | Expresión de campaña. |
+| t2023-sanidad-pp-2 | PLAN DE CHOQUE | plan urgente | Expresión de campaña. |
 | t2023-pensiones-psoe-1 | ante cualquier circunstancia | siempre | La coletilla se leía como favorable; «siempre» mantiene el alcance. |
 | t2023-sanidad-cc-1 | el Gobierno del Estado | el Gobierno central | «Gobierno del Estado» es propio de una sensibilidad concreta; «Gobierno central» es la expresión neutra. |
+| t2023-empleo-vox-1 | la regulación abusiva | la regulación | «Abusiva» solo valora; «regulación» es la palabra de la cita. |
+| t2023-inmigracion-psoe-2 | convenios de migración circular exitosos como los que ya funcionan | convenios de migración circular: trabajo temporal en España y regreso al país de origen | «Exitosos» valora y «como los que ya funcionan» señala a quien gobierna. |
+| t2023-empleo-vox-1 | reduciremos drásticamente | reducir en gran medida | «De forma drástica» se leía como favorable; «en gran medida» mantiene la intensidad. |
 
 ### Tarjetas vagas porque el programa es vago
 
@@ -444,6 +499,77 @@ Cambios decididos por el responsable del proyecto a partir de datos/banco/ia/PRU
 | t2023-empleo-pnv-1 | Un pacto con objetivos generales; la cita no concreta medidas. |
 | t2023-inmigracion-psoe-1 | Una estrategia contra las mafias en origen, sin medidas concretas en la cita. |
 | t2023-impuestos-junts-1 | «Revisar y reequilibrar» sin cifra, como la cita. |
+
+### Glosario
+
+64 términos en datos/banco/glosario-2023.json. Se muestran al tocar el término en el test; no cambian ningún texto. Los revisan dos personas con GLOSARIO-r1.csv y GLOSARIO-r2.csv.
+
+| Término | Variantes | Definición | Tarjetas |
+| --- | --- | --- | --- |
+| Impuesto sobre la renta (IRPF) | impuesto sobre la renta (IRPF) · impuesto sobre la renta de las personas físicas (IRPF) | Impuesto que paga cada persona por lo que gana en un año: sueldo, pensión, alquileres o ahorros. Cuanto más se gana, mayor es el porcentaje que se paga. | 11 |
+| Tramo | tramos | Cada uno de los escalones de ingresos del impuesto sobre la renta. A cada tramo se le aplica su propio porcentaje, más alto cuanto más alto es el tramo. | 2 |
+| Tipo impositivo | tipo máximo · tipos de las rentas del capital · tipos distintos · a dos tipos · tipos general, reducido y superreducido · el tipo del impuesto de sociedades · tipos de al menos | Porcentaje que se paga de un impuesto. Un tipo del 25 % significa pagar 25 euros de cada 100 sobre los que se aplica. | 7 |
+| Base imponible | bases inferiores | Cantidad sobre la que se calcula un impuesto, después de restar a los ingresos lo que la ley permite descontar. | 1 |
+| Salario mínimo interprofesional (SMI) | salario mínimo interprofesional | El sueldo más bajo que se puede pagar por ley por una jornada completa. Lo fija el Gobierno cada año. | 8 |
+| Salario medio | salario medio | El sueldo que sale de repartir a partes iguales el total de los sueldos entre todas las personas que trabajan. | 2 |
+| Producto interior bruto (PIB) | producto interior bruto | Valor de todo lo que produce un país en un año en bienes y servicios. Se usa para medir el tamaño de su economía. | 2 |
+| Índice de precios de consumo (IPC) | índice de precios de consumo (IPC) | Indicador que mide cuánto suben o bajan cada año los precios de lo que compran los hogares. Se usa para medir la inflación. | 4 |
+| Inflación | inflación | Subida general de los precios. Cuando hay inflación, con el mismo dinero se pueden comprar menos cosas. | 1 |
+| Devolución sumaria | devolución sumaria | Devolución inmediata, sin procedimiento ordinario, de quien intenta cruzar irregularmente la frontera. Conocida como devolución en caliente; la ley de extranjería la llama rechazo en frontera en Ceuta y Melilla. | 1 |
+| Devoluciones en caliente | devoluciones en caliente | Así se conoce la devolución inmediata, sin procedimiento ordinario, de quien intenta cruzar irregularmente la frontera. La ley de extranjería la regula como rechazo en frontera en Ceuta y Melilla. | 3 |
+| Rechazo en frontera | rechazos en frontera | Nombre que da la ley de extranjería, en Ceuta y Melilla, a la devolución inmediata, sin procedimiento ordinario, de quien intenta cruzar irregularmente la frontera. Popularmente, devoluciones en caliente. | 1 |
+| Disposición adicional | disposición adicional 10.ª · disposición de la ley de extranjería | Parte que se añade al final de una ley para regular un caso concreto. La décima de la ley de extranjería regula el rechazo en frontera en Ceuta y Melilla. | 2 |
+| Ley de extranjería | ley de extranjería · Ley Orgánica 4/2000 | Ley que regula los derechos de las personas extranjeras en España y cómo pueden entrar, vivir y trabajar en el país. Es la Ley Orgánica 4/2000. | 5 |
+| Situación irregular | situación irregular · de forma irregular · inmigración irregular · sin su situación administrativa resuelta | Estar en España sin el permiso de residencia que exige la ley, o haber entrado sin pasar los controles de la frontera. | 5 |
+| Regularización | regularización permanente · regularizar | Procedimiento por el que una persona extranjera que vive en España sin permiso consigue los papeles para residir y trabajar legalmente. | 2 |
+| Centros de internamiento de extranjeros (CIE) | centros de internamiento de extranjeros (CIE) | Centros públicos donde se retiene, por orden de un juez y durante un tiempo limitado, a extranjeros en situación irregular mientras se tramita su expulsión. | 1 |
+| Migración circular | migración circular | Fórmula por la que personas de otro país vienen a trabajar una temporada, con contrato y permiso, y después vuelven a su país. | 1 |
+| Médico interno residente (MIR) | médico interno residente (MIR) | Sistema por el que los médicos, al acabar la carrera, se forman varios años con un contrato en un hospital o centro de salud para ser especialistas. | 3 |
+| Atención primaria | atención primaria | La sanidad del centro de salud: médico de familia, pediatra y enfermería. Es el primer lugar al que se acude, antes del especialista o del hospital. | 3 |
+| Conciertos sanitarios | conciertos con la sanidad privada | Acuerdos por los que la sanidad pública paga a centros privados para que atiendan a sus pacientes, que no pagan nada por ello. | 1 |
+| Cartera de servicios | cartera de servicios sanitarios | Lista de pruebas, tratamientos y medicamentos que la sanidad pública ofrece a todos los pacientes. | 1 |
+| Derecho al olvido oncológico | derecho al olvido oncológico | Derecho de quien ha superado un cáncer a que esa enfermedad no se tenga en cuenta al contratar un préstamo o un seguro. | 1 |
+| Impuesto sobre bienes inmuebles (IBI) | impuesto sobre bienes inmuebles (IBI) | Impuesto que cobra cada año el ayuntamiento a quien es propietario de una vivienda, un local o un terreno. | 1 |
+| Impuesto sobre el valor añadido (IVA) | impuesto sobre el valor añadido (IVA) | Impuesto incluido en el precio de casi todo lo que se compra. Tiene un tipo general y otros más bajos para algunos productos. | 3 |
+| Impuesto de sociedades | impuesto de sociedades · recargo en sociedades | Impuesto que pagan las empresas por los beneficios que obtienen en un año. | 2 |
+| Plusvalía municipal | plusvalía municipal | Impuesto del ayuntamiento que se paga cuando se vende, se hereda o se dona un inmueble urbano, por lo que ha subido el valor de su suelo. | 1 |
+| Impuesto sobre el patrimonio | impuestos sobre el patrimonio | Impuesto que pagan cada año las personas por el valor de lo que poseen, por encima de un mínimo que fija cada comunidad autónoma. | 1 |
+| Impuesto sobre sucesiones y donaciones | sucesiones y donaciones | Impuesto que paga quien recibe una herencia o una donación. Cada comunidad autónoma fija cuánto se paga. | 1 |
+| Impuesto a las grandes fortunas | impuesto a las grandes fortunas · impuesto temporal a las grandes fortunas · a las grandes fortunas | Impuesto estatal sobre los patrimonios de más de 3 millones de euros, creado en 2022 con carácter temporal. | 4 |
+| Rentas del capital | rentas del capital · los del capital | Ingresos que no vienen del trabajo, sino de ahorros o bienes: intereses, dividendos de acciones, alquileres o ganancias al vender algo. | 2 |
+| Rentas del trabajo | rentas del trabajo · los del trabajo | Ingresos que vienen de trabajar: el sueldo de quien trabaja por cuenta ajena o lo que gana un autónomo con su actividad. | 2 |
+| Deducción | deducción · deducciones | Cantidad que se puede restar del impuesto a pagar por haber hecho ciertos gastos, como pagar el alquiler de la vivienda. | 3 |
+| Haciendas | haciendas del Estado | Las administraciones que cobran impuestos: la del Estado, las de las comunidades autónomas y las haciendas forales. | 1 |
+| Cotizaciones | cotizaciones · cotización · cuota a la Seguridad Social | Lo que pagan cada mes a la Seguridad Social las empresas y los trabajadores. Con ese dinero se pagan las pensiones, el paro y otras prestaciones. | 4 |
+| Tarifa cero | tarifa cero · tarifa 0 | Que un trabajador autónomo no pague cuota mensual a la Seguridad Social durante un tiempo, si cumple ciertas condiciones. | 2 |
+| Diálogo social | diálogo social | Negociación entre el Gobierno, los sindicatos y las organizaciones de empresarios para acordar medidas laborales. | 2 |
+| Estatuto de los Trabajadores | Estatuto de los Trabajadores | La ley principal que regula los derechos y obligaciones de trabajadores y empresas en España. | 1 |
+| Despido improcedente | despidos improcedentes | Despido que un juez considera no justificado. La empresa debe readmitir al trabajador o pagarle una indemnización. | 1 |
+| Carta Social Europea | Carta Social Europea | Tratado del Consejo de Europa que reconoce derechos sociales y laborales, como la remuneración del trabajo, la vivienda o la protección social. España lo ha ratificado. | 1 |
+| Empresas de trabajo temporal (ETT) | empresas de trabajo temporal (ETT) | Empresas que contratan a trabajadores para cederlos durante un tiempo a otras empresas que los necesitan. | 1 |
+| Falsos autónomos | falsos autónomos | Personas que trabajan como autónomas aunque en la práctica dependen de una sola empresa, como si fueran asalariadas. | 1 |
+| Subcontratación en cadena | subcontratación en cadena | Cuando una empresa encarga un trabajo a otra, esta a su vez a otra, y así varias veces. | 1 |
+| Brecha salarial | brecha salarial | Diferencia entre lo que ganan de media por su trabajo dos grupos de personas, por ejemplo hombres y mujeres. | 1 |
+| Temporalidad | temporalidad | Peso de los contratos temporales, que tienen fecha de fin, frente a los contratos indefinidos. | 1 |
+| Pacto de Toledo | Pacto de Toledo | Acuerdo de 1995 entre los partidos del Congreso para tratar juntos el futuro de las pensiones. Una comisión del Congreso revisa sus recomendaciones. | 2 |
+| Contributividad | contributividad | Relación entre lo que una persona ha cotizado durante su vida laboral y la pensión que cobra. A más contributividad, más depende la pensión de lo cotizado. | 1 |
+| Fondo de reserva de la Seguridad Social | fondo de reserva | Ahorro de la Seguridad Social, conocido como hucha de las pensiones, para pagarlas cuando no bastan las cotizaciones de cada año. | 2 |
+| Pensiones no contributivas | no contributivas | Pensiones para personas mayores o con discapacidad que no han cotizado lo suficiente y tienen pocos ingresos. Se pagan con impuestos. | 2 |
+| Pensiones mínimas | pensiones mínimas · pensión mínima contributiva | Cantidad mínima que el Estado garantiza a quien cobra una pensión por haber cotizado, cuando la que le corresponde queda por debajo. | 5 |
+| Base reguladora | bases reguladoras | Cantidad de referencia que sirve para calcular cuánto se cobra de una pensión o de una prestación. | 1 |
+| Edad ordinaria de jubilación | edad ordinaria de jubilación · jubilación ordinaria | Edad a partir de la cual se cobra la pensión de jubilación sin reducción por jubilarse antes. Depende de los años cotizados. | 2 |
+| Jubilación parcial | jubilación parcial | Jubilarse solo en parte: se cobra una parte de la pensión y se sigue trabajando a tiempo parcial. | 1 |
+| Umbral de la pobreza | umbral de la pobreza | Ingresos por debajo de los cuales un hogar está en riesgo de pobreza: el 60 % de los del hogar que queda en medio si se ordenan de menos a más. | 1 |
+| Zonas tensionadas | zonas tensionadas | Zonas donde la ley considera que el alquiler es muy caro en relación con lo que ganan los hogares, y donde se pueden aplicar reglas especiales. | 1 |
+| Prórroga automática | prórroga automática | Que, al acabar el plazo de un contrato de alquiler, este se alarga por sí solo, sin firmar uno nuevo y sin que ninguna de las partes tenga que pedirlo. | 1 |
+| Aval | programa de avales | Garantía por la que un tercero responde ante el banco de una parte de la hipoteca si quien la pide no puede pagarla. | 1 |
+| Artículo 150.1 de la Constitución | artículo 150.1 de la Constitución | Artículo que permite al Parlamento, mediante una ley, dar a las comunidades autónomas el poder de dictar normas sobre materias que son del Estado. | 1 |
+| Mínimo por descendientes | mínimo por descendientes | Parte de los ingresos por la que no se paga impuesto sobre la renta por tener hijos u otros descendientes a cargo. | 1 |
+| Revalorización | revalorización · revaloricen · revalorizarlas | Subida periódica de la cuantía de las pensiones, normalmente una vez al año, para que no pierdan valor frente a la subida de los precios. | 4 |
+| Pensiones contributivas | pensiones contributivas | Pensiones que se cobran por haber cotizado a la Seguridad Social durante la vida laboral, como la de jubilación. Su cuantía depende de lo cotizado. | 1 |
+| Impuestos a la banca y a las energéticas | impuestos a la banca, a las energéticas · impuestos extraordinarios a la banca y a las energéticas | Gravámenes temporales creados en 2022 sobre los ingresos de los grandes bancos y de las grandes empresas de energía. | 2 |
+| Presupuestos Generales del Estado | Presupuestos Generales del Estado | Ley que aprueba cada año el Parlamento con todos los ingresos y gastos previstos del Estado. | 1 |
+| Bonificación | bonificaciones · Bonificar | Rebaja durante un tiempo en lo que una empresa o un autónomo paga a la Seguridad Social, por contratar a ciertas personas o en ciertas situaciones. | 2 |
 
 ## 7. Verificación de citas
 

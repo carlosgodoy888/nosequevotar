@@ -11,7 +11,8 @@
 // ({ nota, cifras }); las cifras de lo omitido son las únicas que pueden faltar en el texto.
 // Comprueba cada tarjeta y, si no hay errores, escribe en datos/banco/:
 //   banco-2023.json, REVISION-r1.csv, REVISION-r2.csv, PRUEBA-ADIVINAR.md,
-//   PRUEBA-ADIVINAR-solucion.md, PRUEBA-ADIVINAR-respuestas.csv e INFORME.md.
+//   PRUEBA-ADIVINAR-solucion.md, PRUEBA-ADIVINAR-respuestas.csv, GLOSARIO-r1.csv, GLOSARIO-r2.csv e INFORME.md,
+// y rellena en datos/banco/glosario-2023.json las tarjetas en que aparece cada término.
 
 import { readdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
@@ -25,6 +26,11 @@ const MIN_PALABRAS = 15;
 const MAX_PALABRAS = 40;
 const MAX_FRASE = 25;
 const MAX_DIFERENCIA = 10;
+const MAX_DEFINICION = 30;
+// Verbos de compromiso blando, para la tabla de equilibrio por partido.
+const BLANDOS = ['Estudiar', 'Impulsar', 'Promover', 'Pedir', 'Defender', 'Abogar', 'Potenciar', 'Exigir', 'Avanzar hacia', 'Volver a plantear', 'Revisar'];
+// Cifra o plazo: un número, o una expresión de tiempo.
+const CIFRA_O_PLAZO = /\d|\b(inmediat\w*|cada año|a medio plazo|próximos años|primer año|temporal\w*)\b/iu;
 const PERSONAS_PLANTILLA = 20;
 // Partidos cuyo programa no está en castellano: sus citas llevan traducción propia.
 const OTRO_IDIOMA = { erc: 'catalán', junts: 'catalán', bng: 'gallego' };
@@ -157,6 +163,39 @@ async function main() {
     else ok.push(`${tema.id}: longitudes de test entre ${Math.min(...longitudes)} y ${Math.max(...longitudes)} palabras (diferencia ${dif})`);
   }
   for (const tema of TEMAS) if (!sel.ejes?.[tema.id]?.eje) errores.push(`${tema.id}: falta el eje`);
+
+  // Glosario: cada variante aparece tal cual en al menos un texto; definiciones cortas.
+  const RUTA_GLOSARIO = join(BANCO, 'glosario-2023.json');
+  const glosario = await leerJson(RUTA_GLOSARIO);
+  const idsGlosario = new Set();
+  for (const g of glosario) {
+    if (idsGlosario.has(g.id)) errores.push(`glosario: id repetido ${g.id}`);
+    idsGlosario.add(g.id);
+    if (!/^[a-z0-9-]+$/.test(g.id)) errores.push(`glosario ${g.id}: el id solo puede tener minúsculas, cifras y guiones`);
+    for (const v of g.variantes) if (!tarjetas.some(t => t.texto.includes(v))) errores.push(`glosario ${g.id}: la variante «${v}» no aparece en ningún texto`);
+    if (palabras(g.definicion) > MAX_DEFINICION) errores.push(`glosario ${g.id}: definición de ${palabras(g.definicion)} palabras (máximo ${MAX_DEFINICION})`);
+    // En una definición, los dos puntos no cortan la frase: solo el punto.
+    if (g.definicion.split(/(?<=[.!?])\s+/).filter(f => f.trim()).length > 2) errores.push(`glosario ${g.id}: la definición tiene más de 2 frases`);
+    for (const p of PROHIBIDAS) if (contiene(g.definicion, p)) errores.push(`glosario ${g.id}: la definición nombra «${p}»`);
+    for (const v of VALORATIVAS) if (contiene(g.definicion, v)) avisos.push(`glosario ${g.id}: revisar «${v}»`);
+    // «excluir»: tarjetas donde una variante aparece con otro sentido (por ejemplo, «salario medio europeo»).
+    for (const id of g.excluir || []) if (!tarjetas.some(t => t.id === id)) errores.push(`glosario ${g.id}: la tarjeta excluida ${id} no existe`);
+    g.tarjetas = tarjetas.filter(t => !(g.excluir || []).includes(t.id) && g.variantes.some(v => t.texto.includes(v))).map(t => t.id);
+    if (!g.tarjetas.length) errores.push(`glosario ${g.id}: no se enlaza con ninguna tarjeta`);
+  }
+
+  // Equilibrio por partido, sobre las tarjetas de test.
+  const equilibrio = PARTIDOS.map(p => {
+    const suyas = tarjetas.filter(t => t.uso === 'test' && t.partidos[0] === p);
+    const n = suyas.map(t => palabras(t.texto));
+    return {
+      partido: p, tarjetas: suyas.length,
+      media: suyas.length ? n.reduce((a, b) => a + b, 0) / suyas.length : 0,
+      cifra: suyas.filter(t => CIFRA_O_PLAZO.test(t.texto)).length,
+      blando: suyas.filter(t => BLANDOS.some(v => t.texto.startsWith(`${v} `))).length,
+      fuera: suyas.filter(t => t.fueraDeEje).length,
+    };
+  });
   for (const d of docs) if (!sel.titulos?.[d.id]) errores.push(`${d.id}: falta el título de portada`);
 
   const cuenta = (v) => tarjetas.filter(t => t.verificacion === v).length;
@@ -164,6 +203,10 @@ async function main() {
   console.log(`  ${tarjetas.length} tarjetas · ${cuenta('exacta')} citas exactas · ${cuenta('normalizada')} normalizadas · ${cuenta('no-encontrada')} no encontradas`);
   console.log(`  Palabras por texto: de ${Math.min(...tarjetas.map(t => palabras(t.texto)))} a ${Math.max(...tarjetas.map(t => palabras(t.texto)))}`);
   for (const o of ok) console.log(`  OK ${o}`);
+  console.log(`  Glosario: ${glosario.length} términos, todas las variantes aparecen en algún texto`);
+  console.log('\n  Equilibrio por partido (tarjetas de test)');
+  console.log('  Partido      Tarjetas  Media palabras  Con cifra o plazo  Verbo blando  Fuera de eje');
+  for (const e of equilibrio) console.log(`  ${NOMBRE_PARTIDO[e.partido].padEnd(13)}${String(e.tarjetas).padStart(8)}${e.media.toFixed(1).padStart(16)}${String(e.cifra).padStart(19)}${String(e.blando).padStart(14)}${String(e.fuera).padStart(14)}`);
   if (avisos.length) console.log(`\nAVISOS (revisados a mano; ver registro de autorrevisión):\n${avisos.map(a => `  · ${a}`).join('\n')}`);
   if (errores.length) {
     console.error(`\nERRORES:\n${errores.map(e => `  · ${e}`).join('\n')}`);
@@ -185,6 +228,12 @@ async function main() {
     texto: t.texto, fiel: '', neutral: '', delata: '', notas: '',
   }));
   for (const r of ['r1', 'r2']) await writeFile(join(BANCO, `REVISION-${r}.csv`), aCsv(columnas, filas));
+
+  // ───── Glosario: tarjetas en que aparece cada término y CSV de revisión ─────
+  await escribirJson(RUTA_GLOSARIO, glosario);
+  const colsGlosario = ['id', 'termino', 'variantes', 'definicion', 'correcta', 'neutral', 'clara', 'notas'];
+  const filasGlosario = glosario.map(g => ({ id: g.id, termino: g.termino, variantes: g.variantes.join(' | '), definicion: g.definicion, correcta: '', neutral: '', clara: '', notas: '' }));
+  for (const r of ['r1', 'r2']) await writeFile(join(BANCO, `GLOSARIO-${r}.csv`), aCsv(colsGlosario, filasGlosario));
 
   // ───── Prueba de adivinar ─────
   const prueba = ordenPrueba(banco);
@@ -210,11 +259,11 @@ Para corregir: rellena PRUEBA-ADIVINAR-respuestas.csv y ejecuta \`node scripts/b
     Array.from({ length: PERSONAS_PLANTILLA }, (_, i) => ({ persona: `Persona ${i + 1}` }))));
 
   // ───── Informe ─────
-  await writeFile(join(BANCO, 'INFORME.md'), await informe({ sel, docs, docPorPartido, tarjetas, prueba, avisos }));
-  console.log('\nEscritos en datos/banco/: banco-2023.json, REVISION-r1.csv, REVISION-r2.csv, PRUEBA-ADIVINAR.md, PRUEBA-ADIVINAR-solucion.md, PRUEBA-ADIVINAR-respuestas.csv, INFORME.md');
+  await writeFile(join(BANCO, 'INFORME.md'), await informe({ sel, docs, docPorPartido, tarjetas, prueba, avisos, glosario, equilibrio }));
+  console.log('\nEscritos en datos/banco/: banco-2023.json, REVISION-r1.csv, REVISION-r2.csv, GLOSARIO-r1.csv, GLOSARIO-r2.csv, glosario-2023.json (tarjetas), PRUEBA-ADIVINAR.md, PRUEBA-ADIVINAR-solucion.md, PRUEBA-ADIVINAR-respuestas.csv, INFORME.md');
 }
 
-async function informe({ sel, docs, tarjetas, prueba }) {
+async function informe({ sel, docs, tarjetas, prueba, glosario, equilibrio }) {
   const temaPorId = Object.fromEntries(TEMAS.map(t => [t.id, t]));
   const nombre = (p) => NOMBRE_PARTIDO[p];
   const lista = (xs) => xs.length ? xs.map(x => `- ${x}`).join('\n') : '- Ninguno.';
@@ -304,13 +353,18 @@ Segunda pasada completa, tarjeta por tarjeta: fidelidad, neutralidad, lenguaje c
 
 ${sel.resumenAutorrevision || ''}
 
+### Regla de territorio
+
+- Nombrar un territorio concreto (por ejemplo, La Palma, Cataluña o Euskadi) delata al partido: se neutraliza o, si neutralizarlo cambia el sentido, se usa la reserva.
+- Una referencia genérica a «la comunidad autónoma» o a lo «autonómico» se permite, porque es inherente a los partidos de ámbito autonómico. Por eso se mantienen las tarjetas de test de Junts y de CC en sanidad.
+
 ### Segunda pasada de redacción
 
 Reglas de esta pasada: de 15 a 40 palabras sin relleno; solo la medida, sin las justificaciones del partido; una medida por tarjeta; sin casos concretos que identifiquen la sensibilidad del partido; empezar por el verbo de la medida, sin verbos de marco (se conservan los compromisos blandos de la cita, como «impulsar», «defender» o «pedir al Gobierno»). Siguen las reglas de antes. Se cambiaron ${(sel.pasada2 || []).length} tarjetas y se retiraron ${(sel.pasada2Retiradas || []).length}.
 
 ${tabla(['Tarjeta', 'Antes', 'Después', 'Motivo'], [...(sel.pasada2 || []).map(r => {
-    const t = tarjetas.find(x => x.id === r.id);
-    return [r.id, celdaMd(r.antes), `${celdaMd(t.texto)} (${palabras(t.texto)} palabras)`, celdaMd(`${r.motivo}${r.nuevaCita ? ' (cita nueva)' : ''}`)];
+    const despues = r.despues ?? tarjetas.find(x => x.id === r.id).texto;
+    return [r.id, celdaMd(r.antes), `${celdaMd(despues)} (${palabras(despues)} palabras)`, celdaMd(`${r.motivo}${r.nuevaCita ? ' (cita nueva)' : ''}`)];
   }), ...(sel.pasada2Retiradas || []).map(r => [r.id, celdaMd(r.antes), '(retirada)', celdaMd(r.motivo)])])}
 
 ### Tercera pasada: comprobaciones con agentes
@@ -318,9 +372,24 @@ ${tabla(['Tarjeta', 'Antes', 'Después', 'Motivo'], [...(sel.pasada2 || []).map(
 Cambios decididos por el responsable del proyecto a partir de datos/banco/ia/PRUEBA-AGENTES.md y REVISION-IA.md. Se cambiaron ${(sel.pasada3 || []).length} tarjetas.
 
 ${(sel.pasada3 || []).length ? tabla(['Tarjeta', 'Antes', 'Después', 'Motivo'], sel.pasada3.map(r => {
-    const t = tarjetas.find(x => x.id === r.id);
-    return [r.id, celdaMd(r.antes), `${celdaMd(t.texto)} (${palabras(t.texto)} palabras)`, celdaMd(r.motivo)];
+    const despues = r.despues ?? tarjetas.find(x => x.id === r.id).texto;
+    return [r.id, celdaMd(r.antes), `${celdaMd(despues)} (${palabras(despues)} palabras)`, celdaMd(r.motivo)];
   })) : 'Sin cambios.'}
+
+### Cuarta pasada: revisión final con agentes
+
+Cambios decididos por el responsable del proyecto a partir de datos/banco/ia/REVISION-FINAL.md. Se cambiaron ${(sel.pasada4 || []).length} tarjetas; en dos temas la reserva pasa a test.
+
+${(sel.pasada4 || []).length ? tabla(['Tarjeta', 'Antes', 'Después', 'Motivo'], sel.pasada4.map(r => {
+    const despues = r.despues ?? tarjetas.find(x => x.id === r.id).texto;
+    return [r.id, celdaMd(r.antes), `${celdaMd(despues)} (${palabras(despues)} palabras)`, celdaMd(`${r.intercambio ? '(Intercambio de test y reserva.) ' : ''}${r.motivo}`)];
+  })) : 'Sin cambios.'}
+
+### Equilibrio por partido (tarjetas de test)
+
+«Con cifra o plazo»: el texto lleva un número o una expresión de tiempo. «Verbo blando»: empieza por ${BLANDOS.map(v => v.toLowerCase()).join(', ')}. «Obtener» no cuenta como blando.
+
+${tabla(['Partido', 'Tarjetas', 'Media de palabras', 'Con cifra o plazo', 'Verbo blando', 'Fuera de eje'], equilibrio.map(e => [nombre(e.partido), e.tarjetas, e.media.toFixed(1), e.cifra, e.blando, e.fuera]))}
 
 ### Partes omitidas (una medida por tarjeta)
 
@@ -337,6 +406,12 @@ ${(sel.sustituciones || []).length ? tabla(['Tarjeta', 'Término original', 'Té
 ### Tarjetas vagas porque el programa es vago
 
 ${(sel.vagas || []).length ? tabla(['Tarjeta', 'Nota'], sel.vagas.map(r => [r.id, celdaMd(r.nota)])) : 'Ninguna.'}
+
+### Glosario
+
+${glosario.length} términos en datos/banco/glosario-2023.json. Se muestran al tocar el término en el test; no cambian ningún texto. Los revisan dos personas con GLOSARIO-r1.csv y GLOSARIO-r2.csv.
+
+${tabla(['Término', 'Variantes', 'Definición', 'Tarjetas'], glosario.map(g => [celdaMd(g.termino), celdaMd(g.variantes.join(' · ')), celdaMd(g.definicion), g.tarjetas.length]))}
 
 ## 7. Verificación de citas
 

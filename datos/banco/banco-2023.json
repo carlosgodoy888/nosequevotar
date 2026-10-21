@@ -1,6 +1,6 @@
 {
   "anio": 2023,
-  "generado": "2026-10-21T21:54:34.470Z",
+  "generado": "2026-10-21T23:04:45.502Z",
   "temas": [
     {
       "id": "vivienda",
@@ -158,7 +158,7 @@
       "partidos": [
         "pp"
       ],
-      "texto": "Movilizar el suelo público reservado a vivienda, sea cual sea su régimen jurídico, para promover viviendas en alquiler asequible.",
+      "texto": "Movilizar todo el suelo público destinado a vivienda pública para promover viviendas de alquiler asequible.",
       "cita": "MOVILIZAREMOS EL SUELO DE TITULARIDAD PÚBLICA destinado a redes públicas de vivienda, tanto patrimonial como demanial, con destino a fórmulas de promoción de vivienda en alquiler asequible.",
       "traduccion": null,
       "documento": "2023-pp",
@@ -315,13 +315,20 @@
       "partidos": [
         "erc"
       ],
-      "texto": "Permitir, vía artículo 150.1 de la Constitución, que las comunidades con competencias en vivienda y derecho civil propio regulen todo el alquiler: precios, duración y prórrogas.",
-      "cita": "Fer possible que les comunitats autònomes que tinguin competències en matèria d’habitatge i dret civil, foral o especial, puguin regular íntegrament els contractes d’arrendaments urbans, incloent la regulació dels preus de lloguer, la durada dels contractes i les seves pròrrogues, en el marc de l’art. 150.1 de la Constitució espanyola.",
-      "traduccion": "Hacer posible que las comunidades autónomas que tengan competencias en materia de vivienda y derecho civil, foral o especial puedan regular íntegramente los contratos de arrendamientos urbanos, incluida la regulación de los precios del alquiler, la duración de los contratos y sus prórrogas, en el marco del art. 150.1 de la Constitución española.",
+      "texto": "Recuperar la deducción en el impuesto sobre la renta (IRPF) por el alquiler de la vivienda habitual para los inquilinos.",
+      "cita": "Restablir la deducció en l’IRPF de les rendes de lloguer de l’habitatge habitual als arrendataris, la qual va ser suprimida amb efectes de l’1 de gener de 2015.",
+      "traduccion": "Restablecer la deducción en el IRPF de las rentas del alquiler de la vivienda habitual para los arrendatarios, que fue suprimida con efectos del 1 de enero de 2015.",
       "documento": "2023-erc",
-      "pagina": 114,
-      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=114",
+      "pagina": 115,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=115",
       "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite la fecha de supresión de la deducción («suprimida con efectos de l’1 de gener de 2015») para respetar el equilibrio del tema.",
+        "cifras": [
+          "1",
+          "2015"
+        ]
+      },
       "revision": {
         "estado": "borrador",
         "revisor1": null,
@@ -337,12 +344,12 @@
       "partidos": [
         "erc"
       ],
-      "texto": "Recuperar la deducción en el impuesto sobre la renta (IRPF) por el alquiler de la vivienda habitual para los inquilinos. Se suprimió desde el 1 de enero de 2015.",
-      "cita": "Restablir la deducció en l’IRPF de les rendes de lloguer de l’habitatge habitual als arrendataris, la qual va ser suprimida amb efectes de l’1 de gener de 2015.",
-      "traduccion": "Restablecer la deducción en el IRPF de las rentas del alquiler de la vivienda habitual para los arrendatarios, que fue suprimida con efectos del 1 de enero de 2015.",
+      "texto": "Permitir, vía artículo 150.1 de la Constitución, que las comunidades con competencias en vivienda y derecho civil propio regulen todo el alquiler: precios, duración y prórrogas.",
+      "cita": "Fer possible que les comunitats autònomes que tinguin competències en matèria d’habitatge i dret civil, foral o especial, puguin regular íntegrament els contractes d’arrendaments urbans, incloent la regulació dels preus de lloguer, la durada dels contractes i les seves pròrrogues, en el marc de l’art. 150.1 de la Constitució espanyola.",
+      "traduccion": "Hacer posible que las comunidades autónomas que tengan competencias en materia de vivienda y derecho civil, foral o especial puedan regular íntegramente los contratos de arrendamientos urbanos, incluida la regulación de los precios del alquiler, la duración de los contratos y sus prórrogas, en el marco del art. 150.1 de la Constitución española.",
       "documento": "2023-erc",
-      "pagina": 115,
-      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=115",
+      "pagina": 114,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=114",
       "verificacion": "exacta",
       "revision": {
         "estado": "borrador",
@@ -516,7 +523,7 @@
       "partidos": [
         "bng"
       ],
-      "texto": "Ampliar los criterios del recargo del impuesto sobre bienes inmuebles (IBI) para que se movilicen más viviendas vacías.",
+      "texto": "Ampliar los criterios del recargo del impuesto sobre bienes inmuebles (IBI) para que se pongan en uso más viviendas vacías.",
       "cita": "Ampliar os criterios de recargo do IBI de forma que promovan unha maior mobilización da vivenda baleira.",
       "traduccion": "Ampliar los criterios de recargo del IBI de forma que promuevan una mayor movilización de la vivienda vacía.",
       "documento": "2023-bng",
@@ -864,7 +871,7 @@
       "partidos": [
         "bildu"
       ],
-      "texto": "Aumentar la carga impositiva y hacer permanentes los impuestos a la banca, a las energéticas y a las grandes fortunas.",
+      "texto": "Subir y hacer permanentes los impuestos a la banca, a las energéticas y a las grandes fortunas.",
       "cita": "Aumentar la carga impositiva y convertir en permanentes los impuestos a la banca, energéticas y grandes fortunas, respetando la competencia y capacidad de nuestras haciendas forales en la gestión y recaudación de los mismos.",
       "traduccion": null,
       "documento": "2023-bildu",
@@ -911,7 +918,7 @@
       "partidos": [
         "bng"
       ],
-      "texto": "Fijar en el impuesto sobre la renta (IRPF) tipos distintos según el origen de los ingresos: menos para el trabajo y más para el capital.",
+      "texto": "Fijar en el impuesto sobre la renta (IRPF) tipos distintos según el origen de los ingresos, bajando los del trabajo y subiendo los del capital.",
       "cita": "Estabelecer distintos tipos de gravame en función da natureza dos rendementos, minorando a tributación polos ingresos do traballo e aumentando a correspondente aos derivados do capital.",
       "traduccion": "Establecer distintos tipos de gravamen en función de la naturaleza de los rendimientos, reduciendo la tributación por los ingresos del trabajo y aumentando la correspondiente a los derivados del capital.",
       "documento": "2023-bng",
@@ -955,7 +962,7 @@
       "partidos": [
         "pp"
       ],
-      "texto": "Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos registros europeos de entradas y salidas de viajeros.",
+      "texto": "Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar el nuevo registro europeo de entradas y salidas de viajeros.",
       "cita": "POTENCIAREMOS LA INSPECCIÓN FRONTERIZA, incrementando el número y formación del personal, impulsando la implantación del nuevo Sistema Europeo de Registro de Entradas y Salidas y del Sistema Europeo de Información y Autorización de Viaje, así como la coordinación y participación en las actividades de FRONTEX.",
       "traduccion": null,
       "documento": "2023-pp",
@@ -980,7 +987,7 @@
       "partidos": [
         "pp"
       ],
-      "texto": "Agilizar las órdenes de retorno de inmigrantes irregulares y la expulsión de quienes hayan cometido delitos. Se haría con mejores acuerdos con los países de origen o de tránsito.",
+      "texto": "Agilizar la ejecución de las órdenes de retorno de inmigrantes en situación irregular y de expulsión de quienes hayan cometido delitos. Se haría con mejores acuerdos con los países de origen o de tránsito.",
       "cita": "AGILIZAREMOS EL CUMPLIMIENTO DE LAS ÓRDENES DE RETORNO de inmigrantes irregulares o expulsión de los que hayan cometido un delito a través de acuerdos mejorados con los países de origen o de tránsito para prevenir amenazas a la seguridad y evitar el efecto “llamada”.",
       "traduccion": null,
       "documento": "2023-pp",
@@ -1024,13 +1031,16 @@
       "partidos": [
         "psoe"
       ],
-      "texto": "Habilitar mejores vías de migración regular y ordenada, fomentando convenios de migración circular como los que ya funcionan.",
+      "texto": "Habilitar mejores vías de migración regular y ordenada, fomentando convenios de migración circular: trabajo temporal en España y regreso al país de origen.",
       "cita": "Habilitaremos mejores vías para la migración regular y ordenada que permitan una mejor inserción social y laboral de las personas migrantes, fomentando convenios de migración circular exitosos como los que ya funcionan.",
       "traduccion": null,
       "documento": "2023-psoe",
       "pagina": 256,
       "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=256",
       "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite «exitosos como los que ya funcionan»: valora y señala a quien gobierna."
+      },
       "revision": {
         "estado": "borrador",
         "revisor1": null,
@@ -1162,7 +1172,7 @@
       "partidos": [
         "erc"
       ],
-      "texto": "Establecer vías legales y seguras de entrada a España que garanticen la libre circulación y el asilo de las personas desplazadas a la fuerza.",
+      "texto": "Establecer vías legales y seguras de entrada a España para las personas desplazadas a la fuerza. Servirían para garantizarles el acceso a la libre circulación y al derecho de asilo.",
       "cita": "Establir vies legals i segures d'entrada a l’Estat espanyol, per a garantir l’accés a la lliure circulació i al dret d’asil a les persones desplaçades forçosament, davant les vulneracions en l’accés a l’asil i la protecció internacional.",
       "traduccion": "Establecer vías legales y seguras de entrada al Estado español, para garantizar el acceso a la libre circulación y al derecho de asilo a las personas desplazadas forzosamente, ante las vulneraciones en el acceso al asilo y la protección internacional.",
       "documento": "2023-erc",
@@ -1231,7 +1241,7 @@
       "partidos": [
         "pnv"
       ],
-      "texto": "Volver a plantear la reforma de la ley de extranjería para comprobar que se cumplen los tratados de derechos humanos en los rechazos en frontera.",
+      "texto": "Volver a plantear la reforma de la ley de extranjería. Fijaría cómo comprobar que los rechazos en frontera cumplen los tratados humanitarios y de derechos humanos.",
       "cita": "Para garantizar el cumplimiento de los tratados internacionales en materia humanitaria y de Derechos Humanos respecto a las personas demandantes de refugio y asilo y resto de migrantes, se volverá a plantear la reforma de la legislación de extranjería a ﬁn de establecer procedimientos que permitan la trazabilidad del cumplimiento de esos tratados internacionales durante el llamado rechazo en frontera, tal y como ya lo hemos hecho esta pasada legislatura y que la postura maximalista de EH Bildu y de ERC respecto a la modiﬁcación de ley mordaza ha impedido.",
       "traduccion": null,
       "documento": "2023-pnv",
@@ -1391,7 +1401,7 @@
       "partidos": [
         "cc"
       ],
-      "texto": "Pedir al Gobierno de España que promueva en la Unión Europea más coordinación entre los Estados miembros en el rescate de inmigrantes en el mar.",
+      "texto": "Pedir al Gobierno de España que promueva en la Unión Europea más coordinación entre las políticas de los Estados miembros. Entre ellas, el rescate de inmigrantes en el mar.",
       "cita": "Demandaremos al Gobierno de España para que promueva en el ámbito de la Unión Europea una mayor coordinación entre las políticas de los diferentes Estados miembros, y entre ellas el rescate de inmigrantes en el mar, intensificándose el apoyo directo de la UE a los Estados Miembros en esta materia.",
       "traduccion": null,
       "documento": "2023-cc",
@@ -1504,7 +1514,7 @@
       "partidos": [
         "vox"
       ],
-      "texto": "Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y las normas para las empresas.",
+      "texto": "Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y la regulación sobre las empresas.",
       "cita": "Impulsaremos la subida de todos los salarios, especialmente los más bajos. Para que ello no conlleve una destrucción de empleo, reduciremos drásticamente las cargas sobre las empresas y la regulación abusiva que perjudican la generación de empleo.",
       "traduccion": null,
       "documento": "2023-vox",
@@ -1512,7 +1522,7 @@
       "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=22",
       "verificacion": "exacta",
       "omitido": {
-        "nota": "La cita tiene dos medidas en dos frases: subir los salarios y reducir las cargas y la regulación de las empresas. Se recogen las dos porque la subida sola no llega a 15 palabras. Se omite la justificación de la segunda («para que ello no conlleve una destrucción de empleo») y el adjetivo «abusiva»."
+        "nota": "La cita tiene dos medidas en dos frases: subir los salarios y reducir las cargas y la regulación de las empresas. Se recogen las dos porque la subida sola no llega a 15 palabras. Se omiten la justificación de la segunda («para que ello no conlleve una destrucción de empleo») y el adjetivo «abusiva», que solo valora."
       },
       "revision": {
         "estado": "borrador",
@@ -1595,7 +1605,7 @@
       "partidos": [
         "erc"
       ],
-      "texto": "Subir el salario mínimo interprofesional a 1.250 euros y fijar una escala salarial 1/12: el sueldo más alto no superaría doce veces el más bajo.",
+      "texto": "Subir el salario mínimo interprofesional (SMI), el sueldo más bajo que se puede pagar por ley, hasta los 1.250 euros.",
       "cita": "La plena ocupació com a política pública, amb un salari digne i la reducció de les desigualtats salarials, amb l’increment del salari mínim interprofessional a 1.250 euros i amb l’establiment d’una escala salarial 1/12 per a una equitat retributiva més justa i l’erradicació de la bretxa salarial.",
       "traduccion": "El pleno empleo como política pública, con un salario digno y la reducción de las desigualdades salariales, con el incremento del salario mínimo interprofesional a 1.250 euros y con el establecimiento de una escala salarial 1/12 para una equidad retributiva más justa y la erradicación de la brecha salarial.",
       "documento": "2023-erc",
@@ -1603,7 +1613,11 @@
       "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=90",
       "verificacion": "exacta",
       "omitido": {
-        "nota": "Se omiten los objetivos generales de la cita (pleno empleo, salario digno, erradicar la brecha salarial). El salario mínimo y la escala 1/12 se dejan juntos: son los dos instrumentos de la misma medida, reducir las desigualdades salariales."
+        "nota": "La cita junta varias medidas; se recoge la principal (subir el salario mínimo a 1.250 euros) y se omiten la escala salarial 1/12 y los objetivos generales (pleno empleo, salario digno, erradicar la brecha salarial).",
+        "cifras": [
+          "1",
+          "12"
+        ]
       },
       "revision": {
         "estado": "borrador",
@@ -1642,7 +1656,7 @@
       "partidos": [
         "junts"
       ],
-      "texto": "Subir el salario mínimo interprofesional de los 1.080 euros actuales hasta los 1.319 euros del salario medio europeo.",
+      "texto": "Subir el salario mínimo interprofesional de 1.080 euros, el de 2023, hasta los 1.319 euros del salario medio europeo.",
       "cita": "El salari mínim interprofessional ha d’augmentar dels 1080€ actuals fins als 1319€ del salari mig europeu. La Generalitat ha de poder-lo fixar per Catalunya.",
       "traduccion": "El salario mínimo interprofesional debe aumentar de los 1.080 € actuales hasta los 1.319 € del salario medio europeo. La Generalitat debe poder fijarlo para Cataluña.",
       "documento": "2023-junts",
@@ -1714,7 +1728,7 @@
       "partidos": [
         "pnv"
       ],
-      "texto": "Ampliar la duración de la prestación por desempleo hasta un máximo de 36 meses, vinculando las ayudas a participar en procesos para mejorar la empleabilidad.",
+      "texto": "Ampliar la cobertura por desempleo hasta un máximo de 36 meses, vinculando las ayudas a participar en programas para encontrar trabajo.",
       "cita": "Mejora de la cobertura por desempleo. Ampliando los límites de la cobertura por desempleo hasta un máximo de 36 meses, vinculando dichas ayudas a la participación en procesos destinados a su empleabilidad.",
       "traduccion": null,
       "documento": "2023-pnv",
@@ -1758,7 +1772,7 @@
       "partidos": [
         "bildu"
       ],
-      "texto": "Aplicar medidas específicas para mujeres y jóvenes contra la brecha salarial, la precariedad, la temporalidad y la parcialidad que sufren.",
+      "texto": "Aplicar medidas específicas para mujeres y jóvenes contra la brecha salarial, la precariedad, la temporalidad y el trabajo a tiempo parcial.",
       "cita": "Medidas específicas orientadas a mujeres y personas jóvenes que atajen la brecha salarial que hoy sufren esos sectores, así como la precariedad, temporalidad y parcialidad presentes en gran parte de los mismos.",
       "traduccion": null,
       "documento": "2023-bildu",
@@ -2166,7 +2180,7 @@
       "partidos": [
         "pnv"
       ],
-      "texto": "Reformar la ley general de la Seguridad Social para limitar el uso libre del fondo de reserva de las pensiones, recuperando el tope del 3 %.",
+      "texto": "Reformar la ley general de la Seguridad Social para impedir o limitar el uso libre del fondo de reserva de las pensiones. Para ello, recuperar el tope del 3 %.",
       "cita": "Reformar el TRLGSS a ﬁn de impedir o limitar la libre disposición del Fondo de Reserva de las Pensiones, recuperando el tope del 3% para que dicho mecanismo solo pueda seguir siendo utilizado en situaciones excepcionales, a través de mecanismos de control extraordinarios y como mecanismo de garantía ﬁnanciera de sostenibilidad del Sistema público de pensiones.",
       "traduccion": null,
       "documento": "2023-pnv",
@@ -2279,7 +2293,7 @@
       "partidos": [
         "cc"
       ],
-      "texto": "Garantizar que las pensiones públicas se actualicen según el coste de la vida, financiándolas con los Presupuestos Generales del Estado.",
+      "texto": "Garantizar que las pensiones públicas se actualicen según el coste de la vida, con medidas como financiarlas a través de los Presupuestos Generales del Estado.",
       "cita": "Defenderemos la sostenibilidad del sistema de pensiones públicas. Garantizando pensiones dignas y actualizadas en función del coste de la vida. Reduciendo la actual brecha de género. Tomando decisiones, como la financiación vía Presupuestos Generales del Estado, que eliminen incertidumbres y blinden su presente y futuro.",
       "traduccion": null,
       "documento": "2023-cc",
@@ -2326,8 +2340,8 @@
       "partidos": [
         "pp"
       ],
-      "texto": "Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria.",
-      "cita": "PROMOVEREMOS UN PLAN DE CHOQUE EN ATENCIÓN PRIMARIA para dar solución al grave problema de déficit de especialistas en este nivel asistencial que sufre España.",
+      "texto": "Impulsar con las comunidades autónomas 1.000 plazas más de formación en medicina familiar en la oferta de 2024.",
+      "cita": "Impulsaremos, en colaboración con las Comunidades Autónomas, la incorporación de 1.000 plazas formativas más de medicina familiar a la oferta de 2024.",
       "traduccion": null,
       "documento": "2023-pp",
       "pagina": 45,
@@ -2348,8 +2362,8 @@
       "partidos": [
         "pp"
       ],
-      "texto": "Impulsar con las comunidades autónomas 1.000 plazas más de formación en medicina familiar en la oferta de 2024.",
-      "cita": "Impulsaremos, en colaboración con las Comunidades Autónomas, la incorporación de 1.000 plazas formativas más de medicina familiar a la oferta de 2024.",
+      "texto": "Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria.",
+      "cita": "PROMOVEREMOS UN PLAN DE CHOQUE EN ATENCIÓN PRIMARIA para dar solución al grave problema de déficit de especialistas en este nivel asistencial que sufre España.",
       "traduccion": null,
       "documento": "2023-pp",
       "pagina": 45,
@@ -2414,7 +2428,7 @@
       "partidos": [
         "vox"
       ],
-      "texto": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos, con incentivos a los centros públicos y más conciertos con centros privados.",
+      "texto": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos. Se incentivaría a los centros públicos y se reforzarían los conciertos con la sanidad privada.",
       "cita": "Reduciremos el volumen y tiempo de las listas de espera en todos los ámbitos, incentivando a los centros públicos para su reducción, y reforzando los conciertos con la sanidad privada.",
       "traduccion": null,
       "documento": "2023-vox",
@@ -2555,7 +2569,7 @@
       "partidos": [
         "junts"
       ],
-      "texto": "Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud autonómico tenga especialistas.",
+      "texto": "Obtener la competencia para ampliar el número de plazas de médico interno residente (MIR) y así dotar de especialistas al sistema público de salud autonómico.",
       "cita": "Poder ampliar el nombre de places MIR per poder abastir de metges especialitzats els sistema públic de salut a Catalunya.",
       "traduccion": "Poder ampliar el número de plazas MIR para poder abastecer de médicos especialistas al sistema público de salud de Cataluña.",
       "documento": "2023-junts",
@@ -2630,7 +2644,7 @@
       "partidos": [
         "pnv"
       ],
-      "texto": "Impulsar la regulación del derecho al olvido oncológico: que bancos y aseguradoras no tengan el historial médico de quien ha superado un cáncer al contratar un préstamo, un seguro o un crédito.",
+      "texto": "Impulsar la regulación del derecho al olvido oncológico. Las entidades financieras y aseguradoras no tendrían el historial médico de quien ha superado un cáncer al contratar préstamos, seguros o créditos.",
       "cita": "Impulsar la regulación del derecho al olvido oncológico para garantizar a las personas que han superado un cáncer que las entidades ﬁnancieras y aseguradoras no tengan su historial médico a la hora de contratar un préstamo, un seguro o un crédito.",
       "traduccion": null,
       "documento": "2023-pnv",

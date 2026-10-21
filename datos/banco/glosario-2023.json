@@ -1,0 +1,810 @@
+[
+  {
+    "id": "irpf",
+    "termino": "Impuesto sobre la renta (IRPF)",
+    "variantes": [
+      "impuesto sobre la renta (IRPF)",
+      "impuesto sobre la renta de las personas físicas (IRPF)"
+    ],
+    "definicion": "Impuesto que paga cada persona por lo que gana en un año: sueldo, pensión, alquileres o ahorros. Cuanto más se gana, mayor es el porcentaje que se paga.",
+    "tarjetas": [
+      "t2023-vivienda-sumar-2",
+      "t2023-vivienda-erc-1",
+      "t2023-vivienda-junts-2",
+      "t2023-impuestos-pp-1",
+      "t2023-impuestos-psoe-1",
+      "t2023-impuestos-vox-1",
+      "t2023-impuestos-sumar-1",
+      "t2023-impuestos-erc-1",
+      "t2023-impuestos-junts-1",
+      "t2023-impuestos-bng-1",
+      "t2023-pensiones-vox-1"
+    ]
+  },
+  {
+    "id": "tramo",
+    "termino": "Tramo",
+    "variantes": [
+      "tramos"
+    ],
+    "definicion": "Cada uno de los escalones de ingresos del impuesto sobre la renta. A cada tramo se le aplica su propio porcentaje, más alto cuanto más alto es el tramo.",
+    "tarjetas": [
+      "t2023-impuestos-sumar-1",
+      "t2023-impuestos-erc-1"
+    ]
+  },
+  {
+    "id": "tipo-impositivo",
+    "termino": "Tipo impositivo",
+    "variantes": [
+      "tipo máximo",
+      "tipos de las rentas del capital",
+      "tipos distintos",
+      "a dos tipos",
+      "tipos general, reducido y superreducido",
+      "el tipo del impuesto de sociedades",
+      "tipos de al menos"
+    ],
+    "definicion": "Porcentaje que se paga de un impuesto. Un tipo del 25 % significa pagar 25 euros de cada 100 sobre los que se aplica.",
+    "tarjetas": [
+      "t2023-impuestos-vox-1",
+      "t2023-impuestos-sumar-1",
+      "t2023-impuestos-sumar-2",
+      "t2023-impuestos-erc-1",
+      "t2023-impuestos-junts-2",
+      "t2023-impuestos-pnv-1",
+      "t2023-impuestos-bng-1"
+    ]
+  },
+  {
+    "id": "base-imponible",
+    "termino": "Base imponible",
+    "variantes": [
+      "bases inferiores"
+    ],
+    "definicion": "Cantidad sobre la que se calcula un impuesto, después de restar a los ingresos lo que la ley permite descontar.",
+    "tarjetas": [
+      "t2023-impuestos-vox-1"
+    ]
+  },
+  {
+    "id": "smi",
+    "termino": "Salario mínimo interprofesional (SMI)",
+    "variantes": [
+      "salario mínimo interprofesional"
+    ],
+    "definicion": "El sueldo más bajo que se puede pagar por ley por una jornada completa. Lo fija el Gobierno cada año.",
+    "tarjetas": [
+      "t2023-empleo-pp-1",
+      "t2023-empleo-psoe-1",
+      "t2023-empleo-sumar-2",
+      "t2023-empleo-erc-1",
+      "t2023-empleo-junts-1",
+      "t2023-empleo-junts-2",
+      "t2023-pensiones-erc-1",
+      "t2023-pensiones-junts-1"
+    ]
+  },
+  {
+    "id": "salario-medio",
+    "termino": "Salario medio",
+    "variantes": [
+      "salario medio"
+    ],
+    "definicion": "El sueldo que sale de repartir a partes iguales el total de los sueldos entre todas las personas que trabajan.",
+    "tarjetas": [
+      "t2023-empleo-psoe-1",
+      "t2023-pensiones-bng-1"
+    ],
+    "excluir": [
+      "t2023-empleo-junts-1"
+    ]
+  },
+  {
+    "id": "pib",
+    "termino": "Producto interior bruto (PIB)",
+    "variantes": [
+      "producto interior bruto"
+    ],
+    "definicion": "Valor de todo lo que produce un país en un año en bienes y servicios. Se usa para medir el tamaño de su economía.",
+    "tarjetas": [
+      "t2023-vivienda-sumar-1",
+      "t2023-vivienda-junts-1"
+    ]
+  },
+  {
+    "id": "ipc",
+    "termino": "Índice de precios de consumo (IPC)",
+    "variantes": [
+      "índice de precios de consumo (IPC)"
+    ],
+    "definicion": "Indicador que mide cuánto suben o bajan cada año los precios de lo que compran los hogares. Se usa para medir la inflación.",
+    "tarjetas": [
+      "t2023-empleo-sumar-2",
+      "t2023-pensiones-psoe-1",
+      "t2023-pensiones-sumar-1",
+      "t2023-pensiones-pnv-1"
+    ]
+  },
+  {
+    "id": "inflacion",
+    "termino": "Inflación",
+    "variantes": [
+      "inflación"
+    ],
+    "definicion": "Subida general de los precios. Cuando hay inflación, con el mismo dinero se pueden comprar menos cosas.",
+    "tarjetas": [
+      "t2023-impuestos-pp-1"
+    ]
+  },
+  {
+    "id": "devolucion-sumaria",
+    "termino": "Devolución sumaria",
+    "variantes": [
+      "devolución sumaria"
+    ],
+    "definicion": "Devolución inmediata, sin procedimiento ordinario, de quien intenta cruzar irregularmente la frontera. Conocida como devolución en caliente; la ley de extranjería la llama rechazo en frontera en Ceuta y Melilla.",
+    "tarjetas": [
+      "t2023-inmigracion-sumar-1"
+    ]
+  },
+  {
+    "id": "devoluciones-en-caliente",
+    "termino": "Devoluciones en caliente",
+    "variantes": [
+      "devoluciones en caliente"
+    ],
+    "definicion": "Así se conoce la devolución inmediata, sin procedimiento ordinario, de quien intenta cruzar irregularmente la frontera. La ley de extranjería la regula como rechazo en frontera en Ceuta y Melilla.",
+    "tarjetas": [
+      "t2023-inmigracion-erc-1",
+      "t2023-inmigracion-junts-1",
+      "t2023-inmigracion-bildu-1"
+    ]
+  },
+  {
+    "id": "rechazo-en-frontera",
+    "termino": "Rechazo en frontera",
+    "variantes": [
+      "rechazos en frontera"
+    ],
+    "definicion": "Nombre que da la ley de extranjería, en Ceuta y Melilla, a la devolución inmediata, sin procedimiento ordinario, de quien intenta cruzar irregularmente la frontera. Popularmente, devoluciones en caliente.",
+    "tarjetas": [
+      "t2023-inmigracion-pnv-1"
+    ]
+  },
+  {
+    "id": "disposicion-adicional",
+    "termino": "Disposición adicional",
+    "variantes": [
+      "disposición adicional 10.ª",
+      "disposición de la ley de extranjería"
+    ],
+    "definicion": "Parte que se añade al final de una ley para regular un caso concreto. La décima de la ley de extranjería regula el rechazo en frontera en Ceuta y Melilla.",
+    "tarjetas": [
+      "t2023-inmigracion-sumar-1",
+      "t2023-inmigracion-junts-1"
+    ]
+  },
+  {
+    "id": "ley-de-extranjeria",
+    "termino": "Ley de extranjería",
+    "variantes": [
+      "ley de extranjería",
+      "Ley Orgánica 4/2000"
+    ],
+    "definicion": "Ley que regula los derechos de las personas extranjeras en España y cómo pueden entrar, vivir y trabajar en el país. Es la Ley Orgánica 4/2000.",
+    "tarjetas": [
+      "t2023-inmigracion-sumar-1",
+      "t2023-inmigracion-sumar-2",
+      "t2023-inmigracion-junts-1",
+      "t2023-inmigracion-pnv-1",
+      "t2023-inmigracion-bildu-2"
+    ]
+  },
+  {
+    "id": "situacion-irregular",
+    "termino": "Situación irregular",
+    "variantes": [
+      "situación irregular",
+      "de forma irregular",
+      "inmigración irregular",
+      "sin su situación administrativa resuelta"
+    ],
+    "definicion": "Estar en España sin el permiso de residencia que exige la ley, o haber entrado sin pasar los controles de la frontera.",
+    "tarjetas": [
+      "t2023-inmigracion-pp-2",
+      "t2023-inmigracion-vox-1",
+      "t2023-inmigracion-vox-2",
+      "t2023-inmigracion-junts-2",
+      "t2023-inmigracion-cc-1"
+    ]
+  },
+  {
+    "id": "regularizacion",
+    "termino": "Regularización",
+    "variantes": [
+      "regularización permanente",
+      "regularizar"
+    ],
+    "definicion": "Procedimiento por el que una persona extranjera que vive en España sin permiso consigue los papeles para residir y trabajar legalmente.",
+    "tarjetas": [
+      "t2023-inmigracion-vox-2",
+      "t2023-inmigracion-sumar-2"
+    ]
+  },
+  {
+    "id": "cie",
+    "termino": "Centros de internamiento de extranjeros (CIE)",
+    "variantes": [
+      "centros de internamiento de extranjeros (CIE)"
+    ],
+    "definicion": "Centros públicos donde se retiene, por orden de un juez y durante un tiempo limitado, a extranjeros en situación irregular mientras se tramita su expulsión.",
+    "tarjetas": [
+      "t2023-inmigracion-bng-1"
+    ]
+  },
+  {
+    "id": "migracion-circular",
+    "termino": "Migración circular",
+    "variantes": [
+      "migración circular"
+    ],
+    "definicion": "Fórmula por la que personas de otro país vienen a trabajar una temporada, con contrato y permiso, y después vuelven a su país.",
+    "tarjetas": [
+      "t2023-inmigracion-psoe-2"
+    ]
+  },
+  {
+    "id": "mir",
+    "termino": "Médico interno residente (MIR)",
+    "variantes": [
+      "médico interno residente (MIR)"
+    ],
+    "definicion": "Sistema por el que los médicos, al acabar la carrera, se forman varios años con un contrato en un hospital o centro de salud para ser especialistas.",
+    "tarjetas": [
+      "t2023-sanidad-junts-1",
+      "t2023-sanidad-pnv-1",
+      "t2023-sanidad-bildu-1"
+    ]
+  },
+  {
+    "id": "atencion-primaria",
+    "termino": "Atención primaria",
+    "variantes": [
+      "atención primaria"
+    ],
+    "definicion": "La sanidad del centro de salud: médico de familia, pediatra y enfermería. Es el primer lugar al que se acude, antes del especialista o del hospital.",
+    "tarjetas": [
+      "t2023-sanidad-pp-2",
+      "t2023-sanidad-vox-2",
+      "t2023-sanidad-bildu-1"
+    ]
+  },
+  {
+    "id": "conciertos-sanitarios",
+    "termino": "Conciertos sanitarios",
+    "variantes": [
+      "conciertos con la sanidad privada"
+    ],
+    "definicion": "Acuerdos por los que la sanidad pública paga a centros privados para que atiendan a sus pacientes, que no pagan nada por ello.",
+    "tarjetas": [
+      "t2023-sanidad-vox-1"
+    ]
+  },
+  {
+    "id": "cartera-de-servicios",
+    "termino": "Cartera de servicios",
+    "variantes": [
+      "cartera de servicios sanitarios"
+    ],
+    "definicion": "Lista de pruebas, tratamientos y medicamentos que la sanidad pública ofrece a todos los pacientes.",
+    "tarjetas": [
+      "t2023-sanidad-erc-2"
+    ]
+  },
+  {
+    "id": "olvido-oncologico",
+    "termino": "Derecho al olvido oncológico",
+    "variantes": [
+      "derecho al olvido oncológico"
+    ],
+    "definicion": "Derecho de quien ha superado un cáncer a que esa enfermedad no se tenga en cuenta al contratar un préstamo o un seguro.",
+    "tarjetas": [
+      "t2023-sanidad-pnv-2"
+    ]
+  },
+  {
+    "id": "ibi",
+    "termino": "Impuesto sobre bienes inmuebles (IBI)",
+    "variantes": [
+      "impuesto sobre bienes inmuebles (IBI)"
+    ],
+    "definicion": "Impuesto que cobra cada año el ayuntamiento a quien es propietario de una vivienda, un local o un terreno.",
+    "tarjetas": [
+      "t2023-vivienda-bng-2"
+    ]
+  },
+  {
+    "id": "iva",
+    "termino": "Impuesto sobre el valor añadido (IVA)",
+    "variantes": [
+      "impuesto sobre el valor añadido (IVA)"
+    ],
+    "definicion": "Impuesto incluido en el precio de casi todo lo que se compra. Tiene un tipo general y otros más bajos para algunos productos.",
+    "tarjetas": [
+      "t2023-vivienda-vox-1",
+      "t2023-impuestos-pnv-1",
+      "t2023-impuestos-bng-2"
+    ]
+  },
+  {
+    "id": "impuesto-de-sociedades",
+    "termino": "Impuesto de sociedades",
+    "variantes": [
+      "impuesto de sociedades",
+      "recargo en sociedades"
+    ],
+    "definicion": "Impuesto que pagan las empresas por los beneficios que obtienen en un año.",
+    "tarjetas": [
+      "t2023-vivienda-sumar-2",
+      "t2023-impuestos-junts-2"
+    ]
+  },
+  {
+    "id": "plusvalia-municipal",
+    "termino": "Plusvalía municipal",
+    "variantes": [
+      "plusvalía municipal"
+    ],
+    "definicion": "Impuesto del ayuntamiento que se paga cuando se vende, se hereda o se dona un inmueble urbano, por lo que ha subido el valor de su suelo.",
+    "tarjetas": [
+      "t2023-impuestos-vox-2"
+    ]
+  },
+  {
+    "id": "impuesto-patrimonio",
+    "termino": "Impuesto sobre el patrimonio",
+    "variantes": [
+      "impuestos sobre el patrimonio"
+    ],
+    "definicion": "Impuesto que pagan cada año las personas por el valor de lo que poseen, por encima de un mínimo que fija cada comunidad autónoma.",
+    "tarjetas": [
+      "t2023-impuestos-vox-2"
+    ]
+  },
+  {
+    "id": "sucesiones-donaciones",
+    "termino": "Impuesto sobre sucesiones y donaciones",
+    "variantes": [
+      "sucesiones y donaciones"
+    ],
+    "definicion": "Impuesto que paga quien recibe una herencia o una donación. Cada comunidad autónoma fija cuánto se paga.",
+    "tarjetas": [
+      "t2023-impuestos-vox-2"
+    ]
+  },
+  {
+    "id": "grandes-fortunas",
+    "termino": "Impuesto a las grandes fortunas",
+    "variantes": [
+      "impuesto a las grandes fortunas",
+      "impuesto temporal a las grandes fortunas",
+      "a las grandes fortunas"
+    ],
+    "definicion": "Impuesto estatal sobre los patrimonios de más de 3 millones de euros, creado en 2022 con carácter temporal.",
+    "tarjetas": [
+      "t2023-impuestos-pp-2",
+      "t2023-impuestos-psoe-2",
+      "t2023-impuestos-sumar-2",
+      "t2023-impuestos-bildu-1"
+    ]
+  },
+  {
+    "id": "rentas-del-capital",
+    "termino": "Rentas del capital",
+    "variantes": [
+      "rentas del capital",
+      "los del capital"
+    ],
+    "definicion": "Ingresos que no vienen del trabajo, sino de ahorros o bienes: intereses, dividendos de acciones, alquileres o ganancias al vender algo.",
+    "tarjetas": [
+      "t2023-impuestos-erc-1",
+      "t2023-impuestos-bng-1"
+    ]
+  },
+  {
+    "id": "rentas-del-trabajo",
+    "termino": "Rentas del trabajo",
+    "variantes": [
+      "rentas del trabajo",
+      "los del trabajo"
+    ],
+    "definicion": "Ingresos que vienen de trabajar: el sueldo de quien trabaja por cuenta ajena o lo que gana un autónomo con su actividad.",
+    "tarjetas": [
+      "t2023-impuestos-junts-1",
+      "t2023-impuestos-bng-1"
+    ]
+  },
+  {
+    "id": "deduccion",
+    "termino": "Deducción",
+    "variantes": [
+      "deducción",
+      "deducciones"
+    ],
+    "definicion": "Cantidad que se puede restar del impuesto a pagar por haber hecho ciertos gastos, como pagar el alquiler de la vivienda.",
+    "tarjetas": [
+      "t2023-vivienda-sumar-2",
+      "t2023-vivienda-erc-1",
+      "t2023-vivienda-junts-2"
+    ]
+  },
+  {
+    "id": "haciendas",
+    "termino": "Haciendas",
+    "variantes": [
+      "haciendas del Estado"
+    ],
+    "definicion": "Las administraciones que cobran impuestos: la del Estado, las de las comunidades autónomas y las haciendas forales.",
+    "tarjetas": [
+      "t2023-impuestos-pnv-2"
+    ]
+  },
+  {
+    "id": "cotizaciones",
+    "termino": "Cotizaciones",
+    "variantes": [
+      "cotizaciones",
+      "cotización",
+      "cuota a la Seguridad Social"
+    ],
+    "definicion": "Lo que pagan cada mes a la Seguridad Social las empresas y los trabajadores. Con ese dinero se pagan las pensiones, el paro y otras prestaciones.",
+    "tarjetas": [
+      "t2023-empleo-pp-2",
+      "t2023-empleo-vox-2",
+      "t2023-empleo-cc-1",
+      "t2023-pensiones-erc-2"
+    ]
+  },
+  {
+    "id": "tarifa-cero",
+    "termino": "Tarifa cero",
+    "variantes": [
+      "tarifa cero",
+      "tarifa 0"
+    ],
+    "definicion": "Que un trabajador autónomo no pague cuota mensual a la Seguridad Social durante un tiempo, si cumple ciertas condiciones.",
+    "tarjetas": [
+      "t2023-empleo-pp-2",
+      "t2023-empleo-junts-2"
+    ]
+  },
+  {
+    "id": "dialogo-social",
+    "termino": "Diálogo social",
+    "variantes": [
+      "diálogo social"
+    ],
+    "definicion": "Negociación entre el Gobierno, los sindicatos y las organizaciones de empresarios para acordar medidas laborales.",
+    "tarjetas": [
+      "t2023-empleo-pp-1",
+      "t2023-empleo-sumar-1"
+    ]
+  },
+  {
+    "id": "estatuto-trabajadores",
+    "termino": "Estatuto de los Trabajadores",
+    "variantes": [
+      "Estatuto de los Trabajadores"
+    ],
+    "definicion": "La ley principal que regula los derechos y obligaciones de trabajadores y empresas en España.",
+    "tarjetas": [
+      "t2023-empleo-psoe-1"
+    ]
+  },
+  {
+    "id": "despido-improcedente",
+    "termino": "Despido improcedente",
+    "variantes": [
+      "despidos improcedentes"
+    ],
+    "definicion": "Despido que un juez considera no justificado. La empresa debe readmitir al trabajador o pagarle una indemnización.",
+    "tarjetas": [
+      "t2023-empleo-erc-2"
+    ]
+  },
+  {
+    "id": "carta-social-europea",
+    "termino": "Carta Social Europea",
+    "variantes": [
+      "Carta Social Europea"
+    ],
+    "definicion": "Tratado del Consejo de Europa que reconoce derechos sociales y laborales, como la remuneración del trabajo, la vivienda o la protección social. España lo ha ratificado.",
+    "tarjetas": [
+      "t2023-empleo-erc-2"
+    ]
+  },
+  {
+    "id": "ett",
+    "termino": "Empresas de trabajo temporal (ETT)",
+    "variantes": [
+      "empresas de trabajo temporal (ETT)"
+    ],
+    "definicion": "Empresas que contratan a trabajadores para cederlos durante un tiempo a otras empresas que los necesitan.",
+    "tarjetas": [
+      "t2023-empleo-bng-2"
+    ]
+  },
+  {
+    "id": "falsos-autonomos",
+    "termino": "Falsos autónomos",
+    "variantes": [
+      "falsos autónomos"
+    ],
+    "definicion": "Personas que trabajan como autónomas aunque en la práctica dependen de una sola empresa, como si fueran asalariadas.",
+    "tarjetas": [
+      "t2023-empleo-bng-2"
+    ]
+  },
+  {
+    "id": "subcontratacion-en-cadena",
+    "termino": "Subcontratación en cadena",
+    "variantes": [
+      "subcontratación en cadena"
+    ],
+    "definicion": "Cuando una empresa encarga un trabajo a otra, esta a su vez a otra, y así varias veces.",
+    "tarjetas": [
+      "t2023-empleo-bng-2"
+    ]
+  },
+  {
+    "id": "brecha-salarial",
+    "termino": "Brecha salarial",
+    "variantes": [
+      "brecha salarial"
+    ],
+    "definicion": "Diferencia entre lo que ganan de media por su trabajo dos grupos de personas, por ejemplo hombres y mujeres.",
+    "tarjetas": [
+      "t2023-empleo-bildu-2"
+    ]
+  },
+  {
+    "id": "temporalidad",
+    "termino": "Temporalidad",
+    "variantes": [
+      "temporalidad"
+    ],
+    "definicion": "Peso de los contratos temporales, que tienen fecha de fin, frente a los contratos indefinidos.",
+    "tarjetas": [
+      "t2023-empleo-bildu-2"
+    ]
+  },
+  {
+    "id": "pacto-de-toledo",
+    "termino": "Pacto de Toledo",
+    "variantes": [
+      "Pacto de Toledo"
+    ],
+    "definicion": "Acuerdo de 1995 entre los partidos del Congreso para tratar juntos el futuro de las pensiones. Una comisión del Congreso revisa sus recomendaciones.",
+    "tarjetas": [
+      "t2023-pensiones-pp-1",
+      "t2023-pensiones-cc-2"
+    ]
+  },
+  {
+    "id": "contributividad",
+    "termino": "Contributividad",
+    "variantes": [
+      "contributividad"
+    ],
+    "definicion": "Relación entre lo que una persona ha cotizado durante su vida laboral y la pensión que cobra. A más contributividad, más depende la pensión de lo cotizado.",
+    "tarjetas": [
+      "t2023-pensiones-pp-2"
+    ]
+  },
+  {
+    "id": "fondo-de-reserva",
+    "termino": "Fondo de reserva de la Seguridad Social",
+    "variantes": [
+      "fondo de reserva"
+    ],
+    "definicion": "Ahorro de la Seguridad Social, conocido como hucha de las pensiones, para pagarlas cuando no bastan las cotizaciones de cada año.",
+    "tarjetas": [
+      "t2023-pensiones-psoe-2",
+      "t2023-pensiones-pnv-2"
+    ]
+  },
+  {
+    "id": "pensiones-no-contributivas",
+    "termino": "Pensiones no contributivas",
+    "variantes": [
+      "no contributivas"
+    ],
+    "definicion": "Pensiones para personas mayores o con discapacidad que no han cotizado lo suficiente y tienen pocos ingresos. Se pagan con impuestos.",
+    "tarjetas": [
+      "t2023-pensiones-sumar-1",
+      "t2023-pensiones-junts-2"
+    ]
+  },
+  {
+    "id": "pensiones-minimas",
+    "termino": "Pensiones mínimas",
+    "variantes": [
+      "pensiones mínimas",
+      "pensión mínima contributiva"
+    ],
+    "definicion": "Cantidad mínima que el Estado garantiza a quien cobra una pensión por haber cotizado, cuando la que le corresponde queda por debajo.",
+    "tarjetas": [
+      "t2023-pensiones-sumar-1",
+      "t2023-pensiones-erc-1",
+      "t2023-pensiones-junts-1",
+      "t2023-pensiones-bildu-1",
+      "t2023-pensiones-bng-1"
+    ]
+  },
+  {
+    "id": "bases-reguladoras",
+    "termino": "Base reguladora",
+    "variantes": [
+      "bases reguladoras"
+    ],
+    "definicion": "Cantidad de referencia que sirve para calcular cuánto se cobra de una pensión o de una prestación.",
+    "tarjetas": [
+      "t2023-pensiones-junts-2"
+    ]
+  },
+  {
+    "id": "edad-ordinaria-jubilacion",
+    "termino": "Edad ordinaria de jubilación",
+    "variantes": [
+      "edad ordinaria de jubilación",
+      "jubilación ordinaria"
+    ],
+    "definicion": "Edad a partir de la cual se cobra la pensión de jubilación sin reducción por jubilarse antes. Depende de los años cotizados.",
+    "tarjetas": [
+      "t2023-pensiones-erc-2",
+      "t2023-pensiones-bng-2"
+    ]
+  },
+  {
+    "id": "jubilacion-parcial",
+    "termino": "Jubilación parcial",
+    "variantes": [
+      "jubilación parcial"
+    ],
+    "definicion": "Jubilarse solo en parte: se cobra una parte de la pensión y se sigue trabajando a tiempo parcial.",
+    "tarjetas": [
+      "t2023-pensiones-bng-2"
+    ]
+  },
+  {
+    "id": "umbral-de-la-pobreza",
+    "termino": "Umbral de la pobreza",
+    "variantes": [
+      "umbral de la pobreza"
+    ],
+    "definicion": "Ingresos por debajo de los cuales un hogar está en riesgo de pobreza: el 60 % de los del hogar que queda en medio si se ordenan de menos a más.",
+    "tarjetas": [
+      "t2023-pensiones-sumar-1"
+    ]
+  },
+  {
+    "id": "zonas-tensionadas",
+    "termino": "Zonas tensionadas",
+    "variantes": [
+      "zonas tensionadas"
+    ],
+    "definicion": "Zonas donde la ley considera que el alquiler es muy caro en relación con lo que ganan los hogares, y donde se pueden aplicar reglas especiales.",
+    "tarjetas": [
+      "t2023-vivienda-sumar-2"
+    ]
+  },
+  {
+    "id": "prorroga-automatica",
+    "termino": "Prórroga automática",
+    "variantes": [
+      "prórroga automática"
+    ],
+    "definicion": "Que, al acabar el plazo de un contrato de alquiler, este se alarga por sí solo, sin firmar uno nuevo y sin que ninguna de las partes tenga que pedirlo.",
+    "tarjetas": [
+      "t2023-vivienda-bildu-1"
+    ]
+  },
+  {
+    "id": "avales",
+    "termino": "Aval",
+    "variantes": [
+      "programa de avales"
+    ],
+    "definicion": "Garantía por la que un tercero responde ante el banco de una parte de la hipoteca si quien la pide no puede pagarla.",
+    "tarjetas": [
+      "t2023-vivienda-pp-1"
+    ]
+  },
+  {
+    "id": "articulo-150-1",
+    "termino": "Artículo 150.1 de la Constitución",
+    "variantes": [
+      "artículo 150.1 de la Constitución"
+    ],
+    "definicion": "Artículo que permite al Parlamento, mediante una ley, dar a las comunidades autónomas el poder de dictar normas sobre materias que son del Estado.",
+    "tarjetas": [
+      "t2023-vivienda-erc-2"
+    ]
+  },
+  {
+    "id": "minimo-por-descendientes",
+    "termino": "Mínimo por descendientes",
+    "variantes": [
+      "mínimo por descendientes"
+    ],
+    "definicion": "Parte de los ingresos por la que no se paga impuesto sobre la renta por tener hijos u otros descendientes a cargo.",
+    "tarjetas": [
+      "t2023-impuestos-psoe-1"
+    ]
+  },
+  {
+    "id": "revalorizacion",
+    "termino": "Revalorización",
+    "variantes": [
+      "revalorización",
+      "revaloricen",
+      "revalorizarlas"
+    ],
+    "definicion": "Subida periódica de la cuantía de las pensiones, normalmente una vez al año, para que no pierdan valor frente a la subida de los precios.",
+    "tarjetas": [
+      "t2023-pensiones-pp-1",
+      "t2023-pensiones-psoe-1",
+      "t2023-pensiones-erc-1",
+      "t2023-pensiones-pnv-1"
+    ]
+  },
+  {
+    "id": "pensiones-contributivas",
+    "termino": "Pensiones contributivas",
+    "variantes": [
+      "pensiones contributivas"
+    ],
+    "definicion": "Pensiones que se cobran por haber cotizado a la Seguridad Social durante la vida laboral, como la de jubilación. Su cuantía depende de lo cotizado.",
+    "tarjetas": [
+      "t2023-pensiones-vox-1"
+    ]
+  },
+  {
+    "id": "impuestos-banca-energeticas",
+    "termino": "Impuestos a la banca y a las energéticas",
+    "variantes": [
+      "impuestos a la banca, a las energéticas",
+      "impuestos extraordinarios a la banca y a las energéticas"
+    ],
+    "definicion": "Gravámenes temporales creados en 2022 sobre los ingresos de los grandes bancos y de las grandes empresas de energía.",
+    "tarjetas": [
+      "t2023-impuestos-erc-2",
+      "t2023-impuestos-bildu-1"
+    ]
+  },
+  {
+    "id": "presupuestos-generales",
+    "termino": "Presupuestos Generales del Estado",
+    "variantes": [
+      "Presupuestos Generales del Estado"
+    ],
+    "definicion": "Ley que aprueba cada año el Parlamento con todos los ingresos y gastos previstos del Estado.",
+    "tarjetas": [
+      "t2023-pensiones-cc-1"
+    ]
+  },
+  {
+    "id": "bonificaciones",
+    "termino": "Bonificación",
+    "variantes": [
+      "bonificaciones",
+      "Bonificar"
+    ],
+    "definicion": "Rebaja durante un tiempo en lo que una empresa o un autónomo paga a la Seguridad Social, por contratar a ciertas personas o en ciertas situaciones.",
+    "tarjetas": [
+      "t2023-empleo-vox-2",
+      "t2023-empleo-cc-1"
+    ]
+  }
+]

@@ -39,7 +39,7 @@ Partido: ________________
 
 ---
 
-**T7.** Reducir las listas de espera en volumen y tiempo en todos los ámbitos, con incentivos a los centros públicos y más conciertos con centros privados.
+**T7.** Reducir las listas de espera en volumen y tiempo en todos los ámbitos. Se incentivaría a los centros públicos y se reforzarían los conciertos con la sanidad privada.
 
 Partido: ________________
 
@@ -63,7 +63,7 @@ Partido: ________________
 
 ---
 
-**T11.** Promover un plan urgente en los centros de salud para resolver la falta de especialistas en atención primaria.
+**T11.** Impulsar con las comunidades autónomas 1.000 plazas más de formación en medicina familiar en la oferta de 2024.
 
 Partido: ________________
 
@@ -105,7 +105,7 @@ Partido: ________________
 
 ---
 
-**T18.** Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y las normas para las empresas.
+**T18.** Impulsar la subida de todos los salarios, sobre todo los más bajos, y reducir en gran medida las cargas y la regulación sobre las empresas.
 
 Partido: ________________
 
@@ -141,6 +141,6 @@ Partido: ________________
 
 ---
 
-**T24.** Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar los nuevos registros europeos de entradas y salidas de viajeros.
+**T24.** Reforzar la inspección en las fronteras con más personal y mejor formado. También impulsar el nuevo registro europeo de entradas y salidas de viajeros.
 
 Partido: ________________

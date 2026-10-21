@@ -2,6 +2,7 @@
 //
 //   node scripts/banco/aprobar.mjs
 //   node scripts/banco/aprobar.mjs --r1 otra/ruta-r1.csv --r2 otra/ruta-r2.csv --salida otra/ruta.json --informe otra/ruta.md
+//   (y --g1 / --g2 para los CSV del glosario)
 //
 // Lee datos/banco/banco-2023.json (borrador) y datos/banco/REVISION-r1.csv y REVISION-r2.csv.
 // Reglas:
@@ -12,6 +13,9 @@
 // - si un partido se queda sin ninguna tarjeta aprobada en un tema donde la tenía, falla;
 // - si una reserva pasa a test y su tema queda con más de 10 palabras de diferencia entre la tarjeta de test
 //   más larga y la más corta, avisa (no falla: se corrige a mano y se vuelve a revisar).
+// Glosario: lee datos/banco/glosario-2023.json y GLOSARIO-r1.csv y GLOSARIO-r2.csv; un término pasa si los dos
+// revisores marcan correcta, neutral y clara = si. Solo se publican los términos aprobados, con las tarjetas aprobadas
+// en que aparecen, bajo la clave «glosario».
 // Escribe src/contenido/juegos/banco-2023.json (solo si no falla) y datos/banco/APROBACION.md (siempre).
 
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
@@ -30,6 +34,9 @@ const R2 = opcion('r2', join(BANCO, 'REVISION-r2.csv'));
 const SALIDA = opcion('salida', join(RAIZ, 'src', 'contenido', 'juegos', 'banco-2023.json'));
 const INFORME = opcion('informe', join(BANCO, 'APROBACION.md'));
 const BORRADOR = opcion('banco', join(BANCO, 'banco-2023.json'));
+const G1 = opcion('g1', join(BANCO, 'GLOSARIO-r1.csv'));
+const G2 = opcion('g2', join(BANCO, 'GLOSARIO-r2.csv'));
+const GLOSARIO = join(BANCO, 'glosario-2023.json');
 
 // «si», «sí», «Sí», «SI» → true; «no» → false; vacío u otra cosa → null (sin revisar).
 function siNo(v) {
@@ -120,6 +127,27 @@ async function main() {
     }
   }
 
+  // Glosario: aprobado si los dos revisores marcan correcta, neutral y clara = si.
+  const leerGlosario = async (ruta, quien) => {
+    const filas = deCsv(await readFile(ruta, 'utf8'));
+    const faltan = ['id', 'correcta', 'neutral', 'clara'].filter(c => filas.length && !(c in filas[0]));
+    if (faltan.length) throw new Error(`${relative(RAIZ, ruta)} no tiene las columnas: ${faltan.join(', ')}`);
+    return new Map(filas.map(f => [f.id, { correcta: siNo(f.correcta), neutral: siNo(f.neutral), clara: siNo(f.clara), notas: f.notas || '', quien }]));
+  };
+  const terminos = await leerJson(GLOSARIO);
+  const g1 = await leerGlosario(G1, 'r1');
+  const g2 = await leerGlosario(G2, 'r2');
+  const idsAprobadas = new Set(aprobadas.map(t => t.id));
+  const glosarioAprobado = [], glosarioRechazado = [], glosarioSinRevisar = [];
+  for (const g of terminos) {
+    const marcas = [g1.get(g.id), g2.get(g.id)];
+    if (marcas.some(m => !m || m.correcta === null || m.neutral === null || m.clara === null)) { glosarioSinRevisar.push(g.id); continue; }
+    const fallos = marcas.flatMap(m => ['correcta', 'neutral', 'clara'].filter(c => !m[c]).map(c => `${m.quien}: no ${c}`));
+    if (fallos.length) { glosarioRechazado.push(`${g.id} (${fallos.join('; ')})`); continue; }
+    const tarjetasG = g.tarjetas.filter(id => idsAprobadas.has(id));
+    if (tarjetasG.length) glosarioAprobado.push({ ...g, tarjetas: tarjetasG });
+  }
+
   const lista = (xs) => xs.length ? xs.map(x => `- ${x}`).join('\n') : '- Ninguna.';
   const md = `# Aprobación del banco de 2023
 
@@ -150,11 +178,21 @@ ${lista(avisosDelata)}
 
 ## Avisos de equilibrio (temas con una reserva que pasa a test)
 ${lista(avisosEquilibrio)}
+
+## Glosario
+- Revisión 1: \`${relative(RAIZ, G1)}\` · Revisión 2: \`${relative(RAIZ, G2)}\`
+- Términos aprobados: ${glosarioAprobado.length} de ${terminos.length}
+
+### Rechazados (no correcta, no neutral o no clara para algún revisor)
+${lista(glosarioRechazado)}
+
+### Sin revisar
+${lista(glosarioSinRevisar)}
 `;
   await mkdir(dirname(INFORME), { recursive: true });
   await writeFile(INFORME, md);
 
-  console.log(`Aprobadas: ${aprobadas.length} de ${banco.tarjetas.length} · para reescribir: ${paraReescribir.length} · rechazadas: ${rechazadas.length} · sin revisar: ${sinRevisar.length} · reservas que pasan a test: ${sustituciones.length} · avisos de «delata»: ${avisosDelata.length} · avisos de equilibrio: ${avisosEquilibrio.length}`);
+  console.log(`Aprobadas: ${aprobadas.length} de ${banco.tarjetas.length} · para reescribir: ${paraReescribir.length} · rechazadas: ${rechazadas.length} · sin revisar: ${sinRevisar.length} · reservas que pasan a test: ${sustituciones.length} · avisos de «delata»: ${avisosDelata.length} · avisos de equilibrio: ${avisosEquilibrio.length} · glosario: ${glosarioAprobado.length} de ${terminos.length} términos aprobados`);
   for (const a of avisosEquilibrio) console.warn(`AVISO de equilibrio: ${a}`);
   console.log(`Escrito ${relative(RAIZ, INFORME)}`);
   if (errores.length) {
@@ -163,7 +201,7 @@ ${lista(avisosEquilibrio)}
   }
 
   const { tarjetas, ...resto } = banco;
-  await escribirJson(SALIDA, { ...resto, aprobado: new Date().toISOString(), tarjetas: aprobadas });
+  await escribirJson(SALIDA, { ...resto, aprobado: new Date().toISOString(), tarjetas: aprobadas, glosario: glosarioAprobado });
   console.log(`Escrito ${relative(RAIZ, SALIDA)}`);
 }
 

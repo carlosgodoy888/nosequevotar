@@ -48,6 +48,11 @@ Marca **si** si el texto:
 - no nombra partidos, líderes, eslóganes ni nombres de leyes asociados a un partido;
 - no nombra el territorio propio del partido (por ejemplo «Galicia» en un programa gallego) cuando se podría decir de forma general.
 
+Regla de territorio:
+
+- Si el texto nombra un territorio concreto (por ejemplo La Palma, Cataluña o Euskadi), delata: marca **neutral = no**.
+- Si dice «la comunidad autónoma» o «autonómico» sin nombrar ninguna, se permite. Es propio de los partidos de una sola comunidad, así que no lo marques como fallo.
+
 Ejemplo inventado:
 
 - Bien (**neutral = si**): «Bajar el impuesto sobre la electricidad del 10 % al 5 % para los hogares.»
