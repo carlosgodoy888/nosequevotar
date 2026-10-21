@@ -1,0 +1,2786 @@
+{
+  "anio": 2023,
+  "generado": "2026-10-21T20:46:17.521Z",
+  "temas": [
+    {
+      "id": "vivienda",
+      "nombre": "Vivienda",
+      "eje": "Cómo hacer más accesible la vivienda",
+      "orden": 1,
+      "corto": true
+    },
+    {
+      "id": "impuestos",
+      "nombre": "Impuestos",
+      "eje": "El impuesto sobre la renta (IRPF)",
+      "orden": 2,
+      "corto": true
+    },
+    {
+      "id": "inmigracion",
+      "nombre": "Inmigración",
+      "eje": "La entrada irregular y el control de fronteras",
+      "orden": 3,
+      "corto": true
+    },
+    {
+      "id": "empleo",
+      "nombre": "Empleo",
+      "eje": "Los sueldos, incluido el salario mínimo, y la jornada laboral",
+      "orden": 4,
+      "corto": false
+    },
+    {
+      "id": "pensiones",
+      "nombre": "Pensiones",
+      "eje": "Cuánto suben las pensiones",
+      "orden": 5,
+      "corto": false
+    },
+    {
+      "id": "sanidad",
+      "nombre": "Sanidad",
+      "eje": "Las listas de espera",
+      "orden": 6,
+      "corto": false
+    }
+  ],
+  "documentos": [
+    {
+      "id": "2023-pp",
+      "partido": "pp",
+      "titulo": "Programa electoral. Un proyecto al servicio de un gran país. 365 medidas",
+      "url": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "paginas": 112,
+      "sha256": "c93baafc88bdcb33adcd7e8be9dc309b09056362183ad7b7767f3d5134313108"
+    },
+    {
+      "id": "2023-psoe",
+      "partido": "psoe",
+      "titulo": "Programa electoral. Elecciones generales 23 julio 2023",
+      "url": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "paginas": 272,
+      "sha256": "02d4972a848250fec9b8b2cffc5aaa78733acb0ac010e79ce1787161f91a42f2"
+    },
+    {
+      "id": "2023-vox",
+      "partido": "vox",
+      "titulo": "Programa electoral para las Elecciones Generales del 23J de 2023",
+      "url": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf",
+      "paginas": 178,
+      "sha256": "a63a7230318668bb141ade1b8957b86827e11c06ac57b2148e36011cfe8021db"
+    },
+    {
+      "id": "2023-sumar",
+      "partido": "sumar",
+      "titulo": "Un programa por ti. Elecciones Generales 23 de julio 2023",
+      "url": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "paginas": 182,
+      "sha256": "d5ccdac0d20f1b93a5f703f180d086041bd988835072dd5cb5d1378bf0195820"
+    },
+    {
+      "id": "2023-erc",
+      "partido": "erc",
+      "titulo": "Defensa Catalunya! Eleccions espanyoles 2023. Programa electoral",
+      "url": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf",
+      "paginas": 132,
+      "sha256": "455e0629d90ef63ab59c43c35d67cdd739165958587e3242eb5b6e4914afe991"
+    },
+    {
+      "id": "2023-junts",
+      "partido": "junts",
+      "titulo": "Programa electoral per Catalunya",
+      "url": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf",
+      "paginas": 148,
+      "sha256": "7f73e138b6020f9a12ff260f7baeb3aa2807b60903e91052435f7e0ded7d938b"
+    },
+    {
+      "id": "2023-pnv",
+      "partido": "pnv",
+      "titulo": "Euskadiren ahotsa. Con voz propia.",
+      "url": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "paginas": 52,
+      "sha256": "46fec3a017cdc5c4e506fa5e228b97690071d5a03dfd3d8128392aa20f57d132"
+    },
+    {
+      "id": "2023-bildu",
+      "partido": "bildu",
+      "titulo": "Compromiso de Euskal Herria Bildu",
+      "url": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+      "paginas": 16,
+      "sha256": "6634c0786c1e771c61c1a65e549dfde0d4581d09e19949466e931c96a9642465"
+    },
+    {
+      "id": "2023-bng",
+      "partido": "bng",
+      "titulo": "Programa Electoral. Eleccións Xerais 2023. Que Galiza Conte! Con Máis Forza!",
+      "url": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "paginas": 68,
+      "sha256": "b8994deec0bbc45cdcbef5d7c5395cabf30b0509706303c3d8e76058c48eebfd"
+    },
+    {
+      "id": "2023-cc",
+      "partido": "cc",
+      "titulo": "Manifiesto. Un objetivo común, la defensa de Canarias",
+      "url": "https://web.archive.org/web/20231210072530id_/https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf",
+      "paginas": 14,
+      "sha256": "ebcac3e6b17012c77d1a761041dc1615c2b28a527666a1467db66e4b82b49c33"
+    }
+  ],
+  "tarjetas": [
+    {
+      "id": "t2023-vivienda-pp-1",
+      "uso": "test",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Crear un programa de avales para que jóvenes de hasta 35 años obtengan hipotecas de hasta el 95 % del precio de la vivienda.",
+      "cita": "LLEVAREMOS A CABO UN PROGRAMA DE AVALES DESTINADO A JÓVENES de hasta 35 años, a fin de garantizar la concesión de créditos hipotecarios por valor de hasta un 95% de la totalidad del precio de la vivienda.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 34,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=34",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-pp-2",
+      "uso": "reserva",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Movilizar el suelo público reservado a vivienda, sea cual sea su régimen jurídico, para promover viviendas en alquiler asequible.",
+      "cita": "MOVILIZAREMOS EL SUELO DE TITULARIDAD PÚBLICA destinado a redes públicas de vivienda, tanto patrimonial como demanial, con destino a fórmulas de promoción de vivienda en alquiler asequible.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 34,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=34",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-psoe-1",
+      "uso": "test",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Construir 183.000 viviendas públicas para alquiler y garantizar que la mitad vaya destinada a personas jóvenes.",
+      "cita": "Queremos construir 183.000 viviendas públicas para alquiler y garantizando que la mitad vaya destinada a jóvenes, ampliando la dotación y el número de receptores del Bono de Alquiler Joven.",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 131,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=131",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "La cita junta dos medidas; se recoge la principal (construir 183.000 viviendas, la mitad para jóvenes) y se omite ampliar la dotación y los receptores del Bono de Alquiler Joven."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-psoe-2",
+      "uso": "reserva",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Alcanzar en los próximos años un 20 % de vivienda pública de alquiler, como la media de Francia, Países Bajos o Alemania.",
+      "cita": "El objetivo será alcanzar el 20% de vivienda pública en régimen de alquiler en los próximos años, situándonos en la media de viviendas que disponen países de la Unión Europea como Francia, Países Bajos o Alemania.",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 222,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=222",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-vox-1",
+      "uso": "test",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Eliminar el impuesto sobre el valor añadido (IVA) en la compra de la primera vivienda habitual, modificando la ley de ese impuesto.",
+      "cita": "Modificaremos la Ley del Impuesto sobre el Valor Añadido con el fin de eliminar el IVA en la adquisición de la primera vivienda habitual.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 40,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=40",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-vox-2",
+      "uso": "reserva",
+      "tema": "vivienda",
+      "fueraDeEje": true,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Liberar todo el suelo que no esté o deba estar especialmente protegido por su interés ambiental, paisajístico o productivo, o por la defensa nacional.",
+      "cita": "Liberaremos todo el suelo que no esté o deba estar especialmente protegido por motivos de interés ambiental, paisajístico, productivo o para la Defensa Nacional.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 40,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=40",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-sumar-1",
+      "uso": "test",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Crear en menos de diez años dos millones de viviendas sociales y asequibles de alquiler, con un gasto medio del 1 % del producto interior bruto.",
+      "cita": "Constituiremos, en menos de diez años, un parque residencial de viviendas sociales y asequibles para alquiler de dos millones de inmuebles, con un gasto sostenido del 1% del PIB de media.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 79,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=79",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-sumar-2",
+      "uso": "reserva",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Fijar en zonas tensionadas precios de referencia del alquiler iguales al 30 % de la renta de los hogares. Quien los supere perdería deducciones del impuesto sobre la renta (IRPF) y las empresas, un recargo en sociedades.",
+      "cita": "La segunda es establecer unos precios de referencia para las zonas tensionadas equivalentes al 30% de la renta de los hogares que alquilan, eliminando las deducciones fiscales en el IRPF de los alquileres que se sitúen por encima del precio de referencia y estableciendo un recargo en el impuesto de sociedades para los fondos y empresas que alquilen viviendas por encima de los precios de referencia.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 78,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=78",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-erc-1",
+      "uso": "test",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Permitir, vía artículo 150.1 de la Constitución, que las comunidades con competencias en vivienda y derecho civil propio regulen todo el alquiler: precios, duración y prórrogas.",
+      "cita": "Fer possible que les comunitats autònomes que tinguin competències en matèria d’habitatge i dret civil, foral o especial, puguin regular íntegrament els contractes d’arrendaments urbans, incloent la regulació dels preus de lloguer, la durada dels contractes i les seves pròrrogues, en el marc de l’art. 150.1 de la Constitució espanyola.",
+      "traduccion": "Hacer posible que las comunidades autónomas que tengan competencias en materia de vivienda y derecho civil, foral o especial puedan regular íntegramente los contratos de arrendamientos urbanos, incluida la regulación de los precios del alquiler, la duración de los contratos y sus prórrogas, en el marco del art. 150.1 de la Constitución española.",
+      "documento": "2023-erc",
+      "pagina": 114,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=114",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-erc-2",
+      "uso": "reserva",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Recuperar la deducción en el impuesto sobre la renta (IRPF) por el alquiler de la vivienda habitual para los inquilinos. Se suprimió desde el 1 de enero de 2015.",
+      "cita": "Restablir la deducció en l’IRPF de les rendes de lloguer de l’habitatge habitual als arrendataris, la qual va ser suprimida amb efectes de l’1 de gener de 2015.",
+      "traduccion": "Restablecer la deducción en el IRPF de las rentas del alquiler de la vivienda habitual para los arrendatarios, que fue suprimida con efectos del 1 de enero de 2015.",
+      "documento": "2023-erc",
+      "pagina": 115,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=115",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-junts-1",
+      "uso": "test",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Aumentar poco a poco, a medio plazo, los fondos del Estado para políticas de vivienda hasta la media europea, el 0,6 % del producto interior bruto.",
+      "cita": "A mitjà termini, augmentar progressivament els fons estatals destinats a polítiques d’habitatge, per a situar-los en la mitjana europea, del 0,6 % del PIB.",
+      "traduccion": "A medio plazo, aumentar progresivamente los fondos estatales destinados a políticas de vivienda, para situarlos en la media europea, del 0,6 % del PIB.",
+      "documento": "2023-junts",
+      "pagina": 94,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=94",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-junts-2",
+      "uso": "reserva",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Pedir al Estado que recupere la deducción estatal del impuesto sobre la renta (IRPF) por alquiler de la vivienda habitual para menores de 30 años.",
+      "cita": "Instar a l’Estat espanyol a recuperar la deducció́ estatal de la quota d'IRPF per a lloguer d'habitatge habitual per als joves menors de 30 anys com una de les eines que incentivi el lloguer i per tant, l’accés a l’habitatge i l’emancipació́ entre els joves.",
+      "traduccion": "Instar al Estado español a recuperar la deducción estatal en la cuota del IRPF por alquiler de vivienda habitual para los jóvenes menores de 30 años, como una de las herramientas que incentive el alquiler y, por tanto, el acceso a la vivienda y la emancipación de los jóvenes.",
+      "documento": "2023-junts",
+      "pagina": 98,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=98",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-pnv-1",
+      "uso": "test",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Defender políticas que fomenten el alquiler y la promoción de vivienda pública suficiente, atendiendo en especial a las situaciones de emergencia social.",
+      "cita": "Abogamos por políticas que fomenten el alquiler y la promoción de vivienda pública suﬁciente para hacer frente a esta realidad, y atienda de manera especial a las situaciones de emergencia social, tal y como se viene desarrollando por el Gobierno Vasco dentro de su ámbito competencial exclusivo.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 45,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=45",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite «tal y como se viene desarrollando por el Gobierno Vasco»: es un logro propio, no la medida, y señala el territorio."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-pnv-2",
+      "uso": "reserva",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Defender un equilibrio entre la persona inquilina y la propietaria que asegure los derechos de ambas partes.",
+      "cita": "Y abogaremos por un equilibrio entre arrendatario y arrendador que asegure los derechos de ambas partes.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 46,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=46",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-bildu-1",
+      "uso": "test",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Recuperar de forma indefinida la prórroga automática de los contratos de alquiler al renovarlos, con las mismas condiciones y la misma renta.",
+      "cita": "Recuperar, de manera indefinida, la prórroga automática de los contratos de alquiler en caso de renovación, manteniendo condiciones y cuantías de renta.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 4,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=4",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-bildu-2",
+      "uso": "reserva",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Congelar de forma temporal y retroactiva las cuotas de hipotecas inferiores a 250.000 euros hasta que se revierta la subida de los tipos de interés. La subida máxima sería del 15 % sobre la cuota previa a julio de 2022.",
+      "cita": "Establecer temporalmente, hasta la reversión del alza de los tipos de interés, la congelación retroactiva de las cuotas hipotecarias para hipotecas inferiores a 250.000€ limitando el aumento a un máximo del 15% sobre las cuotas previas a la primera subida de los tipos de interés de julio de 2022.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 4,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=4",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-bng-1",
+      "uso": "test",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Aumentar la inversión destinada a la vivienda hasta que alcance los 250 euros por cada habitante.",
+      "cita": "Aumentar o investimento destinado á vivenda até alcanzar os 250 euros por habitante.",
+      "traduccion": "Aumentar la inversión destinada a vivienda hasta alcanzar los 250 euros por habitante.",
+      "documento": "2023-bng",
+      "pagina": 15,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=15",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-vivienda-bng-2",
+      "uso": "reserva",
+      "tema": "vivienda",
+      "fueraDeEje": false,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Ampliar los criterios del recargo del impuesto sobre bienes inmuebles (IBI) para que se movilicen más viviendas vacías.",
+      "cita": "Ampliar os criterios de recargo do IBI de forma que promovan unha maior mobilización da vivenda baleira.",
+      "traduccion": "Ampliar los criterios de recargo del IBI de forma que promuevan una mayor movilización de la vivienda vacía.",
+      "documento": "2023-bng",
+      "pagina": 15,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=15",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-pp-1",
+      "uso": "test",
+      "tema": "impuestos",
+      "fueraDeEje": false,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Corregir en la tarifa del impuesto sobre la renta (IRPF) los efectos de la inflación.",
+      "cita": "Corregiremos los efectos de la inflación en la tarifa del IRPF que supone una subida real de impuestos sobre la clase media.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 23,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=23",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-pp-2",
+      "uso": "reserva",
+      "tema": "impuestos",
+      "fueraDeEje": false,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Simplificar el impuesto sobre la renta (IRPF) y el de sociedades para las pequeñas y medianas empresas. Sobre todo, para las que tienen pérdidas o aumentan su plantilla indefinida.",
+      "cita": "Eliminaremos el impuesto a las grandes fortunas, y simplificaremos el IRPF y el Impuesto sobre Sociedades para las pymes, con especial atención a las empresas con pérdidas y aquellas que incrementen el promedio de su plantilla de trabajadores con contratos indefinidos.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 23,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=23",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "La cita junta dos medidas; se recoge la simplificación del IRPF y de sociedades para pymes (ahora dentro del eje) y se omite eliminar el impuesto a las grandes fortunas, que sola no llega a 15 palabras."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-psoe-1",
+      "uso": "test",
+      "tema": "impuestos",
+      "fueraDeEje": false,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Aumentar en el impuesto sobre la renta (IRPF) el mínimo por hijos y por personas dependientes.",
+      "cita": "Aumentaremos el mínimo por descendientes y personas dependientes en el IRPF con el fin de apoyar a las familias con hijos, impulsar la natalidad y acompañar en el cuidado de las personas mayores y dependiente.",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 33,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=33",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-psoe-2",
+      "uso": "reserva",
+      "tema": "impuestos",
+      "fueraDeEje": true,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Evaluar los resultados del impuesto temporal a las grandes fortunas. Si procede, avanzar en el debate sobre cómo gravar la riqueza dentro de la financiación autonómica.",
+      "cita": "Evaluaremos los resultados del Impuesto Temporal de Solidaridad de las Grandes Fortunas y, en su caso, avanzaremos en el debate sobre la tributación de la riqueza en el marco del modelo de financiación autonómica para acabar con la competencia fiscal desleal entre territorios.",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 39,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=39",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-vox-1",
+      "uso": "test",
+      "tema": "impuestos",
+      "fueraDeEje": false,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Simplificar poco a poco el impuesto sobre la renta (IRPF) a dos tipos: 15 % para bases inferiores a 70.000 euros y 25 % para las superiores.",
+      "cita": "IRPF: para implementar la perspectiva de familia, fortaleceremos la economía de las familias y protegeremos su capacidad de ahorro e inversión procediendo a la simplificación progresiva y continuada del IRPF a un tipo único reducido del 15% a aplicar sobre bases imponibles inferiores a 70.000 euros y un tipo ordinario del 25% a aplicar a bases imponibles superiores a dicha cantidad, aplicando la exención de 22.000€ anuales de rentas del trabajo con independencia de tener uno o dos pagadores.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 74,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=74",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se recoge la medida principal (dos tipos) y se omite la exención de 22.000 euros anuales de rentas del trabajo, con uno o dos pagadores; con ella la tarjeta superaba en más de 10 palabras a las del PP y el PSOE.",
+        "cifras": [
+          "22000"
+        ]
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-vox-2",
+      "uso": "reserva",
+      "tema": "impuestos",
+      "fueraDeEje": true,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Suprimir en toda España los impuestos sobre el patrimonio y sobre sucesiones y donaciones. También la plusvalía municipal, que cobran los ayuntamientos al vender un inmueble.",
+      "cita": "Suprimiremos el Impuesto sobre el Patrimonio, el Impuesto sobre Sucesiones y Donaciones y Plusvalías municipales en todo el territorio nacional, impuestos que suponen confiscaciones injustas, duplicadas o desproporcionadas del patrimonio de los españoles.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 77,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=77",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-sumar-1",
+      "uso": "test",
+      "tema": "impuestos",
+      "fueraDeEje": false,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Crear en el impuesto sobre la renta (IRPF) más tramos desde 120.000 euros y subir el tipo máximo del 45 % al 52 % desde 300.000 euros.",
+      "cita": "Aumento de la progresividad del impuesto sobre la renta de las personas físicas (IRPF). En primer lugar, ampliando el número de tramos a partir de 120.000€ y aplicando tipos marginales crecientes: del 45% marginal actual se subirá por tramos hasta llegar al 52% para rentas a partir de 300.000€.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 17,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=17",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-sumar-2",
+      "uso": "reserva",
+      "tema": "impuestos",
+      "fueraDeEje": true,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Hacer permanente un impuesto a las grandes fortunas y reforzar su progresividad, con tipos de al menos el 4 % para los patrimonios más altos.",
+      "cita": "Implementaremos un impuesto a las grandes fortunas de forma permanente, reforzando además su progresividad, hasta llegar a tipos impositivos de al menos el 4% para los patrimonios más elevados.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 16,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=16",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-erc-1",
+      "uso": "test",
+      "tema": "impuestos",
+      "fueraDeEje": false,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Subir en el impuesto sobre la renta (IRPF) los tipos de las rentas del capital y crear nuevos tramos para las rentas más altas.",
+      "cita": "Per tal de corregir-ho, es proposa incrementar els tipus aplicats a les rendes del capital així com crear nous trams addicionals per a les rendes més altes.",
+      "traduccion": "Para corregirlo, se propone incrementar los tipos aplicados a las rentas del capital, así como crear nuevos tramos adicionales para las rentas más altas.",
+      "documento": "2023-erc",
+      "pagina": 70,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=70",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-erc-2",
+      "uso": "reserva",
+      "tema": "impuestos",
+      "fueraDeEje": true,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Convertir en permanentes los impuestos extraordinarios a la banca y a las energéticas. El 50 % de lo recaudado iría directamente a las comunidades autónomas.",
+      "cita": "Per aquest motiu, Esquerra aposta per convertir els impostos extraordinaris a la banca i les empreses energètiques en figures permanents i que, conseqüentment, un 50% del recaptat es transfereix directament a les comunitats autònomes, atenent que son els principals responsables de la despesa social.",
+      "traduccion": "Por este motivo, Esquerra apuesta por convertir los impuestos extraordinarios a la banca y a las empresas energéticas en figuras permanentes y que, en consecuencia, un 50 % de lo recaudado se transfiera directamente a las comunidades autónomas, dado que son las principales responsables del gasto social.",
+      "documento": "2023-erc",
+      "pagina": 70,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=70",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-junts-1",
+      "uso": "test",
+      "tema": "impuestos",
+      "fueraDeEje": false,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Revisar y reequilibrar lo que pagan las rentas del trabajo en el impuesto sobre la renta (IRPF).",
+      "cita": "Així mateix, revisar i reequilibrar la fiscalitat que grava les rendes del treball a l’impost sobre la renda, ja que són les que suporten el gruix de la pressió fiscal, amb uns tipus impositius que arriben a ser excessius.",
+      "traduccion": "Asimismo, revisar y reequilibrar la fiscalidad que grava las rentas del trabajo en el impuesto sobre la renta, ya que son las que soportan el grueso de la presión fiscal, con unos tipos impositivos que llegan a ser excesivos.",
+      "documento": "2023-junts",
+      "pagina": 58,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=58",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-junts-2",
+      "uso": "reserva",
+      "tema": "impuestos",
+      "fueraDeEje": true,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Bajar del 25 % al 20 % el tipo del impuesto de sociedades para las pequeñas y medianas empresas.",
+      "cita": "Pel que fa al tipus nominal de l’impost sobre societats per a les pimes ha de baixar del 25 % al 20 %, compensant així la rebaixa de 5 punts del tipus general aplicada en la darrera reforma fiscal i que s’aplica a les grans empreses.",
+      "traduccion": "En cuanto al tipo nominal del impuesto sobre sociedades para las pymes, debe bajar del 25 % al 20 %, compensando así la rebaja de 5 puntos del tipo general aplicada en la última reforma fiscal y que se aplica a las grandes empresas.",
+      "documento": "2023-junts",
+      "pagina": 58,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=58",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite la justificación («compensando así la rebaja de 5 puntos del tipo general…»).",
+        "cifras": [
+          "5"
+        ]
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-pnv-1",
+      "uso": "test",
+      "tema": "impuestos",
+      "fueraDeEje": true,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Revisar la lista de bienes y servicios del impuesto sobre el valor añadido (IVA) y sus tipos general, reducido y superreducido.",
+      "cita": "En cuanto al Impuesto sobre el Valor Añadido, y dado que hay estudios que demuestran que es el impuesto que más aumenta la desigualdad en la renta bruta de los hogares y en el desarrollo de algunos negocios, algo que es permanente en el tiempo y que no es precisamente derivado de la pandemia de la covid, propondremos una revisión del listado de bienes y servicios como de los tipos general, reducido y superreducido, para abordar esta problemática y evitar inequidades.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 17,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=17",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-pnv-2",
+      "uso": "reserva",
+      "tema": "impuestos",
+      "fueraDeEje": true,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Luchar contra el fraude y la evasión fiscal, facilitando la cooperación entre las distintas haciendas del Estado.",
+      "cita": "Lucha contra el fraude y la evasión ﬁscal para lograr una mayor equidad y justicia social en el reparto de cargas, facilitando elementos de cooperación de las distintas Haciendas del Estado. Combatir y erradicar las tasas de economía sumergida.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 17,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=17",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite la segunda medida de la cita: «Combatir y erradicar las tasas de economía sumergida»."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-bildu-1",
+      "uso": "test",
+      "tema": "impuestos",
+      "fueraDeEje": true,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Aumentar la carga impositiva y hacer permanentes los impuestos a la banca, a las energéticas y a las grandes fortunas.",
+      "cita": "Aumentar la carga impositiva y convertir en permanentes los impuestos a la banca, energéticas y grandes fortunas, respetando la competencia y capacidad de nuestras haciendas forales en la gestión y recaudación de los mismos.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 8,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=8",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite «respetando la competencia y capacidad de nuestras haciendas forales»: es una condición territorial, no el núcleo de la medida."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-bildu-2",
+      "uso": "reserva",
+      "tema": "impuestos",
+      "fueraDeEje": true,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Aprobar un impuesto especial sobre los beneficios de las grandes cadenas de distribución de alimentos.",
+      "cita": "Aprobar un impuesto especial sobre los beneficios de grandes cadenas distribuidoras alimentarias.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 8,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=8",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-bng-1",
+      "uso": "test",
+      "tema": "impuestos",
+      "fueraDeEje": false,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Fijar en el impuesto sobre la renta (IRPF) tipos distintos según el origen de los ingresos: menos para el trabajo y más para el capital.",
+      "cita": "Estabelecer distintos tipos de gravame en función da natureza dos rendementos, minorando a tributación polos ingresos do traballo e aumentando a correspondente aos derivados do capital.",
+      "traduccion": "Establecer distintos tipos de gravamen en función de la naturaleza de los rendimientos, reduciendo la tributación por los ingresos del trabajo y aumentando la correspondiente a los derivados del capital.",
+      "documento": "2023-bng",
+      "pagina": 39,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=39",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-impuestos-bng-2",
+      "uso": "reserva",
+      "tema": "impuestos",
+      "fueraDeEje": true,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Hacer permanente la rebaja al 5 % del impuesto sobre el valor añadido (IVA) de la electricidad, el gas, la biomasa para calefacción y la leña. También la del resto de suministros básicos.",
+      "cita": "Estabelecer a permanencia da rebaixa do IVE da electricidade, gas, biomasa para quecemento e madeira para leña no 5 %, e do resto de subministracións básicas.",
+      "traduccion": "Establecer la permanencia de la rebaja del IVA de la electricidad, gas, biomasa para calefacción y leña al 5 %, y del resto de suministros básicos.",
+      "documento": "2023-bng",
+      "pagina": 40,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=40",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-pp-1",
+      "uso": "test",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Reforzar la inspección en las fronteras con más personal y mejor formado, e impulsar la implantación de los nuevos sistemas europeos de control fronterizo.",
+      "cita": "POTENCIAREMOS LA INSPECCIÓN FRONTERIZA, incrementando el número y formación del personal, impulsando la implantación del nuevo Sistema Europeo de Registro de Entradas y Salidas y del Sistema Europeo de Información y Autorización de Viaje, así como la coordinación y participación en las actividades de FRONTEX.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 81,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=81",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite la coordinación y participación en las actividades de FRONTEX, y los dos sistemas europeos se nombran juntos."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-pp-2",
+      "uso": "reserva",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Agilizar las órdenes de retorno de inmigrantes irregulares y la expulsión de quienes hayan cometido delitos. Se haría con mejores acuerdos con los países de origen o de tránsito.",
+      "cita": "AGILIZAREMOS EL CUMPLIMIENTO DE LAS ÓRDENES DE RETORNO de inmigrantes irregulares o expulsión de los que hayan cometido un delito a través de acuerdos mejorados con los países de origen o de tránsito para prevenir amenazas a la seguridad y evitar el efecto “llamada”.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 81,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=81",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-psoe-1",
+      "uso": "test",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Potenciar una estrategia para desmantelar las mafias que trafican con seres humanos en los países de origen.",
+      "cita": "Potenciaremos una estrategia que desmantele las mafias que trafican con seres humanos en los países de origen.",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 239,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=239",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-psoe-2",
+      "uso": "reserva",
+      "tema": "inmigracion",
+      "fueraDeEje": true,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Habilitar mejores vías de migración regular y ordenada, fomentando convenios de migración circular como los que ya funcionan.",
+      "cita": "Habilitaremos mejores vías para la migración regular y ordenada que permitan una mejor inserción social y laboral de las personas migrantes, fomentando convenios de migración circular exitosos como los que ya funcionan.",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 256,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=256",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-vox-1",
+      "uso": "test",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Expulsar de forma inmediata a todas las personas inmigrantes que entren de forma irregular en España.",
+      "cita": "Inmediata expulsión de todos los inmigrantes que accedan ilegalmente a nuestro país.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 100,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=100",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-vox-2",
+      "uso": "reserva",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Trasladar el mensaje claro de que cualquier inmigrante que llegue a España de forma irregular nunca podrá regularizar su situación.",
+      "cita": "Trasladaremos el mensaje claro de que cualquier inmigrante que llegue ilegalmente nunca podrá regularizar su situación en España.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 101,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=101",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-sumar-1",
+      "uso": "test",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Castigar como delito la devolución sumaria en la frontera y eliminar la disposición de la ley de extranjería que permite esta práctica.",
+      "cita": "Tipificaremos el delito de devolución sumaria en frontera y eliminaremos la disposición adicional de la Ley de Extranjería que legitima esta práctica, financiando y promoviendo mecanismos de monitoreo independiente de los derechos humanos en la Frontera Sur para que masacres como la de Melilla en junio de 2022 no vuelvan a suceder nunca más y se depuren todas las responsabilidades.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 149,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=149",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se recoge la medida principal y se omiten el monitoreo independiente de derechos humanos en la frontera sur, la referencia a Melilla en junio de 2022 y la depuración de responsabilidades.",
+        "cifras": [
+          "2022"
+        ]
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-sumar-2",
+      "uso": "reserva",
+      "tema": "inmigracion",
+      "fueraDeEje": true,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Reformar la ley de extranjería para que dé prioridad al reconocimiento de derechos e introduzca un procedimiento de regularización permanente.",
+      "cita": "Reforma de la Ley Orgánica sobre Derechos y Libertades de los Extranjeros en España y su Integración Social (LOEX) que prime los criterios de reconocimiento de derechos y que introduzca un procedimiento de regularización permanente.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 104,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=104",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-erc-1",
+      "uso": "test",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Acabar con las devoluciones en caliente y eliminar el mecanismo específico de devoluciones y expulsiones en Ceuta y Melilla.",
+      "cita": "Posar fi a la pràctica il·legal de les devolucions en calent. Cal eliminar el mecanisme específic de devolucions i expulsions a Ceuta i Melilla per ser discriminatori en relació amb la resta de població i per manca de garanties jurídiques bàsiques de tot procediment.",
+      "traduccion": "Poner fin a la práctica ilegal de las devoluciones en caliente. Hay que eliminar el mecanismo específico de devoluciones y expulsiones en Ceuta y Melilla por ser discriminatorio en relación con el resto de la población y por falta de garantías jurídicas básicas de todo procedimiento.",
+      "documento": "2023-erc",
+      "pagina": 38,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=38",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-erc-2",
+      "uso": "reserva",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Establecer vías legales y seguras de entrada a España que garanticen la libre circulación y el asilo de las personas desplazadas a la fuerza.",
+      "cita": "Establir vies legals i segures d'entrada a l’Estat espanyol, per a garantir l’accés a la lliure circulació i al dret d’asil a les persones desplaçades forçosament, davant les vulneracions en l’accés a l’asil i la protecció internacional.",
+      "traduccion": "Establecer vías legales y seguras de entrada al Estado español, para garantizar el acceso a la libre circulación y al derecho de asilo a las personas desplazadas forzosamente, ante las vulneraciones en el acceso al asilo y la protección internacional.",
+      "documento": "2023-erc",
+      "pagina": 38,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=38",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-junts-1",
+      "uso": "test",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Eliminar las devoluciones en caliente derogando la disposición adicional 10.ª de la Ley Orgánica 4/2000 sobre derechos y libertades de los extranjeros.",
+      "cita": "L’eliminació de les devolucions en calent derogant la Disposició Addicional 10ª de la Llei Orgànica 4/2000 sobre drets i llibertats dels estrangers a Espanya i la seva integració social.",
+      "traduccion": "La eliminación de las devoluciones en caliente derogando la Disposición Adicional 10.ª de la Ley Orgánica 4/2000 sobre derechos y libertades de los extranjeros en España y su integración social.",
+      "documento": "2023-junts",
+      "pagina": 107,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=107",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-junts-2",
+      "uso": "reserva",
+      "tema": "inmigracion",
+      "fueraDeEje": true,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Buscar vías de solución para las personas que están en el territorio sin su situación administrativa resuelta.",
+      "cita": "Treballar per articular vies legals i segures de migració regular i mobilitat. Buscar vies de solució a les persones que es troben al territori sense la seva situació administrativa resolta.",
+      "traduccion": "Trabajar para articular vías legales y seguras de migración regular y movilidad. Buscar vías de solución a las personas que se encuentran en el territorio sin su situación administrativa resuelta.",
+      "documento": "2023-junts",
+      "pagina": 107,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=107",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "La cita junta dos medidas; se recoge la más concreta y se omite «Treballar per articular vies legals i segures de migració regular i mobilitat», que sola no llega a 15 palabras."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-pnv-1",
+      "uso": "test",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Volver a plantear la reforma de la ley de extranjería para comprobar que se cumplen los tratados de derechos humanos en los rechazos en frontera.",
+      "cita": "Para garantizar el cumplimiento de los tratados internacionales en materia humanitaria y de Derechos Humanos respecto a las personas demandantes de refugio y asilo y resto de migrantes, se volverá a plantear la reforma de la legislación de extranjería a ﬁn de establecer procedimientos que permitan la trazabilidad del cumplimiento de esos tratados internacionales durante el llamado rechazo en frontera, tal y como ya lo hemos hecho esta pasada legislatura y que la postura maximalista de EH Bildu y de ERC respecto a la modiﬁcación de ley mordaza ha impedido.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 10,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=10",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-pnv-2",
+      "uso": "reserva",
+      "tema": "inmigracion",
+      "fueraDeEje": true,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Adoptar medidas para repartir de forma equitativa a los menores migrantes no acompañados y a las personas que piden asilo.",
+      "cita": "Adopción de medidas para una equitativa distribución de menores migrantes no acompañados y de personas demandantes de asilo.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 10,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=10",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-bildu-1",
+      "uso": "test",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Exigir el fin de las devoluciones en caliente, tanto por vía terrestre como por vía marítima.",
+      "cita": "Exigiremos el fin de las devoluciones en caliente ya sean por vía terrestre o marítima.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 11,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=11",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-bildu-2",
+      "uso": "reserva",
+      "tema": "inmigracion",
+      "fueraDeEje": true,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Exigir que se derogue la ley de extranjería y se sustituya por una nueva. Esta garantizaría todos los derechos humanos y civiles de las personas migrantes y su acceso a los servicios públicos básicos.",
+      "cita": "Exigiremos la derogación de la Ley de Extranjería, sustituyéndola por una nueva legislación que respete y garantice todos los derechos humanos y civiles de todas las personas migrantes, así como su acceso a los servicios públicos básicos.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 11,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=11",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-bng-1",
+      "uso": "test",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Cerrar los centros de internamiento de extranjeros (CIE) en España y poner fin a las deportaciones.",
+      "cita": "Peche dos Centros de Internamento para Estranxeiros (CIEs) no Estado español e fin das deportacións, garantindo o respecto escrupuloso dos dereitos humanos para a poboación migrante, refuxiada e/ou solicitante de asilo.",
+      "traduccion": "Cierre de los Centros de Internamiento para Extranjeros (CIE) en el Estado español y fin de las deportaciones, garantizando el respeto escrupuloso de los derechos humanos de la población migrante, refugiada y/o solicitante de asilo.",
+      "documento": "2023-bng",
+      "pagina": 20,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=20",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Cerrar los CIE y poner fin a las deportaciones no se separan: los CIE existen para ejecutar deportaciones. Se omite «garantindo o respecto escrupuloso dos dereitos humanos…», que es un objetivo general."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-bng-2",
+      "uso": "reserva",
+      "tema": "inmigracion",
+      "fueraDeEje": true,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Impulsar las reformas legales necesarias para garantizar los derechos de la población migrante, como vivienda, trabajo, sanidad o educación.",
+      "cita": "Impulsar as reformas lexislativas necesarias para garantir os dereitos da poboación migrante (vivenda, traballo, atención sanitaria, educación...) así como favorecer e facilitar os procesos de regularización administrativa.",
+      "traduccion": "Impulsar las reformas legislativas necesarias para garantizar los derechos de la población migrante (vivienda, trabajo, atención sanitaria, educación...) así como favorecer y facilitar los procesos de regularización administrativa.",
+      "documento": "2023-bng",
+      "pagina": 19,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=19",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite la segunda medida: favorecer y facilitar los procesos de regularización administrativa."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-cc-1",
+      "uso": "test",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "cc"
+      ],
+      "texto": "Pedir al Gobierno de España que impulse en la Unión Europea más cooperación con los países de origen y tránsito contra la inmigración irregular.",
+      "cita": "Instaremos al Gobierno de España para que promueva en el ámbito de la UE una mayor cooperación con los países de origen y tránsito en la lucha contra la inmigración irregular.",
+      "traduccion": null,
+      "documento": "2023-cc",
+      "pagina": 13,
+      "enlace": "https://web.archive.org/web/20231210072530id_/https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf#page=13",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-inmigracion-cc-2",
+      "uso": "reserva",
+      "tema": "inmigracion",
+      "fueraDeEje": false,
+      "partidos": [
+        "cc"
+      ],
+      "texto": "Pedir al Gobierno de España que promueva en la Unión Europea más coordinación entre los Estados miembros en el rescate de inmigrantes en el mar.",
+      "cita": "Demandaremos al Gobierno de España para que promueva en el ámbito de la Unión Europea una mayor coordinación entre las políticas de los diferentes Estados miembros, y entre ellas el rescate de inmigrantes en el mar, intensificándose el apoyo directo de la UE a los Estados Miembros en esta materia.",
+      "traduccion": null,
+      "documento": "2023-cc",
+      "pagina": 13,
+      "enlace": "https://web.archive.org/web/20231210072530id_/https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf#page=13",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite «intensificándose el apoyo directo de la UE a los Estados Miembros en esta materia»."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-pp-1",
+      "uso": "test",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Actualizar el salario mínimo interprofesional (SMI) en el marco del diálogo social, involucrando a sindicatos, empresarios y personas expertas en las decisiones.",
+      "cita": "ACTUALIZAREMOS EL SALARIO MÍNIMO INTERPROFESIONAL EN EL MARCO DEL DIÁLOGO SOCIAL. Involucraremos a sindicatos, empresarios y expertos en la toma de decisiones sobre el SMI.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 19,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=19",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-pp-2",
+      "uso": "reserva",
+      "tema": "empleo",
+      "fueraDeEje": true,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Aprobar una tarifa 0 para los nuevos autónomos durante su primer año, es decir, sin pagar cuota a la Seguridad Social.",
+      "cita": "FOMENTAREMOS LA FLEXIBILIDAD Y LA SOSTENIBILIDAD FINANCIERA PARA LOS TRABAJADORES AUTÓNOMOS. APROBAREMOS LA TARIFA 0 PARA NUEVOS AUTÓNOMOS DURANTE EL PRIMER AÑO.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 20,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=20",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-psoe-1",
+      "uso": "test",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Garantizar en el Estatuto de los Trabajadores que el salario mínimo interprofesional (SMI) se ajuste al 60 % del salario medio.",
+      "cita": "Garantizaremos en el Estatuto de los trabajadores que el SMI se acompase al 60% del salario medio; medida tambien eficaz para lograr la igualdad salarial entre hombres y mujeres.",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 26,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=26",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-psoe-2",
+      "uso": "reserva",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Poner en marcha un plan nacional para que las empresas ofrezcan mejor conciliación. Incluiría jornadas que combinen presencia y teletrabajo, horarios más adaptables y la opción de concentrar la semana laboral en cuatro días.",
+      "cita": "Pondremos en marcha un Plan Nacional para que las empresas ofrezcan una mejor conciliación mediante jornadas híbridas que combinen lo presencial con lo remoto, horarios más adaptables, y la posibilidad de concentrar en cuatro días su semana laboral",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 33,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=33",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-vox-1",
+      "uso": "test",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Impulsar la subida de todos los salarios, sobre todo los más bajos, reduciendo de forma drástica las cargas y la regulación sobre las empresas.",
+      "cita": "Impulsaremos la subida de todos los salarios, especialmente los más bajos. Para que ello no conlleve una destrucción de empleo, reduciremos drásticamente las cargas sobre las empresas y la regulación abusiva que perjudican la generación de empleo.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 22,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=22",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "La subida de salarios y la reducción de cargas no se separan: la cita presenta la segunda como el medio de la primera. Sola, la subida no llega a 15 palabras. Se omite la justificación («para que ello no conlleve una destrucción de empleo»)."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-vox-2",
+      "uso": "reserva",
+      "tema": "empleo",
+      "fueraDeEje": true,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Bonificar las cotizaciones de las empresas que contraten de forma indefinida a trabajadores españoles: el 100 % el primer año y el 50 % el segundo, a cualquier edad.",
+      "cita": "Promoveremos el empleo estable, duradero y de calidad mediante la reducción de las cotizaciones a las empresas que contraten a trabajadores españoles de manera indefinida, bonificando al 100% los nuevos empleos creados durante el primer año para cualquier edad, y al 50% en el segundo año.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 22,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=22",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-sumar-1",
+      "uso": "test",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Fijar por ley en 2024 una jornada máxima de 37,5 horas sin bajar el salario. Después, abrir un diálogo social para reducirla hasta 32 horas semanales.",
+      "cita": "Reordenaremos el tiempo de trabajo, incluyendo la reducción y la distribución de la jornada laboral, pero sin reducción de salario. En 2024 se establecerá por ley una jornada laboral máxima de 37,5 horas y se abrirá un proceso de diálogo social para seguir reduciendo la jornada hasta alcanzar las 32 horas semanales.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 7,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=7",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-sumar-2",
+      "uso": "reserva",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Subir cada año el salario mínimo interprofesional (SMI) por encima del índice de precios de consumo (IPC).",
+      "cita": "Subiremos el salario mínimo interprofesional por encima del IPC anual para mantener la ganancia de poder adquisitivo de las personas que lo cobran.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 7,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=7",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-erc-1",
+      "uso": "test",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Subir el salario mínimo interprofesional a 1.250 euros y fijar una escala salarial 1/12: el sueldo más alto no superaría doce veces el más bajo.",
+      "cita": "La plena ocupació com a política pública, amb un salari digne i la reducció de les desigualtats salarials, amb l’increment del salari mínim interprofessional a 1.250 euros i amb l’establiment d’una escala salarial 1/12 per a una equitat retributiva més justa i l’erradicació de la bretxa salarial.",
+      "traduccion": "El pleno empleo como política pública, con un salario digno y la reducción de las desigualdades salariales, con el incremento del salario mínimo interprofesional a 1.250 euros y con el establecimiento de una escala salarial 1/12 para una equidad retributiva más justa y la erradicación de la brecha salarial.",
+      "documento": "2023-erc",
+      "pagina": 90,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=90",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omiten los objetivos generales de la cita (pleno empleo, salario digno, erradicar la brecha salarial). El salario mínimo y la escala 1/12 se dejan juntos: son los dos instrumentos de la misma medida, reducir las desigualdades salariales."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-erc-2",
+      "uso": "reserva",
+      "tema": "empleo",
+      "fueraDeEje": true,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Recuperar una indemnización mínima de 45 días de salario por año trabajado, con un tope de 42 mensualidades, en los despidos improcedentes. La ley permitiría aumentarla según cada caso, de acuerdo con el artículo 24 de la Carta Social Europea.",
+      "cita": "Recuperació d’una indemnització mínima de 45 dies de salari per any treballat amb un topall de 42 mensualitats per acomiadaments improcedents i preveure legislativament la possibilitat d’incrementar-les atenent a les circumstàncies de cada cas concret d’acord amb l’article 24 de la Carta Social Europea.",
+      "traduccion": "Recuperación de una indemnización mínima de 45 días de salario por año trabajado con un tope de 42 mensualidades para los despidos improcedentes, y prever legalmente la posibilidad de incrementarlas según las circunstancias de cada caso concreto, de acuerdo con el artículo 24 de la Carta Social Europea.",
+      "documento": "2023-erc",
+      "pagina": 90,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=90",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-junts-1",
+      "uso": "test",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Subir el salario mínimo interprofesional de los 1.080 euros actuales hasta los 1.319 euros del salario medio europeo.",
+      "cita": "El salari mínim interprofessional ha d’augmentar dels 1080€ actuals fins als 1319€ del salari mig europeu. La Generalitat ha de poder-lo fixar per Catalunya.",
+      "traduccion": "El salario mínimo interprofesional debe aumentar de los 1.080 € actuales hasta los 1.319 € del salario medio europeo. La Generalitat debe poder fijarlo para Cataluña.",
+      "documento": "2023-junts",
+      "pagina": 90,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=90",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite la segunda medida: «La Generalitat ha de poder-lo fixar per Catalunya»."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-junts-2",
+      "uso": "reserva",
+      "tema": "empleo",
+      "fueraDeEje": true,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Establecer una tarifa cero para los autónomos no habituales y para los que tienen ingresos bajos. Por ejemplo, ingresos inferiores al salario mínimo interprofesional.",
+      "cita": "Establir una tarifa zero per a autònoms no habituals i per aquells que tenen ingressos baixos, per exemple ingressos inferiors al SMI.",
+      "traduccion": "Establecer una tarifa cero para autónomos no habituales y para los que tienen ingresos bajos, por ejemplo ingresos inferiores al SMI.",
+      "documento": "2023-junts",
+      "pagina": 69,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=69",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-pnv-1",
+      "uso": "test",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Impulsar mecanismos que vinculen los salarios a la productividad, protegiendo los derechos de los trabajadores, dentro de un pacto por el empleo.",
+      "cita": "Este pacto, que debe englobar al conjunto de instituciones con competencias en la materia y a los agentes económicos y sociales, tiene que avanzar sobre bases ciertas y determinadas como la estabilidad del empleo, la formación continua, la competitividad sustentada en la acomodación del proceso productivo a las nuevas formas de trabajo, así como en impulsar mecanismos que permitan vincular los salarios a la productividad para permitir que las empresas sean más competitivas, al tiempo que se protegen los derechos de las y los trabajadores.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 30,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=30",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "La cita enumera las bases de un pacto por el empleo; se recoge la que entra en el eje (vincular salarios y productividad) y se omiten la estabilidad del empleo, la formación continua y la competitividad. Se omite la justificación («para permitir que las empresas sean más competitivas»)."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-pnv-2",
+      "uso": "reserva",
+      "tema": "empleo",
+      "fueraDeEje": true,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Ampliar la duración de la prestación por desempleo hasta un máximo de 36 meses, vinculando las ayudas a participar en procesos para mejorar la empleabilidad.",
+      "cita": "Mejora de la cobertura por desempleo. Ampliando los límites de la cobertura por desempleo hasta un máximo de 36 meses, vinculando dichas ayudas a la participación en procesos destinados a su empleabilidad.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 31,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=31",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-bildu-1",
+      "uso": "test",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Reducir la jornada laboral a 32 horas semanales sin bajar el salario ni cambiar las condiciones de trabajo.",
+      "cita": "Reducción de la jornada laboral hasta las 32 horas semanales sin reducción salarial ni modificación de condiciones, respondiendo a la exigencia de la mayoría sindical vasca.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 3,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=3",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-bildu-2",
+      "uso": "reserva",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Aplicar medidas específicas para mujeres y jóvenes contra la brecha salarial, la precariedad, la temporalidad y la parcialidad que sufren.",
+      "cita": "Medidas específicas orientadas a mujeres y personas jóvenes que atajen la brecha salarial que hoy sufren esos sectores, así como la precariedad, temporalidad y parcialidad presentes en gran parte de los mismos.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 3,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=3",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-bng-1",
+      "uso": "test",
+      "tema": "empleo",
+      "fueraDeEje": false,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Promover la implantación de una jornada laboral de 35 horas semanales sin que se reduzca el salario.",
+      "cita": "Promover a implantación da xornada laboral de 35 horas semanais sen redución salarial.",
+      "traduccion": "Promover la implantación de la jornada laboral de 35 horas semanales sin reducción salarial.",
+      "documento": "2023-bng",
+      "pagina": 16,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=16",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-bng-2",
+      "uso": "reserva",
+      "tema": "empleo",
+      "fueraDeEje": true,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Eliminar las empresas de trabajo temporal (ETT), la subcontratación en cadena y los falsos autónomos.",
+      "cita": "Eliminar as Empresas de Traballo Temporal (ETT), a subcontratación en cadea e as falsas/os autónomas/os.",
+      "traduccion": "Eliminar las empresas de trabajo temporal (ETT), la subcontratación en cadena y los falsos autónomos.",
+      "documento": "2023-bng",
+      "pagina": 17,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=17",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-cc-1",
+      "uso": "test",
+      "tema": "empleo",
+      "fueraDeEje": true,
+      "partidos": [
+        "cc"
+      ],
+      "texto": "Pedir bonificaciones en las cotizaciones empresariales por contratos indefinidos de jóvenes de 16 a 30, mayores de 45 y mujeres poco representadas en su ocupación.",
+      "cita": "Y demandaremos bonificaciones en la cuota empresarial de la Seguridad Social para contratos indefinidos para jóvenes entre 16 y 30 años, para mayores de 45 años, y para mujeres en ocupaciones en las que el colectivo no está suficientemente representado.",
+      "traduccion": null,
+      "documento": "2023-cc",
+      "pagina": 6,
+      "enlace": "https://web.archive.org/web/20231210072530id_/https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf#page=6",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-empleo-cc-2",
+      "uso": "reserva",
+      "tema": "empleo",
+      "fueraDeEje": true,
+      "partidos": [
+        "cc"
+      ],
+      "texto": "Defender que se mantengan los incentivos a la contratación indefinida de jóvenes por parte de microempresas y autónomos.",
+      "cita": "Abogamos por mantener los incentivos a la contratación indefinida a los jóvenes por microempresas y empresarios autónomos, incentivos a la contratación en nuevos proyectos de emprendimiento joven, primer empleo joven e incentivos a los contratos en prácticas.",
+      "traduccion": null,
+      "documento": "2023-cc",
+      "pagina": 6,
+      "enlace": "https://web.archive.org/web/20231210072530id_/https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf#page=6",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omiten los demás incentivos de la cita: emprendimiento joven, primer empleo joven y contratos en prácticas."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-pp-1",
+      "uso": "test",
+      "tema": "pensiones",
+      "fueraDeEje": false,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Garantizar la revalorización de las pensiones en el marco del Pacto de Toledo, el acuerdo parlamentario sobre el sistema de pensiones.",
+      "cita": "GARANTIZAREMOS LA REVALORIZACIÓN DE LAS PENSIONES EN EL MARCO DEL PACTO DE TOLEDO.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 19,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=19",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-pp-2",
+      "uso": "reserva",
+      "tema": "pensiones",
+      "fueraDeEje": true,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Dar más transparencia y accesibilidad al sistema de pensiones, para que todos los trabajadores puedan consultar con más sencillez una estimación de su pensión futura.",
+      "cita": "Impulsaremos la contributividad del sistema y lo dotaremos de mayor transparencia y accesibilidad, de modo que todos los trabajadores puedan acceder con mayor sencillez a la estimación de la pensión futura.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 20,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=20",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite la primera medida de la cita: impulsar la contributividad del sistema."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-psoe-1",
+      "uso": "test",
+      "tema": "pensiones",
+      "fueraDeEje": false,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Reformar la Constitución para garantizar que todas las pensiones mantengan su poder adquisitivo según el índice de precios de consumo (IPC), en cualquier circunstancia.",
+      "cita": "Blindaremos el poder adquisitivo de las pensiones con un cambio constitucional. Garantizaremos ante cualquier circunstancia el poder adquisitivo de todas las pensiones con arreglo al IPC.",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 170,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=170",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-psoe-2",
+      "uso": "reserva",
+      "tema": "pensiones",
+      "fueraDeEje": true,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Rellenar el fondo de reserva de la Seguridad Social, la hucha de las pensiones, hasta superar los 20.000 millones de euros en 2027.",
+      "cita": "Rellenaremos la hucha de las pensiones. El Fondo de Reserva de la Seguridad Social estará dotado con más de 20.000 millones de euros en 2027.",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 172,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=172",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-vox-1",
+      "uso": "test",
+      "tema": "pensiones",
+      "fueraDeEje": true,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Eximir a las pensiones contributivas de pagar el impuesto sobre la renta de las personas físicas (IRPF).",
+      "cita": "las pensiones contributivas estarán exentas de IRPF por justicia con quienes han tributado durante toda su vida laboral.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 75,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=75",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-vox-2",
+      "uso": "reserva",
+      "tema": "pensiones",
+      "fueraDeEje": true,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Crear un programa de desgravaciones fiscales para jubilados y mayores de 65 años que paguen gastos de familiares menores de 35: sanidad, estudios, deporte o su primera vivienda.",
+      "cita": "Programa de desgravaciones fiscales para los perceptores de rentas de jubilación y mayores de 65 años que incurran en cargas a favor de familiares menores de 35 años en concepto de gastos sanitarios, educación escolar y universitaria, práctica deportiva y adquisición de su primera vivienda.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 65,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=65",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Sustituye a la reserva anterior (sostenibilidad de las pensiones desmontando el sistema autonómico), cuya medida es reorganizar el Estado y no las pensiones. Es la medida 131, descartada por el fallo de verificar.mjs."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-sumar-1",
+      "uso": "test",
+      "tema": "pensiones",
+      "fueraDeEje": false,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Subir las pensiones mínimas y no contributivas por encima del índice de precios de consumo (IPC) hasta llegar, al menos, al umbral de la pobreza.",
+      "cita": "se subirán por encima del IPC las pensiones mínimas y las pensiones no contributivas, hasta que su cuantía alcance, al menos, el umbral de la pobreza.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 15,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=15",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-sumar-2",
+      "uso": "reserva",
+      "tema": "pensiones",
+      "fueraDeEje": true,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Impulsar una reforma constitucional que garantice con solidez los derechos sociales y, en concreto, que proteja de forma especial el derecho a la Seguridad Social.",
+      "cita": "Impulsaremos una reforma constitucional que garantice sólidamente los derechos sociales y, en concreto, que blinde el derecho a la Seguridad Social.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 34,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=34",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-erc-1",
+      "uso": "test",
+      "tema": "pensiones",
+      "fueraDeEje": false,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Subir las pensiones mínimas y revalorizarlas de forma automática según la evolución del salario mínimo interprofesional.",
+      "cita": "Incrementar les pensions mínimes i establir revalortizacions automàtiques ancorant-les a l’evolució del Salari Mínim Interprofessional donant compliment a les exigències de la Carta Social Europea.",
+      "traduccion": "Incrementar las pensiones mínimas y establecer revalorizaciones automáticas anclándolas a la evolución del salario mínimo interprofesional, dando cumplimiento a las exigencias de la Carta Social Europea.",
+      "documento": "2023-erc",
+      "pagina": 96,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=96",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-erc-2",
+      "uso": "reserva",
+      "tema": "pensiones",
+      "fueraDeEje": true,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Bajar la edad ordinaria de jubilación a los 65 años, sin exigir ningún mínimo de cotización.",
+      "cita": "Rebaixa de l’edat ordinària de jubilació als 65 anys de manera no condicionada a cap cotització mínima.",
+      "traduccion": "Rebaja de la edad ordinaria de jubilación a los 65 años, sin condicionarla a ninguna cotización mínima.",
+      "documento": "2023-erc",
+      "pagina": 96,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=96",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-junts-1",
+      "uso": "test",
+      "tema": "pensiones",
+      "fueraDeEje": false,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Avanzar hacia la convergencia entre el salario mínimo interprofesional vigente y la pensión mínima contributiva.",
+      "cita": "Cal avançar en una convergència entre el SMI vigent i la pensió mínima contributiva; cal entendre que la pensió és el salari de les persones jubilades.",
+      "traduccion": "Hay que avanzar en una convergencia entre el SMI vigente y la pensión mínima contributiva; hay que entender que la pensión es el salario de las personas jubiladas.",
+      "documento": "2023-junts",
+      "pagina": 101,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=101",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-junts-2",
+      "uso": "reserva",
+      "tema": "pensiones",
+      "fueraDeEje": true,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Seguir mejorando las bases reguladoras de las pensiones no contributivas, hasta el 75 % para las rentas bajas.",
+      "cita": "Continuarem millorant les bases reguladores de les pensions no contributives millorant-les fins al 75% per rendes baixes i millorar la fiscalitat de les pensions que es compatibilitzen amb rendes procedents del treball.",
+      "traduccion": "Seguiremos mejorando las bases reguladoras de las pensiones no contributivas, mejorándolas hasta el 75 % para rentas bajas, y mejorar la fiscalidad de las pensiones que se compatibilizan con rentas procedentes del trabajo.",
+      "documento": "2023-junts",
+      "pagina": 100,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=100",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite la segunda medida: mejorar la fiscalidad de las pensiones que se compatibilizan con rentas del trabajo."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-pnv-1",
+      "uso": "test",
+      "tema": "pensiones",
+      "fueraDeEje": false,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Defender que las pensiones se revaloricen según el índice de precios de consumo (IPC) y que esa revalorización no pueda dar marcha atrás.",
+      "cita": "defenderemos la vinculación de las pensiones conforme al IPC para que esa revalorización sea irregresiva.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 33,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=33",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-pnv-2",
+      "uso": "reserva",
+      "tema": "pensiones",
+      "fueraDeEje": true,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Reformar la ley general de la Seguridad Social para limitar el uso libre del fondo de reserva de las pensiones, recuperando el tope del 3 %.",
+      "cita": "Reformar el TRLGSS a ﬁn de impedir o limitar la libre disposición del Fondo de Reserva de las Pensiones, recuperando el tope del 3% para que dicho mecanismo solo pueda seguir siendo utilizado en situaciones excepcionales, a través de mecanismos de control extraordinarios y como mecanismo de garantía ﬁnanciera de sostenibilidad del Sistema público de pensiones.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 33,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=33",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-bildu-1",
+      "uso": "test",
+      "tema": "pensiones",
+      "fueraDeEje": false,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Aumentar de manera inmediata la cuantía de las pensiones mínimas hasta llegar a los 1.080 euros.",
+      "cita": "Aumento inmediato de las pensiones mínimas hasta los 1.080€, asumiendo también la capacidad propia para complementar estas pensiones aplicando a nuestra realidad las directrices marcadas por la Carta Social Europea para asegurar pensiones mínimas suficientes.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 5,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=5",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite la segunda medida: «asumiendo también la capacidad propia para complementar estas pensiones aplicando a nuestra realidad las directrices marcadas por la Carta Social Europea»."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-bildu-2",
+      "uso": "reserva",
+      "tema": "pensiones",
+      "fueraDeEje": true,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Rechazar cualquier aumento de la edad de jubilación o del número de años que se usan para calcular la pensión.",
+      "cita": "Rechazo a cualquier aumento de la edad de jubilación y/o del periodo de cómputo de las pensiones.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 5,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=5",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-bng-1",
+      "uso": "test",
+      "tema": "pensiones",
+      "fueraDeEje": false,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Subir la cuantía de las pensiones mínimas hasta situarla en el 60 % del salario medio.",
+      "cita": "Incremento das pensións mínimas até situalas no 60 % do salario medio.",
+      "traduccion": "Incremento de las pensiones mínimas hasta situarlas en el 60 % del salario medio.",
+      "documento": "2023-bng",
+      "pagina": 17,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=17",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-bng-2",
+      "uso": "reserva",
+      "tema": "pensiones",
+      "fueraDeEje": true,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Recuperar la jubilación ordinaria a los 65 años y la jubilación parcial a los 61 años.",
+      "cita": "Recuperar a xubilación ordinaria aos 65 anos e a parcial aos 61 anos.",
+      "traduccion": "Recuperar la jubilación ordinaria a los 65 años y la parcial a los 61 años.",
+      "documento": "2023-bng",
+      "pagina": 18,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=18",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-cc-1",
+      "uso": "test",
+      "tema": "pensiones",
+      "fueraDeEje": false,
+      "partidos": [
+        "cc"
+      ],
+      "texto": "Garantizar que las pensiones públicas se actualicen según el coste de la vida, financiándolas con los Presupuestos Generales del Estado.",
+      "cita": "Defenderemos la sostenibilidad del sistema de pensiones públicas. Garantizando pensiones dignas y actualizadas en función del coste de la vida. Reduciendo la actual brecha de género. Tomando decisiones, como la financiación vía Presupuestos Generales del Estado, que eliminen incertidumbres y blinden su presente y futuro.",
+      "traduccion": null,
+      "documento": "2023-cc",
+      "pagina": 7,
+      "enlace": "https://web.archive.org/web/20231210072530id_/https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf#page=7",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se recoge la medida del eje (actualizar según el coste de la vida) con su financiación, y se omiten la sostenibilidad del sistema y la reducción de la brecha de género."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-pensiones-cc-2",
+      "uso": "reserva",
+      "tema": "pensiones",
+      "fueraDeEje": true,
+      "partidos": [
+        "cc"
+      ],
+      "texto": "Apoyar un pacto de Estado de pensiones con todos los partidos parlamentarios y los actores sociales, tramitado en la comisión del Pacto de Toledo.",
+      "cita": "Para ello, apoyaremos el impulso de un Pacto de Estado, suscrito por todos los partidos políticos parlamentarios y con la participación de todos los actores sociales, que garantice un sistema de pensiones dignas, fiable y duradero, teniendo como objetivo la sostenibilidad y la suficiencia de las pensiones actuales y futuras, y tramitándose en la comisión del Pacto de Toledo.",
+      "traduccion": null,
+      "documento": "2023-cc",
+      "pagina": 7,
+      "enlace": "https://web.archive.org/web/20231210072530id_/https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf#page=7",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-pp-1",
+      "uso": "test",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Promover un plan de choque en atención primaria para resolver la falta de especialistas en ese nivel asistencial.",
+      "cita": "PROMOVEREMOS UN PLAN DE CHOQUE EN ATENCIÓN PRIMARIA para dar solución al grave problema de déficit de especialistas en este nivel asistencial que sufre España.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 45,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=45",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-pp-2",
+      "uso": "reserva",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "pp"
+      ],
+      "texto": "Impulsar con las comunidades autónomas 1.000 plazas más de formación en medicina familiar en la oferta de 2024.",
+      "cita": "Impulsaremos, en colaboración con las Comunidades Autónomas, la incorporación de 1.000 plazas formativas más de medicina familiar a la oferta de 2024.",
+      "traduccion": null,
+      "documento": "2023-pp",
+      "pagina": 45,
+      "enlace": "https://web.archive.org/web/20250619072430id_/https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf#page=45",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-psoe-1",
+      "uso": "test",
+      "tema": "sanidad",
+      "fueraDeEje": false,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Fijar por ley tiempos máximos de espera en la sanidad pública: 120 días para operar, 60 para consultas de especialistas y 30 para pruebas, en todo el país.",
+      "cita": "Acabaremos con las listas de espera, estableciendo por ley unos tiempos máximos de espera en el SNS de 120 días para intervenciones quirúrgicas, 60 días para consultas externas especializadas, y 30 días para pruebas complementarias, con independencia del lugar de residencia del ciudadano/a.",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 201,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=201",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-psoe-2",
+      "uso": "reserva",
+      "tema": "sanidad",
+      "fueraDeEje": false,
+      "partidos": [
+        "psoe"
+      ],
+      "texto": "Garantizar tiempos máximos de espera en la atención a la salud mental, con un máximo de 15 días para menores de 21 años.",
+      "cita": "Estableceremos garantías de tiempo máximo de espera en la asistencia la salud mental que incluya un máximo de 15 días para menores de 21 años.",
+      "traduccion": null,
+      "documento": "2023-psoe",
+      "pagina": 203,
+      "enlace": "https://web.archive.org/web/20230709064011id_/https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf#page=203",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-vox-1",
+      "uso": "test",
+      "tema": "sanidad",
+      "fueraDeEje": false,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Reducir las listas de espera en volumen y tiempo en todos los ámbitos. Para ello, incentivar a los centros públicos y reforzar los conciertos con la sanidad privada.",
+      "cita": "Reduciremos el volumen y tiempo de las listas de espera en todos los ámbitos, incentivando a los centros públicos para su reducción, y reforzando los conciertos con la sanidad privada.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 57,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=57",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-vox-2",
+      "uso": "reserva",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "vox"
+      ],
+      "texto": "Aumentar la inversión en atención primaria, reforzando la atención rural y las zonas más saturadas.",
+      "cita": "Incremento de la inversión en Atención Primaria, con potenciación de la atención rural, de las zonas más saturadas. Se debe potenciar la atención presencial y la domiciliaria. La digitalización debe aplicarse para disminuir la burocracia.",
+      "traduccion": null,
+      "documento": "2023-vox",
+      "pagina": 57,
+      "enlace": "https://web.archive.org/web/20231116091643id_/https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf#page=57",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omiten las demás medidas de la cita: potenciar la atención presencial y a domicilio, y la digitalización."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-sumar-1",
+      "uso": "test",
+      "tema": "sanidad",
+      "fueraDeEje": false,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Aprobar una ley de listas de espera con tiempos máximos y un registro homogéneo, transparente y fiable de las listas en todo el país.",
+      "cita": "Además, aprobaremos una ley de listas de espera que establezca tiempos máximos de espera y garantice un registro homogéneo, transparente y fiable de las listas de espera en todo el país.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 89,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=89",
+      "verificacion": "normalizada",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-sumar-2",
+      "uso": "reserva",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "sumar"
+      ],
+      "texto": "Garantizar el carácter público del Sistema Nacional de Salud, impidiendo las formas de gestión privatizadas.",
+      "cita": "Se blindará el carácter público del Sistema Nacional de Salud, impidiendo las formas de gestión privatizadas. Promoveremos un plan de desprivatización, que incluirá los servicios de limpieza, hostelería o lavandería, a fin de garantizar una atención de calidad a los pacientes.",
+      "traduccion": null,
+      "documento": "2023-sumar",
+      "pagina": 89,
+      "enlace": "https://web.archive.org/web/20230724225336id_/https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf#page=89",
+      "verificacion": "normalizada",
+      "omitido": {
+        "nota": "Se omite la segunda medida: el plan de desprivatización de limpieza, hostelería o lavandería."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-erc-1",
+      "uso": "test",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Promover políticas contra la falta de profesionales especialistas, como flexibilizar su jubilación o regular la acreditación en cuidados paliativos.",
+      "cita": "Promoure les polítiques necessàries per fer front al dèficit de professionals especialistes. Com ara, regular el diploma d’acreditació de pal·liatius, flexibilitzar la jubilació per a tots els professionals que presten serveis en totes les especialitats -especialment les més deficitàries-, posar remei a l’elecció de places en formació sanitària especialitzada o resoldre les dificultats en l’acreditació de les especialitats infermeres, entre altres.",
+      "traduccion": "Promover las políticas necesarias para hacer frente al déficit de profesionales especialistas. Por ejemplo, regular el diploma de acreditación de paliativos, flexibilizar la jubilación de todos los profesionales en todas las especialidades —especialmente las más deficitarias—, poner remedio a la elección de plazas en formación sanitaria especializada o resolver las dificultades en la acreditación de las especialidades de enfermería, entre otras.",
+      "documento": "2023-erc",
+      "pagina": 61,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=61",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "De los cuatro ejemplos de la cita se recogen dos; se omiten la elección de plazas en formación especializada y la acreditación de las especialidades de enfermería."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-erc-2",
+      "uso": "reserva",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "erc"
+      ],
+      "texto": "Incorporar nuevas prestaciones y nuevos fármacos a la cartera de servicios sanitarios de ámbito estatal.",
+      "cita": "Incorporar noves prestacions i fàrmacs a la cartera de serveis a nivell estatal, ja que posteriorment han de ser finançats per les comunitats autònomes",
+      "traduccion": "Incorporar nuevas prestaciones y fármacos a la cartera de servicios a nivel estatal, ya que posteriormente deben ser financiados por las comunidades autónomas.",
+      "documento": "2023-erc",
+      "pagina": 62,
+      "enlace": "https://web.archive.org/web/20230706115117id_/https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf#page=62",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-junts-1",
+      "uso": "test",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Poder ampliar el número de plazas de médico interno residente (MIR) para que el sistema público de salud de su comunidad tenga especialistas.",
+      "cita": "Poder ampliar el nombre de places MIR per poder abastir de metges especialitzats els sistema públic de salut a Catalunya.",
+      "traduccion": "Poder ampliar el número de plazas MIR para poder abastecer de médicos especialistas al sistema público de salud de Cataluña.",
+      "documento": "2023-junts",
+      "pagina": 110,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=110",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-junts-2",
+      "uso": "reserva",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "junts"
+      ],
+      "texto": "Reformar la ley de ordenación de las profesiones sanitarias para revisar las competencias profesionales e incluir nuevas profesiones, como bioingenieros o bioinformáticos.",
+      "cita": "Reformar la Llei d’Ordenació de les Professions Sanitàries (LOPS), que després de 20 anys ha quedat obsoleta: cal revisar les competències professionals (quan es va fer hi havia llicenciats i diplomats, i ara tots són graduats) i cal introduir-hi noves professions (Bioenginyers, bioinformàtics, etc...)",
+      "traduccion": "Reformar la Ley de Ordenación de las Profesiones Sanitarias (LOPS), que después de 20 años ha quedado obsoleta: hay que revisar las competencias profesionales (cuando se hizo había licenciados y diplomados, y ahora todos son graduados) e introducir nuevas profesiones (bioingenieros, bioinformáticos, etc.).",
+      "documento": "2023-junts",
+      "pagina": 110,
+      "enlace": "https://web.archive.org/web/20230719155804id_/https://img.beteve.cat/wp-content/uploads/2023/07/programa-junts-per-catalunya-eleccions-generals-2023.pdf#page=110",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite la justificación («que després de 20 anys ha quedat obsoleta»).",
+        "cifras": [
+          "20"
+        ]
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-pnv-1",
+      "uso": "test",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Cambiar el sistema de formación de médico interno residente (MIR) para ajustar las plazas y que no queden vacantes.",
+      "cita": "proponemos cambios en el MIR de manera que se adecúen las plazas y que no queden vacantes, así como facilitar los trámites de acreditación de unidades docentes.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 46,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=46",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omite la segunda medida: facilitar los trámites de acreditación de unidades docentes."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-pnv-2",
+      "uso": "reserva",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "pnv"
+      ],
+      "texto": "Impulsar la regulación del derecho al olvido oncológico: que bancos y aseguradoras no tengan el historial médico de quien ha superado un cáncer al contratar un préstamo, un seguro o un crédito.",
+      "cita": "Impulsar la regulación del derecho al olvido oncológico para garantizar a las personas que han superado un cáncer que las entidades ﬁnancieras y aseguradoras no tengan su historial médico a la hora de contratar un préstamo, un seguro o un crédito.",
+      "traduccion": null,
+      "documento": "2023-pnv",
+      "pagina": 17,
+      "enlace": "https://web.archive.org/web/20230726060016id_/https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j#page=17",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-bildu-1",
+      "uso": "test",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Ampliar y asegurar la adjudicación de plazas de médico interno residente (MIR) para cubrir todas las necesarias y reforzar en especial la atención primaria.",
+      "cita": "Ampliar y asegurar la adjudicación de plazas MIR para poder ocupar todas las plazas necesarias y reforzar especialmente la Atención Primaria.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 6,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=6",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-bildu-2",
+      "uso": "reserva",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "bildu"
+      ],
+      "texto": "Derogar la Ley 15/1997 de gestión del sistema de salud, que permite privatizar y externalizar los servicios sanitarios.",
+      "cita": "Derogar la Ley 15/1997 de Gestión del Sistema de Salud aprobada por el PP, que permite la privatización y externalización de los servicios sanitarios.",
+      "traduccion": null,
+      "documento": "2023-bildu",
+      "pagina": 6,
+      "enlace": "https://web.archive.org/web/20230727191629id_/https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf#page=6",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-bng-1",
+      "uso": "test",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Aumentar la financiación de la sanidad pública hasta, como mínimo, la media de inversión por habitante de la Unión Europea.",
+      "cita": "Aumentar o financiamento da sanidade pública, até como mínimo a media de investimento por habitante da UE, co incremento do valor dos parámetros de dispersión e envellecemento da poboación, asegurando maior racionalidade no gasto farmacéutico e garantindo a participación galega na fixación do prezo dos medicamentos.",
+      "traduccion": "Aumentar la financiación de la sanidad pública hasta, como mínimo, la media de inversión por habitante de la UE, con el incremento del valor de los parámetros de dispersión y envejecimiento de la población, asegurando mayor racionalidad en el gasto farmacéutico y garantizando la participación gallega en la fijación del precio de los medicamentos.",
+      "documento": "2023-bng",
+      "pagina": 35,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=35",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Se omiten las demás medidas de la cita: más peso de la dispersión y el envejecimiento, racionalizar el gasto farmacéutico y la participación gallega en el precio de los medicamentos."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-bng-2",
+      "uso": "reserva",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "bng"
+      ],
+      "texto": "Modificar la ley sobre lo que pagan los usuarios de la sanidad pública por sus medicamentos para acabar con los copagos y repagos.",
+      "cita": "Modificar o marco legal actual que regula a participación económica das usuarias/os da sanidade pública no financiamento da prestación farmacéutica para pór fin ao modelo actual de copagamentos e repagamentos que se revela como un imposto á enfermidade.",
+      "traduccion": "Modificar el marco legal actual que regula la participación económica de los usuarios de la sanidad pública en la financiación de la prestación farmacéutica para poner fin al modelo actual de copagos y repagos, que se revela como un impuesto a la enfermedad.",
+      "documento": "2023-bng",
+      "pagina": 36,
+      "enlace": "https://web.archive.org/web/20230726164423id_/https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf#page=36",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-cc-1",
+      "uso": "test",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "cc"
+      ],
+      "texto": "Pedir que el Gobierno del Estado aumente la partida que transfiere a su comunidad autónoma para la atención a la salud mental.",
+      "cita": "Y reivindicaremos que el Gobierno del Estado aumente la partida que transfiere a Canarias para seguir impulsando la atención a la salud mental.",
+      "traduccion": null,
+      "documento": "2023-cc",
+      "pagina": 8,
+      "enlace": "https://web.archive.org/web/20231210072530id_/https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf#page=8",
+      "verificacion": "exacta",
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    },
+    {
+      "id": "t2023-sanidad-cc-2",
+      "uso": "reserva",
+      "tema": "sanidad",
+      "fueraDeEje": true,
+      "partidos": [
+        "cc"
+      ],
+      "texto": "Defender un nuevo modelo de financiación sanitaria. La obligación constitucional del Estado de financiar la sanidad sería más transparente y específica, sin diluirse en la financiación autonómica.",
+      "cita": "Y defenderemos un nuevo modelo de financiación en el que la obligación constitucional de financiación sanitaria por parte de Estado sea más transparente, específica y no diluida en la financiación autonómica.",
+      "traduccion": null,
+      "documento": "2023-cc",
+      "pagina": 8,
+      "enlace": "https://web.archive.org/web/20231210072530id_/https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf#page=8",
+      "verificacion": "exacta",
+      "omitido": {
+        "nota": "Sustituye a la reserva anterior, que juntaba una medida educativa (detectar antes al alumnado vulnerable) y otra sanitaria (más profesionales de salud mental) que sola no llega a 15 palabras."
+      },
+      "revision": {
+        "estado": "borrador",
+        "revisor1": null,
+        "revisor2": null,
+        "notas": ""
+      }
+    }
+  ]
+}

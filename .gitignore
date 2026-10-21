@@ -7,3 +7,6 @@ node_modules/
 
 # Se genera con node scripts/construir.mjs (en local y en GitHub Actions)
 public/
+
+# Texto extraído de los PDF del banco: se regenera con scripts/banco/extraer-texto.mjs
+datos/banco/textos/
