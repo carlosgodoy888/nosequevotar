@@ -13,6 +13,7 @@ import { fileURLToPath } from 'node:url';
 import { base } from '../src/plantillas/base.mjs';
 import { hoyMadrid } from '../src/plantillas/util.mjs';
 import * as paginas from '../src/plantillas/paginas.mjs';
+import { validarBanco, bancoPublico } from '../src/plantillas/juegos.mjs';
 
 const RAIZ = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SRC = join(RAIZ, 'src');
@@ -48,6 +49,24 @@ async function cargarPaginas() {
   return Promise.all(archivos.map(a => leerJson(join(dir, a))));
 }
 
+// Test sin siglas: el banco aprobado del año, sus partidos y las circunscripciones.
+// Si el banco no pasa la validación, la construcción se para con la lista de errores.
+const ANIO_TEST = 2023;
+
+async function cargarJuego() {
+  const dir = join(SRC, 'contenido', 'juegos');
+  const banco = await leerJson(join(dir, `banco-${ANIO_TEST}.json`));
+  const partidos = await leerJson(join(dir, `partidos-${ANIO_TEST}.json`));
+  const circunscripciones = await leerJson(join(SRC, 'contenido', 'circunscripciones.json'));
+  const errores = validarBanco(banco, partidos, `banco-${ANIO_TEST}.json`);
+  if (errores.length) throw new Error(`El banco del test no es válido:\n  · ${errores.join('\n  · ')}`);
+  const modulos = {};
+  for (const a of (await readdir(join(SRC, 'js', 'juegos'))).filter(a => a.endsWith('.mjs')).sort()) {
+    modulos[a.replace(/\.mjs$/, '.js')] = await readFile(join(SRC, 'js', 'juegos', a), 'utf8');
+  }
+  return { anio: ANIO_TEST, banco: bancoPublico(banco), partidos, circunscripciones, modulos };
+}
+
 async function escribir(ruta, contenido) {
   const destino = join(PUBLIC, ruta.endsWith('/') ? ruta + 'index.html' : ruta);
   await mkdir(dirname(destino), { recursive: true });
@@ -76,21 +95,35 @@ async function construir() {
 
   const css = await readFile(join(SRC, 'estilos', 'sitio.css'), 'utf8');
   const js = await readFile(join(SRC, 'js', 'sitio.js'), 'utf8');
-  sitio.version = createHash('sha256').update(css + js).digest('hex').slice(0, 8);
+  const cssTest = await readFile(join(SRC, 'estilos', 'test.css'), 'utf8');
+  const juego = await cargarJuego();
+  const datosJuego = JSON.stringify([juego.banco, juego.partidos, juego.circunscripciones]);
+  sitio.version = createHash('sha256').update(css + js + cssTest + Object.values(juego.modulos).join('') + datosJuego).digest('hex').slice(0, 8);
 
-  const ctx = { sitio, fechas, guias, hoy };
+  const ctx = { sitio, fechas, guias, hoy, juego };
 
   await rm(PUBLIC, { recursive: true, force: true });
   await mkdir(PUBLIC, { recursive: true });
   await cp(join(SRC, 'estatico'), PUBLIC, { recursive: true });
   await writeFile(join(PUBLIC, 'estilo.css'), css);
   await writeFile(join(PUBLIC, 'sitio.js'), js);
+  await writeFile(join(PUBLIC, 'test.css'), cssTest);
+  // Los módulos se sirven como .js (tipo MIME seguro) y se importan con la versión, para no mezclar cachés.
+  await mkdir(join(PUBLIC, 'juegos'), { recursive: true });
+  for (const [nombre, codigo] of Object.entries(juego.modulos)) {
+    await writeFile(join(PUBLIC, 'juegos', nombre), codigo.replace(/from '\.\/([\w-]+)\.mjs'/g, `from './$1.js?v=${sitio.version}'`));
+  }
+  await mkdir(join(PUBLIC, 'test'), { recursive: true });
+  await writeFile(join(PUBLIC, 'test', `banco-${juego.anio}.json`), JSON.stringify(juego.banco));
+  await writeFile(join(PUBLIC, 'test', `partidos-${juego.anio}.json`), JSON.stringify(juego.partidos));
+  await writeFile(join(PUBLIC, 'test', 'circunscripciones.json'), JSON.stringify(juego.circunscripciones));
 
   const generadas = [
     paginas.portada(ctx),
     paginas.indiceGuias(ctx),
     ...guias.map(g => paginas.guia(g, ctx)),
     paginas.calendario(ctx),
+    paginas.test(ctx),
     ...textos.map(p => paginas.texto(p, ctx)),
     ...sitio.pronto.map(p => paginas.pronto(p, ctx)),
     paginas.error404(ctx),

@@ -1,0 +1,12 @@
+[
+  { "id": "pp", "nombre": "PP", "ambito": "estatal" },
+  { "id": "psoe", "nombre": "PSOE", "ambito": "estatal" },
+  { "id": "vox", "nombre": "Vox", "ambito": "estatal" },
+  { "id": "sumar", "nombre": "Sumar (2023)", "ambito": "estatal" },
+  { "id": "erc", "nombre": "ERC", "ambito": ["barcelona", "girona", "lleida", "tarragona"] },
+  { "id": "junts", "nombre": "Junts", "ambito": ["barcelona", "girona", "lleida", "tarragona"] },
+  { "id": "pnv", "nombre": "PNV", "ambito": ["alava", "bizkaia", "gipuzkoa"] },
+  { "id": "bildu", "nombre": "EH Bildu", "ambito": ["alava", "bizkaia", "gipuzkoa", "navarra"] },
+  { "id": "bng", "nombre": "BNG", "ambito": ["a-coruna", "lugo", "ourense", "pontevedra"] },
+  { "id": "cc", "nombre": "Coalición Canaria", "ambito": ["las-palmas", "santa-cruz-de-tenerife"] }
+]

@@ -173,11 +173,15 @@ ${cuentaAtras(ctx)}
 </div>
 </div>
 <div class="ejemplo" aria-labelledby="ejemplo-rotulo">
-<p class="ejemplo__rotulo" id="ejemplo-rotulo">Así funciona el test. Pruébalo con un ejemplo; el partido es inventado.</p>
+<p class="ejemplo__rotulo" id="ejemplo-rotulo">Así es una papeleta del test. Pruébala con un ejemplo; el partido es inventado.</p>
 <article class="tarjeta" id="tarjeta">
 <div class="tarjeta__cabeza"><span class="tarjeta__letra">B</span><span class="tarjeta__estado" id="estado" aria-live="polite"></span></div>
 <p class="tarjeta__texto">Construir 200.000 viviendas públicas de alquiler en diez años sobre suelo del Estado.</p>
-<button type="button" class="boton-casilla" id="convence" aria-pressed="false"><span class="casilla" aria-hidden="true"></span>Me convence</button>
+<div class="demo-decision" role="group" aria-label="Tu decisión">
+<button type="button" class="boton-casilla" data-demo="no" aria-pressed="false"><span class="casilla" aria-hidden="true"></span>No me convence</button>
+<button type="button" class="boton-casilla" data-demo="si" aria-pressed="false"><span class="casilla" aria-hidden="true"></span>Me convence</button>
+<button type="button" class="boton-casilla demo-decision__paso" data-demo="paso" aria-pressed="false"><span class="casilla" aria-hidden="true"></span>Paso, no lo tengo claro</button>
+</div>
 <div class="firma">
 <span class="firma__rotulo">La firmaba el</span>
 <span class="franja" id="franja"><span class="franja__nombre" id="partido" aria-hidden="true">Partido Norte</span><span class="franja__tapa" aria-hidden="true"></span></span>
@@ -186,6 +190,7 @@ ${cuentaAtras(ctx)}
 </article>
 <button type="button" class="boton" id="revelar">Revelar quién la firmaba</button>
 <p class="solo-lector" id="anuncio" aria-live="polite"></p>
+<p class="mas"><a href="/test/" data-evento="clic_hacer_test">Haz el test completo: 3 o 6 temas</a></p>
 </div>
 </section>
 
@@ -210,9 +215,9 @@ ${tablaFechas(proximas, ctx, { titulo: 'Próximas fechas' })}
 <div class="envoltorio">
 <h2 id="como">Cómo funciona el test</h2>
 <ol class="pasos pasos--fila">
-<li class="paso"><span class="paso__numero" aria-hidden="true">1</span><div><h3>Lees sin nombres</h3><p>Ocho temas. En cada uno, varias propuestas de partidos distintos, sin logotipos ni colores.</p></div></li>
-<li class="paso"><span class="paso__numero" aria-hidden="true">2</span><div><h3>Eliges</h3><p>Marcas la que te convence. Si ninguna te convence, también lo puedes decir.</p></div></li>
-<li class="paso"><span class="paso__numero" aria-hidden="true">3</span><div><h3>Descubres quién era</h3><p>Te enseñamos quién firmaba cada propuesta, con la frase exacta del programa y su página.</p></div></li>
+<li class="paso"><span class="paso__numero" aria-hidden="true">1</span><div><h3>Lees sin nombres</h3><p>Tres o seis temas. En cada uno, propuestas reales de partidos distintos, una a una, sin logotipos ni colores.</p></div></li>
+<li class="paso"><span class="paso__numero" aria-hidden="true">2</span><div><h3>Decides</h3><p>Ante cada propuesta eliges «Me convence», «No me convence» o «Paso», si no lo tienes claro.</p></div></li>
+<li class="paso"><span class="paso__numero" aria-hidden="true">3</span><div><h3>Descubres quién era</h3><p>Ves con qué programa coincides más y quién firmaba cada propuesta, con la frase exacta del programa y su página.</p></div></li>
 </ol>
 <p class="mas"><a class="boton" href="/test/" data-evento="clic_hacer_test">Haz el test sin siglas</a></p>
 </div>
@@ -239,6 +244,47 @@ ${tablaFechas(proximas, ctx, { titulo: 'Próximas fechas' })}
 <a class="boton" href="mailto:${ctx.sitio.correo}">${ctx.sitio.correo}</a>
 </div>
 </section>`,
+  };
+}
+
+// Test sin siglas. El HTML trae la entrada y el aviso sin JavaScript; test.mjs pinta el recorrido.
+// El banco es un parámetro de la página (data-banco), para pasar a 2026 sin tocar el código.
+export function test(ctx) {
+  const ruta = '/test/';
+  const v = ctx.sitio.version;
+  const j = ctx.juego;
+  return {
+    ruta,
+    titulo: '¿Con qué programa de 2023 coincides? Test sin siglas',
+    descripcion: 'Lee propuestas reales de los programas de 2023 sin saber de qué partido son y descubre con qué programa coincides más. Sin registro y sin salir de tu móvil.',
+    miga: [INICIO, { texto: 'Test', ruta }],
+    csp: true,
+    sinMedicion: true,
+    estilos: ['/test.css'],
+    modulos: ['/juegos/test.js'],
+    pieNota: 'Las citas pertenecen a los programas electorales de cada partido. Selección y textos neutros: No sé qué votar.',
+    contenido: `<div class="envoltorio juego" id="juego" data-anio="${j.anio}" data-banco="/test/banco-${j.anio}.json?v=${v}" data-partidos="/test/partidos-${j.anio}.json?v=${v}" data-circunscripciones="/test/circunscripciones.json?v=${v}">
+<div class="juego__pantalla" id="pantalla">
+<div class="juego__entrada">
+<h1>¿Con qué programa de ${j.anio} coincides?</h1>
+<p class="entradilla">Lee propuestas reales una a una, sin saber de qué partido son, y di si te convencen. Al final verás con qué programa coincides más y quién firmaba cada propuesta.</p>
+<p class="juego__aviso"><span class="casilla casilla--pequena" aria-hidden="true"></span>Con los programas de ${j.anio}. Lo actualizaremos con los de 2026.</p>
+<noscript><p class="juego__noscript">El test necesita JavaScript para funcionar: actívalo en tu navegador y vuelve a cargar la página. Nada sale de tu móvil: las respuestas se calculan en tu navegador y no se envían a ningún sitio.</p></noscript>
+<ul class="garantias juego__garantias">
+<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Sin registro.</strong> No te pedimos nada.</span></li>
+<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Nada sale de tu móvil.</strong> El resultado se calcula aquí y se borra al cerrar la pestaña.</span></li>
+<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Cada propuesta, con su página.</strong> Al final ves la frase del programa y puedes abrirlo en esa página.</span></li>
+</ul>
+<p class="mas"><a href="/metodo/">Cómo hemos elegido y escrito las propuestas</a></p>
+</div>
+</div>
+<p class="solo-lector" id="anuncio" aria-live="polite"></p>
+<div class="definicion" id="definicion" role="dialog" aria-modal="false" aria-labelledby="definicion-termino" hidden>
+<p class="definicion__termino" id="definicion-termino"></p>
+<p class="definicion__texto" id="definicion-texto"></p>
+<button type="button" class="definicion__cerrar">Cerrar</button>
+</div>
+</div>`,
   };
 }
 
