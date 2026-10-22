@@ -2,7 +2,11 @@
 import { esc } from './util.mjs';
 import { cabecera, pie } from './parciales.mjs';
 
-// pagina: { ruta, titulo, descripcion, contenido, miga?, indexar?, canonico? }
+// pagina: { ruta, titulo, descripcion, contenido, miga?, indexar?, canonico?, csp?, sinMedicion?, estilos?, modulos?, pieNota? }
+// - csp: meta Content-Security-Policy con default-src 'self' (los juegos no cargan nada de otros dominios).
+// - sinMedicion: <body data-sin-medicion>; registrarEvento() no hace nada en esa página.
+// - estilos y modulos: hojas de estilo y módulos JavaScript propios de la página.
+// - pieNota: una línea más en el pie.
 // miga: [{ texto, ruta }] desde Inicio hasta la página actual (incluida).
 export function base(sitio, pagina) {
   const url = sitio.url + pagina.ruta;
@@ -14,7 +18,7 @@ export function base(sitio, pagina) {
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+${pagina.csp ? `<meta http-equiv="Content-Security-Policy" content="default-src 'self'">\n` : ''}<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(tituloCompleto)}</title>
 <meta name="description" content="${esc(pagina.descripcion)}">
 ${canonico ? `<link rel="canonical" href="${url}">\n` : ''}${indexar ? '' : '<meta name="robots" content="noindex">\n'}<meta property="og:type" content="website">
@@ -29,15 +33,15 @@ ${indexar ? imagenCompartir(sitio) : ''}<meta name="theme-color" content="#EFE3C
 <link rel="preload" href="/fuentes/archivo.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/fuentes/source-serif-4.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/estilo.css?v=${sitio.version}">
-${indexar && pagina.miga ? migaEstructurada(sitio, pagina.miga) : ''}<script src="/sitio.js?v=${sitio.version}" defer></script>
-</head>
-<body>
+${(pagina.estilos || []).map(e => `<link rel="stylesheet" href="${e}?v=${sitio.version}">\n`).join('')}${indexar && pagina.miga ? migaEstructurada(sitio, pagina.miga) : ''}<script src="/sitio.js?v=${sitio.version}" defer></script>
+${(pagina.modulos || []).map(m => `<script type="module" src="${m}?v=${sitio.version}"></script>\n`).join('')}</head>
+<body${pagina.sinMedicion ? ' data-sin-medicion' : ''}>
 <a class="saltar" href="#contenido">Saltar al contenido</a>
 ${cabecera(sitio, pagina.ruta)}
 <main id="contenido" tabindex="-1">
 ${pagina.contenido}
 </main>
-${pie(sitio)}
+${pie(sitio, pagina.pieNota)}
 </body>
 </html>
 `;

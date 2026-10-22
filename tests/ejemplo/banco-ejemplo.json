@@ -1,0 +1,281 @@
+{
+  "anio": 2023,
+  "temas": [
+    {
+      "id": "vivienda",
+      "nombre": "Vivienda",
+      "orden": 1,
+      "corto": true
+    },
+    {
+      "id": "empleo",
+      "nombre": "Empleo",
+      "orden": 2,
+      "corto": true
+    },
+    {
+      "id": "sanidad",
+      "nombre": "Sanidad",
+      "orden": 3,
+      "corto": true
+    },
+    {
+      "id": "pensiones",
+      "nombre": "Pensiones",
+      "orden": 4,
+      "corto": false
+    }
+  ],
+  "documentos": [
+    {
+      "id": "ejemplo-norte",
+      "partido": "norte",
+      "titulo": "Programa de ejemplo norte",
+      "url": "https://example.org/norte.pdf"
+    },
+    {
+      "id": "ejemplo-sur",
+      "partido": "sur",
+      "titulo": "Programa de ejemplo sur",
+      "url": "https://example.org/sur.pdf"
+    },
+    {
+      "id": "ejemplo-este",
+      "partido": "este",
+      "titulo": "Programa de ejemplo este",
+      "url": "https://example.org/este.pdf"
+    },
+    {
+      "id": "ejemplo-oeste",
+      "partido": "oeste",
+      "titulo": "Programa de ejemplo oeste",
+      "url": "https://example.org/oeste.pdf"
+    }
+  ],
+  "tarjetas": [
+    {
+      "id": "e-vivienda-norte",
+      "uso": "test",
+      "tema": "vivienda",
+      "partidos": [
+        "norte"
+      ],
+      "texto": "Construir viviendas públicas de alquiler en suelo del Estado durante diez años. (Propuesta del ejemplo, norte.)",
+      "cita": "Cita de ejemplo del partido norte sobre vivienda.",
+      "traduccion": null,
+      "documento": "ejemplo-norte",
+      "pagina": 3,
+      "enlace": "https://example.org/norte.pdf#page=3"
+    },
+    {
+      "id": "e-vivienda-sur",
+      "uso": "test",
+      "tema": "vivienda",
+      "partidos": [
+        "sur"
+      ],
+      "texto": "Construir viviendas públicas de alquiler en suelo del Estado durante diez años. (Propuesta del ejemplo, sur.)",
+      "cita": "Cita de ejemplo del partido sur sobre vivienda.",
+      "traduccion": null,
+      "documento": "ejemplo-sur",
+      "pagina": 3,
+      "enlace": "https://example.org/sur.pdf#page=3"
+    },
+    {
+      "id": "e-vivienda-este",
+      "uso": "test",
+      "tema": "vivienda",
+      "partidos": [
+        "este"
+      ],
+      "texto": "Construir viviendas públicas de alquiler en suelo del Estado durante diez años. (Propuesta del ejemplo, este.)",
+      "cita": "Cita de ejemplo del partido este sobre vivienda.",
+      "traduccion": "Traducción de ejemplo.",
+      "documento": "ejemplo-este",
+      "pagina": 3,
+      "enlace": "https://example.org/este.pdf#page=3"
+    },
+    {
+      "id": "e-vivienda-oeste",
+      "uso": "test",
+      "tema": "vivienda",
+      "partidos": [
+        "oeste"
+      ],
+      "texto": "Construir viviendas públicas de alquiler en suelo del Estado durante diez años. (Propuesta del ejemplo, oeste.)",
+      "cita": "Cita de ejemplo del partido oeste sobre vivienda.",
+      "traduccion": null,
+      "documento": "ejemplo-oeste",
+      "pagina": 3,
+      "enlace": "https://example.org/oeste.pdf#page=3"
+    },
+    {
+      "id": "e-empleo-norte",
+      "uso": "test",
+      "tema": "empleo",
+      "partidos": [
+        "norte"
+      ],
+      "texto": "Subir el salario mínimo interprofesional (SMI) hasta el 60 % del salario medio. (Propuesta del ejemplo, norte.)",
+      "cita": "Cita de ejemplo del partido norte sobre empleo.",
+      "traduccion": null,
+      "documento": "ejemplo-norte",
+      "pagina": 3,
+      "enlace": "https://example.org/norte.pdf#page=3"
+    },
+    {
+      "id": "e-empleo-sur",
+      "uso": "test",
+      "tema": "empleo",
+      "partidos": [
+        "sur"
+      ],
+      "texto": "Subir el salario mínimo interprofesional (SMI) hasta el 60 % del salario medio. (Propuesta del ejemplo, sur.)",
+      "cita": "Cita de ejemplo del partido sur sobre empleo.",
+      "traduccion": null,
+      "documento": "ejemplo-sur",
+      "pagina": 3,
+      "enlace": "https://example.org/sur.pdf#page=3"
+    },
+    {
+      "id": "e-empleo-este",
+      "uso": "test",
+      "tema": "empleo",
+      "partidos": [
+        "este"
+      ],
+      "texto": "Subir el salario mínimo interprofesional (SMI) hasta el 60 % del salario medio. (Propuesta del ejemplo, este.)",
+      "cita": "Cita de ejemplo del partido este sobre empleo.",
+      "traduccion": "Traducción de ejemplo.",
+      "documento": "ejemplo-este",
+      "pagina": 3,
+      "enlace": "https://example.org/este.pdf#page=3"
+    },
+    {
+      "id": "e-empleo-oeste",
+      "uso": "test",
+      "tema": "empleo",
+      "partidos": [
+        "oeste"
+      ],
+      "texto": "Subir el salario mínimo interprofesional (SMI) hasta el 60 % del salario medio. (Propuesta del ejemplo, oeste.)",
+      "cita": "Cita de ejemplo del partido oeste sobre empleo.",
+      "traduccion": null,
+      "documento": "ejemplo-oeste",
+      "pagina": 3,
+      "enlace": "https://example.org/oeste.pdf#page=3"
+    },
+    {
+      "id": "e-sanidad-norte",
+      "uso": "test",
+      "tema": "sanidad",
+      "partidos": [
+        "norte"
+      ],
+      "texto": "Fijar por ley tiempos máximos de espera en la sanidad pública para operar. (Propuesta del ejemplo, norte.)",
+      "cita": "Cita de ejemplo del partido norte sobre sanidad.",
+      "traduccion": null,
+      "documento": "ejemplo-norte",
+      "pagina": 3,
+      "enlace": "https://example.org/norte.pdf#page=3"
+    },
+    {
+      "id": "e-sanidad-sur",
+      "uso": "test",
+      "tema": "sanidad",
+      "partidos": [
+        "sur"
+      ],
+      "texto": "Fijar por ley tiempos máximos de espera en la sanidad pública para operar. (Propuesta del ejemplo, sur.)",
+      "cita": "Cita de ejemplo del partido sur sobre sanidad.",
+      "traduccion": null,
+      "documento": "ejemplo-sur",
+      "pagina": 3,
+      "enlace": "https://example.org/sur.pdf#page=3"
+    },
+    {
+      "id": "e-sanidad-este",
+      "uso": "test",
+      "tema": "sanidad",
+      "partidos": [
+        "este"
+      ],
+      "texto": "Fijar por ley tiempos máximos de espera en la sanidad pública para operar. (Propuesta del ejemplo, este.)",
+      "cita": "Cita de ejemplo del partido este sobre sanidad.",
+      "traduccion": "Traducción de ejemplo.",
+      "documento": "ejemplo-este",
+      "pagina": 3,
+      "enlace": "https://example.org/este.pdf#page=3"
+    },
+    {
+      "id": "e-pensiones-norte",
+      "uso": "test",
+      "tema": "pensiones",
+      "partidos": [
+        "norte"
+      ],
+      "texto": "Revalorizar las pensiones según el índice de precios de consumo (IPC) cada año. (Propuesta del ejemplo, norte.)",
+      "cita": "Cita de ejemplo del partido norte sobre pensiones.",
+      "traduccion": null,
+      "documento": "ejemplo-norte",
+      "pagina": 3,
+      "enlace": "https://example.org/norte.pdf#page=3"
+    },
+    {
+      "id": "e-pensiones-sur",
+      "uso": "test",
+      "tema": "pensiones",
+      "partidos": [
+        "sur"
+      ],
+      "texto": "Revalorizar las pensiones según el índice de precios de consumo (IPC) cada año. (Propuesta del ejemplo, sur.)",
+      "cita": "Cita de ejemplo del partido sur sobre pensiones.",
+      "traduccion": null,
+      "documento": "ejemplo-sur",
+      "pagina": 3,
+      "enlace": "https://example.org/sur.pdf#page=3"
+    },
+    {
+      "id": "e-pensiones-este",
+      "uso": "test",
+      "tema": "pensiones",
+      "partidos": [
+        "este"
+      ],
+      "texto": "Revalorizar las pensiones según el índice de precios de consumo (IPC) cada año. (Propuesta del ejemplo, este.)",
+      "cita": "Cita de ejemplo del partido este sobre pensiones.",
+      "traduccion": "Traducción de ejemplo.",
+      "documento": "ejemplo-este",
+      "pagina": 3,
+      "enlace": "https://example.org/este.pdf#page=3"
+    },
+    {
+      "id": "e-pensiones-oeste",
+      "uso": "test",
+      "tema": "pensiones",
+      "partidos": [
+        "oeste"
+      ],
+      "texto": "Revalorizar las pensiones según el índice de precios de consumo (IPC) cada año. (Propuesta del ejemplo, oeste.)",
+      "cita": "Cita de ejemplo del partido oeste sobre pensiones.",
+      "traduccion": null,
+      "documento": "ejemplo-oeste",
+      "pagina": 3,
+      "enlace": "https://example.org/oeste.pdf#page=3"
+    }
+  ],
+  "glosario": [
+    {
+      "id": "smi",
+      "termino": "Salario mínimo interprofesional (SMI)",
+      "variantes": [
+        "salario mínimo interprofesional"
+      ],
+      "definicion": "El sueldo más bajo que se puede pagar por ley.",
+      "tarjetas": [
+        "e-empleo-norte",
+        "e-empleo-sur"
+      ]
+    }
+  ]
+}

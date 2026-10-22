@@ -20,6 +20,24 @@ FECHA_HOY=2026-10-20 node scripts/construir.mjs
 
 Antes de subir nada, vuelve a construir sin `FECHA_HOY`.
 
+## Cómo se comprueba
+
+Después de construir:
+
+```sh
+node --test "tests/*.test.mjs"     # motor del test, validación del banco y simulación en las 52 circunscripciones
+node scripts/comprobar.mjs         # todas las páginas: HTML cerrado, un h1, lang, title, description y canónico únicos, enlaces internos, nada de otros dominios
+node scripts/comprobar-test.mjs    # /test/: CSP en meta, data-sin-medicion, nada en línea y nada de otros dominios
+```
+
+Para ver la web en local:
+
+```sh
+python3 -m http.server 8787 -d public
+```
+
+y abre http://localhost:8787/. Para abrirla desde el móvil en la misma wifi, sirve con `--bind 0.0.0.0` y abre en el móvil `http://<IP del ordenador>:8787/` (en un Mac, la IP sale con `ipconfig getifaddr en0`). Sin https, el móvil no deja compartir la imagen ni copiar al portapapeles: el test la descarga y selecciona el texto.
+
 ## Dónde se cambia cada cosa
 
 | Qué | Archivo |
@@ -31,6 +49,11 @@ Antes de subir nada, vuelve a construir sin `FECHA_HOY`.
 | Cabecera, pie y estructura de las páginas | `src/plantillas/` |
 | Estilos | `src/estilos/sitio.css` |
 | JavaScript (menú, fechas y medición) | `src/js/sitio.js` |
+| Test sin siglas: banco aprobado y partidos del año | `src/contenido/juegos/banco-2023.json`, `src/contenido/juegos/partidos-2023.json` |
+| Las 52 circunscripciones y sus otros nombres (para el buscador) | `src/contenido/circunscripciones.json` |
+| Página del test | `test()` en `src/plantillas/paginas.mjs` |
+| Recorrido del test, recuento, glosario e imagen para compartir | `src/js/juegos/` y `src/estilos/test.css` |
+| Validación del banco al construir | `src/plantillas/juegos.mjs` |
 | Archivos que se copian tal cual (tipografías, `_headers`, favicon, imagen para compartir) | `src/estatico/` |
 | Diseño de la imagen para compartir y del icono | `src/imagenes/og.html` |
 
@@ -61,3 +84,13 @@ Antes de subir nada, vuelve a construir sin `FECHA_HOY`.
 - `fuentes` (opcional): lista de `texto` y `url` con la norma que fija la fecha. Se muestra debajo de la fecha.
 
 Las páginas de texto (`src/contenido/paginas/`) llevan `ruta`, `titulo`, `tituloSeo`, `descripcion`, `entradilla`, `secciones` (como las guías), `actualizado` y, si hace falta, `pendiente`.
+
+### El test sin siglas
+
+- El banco aprobado no se toca a mano: sale de `datos/banco/` con `scripts/banco/`. Al construir se valida (campos, un solo partido por tarjeta, enlaces con `#page=`, partidos que existen y glosario que enlaza tarjetas que existen) y, si falla, la construcción se para con la lista de errores.
+- Al navegador solo llega `public/test/banco-2023.json`, con temas, documentos, tarjetas y glosario. No lleva la revisión ni la aprobación.
+- Los módulos de `src/js/juegos/*.mjs` se publican como `public/juegos/*.js` con la versión en los `import`, para que el navegador no mezcle versiones.
+- `partidos-<año>.json`: `id`, `nombre` visible y `ambito` (`"estatal"` o la lista de circunscripciones donde se presentaba).
+- Para pasar a 2026, la página toma el año y los archivos de `data-anio`, `data-banco` y `data-partidos`; en `scripts/construir.mjs` se cambia `ANIO_TEST`.
+- El cálculo está en `src/js/juegos/motor.mjs` (funciones puras, probadas en `tests/motor.test.mjs` con el banco de ejemplo de `tests/ejemplo/`). La regla se explica en /metodo/.
+

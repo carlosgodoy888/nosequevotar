@@ -1,0 +1,22 @@
+[
+  {
+    "id": "norte",
+    "nombre": "Partido Norte",
+    "ambito": "estatal"
+  },
+  {
+    "id": "sur",
+    "nombre": "Partido Sur",
+    "ambito": "estatal"
+  },
+  {
+    "id": "este",
+    "nombre": "Partido Este",
+    "ambito": "estatal"
+  },
+  {
+    "id": "oeste",
+    "nombre": "Partido Oeste",
+    "ambito": "estatal"
+  }
+]

@@ -29,7 +29,8 @@ ${enlaces}
 </header>`;
 }
 
-export function pie(sitio) {
+// nota: una línea más en el pie de esa página (por ejemplo, la de las citas en /test/).
+export function pie(sitio, nota) {
   const secciones = sitio.menu.filter(m => !sitio.pie.some(p => p.ruta === m.ruta));
   const lista = (items) => items.map(m => `<li>${enlaceMenu(sitio, '', m, 'pie__enlace')}</li>`).join('\n');
   return `<footer class="pie">
@@ -41,7 +42,7 @@ ${lista(secciones)}
 ${lista(sitio.pie)}
 </ul></nav>
 <p class="pie__contacto">Contacto: <a class="pie__enlace" href="mailto:${sitio.correo}">${sitio.correo}</a></p>
-<p class="pie__lema"><span class="casilla casilla--pequena marcada" aria-hidden="true"></span>Proyecto independiente, sin vinculación con ningún partido.</p>
+${nota ? `<p class="pie__nota">${esc(nota)}</p>\n` : ''}<p class="pie__lema"><span class="casilla casilla--pequena marcada" aria-hidden="true"></span>Proyecto independiente, sin vinculación con ningún partido.</p>
 </div>
 </footer>`;
 }

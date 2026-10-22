@@ -17,6 +17,8 @@
    * @param {Object} [datos] Contexto: pagina (ruta actual) y destino (enlace pulsado).
    */
   function registrarEvento(nombre, datos) {
+    // En las páginas con data-sin-medicion (el test) no se registra nunca nada.
+    if (document.body && document.body.hasAttribute('data-sin-medicion')) return;
     // Desactivado a propósito.
   }
   window.registrarEvento = registrarEvento;
@@ -185,19 +187,26 @@
   // Tarjeta de ejemplo de la portada.
   var tarjeta = document.getElementById('tarjeta');
   if (tarjeta) {
-    var convence = document.getElementById('convence');
     var estado = document.getElementById('estado');
     var franja = document.getElementById('franja');
     var partido = document.getElementById('partido');
     var revelar = document.getElementById('revelar');
     var anuncio = document.getElementById('anuncio');
+    var decisiones = Array.prototype.slice.call(tarjeta.querySelectorAll('[data-demo]'));
+    var ROTULOS_DEMO = { si: 'En el sobre', no: 'Apartada', paso: 'Sin decidir' };
 
-    convence.addEventListener('click', function () {
-      var marcada = convence.getAttribute('aria-pressed') !== 'true';
-      convence.setAttribute('aria-pressed', String(marcada));
-      convence.querySelector('.casilla').classList.toggle('marcada', marcada);
-      tarjeta.classList.toggle('elegida', marcada);
-      estado.textContent = marcada ? 'Elegida' : '';
+    // Tres botones con el mismo peso: se marca uno (casilla con aspa) y se puede desmarcar.
+    decisiones.forEach(function (boton) {
+      boton.addEventListener('click', function () {
+        var marcada = boton.getAttribute('aria-pressed') !== 'true';
+        decisiones.forEach(function (b) {
+          var esta = marcada && b === boton;
+          b.setAttribute('aria-pressed', String(esta));
+          b.querySelector('.casilla').classList.toggle('marcada', esta);
+        });
+        tarjeta.classList.toggle('elegida', marcada);
+        estado.textContent = marcada ? ROTULOS_DEMO[boton.getAttribute('data-demo')] : '';
+      });
     });
 
     revelar.addEventListener('click', function () {

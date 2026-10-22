@@ -193,6 +193,9 @@ h3 { font: 800 20px/1.25 var(--sans); }
 .tarjeta__letra { font: 800 22px/1 var(--sans); }
 .tarjeta__estado { font: 500 14px/1 var(--sans); color: var(--gris); }
 .tarjeta__texto { font: 400 18px/1.4 var(--serif); text-wrap: pretty; }
+.demo-decision { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.demo-decision__paso { grid-column: 1 / -1; }
+.boton-casilla[aria-pressed="true"] { border: 2px solid var(--tinta); padding: 0 11px; }
 .boton-casilla { min-height: 44px; display: flex; align-items: center; gap: 10px; background: var(--papel); border: 1px solid var(--regla); padding: 0 12px; font: 700 16px/1 var(--sans); color: var(--tinta); cursor: pointer; border-radius: 0; text-align: left; }
 .firma { border-top: 1px solid var(--regla); padding-top: 10px; display: flex; flex-direction: column; gap: 6px; }
 .firma__rotulo, .firma__fuente { font: 500 14px/1.4 var(--sans); color: var(--gris); }
