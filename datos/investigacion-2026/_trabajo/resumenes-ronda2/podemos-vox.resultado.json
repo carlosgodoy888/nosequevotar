@@ -1,0 +1,435 @@
+{
+  "resultados": [
+    {
+      "p": "podemos",
+      "g": [
+        "pensiones",
+        "seguridad-y-justicia",
+        "organizacion-territorial",
+        "ciencia-cultura-y-digital"
+      ],
+      "i": 0,
+      "redaccion": {
+        "resumenes": [
+          {
+            "tema": "pensiones",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Defiende un sistema público de pensiones y quiere que ninguna pensión sea inferior al salario mínimo interprofesional y que se actualicen con el IPC.",
+                "apoyos": [
+                  "c-fd34c54286",
+                  "c-feefe0055e",
+                  "c-a107807ed1"
+                ]
+              },
+              {
+                "texto": "Propone un aumento extraordinario del 20 % de las pensiones mínimas y no contributivas, con el compromiso de que alcancen al menos el umbral de pobreza.",
+                "apoyos": [
+                  "c-a11e17ad27"
+                ]
+              },
+              {
+                "texto": "Plantea que no se apliquen coeficientes reductores a la jubilación tras 40 años cotizados, también para quienes ya están jubilados.",
+                "apoyos": [
+                  "c-f47a0b7288"
+                ]
+              },
+              {
+                "texto": "Sostiene que el gasto en armamento resta recursos a las pensiones.",
+                "apoyos": [
+                  "c-a107807ed1",
+                  "c-91818438c1"
+                ]
+              }
+            ],
+            "nota": "La cita c-91818438c1 («va a salir fundamentalmente de la sanidad y las pensiones») no dice de qué gasto habla; se usa solo como apoyo secundario de la última frase, junto a c-a107807ed1, que sí lo dice. Todo el material procede de declaraciones."
+          },
+          {
+            "tema": "seguridad-y-justicia",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Pide derogar de inmediato lo que llama «Ley Mordaza» y prohibir las balas de goma y las devoluciones en caliente.",
+                "apoyos": [
+                  "c-279912dd6e",
+                  "c-93aaa6e437",
+                  "c-019d22a226"
+                ]
+              },
+              {
+                "texto": "También propone suprimir la infracción por falta de respeto y consideración a la autoridad.",
+                "apoyos": [
+                  "c-279912dd6e"
+                ]
+              },
+              {
+                "texto": "Sostiene que hay un aumento de la violencia policial dirigido a disuadir las movilizaciones y rechaza que la policía se use para infiltrar movimientos sociales.",
+                "apoyos": [
+                  "c-ffb02731f9",
+                  "c-ea9acf3c9f",
+                  "c-019d22a226"
+                ]
+              },
+              {
+                "texto": "Ha pedido expulsar de la Policía Nacional al agente al que atribuye la agresión a una profesora jubilada en Valencia.",
+                "apoyos": [
+                  "c-abce5e103d"
+                ]
+              }
+            ],
+            "nota": "Solo una cita es medida concreta (derogación de la ley y sus puntos); el resto son posiciones sobre la actuación policial. «Ley Mordaza» va entre comillas como término del partido. La última frase recoge un caso concreto; se ha evitado generalizarlo. No se recoge la frase sobre «impunidad» de jueces y periodistas por ser una valoración genérica sin propuesta."
+          },
+          {
+            "tema": "organizacion-territorial",
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Defiende un Estado republicano y plurinacional, un modelo confederal de lo que llama «soberanías compartidas» y el derecho a decidir.",
+                "apoyos": [
+                  "c-4634b8497b",
+                  "c-fc214e826d",
+                  "c-1468c7843e"
+                ]
+              },
+              {
+                "texto": "Ante la negociación de un traspaso de competencias, ha dicho que antes de hablar de competencias hay que hablar de derechos.",
+                "apoyos": [
+                  "c-b2911182bb"
+                ]
+              }
+            ],
+            "nota": "Cuatro citas, todas posiciones generales y sin medidas concretas; por eso base escasa. La cita c-b2911182bb no dice qué competencias ni qué territorio; no se añade ese contexto."
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone crear una red social pública con un algoritmo transparente y subir los impuestos a las plataformas que, según el partido, extienden el odio y el racismo.",
+                "apoyos": [
+                  "c-23d41c820a",
+                  "c-606afceb5b"
+                ]
+              },
+              {
+                "texto": "Quiere destinar esa recaudación a la educación sexual obligatoria y defiende educar además de prohibir.",
+                "apoyos": [
+                  "c-606afceb5b",
+                  "c-f0cd94d28b"
+                ]
+              },
+              {
+                "texto": "Pide regular la inteligencia artificial teniendo en cuenta su impacto en el medio ambiente y el empleo, en especial en los trabajos creativos.",
+                "apoyos": [
+                  "c-290ac297b8"
+                ]
+              },
+              {
+                "texto": "En cultura, plantea un plan plurianual para bajar la temporalidad de la plantilla del INAEM del 30 % a menos del 8 %.",
+                "apoyos": [
+                  "c-1ff21ad51b"
+                ]
+              }
+            ],
+            "nota": "No se recoge el término «genocidio» de la cita c-23d41c820a. Todo el material procede de declaraciones."
+          }
+        ]
+      },
+      "verificacion": {
+        "revisiones": [
+          {
+            "tema": "pensiones",
+            "veredicto": "corregido",
+            "problemas": [
+              "La frase 4 usaba como apoyo c-91818438c1 («va a salir fundamentalmente de la sanidad y las pensiones»), que no dice de qué gasto ni de qué recorte habla; no respalda que el gasto en armamento reste recursos a las pensiones. Se quita ese apoyo y la frase queda respaldada solo por c-a107807ed1, que sí lo dice.",
+              "Frase 3: la cita habla de coeficientes reductores «a la pensión de jubilación», no «a la jubilación»; se ajusta la redacción."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Defiende un sistema público de pensiones y quiere que ninguna pensión sea inferior al salario mínimo interprofesional y que se actualicen con el IPC.",
+                "apoyos": [
+                  "c-fd34c54286",
+                  "c-feefe0055e",
+                  "c-a107807ed1"
+                ]
+              },
+              {
+                "texto": "Propone un aumento extraordinario del 20 % de las pensiones mínimas y no contributivas, con el compromiso de que alcancen al menos el umbral de pobreza.",
+                "apoyos": [
+                  "c-a11e17ad27"
+                ]
+              },
+              {
+                "texto": "Plantea que no se apliquen coeficientes reductores a la pensión de jubilación tras 40 años cotizados, también a quienes ya están jubilados.",
+                "apoyos": [
+                  "c-f47a0b7288"
+                ]
+              },
+              {
+                "texto": "Sostiene que el gasto en armamento resta recursos a las pensiones.",
+                "apoyos": [
+                  "c-a107807ed1"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "seguridad-y-justicia",
+            "veredicto": "corregido",
+            "problemas": [
+              "La frase 4 (pedir la expulsión de la Policía Nacional del agente al que atribuye una agresión en Valencia) recoge un caso individual, no una línea de postura; se elimina. La cita c-abce5e103d solo habla de ese caso y no permite extraer de ella una línea general sin generalizar.",
+              "Frase 3: «dirigido a disuadir las movilizaciones» suavizaba la cita c-ffb02731f9, que habla de un aumento «premeditado» que «busca asustar a la gente que quiere movilizarse»; se ajusta a la fuerza de la cita, atribuida al partido con «sostiene».",
+              "«Ley Mordaza» figura literalmente en c-279912dd6e y c-019d22a226; se mantiene entre comillas y atribuido («lo que llama»)."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Pide derogar de inmediato lo que llama «Ley Mordaza» y prohibir las balas de goma y las devoluciones en caliente.",
+                "apoyos": [
+                  "c-279912dd6e",
+                  "c-93aaa6e437",
+                  "c-019d22a226"
+                ]
+              },
+              {
+                "texto": "También propone suprimir la infracción por falta de respeto y consideración a la autoridad.",
+                "apoyos": [
+                  "c-279912dd6e"
+                ]
+              },
+              {
+                "texto": "Sostiene que hay un aumento premeditado de la violencia policial para asustar a quienes quieren movilizarse, y rechaza que la policía se use para infiltrar movimientos sociales.",
+                "apoyos": [
+                  "c-ffb02731f9",
+                  "c-ea9acf3c9f",
+                  "c-019d22a226"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "organizacion-territorial",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 2: «Ante la negociación de un traspaso de competencias» añade un contexto que la cita c-b2911182bb no da (habla de negociar «un texto», sin decir cuál ni que sea un traspaso). Se reduce a lo que la cita dice.",
+              "Frase 1: c-4634b8497b habla de impulsar «una dirección de Estado en clave republicana y plurinacional», no exactamente de «un Estado republicano y plurinacional»; se ajusta a «un proyecto de Estado».",
+              "Los términos propios del partido «soberanías compartidas» y «derecho a decidir» van entre comillas; ambos están literalmente en c-fc214e826d y c-1468c7843e."
+            ],
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Defiende un proyecto de Estado republicano y plurinacional, un modelo confederal de «soberanías compartidas» y el «derecho a decidir».",
+                "apoyos": [
+                  "c-4634b8497b",
+                  "c-fc214e826d",
+                  "c-1468c7843e"
+                ]
+              },
+              {
+                "texto": "Sostiene que antes de hablar de competencias hay que hablar de derechos.",
+                "apoyos": [
+                  "c-b2911182bb"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 4: la sigla INAEM es poco conocida; se desarrolla (Instituto Nacional de las Artes Escénicas y de la Música). Para mantener el total por debajo de 90 palabras se compacta la frase y se acorta ligeramente la frase 3 sin cambiar su contenido.",
+              "Frase 1: «subir los impuestos» rebajaba la fuerza de c-606afceb5b («Crujamos a impuestos a las plataformas»); se cambia por «gravar con fuertes impuestos».",
+              "Sin otros problemas: el término «genocidio» de c-23d41c820a no se adopta y las cifras (30 % y 8 %) coinciden con c-1ff21ad51b."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone crear una red social pública con un algoritmo transparente y gravar con fuertes impuestos a las plataformas que, según el partido, extienden el odio y el racismo.",
+                "apoyos": [
+                  "c-23d41c820a",
+                  "c-606afceb5b"
+                ]
+              },
+              {
+                "texto": "Quiere destinar esa recaudación a la educación sexual obligatoria y defiende educar además de prohibir.",
+                "apoyos": [
+                  "c-606afceb5b",
+                  "c-f0cd94d28b"
+                ]
+              },
+              {
+                "texto": "Pide regular la inteligencia artificial atendiendo a su impacto en el medio ambiente y el empleo, en especial en los trabajos creativos.",
+                "apoyos": [
+                  "c-290ac297b8"
+                ]
+              },
+              {
+                "texto": "Para el Instituto Nacional de las Artes Escénicas y de la Música, plantea reducir la temporalidad de la plantilla del 30 % a menos del 8 %.",
+                "apoyos": [
+                  "c-1ff21ad51b"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "p": "vox",
+      "g": [
+        "organizacion-territorial",
+        "ciencia-cultura-y-digital"
+      ],
+      "i": 1,
+      "redaccion": {
+        "resumenes": [
+          {
+            "tema": "organizacion-territorial",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Defiende las mismas reglas en todo el país y rechaza que derechos, obligaciones y trámites cambien según la comunidad.",
+                "apoyos": [
+                  "c-feb87f85fd",
+                  "c-51fb53b572"
+                ]
+              },
+              {
+                "texto": "Propone una Ley de Mercado Abierto: lo legal en una comunidad lo sería en toda España, sin trámites, licencias ni registros adicionales.",
+                "apoyos": [
+                  "c-655ab462e9"
+                ]
+              },
+              {
+                "texto": "Quiere derogar las exigencias autonómicas para vender productos que superen la norma europea, como obligaciones lingüísticas distintas en cada territorio.",
+                "apoyos": [
+                  "c-058fdfea0a"
+                ]
+              },
+              {
+                "texto": "Sostiene que el modelo autonómico ha desordenado las competencias y debilitado la unidad nacional y la igualdad, y critica el traspaso de la educación y la inmersión lingüística.",
+                "apoyos": [
+                  "c-ef4432ad2a",
+                  "c-b89b0be870"
+                ]
+              }
+            ],
+            "nota": "Se evita «caos» y «fuerzas separatistas» de c-ef4432ad2a. La cita c-51fb53b572 (sobre un proyecto de ley de financiación y el principio de «quien gasta responde») no dice qué ley es; se usa solo como apoyo de la idea de «mismas reglas para todos». En c-b89b0be870 no consta a qué se refiere «las segundas»; se resume como crítica. Todo el material procede de declaraciones."
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un uso masivo de la inteligencia artificial en la Administración para reducir esperas y papeleo, con resolución automática de expedientes sencillos y asistentes al ciudadano.",
+                "apoyos": [
+                  "c-acb26bc6dc"
+                ]
+              },
+              {
+                "texto": "Quiere reescribir la ley de protección de datos ciñéndola a lo que exige la Unión Europea, y que la AEPD asesore en vez de sancionar, sobre todo a pymes.",
+                "apoyos": [
+                  "c-3e6ee5deda"
+                ]
+              },
+              {
+                "texto": "En cultura, defiende que no se prohíban los festejos taurinos.",
+                "apoyos": [
+                  "c-175fc9c688"
+                ]
+              },
+              {
+                "texto": "Acepta impedir el acceso de menores a la pornografía en internet, pero rechaza usar ese fin para imponer un relato único que no admita discrepancia.",
+                "apoyos": [
+                  "c-0631600f3d"
+                ]
+              }
+            ],
+            "nota": "Cuatro citas, dos de ellas medidas concretas; se considera base suficiente con el mismo criterio aplicado a otros partidos. Se evita «visión totalitaria» de c-0631600f3d. Todo el material procede de declaraciones."
+          }
+        ]
+      },
+      "verificacion": {
+        "revisiones": [
+          {
+            "tema": "organizacion-territorial",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 4: «critica el traspaso de la educación y la inmersión lingüística» se apoyaba en c-b89b0be870, que empieza con «Las segundas» sin decir a qué se refiere; la cita solo dice que «las segundas» proceden de esa transferencia, no que el partido la critique ni qué consecuencias le atribuye. Se quita esa parte y el apoyo.",
+              "Frase 4: «ha desordenado las competencias» rebajaba la fuerza de c-ef4432ad2a («un verdadero caos») y omitía el núcleo de la cita (que el modelo «ha fortalecido enormemente a las fuerzas separatistas» y con ello ha debilitado la unidad nacional y la igualdad). Se recoge atribuyendo los términos del partido entre comillas («caos», «fuerzas separatistas»), que están literalmente en la cita.",
+              "Frase 1: «según la comunidad» estrechaba c-feb87f85fd, que dice «según el lugar en el que viva o trabaje»; se ajusta. c-51fb53b572 se mantiene como apoyo solo por su afirmación general («la igualdad consiste en aplicar las mismas reglas para todos»); la frase no dice nada del proyecto de ley que la cita no identifica.",
+              "Frase 3: la redacción («exigencias autonómicas para vender productos que superen la norma europea») era ambigua y omitía «todas»; se reescribe ciñéndola a la cita c-058fdfea0a, que habla de las capas autonómicas en la venta de productos.",
+              "Para no pasar de 90 palabras se compactan las frases 1 y 2 sin cambiar su contenido."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Defiende las mismas reglas en todo el país, sin derechos, obligaciones ni trámites distintos según dónde se viva o trabaje.",
+                "apoyos": [
+                  "c-feb87f85fd",
+                  "c-51fb53b572"
+                ]
+              },
+              {
+                "texto": "Propone una Ley de Mercado Abierto: lo legal en una comunidad lo sería en toda España sin trámites adicionales.",
+                "apoyos": [
+                  "c-655ab462e9"
+                ]
+              },
+              {
+                "texto": "Quiere derogar todas las exigencias autonómicas que añadan requisitos a la venta de productos por encima de la norma europea, como las lingüísticas.",
+                "apoyos": [
+                  "c-058fdfea0a"
+                ]
+              },
+              {
+                "texto": "Sostiene que el modelo autonómico ha creado un «caos» competencial y ha reforzado a las «fuerzas separatistas», debilitando la unidad nacional y la igualdad de los españoles.",
+                "apoyos": [
+                  "c-ef4432ad2a"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 1: «reducir esperas y papeleo» rebajaba la fuerza de c-acb26bc6dc («acabar con esperas, papeleo y trámites absurdos»); se cambia a «acabar con». Se quitan los «asistentes al ciudadano» para no pasar de 90 palabras.",
+              "Frase 2: la sigla AEPD es poco conocida; se desarrolla (Agencia Española de Protección de Datos). Para mantener la frase por debajo de 30 palabras se omite el matiz «especialmente para las pymes».",
+              "Frase 4: «rechaza usar ese fin» atribuía al partido un uso que la cita c-0631600f3d atribuye a otros; se reescribe como rechazo a que ese problema se use para imponer un relato único. Se mantiene sin adoptar «visión totalitaria»."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un uso masivo de la inteligencia artificial en la Administración para acabar con esperas y papeleo, con resolución automática de expedientes sencillos.",
+                "apoyos": [
+                  "c-acb26bc6dc"
+                ]
+              },
+              {
+                "texto": "Quiere ceñir la ley de protección de datos a lo que exige la Unión Europea y que la Agencia Española de Protección de Datos asesore en vez de sancionar.",
+                "apoyos": [
+                  "c-3e6ee5deda"
+                ]
+              },
+              {
+                "texto": "En cultura, defiende que no se prohíban los festejos taurinos.",
+                "apoyos": [
+                  "c-175fc9c688"
+                ]
+              },
+              {
+                "texto": "Acepta impedir el acceso de menores a la pornografía en internet, pero rechaza que ese problema se use para imponer un relato único sin discrepancia.",
+                "apoyos": [
+                  "c-0631600f3d"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

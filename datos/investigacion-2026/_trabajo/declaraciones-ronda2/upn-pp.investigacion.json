@@ -1,0 +1,79 @@
+{
+  "id": "upn-pp",
+  "investigacion": {
+    "citas": [
+      {
+        "tema": "pensiones",
+        "temas_secundarios": [],
+        "cita": "El presidente del Partido Popular se compromete a garantizar la viabilidad del sistema público de pensiones para las personas que no las han cobrado y a revalorizarlas con el IPC para quienes ya las están cobrando.",
+        "idioma": "es",
+        "traduccion": "",
+        "quien": "el partido",
+        "cargo": "",
+        "partido_de_quien": "PP",
+        "fecha": "2026-10-13",
+        "tipo": "documento_partido",
+        "url": "https://www.pp.es/actualidad/articulos/feijoo-garantiza-el-sistema-publico-de-pensiones-y-su-revalorizacion-con-el-ipc-el-desahucio-mas-importante-de-espana-es-el-de-pedro-sanchez/",
+        "medio": "pp.es",
+        "clase": "medida",
+        "medida_concreta": true,
+        "nota": "Compromiso de Feijóo: revalorizar las pensiones con el IPC"
+      },
+      {
+        "tema": "pensiones",
+        "temas_secundarios": ["empleo"],
+        "cita": "la mejor manera de garantizar nuestro sistema de pensiones es que se genere más empleo, con sueldos más altos, que garanticen las pensiones del futuro",
+        "idioma": "es",
+        "traduccion": "",
+        "quien": "Carmen Fúnez",
+        "cargo": "Vicesecretaria de Sanidad y Política Social del PP",
+        "partido_de_quien": "PP",
+        "fecha": "2026-10-15",
+        "tipo": "documento_partido",
+        "url": "https://www.pp.es/actualidad/articulos/funez-promete-un-estado-del-bienestar-fuerte-y-sostenible-frente-al-modelo-de-sanchez-con-quien-se-pagan-mas-impuestos-y-se-reciben-peores-servicios/",
+        "medio": "pp.es",
+        "clase": "posicion",
+        "medida_concreta": false,
+        "nota": "Más empleo y salarios para sostener las pensiones"
+      },
+      {
+        "tema": "pensiones",
+        "temas_secundarios": [],
+        "cita": "En Unión del Pueblo Navarro lo tenemos claro y lo hemos defendido por activa y por pasiva: respaldamos la revalorización de las pensiones.",
+        "idioma": "es",
+        "traduccion": "",
+        "quien": "Alberto Catalán Higueras",
+        "cargo": "Diputado de UPN en el Congreso (Grupo Parlamentario Mixto)",
+        "partido_de_quien": "UPN",
+        "fecha": "2026-02-26",
+        "tipo": "congreso",
+        "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-170.PDF",
+        "medio": "Diario de Sesiones del Congreso de los Diputados, núm. 170",
+        "clase": "posicion",
+        "medida_concreta": false,
+        "nota": "Apoyo a la convalidación del Real Decreto-ley 3/2026"
+      },
+      {
+        "tema": "pensiones",
+        "temas_secundarios": [],
+        "cita": "El Pacto de Toledo es importante, porque genera tranquilidad para el futuro y estabilidad no solo a nuestros mayores, personas que han dedicado toda su vida a España, a nuestra sociedad y a sus familias, sino también a todos los españoles que están en su etapa laboral y de cotización.",
+        "idioma": "es",
+        "traduccion": "",
+        "quien": "Paniagua Núñez",
+        "cargo": "Diputado del Grupo Parlamentario Popular en el Congreso",
+        "partido_de_quien": "PP",
+        "fecha": "2026-02-26",
+        "tipo": "congreso",
+        "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-170.PDF",
+        "medio": "Diario de Sesiones del Congreso de los Diputados, núm. 170",
+        "clase": "posicion",
+        "medida_concreta": false,
+        "nota": "Defensa del Pacto de Toledo en el debate de pensiones"
+      }
+    ],
+    "temas_sin_material": [],
+    "sitios_bloqueados": [],
+    "busquedas_hechas": 3,
+    "notas": "En upn.org no hay notas nuevas sobre pensiones aparte de las ya recogidas (enero de 2025) y una mención de pasada en la de 12-02-2025 sobre el decreto ómnibus, descartada por ser sobre IVA e IRPF. No se encontraron declaraciones sobre pensiones de Leticia San Martín ni de Sergio Sayas. Por eso tres citas son del PP nacional: el candidato de la coalición a la Presidencia es Feijóo. La primera es texto de pp.es en tercera persona que resume un compromiso de Feijóo (entrevista en Esradio): por eso figura como «el partido». En el Diario de Sesiones el diputado del PP solo aparece por apellidos (Paniagua Núñez). Descartada otra nota de pp.es (07-11-2025, proposición de ley para actualizar las pensiones en 2026) porque la cita va unida a un ataque al Gobierno."
+  }
+}

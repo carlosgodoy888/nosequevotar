@@ -1,0 +1,88 @@
+{
+  "resumenes": [
+    {
+      "tema": "pensiones",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende un sistema público de pensiones y quiere que ninguna pensión sea inferior al salario mínimo interprofesional y que se actualicen con el IPC.",
+          "apoyos": ["c-fd34c54286", "c-feefe0055e", "c-a107807ed1"]
+        },
+        {
+          "texto": "Propone un aumento extraordinario del 20 % de las pensiones mínimas y no contributivas, con el compromiso de que alcancen al menos el umbral de pobreza.",
+          "apoyos": ["c-a11e17ad27"]
+        },
+        {
+          "texto": "Plantea que no se apliquen coeficientes reductores a la jubilación tras 40 años cotizados, también para quienes ya están jubilados.",
+          "apoyos": ["c-f47a0b7288"]
+        },
+        {
+          "texto": "Sostiene que el gasto en armamento resta recursos a las pensiones.",
+          "apoyos": ["c-a107807ed1", "c-91818438c1"]
+        }
+      ],
+      "nota": "La cita c-91818438c1 («va a salir fundamentalmente de la sanidad y las pensiones») no dice de qué gasto habla; se usa solo como apoyo secundario de la última frase, junto a c-a107807ed1, que sí lo dice. Todo el material procede de declaraciones."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Pide derogar de inmediato lo que llama «Ley Mordaza» y prohibir las balas de goma y las devoluciones en caliente.",
+          "apoyos": ["c-279912dd6e", "c-93aaa6e437", "c-019d22a226"]
+        },
+        {
+          "texto": "También propone suprimir la infracción por falta de respeto y consideración a la autoridad.",
+          "apoyos": ["c-279912dd6e"]
+        },
+        {
+          "texto": "Sostiene que hay un aumento de la violencia policial dirigido a disuadir las movilizaciones y rechaza que la policía se use para infiltrar movimientos sociales.",
+          "apoyos": ["c-ffb02731f9", "c-ea9acf3c9f", "c-019d22a226"]
+        },
+        {
+          "texto": "Ha pedido expulsar de la Policía Nacional al agente al que atribuye la agresión a una profesora jubilada en Valencia.",
+          "apoyos": ["c-abce5e103d"]
+        }
+      ],
+      "nota": "Solo una cita es medida concreta (derogación de la ley y sus puntos); el resto son posiciones sobre la actuación policial. «Ley Mordaza» va entre comillas como término del partido. La última frase recoge un caso concreto; se ha evitado generalizarlo. No se recoge la frase sobre «impunidad» de jueces y periodistas por ser una valoración genérica sin propuesta."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "base": "escasa",
+      "frases": [
+        {
+          "texto": "Defiende un Estado republicano y plurinacional, un modelo confederal de lo que llama «soberanías compartidas» y el derecho a decidir.",
+          "apoyos": ["c-4634b8497b", "c-fc214e826d", "c-1468c7843e"]
+        },
+        {
+          "texto": "Ante la negociación de un traspaso de competencias, ha dicho que antes de hablar de competencias hay que hablar de derechos.",
+          "apoyos": ["c-b2911182bb"]
+        }
+      ],
+      "nota": "Cuatro citas, todas posiciones generales y sin medidas concretas; por eso base escasa. La cita c-b2911182bb no dice qué competencias ni qué territorio; no se añade ese contexto."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone crear una red social pública con un algoritmo transparente y subir los impuestos a las plataformas que, según el partido, extienden el odio y el racismo.",
+          "apoyos": ["c-23d41c820a", "c-606afceb5b"]
+        },
+        {
+          "texto": "Quiere destinar esa recaudación a la educación sexual obligatoria y defiende educar además de prohibir.",
+          "apoyos": ["c-606afceb5b", "c-f0cd94d28b"]
+        },
+        {
+          "texto": "Pide regular la inteligencia artificial teniendo en cuenta su impacto en el medio ambiente y el empleo, en especial en los trabajos creativos.",
+          "apoyos": ["c-290ac297b8"]
+        },
+        {
+          "texto": "En cultura, plantea un plan plurianual para bajar la temporalidad de la plantilla del INAEM del 30 % a menos del 8 %.",
+          "apoyos": ["c-1ff21ad51b"]
+        }
+      ],
+      "nota": "No se recoge el término «genocidio» de la cita c-23d41c820a. Todo el material procede de declaraciones."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "fuente": "pp-programa-2026",
+  "partido": "pp",
+  "paginas": [
+    1,
+    11
+  ],
+  "citas": [
+    {
+      "cita": "Vamos a acometer las reformas que llevan décadas aplazándose: las decisiones para que el Estado cumpla con sus obligaciones y los españoles podamos hacer, con libertad, todo lo demás.",
+      "pagina": 6,
+      "apartado": [
+        "El programa del cambio necesario para España"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Compromiso general de acometer reformas aplazadas durante décadas",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reparar el Estado, para que vuelva a proteger nuestras fronteras, mantener las infraestructuras, garantizar la seguridad en las calles y responder ante una catástrofe; y, también, para que deje de poner trabas y tratar como sospechoso a quien trabaja, emprende o cumple.",
+      "pagina": 9,
+      "apartado": [
+        "La España que haremos entre todos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivo de reparar el Estado: fronteras, infraestructuras, seguridad, emergencias y menos trabas",
+      "etiquetas": [
+        "instituciones",
+        "administración pública",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Regenerar la democracia, para que ningún Gobierno pueda secuestrar las instituciones en favor de un partido, actuar al margen del Parlamento, o utilizar lo público para protegerse. El poder también tiene límites y es el primero que debe estar sometido a las reglas.",
+      "pagina": 9,
+      "apartado": [
+        "La España que haremos entre todos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivo de regenerar la democracia y limitar el poder",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Reunir a la Nación, para que la igualdad y la convivencia entre españoles no vuelvan a ser objeto de negociación y se deje de gobernar enfrentando a jóvenes con mayores, al campo con la ciudad, a hombres con mujeres o a trabajadores con empresarios. Los españoles no tenemos que pensar igual para volver a hacer cosas juntos.",
+      "pagina": 9,
+      "apartado": [
+        "La España que haremos entre todos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivo de reunir a la Nación: igualdad y convivencia entre españoles",
+      "etiquetas": [
+        "organización territorial",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Recuperar la ambición y la autoestima, para dejar de funcionar por debajo de lo que somos capaces de hacer. España tiene talento, empresas, trabajadores, científicos, creadores y emprendedores para aspirar a mucho más. La política tiene que dejar de administrar la resignación y volver a responder ante los ciudadanos con resultados a la altura del país al que sirve.",
+      "pagina": 9,
+      "apartado": [
+        "La España que haremos entre todos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivo de recuperar la ambición y la autoestima del país",
+      "etiquetas": [
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    }
+  ]
+}

@@ -1,0 +1,1757 @@
+{
+ "partidos": [
+  "bng",
+  "cc-primero-canarias",
+  "d21",
+  "eaj-pnv",
+  "frente-obrero",
+  "pp"
+ ],
+ "total_citas": 2418,
+ "etiquetas": [
+  {
+   "etiqueta": "organización territorial",
+   "total": 288,
+   "por_partido": {
+    "bng": 123,
+    "cc-primero-canarias": 41,
+    "d21": 5,
+    "eaj-pnv": 72,
+    "frente-obrero": 10,
+    "pp": 37
+   },
+   "ejemplos": [
+    "bng: Ampliar el autogobierno y reconocer los derechos nacionales de Galicia",
+    "cc-primero-canarias: Necesidad de fuerza propia canaria en la política estatal",
+    "d21: Reparto de papeles entre ayuntamientos, comunidades y Estado en el plan",
+    "eaj-pnv: Defensa de instituciones, identidad y libertades por vía parlamentaria"
+   ]
+  },
+  {
+   "etiqueta": "empleo",
+   "total": 230,
+   "por_partido": {
+    "bng": 93,
+    "cc-primero-canarias": 13,
+    "d21": 11,
+    "eaj-pnv": 37,
+    "frente-obrero": 33,
+    "pp": 43
+   },
+   "ejemplos": [
+    "bng: Transferencia de competencias laborales para un marco gallego de relaciones laborales",
+    "cc-primero-canarias: Coordinación del ingreso mínimo vital con prestaciones autonómicas",
+    "d21: Jornada anual de contacto entre negocios locales y escolares",
+    "eaj-pnv: Salarios según coste de vida, condiciones laborales y formación"
+   ]
+  },
+  {
+   "etiqueta": "instituciones",
+   "total": 229,
+   "por_partido": {
+    "bng": 22,
+    "cc-primero-canarias": 22,
+    "d21": 58,
+    "eaj-pnv": 17,
+    "frente-obrero": 13,
+    "pp": 97
+   },
+   "ejemplos": [
+    "bng: Mantiene su compromiso antifascista frente al llamado bloque reaccionario",
+    "cc-primero-canarias: Necesidad de fuerza propia canaria en la política estatal",
+    "d21: Defensa de la democracia y necesidad de modernizarla",
+    "eaj-pnv: Papel del partido en Madrid con agenda propia"
+   ]
+  },
+  {
+   "etiqueta": "educación",
+   "total": 179,
+   "por_partido": {
+    "bng": 41,
+    "cc-primero-canarias": 10,
+    "d21": 56,
+    "eaj-pnv": 15,
+    "frente-obrero": 24,
+    "pp": 33
+   },
+   "ejemplos": [
+    "bng: Agilizar la homologación de títulos extranjeros y acreditar competencias profesionales",
+    "cc-primero-canarias: Lugar de la cultura y el habla canarias en la educación",
+    "d21: La educación como motor de movilidad social y progreso",
+    "eaj-pnv: Salarios según coste de vida, condiciones laborales y formación"
+   ]
+  },
+  {
+   "etiqueta": "vivienda",
+   "total": 175,
+   "por_partido": {
+    "bng": 33,
+    "cc-primero-canarias": 17,
+    "d21": 45,
+    "eaj-pnv": 16,
+    "frente-obrero": 14,
+    "pp": 50
+   },
+   "ejemplos": [
+    "bng: Transferencia de activos de la SAREB en Galicia para vivienda pública",
+    "cc-primero-canarias: Más vivienda asequible y capacidad propia para ordenar el crecimiento",
+    "d21: Destinar a vivienda el dinero ahorrado en cargos despedidos",
+    "eaj-pnv: Más vivienda asequible, menos abusos en el alquiler y emancipación"
+   ]
+  },
+  {
+   "etiqueta": "justicia",
+   "total": 162,
+   "por_partido": {
+    "bng": 19,
+    "d21": 26,
+    "eaj-pnv": 15,
+    "frente-obrero": 15,
+    "pp": 87
+   },
+   "ejemplos": [
+    "bng: Introducir el término feminicidio en la ley y Estatuto de Víctima",
+    "d21: Delito de enchufismo en el Código Penal e inhabilitación",
+    "eaj-pnv: Transparencia institucional, justicia para las víctimas y control del poder",
+    "frente-obrero: Lucha contra el narcotráfico y penas altas de cárcel"
+   ]
+  },
+  {
+   "etiqueta": "inmigración",
+   "total": 159,
+   "por_partido": {
+    "bng": 21,
+    "cc-primero-canarias": 13,
+    "eaj-pnv": 17,
+    "frente-obrero": 40,
+    "pp": 68
+   },
+   "ejemplos": [
+    "bng: Defensa de una Galicia inclusiva frente a discursos xenófobos",
+    "cc-primero-canarias: Política migratoria con responsabilidad estatal y europea",
+    "eaj-pnv: Concepción de la acogida e integración de las personas migrantes",
+    "frente-obrero: Penas más duras por contratar extranjeros en situación irregular"
+   ]
+  },
+  {
+   "etiqueta": "ciencia y tecnología",
+   "total": 147,
+   "por_partido": {
+    "bng": 85,
+    "cc-primero-canarias": 9,
+    "d21": 6,
+    "eaj-pnv": 7,
+    "frente-obrero": 8,
+    "pp": 32
+   },
+   "ejemplos": [
+    "bng: Transferencia de salvamento marítimo, guardacostas y centros oceanográficos",
+    "cc-primero-canarias: Acuerdo sobre infraestructuras científicas y nombramientos en organismos estatales",
+    "d21: Sistema de control de la contratación pública basado en IA",
+    "eaj-pnv: Colaboración entre universidades y empresas"
+   ]
+  },
+  {
+   "etiqueta": "impuestos",
+   "total": 144,
+   "por_partido": {
+    "bng": 41,
+    "cc-primero-canarias": 13,
+    "d21": 8,
+    "eaj-pnv": 11,
+    "frente-obrero": 11,
+    "pp": 60
+   },
+   "ejemplos": [
+    "bng: Nuevo modelo de financiación basado en concierto económico bilateral",
+    "cc-primero-canarias: Defensa y actualización del Régimen Económico y Fiscal",
+    "d21: Eliminar impuestos de compra a menores de 35 y reducirlos al resto",
+    "eaj-pnv: Reducir el Impuesto Especial sobre la Electricidad al 0,5 %"
+   ]
+  },
+  {
+   "etiqueta": "medio ambiente",
+   "total": 136,
+   "por_partido": {
+    "bng": 71,
+    "cc-primero-canarias": 18,
+    "eaj-pnv": 17,
+    "frente-obrero": 9,
+    "pp": 21
+   },
+   "ejemplos": [
+    "bng: Frenar lo que llama expolio y proyectos como los mineros o Altri",
+    "cc-primero-canarias: Cese de actividad militar y cesión de los espacios",
+    "eaj-pnv: Desarrollo de biometano, hidrógeno renovable y combustibles de bajas emisiones",
+    "frente-obrero: Reindustrialización que priorice el país frente a la transición ecológica"
+   ]
+  },
+  {
+   "etiqueta": "sanidad",
+   "total": 127,
+   "por_partido": {
+    "bng": 35,
+    "cc-primero-canarias": 8,
+    "eaj-pnv": 20,
+    "frente-obrero": 19,
+    "pp": 45
+   },
+   "ejemplos": [
+    "bng: Ampliar el reconocimiento legal de enfermedades profesionales",
+    "cc-primero-canarias: Igualdad en la atención pública, con gestión y evaluación",
+    "eaj-pnv: Prevención de riesgos laborales y salud en el trabajo",
+    "frente-obrero: Centros de desintoxicación en la sanidad pública con más recursos"
+   ]
+  },
+  {
+   "etiqueta": "economía",
+   "total": 124,
+   "por_partido": {
+    "bng": 18,
+    "cc-primero-canarias": 15,
+    "d21": 3,
+    "eaj-pnv": 22,
+    "frente-obrero": 14,
+    "pp": 52
+   },
+   "ejemplos": [
+    "bng: Frenar lo que llama expolio y proyectos como los mineros o Altri",
+    "cc-primero-canarias: Recursos del REF separados de la financiación ordinaria",
+    "d21: Necesidad de formación económica básica en la educación obligatoria",
+    "eaj-pnv: Análisis de productividad, absentismo y salarios con agentes sociales"
+   ]
+  },
+  {
+   "etiqueta": "energía",
+   "total": 124,
+   "por_partido": {
+    "bng": 41,
+    "cc-primero-canarias": 22,
+    "eaj-pnv": 21,
+    "frente-obrero": 13,
+    "pp": 27
+   },
+   "ejemplos": [
+    "bng: Frenar lo que llama expolio y proyectos como los mineros o Altri",
+    "cc-primero-canarias: Objetivos de la transición energética en Canarias",
+    "eaj-pnv: Defensa de una industria competitiva con redes eléctricas suficientes",
+    "frente-obrero: Independencia energética con un modelo planificado"
+   ]
+  },
+  {
+   "etiqueta": "transporte",
+   "total": 121,
+   "por_partido": {
+    "bng": 40,
+    "cc-primero-canarias": 28,
+    "eaj-pnv": 27,
+    "pp": 26
+   },
+   "ejemplos": [
+    "bng: Superar el déficit de inversión estatal en infraestructuras en Galicia",
+    "cc-primero-canarias: Traspaso del transporte aéreo interinsular y permisos de trabajo",
+    "eaj-pnv: Exigencia de infraestructuras que funcionen",
+    "pp: Mantenimiento y supervisión del transporte, en especial del ferrocarril"
+   ]
+  },
+  {
+   "etiqueta": "política exterior",
+   "total": 115,
+   "por_partido": {
+    "bng": 30,
+    "cc-primero-canarias": 10,
+    "d21": 1,
+    "eaj-pnv": 3,
+    "frente-obrero": 11,
+    "pp": 60
+   },
+   "ejemplos": [
+    "bng: Rechazo al acuerdo comercial UE-Mercosur",
+    "cc-primero-canarias: Cooperación con países vecinos y lucha contra redes de tráfico",
+    "d21: Apoyo a campus internacionales de universidades públicas",
+    "eaj-pnv: Política exterior comprometida con derechos humanos y derecho internacional"
+   ]
+  },
+  {
+   "etiqueta": "seguridad",
+   "total": 112,
+   "por_partido": {
+    "bng": 12,
+    "cc-primero-canarias": 2,
+    "eaj-pnv": 13,
+    "frente-obrero": 19,
+    "pp": 66
+   },
+   "ejemplos": [
+    "bng: Traspaso de seguridad pública y tráfico; despliegue de Policía Gallega",
+    "cc-primero-canarias: Financiación estatal de 1.400 plazas de la Policía Canaria",
+    "eaj-pnv: Gestión de la seguridad desde Euskadi con una Ertzaintza plena",
+    "frente-obrero: Lucha contra el narcotráfico y penas altas de cárcel"
+   ]
+  },
+  {
+   "etiqueta": "agricultura y pesca",
+   "total": 109,
+   "por_partido": {
+    "bng": 44,
+    "cc-primero-canarias": 11,
+    "eaj-pnv": 18,
+    "frente-obrero": 11,
+    "pp": 25
+   },
+   "ejemplos": [
+    "bng: Protección social del sector marisquero: cese de actividad y coeficientes reductores",
+    "cc-primero-canarias: Defensa del POSEI y su dotación en el presupuesto europeo",
+    "eaj-pnv: Defensa de la rentabilidad y el relevo del sector primario",
+    "frente-obrero: Penas más duras por contratar extranjeros en situación irregular"
+   ]
+  },
+  {
+   "etiqueta": "igualdad",
+   "total": 104,
+   "por_partido": {
+    "bng": 41,
+    "cc-primero-canarias": 3,
+    "d21": 2,
+    "eaj-pnv": 20,
+    "frente-obrero": 14,
+    "pp": 24
+   },
+   "ejemplos": [
+    "bng: Protección laboral en maternidad y lactancia con riesgo",
+    "cc-primero-canarias: Financiación estatal de plazas públicas gratuitas de 0 a 3 años",
+    "d21: Consolidar el ciclo 0-3 como etapa pedagógica, no asistencial",
+    "eaj-pnv: Aplicar la normativa europea de transparencia retributiva"
+   ]
+  },
+  {
+   "etiqueta": "servicios sociales",
+   "total": 83,
+   "por_partido": {
+    "bng": 20,
+    "cc-primero-canarias": 10,
+    "d21": 2,
+    "eaj-pnv": 20,
+    "frente-obrero": 6,
+    "pp": 25
+   },
+   "ejemplos": [
+    "bng: Establecer una renta social básica en Galicia",
+    "cc-primero-canarias: Igualdad en la atención pública, con gestión y evaluación",
+    "d21: La Administración asume realojo o alquiler de personas vulnerables",
+    "eaj-pnv: Alternativas habitacionales para familias vulnerables"
+   ]
+  },
+  {
+   "etiqueta": "infraestructuras",
+   "total": 74,
+   "por_partido": {
+    "bng": 35,
+    "cc-primero-canarias": 9,
+    "pp": 30
+   },
+   "ejemplos": [
+    "bng: Superar el déficit de inversión estatal en infraestructuras en Galicia",
+    "cc-primero-canarias: Cumplimiento de los convenios de inversión del Estado en Canarias",
+    "pp: Prioridad a servicios públicos y mantenimiento de redes esenciales"
+   ]
+  },
+  {
+   "etiqueta": "unión europea",
+   "total": 70,
+   "por_partido": {
+    "bng": 12,
+    "cc-primero-canarias": 14,
+    "d21": 3,
+    "eaj-pnv": 18,
+    "frente-obrero": 6,
+    "pp": 17
+   },
+   "ejemplos": [
+    "bng: Rechazo al recorte previsto en el presupuesto europeo 2028-2034",
+    "cc-primero-canarias: Estatuto, REF y ultraperiferia como instrumentos de igualdad",
+    "d21: Reasignar fondos europeos no ejecutados a un fondo de vivienda",
+    "eaj-pnv: Plan Estratégico propio de Euskadi en la PAC 2028-2034"
+   ]
+  },
+  {
+   "etiqueta": "administración pública",
+   "total": 67,
+   "por_partido": {
+    "bng": 13,
+    "d21": 15,
+    "frente-obrero": 2,
+    "pp": 37
+   },
+   "ejemplos": [
+    "bng: Atención presencial sin cita e intérpretes en oficinas del Estado",
+    "d21: Cortar el clientelismo con despidos y normas de mérito",
+    "frente-obrero: Eliminación de puestos y cargos inoperantes o duplicados",
+    "pp: Objetivo de reparar el Estado: fronteras, infraestructuras, seguridad, emergencias y menos trabas"
+   ]
+  },
+  {
+   "etiqueta": "juventud",
+   "total": 66,
+   "por_partido": {
+    "bng": 21,
+    "cc-primero-canarias": 6,
+    "d21": 4,
+    "eaj-pnv": 14,
+    "frente-obrero": 8,
+    "pp": 13
+   },
+   "ejemplos": [
+    "bng: Soberanía nacional como herramienta para los derechos de la juventud",
+    "cc-primero-canarias: Línea estatal de vivienda joven, alquiler asequible y cooperativas",
+    "d21: Eliminar impuestos de compra a menores de 35 y reducirlos al resto",
+    "eaj-pnv: Más vivienda asequible, menos abusos en el alquiler y emancipación"
+   ]
+  },
+  {
+   "etiqueta": "industria",
+   "total": 65,
+   "por_partido": {
+    "bng": 23,
+    "cc-primero-canarias": 1,
+    "d21": 2,
+    "eaj-pnv": 17,
+    "frente-obrero": 7,
+    "pp": 15
+   },
+   "ejemplos": [
+    "bng: Impulso del PERTE de Industrialización de la Construcción",
+    "cc-primero-canarias: Programas estatales de industria orientados a la economía circular",
+    "d21: Plan Nacional de Barrios a diez años para construir vivienda asequible",
+    "eaj-pnv: Defensa de una industria competitiva con redes eléctricas suficientes"
+   ]
+  },
+  {
+   "etiqueta": "lenguas",
+   "total": 62,
+   "por_partido": {
+    "bng": 44,
+    "eaj-pnv": 3,
+    "frente-obrero": 2,
+    "pp": 13
+   },
+   "ejemplos": [
+    "bng: Acceso a la lengua gallega como parte de la acogida",
+    "eaj-pnv: Integración social y laboral de las personas migrantes y aprendizaje del euskera",
+    "frente-obrero: Derecho a estudiar en castellano o en lenguas cooficiales",
+    "pp: Derecho a recibir enseñanza en castellano en toda España"
+   ]
+  },
+  {
+   "etiqueta": "pensiones",
+   "total": 59,
+   "por_partido": {
+    "bng": 26,
+    "cc-primero-canarias": 1,
+    "eaj-pnv": 16,
+    "frente-obrero": 8,
+    "pp": 8
+   },
+   "ejemplos": [
+    "bng: Transferencia de competencias de Seguridad Social y pensiones",
+    "cc-primero-canarias: Complementos canarios compatibles con las pensiones no contributivas",
+    "eaj-pnv: Protección social y coeficientes reductores de jubilación en la pesca",
+    "frente-obrero: Garantía de jubilación para los autónomos"
+   ]
+  },
+  {
+   "etiqueta": "defensa",
+   "total": 54,
+   "por_partido": {
+    "bng": 20,
+    "cc-primero-canarias": 2,
+    "frente-obrero": 10,
+    "pp": 22
+   },
+   "ejemplos": [
+    "bng: Derogar la Ley de Secretos Oficiales y la Ley de Seguridad Nacional",
+    "cc-primero-canarias: Recuperación para uso civil de terrenos militares",
+    "frente-obrero: Rechazo de la pertenencia de España a la OTAN",
+    "pp: Nuevas dependencias policiales y base militar única en Ceuta"
+   ]
+  },
+  {
+   "etiqueta": "cultura",
+   "total": 52,
+   "por_partido": {
+    "bng": 16,
+    "cc-primero-canarias": 7,
+    "d21": 1,
+    "eaj-pnv": 1,
+    "frente-obrero": 14,
+    "pp": 13
+   },
+   "ejemplos": [
+    "bng: Traspaso de fondos y competencias de cine y audiovisual",
+    "cc-primero-canarias: Lugar de la cultura y el habla canarias en la educación",
+    "d21: Hucha formativa de unos 500 euros al cumplir 18 años",
+    "eaj-pnv: Revisión del IVA cultural para artistas y galerías"
+   ]
+  },
+  {
+   "etiqueta": "transparencia",
+   "total": 49,
+   "por_partido": {
+    "bng": 9,
+    "cc-primero-canarias": 4,
+    "d21": 10,
+    "eaj-pnv": 9,
+    "pp": 17
+   },
+   "ejemplos": [
+    "bng: Derogar la Ley de Secretos Oficiales y la Ley de Seguridad Nacional",
+    "cc-primero-canarias: Contacto con las islas y rendición de cuentas de los representantes",
+    "d21: Publicación obligatoria de nombres, currículos y salarios de asesores",
+    "eaj-pnv: Transparencia institucional, justicia para las víctimas y control del poder"
+   ]
+  },
+  {
+   "etiqueta": "familia",
+   "total": 44,
+   "por_partido": {
+    "bng": 2,
+    "eaj-pnv": 1,
+    "frente-obrero": 13,
+    "pp": 28
+   },
+   "ejemplos": [
+    "bng: Reconocimiento legal y legislación específica para familias monoparentales",
+    "eaj-pnv: Emancipación juvenil y apoyos a las familias para conciliar",
+    "frente-obrero: Planes de apoyo económico a la natalidad y la maternidad",
+    "pp: Vida social activa de los mayores y papel de los abuelos"
+   ]
+  },
+  {
+   "etiqueta": "emergencias",
+   "total": 41,
+   "por_partido": {
+    "cc-primero-canarias": 7,
+    "pp": 34
+   },
+   "ejemplos": [
+    "cc-primero-canarias: Creación y financiación del Centro Nacional de Vulcanología",
+    "pp: La seguridad como centro de la política pública"
+   ]
+  },
+  {
+   "etiqueta": "gasto público",
+   "total": 40,
+   "por_partido": {
+    "bng": 3,
+    "cc-primero-canarias": 2,
+    "d21": 9,
+    "frente-obrero": 2,
+    "pp": 24
+   },
+   "ejemplos": [
+    "bng: Destinar el 1 % de los Presupuestos a políticas de juventud",
+    "cc-primero-canarias: Uso de remanentes de tesorería en servicios públicos",
+    "d21: Dotar a la IGAE de los medios tecnológicos de la Agencia Tributaria",
+    "frente-obrero: Supresión de subvenciones ideológicas y entidades públicas ineficaces"
+   ]
+  },
+  {
+   "etiqueta": "corrupción",
+   "total": 38,
+   "por_partido": {
+    "bng": 3,
+    "d21": 25,
+    "frente-obrero": 4,
+    "pp": 6
+   },
+   "ejemplos": [
+    "bng: Apoyo a medidas de lucha contra la corrupción",
+    "d21: Atajar la corrupción política",
+    "frente-obrero: Transformación del sistema judicial hacia una justicia independiente",
+    "pp: Rendición de cuentas y fin de la corrupción"
+   ]
+  },
+  {
+   "etiqueta": "derechos y libertades",
+   "total": 36,
+   "por_partido": {
+    "bng": 16,
+    "eaj-pnv": 13,
+    "frente-obrero": 7
+   },
+   "ejemplos": [
+    "bng: Defensa de derechos y libertades públicas como objetivo de legislatura",
+    "eaj-pnv: Rechazo a retrocesos en derechos y libertades",
+    "frente-obrero: Defensa de una sociedad sin miedo a opinar y debatir"
+   ]
+  },
+  {
+   "etiqueta": "infancia",
+   "total": 33,
+   "por_partido": {
+    "bng": 2,
+    "cc-primero-canarias": 3,
+    "eaj-pnv": 8,
+    "pp": 20
+   },
+   "ejemplos": [
+    "bng: Violencia vicaria, visitas de maltratadores y medidas cautelares para menores",
+    "cc-primero-canarias: Programas estatales específicos contra la pobreza en Canarias",
+    "eaj-pnv: Evaluación anual de la prestación por cuidado de menores enfermos",
+    "pp: Consecuencias para tutores de menores implicados reiteradamente en actos violentos"
+   ]
+  },
+  {
+   "etiqueta": "urbanismo",
+   "total": 32,
+   "por_partido": {
+    "bng": 2,
+    "cc-primero-canarias": 1,
+    "d21": 13,
+    "eaj-pnv": 2,
+    "pp": 14
+   },
+   "ejemplos": [
+    "bng: Aumentar reservas mínimas de suelo para vivienda protegida",
+    "cc-primero-canarias: Fondo estatal de adaptación urbana al calor",
+    "d21: Suelo público cedido en concesión o derecho de superficie a 75 años",
+    "eaj-pnv: Agilizar trámites urbanísticos para construir vivienda nueva"
+   ]
+  },
+  {
+   "etiqueta": "minería",
+   "total": 29,
+   "por_partido": {
+    "bng": 29
+   },
+   "ejemplos": [
+    "bng: Compensar a las comarcas mineras gallegas por los Planes del Carbón"
+   ]
+  },
+  {
+   "etiqueta": "inteligencia artificial",
+   "total": 29,
+   "por_partido": {
+    "bng": 21,
+    "d21": 2,
+    "pp": 6
+   },
+   "ejemplos": [
+    "bng: Sistemas de IA y atención automatizada del Estado en gallego",
+    "d21: Garantizar un entorno de formación digital seguro para estudiantes",
+    "pp: Cheque para que cada trabajador se forme en inteligencia artificial"
+   ]
+  },
+  {
+   "etiqueta": "autónomos",
+   "total": 28,
+   "por_partido": {
+    "bng": 8,
+    "cc-primero-canarias": 1,
+    "eaj-pnv": 5,
+    "frente-obrero": 4,
+    "pp": 10
+   },
+   "ejemplos": [
+    "bng: Más progresividad en la cotización de autónomos por ingresos reales",
+    "cc-primero-canarias: Ayudas estatales a nuevos autónomos y a los de menores rendimientos",
+    "eaj-pnv: Apoyo a pymes, personas autónomas y cooperativas",
+    "frente-obrero: Cuota cero para autónomos bajo el SMI y bonificación por baja"
+   ]
+  },
+  {
+   "etiqueta": "financiación autonómica",
+   "total": 25,
+   "por_partido": {
+    "bng": 4,
+    "cc-primero-canarias": 6,
+    "pp": 15
+   },
+   "ejemplos": [
+    "bng: Nuevo modelo de financiación basado en concierto económico bilateral",
+    "cc-primero-canarias: Recursos del REF separados de la financiación ordinaria",
+    "pp: Nuevo modelo de financiación para Ceuta y Melilla"
+   ]
+  },
+  {
+   "etiqueta": "violencia machista",
+   "total": 25,
+   "por_partido": {
+    "bng": 19,
+    "eaj-pnv": 6
+   },
+   "ejemplos": [
+    "bng: Nuevos avances contra las discriminaciones y la violencia machista",
+    "eaj-pnv: Cumplimiento del Pacto de Estado contra la Violencia de Género"
+   ]
+  },
+  {
+   "etiqueta": "dependencia",
+   "total": 25,
+   "por_partido": {
+    "bng": 7,
+    "cc-primero-canarias": 2,
+    "eaj-pnv": 14,
+    "pp": 2
+   },
+   "ejemplos": [
+    "bng: Vigilar el cumplimiento de convenios en cuidados y trabajo del hogar",
+    "cc-primero-canarias: Aportación estatal al sistema de dependencia",
+    "eaj-pnv: Protección de personas cuidadoras y agilización de prestaciones",
+    "pp: Pacto de Estado por la Dependencia y aportación estatal del 50%"
+   ]
+  },
+  {
+   "etiqueta": "lgtbi",
+   "total": 25,
+   "por_partido": {
+    "bng": 15,
+    "eaj-pnv": 6,
+    "frente-obrero": 1,
+    "pp": 3
+   },
+   "ejemplos": [
+    "bng: Consolidar y ampliar los avances legislativos en derechos LGBT",
+    "eaj-pnv: Defensa de los derechos LGTBIQ+ frente a retrocesos",
+    "frente-obrero: Derogación de la Ley Trans",
+    "pp: Continuidad de la lucha contra la LGTBIfobia"
+   ]
+  },
+  {
+   "etiqueta": "municipios",
+   "total": 23,
+   "por_partido": {
+    "bng": 5,
+    "cc-primero-canarias": 7,
+    "pp": 11
+   },
+   "ejemplos": [
+    "bng: Reforma de la financiación local y la Participación en Ingresos del Estado",
+    "cc-primero-canarias: Recursos y competencias para ayuntamientos y cabildos",
+    "pp: Contratación municipal de personal y obras tras una emergencia"
+   ]
+  },
+  {
+   "etiqueta": "medio rural",
+   "total": 21,
+   "por_partido": {
+    "bng": 2,
+    "cc-primero-canarias": 5,
+    "frente-obrero": 3,
+    "pp": 11
+   },
+   "ejemplos": [
+    "bng: Medidas de igualdad en el medio rural, empleo y emprendimiento",
+    "cc-primero-canarias: Atención a la doble insularidad y a los municipios rurales",
+    "frente-obrero: Situación del medio rural, atribuida a Agenda 2030 y PAC",
+    "pp: Accesibilidad de los servicios sin tener que marcharse"
+   ]
+  },
+  {
+   "etiqueta": "deporte",
+   "total": 20,
+   "por_partido": {
+    "bng": 10,
+    "cc-primero-canarias": 1,
+    "frente-obrero": 4,
+    "pp": 5
+   },
+   "ejemplos": [
+    "bng: Traspaso de competencias deportivas del Consejo Superior de Deportes",
+    "cc-primero-canarias: Financiación de desplazamientos de deportistas y clubes canarios",
+    "frente-obrero: Fomento del deporte desde las escuelas públicas",
+    "pp: Sexo biológico como criterio en las categorías deportivas femeninas"
+   ]
+  },
+  {
+   "etiqueta": "función pública",
+   "total": 20,
+   "por_partido": {
+    "bng": 18,
+    "cc-primero-canarias": 1,
+    "eaj-pnv": 1
+   },
+   "ejemplos": [
+    "bng: Apuesta por el empleo público frente a la privatización",
+    "cc-primero-canarias: Medidas para las retribuciones públicas más bajas",
+    "eaj-pnv: Estudio de la extensión de la prestación CUME al personal funcionario"
+   ]
+  },
+  {
+   "etiqueta": "ceuta y melilla",
+   "total": 20,
+   "por_partido": {
+    "pp": 20
+   },
+   "ejemplos": [
+    "pp: Prioridad a resolver la crisis de Ceuta"
+   ]
+  },
+  {
+   "etiqueta": "agua",
+   "total": 19,
+   "por_partido": {
+    "bng": 2,
+    "cc-primero-canarias": 6,
+    "eaj-pnv": 1,
+    "frente-obrero": 3,
+    "pp": 7
+   },
+   "ejemplos": [
+    "bng: Traspaso de cuencas hidrográficas y Confederación Miño-Sil",
+    "cc-primero-canarias: Agua, energía y territorio ante el cambio climático",
+    "eaj-pnv: Inversiones en abastecimiento, saneamiento y depuración de aguas",
+    "frente-obrero: Inversión en planes hidrográficos y reparto del agua"
+   ]
+  },
+  {
+   "etiqueta": "seguridad social",
+   "total": 18,
+   "por_partido": {
+    "bng": 6,
+    "cc-primero-canarias": 2,
+    "pp": 10
+   },
+   "ejemplos": [
+    "bng: Transferencia de competencias de Seguridad Social y pensiones",
+    "cc-primero-canarias: Incentivos fiscales y bonificaciones ligados a mejoras salariales",
+    "pp: Blindaje legal de la caja única de la Seguridad Social"
+   ]
+  },
+  {
+   "etiqueta": "medios de comunicación",
+   "total": 18,
+   "por_partido": {
+    "bng": 13,
+    "frente-obrero": 3,
+    "pp": 2
+   },
+   "ejemplos": [
+    "bng: Código ético contra el sexismo en medios, condición para fondos públicos",
+    "frente-obrero: Control estatal sobre las grandes plataformas digitales",
+    "pp: Reforma de RTVE y EFE en los primeros cien días"
+   ]
+  },
+  {
+   "etiqueta": "memoria democrática",
+   "total": 17,
+   "por_partido": {
+    "bng": 7,
+    "eaj-pnv": 8,
+    "pp": 2
+   },
+   "ejemplos": [
+    "bng: Derogar la Ley de Amnistía de 1977; delitos de lesa humanidad imprescriptibles",
+    "eaj-pnv: Reconocimiento y reparación a mujeres víctimas de la dictadura franquista",
+    "pp: Derogación de la Ley de Memoria Democrática"
+   ]
+  },
+  {
+   "etiqueta": "empresas",
+   "total": 17,
+   "por_partido": {
+    "bng": 2,
+    "cc-primero-canarias": 1,
+    "pp": 14
+   },
+   "ejemplos": [
+    "bng: Participación de pymes y criterios sociales y ambientales en contratación pública",
+    "cc-primero-canarias: Programas estatales adaptados a la microempresa canaria",
+    "pp: Reducción de cargas administrativas antes de 2029"
+   ]
+  },
+  {
+   "etiqueta": "turismo",
+   "total": 14,
+   "por_partido": {
+    "bng": 1,
+    "cc-primero-canarias": 4,
+    "d21": 1,
+    "eaj-pnv": 1,
+    "frente-obrero": 2,
+    "pp": 5
+   },
+   "ejemplos": [
+    "bng: Frenar el paso de vivienda habitual a alquiler turístico o de temporada",
+    "cc-primero-canarias: Turismo dentro de los límites de las islas",
+    "d21: IVA del 10% a los alquileres turísticos de corta estancia",
+    "eaj-pnv: Regular los alquileres de temporada y turísticos"
+   ]
+  },
+  {
+   "etiqueta": "contratación pública",
+   "total": 14,
+   "por_partido": {
+    "bng": 9,
+    "cc-primero-canarias": 1,
+    "d21": 3,
+    "eaj-pnv": 1
+   },
+   "ejemplos": [
+    "bng: Reformas para la transparencia en la contratación pública",
+    "cc-primero-canarias: Contratación de emergencia para la reconstrucción de La Palma",
+    "d21: Responsabilidad penal por no denunciar manipulación de contratos públicos",
+    "eaj-pnv: Actualizar precios de contratos públicos por mejoras salariales pactadas"
+   ]
+  },
+  {
+   "etiqueta": "sistema electoral",
+   "total": 13,
+   "por_partido": {
+    "bng": 11,
+    "d21": 2
+   },
+   "ejemplos": [
+    "bng: Modificar la Ley de paridad para permitir más mujeres correlativas en listas",
+    "d21: Libertad de los ciudadanos para elegir a sus representantes"
+   ]
+  },
+  {
+   "etiqueta": "nacionalidad",
+   "total": 12,
+   "por_partido": {
+    "bng": 1,
+    "frente-obrero": 4,
+    "pp": 7
+   },
+   "ejemplos": [
+    "bng: Conocimiento del gallego como criterio para acceder a la nacionalidad",
+    "frente-obrero: Residir con visado sin nacionalidad; hacer valer nacionalidad y cultura",
+    "pp: Cambio del modelo de concesión de la nacionalidad"
+   ]
+  },
+  {
+   "etiqueta": "participación ciudadana",
+   "total": 12,
+   "por_partido": {
+    "bng": 3,
+    "d21": 9
+   },
+   "ejemplos": [
+    "bng: Apoyo a iniciativas de participación popular en asuntos públicos",
+    "d21: Devolver el control a la ciudadanía"
+   ]
+  },
+  {
+   "etiqueta": "discapacidad",
+   "total": 12,
+   "por_partido": {
+    "bng": 5,
+    "cc-primero-canarias": 1,
+    "eaj-pnv": 1,
+    "frente-obrero": 1,
+    "pp": 4
+   },
+   "ejemplos": [
+    "bng: Atención a mayores, dependientes y discapacidad mediante servicios públicos",
+    "cc-primero-canarias: Accesibilidad para personas con discapacidad en los programas públicos",
+    "eaj-pnv: Accesibilidad universal en estaciones y trenes",
+    "frente-obrero: Mejorar la educación de los niños con discapacidad"
+   ]
+  },
+  {
+   "etiqueta": "insularidad",
+   "total": 11,
+   "por_partido": {
+    "cc-primero-canarias": 7,
+    "pp": 4
+   },
+   "ejemplos": [
+    "cc-primero-canarias: Atención a la doble insularidad y a los municipios rurales",
+    "pp: Compensación de las desventajas de la insularidad y la ultraperiferia"
+   ]
+  },
+  {
+   "etiqueta": "burocracia",
+   "total": 10,
+   "por_partido": {
+    "pp": 10
+   },
+   "ejemplos": [
+    "pp: Supresión de tres normas por cada nueva regulación"
+   ]
+  },
+  {
+   "etiqueta": "financiación local",
+   "total": 9,
+   "por_partido": {
+    "bng": 2,
+    "cc-primero-canarias": 1,
+    "pp": 6
+   },
+   "ejemplos": [
+    "bng: Reforma de la financiación local y la Participación en Ingresos del Estado",
+    "cc-primero-canarias: Participación local estable en tributos del Estado y FCI",
+    "pp: Nuevo sistema de financiación local y uso de ahorros municipales"
+   ]
+  },
+  {
+   "etiqueta": "violencia de género",
+   "total": 9,
+   "por_partido": {
+    "cc-primero-canarias": 1,
+    "frente-obrero": 1,
+    "pp": 7
+   },
+   "ejemplos": [
+    "cc-primero-canarias: Financiación del Pacto de Estado contra la violencia de género",
+    "frente-obrero: Niega la existencia de la violencia de género",
+    "pp: Fiabilidad de los dispositivos de control de órdenes de alejamiento"
+   ]
+  },
+  {
+   "etiqueta": "comercio exterior",
+   "total": 8,
+   "por_partido": {
+    "bng": 2,
+    "cc-primero-canarias": 1,
+    "pp": 5
+   },
+   "ejemplos": [
+    "bng: Rechazo al acuerdo comercial UE-Mercosur",
+    "cc-primero-canarias: Evaluar acuerdos comerciales y defender salvaguardas para producciones canarias",
+    "pp: Exigencias equivalentes para los alimentos importados"
+   ]
+  },
+  {
+   "etiqueta": "terrorismo",
+   "total": 8,
+   "por_partido": {
+    "bng": 1,
+    "pp": 7
+   },
+   "ejemplos": [
+    "bng: Oposición a reformas regresivas de libertades con pretexto antiterrorista",
+    "pp: Más inelegibilidades para condenados por terrorismo, corrupción y delitos graves"
+   ]
+  },
+  {
+   "etiqueta": "pactos de gobierno",
+   "total": 8,
+   "por_partido": {
+    "cc-primero-canarias": 3,
+    "eaj-pnv": 5
+   },
+   "ejemplos": [
+    "cc-primero-canarias: Criterio para decidir investiduras, leyes y presupuestos",
+    "eaj-pnv: Papel del partido en Madrid con agenda propia"
+   ]
+  },
+  {
+   "etiqueta": "despoblación",
+   "total": 8,
+   "por_partido": {
+    "cc-primero-canarias": 2,
+    "pp": 6
+   },
+   "ejemplos": [
+    "cc-primero-canarias: Deducción del 60 % del IRPF en las islas verdes",
+    "pp: Incentivos económicos en zonas en declive demográfico"
+   ]
+  },
+  {
+   "etiqueta": "deuda pública",
+   "total": 8,
+   "por_partido": {
+    "pp": 8
+   },
+   "ejemplos": [
+    "pp: No comprometer recursos futuros para resolver problemas políticos presentes"
+   ]
+  },
+  {
+   "etiqueta": "narcotráfico",
+   "total": 8,
+   "por_partido": {
+    "pp": 8
+   },
+   "ejemplos": [
+    "pp: Unidad central permanente contra el crimen organizado en el sur"
+   ]
+  },
+  {
+   "etiqueta": "elecciones",
+   "total": 7,
+   "por_partido": {
+    "pp": 7
+   },
+   "ejemplos": [
+    "pp: Refuerzo del control del voto por correo"
+   ]
+  },
+  {
+   "etiqueta": "partidos políticos",
+   "total": 6,
+   "por_partido": {
+    "d21": 6
+   },
+   "ejemplos": [
+    "d21: Limpieza política integral y liberación de recursos de los partidos"
+   ]
+  },
+  {
+   "etiqueta": "sindicatos",
+   "total": 6,
+   "por_partido": {
+    "frente-obrero": 6
+   },
+   "ejemplos": [
+    "frente-obrero: Recuperación de un movimiento obrero con capacidad de presión"
+   ]
+  },
+  {
+   "etiqueta": "religión",
+   "total": 6,
+   "por_partido": {
+    "frente-obrero": 6
+   },
+   "ejemplos": [
+    "frente-obrero: Islam y teorías anticientíficas fuera de los centros públicos"
+   ]
+  },
+  {
+   "etiqueta": "subvenciones",
+   "total": 6,
+   "por_partido": {
+    "pp": 6
+   },
+   "ejemplos": [
+    "pp: Revisión de ayudas, contratos públicos y subvenciones otorgadas"
+   ]
+  },
+  {
+   "etiqueta": "salud mental",
+   "total": 5,
+   "por_partido": {
+    "bng": 1,
+    "cc-primero-canarias": 1,
+    "frente-obrero": 1,
+    "pp": 2
+   },
+   "ejemplos": [
+    "bng: Plan de salud mental dirigido a la juventud",
+    "cc-primero-canarias: Más partidas presupuestarias estatales para salud mental en Canarias",
+    "frente-obrero: Más personal y recursos para salud mental",
+    "pp: Plan Nacional de Salud Mental 2027-2037 con financiación"
+   ]
+  },
+  {
+   "etiqueta": "adicciones",
+   "total": 5,
+   "por_partido": {
+    "bng": 1,
+    "frente-obrero": 4
+   },
+   "ejemplos": [
+    "bng: Planes contra la ludopatía y eliminación de la publicidad del juego",
+    "frente-obrero: Fomento del deporte de base alejado de negocios y apuestas"
+   ]
+  },
+  {
+   "etiqueta": "costas",
+   "total": 5,
+   "por_partido": {
+    "cc-primero-canarias": 2,
+    "pp": 3
+   },
+   "ejemplos": [
+    "cc-primero-canarias: Traspaso de competencias de gestión del litoral",
+    "pp: Plazos de la acuicultura y marco estatal del litoral"
+   ]
+  },
+  {
+   "etiqueta": "salud laboral",
+   "total": 5,
+   "por_partido": {
+    "eaj-pnv": 5
+   },
+   "ejemplos": [
+    "eaj-pnv: Prevención de riesgos laborales y salud en el trabajo"
+   ]
+  },
+  {
+   "etiqueta": "amianto",
+   "total": 5,
+   "por_partido": {
+    "eaj-pnv": 5
+   },
+   "ejemplos": [
+    "eaj-pnv: Funcionamiento del fondo de compensación del amianto"
+   ]
+  },
+  {
+   "etiqueta": "mayores",
+   "total": 5,
+   "por_partido": {
+    "frente-obrero": 1,
+    "pp": 4
+   },
+   "ejemplos": [
+    "frente-obrero: Plazas públicas en residencias de la tercera edad",
+    "pp: Solidaridad entre generaciones como principio de gobierno"
+   ]
+  },
+  {
+   "etiqueta": "montes",
+   "total": 5,
+   "por_partido": {
+    "pp": 5
+   },
+   "ejemplos": [
+    "pp: Reforma de la Ley de Montes para la prevención todo el año"
+   ]
+  },
+  {
+   "etiqueta": "cuidados paliativos",
+   "total": 5,
+   "por_partido": {
+    "pp": 5
+   },
+   "ejemplos": [
+    "pp: Garantizar el acceso a los cuidados paliativos"
+   ]
+  },
+  {
+   "etiqueta": "prostitución",
+   "total": 4,
+   "por_partido": {
+    "bng": 4
+   },
+   "ejemplos": [
+    "bng: Abolición de la prostitución penalizando a proxenetas y prostituidores"
+   ]
+  },
+  {
+   "etiqueta": "emigración",
+   "total": 4,
+   "por_partido": {
+    "bng": 1,
+    "cc-primero-canarias": 2,
+    "frente-obrero": 1
+   },
+   "ejemplos": [
+    "bng: Plan de choque para el retorno de jóvenes emigrados",
+    "cc-primero-canarias: Atención social y sanitaria a los canarios del exterior",
+    "frente-obrero: Fomento del retorno de españoles emigrados"
+   ]
+  },
+  {
+   "etiqueta": "cooperación al desarrollo",
+   "total": 4,
+   "por_partido": {
+    "eaj-pnv": 1,
+    "pp": 3
+   },
+   "ejemplos": [
+    "eaj-pnv: Cooperación al desarrollo y modelo vasco de cooperación",
+    "pp: Cambio del modelo de cooperación al desarrollo"
+   ]
+  },
+  {
+   "etiqueta": "caza",
+   "total": 4,
+   "por_partido": {
+    "frente-obrero": 3,
+    "pp": 1
+   },
+   "ejemplos": [
+    "frente-obrero: Defensa de la caza como actividad regulada",
+    "pp: Defensa de la caza y reducción de trabas"
+   ]
+  },
+  {
+   "etiqueta": "empleo público",
+   "total": 4,
+   "por_partido": {
+    "pp": 4
+   },
+   "ejemplos": [
+    "pp: Replanteamiento de las plantillas públicas ante las jubilaciones previstas"
+   ]
+  },
+  {
+   "etiqueta": "universidad",
+   "total": 4,
+   "por_partido": {
+    "pp": 4
+   },
+   "ejemplos": [
+    "pp: Prueba de acceso a la universidad común en toda España"
+   ]
+  },
+  {
+   "etiqueta": "consumo",
+   "total": 4,
+   "por_partido": {
+    "pp": 4
+   },
+   "ejemplos": [
+    "pp: Trazabilidad, controles sanitarios y fraude alimentario"
+   ]
+  },
+  {
+   "etiqueta": "derechos humanos",
+   "total": 3,
+   "por_partido": {
+    "bng": 3
+   },
+   "ejemplos": [
+    "bng: Cumplir el derecho internacional sobre inmigrantes, refugiados y asilo"
+   ]
+  },
+  {
+   "etiqueta": "conciliación",
+   "total": 3,
+   "por_partido": {
+    "bng": 3
+   },
+   "ejemplos": [
+    "bng: Conciliación: compensar reducciones de jornada, excedencias y financiar escuelas infantiles"
+   ]
+  },
+  {
+   "etiqueta": "laicidad",
+   "total": 3,
+   "por_partido": {
+    "bng": 3
+   },
+   "ejemplos": [
+    "bng: Denunciar el Concordato y los Acuerdos con la Santa Sede"
+   ]
+  },
+  {
+   "etiqueta": "telecomunicaciones",
+   "total": 3,
+   "por_partido": {
+    "bng": 1,
+    "cc-primero-canarias": 2
+   },
+   "ejemplos": [
+    "bng: Transferencia a Galicia de competencias estatales en telecomunicaciones y ámbito digital",
+    "cc-primero-canarias: Plan Específico de Telecomunicaciones de Canarias"
+   ]
+  },
+  {
+   "etiqueta": "comercio",
+   "total": 3,
+   "por_partido": {
+    "cc-primero-canarias": 2,
+    "pp": 1
+   },
+   "ejemplos": [
+    "cc-primero-canarias: Acuerdo con Estado y UE sobre comercio electrónico en Canarias",
+    "pp: Agilizar indemnizaciones a comerciantes afectados por disturbios"
+   ]
+  },
+  {
+   "etiqueta": "ideología",
+   "total": 3,
+   "por_partido": {
+    "frente-obrero": 3
+   },
+   "ejemplos": [
+    "frente-obrero: Rechazo del eje izquierda-derecha como marco político"
+   ]
+  },
+  {
+   "etiqueta": "economía social",
+   "total": 3,
+   "por_partido": {
+    "pp": 3
+   },
+   "ejemplos": [
+    "pp: Reconocimiento del papel estratégico de la economía social"
+   ]
+  },
+  {
+   "etiqueta": "alimentación",
+   "total": 3,
+   "por_partido": {
+    "pp": 3
+   },
+   "ejemplos": [
+    "pp: IVA del 0% temporal a los alimentos básicos"
+   ]
+  },
+  {
+   "etiqueta": "ahorro",
+   "total": 3,
+   "por_partido": {
+    "pp": 3
+   },
+   "ejemplos": [
+    "pp: Compromiso de no penalizar fiscalmente el ahorro"
+   ]
+  },
+  {
+   "etiqueta": "seguridad vial",
+   "total": 2,
+   "por_partido": {
+    "bng": 2
+   },
+   "ejemplos": [
+    "bng: Mejorar la seguridad de las carreteras, con atención a motos y bicicletas"
+   ]
+  },
+  {
+   "etiqueta": "reforma constitucional",
+   "total": 2,
+   "por_partido": {
+    "d21": 2
+   },
+   "ejemplos": [
+    "d21: Reforma constitucional para eliminar aforamientos de diputados y senadores"
+   ]
+  },
+  {
+   "etiqueta": "drogas",
+   "total": 2,
+   "por_partido": {
+    "eaj-pnv": 1,
+    "frente-obrero": 1
+   },
+   "ejemplos": [
+    "eaj-pnv: Regulación del uso medicinal del cannabis",
+    "frente-obrero: Lucha contra el narcotráfico y penas altas de cárcel"
+   ]
+  },
+  {
+   "etiqueta": "asilo",
+   "total": 2,
+   "por_partido": {
+    "frente-obrero": 2
+   },
+   "ejemplos": [
+    "frente-obrero: Restricción del asilo político y elevación de sus requisitos"
+   ]
+  },
+  {
+   "etiqueta": "empresas públicas",
+   "total": 2,
+   "por_partido": {
+    "pp": 2
+   },
+   "ejemplos": [
+    "pp: Elección de gestores de empresas públicas por mérito"
+   ]
+  },
+  {
+   "etiqueta": "gestación subrogada",
+   "total": 1,
+   "por_partido": {
+    "bng": 1
+   },
+   "ejemplos": [
+    "bng: Oposición a legalizar la gestación subrogada e impedirla vía terceros países"
+   ]
+  },
+  {
+   "etiqueta": "servicios públicos",
+   "total": 1,
+   "por_partido": {
+    "bng": 1
+   },
+   "ejemplos": [
+    "bng: Servicios públicos universales, fuertes y gratuitos"
+   ]
+  },
+  {
+   "etiqueta": "juego",
+   "total": 1,
+   "por_partido": {
+    "bng": 1
+   },
+   "ejemplos": [
+    "bng: Planes contra la ludopatía y eliminación de la publicidad del juego"
+   ]
+  },
+  {
+   "etiqueta": "población",
+   "total": 1,
+   "por_partido": {
+    "cc-primero-canarias": 1
+   },
+   "ejemplos": [
+    "cc-primero-canarias: Reformas para hacer viable una Ley Canaria de Residencia"
+   ]
+  },
+  {
+   "etiqueta": "coste de la vida",
+   "total": 1,
+   "por_partido": {
+    "cc-primero-canarias": 1
+   },
+   "ejemplos": [
+    "cc-primero-canarias: Actualizar compensaciones por insularidad y evaluar su efecto en precios"
+   ]
+  },
+  {
+   "etiqueta": "publicidad",
+   "total": 1,
+   "por_partido": {
+    "frente-obrero": 1
+   },
+   "ejemplos": [
+    "frente-obrero: Acabar con la publicidad de apuestas, alcohol, pornografía y prostitución"
+   ]
+  },
+  {
+   "etiqueta": "soledad no deseada",
+   "total": 1,
+   "por_partido": {
+    "pp": 1
+   },
+   "ejemplos": [
+    "pp: Detección y acompañamiento frente a la soledad no deseada"
+   ]
+  },
+  {
+   "etiqueta": "símbolos nacionales",
+   "total": 1,
+   "por_partido": {
+    "pp": 1
+   },
+   "ejemplos": [
+    "pp: Reforma legal para proteger los símbolos del Estado"
+   ]
+  },
+  {
+   "etiqueta": "tauromaquia",
+   "total": 1,
+   "por_partido": {
+    "pp": 1
+   },
+   "ejemplos": [
+    "pp: Restitución del Premio Nacional de Tauromaquia"
+   ]
+  }
+ ],
+ "apartados_por_partido": {
+  "bng": {
+   "bng-programa-2026 › Introdución › O BNG, a forza de Galiza": 3,
+   "bng-programa-2026 › Introdución › A mellor garantía, cumprimos os compromisos": 1,
+   "bng-programa-2026 › 1. Máis forza para Galiza": 24,
+   "bng-programa-2026 › 2. Dereito a unha vida digna": 2,
+   "bng-programa-2026 › 2. Dereito a unha vida digna › 2.1 Vivenda": 27,
+   "bng-programa-2026 › 2. Dereito a unha vida digna › 2.2. Máis dereitos para a clase traballadora": 51,
+   "bng-programa-2026 › 2. Dereito a unha vida digna › 2.3. Na defensa do sistema público de pensións": 26,
+   "bng-programa-2026 › 2. Dereito a unha vida digna › 2.4. Combater a pobreza e promover a inclusión social": 7,
+   "bng-programa-2026 › 2. Dereito a unha vida digna › 2.5. Acollida, inclusión e dereitos das persoas inmigrantes": 14,
+   "bng-programa-2026 › 2. Dereito a unha vida digna › 2.6. Políticas feministas para avanzar nos dereitos das mulleres": 34,
+   "bng-programa-2026 › 2. Dereito a unha vida digna › 2.7. A defensa dos dereitos das persoas LGBT": 14,
+   "bng-programa-2026 › 2. Dereito a unha vida digna › 2.8. Na defensa da democracia e das liberdades públicas": 31,
+   "bng-programa-2026 › 3. Dereito a uns servizos públicos de calidade": 1,
+   "bng-programa-2026 › 3. Dereito a uns servizos públicos de calidade › 3.1. Educación": 26,
+   "bng-programa-2026 › 3. Dereito a uns servizos públicos de calidade › 3.2. Sanidade": 27,
+   "bng-programa-2026 › 3. Dereito a uns servizos públicos de calidade › 3.3. Persoas maiores, persoas en situación de dependencia e persoas con discapacidade": 9,
+   "bng-programa-2026 › 3. Dereito a uns servizos públicos de calidade › 3.4 Garantías de bo goberno": 7,
+   "bng-programa-2026 › 3. Dereito a uns servizos públicos de calidade › 3.5. Reestruturación da administración estatal na Galiza": 4,
+   "bng-programa-2026 › 4. A economía ao servizo das maiorías sociais › 4.1. Por unha nova fiscalidade": 20,
+   "bng-programa-2026 › 4. A economía ao servizo das maiorías sociais › 4.2. Sector industrial": 10,
+   "bng-programa-2026 › 4. A economía ao servizo das maiorías sociais › 4.3. Sectores primarios": 29,
+   "bng-programa-2026 › 4. A economía ao servizo das maiorías sociais › 4.4. Un compromiso firme coas persoas autónomas": 7,
+   "bng-programa-2026 › 4. A economía ao servizo das maiorías sociais › 4.5. Ciencia e investigación": 9,
+   "bng-programa-2026 › 4. A economía ao servizo das maiorías sociais › 4.6. Por unha transición enerxética xusta": 46,
+   "bng-programa-2026 › 5. Infraestruturas públicas e ordenación territorial": 2,
+   "bng-programa-2026 › 5. Infraestruturas públicas e ordenación territorial › 5.1. Infraestruturas ferroviarias": 13,
+   "bng-programa-2026 › 5. Infraestruturas públicas e ordenación territorial › 5.2. Infraestruturas viarias": 10,
+   "bng-programa-2026 › 5. Infraestruturas públicas e ordenación territorial › 5.3. Portos e aeroportos": 6,
+   "bng-programa-2026 › 6. Fronte á crise ambiental e a emerxencia climática": 4,
+   "bng-programa-2026 › 6. Fronte á crise ambiental e a emerxencia climática › 1) En materia competencial": 3,
+   "bng-programa-2026 › 6. Fronte á crise ambiental e a emerxencia climática › 2) En materia de tramitación ambiental de plans e proxectos": 1,
+   "bng-programa-2026 › 6. Fronte á crise ambiental e a emerxencia climática › 3) En materia de patrimonio natural e biodiversidade": 10,
+   "bng-programa-2026 › 6. Fronte á crise ambiental e a emerxencia climática › 4) En materia de ordenación, xestión e protección do litoral e do medio mariño": 9,
+   "bng-programa-2026 › 6. Fronte á crise ambiental e a emerxencia climática › 5) En relación co monte e coa política forestal": 5,
+   "bng-programa-2026 › 6. Fronte á crise ambiental e a emerxencia climática › 6) En materia de residuos e contaminación dos solos": 7,
+   "bng-programa-2026 › 7. Lingua e cultura": 29,
+   "bng-programa-2026 › 7. Lingua e cultura › Desde o Instituto Cervantes": 4,
+   "bng-programa-2026 › 7. Lingua e cultura › Nas relacións coa Lusofonía": 4,
+   "bng-programa-2026 › 8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos": 4,
+   "bng-programa-2026 › 8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos › 8.1 Soberanía dixital, competencias e desenvolvemento dun ecosistema galego de intelixencia artificial": 6,
+   "bng-programa-2026 › 8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos › 8.2. Dereitos civís, garantías democráticas e control público dos algoritmos": 11,
+   "bng-programa-2026 › 8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos › 8.3. Lingua galega, patrimonio cultural e intelixencia artificial soberana": 7,
+   "bng-programa-2026 › 8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos › 8.4. Datos e coñecemento en man común": 7,
+   "bng-programa-2026 › 8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos › 8.5. Infraestruturas públicas, nube soberana e autonomía tecnolóxica": 8,
+   "bng-programa-2026 › 8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos › 8.6 . Redes sociais ao servizo das persoas e liberdade de elección dixital": 7,
+   "bng-programa-2026 › 8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos › 8.7. Fiscalidade e retorno social do valor dixital": 5,
+   "bng-programa-2026 › 8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos › 8.8. Sustentabilidade ambiental e loita contra o extractivismo dixital": 10,
+   "bng-programa-2026 › 8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos › 8.9. Galiza como nodo de interconexión dixital atlántico": 5,
+   "bng-programa-2026 › 9. Políticas para a mocidade": 28,
+   "bng-programa-2026 › 10. Deportes": 7,
+   "bng-programa-2026 › 11. Galiza pola paz": 28
+  },
+  "cc-primero-canarias": {
+   "cc-primero-canarias-programa-2026 › Manifiesto político › Canarias tiene que contar": 3,
+   "cc-primero-canarias-programa-2026 › Manifiesto político › Una unidad que nace aquí": 2,
+   "cc-primero-canarias-programa-2026 › Manifiesto político › Una voz que responda ante Canarias": 4,
+   "cc-primero-canarias-programa-2026 › Manifiesto político › Un pueblo con identidad propia": 3,
+   "cc-primero-canarias-programa-2026 › Manifiesto político › La fuerza de los municipios y las ocho islas": 4,
+   "cc-primero-canarias-programa-2026 › Manifiesto político › Vivir aquí y tener futuro": 3,
+   "cc-primero-canarias-programa-2026 › Manifiesto político › Derechos que se cumplan y responsabilidades compartidas": 6,
+   "cc-primero-canarias-programa-2026 › Manifiesto político › El 29 de noviembre": 1,
+   "cc-primero-canarias-programa-2026 › Desarrollo programático › Diez causas y cien acciones": 197
+  },
+  "d21": {
+   "d21-espana-limpia › España Limpia": 7,
+   "d21-espana-limpia › No más redes clientelares": 2,
+   "d21-espana-limpia › No más redes clientelares › Punto y final al tsunami de asesores": 5,
+   "d21-espana-limpia › No más redes clientelares › Fuera cargos de carnet y delito de enchufismo": 7,
+   "d21-espana-limpia › No más redes clientelares › No más impuestos revolucionarios para los partidos políticos": 1,
+   "d21-espana-limpia › Cortar de raíz la corrupción": 1,
+   "d21-espana-limpia › Cortar de raíz la corrupción › Nuevos juzgados especializados en corrupción": 4,
+   "d21-espana-limpia › Cortar de raíz la corrupción › El mismo control para el político que para el ciudadano": 4,
+   "d21-espana-limpia › Cortar de raíz la corrupción › Fiscalía y Oficina Anticorrupción, más fuertes que nunca": 3,
+   "d21-espana-limpia › Cortar de raíz la corrupción › Los corruptos no tendrán refugio": 4,
+   "d21-espana-limpia › Cortar de raíz la corrupción › Los partidos políticos no saldrán impunes": 2,
+   "d21-espana-limpia › Cortar de raíz la corrupción › Quien robe a lo público, no volverá nunca a lo público": 2,
+   "d21-espana-limpia › No más repartos de sillones": 1,
+   "d21-espana-limpia › No más repartos de sillones › Un Consejo General del Poder Judicial despolitizado": 3,
+   "d21-espana-limpia › No más repartos de sillones › Una Fiscalía independiente": 2,
+   "d21-espana-limpia › No más repartos de sillones › Unos organismos de control independientes": 6,
+   "d21-espana-limpia › Punto y final a los aforamientos": 1,
+   "d21-espana-limpia › Punto y final a los aforamientos › Todos fuera": 3,
+   "d21-espana-limpia › Devolver el poder al ciudadano": 1,
+   "d21-espana-limpia › Devolver el poder al ciudadano › Escuchar será obligatorio": 5,
+   "d21-espana-limpia › Devolver el poder al ciudadano › No más bloqueos": 2,
+   "d21-espana-limpia › Devolver el poder al ciudadano › Si no trabajan, no cobran": 2,
+   "d21-espana-limpia › Devolver el poder al ciudadano › No habrá Gobierno sin presupuestos": 2,
+   "d21-espana-limpia › Devolver el poder al ciudadano › Menos promesas, más resultados": 5,
+   "d21-espana-limpia › Gobernar con ética": 1,
+   "d21-espana-limpia › Gobernar con ética › Código ético de Gobierno obligatorio": 3,
+   "d21-espana-limpia › Con dos mandatos basta": 1,
+   "d21-espana-limpia › Con dos mandatos basta › 8 años como máximo": 1,
+   "d21-espana-limpia › Aire fresco en nuestro sistema electoral": 1,
+   "d21-espana-limpia › Aire fresco en nuestro sistema electoral › Adiós listas cerradas, hola listas flexibles": 1,
+   "d21-vivienda › Vivienda, prioridad nº1": 1,
+   "d21-vivienda › Alivio hoy. Solución para siempre: plan de choque en 2 fases": 2,
+   "d21-vivienda › Alivio hoy. Solución para siempre: plan de choque en 2 fases › Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia": 4,
+   "d21-vivienda › Alivio hoy. Solución para siempre: plan de choque en 2 fases › Fase 2 - Solución para siempre: un plan a 10 años": 1,
+   "d21-vivienda › Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional": 15,
+   "d21-vivienda › Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años)": 21,
+   "d21-educacion › La educación en el centro": 1,
+   "d21-educacion › Una educación para el siglo 21 › Incorporaremos la Tecnología como un Pilar Fundamental del Currículo Educativo": 2,
+   "d21-educacion › Una educación para el siglo 21 › Inteligencia Artificial Educativa": 2,
+   "d21-educacion › Una educación para el siglo 21 › Saber Comunicar será una Prioridad Absoluta": 2,
+   "d21-educacion › Una educación para el siglo 21 › Educación Económica para la Vida": 2,
+   "d21-educacion › Una educación para el siglo 21 › Respeto, Corresponsabilidad y Convivencia Escolar": 2,
+   "d21-educacion › Una educación para el siglo 21 › Aprendizaje Práctico en el Mundo Real": 1,
+   "d21-educacion › Recuperar todo el potencial educativo del país › Objetivo PISA - España al Top 10 Europeo": 3,
+   "d21-educacion › Recuperar todo el potencial educativo del país › Nuevas Especialidades": 2,
+   "d21-educacion › Recuperar todo el potencial educativo del país › Educación Infantil (0-3 años) como Primer Ascensor Social": 2,
+   "d21-educacion › Recuperar todo el potencial educativo del país › Plan de Renovación de Infraestructuras Educativas": 2,
+   "d21-educacion › Recuperar todo el potencial educativo del país › Sistema de Medición para el Apoyo Educativo": 3,
+   "d21-educacion › Recuperar todo el potencial educativo del país › Escudos de Apoyo Docente": 2,
+   "d21-educacion › Fortalecer el prestigio de la docencia › Reconocer el Mérito y el Esfuerzo": 2,
+   "d21-educacion › Fortalecer el prestigio de la docencia › Pruebas de Acceso a las Facultades de Educación": 1,
+   "d21-educacion › Fortalecer el prestigio de la docencia › MIR Educativo": 2,
+   "d21-educacion › Fortalecer el prestigio de la docencia › Profesionalizar y Respaldar la Dirección Educativa": 2,
+   "d21-educacion › Universidad flexible, práctica y conectada al mundo real › Grados Flexibles e Interuniversitarios": 3,
+   "d21-educacion › Universidad flexible, práctica y conectada al mundo real › Aprendizaje Práctico": 4,
+   "d21-educacion › Universidad flexible, práctica y conectada al mundo real › Expansión Internacional": 1,
+   "d21-educacion › Universidad flexible, práctica y conectada al mundo real › Becas Que Lleguen a Tiempo en Septiembre": 1,
+   "d21-educacion › Universidad flexible, práctica y conectada al mundo real › Comparador Público de Titulaciones": 1,
+   "d21-educacion › Universidad flexible, práctica y conectada al mundo real › Talento Docente y Sexenio de Innovación Docente": 3,
+   "d21-educacion › Apostar por la formación profesional más que nunca › Atracción y Estabilidad del Talento Docente en FP": 3,
+   "d21-educacion › Apostar por la formación profesional más que nunca › Flexibilización de la FP y Tutor Compartido para las PYMES": 2,
+   "d21-educacion › Apostar por la formación profesional más que nunca › Créditos de Retorno Empresarial - Premiar y Compensar a Quien Forma": 2,
+   "d21-educacion › Apostar por la formación profesional más que nunca › Financiación Plurianual Estratégica para las FP": 1,
+   "d21-educacion › Hucha de formación para jóvenes": 2
+  },
+  "eaj-pnv": {
+   "eaj-pnv-programa-2026 › Lo que te importa. Lo que vamos a defender.": 8,
+   "eaj-pnv-programa-2026 › Poder construir tu vida aquí": 6,
+   "eaj-pnv-programa-2026 › Poder construir tu vida aquí › 1.1 Vivienda: acabar con los abusos y construir más viviendas": 9,
+   "eaj-pnv-programa-2026 › Poder construir tu vida aquí › 1.2 Emanciparse en Euskadi debe ser posible": 6,
+   "eaj-pnv-programa-2026 › Poder construir tu vida aquí › 1.3 Mejores salarios, empleo digno y derechos laborales": 15,
+   "eaj-pnv-programa-2026 › Poder construir tu vida aquí › 1.4 Una educación que abra oportunidades": 9,
+   "eaj-pnv-programa-2026 › Poder construir tu vida aquí › 1.5 Una juventud con voz y capacidad de decisión": 4,
+   "eaj-pnv-programa-2026 › Una Euskadi que trabaja y prospera": 5,
+   "eaj-pnv-programa-2026 › Una Euskadi que trabaja y prospera › 2.1 Industria fuerte y centros de decisión en Euskadi": 8,
+   "eaj-pnv-programa-2026 › Una Euskadi que trabaja y prospera › 2.2 Apoyar a quienes emprenden, generan empleo y mantienen vivos nuestros negocios": 8,
+   "eaj-pnv-programa-2026 › Una Euskadi que trabaja y prospera › 2.3 Energía competitiva para nuestra industria y asequible para los hogares": 14,
+   "eaj-pnv-programa-2026 › Una Euskadi que trabaja y prospera › 2.4 Una transición ecológica que proteja el medio ambiente y genere oportunidades": 13,
+   "eaj-pnv-programa-2026 › Una Euskadi que trabaja y prospera › 2.5 Futuro para nuestros pueblos, el campo y la pesca": 17,
+   "eaj-pnv-programa-2026 › Una Euskadi que trabaja y prospera › 2.6 Infraestructuras: fechas, inversiones y resultados.": 23,
+   "eaj-pnv-programa-2026 › Una Euskadi que trabaja y prospera › 2.7 Una fiscalidad que favorezca la actividad económica y permita invertir": 7,
+   "eaj-pnv-programa-2026 › Vivir con tranquilidad y con derechos": 3,
+   "eaj-pnv-programa-2026 › Vivir con tranquilidad y con derechos › 3.1 Calles y barrios seguros. Una Ertzaintza con todas las capacidades": 7,
+   "eaj-pnv-programa-2026 › Vivir con tranquilidad y con derechos › 3.2 Una migración gestionada desde Euskadi, con derechos y responsabilidades": 14,
+   "eaj-pnv-programa-2026 › Vivir con tranquilidad y con derechos › 3.3 Igualdad real y una vida libre de violencia machista": 14,
+   "eaj-pnv-programa-2026 › Vivir con tranquilidad y con derechos › 3.4 Defender los derechos de las personas LGTBIQ+ y combatir la discriminación": 6,
+   "eaj-pnv-programa-2026 › Vivir con tranquilidad y con derechos › 3.5 Derechos humanos y libertades sin retrocesos": 10,
+   "eaj-pnv-programa-2026 › Cuidar lo que hemos conseguido": 6,
+   "eaj-pnv-programa-2026 › Cuidar lo que hemos conseguido › 4.1 Pensiones dignas y justicia para las largas carreras de cotización": 10,
+   "eaj-pnv-programa-2026 › Cuidar lo que hemos conseguido › 4.2 Una sanidad pública que responda cuando la necesitamos": 11,
+   "eaj-pnv-programa-2026 › Cuidar lo que hemos conseguido › 4.3 Cuidar a quienes cuidan. Reconocer su trabajo y proteger sus derechos": 5,
+   "eaj-pnv-programa-2026 › Cuidar lo que hemos conseguido › 4.4 Protección efectiva ante las enfermedades graves y la dependencia": 6,
+   "eaj-pnv-programa-2026 › Cuidar lo que hemos conseguido › 4.5 Reparación justa y sin más retrasos para las víctimas del amianto": 5,
+   "eaj-pnv-programa-2026 › Cuidar lo que hemos conseguido › 4.6 Proteger a la infancia y garantizar el bienestar de todas las generaciones": 8,
+   "eaj-pnv-programa-2026 › Decidir aquí. Hacernos escuchar allí.": 8,
+   "eaj-pnv-programa-2026 › Decidir aquí. Hacernos escuchar allí. › 5.1 Lo pactado se cumple. Más capacidad para decidir aquí": 8,
+   "eaj-pnv-programa-2026 › Decidir aquí. Hacernos escuchar allí. › 5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político": 6,
+   "eaj-pnv-programa-2026 › Decidir aquí. Hacernos escuchar allí. › 5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi": 4,
+   "eaj-pnv-programa-2026 › Decidir aquí. Hacernos escuchar allí. › 5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas": 8,
+   "eaj-pnv-programa-2026 › Decidir aquí. Hacernos escuchar allí. › 5.5 Euskadi con voz propia en Europa": 8,
+   "eaj-pnv-programa-2026 › Decidir aquí. Hacernos escuchar allí. › 5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi": 5
+  },
+  "frente-obrero": {
+   "frente-obrero-programa-general › 01 La España que debemos ser": 4,
+   "frente-obrero-programa-general › 02 Los trabajadores primero": 18,
+   "frente-obrero-programa-general › 03 Soberanía nacional": 7,
+   "frente-obrero-programa-general › 04 Recuperemos la industria española": 7,
+   "frente-obrero-programa-general › 05 Soberanía energética": 12,
+   "frente-obrero-programa-general › 06 Fiscalidad": 11,
+   "frente-obrero-programa-general › 07 Educación": 20,
+   "frente-obrero-programa-general › 08 Cultura": 13,
+   "frente-obrero-programa-general › 09 Juventud": 11,
+   "frente-obrero-programa-general › 10 Mujer e igualdad real": 11,
+   "frente-obrero-programa-general › 11 Natalidad y familia": 10,
+   "frente-obrero-programa-general › 12 En defensa del campo español": 16,
+   "frente-obrero-programa-general › 13 Contra la censura": 7,
+   "frente-obrero-programa-general › 14 Sanidad": 17,
+   "frente-obrero-programa-general › 15 Vivienda": 12,
+   "frente-obrero-programa-general › 16 Pensiones": 7,
+   "frente-obrero-programa-general › 17 Inmigración": 36,
+   "frente-obrero-programa-general › 18 Estructura territorial y administración": 8,
+   "frente-obrero-programa-general › 19 Justicia": 8,
+   "frente-obrero-programa-general › 20 Fuerzas y Cuerpos de Seguridad del Estado": 6,
+   "frente-obrero-programa-general › 21 Ejército": 7
+  },
+  "pp": {
+   "pp-programa-2026 › El programa del cambio necesario para España": 1,
+   "pp-programa-2026 › La España que haremos entre todos": 4,
+   "pp-programa-2026 › 01 Reparar el Estado": 4,
+   "pp-programa-2026 › 01 Reparar el Estado › 1.1 La Administración será rigurosa, dimensionada y eficaz": 23,
+   "pp-programa-2026 › 01 Reparar el Estado › 1.2 El Estado dejará de asfixiar al que cumple y de subvencionar al que se aprovecha": 22,
+   "pp-programa-2026 › 01 Reparar el Estado › 1.3 El Estado estará presente en toda España": 22,
+   "pp-programa-2026 › 01 Reparar el Estado › 1.4 Se hará cumplir la ley en todo el territorio": 59,
+   "pp-programa-2026 › 01 Reparar el Estado › 1.5 Nuestro país recuperará el control de sus fronteras": 21,
+   "pp-programa-2026 › 01 Reparar el Estado › 1.6 Vivir en España será un compromiso mutuo": 31,
+   "pp-programa-2026 › 01 Reparar el Estado › 1.7 El Gobierno llegará el primero cuando haya una emergencia": 33,
+   "pp-programa-2026 › 01 Reparar el Estado › 1.8 España tendrá medios para su defensa": 15,
+   "pp-programa-2026 › 02 Regenerar la democracia": 3,
+   "pp-programa-2026 › 02 Regenerar la democracia › 2.1 El poder se ganará con más garantías y se ejercerá de forma más estable": 20,
+   "pp-programa-2026 › 02 Regenerar la democracia › 2.2 Nadie gobernará sin presupuestos ni gastará sin control": 3,
+   "pp-programa-2026 › 02 Regenerar la democracia › 2.3 El poder no controlará a quien lo vigila": 45,
+   "pp-programa-2026 › 02 Regenerar la democracia › 2.4 La política nunca será un negocio": 7,
+   "pp-programa-2026 › 02 Regenerar la democracia › 2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno": 21,
+   "pp-programa-2026 › 03 Reunir a la Nación": 3,
+   "pp-programa-2026 › 03 Reunir a la Nación › 3.1 Una ciudadanía común": 17,
+   "pp-programa-2026 › 03 Reunir a la Nación › 3.2 Unir territorios, generaciones y personas": 51,
+   "pp-programa-2026 › 03 Reunir a la Nación › 3.3 Unas infraestructuras seguras que vertebren España": 25,
+   "pp-programa-2026 › 03 Reunir a la Nación › 3.4 Recuperar lo que compartimos": 27,
+   "pp-programa-2026 › 03 Reunir a la Nación › 3.5 La nacionalidad es un vínculo de pertenencia": 7,
+   "pp-programa-2026 › 04 Recuperar la ambición y la autoestima": 3,
+   "pp-programa-2026 › 04 Recuperar la ambición y la autoestima › 4.1 Se construirá un millón de viviendas más en España": 44,
+   "pp-programa-2026 › 04 Recuperar la ambición y la autoestima › 4.2 España será el mejor país de Europa para formar una familia": 32,
+   "pp-programa-2026 › 04 Recuperar la ambición y la autoestima › 4.3 En España siempre merecerá la pena trabajar, emprender y arriesgar": 22,
+   "pp-programa-2026 › 04 Recuperar la ambición y la autoestima › 4.4 Los españoles pagarán menos impuestos": 19,
+   "pp-programa-2026 › 04 Recuperar la ambición y la autoestima › 4.5 España cerrará la brecha de productividad con Europa": 35,
+   "pp-programa-2026 › 04 Recuperar la ambición y la autoestima › 4.6 El mundo rural volverá a ser atractivo y rentable": 32,
+   "pp-programa-2026 › 04 Recuperar la ambición y la autoestima › 4.7 España tendrá su mejor resultado en PISA en cuatro años": 21,
+   "pp-programa-2026 › 04 Recuperar la ambición y la autoestima › 4.8 Seremos referente mundial en sanidad y cuidados": 38,
+   "pp-programa-2026 › 04 Recuperar la ambición y la autoestima › 4.9 España puede ser potencia energética de Europa": 32,
+   "pp-programa-2026 › 04 Recuperar la ambición y la autoestima › 4.10 Recuperaremos el lugar que nos corresponde en el mundo": 49
+  }
+ }
+}

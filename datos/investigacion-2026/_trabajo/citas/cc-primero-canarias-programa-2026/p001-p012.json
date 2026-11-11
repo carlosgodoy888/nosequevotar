@@ -1,0 +1,1879 @@
+{
+  "fuente": "cc-primero-canarias-programa-2026",
+  "partido": "cc-primero-canarias",
+  "paginas": [
+    1,
+    12
+  ],
+  "citas": [
+    {
+      "cita": "Mientras la política estatal se encierra en dos bloques cada vez más enfrentados, Canarias necesita fuerza propia para que sus problemas se atiendan y sus derechos se hagan efectivos.",
+      "pagina": 2,
+      "apartado": [
+        "Manifiesto político",
+        "Canarias tiene que contar"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Necesidad de fuerza propia canaria en la política estatal",
+      "etiquetas": [
+        "instituciones",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las reformas de 2018 del Estatuto y del Régimen Económico y Fiscal ampliaron las herramientas con las que contamos. Su desarrollo debe permitir que Canarias decida sobre más asuntos y disponga de los medios para hacerlo.",
+      "pagina": 2,
+      "apartado": [
+        "Manifiesto político",
+        "Canarias tiene que contar"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Desarrollo del Estatuto y del REF reformados en 2018",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El reconocimiento de nuestra singularidad debe traducirse en mejores condiciones de vida, mejores servicios y más oportunidades en cada isla.",
+      "pagina": 2,
+      "apartado": [
+        "Manifiesto político",
+        "Canarias tiene que contar"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La singularidad canaria debe traducirse en mejores condiciones de vida",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nos une la voluntad de que Canarias pueda decidir más sobre su futuro y defender una agenda propia ante el Estado y la Unión Europea.",
+      "pagina": 3,
+      "apartado": [
+        "Manifiesto político",
+        "Una unidad que nace aquí"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Más capacidad de decisión y agenda propia ante Estado y UE",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Podemos pensar de manera distinta en muchos asuntos y acordar lo que nuestra tierra necesita defender conjuntamente. Hay una base suficiente para hacerlo: el autogobierno, unos servicios públicos bien financiados, el derecho a vivir aquí y unas oportunidades que alcancen a todas las islas.",
+      "pagina": 3,
+      "apartado": [
+        "Manifiesto político",
+        "Una unidad que nace aquí"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Base común del acuerdo entre las dos formaciones",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "La polarización y la radicalización de la política estatal no pueden marcar nuestra convivencia. Defenderemos nuestras posiciones sin convertir en enemigos a quienes discrepan.",
+      "pagina": 3,
+      "apartado": [
+        "Manifiesto político",
+        "Una voz que responda ante Canarias"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Postura ante la polarización de la política estatal",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestra libertad de decisión estará al servicio de las islas. Tomaremos nuestras decisiones aquí y responderemos ante la ciudadanía canaria. Cada investidura, cada ley y cada presupuesto se valorarán por lo que aporten a Canarias.",
+      "pagina": 3,
+      "apartado": [
+        "Manifiesto político",
+        "Una voz que responda ante Canarias"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Criterio para decidir investiduras, leyes y presupuestos",
+      "etiquetas": [
+        "instituciones",
+        "pactos de gobierno"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Hablaremos con quienes estén dispuestos a atender esta agenda. Ningún Gobierno podrá dar por hecho nuestro apoyo mientras deje nuestras necesidades sin atender, y ninguna estrategia de los partidos estatales estará por encima del compromiso que asumimos con nuestra gente.",
+      "pagina": 3,
+      "apartado": [
+        "Manifiesto político",
+        "Una voz que responda ante Canarias"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Diálogo con quien atienda la agenda canaria; apoyo condicionado",
+      "etiquetas": [
+        "instituciones",
+        "pactos de gobierno"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestra representación en las Cortes Generales mantendrá el contacto con los pueblos y los barrios durante toda la legislatura. Escuchar en cada isla, explicar lo que se negocia y volver para rendir cuentas de los resultados forma parte de ese trabajo.",
+      "pagina": 3,
+      "apartado": [
+        "Manifiesto político",
+        "Una voz que responda ante Canarias"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Contacto con las islas y rendición de cuentas de los representantes",
+      "etiquetas": [
+        "instituciones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defendemos a Canarias como nación archipelágica, con identidad propia y derecho a decidir su rumbo dentro del Estado español y del marco europeo.",
+      "pagina": 3,
+      "apartado": [
+        "Manifiesto político",
+        "Un pueblo con identidad propia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Canarias como nación archipelágica dentro del Estado y de Europa",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aspiramos al máximo autogobierno en un Estado que reconozca y articule de común acuerdo su realidad plurinacional.",
+      "pagina": 3,
+      "apartado": [
+        "Manifiesto político",
+        "Un pueblo con identidad propia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Máximo autogobierno en un Estado plurinacional",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestra manera de hablar, la memoria de nuestros pueblos, el patrimonio y la creación cultural merecen un lugar propio en la educación y en la vida pública.",
+      "pagina": 4,
+      "apartado": [
+        "Manifiesto político",
+        "Un pueblo con identidad propia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Lugar de la cultura y el habla canarias en la educación",
+      "etiquetas": [
+        "cultura",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los ayuntamientos y los cabildos necesitan recursos suficientes y competencias claras.",
+      "pagina": 4,
+      "apartado": [
+        "Manifiesto político",
+        "La fuerza de los municipios y las ocho islas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Recursos y competencias para ayuntamientos y cabildos",
+      "etiquetas": [
+        "municipios",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Canarias está hecha de ocho islas distintas, y cada una debe encontrar su lugar en este proyecto. La cooperación entre ellas exige responder a la doble insularidad y atender las necesidades de los municipios rurales y de quienes viven fuera de los grandes núcleos.",
+      "pagina": 4,
+      "apartado": [
+        "Manifiesto político",
+        "La fuerza de los municipios y las ocho islas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Atención a la doble insularidad y a los municipios rurales",
+      "etiquetas": [
+        "insularidad",
+        "medio rural",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Poder estudiar, acceder a un servicio o desarrollar una actividad no puede depender del lugar de residencia.",
+      "pagina": 4,
+      "apartado": [
+        "Manifiesto político",
+        "La fuerza de los municipios y las ocho islas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Igualdad de acceso a servicios con independencia de la residencia",
+      "etiquetas": [
+        "insularidad",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las propuestas de las instituciones locales, junto con las de los colectivos sociales y económicos, formarán parte de nuestra acción común.",
+      "pagina": 4,
+      "apartado": [
+        "Manifiesto político",
+        "La fuerza de los municipios y las ocho islas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Incorporar propuestas de instituciones locales y colectivos a la acción común",
+      "etiquetas": [
+        "municipios",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Hace falta más vivienda asequible y capacidad propia para ordenar el crecimiento y responder a la presión sobre el territorio.",
+      "pagina": 4,
+      "apartado": [
+        "Manifiesto político",
+        "Vivir aquí y tener futuro"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Más vivienda asequible y capacidad propia para ordenar el crecimiento",
+      "etiquetas": [
+        "vivienda",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El turismo tiene que respetar los límites de las islas y contribuir más al bienestar de su población.",
+      "pagina": 4,
+      "apartado": [
+        "Manifiesto político",
+        "Vivir aquí y tener futuro"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Turismo dentro de los límites de las islas",
+      "etiquetas": [
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La transición energética debe garantizar la seguridad del suministro, reducir la dependencia exterior y permitir el acceso a energía limpia a un precio razonable.",
+      "pagina": 4,
+      "apartado": [
+        "Manifiesto político",
+        "Vivir aquí y tener futuro"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivos de la transición energética en Canarias",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Estatuto de Autonomía, el Régimen Económico y Fiscal y nuestra condición de región ultraperiférica de la Unión Europea son instrumentos para hacer posible la igualdad.",
+      "pagina": 5,
+      "apartado": [
+        "Manifiesto político",
+        "Derechos que se cumplan y responsabilidades compartidas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Estatuto, REF y ultraperiferia como instrumentos de igualdad",
+      "etiquetas": [
+        "organización territorial",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos más capacidad para decidir desde Canarias, con los medios necesarios para ejercerla, y nos opondremos a la recentralización.",
+      "pagina": 5,
+      "apartado": [
+        "Manifiesto político",
+        "Derechos que se cumplan y responsabilidades compartidas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más capacidad de decisión y oposición a la recentralización",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La propuesta de Decreto Canarias trasladada por el Gobierno canario al Estado reúne medidas para hacer efectivos los derechos de Canarias, ejecutar inversiones y responder a las necesidades de las islas. Defenderemos la continuidad de los avances alcanzados, la ejecución de lo acordado y la aprobación de lo que siga pendiente.",
+      "pagina": 5,
+      "apartado": [
+        "Manifiesto político",
+        "Derechos que se cumplan y responsabilidades compartidas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa de la propuesta de Decreto Canarias",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La posición de Canarias en la ruta atlántica exige también una política migratoria con responsabilidad estatal y europea. La protección de quienes llegan a nuestras costas debe respetar los derechos humanos y contar con medios suficientes.",
+      "pagina": 5,
+      "apartado": [
+        "Manifiesto político",
+        "Derechos que se cumplan y responsabilidades compartidas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Política migratoria con responsabilidad estatal y europea",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Reclamamos una solidaridad efectiva entre territorios, especialmente en la acogida de menores no acompañados.",
+      "pagina": 5,
+      "apartado": [
+        "Manifiesto político",
+        "Derechos que se cumplan y responsabilidades compartidas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Solidaridad entre territorios en la acogida de menores no acompañados",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La cooperación con los países vecinos, la lucha contra las redes que se lucran a costa de las personas y la defensa de la convivencia forman parte de esa respuesta.",
+      "pagina": 5,
+      "apartado": [
+        "Manifiesto político",
+        "Derechos que se cumplan y responsabilidades compartidas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Cooperación con países vecinos y lucha contra redes de tráfico",
+      "etiquetas": [
+        "inmigración",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La Agenda Canaria es una base sobre la que seguir avanzando. Queremos ampliarla con la sociedad y convertir las preocupaciones compartidas en compromisos cuyo cumplimiento se pueda comprobar.",
+      "pagina": 5,
+      "apartado": [
+        "Manifiesto político",
+        "El 29 de noviembre"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Agenda Canaria como base ampliable con la sociedad",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Alcanzar una igualdad real exige respuestas adaptadas a esas circunstancias y la aplicación efectiva de los derechos que ya están reconocidos.",
+      "pagina": 6,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Respuestas adaptadas a la lejanía y la insularidad",
+      "etiquetas": [
+        "insularidad",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El programa conecta esos derechos con resultados que importan en la vida cotidiana y defiende que los recursos del REF se mantengan separados de la financiación ordinaria de los servicios públicos.",
+      "pagina": 6,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Recursos del REF separados de la financiación ordinaria",
+      "etiquetas": [
+        "financiación autonómica",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "También queremos aprovechar las capacidades de Canarias para diversificar su economía y reducir la dependencia exterior. La energía limpia, el almacenamiento energético, la economía azul, la investigación y la cooperación atlántica pueden generar nuevas actividades y empleos.",
+      "pagina": 7,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Diversificación económica y reducción de la dependencia exterior",
+      "etiquetas": [
+        "economía",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Cuando la ejecución corresponda al Gobierno de Canarias, a los cabildos o a los ayuntamientos, reclamaremos al Estado la financiación, los cambios normativos, el patrimonio o la participación en las decisiones que sean necesarios.",
+      "pagina": 7,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reclamar al Estado medios para las administraciones canarias",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Defenderemos asimismo que España sostenga los intereses canarios ante la Unión Europea y que nuestras instituciones intervengan en los asuntos exteriores que afectan directamente a las islas.",
+      "pagina": 7,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Intereses canarios ante la UE y participación en asuntos exteriores",
+      "etiquetas": [
+        "política exterior",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El cumplimiento de la Agenda Canaria y la defensa de la propuesta de Decreto Canarias trasladada por el Gobierno de Canarias al Estado serán una referencia de nuestra acción en las Cortes Generales.",
+      "pagina": 7,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Agenda Canaria y Decreto Canarias como referencia parlamentaria",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sobre esa base incorporaremos los nuevos acuerdos con el Estado y Europa, con financiación, plazos y seguimiento público. Para cada medida distinguiremos lo que requiere aprobación, lo que necesita financiación y lo que está pendiente de ejecución, y actualizaremos los calendarios de las propuestas de ejercicios anteriores.",
+      "pagina": 7,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Seguimiento público de acuerdos, financiación y calendarios",
+      "etiquetas": [
+        "instituciones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El autogobierno y nuestros derechos deben traducirse en capacidad para resolver problemas. Queremos que la realidad canaria se tenga en cuenta desde el inicio del diseño de las políticas del Estado y que las obligaciones con las islas se cumplan.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Autogobierno y cumplimiento de las obligaciones del Estado",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cumplir el Estatuto. Exigiremos un calendario verificable para completar los traspasos y desarrollos pendientes del Estatuto de Autonomía, con medios económicos, personal y recursos materiales suficientes.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Calendario para completar los traspasos pendientes del Estatuto",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Incluiremos la gestión del transporte aéreo interinsular y las autorizaciones de trabajo para personas extranjeras previstas en el Estatuto.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Traspaso del transporte aéreo interinsular y permisos de trabajo",
+      "etiquetas": [
+        "organización territorial",
+        "transporte",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nos opondremos a la recentralización y a cualquier retroceso en la capacidad de Canarias para decidir sobre sus asuntos.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Oposición a la recentralización de competencias",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Participar en las decisiones que nos afectan. Reforzaremos la relación bilateral entre Canarias y el Estado. Las decisiones con un impacto singular en las islas deberán contar con la participación efectiva de nuestras instituciones.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de la relación bilateral entre Canarias y el Estado",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reclamaremos mecanismos de acuerdo sobre las infraestructuras científicas estratégicas y sobre los nombramientos en los organismos estatales radicados en Canarias, con criterios de competencia profesional e idoneidad.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acuerdo sobre infraestructuras científicas y nombramientos en organismos estatales",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Reconocer de forma permanente la singularidad canaria. Defenderemos que una eventual reforma constitucional recoja las singularidades derivadas de la lejanía, la insularidad y la ultraperiferia. Las garantías que necesita Canarias deben mantenerse con independencia de los cambios de Gobierno.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Singularidad canaria en una eventual reforma constitucional",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proteger y actualizar el REF. Defenderemos la integridad del Régimen Económico y Fiscal, nuestro fuero histórico y un instrumento esencial para compensar desventajas permanentes. Su actualización deberá responder a las necesidades de la sociedad canaria y hacer que sus beneficios lleguen al conjunto de las islas.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa y actualización del Régimen Económico y Fiscal",
+      "etiquetas": [
+        "economía",
+        "impuestos",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Reclamaremos más capacidad canaria para decidir sobre sus instrumentos y rechazaremos reformas unilaterales del Estado que prescindan de la participación del Gobierno y del Parlamento de Canarias.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Capacidad canaria sobre el REF y rechazo a reformas unilaterales",
+      "etiquetas": [
+        "economía",
+        "impuestos",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Separar el REF de la financiación de los servicios públicos. Impediremos que los recursos del REF se computen como financiación ordinaria de la sanidad, la educación, la dependencia o los servicios sociales. La compensación por la lejanía y la insularidad no puede restarse de lo que corresponde a Canarias para atender a su población.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Recursos del REF fuera del cómputo de la financiación ordinaria",
+      "etiquetas": [
+        "financiación autonómica",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Una financiación que entienda las ocho islas. Exigiremos un sistema de financiación autonómica suficiente y estable que reconozca el coste real de prestar servicios en un archipiélago alejado. Deberá tener en cuenta la población efectiva y su evolución, la fragmentación territorial, la pobreza y el envejecimiento, para planificar de forma estable los centros, las plantillas y las prestaciones.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sistema de financiación autonómica que reconozca el coste insular",
+      "etiquetas": [
+        "financiación autonómica",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Ejecutar las inversiones comprometidas. Reclamaremos el cumplimiento de los convenios de carreteras, vivienda, agua, costas e infraestructuras educativas y turísticas. Cada obligación deberá contar con financiación y plazos verificables, de modo que las cantidades anunciadas se conviertan en obras y servicios para las islas.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cumplimiento de los convenios de inversión del Estado en Canarias",
+      "etiquetas": [
+        "infraestructuras",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Defenderemos plazos de vigencia y ejecución que permitan completar las actuaciones, sin perder recursos por retrasos ajenos a las administraciones canarias.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Plazos de vigencia y ejecución de las inversiones comprometidas",
+      "etiquetas": [
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Decisión canaria en puertos y aeropuertos. Desarrollaremos las previsiones del Estatuto para que el Gobierno de Canarias y los cabildos tengan un papel efectivo en la planificación, las inversiones, la estrategia y la gestión de los puertos y aeropuertos.",
+      "pagina": 8,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Participación canaria en la gestión de puertos y aeropuertos",
+      "etiquetas": [
+        "transporte",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Exigiremos la aplicación efectiva del régimen específico de los aeropuertos canarios y la actualización de las inversiones para corregir las carencias de los aeropuertos no capitalinos.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Régimen específico de aeropuertos e inversiones en los no capitalinos",
+      "etiquetas": [
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Impulsaremos también la mejora del Registro Especial de Buques de Canarias y la negociación de su gestión por la comunidad autónoma.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mejora y gestión autonómica del Registro Especial de Buques",
+      "etiquetas": [
+        "transporte",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Recuperar espacios militares para la sociedad canaria. Impulsaremos la recuperación para uso civil de terrenos e instalaciones militares en Canarias, entre ellos el campo de tiro de Pájara, en Fuerteventura.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Recuperación para uso civil de terrenos militares",
+      "etiquetas": [
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Negociaremos con el Estado el cese de la actividad militar en esos espacios, su cesión a las administraciones canarias y las actuaciones necesarias para su uso civil seguro y su recuperación ambiental. Su destino se acordará con los cabildos y ayuntamientos, con participación ciudadana y atendiendo a las necesidades de la población y a la protección del territorio.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "1. Defender los derechos de Canarias"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cese de actividad militar y cesión de los espacios",
+      "etiquetas": [
+        "defensa",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La isla en la que se vive o la situación económica de una familia no pueden determinar la atención que recibe. La financiación debe ir acompañada de una gestión que responda a tiempo y de una evaluación de sus resultados.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Igualdad en la atención pública, con gestión y evaluación",
+      "etiquetas": [
+        "sanidad",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Atención sanitaria en todas las islas. Defenderemos una financiación sanitaria que reconozca el coste de atender a la población de ocho islas y permita planificar las plantillas y los centros.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Financiación sanitaria que reconozca el coste de ocho islas",
+      "etiquetas": [
+        "sanidad",
+        "financiación autonómica"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Exigiremos al Estado una compensación específica y actualizada por los sobrecostes sanitarios de la insularidad y la lejanía.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Compensación estatal por sobrecostes sanitarios de la insularidad",
+      "etiquetas": [
+        "sanidad",
+        "insularidad",
+        "financiación autonómica"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Reclamaremos que la formación sanitaria especializada responda a las necesidades estructurales de Canarias y contribuya a disponer de los especialistas que hacen falta.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación sanitaria especializada adaptada a Canarias",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acercar los servicios a las personas. Promoveremos el apoyo estatal a la movilidad de especialistas y otros profesionales cuando resulte más eficiente desplazar el servicio que al paciente.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "11",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo estatal a la movilidad de especialistas sanitarios",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Estudiaremos una cobertura reforzada de los desplazamientos interinsulares por",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "11",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estudio de cobertura de desplazamientos interinsulares; frase cortada en el original",
+      "etiquetas": [
+        "sanidad",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la salud mental. Reclamaremos que los Presupuestos Generales del Estado refuercen las partidas destinadas a la atención en salud mental en Canarias. La financiación acordada con la comunidad autónoma debe permitir mejorar la atención primaria y los servicios especializados. La evaluación deberá permitir valorar la atención que reciben las personas y corregir las carencias del servicio.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "12",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más partidas presupuestarias estatales para salud mental en Canarias",
+      "etiquetas": [
+        "sanidad",
+        "salud mental"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Dependencia y cuidados con respaldo estable. Exigiremos una aportación estatal suficiente, estable y acorde con las obligaciones del sistema de dependencia.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "13",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Aportación estatal al sistema de dependencia",
+      "etiquetas": [
+        "dependencia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Impulsaremos una estrategia de envejecimiento y cuidados de larga duración que incluya formación de profesionales, innovación, accesibilidad y adaptación de los servicios al cambio climático.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "13",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia de envejecimiento y cuidados de larga duración",
+      "etiquetas": [
+        "dependencia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Educación infantil de cero a tres años. Reforzaremos la financiación estatal para una oferta suficiente de plazas públicas gratuitas y de calidad. La educación infantil debe mejorar las oportunidades de los niños y las niñas y a facilitar que las responsabilidades familiares se compartan en condiciones de igualdad.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "14",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Financiación estatal de plazas públicas gratuitas de 0 a 3 años",
+      "etiquetas": [
+        "educación",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Reducir la pobreza infantil. Defenderemos programas estatales específicos mientras Canarias mantenga indicadores de pobreza superiores a la media. La atención a la infancia y el apoyo a las familias con mayores dificultades serán prioritarios en la asignación de los recursos destinados a reducir la desigualdad.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "15",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas estatales específicos contra la pobreza en Canarias",
+      "etiquetas": [
+        "servicios sociales",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Planteamos abrir el debate y buscar consenso en el marco estatal para establecer una política común para reforzar la protección y el bienestar de la infancia mediante ayudas a la crianza, mayor acceso a la vivienda en hogares con menores, protección infantil frente a la violencia digital, mejora de la atención a la salud mental de niños y niñas, una educación inclusiva y de calidad, atención especializada a menores migrantes y un mayor compromiso con la infancia en la cooperación internacional.",
+      "pagina": 9,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "15",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Debate estatal para una política común de infancia",
+      "etiquetas": [
+        "infancia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Coordinar las ayudas para que protejan mejor. Reclamaremos al Estado un sistema de cooperación que permita a Canarias tramitar las solicitudes y el reconocimiento del ingreso mínimo vital, con participación de cabildos y ayuntamientos.",
+      "pagina": 10,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "16",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tramitación del ingreso mínimo vital desde Canarias",
+      "etiquetas": [
+        "servicios sociales",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejoraremos su coordinación con las prestaciones autonómicas. El objetivo es evitar que haya personas sin cobertura y que aceptar un empleo provoque una pérdida brusca de protección que empeore la situación del hogar.",
+      "pagina": 10,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "16",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Coordinación del ingreso mínimo vital con prestaciones autonómicas",
+      "etiquetas": [
+        "servicios sociales",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Igualdad y protección frente a la violencia de género. Reclamaremos financiación estatal suficiente para aplicar el Pacto de Estado contra la violencia de género en todas las islas, reforzar la prevención y proteger a las víctimas y a sus hijos e hijas. Los recursos deberán tener en cuenta la dispersión territorial y facilitar el acceso a los servicios desde cualquier municipio.",
+      "pagina": 10,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "17",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Financiación del Pacto de Estado contra la violencia de género",
+      "etiquetas": [
+        "igualdad",
+        "violencia de género"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Financiar el despliegue de la Policía Canaria. Reclamaremos al Estado la financiación de las 1.400 plazas del Cuerpo General de la Policía Canaria previstas en la propuesta de Decreto Canarias. La Comisión Bilateral deberá acordar el coste efectivo de este despliegue y su desarrollo progresivo en las islas, en coordinación y complementariedad con las fuerzas y cuerpos de seguridad del Estado.",
+      "pagina": 10,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "18",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Financiación estatal de 1.400 plazas de la Policía Canaria",
+      "etiquetas": [
+        "seguridad",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Proteger las pensiones no contributivas. Reclamaremos al Estado que los complementos de renta que establezca Canarias sean compatibles con las pensiones no contributivas, estén exentos de tributación y no computen para reducir o retirar la prestación. Las ayudas canarias deben mejorar de forma efectiva los ingresos de las personas que las reciben.",
+      "pagina": 10,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "19",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Complementos canarios compatibles con las pensiones no contributivas",
+      "etiquetas": [
+        "pensiones",
+        "servicios sociales",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Accesibilidad en la vida diaria. Exigiremos que los programas estatales y europeos de vivienda, transporte, empleo y servicios públicos destinados a Canarias incorporen las necesidades de las personas con discapacidad. La accesibilidad universal debe formar parte del diseño de las actuaciones y de su financiación.",
+      "pagina": 10,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "20",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Accesibilidad para personas con discapacidad en los programas públicos",
+      "etiquetas": [
+        "discapacidad",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Centros educativos que respondan a las necesidades. Recuperaremos programas estatales de inversión para corregir los déficits de las infraestructuras educativas y adaptar los centros a las nuevas necesidades. Una educación accesible y de calidad requiere instalaciones adecuadas y recursos que se puedan planificar con estabilidad.",
+      "pagina": 10,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "2. Defender nuestros servicios públicos y los cuidados"
+      ],
+      "numero": "21",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Recuperar programas estatales de inversión en infraestructuras educativas",
+      "etiquetas": [
+        "educación",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Canarias necesita más vivienda asequible, capacidad para ordenar su crecimiento y medidas que frenen la especulación y protejan la función residencial de nuestros pueblos y ciudades.",
+      "pagina": 10,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Vivienda asequible, ordenación del crecimiento y freno a la especulación",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Un acuerdo de vivienda con financiación plurianual. Impulsaremos un fondo estatal de ocho años para cofinanciar vivienda pública y asequible, con una asignación para Canarias ajustada a sus necesidades. Permitirá construir, adquirir y rehabilitar viviendas, además de comprar suelo, edificios y promociones disponibles.",
+      "pagina": 10,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "22",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondo estatal de ocho años para vivienda pública y asequible",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Promoveremos un inventario de los suelos y edificios del Estado y de sus entidades en Canarias que puedan destinarse a vivienda asequible y reclamaremos su cesión a las administraciones canarias competentes.",
+      "pagina": 10,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "22",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inventario y cesión de suelos y edificios del Estado",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Recuperar los barrios y mejorar las viviendas. Impulsaremos un plan estatal de reposición y regeneración de barrios que incluya demolición y reposición cuando la rehabilitación sea insuficiente.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan estatal de reposición y regeneración de barrios",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Reforzaremos las ayudas para conservación, ascensores, eliminación de barreras, aislamiento, fachadas, cubiertas, eficiencia energética, autoconsumo y adaptación climática, priorizando las necesidades de las personas mayores y de las personas con movilidad reducida.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "23",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ayudas a la rehabilitación y accesibilidad de viviendas",
+      "etiquetas": [
+        "vivienda",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Alquiler estable y vivienda vacía en uso. Mejoraremos los incentivos fiscales estatales para pequeños propietarios que incorporen voluntariamente viviendas a programas de alquiler asequible, con garantías públicas de cobro y conservación.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "24",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivos fiscales a pequeños propietarios para alquiler asequible",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "La financiación de la rehabilitación de viviendas vacías se vinculará a su incorporación a esos programas durante un periodo suficiente.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "24",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rehabilitación de viviendas vacías vinculada al alquiler asequible",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Defenderemos una regulación estatal estable que proteja a inquilinos y propietarios y facilite el alquiler de larga duración.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "24",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Regulación estatal estable del alquiler de larga duración",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vivienda para la emancipación. Defenderemos una línea estatal reforzada de vivienda joven, alquiler asequible y cooperativas. Incluirá fórmulas residenciales para estudiantes, alumnado de formación profesional, jóvenes investigadores y trabajadores, de manera que formarse o empezar a trabajar permita construir un proyecto de vida en Canarias.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "25",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Línea estatal de vivienda joven, alquiler asequible y cooperativas",
+      "etiquetas": [
+        "vivienda",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Limitar la compra de vivienda por extranjeros. Impulsaremos en las Cortes Generales las reformas necesarias para limitar la compra de vivienda en Canarias por extranjeros, con el objetivo de facilitar el acceso a un hogar a quienes viven en las islas.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "26",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Limitar la compra de vivienda en Canarias por extranjeros",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reclamaremos al Estado que defienda ante la Unión Europea un régimen específico para Canarias, atendiendo a nuestra condición de región ultraperiférica, con medidas justificadas, proporcionadas y compatibles con el marco jurídico europeo.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "26",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Régimen específico europeo para limitar la compra de vivienda",
+      "etiquetas": [
+        "vivienda",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Promoveremos las reformas estatales y europeas necesarias para hacer viable una Ley Canaria de Residencia que permita ordenar el crecimiento poblacional y respetar los límites del territorio.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "26",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reformas para hacer viable una Ley Canaria de Residencia",
+      "etiquetas": [
+        "población",
+        "organización territorial",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vivienda vacacional con reglas y control. Defenderemos la cobertura jurídica estatal y europea necesaria para que Canarias y sus municipios puedan modular y limitar los usos turísticos donde exista presión acreditada sobre la vivienda residencial. La normativa diferenciará el uso ocasional de una vivienda de la explotación profesional o intensiva.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "27",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cobertura legal para limitar la vivienda vacacional",
+      "etiquetas": [
+        "vivienda",
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Agilizar la vivienda protegida y asequible. Impulsaremos reformas de los procedimientos estatales y de los informes sectoriales para acortar los plazos. La reducción de trámites deberá mantener las garantías ambientales, urbanísticas y de seguridad.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "28",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reformas de procedimientos para acortar plazos de vivienda protegida",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reclamaremos incentivos fiscales estatales a la primera vivienda para jóvenes y familias con ingresos medios y bajos, y apoyo a la construcción industrializada para reducir los costes y los plazos de construcción de vivienda protegida.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "28",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivos fiscales a la primera vivienda y construcción industrializada",
+      "etiquetas": [
+        "vivienda",
+        "impuestos",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Proteger del calor a los hogares vulnerables. Reclamaremos ayudas estatales para protección solar, aislamiento, ventilación, toldos, cerramientos y climatización eficiente en las viviendas de los hogares con menos recursos. Adaptar la casa al calor debe estar al alcance de quienes más lo necesitan.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "29",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas estatales para adaptar al calor viviendas de hogares vulnerables",
+      "etiquetas": [
+        "vivienda",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Una cesta de la compra más asequible. Reclamaremos al Estado que las compensaciones por los sobrecostes de la insularidad se actualicen y que se evalúe su efecto sobre los precios finales de los productos básicos. Ese seguimiento deberá permitir corregir las medidas que no alivien la presión sobre el presupuesto de las familias.",
+      "pagina": 11,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "3. Defender el derecho a vivir y permanecer en Canarias"
+      ],
+      "numero": "30",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Actualizar compensaciones por insularidad y evaluar su efecto en precios",
+      "etiquetas": [
+        "coste de la vida",
+        "insularidad",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El trabajo y la actividad económica deben mejorar la vida de la gente. Queremos empleo estable, mejores salarios y una economía con más oportunidades para autónomos, pequeñas empresas, cooperativas y productores.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Empleo estable, mejores salarios y oportunidades para pequeñas empresas",
+      "etiquetas": [
+        "empleo",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La riqueza también debe contribuir de forma justa al sostenimiento de los servicios públicos.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Contribución de la riqueza al sostenimiento de los servicios públicos",
+      "etiquetas": [
+        "impuestos",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Planes de empleo hasta reducir la desigualdad. Defenderemos la financiación del Plan Integral de Empleo de Canarias y de los programas específicos previstos en el REF mientras la situación del empleo en Canarias siga en clara desventaja respecto a la media estatal.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "31",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Financiación del Plan Integral de Empleo de Canarias",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Priorizaremos a quienes encuentran más dificultades para acceder a un empleo y vincularemos la formación a oportunidades reales de trabajo estable y mejores salarios.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "31",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prioridad a colectivos con dificultades y formación ligada al empleo",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Apoyo a los autónomos. Reforzaremos las ayudas estatales a quienes empiezan una actividad por cuenta propia y a los autónomos con menores rendimientos. Los instrumentos de apoyo deben ajustarse a las condiciones en las que se trabaja y se emprende en las islas.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "32",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ayudas estatales a nuevos autónomos y a los de menores rendimientos",
+      "etiquetas": [
+        "autónomos",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Pequeñas empresas con más oportunidades. Adaptaremos los programas estatales de digitalización, innovación y financiación al tamaño y a los costes logísticos de la microempresa canaria. Defenderemos condiciones que permitan avanzar al comercio, la industria, las pequeñas empresas y las cooperativas que sostienen la economía de nuestros pueblos y barrios.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "33",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas estatales adaptados a la microempresa canaria",
+      "etiquetas": [
+        "economía",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Un turismo que contribuya más al bienestar. Reclamaremos el cumplimiento del convenio de infraestructuras turísticas, así como programas estatales de renovación de destinos maduros ligados a la accesibilidad, la calidad urbana, la eficiencia, la digitalización y la adaptación climática. Las inversiones deberán tener en cuenta la población real de estos territorios, incluida la no empadronada, y contribuir a mejorar las condiciones de vida de sus residentes.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "34",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Convenio de infraestructuras turísticas y renovación de destinos maduros",
+      "etiquetas": [
+        "turismo",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Orientar el REF hacia la actividad productiva. Evaluaremos y actualizaremos sus instrumentos para atraer inversión productiva e innovadora que genere empleo estable en Canarias, especialmente en la industria y en actividades tecnológicas y creativas.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "35",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Actualizar los instrumentos del REF para atraer inversión productiva",
+      "etiquetas": [
+        "economía",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mantendremos el diferencial fiscal canario para la producción audiovisual.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "35",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mantener el diferencial fiscal canario para la producción audiovisual",
+      "etiquetas": [
+        "impuestos",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El resultado deberá medirse por la actividad y las oportunidades que se crean en las islas, evitando que el objetivo se reduzca a la mera localización fiscal.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "35",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "El REF debe medirse por la actividad creada en las islas",
+      "etiquetas": [
+        "economía",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Mejorar los salarios con medidas específicas para Canarias. Reclamaremos al Estado incentivos fiscales y bonificaciones en las cotizaciones ligados a mejoras salariales pactadas y a la productividad de las empresas canarias.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "36",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivos fiscales y bonificaciones ligados a mejoras salariales",
+      "etiquetas": [
+        "empleo",
+        "impuestos",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Defenderemos también las medidas dirigidas a las retribuciones públicas más bajas. Su diseño se acordará con el Gobierno de Canarias y los agentes sociales, y se evaluará por su efecto sobre la renta de quienes trabajan.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "36",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Medidas para las retribuciones públicas más bajas",
+      "etiquetas": [
+        "empleo",
+        "función pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Comprar y vender por internet desde Canarias en igualdad de condiciones. Impulsaremos un acuerdo con el Estado y la UE que elimine barreras y costes de intermediación abusivos en el comercio electrónico. Debe facilitar a la población y a las empresas canarias el acceso a la oferta europea y las ventas desde las islas.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "37",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acuerdo con Estado y UE sobre comercio electrónico en Canarias",
+      "etiquetas": [
+        "comercio",
+        "economía",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exigiremos que las operaciones respeten nuestra fiscalidad y que se corrijan los cobros indebidos de IVA cuando corresponda aplicar el IGIC.",
+      "pagina": 12,
+      "apartado": [
+        "Desarrollo programático",
+        "Diez causas y cien acciones",
+        "4. Defender a quienes levantan Canarias cada día"
+      ],
+      "numero": "37",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Corregir cobros indebidos de IVA en lugar de IGIC",
+      "etiquetas": [
+        "comercio",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    }
+  ]
+}

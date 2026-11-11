@@ -1,0 +1,61 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en la pág. 62-63 del PDF «Programa de desregulación» (81 págs., creado el 27-06-2026; el documento habla en nombre de VOX), dentro de la lista de medidas, epígrafe «• Ley de Mercado Abierto». Solo difieren los guiones de partición de línea. Tema, clase y medida concreta correctos.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en la pág. 69-70 del mismo PDF, epígrafe «• Etiquetado y envasado: una sola norma para toda España, armonizada con Europa». Es una medida concreta (derogar las exigencias autonómicas por encima de la norma europea).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en el BOCG Congreso, serie A, núm. 79-2 (15-07-2026), pág. 3-4, apartado «Quinto. Devolución al Gobierno» de la enmienda de totalidad de devolución del Grupo VOX al Proyecto de Ley Orgánica de medidas excepcionales de sostenibilidad financiera para las comunidades autónomas de régimen común. Firma: «Palacio del Congreso de los Diputados, 8 de julio de 2026.—José María Figaredo Álvarez-Sala, Portavoz del Grupo Parlamentario VOX». Nombre, cargo y fecha correctos.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en el DSCD Pleno núm. 199 (sesión del jueves 23-07-2026), pág. 121, en la intervención de «El señor SÁEZ ALONSO-MUÑUMER» en defensa de la enmienda de totalidad de devolución de VOX al proyecto de ley orgánica de sostenibilidad financiera de las comunidades autónomas. El nombre de pila se confirmó en los datos abiertos de diputados del Congreso: «Sáez Alonso-Muñumer, Pablo», Valladolid, Grupo Parlamentario VOX (dado de baja el 06-10-2026, tras la fecha de la cita).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 5,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en las págs. 60-61 del PDF del programa, epígrafe «• Inteligencia artificial al servicio del ciudadano». En el texto extraído aparece cortado por el salto de página («... por encima de la IA, [61 Programa de desregulación] para acabar con ...»); al unirlo, coincide palabra por palabra.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 6,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en el PDF del programa, epígrafe «• Protección de datos en mínimos: fin del gold-plating español sobre el Reglamento europeo». Medida concreta (reescribir la LOPD y cambiar la función de la AEPD).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 7,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en el DSCD Comisiones núm. 445, Comisión de Cultura, sesión del martes 11-11-2025, pág. 32, en la intervención de «El señor RAMÍREZ DEL RÍO» sobre la PNL del Grupo Popular relativa a la candidatura de la tauromaquia a la Lista del Patrimonio Cultural Inmaterial de la Unesco. En la misma sesión la presidencia lo llama «el portavoz del Grupo VOX, el señor Ramírez del Río». El nombre completo se confirmó en los datos abiertos del Congreso: «Ramírez del Río, José», Córdoba, Grupo Parlamentario VOX.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 8,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en el BOCG Congreso, serie A, núm. 52-3 (24-06-2025), pág. 4, apartado IV de la enmienda de totalidad de devolución del Grupo VOX al Proyecto de Ley Orgánica para la protección de las personas menores de edad en los entornos digitales. Firma: «18 de junio de 2025.—José María Figaredo Álvarez-Sala, Portavoz adjunto del Grupo Parlamentario VOX». Nombre, cargo y fecha correctos. Es una postura sobre la regulación del entorno digital, no solo un ataque.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    }
+  ],
+  "notas": "Leídos los robots.txt completos de elindependiente.com y congreso.es: ninguno bloquea a agentes de IA ni las rutas usadas. No se accedió a voxespana.es. Se descargaron y extrajeron con pdftotext los cinco PDF, todos con respuesta 200; la URL de El Independiente con la ó descompuesta (%CC%81) funciona. Las 8 citas aparecen literalmente en su fuente; solo cambian los guiones de partición y un salto de página en la cita 5. Avisos: (1) las citas 1, 2, 5 y 6 proceden de un PDF que aloja un periódico y no la web oficial del partido, que está bloqueada. El documento está escrito en nombre de VOX y sus metadatos dicen creado el 27-06-2026; esa es la fecha usada, pero no se comprobó por separado la fecha de presentación. (2) En la cita 3, la nota dice «condonación de deuda autonómica», término que usan el propio proyecto y el debate. Si se quiere el nombre oficial, se podría escribir «asunción por el Estado de deuda autonómica (Proyecto de Ley Orgánica de medidas excepcionales de sostenibilidad financiera para las comunidades autónomas de régimen común)». (3) Ramírez del Río y Sáez Alonso-Muñumer constan como dados de baja como diputados el 06-10-2026, después de sus citas; Figaredo sigue en activo."
+}

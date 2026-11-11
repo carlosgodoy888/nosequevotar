@@ -1,0 +1,1294 @@
+{
+ "partido": "upn-pp",
+ "nombre": "UPN-PP (Unión del Pueblo Navarro en coalición con el Partido Popular)",
+ "programa": "no_publicado",
+ "temas": [
+  {
+   "tema": "vivienda",
+   "nombre": "Vivienda",
+   "definicion": "Acceso a la vivienda en compra y alquiler, vivienda pública, suelo y urbanismo.",
+   "citas": [
+    {
+     "id": "c-73305631ac",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En UPN creemos que se puede conjugar perfectamente la protección a familias y personas en situación de vulnerabilidad con mayor seguridad jurídica para los pequeños propietarios, que son quienes están poniendo viviendas en el mercado, porque el Gobierno no lo está haciendo",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-10-02"
+    },
+    {
+     "id": "c-a4dfb7d69e",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "en UPN tenemos clarísima la defensa de la propiedad privada y la vamos a defender con firmeza. Tolerancia cero a ocupas y a inquiocupas. Votaremos en contra de toda iniciativa que pretenda que la vivienda de personas vulnerables se haga a costa de la propiedad privada de otras.",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata a presidir el Gobierno de Navarra",
+     "fecha": "2026-03-24"
+    },
+    {
+     "id": "c-94e69f1b32",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "solamente responde a intereses simplistas y sesgados a costa de añadir más obstáculos al mercado de alquiler y mayor desprotección para propietarios arrendadores. De nuevo, son medidas que provocan fuga de contratos de alquiler",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-04-01"
+    },
+    {
+     "id": "c-cf09446b41",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "la respuesta debe incluir suelo preparado, urbanización, construcción de vivienda protegida y seguridad jurídica que facilite el alquiler",
+     "quien": "el partido, Grupo parlamentario de UPN en el Parlamento de Navarra (enmienda a la totalidad a los Presupuestos de Navarra 2027)",
+     "fecha": "2026-11-04"
+    },
+    {
+     "id": "c-69394c0188",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "tratamiento fiscal favorable respecto de la cuenta ahorro vivienda propiciando que aquellos jóvenes que tengan posibilidad y deseen dedicar parte de sus ingresos a la futura adquisición de una vivienda puedan hacerlo con incentivos fiscales",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-11-22"
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "nombre": "Empleo y salarios",
+   "definicion": "Trabajo, salarios, jornada, contratos, autónomos, sindicatos y salud laboral.",
+   "citas": [
+    {
+     "id": "c-14eacb9da0",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No valen excusas. Debemos garantizar la calidad en el empleo, luchar contra la precariedad y garantizar que cualquiera pueda ir a trabajar y volver a su hogar sin temer por su salud o integridad",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-08-13"
+    },
+    {
+     "id": "c-276b66e233",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Esa competitividad significa atraer empresas, mejorar los salarios y aliviar a quienes trabajan y emprenden. En definitiva, aumentar la capacidad adquisitiva de los navarros",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-78a3f099da",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "porque siempre hemos creído en la concertación y el diálogo social y es bueno para la gente, porque se pactó entre patronal y sindicatos",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-01-23"
+    },
+    {
+     "id": "c-5f1298d9c8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "todos los proyectos empresariales de interés estratégico tendrán un periodo máximo de aprobación de 3 meses. Porque a quien crea empleo, alfombra roja",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata a las elecciones forales",
+     "fecha": "2026-09-04"
+    },
+    {
+     "id": "c-a0ade02f5b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Así, la formación foralista propone modificar la normativa para igualar a ambos colectivos de docentes, estableciendo una misma jornada lectiva semanal de 23 horas en los centros de educación infantil, primaria y especial, y de 18 horas en los centros que impartan el resto de las enseñanzas.",
+     "quien": "el partido, Nota de prensa de UPN sobre su enmienda en el Congreso",
+     "fecha": "2026-05-11"
+    },
+    {
+     "id": "c-271261436c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La propuesta de UPN, recuerdan, establece como requisitos para acceder a la Renta Garantizada encontrarse en situación administrativa regular y carecer de antecedentes penales por determinados delitos graves. Asimismo, limita la duración ordinaria de la prestación a tres años, con una cuantía decreciente a medida que transcurre el tiempo, para evitar situaciones de dependencia permanente y favorecer la incorporación al mercado laboral.",
+     "quien": "el partido, Nota de prensa de UPN",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-fe5c9becf4",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "nos parece fundamental establecer algún tipo de mecanismo para evitarlo, de manera que el empleado que viene a trabajar permanezca vinculado de forma obligatoria al menos 12 meses con la empresa que ha realizado el proceso",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-04-22"
+    },
+    {
+     "id": "c-498e2af05e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "la mejor manera de garantizar nuestro sistema de pensiones es que se genere más empleo, con sueldos más altos, que garanticen las pensiones del futuro",
+     "quien": "Carmen Fúnez, Vicesecretaria de Sanidad y Política Social del PP",
+     "fecha": "2026-10-15"
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "nombre": "Pensiones",
+   "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
+   "citas": [
+    {
+     "id": "c-931aa5591a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "traigan cuanto antes por separado la revalorización de las pensiones y la bonificación del transporte sin meter torticeramente pagos a sus socios. Nosotros somos un partido responsable, que piensa en los ciudadanos, y por mucho que no nos guste la política de este gobierno, apoyamos todo lo que entendemos que es bueno para los navarros y el conjunto de los españoles y criticamos lo que no está bien proponiendo alternativas",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-01-23"
+    },
+    {
+     "id": "c-78a3f099da",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "porque siempre hemos creído en la concertación y el diálogo social y es bueno para la gente, porque se pactó entre patronal y sindicatos",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-01-23"
+    },
+    {
+     "id": "c-d8691f65af",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El presidente del Partido Popular se compromete a garantizar la viabilidad del sistema público de pensiones para las personas que no las han cobrado y a revalorizarlas con el IPC para quienes ya las están cobrando.",
+     "quien": "el partido",
+     "fecha": "2026-10-13"
+    },
+    {
+     "id": "c-498e2af05e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "la mejor manera de garantizar nuestro sistema de pensiones es que se genere más empleo, con sueldos más altos, que garanticen las pensiones del futuro",
+     "quien": "Carmen Fúnez, Vicesecretaria de Sanidad y Política Social del PP",
+     "fecha": "2026-10-15"
+    },
+    {
+     "id": "c-ad0a72a3d7",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En Unión del Pueblo Navarro lo tenemos claro y lo hemos defendido por activa y por pasiva: respaldamos la revalorización de las pensiones.",
+     "quien": "Alberto Catalán Higueras, Diputado de UPN en el Congreso (Grupo Parlamentario Mixto)",
+     "fecha": "2026-02-26"
+    },
+    {
+     "id": "c-d42f017988",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El Pacto de Toledo es importante, porque genera tranquilidad para el futuro y estabilidad no solo a nuestros mayores, personas que han dedicado toda su vida a España, a nuestra sociedad y a sus familias, sino también a todos los españoles que están en su etapa laboral y de cotización.",
+     "quien": "Miguel Ángel Paniagua Núñez, Diputado del PP por Palencia y portavoz del Grupo Parlamentario Popular en el debate de convalidación del Real Decreto-ley 3/2026",
+     "fecha": "2026-02-26"
+    }
+   ]
+  },
+  {
+   "tema": "impuestos",
+   "nombre": "Impuestos",
+   "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
+   "citas": [
+    {
+     "id": "c-69394c0188",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "tratamiento fiscal favorable respecto de la cuenta ahorro vivienda propiciando que aquellos jóvenes que tengan posibilidad y deseen dedicar parte de sus ingresos a la futura adquisición de una vivienda puedan hacerlo con incentivos fiscales",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-11-22"
+    },
+    {
+     "id": "c-276b66e233",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Esa competitividad significa atraer empresas, mejorar los salarios y aliviar a quienes trabajan y emprenden. En definitiva, aumentar la capacidad adquisitiva de los navarros",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-e7d2b4db09",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Se pueden bajar los impuestos, pagar menos impuestos y tener mejores servicios públicos",
+     "quien": "Leticia San Martín, Cabeza de lista de UPN-PP al Congreso por Navarra",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-2bc37ab7e6",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Creemos necesario que los alimentos de primera necesidad tengan un tipo impositivo rebajado del IVA ante el posible incremento de la inflación en España",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-03-18"
+    },
+    {
+     "id": "c-6d2ffdbca5",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Representan aproximadamente entre el 45% y el 50% del precio final de la gasolina y el diésel, y es momento de que el Estado renuncie temporalmente a ese ingreso extra para que no afecte al bolsillo del ciudadano",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-03-18"
+    },
+    {
+     "id": "c-cc50773855",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "registraremos enmiendas al Real Decreto-Ley Ómnibus para rebajar el IVA en alimentos básicos, en la luz y en el gas. Asimismo, en Navarra llevaremos una propuesta de Ley al Parlamento para que los ciudadanos con ingresos menores a 19.000 euros queden exentos en el pago del IRPF",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-02-12"
+    },
+    {
+     "id": "c-010cf4c5fc",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "UPN defiende la deflactación automática anual del IRPF cuando el IPC supere el 2%.",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-d8706271ff",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "los menores de 30 años con ingresos menores de 30.000 euros anuales no pagarán impuestos. Esto es ayudar a los jóvenes",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata a las elecciones forales",
+     "fecha": "2026-09-04"
+    },
+    {
+     "id": "c-11bc4e8e3c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "En Navarra, con un gobierno de UPN, ni los ciudadanos ni las empresas pagarán más impuestos que en el resto de España",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-73577f0339",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Quiero una Navarra que despegue: menos impuestos, más inversión y mejores salarios",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-20e51991e8",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Desde UPN no nos cansaremos de decir que hay que facilitar y reducir la burocracia para montar un negocio y, desde luego, no crujir a impuestos a quien quiere hacerlo",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-04-22"
+    },
+    {
+     "id": "c-7a48be6056",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "estas cinco prioridades deben llegar a toda Navarra, no sólo a Pamplona o su comarca. Propondremos un refuerzo de las ayudas industriales en las zonas con riesgo de despoblación y una fiscalidad rural ligada a la actividad y al empleo",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "tema": "economia",
+   "nombre": "Economía y empresas",
+   "definicion": "Industria, empresas, comercio, turismo, cuentas públicas y coste de la vida. Los impuestos y el empleo van aparte.",
+   "citas": [
+    {
+     "id": "c-276b66e233",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Esa competitividad significa atraer empresas, mejorar los salarios y aliviar a quienes trabajan y emprenden. En definitiva, aumentar la capacidad adquisitiva de los navarros",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-2bc37ab7e6",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Creemos necesario que los alimentos de primera necesidad tengan un tipo impositivo rebajado del IVA ante el posible incremento de la inflación en España",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-03-18"
+    },
+    {
+     "id": "c-73577f0339",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Quiero una Navarra que despegue: menos impuestos, más inversión y mejores salarios",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-5f1298d9c8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "todos los proyectos empresariales de interés estratégico tendrán un periodo máximo de aprobación de 3 meses. Porque a quien crea empleo, alfombra roja",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata a las elecciones forales",
+     "fecha": "2026-09-04"
+    },
+    {
+     "id": "c-a76768299e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nuestra industria necesita certezas, agilidad administrativa, energía a precios competitivos, suelo disponible, infraestructuras estratégicas, atraer y retener talento, formación adaptada a las necesidades productivas, seguridad jurídica y una fiscalidad que permita competir.",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-7698de57a6",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "nosotros apoyamos la semana pasada en el Congreso el decreto de medidas del Gobierno de Sánchez porque entendimos que eran buenas para la gente, pero aun así creíamos que se quedaban cortas en algunos aspectos y confiábamos en que el Gobierno de Navarra pudiera complementarlas en el ejercicio de nuestras competencias",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-04-01"
+    },
+    {
+     "id": "c-20e51991e8",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Desde UPN no nos cansaremos de decir que hay que facilitar y reducir la burocracia para montar un negocio y, desde luego, no crujir a impuestos a quien quiere hacerlo",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-04-22"
+    },
+    {
+     "id": "c-3197735340",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a exigir que, en la tramitación parlamentaria de la ley, se incluya a Navarra mediante un acuerdo bilateral en el marco del Convenio Económico, de manera proporcional al esfuerzo medio que se condone al resto de comunidades de régimen común",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-09-02"
+    },
+    {
+     "id": "c-3754d26707",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "un mapa de demanda eléctrica, polígono a polígono y comarca a comarca, un mapa que identifique proyectos, necesidades de potencia, inversiones previstas y plazos",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-b0ce6566a1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "se deben atender las necesidades de potencia eléctrica solicitadas desde el Gobierno de Navarra realizando las modificaciones pertinentes en el borrador de planificación eléctrica",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-03-18"
+    },
+    {
+     "id": "c-7a48be6056",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "estas cinco prioridades deben llegar a toda Navarra, no sólo a Pamplona o su comarca. Propondremos un refuerzo de las ayudas industriales en las zonas con riesgo de despoblación y una fiscalidad rural ligada a la actividad y al empleo",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "nombre": "Sanidad",
+   "definicion": "Sanidad pública, listas de espera, atención primaria, salud mental y adicciones.",
+   "citas": [
+    {
+     "id": "c-799fd94836",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Navarra no puede resignarse a perder médicos y a cubrir sus carencias con soluciones provisionales. Llevamos años planteando al Gobierno que incentive económicamente las plazas de difícil cobertura, pero ha preferido no escucharnos.",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-09-29"
+    },
+    {
+     "id": "c-245ae7f503",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No podemos pretender hacer atractiva la Atención Primaria mientras trasladamos el mensaje de que para trabajar en ella la especialización puede dejar de ser necesaria",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-09-29"
+    },
+    {
+     "id": "c-73fc923e47",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Los navarros no necesitan más anuncios ni más promesas: necesitan una cita y una operación en un plazo razonable.",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-09-11"
+    },
+    {
+     "id": "c-adf2706af6",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Los vecinos de nuestros pueblos tienen exactamente el mismo derecho a recibir una atención sanitaria de calidad que cualquier otro ciudadano. La falta de profesionales no puede convertirse en la excusa para dejar sin médicos a nuestros pueblos",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-09-01"
+    },
+    {
+     "id": "c-fd63678963",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "las ayudas no pueden depender del código postal ni quedar atrapadas entre anuncios propagandísticos y burocracia. La ELA es una enfermedad que requiere cuidados continuados, especializados y, en muchos casos, atención permanente durante las 24 horas del día",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "nombre": "Educación",
+   "definicion": "Escuela, formación profesional, universidad y becas.",
+   "citas": [
+    {
+     "id": "c-1be1c80edf",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "los resultados de PISA vuelven a constatar el fracaso de la visión falsamente progresista de la educación que tienen el Partido Socialista y sus aliados políticos, que sacaron adelante una Ley educativa, la LOMLOE, que eliminó los contenidos del currículo de las etapas y que consagró el aprobado general independientemente de los resultados obtenidos, despreciando la cultura del esfuerzo",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata a las elecciones forales",
+     "fecha": "2026-09-08"
+    },
+    {
+     "id": "c-a0ade02f5b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Así, la formación foralista propone modificar la normativa para igualar a ambos colectivos de docentes, estableciendo una misma jornada lectiva semanal de 23 horas en los centros de educación infantil, primaria y especial, y de 18 horas en los centros que impartan el resto de las enseñanzas.",
+     "quien": "el partido, Nota de prensa de UPN sobre su enmienda en el Congreso",
+     "fecha": "2026-05-11"
+    },
+    {
+     "id": "c-a8f0245d41",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "medidas para cubrir toda la demanda desde el respeto a la libertad de elección de las familias, es decir, haciéndolo gratuito para todas con independencia de la titularidad del centro que se elija",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2025-12-02"
+    },
+    {
+     "id": "c-45ba481e78",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La trasferencia de estas competencias supondrá una mejora en el servicio que se presta a los ciudadanos y un avance en el desarrollo de nuestro autogobierno, desarrollando la LORAFNA",
+     "quien": "María Caballero, Senadora de UPN",
+     "fecha": "2024-09-25"
+    }
+   ]
+  },
+  {
+   "tema": "familias-y-cuidados",
+   "nombre": "Familias y servicios sociales",
+   "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
+   "citas": [
+    {
+     "id": "c-a8f0245d41",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "medidas para cubrir toda la demanda desde el respeto a la libertad de elección de las familias, es decir, haciéndolo gratuito para todas con independencia de la titularidad del centro que se elija",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2025-12-02"
+    },
+    {
+     "id": "c-271261436c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La propuesta de UPN, recuerdan, establece como requisitos para acceder a la Renta Garantizada encontrarse en situación administrativa regular y carecer de antecedentes penales por determinados delitos graves. Asimismo, limita la duración ordinaria de la prestación a tres años, con una cuantía decreciente a medida que transcurre el tiempo, para evitar situaciones de dependencia permanente y favorecer la incorporación al mercado laboral.",
+     "quien": "el partido, Nota de prensa de UPN",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-43c63cfd12",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "eliminar la lista de espera en valoraciones de dependencia y discapacidad",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata a las elecciones forales",
+     "fecha": "2026-09-04"
+    },
+    {
+     "id": "c-fd63678963",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "las ayudas no pueden depender del código postal ni quedar atrapadas entre anuncios propagandísticos y burocracia. La ELA es una enfermedad que requiere cuidados continuados, especializados y, en muchos casos, atención permanente durante las 24 horas del día",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "nombre": "Inmigración",
+   "definicion": "Entrada y control de fronteras, regularización, integración, asilo, nacionalidad y emigración.",
+   "citas": [
+    {
+     "id": "c-271261436c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La propuesta de UPN, recuerdan, establece como requisitos para acceder a la Renta Garantizada encontrarse en situación administrativa regular y carecer de antecedentes penales por determinados delitos graves. Asimismo, limita la duración ordinaria de la prestación a tres años, con una cuantía decreciente a medida que transcurre el tiempo, para evitar situaciones de dependencia permanente y favorecer la incorporación al mercado laboral.",
+     "quien": "el partido, Nota de prensa de UPN",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-369e48919c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "un gran pacto de Estado en materia migratoria, con todas las fuerzas políticas, agentes sociales y con las comunidades autónomas para abordar los acuerdos de retorno, la gestión de flujos, la integración real o los recursos para los territorios",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-04-15"
+    },
+    {
+     "id": "c-99150f9bfa",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España necesita una inmigración ordenada, con control y con garantías. No decisiones improvisadas que luego pagamos todos.",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-04-15"
+    },
+    {
+     "id": "c-a2f27a9363",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "es fundamental simplificar los procedimientos de expulsión de aquellas personas que estén en situación irregular y que no deban seguir en nuestro país. No puede ser que solo se ejecute el 8% de las órdenes de expulsión que se dictan, como ha sucedido en 2025 en nuestro país",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-04-22"
+    },
+    {
+     "id": "c-fe5c9becf4",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "nos parece fundamental establecer algún tipo de mecanismo para evitarlo, de manera que el empleado que viene a trabajar permanezca vinculado de forma obligatoria al menos 12 meses con la empresa que ha realizado el proceso",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-04-22"
+    },
+    {
+     "id": "c-c6d2d5e542",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "UPN mantiene que el control de puertos y aeropuertos y la gestión de los CIE deben estar en manos del Estado para garantizar un control uniforme y eficaz de la inmigración en todo el territorio nacional",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-03-04"
+    },
+    {
+     "id": "c-cea8a189d8",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En UPN defendemos que la inmigración no se puede abordar ni desde el buenismo ni desde la demagogia y el populismo que solo propone supuestas soluciones imposibles de cumplir",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-07-02"
+    },
+    {
+     "id": "c-733050f9c2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "La declaración reclama una protección eficaz de las fronteras españolas y, por tanto, europeas, en Ceuta, reforzando los medios humanos, técnicos y materiales necesarios y evitando que la presión migratoria pueda ser utilizada como instrumento de coacción política o diplomática de Marruecos contra España.",
+     "quien": "el partido, Nota de prensa de UPN",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-a82f7c0e4a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ceuta no se vende, señor presidente, Ceuta se defiende",
+     "quien": "Alberto Catalán, Diputado de UPN en el Congreso",
+     "fecha": "2026-09-03"
+    }
+   ]
+  },
+  {
+   "tema": "seguridad-y-justicia",
+   "nombre": "Seguridad y justicia",
+   "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
+   "citas": [
+    {
+     "id": "c-a2f27a9363",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "es fundamental simplificar los procedimientos de expulsión de aquellas personas que estén en situación irregular y que no deban seguir en nuestro país. No puede ser que solo se ejecute el 8% de las órdenes de expulsión que se dictan, como ha sucedido en 2025 en nuestro país",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-04-22"
+    },
+    {
+     "id": "c-9229795d5a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Agredir a quien nos protege debe tener consecuencias reales y proporcionadas, porque los agente que trabajan para protegernos merecen saber que el sistema le respalda",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-05-20"
+    },
+    {
+     "id": "c-15db2f236d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "por eso pondremos en marcha un plan que incluya campañas específicas para mayores, formación obligatoria en centros educativos, y una unidad de acompañamiento a pequeñas y medianas empresas navarras",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-05-20"
+    },
+    {
+     "id": "c-38c383886e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Respaldamos a nuestros policías. Y respaldarles significa darles las herramientas que necesitan para hacer bien su trabajo",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-05-20"
+    },
+    {
+     "id": "c-980ea90967",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No puede ser que las víctimas se vean doblemente perjudicadas por atentados terroristas sin resolver y menores indemnizaciones",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-09-22"
+    },
+    {
+     "id": "c-73b85b705b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "no aceptaremos que se llame conflicto a lo que fue terrorismo. No hubo un conflicto entre iguales: hubo asesinos y víctimas",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-09-22"
+    },
+    {
+     "id": "c-a91349d1ec",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Reforma del diseño de ciertas instituciones e inclusión de otras que deben ser independientes del gobierno y de los partidos para cumplir sus funciones de control (CGPJ, Tribunal Constitucional, Tribunal de Cuentas, Autoridad fiscal Independiente, Organismos reguladoras).",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-f71bceb33b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "es una inmoralidad y desvergüenza que la ley sea redactada por los que se van a beneficiar de ella, siendo un desprecio, sin precedentes, al Estado de derecho y a la igualdad de todos los españoles ante la ley. Borrar la comisión de delitos como si no se hubiesen cometido, incluidos delitos de terrorismo, es una aberración legal y social",
+     "quien": "Alberto Catalán, Diputado de UPN en el Congreso",
+     "fecha": "2023-12-12"
+    },
+    {
+     "id": "c-3013910d98",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Estamos en un sistema democrático, en un Estado de derecho y los jueces y fiscales merecen más respeto del que se les está teniendo. Aquí no hay jueces buenos y malos, no hay jueces conservadores o progresistas, los mismos jueces que pueden condenar al señor Ábalos han podido condenar previamente al señor Bárcenas o a otras personas vinculadas al Partido Popular.",
+     "quien": "Alberto Catalán, Portavoz de UPN en el Congreso",
+     "fecha": "2026-06-27"
+    }
+   ]
+  },
+  {
+   "tema": "democracia-e-instituciones",
+   "nombre": "Democracia e instituciones",
+   "definicion": "Funcionamiento de las instituciones, corrupción, transparencia, sistema electoral, administración pública y medios de comunicación.",
+   "citas": [
+    {
+     "id": "c-a91349d1ec",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Reforma del diseño de ciertas instituciones e inclusión de otras que deben ser independientes del gobierno y de los partidos para cumplir sus funciones de control (CGPJ, Tribunal Constitucional, Tribunal de Cuentas, Autoridad fiscal Independiente, Organismos reguladoras).",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-75656d6907",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Así mismo ha de contemplarse la reforma administrativa para adaptar la estructura a la realidad actual abordando la supresión de entidades que han perdido su razón de ser como las diputaciones provinciales a excepción de las forales de la CAV. Somos partidarios asimismo de una reforma del Senado.",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-f71bceb33b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "es una inmoralidad y desvergüenza que la ley sea redactada por los que se van a beneficiar de ella, siendo un desprecio, sin precedentes, al Estado de derecho y a la igualdad de todos los españoles ante la ley. Borrar la comisión de delitos como si no se hubiesen cometido, incluidos delitos de terrorismo, es una aberración legal y social",
+     "quien": "Alberto Catalán, Diputado de UPN en el Congreso",
+     "fecha": "2023-12-12"
+    },
+    {
+     "id": "c-b14b497f31",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "UPN se posiciona en contra de la corrupción en todos sus sentidos, incorporando en nuestros estatutos la expulsión inmediata de cualquier miembro condenado por estos delitos y la obligación de los afiliados a comunicar la incoación de cualquier causa que pueda dañar la imagen del partido.",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-3013910d98",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Estamos en un sistema democrático, en un Estado de derecho y los jueces y fiscales merecen más respeto del que se les está teniendo. Aquí no hay jueces buenos y malos, no hay jueces conservadores o progresistas, los mismos jueces que pueden condenar al señor Ábalos han podido condenar previamente al señor Bárcenas o a otras personas vinculadas al Partido Popular.",
+     "quien": "Alberto Catalán, Portavoz de UPN en el Congreso",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-e54b7ce254",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "De igual forma, manifiestan su apoyo al Amejoramiento del Fuero y a promover y votar a favor de la eliminación de la disposición transitoria cuarta de la Constitución Española, en una eventual reforma de la misma.",
+     "quien": "el partido, Acuerdo de coalición UPN-PP publicado por UPN",
+     "fecha": "2026-10-13"
+    },
+    {
+     "id": "c-7b2d50a208",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "UPN se compromete a votar a favor en una posible investidura de Feijóo y a cambio logra el blindaje del régimen foral de Navarra, el convenio económico y el autogobierno. Para ello, UPN tendrá libertad de voto para defender los intereses de Navarra, como ha hecho siempre.",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-10-27"
+    },
+    {
+     "id": "c-c4c4999f7c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Es preciso “cerrar” el modelo de organización territorial. Ello supone llevar a la Constitución el mapa autonómico, el reparto competencial, el sistema de financiación y los instrumentos de cooperación.",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-2de6e534f8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma de la Corona para adaptarla al siglo XXI (supresión de discriminación de la mujer).",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-1631110548",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Es preciso incluir en la Constitución nuestra condición de Estado miembro de la UE y las consecuencias que de ello se derivan (primacía del derecho europeo, soberanía compartida, etc.).",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    }
+   ]
+  },
+  {
+   "tema": "organizacion-territorial",
+   "nombre": "Organización territorial",
+   "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+   "citas": [
+    {
+     "id": "c-45ba481e78",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La trasferencia de estas competencias supondrá una mejora en el servicio que se presta a los ciudadanos y un avance en el desarrollo de nuestro autogobierno, desarrollando la LORAFNA",
+     "quien": "María Caballero, Senadora de UPN",
+     "fecha": "2024-09-25"
+    },
+    {
+     "id": "c-c6d2d5e542",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "UPN mantiene que el control de puertos y aeropuertos y la gestión de los CIE deben estar en manos del Estado para garantizar un control uniforme y eficaz de la inmigración en todo el territorio nacional",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-03-04"
+    },
+    {
+     "id": "c-75656d6907",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Así mismo ha de contemplarse la reforma administrativa para adaptar la estructura a la realidad actual abordando la supresión de entidades que han perdido su razón de ser como las diputaciones provinciales a excepción de las forales de la CAV. Somos partidarios asimismo de una reforma del Senado.",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-f98f04418d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "En virtud del acuerdo, ambas formaciones se comprometen a respetar y blindar el Régimen Foral y mantener el Convenio Económico como el mejor el instrumento para asegurar la libertad, estabilidad, cohesión y desarrollo de los ciudadanos de Navarra.",
+     "quien": "el partido, Acuerdo de coalición UPN-PP publicado por UPN",
+     "fecha": "2026-10-13"
+    },
+    {
+     "id": "c-e54b7ce254",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "De igual forma, manifiestan su apoyo al Amejoramiento del Fuero y a promover y votar a favor de la eliminación de la disposición transitoria cuarta de la Constitución Española, en una eventual reforma de la misma.",
+     "quien": "el partido, Acuerdo de coalición UPN-PP publicado por UPN",
+     "fecha": "2026-10-13"
+    },
+    {
+     "id": "c-ec5ba9b035",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No queremos que las decisiones que ahora tomamos 50 parlamentarios forales del Parlamento de Navarra las tomen 25 guipuzcoanos, 25 alaveses, 25 vizcaínos y 25 navarros, porque todo eso es perder identidad",
+     "quien": "Javier Esparza, Cabeza de lista de UPN-PP al Senado por Navarra",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-7b2d50a208",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "UPN se compromete a votar a favor en una posible investidura de Feijóo y a cambio logra el blindaje del régimen foral de Navarra, el convenio económico y el autogobierno. Para ello, UPN tendrá libertad de voto para defender los intereses de Navarra, como ha hecho siempre.",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-10-27"
+    },
+    {
+     "id": "c-3197735340",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a exigir que, en la tramitación parlamentaria de la ley, se incluya a Navarra mediante un acuerdo bilateral en el marco del Convenio Económico, de manera proporcional al esfuerzo medio que se condone al resto de comunidades de régimen común",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-09-02"
+    },
+    {
+     "id": "c-c4c4999f7c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Es preciso “cerrar” el modelo de organización territorial. Ello supone llevar a la Constitución el mapa autonómico, el reparto competencial, el sistema de financiación y los instrumentos de cooperación.",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-d60e04bbf6",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "UPN va a defender que la gestión del aeropuerto de Noáin se quede en Navarra, como ya sucede determinados lugares en Cataluña, Baleares o Canarias, y como se está negociando en la Comunidad Autónoma Vasca. Una infraestructura estratégica como esta debe estar en manos de los navarros, porque nadie tiene más interés en desarrollarla que nosotros",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y portavoz en el Ayuntamiento de Pamplona",
+     "fecha": "2026-02-06"
+    },
+    {
+     "id": "c-497e11a84f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "está contemplado en el programa electoral de UPN, ya que encaja perfectamente en nuestra demanda de más autogobierno, y Navarra está capacitada para gestionarla, ya que cuenta con 12 centros tecnológicos, tres universidades y más de 1.000 investigadores",
+     "quien": "María Caballero, Senadora de UPN",
+     "fecha": "2024-09-25"
+    }
+   ]
+  },
+  {
+   "tema": "medio-ambiente-y-energia",
+   "nombre": "Medio ambiente y energía",
+   "definicion": "Clima, energía, agua, contaminación, costas, montes, protección de la naturaleza y bienestar animal.",
+   "citas": [
+    {
+     "id": "c-6d2ffdbca5",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Representan aproximadamente entre el 45% y el 50% del precio final de la gasolina y el diésel, y es momento de que el Estado renuncie temporalmente a ese ingreso extra para que no afecte al bolsillo del ciudadano",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-03-18"
+    },
+    {
+     "id": "c-cc50773855",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "registraremos enmiendas al Real Decreto-Ley Ómnibus para rebajar el IVA en alimentos básicos, en la luz y en el gas. Asimismo, en Navarra llevaremos una propuesta de Ley al Parlamento para que los ciudadanos con ingresos menores a 19.000 euros queden exentos en el pago del IRPF",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-02-12"
+    },
+    {
+     "id": "c-a76768299e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nuestra industria necesita certezas, agilidad administrativa, energía a precios competitivos, suelo disponible, infraestructuras estratégicas, atraer y retener talento, formación adaptada a las necesidades productivas, seguridad jurídica y una fiscalidad que permita competir.",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-3754d26707",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "un mapa de demanda eléctrica, polígono a polígono y comarca a comarca, un mapa que identifique proyectos, necesidades de potencia, inversiones previstas y plazos",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-b0ce6566a1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "se deben atender las necesidades de potencia eléctrica solicitadas desde el Gobierno de Navarra realizando las modificaciones pertinentes en el borrador de planificación eléctrica",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-03-18"
+    },
+    {
+     "id": "c-e7b5748f58",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Navarra necesita una política de gestión de recursos hídricos que prepare el futuro de Navarra a medio y largo plazo, más allá de un presupuesto o de una legislatura",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-6facd1ca60",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "UPN defiende la necesidad e inmediatez de acabar el Canal de Navarra, con la ejecución de la segunda fase, y llevar agua a la Ribera, lo que va a generar un impacto positivo en la riqueza de las zonas regables y agrícolas de la comarca.",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-cd3de37071",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "UPN ha registrado en el Parlamento de Navarra una proposición de Ley Foral para que el sector agrícola, ganadero y forestal pueda certificar la eliminación de CO2 mediante los denominados créditos de carbono.",
+     "quien": "el partido, Nota de prensa de UPN",
+     "fecha": "2025-10-15"
+    },
+    {
+     "id": "c-c6eef6eb48",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En materia de infraestructuras, UPN y el PP han acordado que, desde las responsabilidades de gobierno que se ejerzan, se impulsará y garantizará la ejecución de las inversiones del Estado necesarias para desarrollar las infraestructuras estratégicas de Navarra, como la segunda fase del canal de Navarra, el tren de alta velocidad y su conexión con la Y vasca, el aeropuerto de Pamplona y el refuerzo de la red eléctrica de Navarra.",
+     "quien": "el partido, Acuerdo de coalición UPN-PP publicado por UPN",
+     "fecha": "2026-10-13"
+    }
+   ]
+  },
+  {
+   "tema": "campo-y-medio-rural",
+   "nombre": "Campo y medio rural",
+   "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+   "citas": [
+    {
+     "id": "c-7698de57a6",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "nosotros apoyamos la semana pasada en el Congreso el decreto de medidas del Gobierno de Sánchez porque entendimos que eran buenas para la gente, pero aun así creíamos que se quedaban cortas en algunos aspectos y confiábamos en que el Gobierno de Navarra pudiera complementarlas en el ejercicio de nuestras competencias",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-04-01"
+    },
+    {
+     "id": "c-adf2706af6",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Los vecinos de nuestros pueblos tienen exactamente el mismo derecho a recibir una atención sanitaria de calidad que cualquier otro ciudadano. La falta de profesionales no puede convertirse en la excusa para dejar sin médicos a nuestros pueblos",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-09-01"
+    },
+    {
+     "id": "c-6facd1ca60",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "UPN defiende la necesidad e inmediatez de acabar el Canal de Navarra, con la ejecución de la segunda fase, y llevar agua a la Ribera, lo que va a generar un impacto positivo en la riqueza de las zonas regables y agrícolas de la comarca.",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-cd3de37071",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "UPN ha registrado en el Parlamento de Navarra una proposición de Ley Foral para que el sector agrícola, ganadero y forestal pueda certificar la eliminación de CO2 mediante los denominados créditos de carbono.",
+     "quien": "el partido, Nota de prensa de UPN",
+     "fecha": "2025-10-15"
+    },
+    {
+     "id": "c-ce4b89662f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "no es éticamente defendible exigir a agricultores y ganaderos europeos elevados estándares de producción mientras se permite competir en el mismo mercado a productos que no los cumplen, trasladando además los riesgos y costes al consumidor",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-01-22"
+    },
+    {
+     "id": "c-5850a04998",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "UPN lo tiene claro: sin sector primario fuerte no hay futuro. Un país que no produce su comida no es libre",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-01-22"
+    },
+    {
+     "id": "c-393ee66808",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "las mejores ayudas del país para agricultores y ganaderos",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata a las elecciones forales",
+     "fecha": "2026-09-04"
+    },
+    {
+     "id": "c-7a48be6056",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "estas cinco prioridades deben llegar a toda Navarra, no sólo a Pamplona o su comarca. Propondremos un refuerzo de las ayudas industriales en las zonas con riesgo de despoblación y una fiscalidad rural ligada a la actividad y al empleo",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "nombre": "Transporte e infraestructuras",
+   "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+   "citas": [
+    {
+     "id": "c-931aa5591a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "traigan cuanto antes por separado la revalorización de las pensiones y la bonificación del transporte sin meter torticeramente pagos a sus socios. Nosotros somos un partido responsable, que piensa en los ciudadanos, y por mucho que no nos guste la política de este gobierno, apoyamos todo lo que entendemos que es bueno para los navarros y el conjunto de los españoles y criticamos lo que no está bien proponiendo alternativas",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2025-01-23"
+    },
+    {
+     "id": "c-7698de57a6",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "nosotros apoyamos la semana pasada en el Congreso el decreto de medidas del Gobierno de Sánchez porque entendimos que eran buenas para la gente, pero aun así creíamos que se quedaban cortas en algunos aspectos y confiábamos en que el Gobierno de Navarra pudiera complementarlas en el ejercicio de nuestras competencias",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-04-01"
+    },
+    {
+     "id": "c-6facd1ca60",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "UPN defiende la necesidad e inmediatez de acabar el Canal de Navarra, con la ejecución de la segunda fase, y llevar agua a la Ribera, lo que va a generar un impacto positivo en la riqueza de las zonas regables y agrícolas de la comarca.",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-c6eef6eb48",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En materia de infraestructuras, UPN y el PP han acordado que, desde las responsabilidades de gobierno que se ejerzan, se impulsará y garantizará la ejecución de las inversiones del Estado necesarias para desarrollar las infraestructuras estratégicas de Navarra, como la segunda fase del canal de Navarra, el tren de alta velocidad y su conexión con la Y vasca, el aeropuerto de Pamplona y el refuerzo de la red eléctrica de Navarra.",
+     "quien": "el partido, Acuerdo de coalición UPN-PP publicado por UPN",
+     "fecha": "2026-10-13"
+    },
+    {
+     "id": "c-d60e04bbf6",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "UPN va a defender que la gestión del aeropuerto de Noáin se quede en Navarra, como ya sucede determinados lugares en Cataluña, Baleares o Canarias, y como se está negociando en la Comunidad Autónoma Vasca. Una infraestructura estratégica como esta debe estar en manos de los navarros, porque nadie tiene más interés en desarrollarla que nosotros",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y portavoz en el Ayuntamiento de Pamplona",
+     "fecha": "2026-02-06"
+    },
+    {
+     "id": "c-e7ccaf47cd",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por ello, UPN entiende como urgente la necesidad de establecer por parte del Gobierno de España las correspondientes consignaciones presupuestarias que posibiliten la culminación de dicho corredor, uniendo Zaragoza con Pamplona y el País Vasco.",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    }
+   ]
+  },
+  {
+   "tema": "igualdad-y-derechos",
+   "nombre": "Igualdad y derechos",
+   "definicion": "Igualdad entre mujeres y hombres, violencia machista, derechos LGTBI, libertades civiles, memoria democrática y relación con las religiones.",
+   "citas": [
+    {
+     "id": "c-73b85b705b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "no aceptaremos que se llame conflicto a lo que fue terrorismo. No hubo un conflicto entre iguales: hubo asesinos y víctimas",
+     "quien": "Cristina Ibarrola, Presidenta de UPN y candidata al Gobierno de Navarra",
+     "fecha": "2026-09-22"
+    },
+    {
+     "id": "c-1156b7b406",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Estamos obligados como partido y como ciudadanos a intervenir, denunciar y manifestar en nuestra conducta individual y colectiva el rechazo al maltrato",
+     "quien": "Alberto Catalán, Diputado de UPN en el Congreso",
+     "fecha": "2025-02-26"
+    },
+    {
+     "id": "c-62b1027c8b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Un compromiso que venimos demostrando a través del impulso a iniciativas en Navarra como la prohibición de subvenciones públicas a medios de comunicación que incluyan anuncios de prostitución o contra la trata como formas de violencia contra la mujer",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2025-02-26"
+    },
+    {
+     "id": "c-2de6e534f8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma de la Corona para adaptarla al siglo XXI (supresión de discriminación de la mujer).",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    }
+   ]
+  },
+  {
+   "tema": "politica-exterior-y-defensa",
+   "nombre": "Política exterior y defensa",
+   "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
+   "citas": [
+    {
+     "id": "c-ce4b89662f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "no es éticamente defendible exigir a agricultores y ganaderos europeos elevados estándares de producción mientras se permite competir en el mismo mercado a productos que no los cumplen, trasladando además los riesgos y costes al consumidor",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2026-01-22"
+    },
+    {
+     "id": "c-733050f9c2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "La declaración reclama una protección eficaz de las fronteras españolas y, por tanto, europeas, en Ceuta, reforzando los medios humanos, técnicos y materiales necesarios y evitando que la presión migratoria pueda ser utilizada como instrumento de coacción política o diplomática de Marruecos contra España.",
+     "quien": "el partido, Nota de prensa de UPN",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-a82f7c0e4a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ceuta no se vende, señor presidente, Ceuta se defiende",
+     "quien": "Alberto Catalán, Diputado de UPN en el Congreso",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-1631110548",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Es preciso incluir en la Constitución nuestra condición de Estado miembro de la UE y las consecuencias que de ello se derivan (primacía del derecho europeo, soberanía compartida, etc.).",
+     "quien": "el partido, Web oficial de UPN (posición sobre temas)",
+     "fecha": "2026-03-27"
+    }
+   ]
+  },
+  {
+   "tema": "ciencia-cultura-y-digital",
+   "nombre": "Ciencia, cultura y digital",
+   "definicion": "Investigación, tecnología e inteligencia artificial, cultura y deporte.",
+   "citas": [
+    {
+     "id": "c-45ba481e78",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La trasferencia de estas competencias supondrá una mejora en el servicio que se presta a los ciudadanos y un avance en el desarrollo de nuestro autogobierno, desarrollando la LORAFNA",
+     "quien": "María Caballero, Senadora de UPN",
+     "fecha": "2024-09-25"
+    },
+    {
+     "id": "c-15db2f236d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "por eso pondremos en marcha un plan que incluya campañas específicas para mayores, formación obligatoria en centros educativos, y una unidad de acompañamiento a pequeñas y medianas empresas navarras",
+     "quien": "Cristina Ibarrola, Presidenta de UPN",
+     "fecha": "2026-05-20"
+    },
+    {
+     "id": "c-497e11a84f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "está contemplado en el programa electoral de UPN, ya que encaja perfectamente en nuestra demanda de más autogobierno, y Navarra está capacitada para gestionarla, ya que cuenta con 12 centros tecnológicos, tres universidades y más de 1.000 investigadores",
+     "quien": "María Caballero, Senadora de UPN",
+     "fecha": "2024-09-25"
+    },
+    {
+     "id": "c-9d442738e4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Reclamamos una solución para que estos proyectos tan interesantes y necesarios en el ámbito de la IA puedan llevarse a cabo y, por ello, solicitamos la implicación del Gobierno de Navarra y del exconsejero y actual secretario de Estado de Ciencia, Innovación y Universidades, Juan Cruz Cigudosa García",
+     "quien": "el partido, Comunicado oficial de UPN",
+     "fecha": "2025-03-18"
+    }
+   ]
+  }
+ ]
+}

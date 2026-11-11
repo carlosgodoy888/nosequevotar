@@ -1,0 +1,12 @@
+{ "resumenes": [
+  { "tema": "transporte", "base": "suficiente", "frases": [
+    { "texto": "Plantea dejar atrás las grandes inversiones en una red exclusiva de alta velocidad y renovar a fondo el trazado ferroviario existente.", "apoyos": ["c-da486be4d5", "c-eb57101b08", "c-7e5981bf53"] },
+    { "texto": "Defiende un tren que combine largo recorrido competitivo, cercanías de calidad, mercancías y servicio a pueblos intermedios para combatir la despoblación.", "apoyos": ["c-7e5981bf53", "c-eb57101b08"] },
+    { "texto": "Pide revisar a fondo la política ferroviaria tras varios accidentes graves y reclama completar la transferencia de Cercanías prevista en el Estatuto de 1979.", "apoyos": ["c-2404466ffd", "c-3f1ebe9ef6"] },
+    { "texto": "Considera que reducir el número de vuelos es una de las soluciones al impacto climático de la aviación.", "apoyos": ["c-7e9baa726c"] }
+  ], "nota": "Todo procede de declaraciones. La cita sobre Cercanías no nombra la comunidad; se menciona solo el Estatuto de 1979, como hace la cita." },
+  { "tema": "ciencia-cultura-y-digital", "base": "escasa", "frases": [
+    { "texto": "Propone un estatuto para proteger las expresiones culturales de base frente a megaproyectos y macroeventos, y garantizar condiciones laborales dignas a los profesionales de la cultura.", "apoyos": ["c-8b29cdc40e"] },
+    { "texto": "Defiende que los trámites electrónicos con la Administración del Estado puedan hacerse en todas las lenguas oficiales y que deportistas puedan representar a Euskal Herria internacionalmente.", "apoyos": ["c-8e45ac3872", "c-c792f6a8ea"] }
+  ], "nota": "Base escasa: solo declaraciones dispersas, varias de ámbito vasco. Se omite c-34239ea38f porque la cita no dice qué se quiere evaluar, y c-e6def701ca (agenda pública de IA) porque procede del Parlamento Vasco y su ámbito («nuestro país») no queda claro." }
+] }

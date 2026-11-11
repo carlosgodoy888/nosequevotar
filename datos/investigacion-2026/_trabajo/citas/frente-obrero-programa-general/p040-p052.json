@@ -1,0 +1,890 @@
+{
+  "fuente": "frente-obrero-programa-general",
+  "partido": "frente-obrero",
+  "paginas": [
+    40,
+    52
+  ],
+  "citas": [
+    {
+      "cita": "Nosotros creemos en una sociedad donde no haya miedo a la opinión y, mucho menos, al debate. La censura y la persecución política solo sirven para fomentar una visión acrítica de las cosas y para proteger los intereses de quienes ostentan el poder.",
+      "pagina": 40,
+      "apartado": [
+        "13 Contra la censura"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de una sociedad sin miedo a opinar y debatir",
+      "etiquetas": [
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No puede ser que grandes corporaciones privadas, con la colaboración del Estado, nos digan de qué se puede opinar o no.",
+      "pagina": 40,
+      "apartado": [
+        "13 Contra la censura"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a que corporaciones y Estado limiten la opinión",
+      "etiquetas": [
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Debemos condenar todos los casos de censura y recortes de libertades básicas, y defender el derecho de la población a poder expresarse y estar informada sin manipulación de por medio.",
+      "pagina": 40,
+      "apartado": [
+        "13 Contra la censura"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Condena de la censura y defensa de la libertad de expresión",
+      "etiquetas": [
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogación de toda normativa que ataque nuestras libertades bajo la persecución ideológica.",
+      "pagina": 40,
+      "apartado": [
+        "13 Contra la censura"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Derogación de normas que consideran persecución ideológica",
+      "etiquetas": [
+        "derechos y libertades",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollo de una política de control del Estado sobre las grandes plataformas digitales, que garanticen que no se privilegian unos discursos de opinión sobre otros, o un sesgo informativo determinado.",
+      "pagina": 40,
+      "apartado": [
+        "13 Contra la censura"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Control estatal sobre las grandes plataformas digitales",
+      "etiquetas": [
+        "derechos y libertades",
+        "medios de comunicación",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la objetividad y la neutralidad en medios de comunicación públicos, que deben tener una independencia real respecto al gobierno de turno.",
+      "pagina": 40,
+      "apartado": [
+        "13 Contra la censura"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Neutralidad e independencia de los medios de comunicación públicos",
+      "etiquetas": [
+        "medios de comunicación",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Blindar la protección del derecho a informar de cualquier medio o perfil, sin censura de por medio.",
+      "pagina": 40,
+      "apartado": [
+        "13 Contra la censura"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Protección del derecho a informar de medios y perfiles",
+      "etiquetas": [
+        "medios de comunicación",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario garantizar un sistema de prestaciones sanitarias adecuadas para cuidar y sanar a los trabajadores cuando caigan enfermos y con independencia de donde vivan, e implantar medidas que nos ayuden a afrontar el incremento del gasto por el envejecimiento de la población.",
+      "pagina": 42,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Prestaciones sanitarias adecuadas con independencia del lugar de residencia",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "A su vez, es importante establecer unos marcos de actuación y dotar de recursos al sistema sanitario para poder afrontar futuras contingencias que no impliquen un debilitamiento de nuestro sistema de salud.",
+      "pagina": 42,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Marcos de actuación y recursos ante futuras contingencias sanitarias",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para ello, es necesario organizar los recursos de nuestra patria para asegurar unos servicios sanitarios totalmente gratuitos y de igual acceso y calidad para todos los españoles, con independencia de su lugar de nacimiento.",
+      "pagina": 42,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Sanidad gratuita y de igual acceso para todos los españoles",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Centralizar, unificar y homogeneizar el sistema nacional de salud.",
+      "pagina": 42,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Centralización y unificación del sistema nacional de salud",
+      "etiquetas": [
+        "sanidad",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acabar con el proceso de externalización y privatización de la sanidad.",
+      "pagina": 42,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fin de la externalización y privatización de la sanidad",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mayor control sobre la actuación de las mutuas y protección de los trabajadores frente a las reclamaciones contra estas.",
+      "pagina": 42,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mayor control de las mutuas y protección de trabajadores",
+      "etiquetas": [
+        "sanidad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incrementar el gasto e inversión sanitaria con el objetivo de afrontar los cambios, mejoras y modernización del sistema sanitario para:",
+      "pagina": 42,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Aumento del gasto y la inversión sanitaria",
+      "etiquetas": [
+        "sanidad",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejorar y dispensar de los medios precisos a toda la infraestructura sanitaria ya establecida.",
+      "pagina": 42,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Dotación de medios a la infraestructura sanitaria existente",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dotar al sistema nacional de salud de más centros de atención primaria con los recursos y medios necesarios, en especial en las zonas rurales y barrios obreros.",
+      "pagina": 42,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más centros de atención primaria en zonas rurales y barrios obreros",
+      "etiquetas": [
+        "sanidad",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proporcionar los recursos necesarios para reducir las listas de espera.",
+      "pagina": 42,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Recursos para reducir las listas de espera",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implantar la estructura adecuada para asegurar el cuidado y tratamiento bucodental, fisioterapéutico y oftalmológico gratuito.",
+      "pagina": 42,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Atención bucodental, fisioterapéutica y oftalmológica gratuita",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentar la dotación del personal y recursos del sistema sanitario vinculado al ámbito de la salud mental para garantizar un tratamiento efectivo de los trabajadores.",
+      "pagina": 43,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más personal y recursos para salud mental",
+      "etiquetas": [
+        "sanidad",
+        "salud mental"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Llevar a cabo programas y medidas que garanticen la prevención como eje vertebrador de nuestro sistema de salud. Con ello se pretende detectar las enfermedades con antelación y, fundamentalmente, combatir futuras enfermedades derivadas de un mal estilo de vida.",
+      "pagina": 43,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas de prevención como eje del sistema de salud",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejorar las condiciones laborales y salariales de todo el personal vinculado con el sector sanitario, en especial a los trabajadores perjudicados por los procesos de externalización y privatización, cómo las trabajadoras de la limpieza.",
+      "pagina": 43,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mejora laboral y salarial del personal del sector sanitario",
+      "etiquetas": [
+        "sanidad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Abaratar el acceso a medicamentos con receta y tender a su gratuidad en casos de especial necesidad.",
+      "pagina": 43,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Abaratar los medicamentos con receta y tender a su gratuidad",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar una industria farmacéutica nacional que permita romper con la dependencia de grandes corporaciones privadas.",
+      "pagina": 43,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Desarrollo de una industria farmacéutica nacional",
+      "etiquetas": [
+        "sanidad",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar plazas públicas en residencias de la tercera edad.",
+      "pagina": 43,
+      "apartado": [
+        "14 Sanidad"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Plazas públicas en residencias de la tercera edad",
+      "etiquetas": [
+        "servicios sociales",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sin una construcción de vivienda pública numerosa, este problema no se va a solucionar, más teniendo en cuenta los millones de inmigrantes que han venido de forma masiva a nuestro país y que se concentran en dichas zonas.",
+      "pagina": 45,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Construcción de vivienda pública como condición para resolver el problema",
+      "etiquetas": [
+        "vivienda",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reducir la inmigración es necesario, y no solo por la cuestión de la vivienda.",
+      "pagina": 45,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Considera necesario reducir la inmigración",
+      "etiquetas": [
+        "inmigración",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El derecho a una vivienda es incompatible con el mercado y la especulación de esta. Solo una verdadera supervisión por parte del Estado sobre este recurso puede garantizar un acceso a una vivienda digna a los trabajadores de España.",
+      "pagina": 45,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Vivienda fuera del mercado y bajo supervisión del Estado",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Construir vivienda pública de calidad para aumentar el número de inmuebles existentes y lograr que los trabajadores puedan acceder a una vivienda digna y asequible económicamente.",
+      "pagina": 45,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Construcción de vivienda pública de calidad",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Luchar contra la especulación de bancos, fondos buitre y grandes rentistas; la vivienda no es una mercancía con la que hacer negocio.",
+      "pagina": 46,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Lucha contra la especulación de bancos, fondos y grandes rentistas",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aplicar medidas que detengan la gentrificación, el auge de los pisos turísticos y las consecuencias negativas del turismo destructivo.",
+      "pagina": 46,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Medidas contra la gentrificación y los pisos turísticos",
+      "etiquetas": [
+        "vivienda",
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Paralizar inmediatamente todos los procesos de desahucio de las familias trabajadoras en situación de vulnerabilidad que no pueden hacer frente al pago del alquiler/ hipoteca hasta encontrar una alternativa habitacional.",
+      "pagina": 46,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Paralización de desahucios de familias trabajadoras vulnerables",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se deben conceder segundas oportunidades para deudas hipotecarias y garantizar la posibilidad de dación en pago en todas las situaciones.",
+      "pagina": 46,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Segunda oportunidad para deudas hipotecarias y dación en pago",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Luchar por terminar con las mafias de la ocupación y de la delincuencia relacionada con el uso indebido de inmuebles, acabando con la lacra de los narcopisos.",
+      "pagina": 46,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Lucha contra las mafias de la ocupación y los narcopisos",
+      "etiquetas": [
+        "vivienda",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se actuará a su vez contra la ocupación de viviendas de particulares, que no debe ser permitida en ningún caso.",
+      "pagina": 46,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Actuación contra la ocupación de viviendas de particulares",
+      "etiquetas": [
+        "vivienda",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "También se actuará contra los inquiokupas, que han hecho de la estafa su modo de vida.",
+      "pagina": 46,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Actuación contra los inquiokupas",
+      "etiquetas": [
+        "vivienda",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Enfocar el acceso a la vivienda pública hacia los españoles autóctonos. No permitir que suceda como con las ayudas, que, como se ha visto en el programa, también deben cambiar, pues se suele priorizar al extranjero.",
+      "pagina": 46,
+      "apartado": [
+        "15 Vivienda"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acceso a la vivienda pública enfocado a españoles autóctonos",
+      "etiquetas": [
+        "vivienda",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los políticos quieren hacernos creer que esto se solucionará aumentando el número de inmigrantes que llegan a España, como una especie de solución mágica. Esto no soluciona nada, sino que traerá aún más problemas mucho más graves, como los que ya se están viviendo en muchas ciudades respecto a esta cuestión.",
+      "pagina": 48,
+      "apartado": [
+        "16 Pensiones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo de la inmigración como solución para las pensiones",
+      "etiquetas": [
+        "pensiones",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para garantizar la sostenibilidad de las pensiones es necesario incorporar medidas drásticas que permitan dirigir los recursos que se generen en España a financiar las mismas.",
+      "pagina": 48,
+      "apartado": [
+        "16 Pensiones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Destinar los recursos generados en España a financiar las pensiones",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para transformar nuestra estructura económica es necesaria una reindustrialización que favorezca unos niveles de productividad, empleo y salarios más altos, y centrarnos en elevar las tasas de natalidad para ampliar la población en edad de trabajar.",
+      "pagina": 48,
+      "apartado": [
+        "16 Pensiones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Reindustrialización y natalidad para sostener las pensiones",
+      "etiquetas": [
+        "pensiones",
+        "industria",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revertir el incremento de la edad de jubilación y establecer una edad de retiro adecuada al puesto laboral desempeñado.",
+      "pagina": 48,
+      "apartado": [
+        "16 Pensiones"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revertir el aumento de la edad de jubilación y adecuarla al puesto",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incrementar las pensiones no contributivas y mínimas asegurando una correcta suficiencia de recursos de todos los pensionistas.",
+      "pagina": 49,
+      "apartado": [
+        "16 Pensiones"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Subida de las pensiones no contributivas y mínimas",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Introducir el cálculo de la pensión mediante la media de los mejores años cotizados, para evitar que los trabajadores que han sido despedidos o han obtenido un salario menor en los últimos años de su vida laboral obtengan una pensión menor.",
+      "pagina": 49,
+      "apartado": [
+        "16 Pensiones"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cálculo de la pensión con los mejores años cotizados",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incrementar las tasas de actividad y empleo mediante la conciliación laboral, la incorporación de los jóvenes a la actividad productiva y la lucha contra la economía sumergida.",
+      "pagina": 49,
+      "apartado": [
+        "16 Pensiones"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Aumento de las tasas de actividad y empleo",
+      "etiquetas": [
+        "empleo",
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las fronteras deben ser defendidas, y aquellos que quieran traspasarlas sin permiso deben ser expulsados.",
+      "pagina": 51,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Defensa de las fronteras y expulsión de quien entre sin permiso",
+      "etiquetas": [
+        "inmigración",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los inmigrantes que llegan al país deben de hacerlo de forma legal, todo aquel que incumpla nuestras leyes debe de ser deportado de inmediato.",
+      "pagina": 51,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Entrada legal y deportación inmediata de quien incumpla las leyes",
+      "etiquetas": [
+        "inmigración",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aquellos que quieran imponer costumbres bárbaras, atenten contra los derechos de las mujeres o contra nuestra cultura también deben ser deportados. Si caen en estas conductas significará que Europa no es su sitio y deberán remigrar, retornar a sus países de origen.",
+      "pagina": 51,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Deportación por atentar contra derechos de las mujeres o la cultura",
+      "etiquetas": [
+        "inmigración",
+        "igualdad",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El culpable de este modelo migratorio es el sistema capitalista, que promueve este tipo de migración para explotarles y bajar los salarios en España.",
+      "pagina": 52,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Atribuye el modelo migratorio al sistema capitalista",
+      "etiquetas": [
+        "inmigración",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario señalar que el mayor choque cultural se produce con aquellos inmigrantes provenientes de contextos islámicos. Siendo más lógico que los inmigrantes que deban de venir por las necesidades del país hasta que se resuelva la situación sean de contexto europeo o hispanoamericano. Teniendo claro que la capacidad de acoger inmigrantes está rebosada desde hace tiempo y que muchos tendrán que marcharse antes de otros puedan venir.",
+      "pagina": 52,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Preferencia por inmigración de origen europeo o hispanoamericano",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El problema no es solo la inmigración ilegal, también la legal. El problema es la masividad de la inmigración.",
+      "pagina": 52,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Considera un problema la inmigración masiva, tanto legal como ilegal",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "A las personas inmigrantes que hay en el país hay que asimilarlas, integrarlas o favorecer que retornen a sus países.",
+      "pagina": 52,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Asimilación, integración o retorno de los inmigrantes",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, hay que acabar con la creación de población dependiente, clientelar de ciertos grupos políticos que les compran con ventajas. Las pagas deben ser eliminadas y se debe fomentar el trabajo, personas en edad de trabajar no pueden estar ociosas y haciendo gasto a los españoles.",
+      "pagina": 52,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Eliminación de pagas y fomento del trabajo frente a la dependencia",
+      "etiquetas": [
+        "inmigración",
+        "servicios sociales",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si no tienen trabajo y no quieren encontrarlo deben retornar a sus países, no tiene sentido que permanezcan eternamente viviendo del estado español.",
+      "pagina": 52,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Retorno de inmigrantes sin trabajo que no quieran buscarlo",
+      "etiquetas": [
+        "inmigración",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, es necesario promover estudios étnicos que aporten datos exactos y permitan conocer la gravedad del problema.",
+      "pagina": 52,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Promoción de estudios étnicos para obtener datos",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

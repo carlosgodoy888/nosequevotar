@@ -14,6 +14,7 @@ import { base } from '../src/plantillas/base.mjs';
 import { hoyMadrid } from '../src/plantillas/util.mjs';
 import * as paginas from '../src/plantillas/paginas.mjs';
 import { validarBanco, bancoPublico } from '../src/plantillas/juegos.mjs';
+import * as partidos from '../src/plantillas/partidos.mjs';
 
 const RAIZ = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SRC = join(RAIZ, 'src');
@@ -67,6 +68,14 @@ async function cargarJuego() {
   return { anio: ANIO_TEST, banco: bancoPublico(banco), partidos, circunscripciones, modulos };
 }
 
+// Partidos y temas de 2026: lo genera scripts/investigacion/generar-web.mjs. Si no es válido, la construcción se para.
+async function cargarPartidos() {
+  const datos = await leerJson(join(SRC, 'contenido', 'partidos', 'partidos-2026.json'));
+  const errores = partidos.validarPartidos(datos);
+  if (errores.length) throw new Error(`Los datos de partidos no son válidos:\n  · ${errores.join('\n  · ')}`);
+  return datos;
+}
+
 async function escribir(ruta, contenido) {
   const destino = join(PUBLIC, ruta.endsWith('/') ? ruta + 'index.html' : ruta);
   await mkdir(dirname(destino), { recursive: true });
@@ -97,8 +106,10 @@ async function construir() {
   const js = await readFile(join(SRC, 'js', 'sitio.js'), 'utf8');
   const cssTest = await readFile(join(SRC, 'estilos', 'test.css'), 'utf8');
   const juego = await cargarJuego();
+  const datosPartidos = await cargarPartidos();
+  const jsPartidos = await readFile(join(SRC, 'js', 'partidos.js'), 'utf8');
   const datosJuego = JSON.stringify([juego.banco, juego.partidos, juego.circunscripciones]);
-  sitio.version = createHash('sha256').update(css + js + cssTest + Object.values(juego.modulos).join('') + datosJuego).digest('hex').slice(0, 8);
+  sitio.version = createHash('sha256').update(css + js + cssTest + Object.values(juego.modulos).join('') + datosJuego + jsPartidos).digest('hex').slice(0, 8);
 
   const ctx = { sitio, fechas, guias, hoy, juego };
 
@@ -108,6 +119,7 @@ async function construir() {
   await writeFile(join(PUBLIC, 'estilo.css'), css);
   await writeFile(join(PUBLIC, 'sitio.js'), js);
   await writeFile(join(PUBLIC, 'test.css'), cssTest);
+  await writeFile(join(PUBLIC, 'partidos.js'), jsPartidos);
   // Los módulos se sirven como .js (tipo MIME seguro) y se importan con la versión, para no mezclar cachés.
   await mkdir(join(PUBLIC, 'juegos'), { recursive: true });
   for (const [nombre, codigo] of Object.entries(juego.modulos)) {
@@ -125,6 +137,10 @@ async function construir() {
     paginas.calendario(ctx),
     paginas.test(ctx),
     ...textos.map(p => paginas.texto(p, ctx)),
+    partidos.indicePartidos(datosPartidos),
+    ...datosPartidos.partidos.map(p => partidos.paginaPartido(p, datosPartidos)),
+    partidos.indiceTemas(datosPartidos),
+    ...datosPartidos.temas.map(t => partidos.paginaTema(t, datosPartidos)),
     ...sitio.pronto.map(p => paginas.pronto(p, ctx)),
     paginas.error404(ctx),
   ];

@@ -1,0 +1,1407 @@
+[
+ {
+  "nombre": "FRENTE OBRERO (FO)",
+  "variantes": [
+   "FRENTE OBRERO (FO)",
+   "Frente Obrero (FO)"
+  ],
+  "n": 51,
+  "proclamada_en": [
+   "a-coruna",
+   "alava",
+   "albacete",
+   "alicante",
+   "almeria",
+   "asturias",
+   "avila",
+   "badajoz",
+   "baleares",
+   "barcelona",
+   "bizkaia",
+   "burgos",
+   "caceres",
+   "cadiz",
+   "cantabria",
+   "castellon",
+   "ciudad-real",
+   "cordoba",
+   "cuenca",
+   "gipuzkoa",
+   "girona",
+   "granada",
+   "guadalajara",
+   "huelva",
+   "huesca",
+   "jaen",
+   "la-rioja",
+   "las-palmas",
+   "leon",
+   "lleida",
+   "lugo",
+   "madrid",
+   "malaga",
+   "melilla",
+   "murcia",
+   "navarra",
+   "ourense",
+   "palencia",
+   "pontevedra",
+   "salamanca",
+   "santa-cruz-de-tenerife",
+   "segovia",
+   "sevilla",
+   "soria",
+   "tarragona",
+   "teruel",
+   "toledo",
+   "valencia",
+   "valladolid",
+   "zamora",
+   "zaragoza"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "VOX (VOX)",
+  "variantes": [
+   "VOX (VOX)"
+  ],
+  "n": 51,
+  "proclamada_en": [
+   "a-coruna",
+   "alava",
+   "albacete",
+   "alicante",
+   "almeria",
+   "asturias",
+   "avila",
+   "badajoz",
+   "baleares",
+   "barcelona",
+   "bizkaia",
+   "burgos",
+   "caceres",
+   "cadiz",
+   "cantabria",
+   "castellon",
+   "ceuta",
+   "ciudad-real",
+   "cordoba",
+   "cuenca",
+   "gipuzkoa",
+   "girona",
+   "granada",
+   "guadalajara",
+   "huelva",
+   "huesca",
+   "jaen",
+   "las-palmas",
+   "leon",
+   "lleida",
+   "lugo",
+   "madrid",
+   "malaga",
+   "melilla",
+   "murcia",
+   "navarra",
+   "ourense",
+   "palencia",
+   "pontevedra",
+   "salamanca",
+   "santa-cruz-de-tenerife",
+   "segovia",
+   "sevilla",
+   "soria",
+   "tarragona",
+   "teruel",
+   "toledo",
+   "valencia",
+   "valladolid",
+   "zamora",
+   "zaragoza"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO POPULAR (PP)",
+  "variantes": [
+   "PARTIDO POPULAR (PP)",
+   "Partido Popular (PP)"
+  ],
+  "n": 48,
+  "proclamada_en": [
+   "a-coruna",
+   "alava",
+   "albacete",
+   "alicante",
+   "almeria",
+   "asturias",
+   "avila",
+   "badajoz",
+   "baleares",
+   "bizkaia",
+   "burgos",
+   "caceres",
+   "cadiz",
+   "cantabria",
+   "castellon",
+   "ceuta",
+   "ciudad-real",
+   "cordoba",
+   "cuenca",
+   "gipuzkoa",
+   "granada",
+   "guadalajara",
+   "huelva",
+   "huesca",
+   "jaen",
+   "la-rioja",
+   "las-palmas",
+   "leon",
+   "lleida",
+   "lugo",
+   "madrid",
+   "malaga",
+   "melilla",
+   "murcia",
+   "ourense",
+   "palencia",
+   "pontevedra",
+   "salamanca",
+   "santa-cruz-de-tenerife",
+   "segovia",
+   "sevilla",
+   "soria",
+   "teruel",
+   "toledo",
+   "valencia",
+   "valladolid",
+   "zamora",
+   "zaragoza"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "SE ACABÓ LA FIESTA (SALF)",
+  "variantes": [
+   "SE ACABÓ LA FIESTA (SALF)",
+   "SE ACABO LA FIESTA (SALF)"
+  ],
+  "n": 46,
+  "proclamada_en": [
+   "a-coruna",
+   "alava",
+   "albacete",
+   "alicante",
+   "almeria",
+   "asturias",
+   "avila",
+   "badajoz",
+   "baleares",
+   "barcelona",
+   "burgos",
+   "caceres",
+   "cadiz",
+   "castellon",
+   "ceuta",
+   "cordoba",
+   "cuenca",
+   "granada",
+   "guadalajara",
+   "huelva",
+   "huesca",
+   "jaen",
+   "la-rioja",
+   "las-palmas",
+   "leon",
+   "lugo",
+   "madrid",
+   "malaga",
+   "melilla",
+   "murcia",
+   "navarra",
+   "ourense",
+   "palencia",
+   "pontevedra",
+   "salamanca",
+   "santa-cruz-de-tenerife",
+   "segovia",
+   "sevilla",
+   "soria",
+   "tarragona",
+   "teruel",
+   "toledo",
+   "valencia",
+   "valladolid",
+   "zamora",
+   "zaragoza"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PODEMOS (PODEMOS)",
+  "variantes": [
+   "PODEMOS (PODEMOS)"
+  ],
+  "n": 39,
+  "proclamada_en": [
+   "a-coruna",
+   "alava",
+   "albacete",
+   "almeria",
+   "asturias",
+   "avila",
+   "badajoz",
+   "bizkaia",
+   "burgos",
+   "caceres",
+   "cadiz",
+   "cantabria",
+   "ciudad-real",
+   "cordoba",
+   "cuenca",
+   "gipuzkoa",
+   "granada",
+   "guadalajara",
+   "huelva",
+   "huesca",
+   "jaen",
+   "leon",
+   "lugo",
+   "madrid",
+   "malaga",
+   "murcia",
+   "navarra",
+   "ourense",
+   "palencia",
+   "pontevedra",
+   "salamanca",
+   "segovia",
+   "sevilla",
+   "soria",
+   "teruel",
+   "toledo",
+   "valladolid",
+   "zamora",
+   "zaragoza"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)",
+  "variantes": [
+   "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)"
+  ],
+  "n": 38,
+  "proclamada_en": [
+   "albacete",
+   "alicante",
+   "almeria",
+   "asturias",
+   "avila",
+   "badajoz",
+   "burgos",
+   "caceres",
+   "cadiz",
+   "cantabria",
+   "castellon",
+   "ceuta",
+   "ciudad-real",
+   "cordoba",
+   "cuenca",
+   "granada",
+   "guadalajara",
+   "huesca",
+   "jaen",
+   "la-rioja",
+   "las-palmas",
+   "leon",
+   "madrid",
+   "malaga",
+   "melilla",
+   "murcia",
+   "palencia",
+   "salamanca",
+   "santa-cruz-de-tenerife",
+   "segovia",
+   "sevilla",
+   "soria",
+   "teruel",
+   "toledo",
+   "valencia",
+   "valladolid",
+   "zamora",
+   "zaragoza"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)",
+  "variantes": [
+   "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)"
+  ],
+  "n": 36,
+  "proclamada_en": [
+   "alicante",
+   "almeria",
+   "asturias",
+   "avila",
+   "baleares",
+   "burgos",
+   "caceres",
+   "cadiz",
+   "cantabria",
+   "castellon",
+   "cordoba",
+   "cuenca",
+   "granada",
+   "guadalajara",
+   "huelva",
+   "huesca",
+   "jaen",
+   "la-rioja",
+   "las-palmas",
+   "leon",
+   "madrid",
+   "malaga",
+   "murcia",
+   "navarra",
+   "palencia",
+   "salamanca",
+   "santa-cruz-de-tenerife",
+   "segovia",
+   "sevilla",
+   "soria",
+   "teruel",
+   "toledo",
+   "valencia",
+   "valladolid",
+   "zamora",
+   "zaragoza"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)",
+  "variantes": [
+   "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)"
+  ],
+  "n": 29,
+  "proclamada_en": [
+   "alava",
+   "albacete",
+   "alicante",
+   "almeria",
+   "asturias",
+   "bizkaia",
+   "cadiz",
+   "castellon",
+   "cordoba",
+   "cuenca",
+   "gipuzkoa",
+   "girona",
+   "granada",
+   "huelva",
+   "huesca",
+   "jaen",
+   "la-rioja",
+   "las-palmas",
+   "leon",
+   "madrid",
+   "malaga",
+   "navarra",
+   "santa-cruz-de-tenerife",
+   "segovia",
+   "sevilla",
+   "tarragona",
+   "teruel",
+   "valencia",
+   "valladolid"
+  ],
+  "no_proclamada_en": [
+   "a-coruna",
+   "baleares",
+   "barcelona",
+   "murcia",
+   "ourense",
+   "salamanca",
+   "zaragoza"
+  ]
+ },
+ {
+  "nombre": "Frente Amplio (FA)",
+  "variantes": [
+   "Frente Amplio (FA)",
+   "FRENTE AMPLIO (FA)"
+  ],
+  "n": 25,
+  "proclamada_en": [
+   "albacete",
+   "almeria",
+   "avila",
+   "badajoz",
+   "bizkaia",
+   "burgos",
+   "caceres",
+   "cantabria",
+   "ciudad-real",
+   "cuenca",
+   "gipuzkoa",
+   "guadalajara",
+   "jaen",
+   "la-rioja",
+   "leon",
+   "madrid",
+   "malaga",
+   "murcia",
+   "palencia",
+   "salamanca",
+   "segovia",
+   "soria",
+   "toledo",
+   "valladolid",
+   "zamora"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+  "variantes": [
+   "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)",
+   "POR UN MUNDO MÁS JUSTO (MUNDO+JUSTO)"
+  ],
+  "n": 25,
+  "proclamada_en": [
+   "alava",
+   "albacete",
+   "almeria",
+   "asturias",
+   "avila",
+   "badajoz",
+   "bizkaia",
+   "burgos",
+   "cadiz",
+   "cuenca",
+   "granada",
+   "guadalajara",
+   "huesca",
+   "jaen",
+   "las-palmas",
+   "madrid",
+   "navarra",
+   "palencia",
+   "segovia",
+   "sevilla",
+   "soria",
+   "tarragona",
+   "valencia",
+   "valladolid",
+   "zaragoza"
+  ],
+  "no_proclamada_en": [
+   "barcelona",
+   "leon"
+  ]
+ },
+ {
+  "nombre": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+  "variantes": [
+   "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)",
+   "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACIOS (ESCAÑOS EN BLANCO)"
+  ],
+  "n": 11,
+  "proclamada_en": [
+   "alava",
+   "almeria",
+   "cordoba",
+   "gipuzkoa",
+   "la-rioja",
+   "las-palmas",
+   "leon",
+   "murcia",
+   "palencia",
+   "soria",
+   "valladolid"
+  ],
+  "no_proclamada_en": [
+   "melilla"
+  ]
+ },
+ {
+  "nombre": "ADELANTE ANDALUCÍA (ADELANTE ANDALUCÍA)",
+  "variantes": [
+   "ADELANTE ANDALUCÍA (ADELANTE ANDALUCÍA)"
+  ],
+  "n": 8,
+  "proclamada_en": [
+   "almeria",
+   "cadiz",
+   "cordoba",
+   "granada",
+   "huelva",
+   "jaen",
+   "malaga",
+   "sevilla"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "FALANGE ESPAÑOLA DE LAS J.O.N.S. (FE de las JONS)",
+  "variantes": [
+   "FALANGE ESPAÑOLA DE LAS J.O.N.S. (FE de las JONS)"
+  ],
+  "n": 7,
+  "proclamada_en": [
+   "guadalajara",
+   "madrid",
+   "palencia",
+   "teruel",
+   "toledo",
+   "valencia",
+   "valladolid"
+  ],
+  "no_proclamada_en": [
+   "alicante",
+   "zaragoza"
+  ]
+ },
+ {
+  "nombre": "Frente Amplio Andaluz (FA)",
+  "variantes": [
+   "Frente Amplio Andaluz (FA)",
+   "FRENTE AMPLIO ANDALUZ (FA)"
+  ],
+  "n": 5,
+  "proclamada_en": [
+   "cadiz",
+   "cordoba",
+   "granada",
+   "huelva",
+   "sevilla"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "ALHORA (ALHORA)",
+  "variantes": [
+   "ALHORA (ALHORA)"
+  ],
+  "n": 4,
+  "proclamada_en": [
+   "barcelona",
+   "girona",
+   "lleida",
+   "tarragona"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "Comuns-Front Ampli (COMUNS-FRONT AMPLI)",
+  "variantes": [
+   "Comuns-Front Ampli (COMUNS-FRONT AMPLI)"
+  ],
+  "n": 4,
+  "proclamada_en": [
+   "barcelona",
+   "girona",
+   "lleida",
+   "tarragona"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "ESQUERRA REPUBLICANA DE CATALUNYA (ERC)",
+  "variantes": [
+   "ESQUERRA REPUBLICANA DE CATALUNYA (ERC)"
+  ],
+  "n": 4,
+  "proclamada_en": [
+   "barcelona",
+   "girona",
+   "lleida",
+   "tarragona"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "EUSKAL HERRIA BILDU (EH BILDU)",
+  "variantes": [
+   "EUSKAL HERRIA BILDU (EH BILDU)",
+   "EUSKAL HERRIA BILDU (EH Bildu)"
+  ],
+  "n": 4,
+  "proclamada_en": [
+   "alava",
+   "bizkaia",
+   "gipuzkoa",
+   "navarra"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "Frente Amplio-Fronte Ampla (FRENTE AMPLIO-FRONTE AMPLA)",
+  "variantes": [
+   "Frente Amplio-Fronte Ampla (FRENTE AMPLIO-FRONTE AMPLA)",
+   "FRENTE AMPLIO-FRONTE AMPLA (FRENTE AMPLIO-FRONTE AMPLA)",
+   "Frente Amplio - Fronte Ampla (FRENTE AMPLIO - FRONTE AMPLA)"
+  ],
+  "n": 4,
+  "proclamada_en": [
+   "a-coruna",
+   "lugo",
+   "ourense",
+   "pontevedra"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "JUNTS PER CATALUNYA (JxCat)",
+  "variantes": [
+   "JUNTS PER CATALUNYA (JxCat)"
+  ],
+  "n": 4,
+  "proclamada_en": [
+   "barcelona",
+   "girona",
+   "lleida",
+   "tarragona"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "Partido dos Socialistas de Galicia-PSOE (PSdeG-PSOE)",
+  "variantes": [
+   "Partido dos Socialistas de Galicia-PSOE (PSdeG-PSOE)",
+   "PARTIDO DOS SOCIALISTAS DE GALICIA-PSOE (PSdeG-PSOE)"
+  ],
+  "n": 4,
+  "proclamada_en": [
+   "a-coruna",
+   "lugo",
+   "ourense",
+   "pontevedra"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA (PCTC)",
+  "variantes": [
+   "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA (PCTC)"
+  ],
+  "n": 4,
+  "proclamada_en": [
+   "barcelona",
+   "girona",
+   "lleida",
+   "tarragona"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE) (PSC)",
+  "variantes": [
+   "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE) (PSC)"
+  ],
+  "n": 4,
+  "proclamada_en": [
+   "barcelona",
+   "girona",
+   "lleida",
+   "tarragona"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "BLOQUE NACIONALISTA GALEGO (BNG)",
+  "variantes": [
+   "BLOQUE NACIONALISTA GALEGO (BNG)"
+  ],
+  "n": 3,
+  "proclamada_en": [
+   "lugo",
+   "ourense",
+   "pontevedra"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "COMPROMÍS: FRONT VALENCIÀ (COMPROMIS-EUPV-PODEM-ERPV)",
+  "variantes": [
+   "COMPROMÍS: FRONT VALENCIÀ (COMPROMIS-EUPV-PODEM-ERPV)"
+  ],
+  "n": 3,
+  "proclamada_en": [
+   "alicante",
+   "castellon",
+   "valencia"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO (EAJ-PNV)",
+  "variantes": [
+   "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO (EAJ-PNV)"
+  ],
+  "n": 3,
+  "proclamada_en": [
+   "alava",
+   "bizkaia",
+   "gipuzkoa"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO AUTÓNOMOS (PARTIDO AUTÓNOMOS)",
+  "variantes": [
+   "PARTIDO AUTÓNOMOS (PARTIDO AUTÓNOMOS)"
+  ],
+  "n": 3,
+  "proclamada_en": [
+   "alicante",
+   "castellon",
+   "santa-cruz-de-tenerife"
+  ],
+  "no_proclamada_en": [
+   "valencia"
+  ]
+ },
+ {
+  "nombre": "PARTIDO COMUNISTA DOS TRABALLADORES DA GALIZA (PCTG)",
+  "variantes": [
+   "PARTIDO COMUNISTA DOS TRABALLADORES DA GALIZA (PCTG)",
+   "Partido Comunista dos Traballadores da Galiza (PCTG)"
+  ],
+  "n": 3,
+  "proclamada_en": [
+   "a-coruna",
+   "ourense",
+   "pontevedra"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO REGIONALISTA DEL PAIS LEONES (PREPAL)",
+  "variantes": [
+   "PARTIDO REGIONALISTA DEL PAIS LEONES (PREPAL)"
+  ],
+  "n": 3,
+  "proclamada_en": [
+   "leon",
+   "salamanca",
+   "zamora"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE (PSOE)",
+  "variantes": [
+   "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE (PSOE)"
+  ],
+  "n": 3,
+  "proclamada_en": [
+   "alava",
+   "bizkaia",
+   "gipuzkoa"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIT POPULAR / PARTIDO POPULAR (PP)",
+  "variantes": [
+   "PARTIT POPULAR / PARTIDO POPULAR (PP)"
+  ],
+  "n": 3,
+  "proclamada_en": [
+   "barcelona",
+   "girona",
+   "tarragona"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "CHUNTA ARAGONESISTA-FRENTE AMPLIO ARAGÓN (CHA-IU-MS-FRENTE AMPLIO)",
+  "variantes": [
+   "CHUNTA ARAGONESISTA-FRENTE AMPLIO ARAGÓN (CHA-IU-MS-FRENTE AMPLIO)",
+   "Chunta Aragonesista-Frente Amplio Aragón (CHA-IU-MS-FRENTE AMPLIO)"
+  ],
+  "n": 2,
+  "proclamada_en": [
+   "huesca",
+   "zaragoza"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "DEMOCRACIA para el siglo 21 (D21)",
+  "variantes": [
+   "DEMOCRACIA para el siglo 21 (D21)",
+   "DEMOCRACIA PARA EL SIGLO 21 (D21)"
+  ],
+  "n": 2,
+  "proclamada_en": [
+   "barcelona",
+   "madrid"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "FALANGE ESPAÑOLA DE LAS JONS (FE de las JONS)",
+  "variantes": [
+   "FALANGE ESPAÑOLA DE LAS JONS (FE de las JONS)"
+  ],
+  "n": 2,
+  "proclamada_en": [
+   "castellon",
+   "cordoba"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "FRENTE AMPLIO-FRONTE ZABALA (FRENTE AMPLIO-FRONTE ZABALA)",
+  "variantes": [
+   "FRENTE AMPLIO-FRONTE ZABALA (FRENTE AMPLIO-FRONTE ZABALA)"
+  ],
+  "n": 2,
+  "proclamada_en": [
+   "alava",
+   "navarra"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "LIBERACIÓN CANARIA (LIB)",
+  "variantes": [
+   "LIBERACIÓN CANARIA (LIB)"
+  ],
+  "n": 2,
+  "proclamada_en": [
+   "las-palmas",
+   "santa-cruz-de-tenerife"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "NUEVO EXTREMEÑISMO - ADELANTE EXTREMADURA (NEX)",
+  "variantes": [
+   "NUEVO EXTREMEÑISMO - ADELANTE EXTREMADURA (NEX)"
+  ],
+  "n": 2,
+  "proclamada_en": [
+   "badajoz",
+   "caceres"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI/EUSKADIKO LANGILEEN ALDERDI KOMUNISTA (PCTE/ELAK)",
+  "variantes": [
+   "PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI/EUSKADIKO LANGILEEN ALDERDI KOMUNISTA (PCTE/ELAK)"
+  ],
+  "n": 2,
+  "proclamada_en": [
+   "alava",
+   "bizkaia"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO DRAGO CANARIAS (D.R.G)",
+  "variantes": [
+   "PARTIDO DRAGO CANARIAS (D.R.G)"
+  ],
+  "n": 2,
+  "proclamada_en": [
+   "las-palmas",
+   "santa-cruz-de-tenerife"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "UNIDAD DEL PUEBLO CANARIO UPC (NC-BC, PODEMOS, IU, SUMAR)",
+  "variantes": [
+   "UNIDAD DEL PUEBLO CANARIO UPC (NC-BC, PODEMOS, IU, SUMAR)"
+  ],
+  "n": 2,
+  "proclamada_en": [
+   "las-palmas",
+   "santa-cruz-de-tenerife"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "AGENDA VALENCIANA (AGENDA VALENCIANA)",
+  "variantes": [
+   "AGENDA VALENCIANA (AGENDA VALENCIANA)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "valencia"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "ALTERNATIVA MALAGUEÑA (29)",
+  "variantes": [
+   "ALTERNATIVA MALAGUEÑA (29)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "malaga"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "ARAMÉS-FRONT AMPLI (ARAMÉS-EU-MS)",
+  "variantes": [
+   "ARAMÉS-FRONT AMPLI (ARAMÉS-EU-MS)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "baleares"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "BLOQUE NACIONALISTA GALEGO (B.N.G.)",
+  "variantes": [
+   "BLOQUE NACIONALISTA GALEGO (B.N.G.)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "a-coruna"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "Coalición Canaria-Municipalistas Primero Canarias (CCa-1.ºCAN)",
+  "variantes": [
+   "Coalición Canaria-Municipalistas Primero Canarias (CCa-1.ºCAN)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "santa-cruz-de-tenerife"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "CONVERGENTS (CNV)",
+  "variantes": [
+   "CONVERGENTS (CNV)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "tarragona"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "EGUZKILORE (EGUZKILORE)",
+  "variantes": [
+   "EGUZKILORE (EGUZKILORE)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "navarra"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "Escanos en Branco para deixar Escanos Baleiros (ESCAÑOS EN BLANCO)",
+  "variantes": [
+   "Escanos en Branco para deixar Escanos Baleiros (ESCAÑOS EN BLANCO)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "pontevedra"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "EUSKADIKO LANGILEEN ALDERDI KOMUNISTA/PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI (ELAK/PCTE)",
+  "variantes": [
+   "EUSKADIKO LANGILEEN ALDERDI KOMUNISTA/PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI (ELAK/PCTE)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "gipuzkoa"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "FEDERACION DE LOS INDEPENDIENTES DE ARAGON (F.I.A.)",
+  "variantes": [
+   "FEDERACION DE LOS INDEPENDIENTES DE ARAGON (F.I.A.)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "zaragoza"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "FEDERACION DE LOS INDEPENDIENTES DE ARAGON (FIA)",
+  "variantes": [
+   "FEDERACION DE LOS INDEPENDIENTES DE ARAGON (FIA)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "huesca"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "FEMINISTAS AL CONGRESO (PFAC)",
+  "variantes": [
+   "FEMINISTAS AL CONGRESO (PFAC)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "alava"
+  ],
+  "no_proclamada_en": [
+   "bizkaia"
+  ]
+ },
+ {
+  "nombre": "FRENTE AMPLIU POR ASTURIES (FA)",
+  "variantes": [
+   "FRENTE AMPLIU POR ASTURIES (FA)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "asturias"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "FRENTE OBRERO",
+  "variantes": [
+   "FRENTE OBRERO"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "ceuta"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "GEROA BAI (GBAI)",
+  "variantes": [
+   "GEROA BAI (GBAI)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "navarra"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "IUSTITIA EUROPA (IE)",
+  "variantes": [
+   "IUSTITIA EUROPA (IE)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "madrid"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "MUNICIPALISTAS PRIMERO CANARIAS-COALICIÓN CANARIA (1.ºCAN-CCa)",
+  "variantes": [
+   "MUNICIPALISTAS PRIMERO CANARIAS-COALICIÓN CANARIA (1.ºCAN-CCa)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "las-palmas"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO COMUNISTA DEL PUEBLO CANARIO (PCPC)",
+  "variantes": [
+   "PARTIDO COMUNISTA DEL PUEBLO CANARIO (PCPC)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "las-palmas"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO DEMÓCRATA SOCIAL JUBILADOS EUROPEOS (P.D.S.J.E.)",
+  "variantes": [
+   "PARTIDO DEMÓCRATA SOCIAL JUBILADOS EUROPEOS (P.D.S.J.E.)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "avila"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO HUMANISTA (PH)",
+  "variantes": [
+   "PARTIDO HUMANISTA (PH)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "madrid"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO NACIONALISTA DE CASTILLA Y LEÓN - UNION REFORMISTA CIUDADANA (PANCAL-URCI)",
+  "variantes": [
+   "PARTIDO NACIONALISTA DE CASTILLA Y LEÓN - UNION REFORMISTA CIUDADANA (PANCAL-URCI)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "valladolid"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO SOCIALISTA DE HUELVA (PSOE)",
+  "variantes": [
+   "PARTIDO SOCIALISTA DE HUELVA (PSOE)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "huelva"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO SOCIALISTA DE LAS ISLAS BALEARES (PSIB-PSOE)",
+  "variantes": [
+   "PARTIDO SOCIALISTA DE LAS ISLAS BALEARES (PSIB-PSOE)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "baleares"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO SOCIALISTA DE NAVARRA-PSOE (PSN-PSOE)",
+  "variantes": [
+   "PARTIDO SOCIALISTA DE NAVARRA-PSOE (PSN-PSOE)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "navarra"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIDO UNIONISTA ESTADO DE ESPAÑA (PUEDE)",
+  "variantes": [
+   "PARTIDO UNIONISTA ESTADO DE ESPAÑA (PUEDE)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "asturias"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PARTIT ANIMALISTA AMB EL MEDI AMBIENT (PACMA)",
+  "variantes": [
+   "PARTIT ANIMALISTA AMB EL MEDI AMBIENT (PACMA)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "lleida"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PODEMOS",
+  "variantes": [
+   "PODEMOS"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "la-rioja"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PODEMOS (PAZ,CASA Y TRABAJO)",
+  "variantes": [
+   "PODEMOS (PAZ,CASA Y TRABAJO)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "ceuta"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "POR UN MUNDO MAIS XUSTO (MUNDO+JUSTO)",
+  "variantes": [
+   "POR UN MUNDO MAIS XUSTO (MUNDO+JUSTO)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "ourense"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "PROYECTO ALANTRE (P. ALANTRE)",
+  "variantes": [
+   "PROYECTO ALANTRE (P. ALANTRE)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "leon"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "RENACER RENAIXER (RRB)",
+  "variantes": [
+   "RENACER RENAIXER (RRB)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "valencia"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "SORIA ¡YA! (SY)",
+  "variantes": [
+   "SORIA ¡YA! (SY)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "soria"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "TERCERA EDAD EN ACCIÓN (3e)",
+  "variantes": [
+   "TERCERA EDAD EN ACCIÓN (3e)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "murcia"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "TERUEL EXISTE (TERUEL EXISTE)",
+  "variantes": [
+   "TERUEL EXISTE (TERUEL EXISTE)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "teruel"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "UNIÓN DEL PUEBLO NAVARRO EN COALICIÓN CON EL PARTIDO POPULAR (UPN-PP)",
+  "variantes": [
+   "UNIÓN DEL PUEBLO NAVARRO EN COALICIÓN CON EL PARTIDO POPULAR (UPN-PP)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "navarra"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "VALENCIA UNIDA (VLC)",
+  "variantes": [
+   "VALENCIA UNIDA (VLC)"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "valencia"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "VOX",
+  "variantes": [
+   "VOX"
+  ],
+  "n": 1,
+  "proclamada_en": [
+   "la-rioja"
+  ],
+  "no_proclamada_en": []
+ },
+ {
+  "nombre": "FEMINISM8 (F8)",
+  "variantes": [
+   "FEMINISM8 (F8)"
+  ],
+  "n": 0,
+  "proclamada_en": [],
+  "no_proclamada_en": [
+   "santa-cruz-de-tenerife"
+  ]
+ },
+ {
+  "nombre": "IZQUIERDA POR ALMERÍA (I.P.A.L.)",
+  "variantes": [
+   "IZQUIERDA POR ALMERÍA (I.P.A.L.)"
+  ],
+  "n": 0,
+  "proclamada_en": [],
+  "no_proclamada_en": [
+   "almeria"
+  ]
+ },
+ {
+  "nombre": "José María Calvo Guerra",
+  "variantes": [
+   "José María Calvo Guerra"
+  ],
+  "n": 0,
+  "proclamada_en": [],
+  "no_proclamada_en": [
+   "malaga"
+  ]
+ },
+ {
+  "nombre": "JUNTOS POR EXTREMADURA (J.U.E.X.)",
+  "variantes": [
+   "JUNTOS POR EXTREMADURA (J.U.E.X.)"
+  ],
+  "n": 0,
+  "proclamada_en": [],
+  "no_proclamada_en": [
+   "badajoz",
+   "caceres"
+  ]
+ },
+ {
+  "nombre": "JUSTICIA Y LEY (JL)",
+  "variantes": [
+   "JUSTICIA Y LEY (JL)"
+  ],
+  "n": 0,
+  "proclamada_en": [],
+  "no_proclamada_en": [
+   "alava"
+  ]
+ },
+ {
+  "nombre": "UNION CARTAGINENSE (UC)",
+  "variantes": [
+   "UNION CARTAGINENSE (UC)"
+  ],
+  "n": 0,
+  "proclamada_en": [],
+  "no_proclamada_en": [
+   "murcia"
+  ]
+ }
+]

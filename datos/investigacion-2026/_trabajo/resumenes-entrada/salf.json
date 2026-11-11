@@ -1,0 +1,3836 @@
+{
+ "partido": "salf",
+ "nombre": "Se Acabó La Fiesta (SALF)",
+ "programa": "publicado",
+ "temas": [
+  {
+   "tema": "vivienda",
+   "nombre": "Vivienda",
+   "definicion": "Acceso a la vivienda en compra y alquiler, vivienda pública, suelo y urbanismo.",
+   "citas": [
+    {
+     "id": "c-6eb1b54f03",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vivienda Absorbe: Suelo, licencias, Sareb y vivienda en propiedad",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-bf7738d806",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tu primera casa, un 35 % más barata. Okupa fuera en 48 horas. Eliminación TOTAL de impuestos a la 1.ª vivienda. Democratización total del suelo. Crédito hipotecario para menores de 45 años.",
+     "apartado": "10 compromisos › Vivienda"
+    },
+    {
+     "id": "c-53a0c848b4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cero impuestos (ITP y AJD al 0 %; IVA al 4 % devuelto íntegro en la renta), licencia en plazo y suelo público sin coste. Resultado garantizado por ley: el comprador de primera vivienda paga, como mínimo, un 35 % menos que hoy.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-28d791e67d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de neutralidad: la recaudación por vivienda no puede crecer más que el IPC y el exceso se devuelve bajando tipos.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-1fde085d63",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y nadie legisla sobre vivienda sin publicar sus pisos: 19 miembros del Gobierno suman 39 viviendas.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-127deaeed4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Con denuncia y título de propiedad, la Policía desaloja en 48 horas. Al que deja de pagar, juicio verbal y lanzamiento en 30 días, sin excusas de 'vulnerabilidad': a los vulnerables los atiende el Estado, no tu casa.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-9ebd1eae2e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Todo el suelo de la Sareb y del Estado, en 12 meses, a concurso para construir vivienda protegida en propiedad a precio tasado. El joven que compra es dueño, no inquilino del Ayuntamiento.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-4a5de566d7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Un mes obra menor, dos obra mayor, tres grandes desarrollos. Pasado el plazo, licencia concedida y el ayuntamiento paga el retraso.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-0744eab31b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las reformas no requerirán declaración responsable.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-a27eb6e36f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las SOCIMI con más de 100 viviendas en alquiler tributan al 25 %, como cualquier empresa. Y el Estado deja de contratar a los fondos que dice combatir.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-c99138966d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Aval público del 20 % de entrada para menores de 40 en su primera vivienda. Con un 35 % de ahorro y la entrada avalada, comprar vuelve a ser posible con un sueldo normal.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-2b27224f75",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Seguro público de impago: doce meses de renta y daños garantizados; después, el Estado persigue al moroso.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-b0583171e4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "A cambio, se alquila sin exigir tres nóminas y un aval bancario. Prioridad a menores de 45 y familias con hijos.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-7c7372c35c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Construir rápido: licencia automática en 15 días.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-f0aa1a297b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vivienda industrializada en suelo público y urbano consolidado con licencia automática y estándar técnico único: lo que vale en Sevilla vale en Bilbao.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-9d70c83ffa",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Registro único de alquiler turístico con cumplimiento fiscal, sin prohibiciones.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-12e296f38e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El IBI se elimina por completo, para todos. Sin compensaciones a nadie: el impuesto desaparece y punto.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-42018451f9",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Todo debe ser urbanizable, salvo razones objetivas. Quien construya tendrá ventajas fiscales",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2025-10-12"
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "nombre": "Empleo y salarios",
+   "definicion": "Trabajo, salarios, jornada, contratos, autónomos, sindicatos y salud laboral.",
+   "citas": [
+    {
+     "id": "c-f84e4beee0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hacienda, Economía y Empleo Absorbe: Hacienda; Economía, Comercio y Empresa; Trabajo",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-3e1b3821ad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cuña fiscal del 41 al 29 %. Contrato único con mochila. Eliminación total de la cuota de autónomos.",
+     "apartado": "10 compromisos › Empleo"
+    },
+    {
+     "id": "c-ed5ff3c063",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La mili voluntaria: 1.600 euros al mes.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-410099cc42",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "De seis a doce meses, militar o civil, entre 18 y 30 años: 1.600 euros netos, formación oficial, puntos en todas las oposiciones, vivienda protegida preferente y 5.000 euros al terminar.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-fc47ceab0e",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Servir a España tiene que notarse en la nómina.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-81ce1b653e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vigilantes de seguridad: protección penal reforzada, como bomberos y sanitarios.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-3b4047955e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Chaleco, guantes anticorte y defensa a cargo de la empresa; binomio obligatorio en transporte, hospitales y centros de menores; TIP en 30 días, no en nueve meses; título oficial de FP y reglamento nuevo en seis meses: el vigente es de 1994.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-78531094fe",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El Estado no vuelve a adjudicar vigilancia a precio de nómina impagada: precio mínimo de licitación igual al coste del convenio más estructura, pago directo al trabajador si la empresa no paga y exclusión de la contratación pública a quien incumpla.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-44c9e57de0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Plus de peligrosidad de 150 euros en todo contrato público.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-9fc18772b2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Coeficientes reductores para jubilarse a los 60 con 35 años cotizados, financiados con cotización adicional, como la policía local.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-b6944cb73f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero. Calendario: 15.000 en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-b688bf398e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cuota cero, total y para siempre: ningún autónomo vuelve a pagar cuota. IVA de caja: si no cobras, no adelantas.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-df82aef463",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mochila austriaca. El 1,53 % del salario, a cargo de la empresa, a tu cuenta desde el primer día. Te la llevas al cambiar de trabajo y la cobras al jubilarte si no la usas.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-3c5755d51d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cobra el 100 % de la pensión y sigue trabajando sin recortes ni cotizaciones extra. Con 40 años cotizados te jubilas cuando quieras, sin penalización.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-7480d3ebb3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Autónomos: cotiza por lo que ganas, elige lo que cobrarás. Libertad de base de cotización. Quien quiera más pensión, cotiza más, sin tramos impuestos.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-728c912384",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Subida del 20 % a médicos y del 10 % a enfermería y al resto de profesionales sanitarios en cuatro años, 30.000 euros de complemento en plazas rurales y contratos estables desde el primer día.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-23f40cbb73",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mínimo exento de 35.000, deflactación, el 0,9 % a tu cuenta y cero cotización del trabajador en el salario mínimo. La diferencia entre lo que cuestas y lo que cobras, doce puntos menos.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-2d7c53c853",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Un solo contrato indefinido con indemnización creciente de 12 a 33 días, más la mochila del 1,53 %. Fin de la dualidad y del miedo a cambiar de trabajo.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-bc3c27b3dd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Autónomos: cuota cero, IVA de caja, una ventanilla. Cuota cero, total y para siempre.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-105f8a768c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Licencia de actividad en 24 horas por declaración responsable.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-c8f0ceefef",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las mutuas dan el alta en contingencias comunes a los 15 días, con revisión del INSS en 72 horas.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-a5d04dbe45",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Protección total al enfermo de verdad, que es la primera víctima del que finge.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-7a88631178",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "FP dual con contrato y salario del 50 % del convenio, pagado a medias por empresa y Estado. Cotización cero durante dos años por contratar a menores de 30 y mayores de 50.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-d9c83fd209",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las bajas por enfermedad las paga la Seguridad Social desde el primer día, no la empresa, que hoy carga con los quince primeros.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-c998ced022",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Indemnización garantizada por la mochila aunque la empresa quiebre, salario asegurado por un fondo público de impago y persecución real de los falsos autónomos.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-b8ad91d891",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Proteger al trabajador no puede ser un impuesto a contratarlo.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-e729cd1417",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Un fijo discontinuo cuenta como trabajador solo cuando trabaja; el resto del tiempo, como lo que es: un parado.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-d53993dd54",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Rechazar dos ofertas adecuadas: fin de la prestación. Y complemento salarial para que el Ingreso Mínimo baje 50 céntimos por cada euro ganado, no uno a uno.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-5032b21988",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "FP desde los 15 y un tutor para cada alumno en riesgo. Aprendizaje remunerado desde los 15, tutor individual y fin del aprobado automático: se titula cuando se ha aprendido.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-ecd870c35d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Beca-salario de 2.000 euros para FP superior con déficit. Industria, construcción, energía, sanidad, digital.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-b4ea349496",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Universidades financiadas en parte por la inserción laboral de sus titulados.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-518fc5bbb0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Zona Especial Canaria al 0 % de Sociedades (hoy, 4 %) para la empresa que cree cinco empleos en las islas.",
+     "apartado": "X. Geopolítica"
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "nombre": "Pensiones",
+   "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
+   "citas": [
+    {
+     "id": "c-def5c39d8c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sanidad y Seguridad Social Absorbe: Sanidad; Seguridad Social; Derechos Sociales y Consumo",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-8ae02001bb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Reforma urgente contra el sistema fraudulento actual.",
+     "apartado": "10 compromisos › Pensiones"
+    },
+    {
+     "id": "c-9fc18772b2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Coeficientes reductores para jubilarse a los 60 con 35 años cotizados, financiados con cotización adicional, como la policía local.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-2d36b1029e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Revalorización con el IPC y prohibición de recortes, con rango constitucional. A quien ya cobra no se le toca un euro.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-04794aaabe",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El sobre naranja: la verdad por ley.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-b6ad350036",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cada año recibes tu pensión estimada y el saldo de tu cuenta individual.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-f017b3e3b6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Fin de la mentira institucional: sabrás lo que vas a cobrar y quién se lo está gastando.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-c70c93d93d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sistema mixto: tu cuenta, a tu nombre, heredable.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-868fb19720",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Menores de 45 años: el 2 % del salario a una cuenta individual obligatoria, tuya, heredable, con comisión máxima del 0,3 %.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-df82aef463",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mochila austriaca. El 1,53 % del salario, a cargo de la empresa, a tu cuenta desde el primer día. Te la llevas al cambiar de trabajo y la cobras al jubilarte si no la usas.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-3c5755d51d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cobra el 100 % de la pensión y sigue trabajando sin recortes ni cotizaciones extra. Con 40 años cotizados te jubilas cuando quieras, sin penalización.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-04dfdf8a55",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Nadie que haya cotizado 35 años cobrará menos de 1.000 euros en 14 pagas.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-15faa57bda",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Pensiones de políticos: fuera. Sin complemento parlamentario (la pensión máxima con siete años de escaño), sin cesantías, sin oficinas, coches y escoltas vitalicios para expresidentes.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-50ff48b919",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fondo de Reserva fuera del Gobierno. Fondo soberano con gestión profesional independiente y mandato de rentabilidad. Ningún ministro vuelve a usar la hucha para cuadrar un presupuesto.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-7480d3ebb3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Autónomos: cotiza por lo que ganas, elige lo que cobrarás. Libertad de base de cotización. Quien quiera más pensión, cotiza más, sin tramos impuestos.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-758c65755b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cuentas claras cada mes. Cotizaciones por un lado, transferencias del Estado por otro, publicadas con cada nómina.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-d909c564a4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La deuda de la Seguridad Social, reconocida y con calendario de pago.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-f7c08b88fc",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Estafaron a nuestros abuelos; ahora sus nietos e hijos les pedimos que nos dejen ahorrar y tener un futuro sin ser estafados",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-6a0eb1ea96",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Copago cero para pensiones mínimas y enfermos crónicos.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-bc3c27b3dd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Autónomos: cuota cero, IVA de caja, una ventanilla. Cuota cero, total y para siempre.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-a5d04dbe45",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Protección total al enfermo de verdad, que es la primera víctima del que finge.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-d9c83fd209",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las bajas por enfermedad las paga la Seguridad Social desde el primer día, no la empresa, que hoy carga con los quince primeros.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-9a0da0ba26",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El sistema de pensiones no es sostenible, las pensiones ya se pagan con deudas y el poder pretende una guerra entre jóvenes y abuelos",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2025-10-12"
+    }
+   ]
+  },
+  {
+   "tema": "impuestos",
+   "nombre": "Impuestos",
+   "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
+   "citas": [
+    {
+     "id": "c-bf7738d806",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tu primera casa, un 35 % más barata. Okupa fuera en 48 horas. Eliminación TOTAL de impuestos a la 1.ª vivienda. Democratización total del suelo. Crédito hipotecario para menores de 45 años.",
+     "apartado": "10 compromisos › Vivienda"
+    },
+    {
+     "id": "c-5c74148169",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Nadie paga IRPF por los primeros 35.000 euros.",
+     "apartado": "10 compromisos › Impuestos"
+    },
+    {
+     "id": "c-3e1b3821ad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cuña fiscal del 41 al 29 %. Contrato único con mochila. Eliminación total de la cuota de autónomos.",
+     "apartado": "10 compromisos › Empleo"
+    },
+    {
+     "id": "c-53a0c848b4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cero impuestos (ITP y AJD al 0 %; IVA al 4 % devuelto íntegro en la renta), licencia en plazo y suelo público sin coste. Resultado garantizado por ley: el comprador de primera vivienda paga, como mínimo, un 35 % menos que hoy.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-28d791e67d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de neutralidad: la recaudación por vivienda no puede crecer más que el IPC y el exceso se devuelve bajando tipos.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-a27eb6e36f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las SOCIMI con más de 100 viviendas en alquiler tributan al 25 %, como cualquier empresa. Y el Estado deja de contratar a los fondos que dice combatir.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-9d70c83ffa",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Registro único de alquiler turístico con cumplimiento fiscal, sin prohibiciones.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-12e296f38e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El IBI se elimina por completo, para todos. Sin compensaciones a nadie: el impuesto desaparece y punto.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-edb274418c",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Un tributo aberrante no se parchea, se quita.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-5a2a6a663d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Menos ingresos municipales: ≈ 13.400 M€/año; los ayuntamientos lo absorben con ahorro, no con otros impuestos.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-9d7ea4d61c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Quien complete la mili voluntaria tendrá un mínimo exento de IRPF de 50.000 euros durante diez años (15.000 más que el resto), cero cotización del trabajador en sus tres primeros años de contrato y matrícula gratuita en universidad y FP.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-3febe013c8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "35.000 euros libres de IRPF para todos.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-b6944cb73f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero. Calendario: 15.000 en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-c2a6cf9527",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cada hijo suma 5.000 euros al mínimo exento de cada progenitor: ni el padre ni la madre pagan IRPF por esa parte. Una pareja con dos hijos no paga hasta 45.000 euros cada uno.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-49b1691922",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El Estado que cobra por tener hijos no puede hablar de natalidad.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-b795cc9176",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fin de la subida de impuestos por inflación.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-dadf80ad4c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tarifa, mínimos y deducciones del IRPF actualizados cada año con el IPC, por ley.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-b688bf398e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cuota cero, total y para siempre: ningún autónomo vuelve a pagar cuota. IVA de caja: si no cobras, no adelantas.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-66258f81fa",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sociedades: 20 %. 15 % si reinviertes. 10 % startups.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-1003c7ed45",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Del 25 al 20 % en dos años; 15 % sobre el beneficio reinvertido; 10 % los tres primeros años de una empresa nueva.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-e6ce371258",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sucesiones, Donaciones y Patrimonio: suprimidos.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-bf0fc606a3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Heredar la casa de tus padres no es un hecho imponible. Es un duelo. Fuera también el impuesto a las grandes fortunas.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-ec6b2ed3f8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Luz y agua al 4 % de IVA para siempre.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-fa45c0dd41",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La luz, del 21 al 4 %; el agua, del 10 al 4 %. Y fuera el impuesto a la producción eléctrica que va directo a tu factura.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-fc1bd25ed6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ninguna bajada entra en vigor sin ahorro estructural certificado por la AIReF. Techo de gasto real. Déficit cero en 2030.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-acfaccccd5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Renta en una página, liquidación en 30 días, carga de la prueba para la Administración e intereses de demora simétricos: Hacienda devuelve con el mismo interés con el que cobra.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-446fa9c50b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Eliminación inmediata de incentivos a la persecución fiscal; el 50 % de los inspectores fiscales se dedicarán en exclusiva a la investigación de políticos, cargos públicos y empresas subvencionadas directa o indirectamente.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-cec6c2daa8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional). Cada contribuyente recibirá cada año cuánto pagó en total y en qué se gastó, euro a euro.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-a18912f038",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma constitucional para establecer límites claramente definidos a la presión fiscal y al endeudamiento.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-1e9dcdb7ba",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Creación de tipos penales constitucionalmente blindados para castigar su vulneración.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-363a6f7d1e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El umbral de confiscatoriedad será individualmente invocable por cualquier persona física o jurídica ante la Administración tributaria, los Tribunales Económico-Administrativos y la jurisdicción competente.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-181734f838",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de Devolución del Rescate: las entidades que se quedaron con las cajas rescatadas (CaixaBank, BBVA, Sabadell, Unicaja y Abanca) pagan 4.700 millones al año durante 15 años, en proporción a las ayudas que absorbieron, con tope del 40 % de su beneficio anual y el exceso aplazado con interés.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-1aa246ad92",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "No deducible, prohibido repercutirlo al cliente (multa del triple) y heredable por quien compre la entidad.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-eada1d7e7a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Rebaja fiscal y nuevo gasto comprometido en 2030: unos 81.700 millones de euros al año (80.000 de rebaja fiscal; 1.700 para la UCO, la UDEF y la UDYCO, Canarias, Ceuta y Melilla). Ahorro e ingresos identificados: 88.500 millones, incluida la devolución del rescate bancario. La diferencia va a reducir deuda. Y nada entra en vigor sin su ahorro certificado.",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-2fa472505e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Devolución del rescate bancario por las entidades herederas de las cajas rescatadas (70.000 M€ en 15 años)",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-1cb9407621",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Regla de oro. Un euro de rebaja, un euro de ahorro certificado.",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-23f40cbb73",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mínimo exento de 35.000, deflactación, el 0,9 % a tu cuenta y cero cotización del trabajador en el salario mínimo. La diferencia entre lo que cuestas y lo que cobras, doce puntos menos.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-bc3c27b3dd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Autónomos: cuota cero, IVA de caja, una ventanilla. Cuota cero, total y para siempre.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-5a68cef9b9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Con SALF, el residente no paga IRPF, la empresa que crea empleo allí no paga Sociedades durante diez años y la cotización empresarial queda al 0 %.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-f629992ed3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Deducción de 1.000 euros en la cuota del IRPF para cada contribuyente residente en Canarias desde la renta de 2027: 1,09 millones de canarios.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-518fc5bbb0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Zona Especial Canaria al 0 % de Sociedades (hoy, 4 %) para la empresa que cree cinco empleos en las islas.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-061c810ceb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La indemnización por residencia no se revisa de fondo desde 2007: 435 euros al mes para un soldado en Ceuta, 117 en Gran Canaria. Baleares la subió en 2026; a Canarias, Ceuta y Melilla las dejaron fuera. Se duplica para militares, guardias civiles, policías y funcionarios del Estado destinados en los tres territorios, exenta de IRPF y con vivienda militar o alquiler pagado en Ceuta y Melilla.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-6ac29065cb",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por ello, anunciamos el 0% del IRPF al español que cobre menos de 30.000 euros, y rebajaremos medio punto por cada hijo que se tenga para aumentar la natalidad",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2025-10-12"
+    }
+   ]
+  },
+  {
+   "tema": "economia",
+   "nombre": "Economía y empresas",
+   "definicion": "Industria, empresas, comercio, turismo, cuentas públicas y coste de la vida. Los impuestos y el empleo van aparte.",
+   "citas": [
+    {
+     "id": "c-9deee039c4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vicepresidencia económica: Hacienda, Economía y Empleo",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-f84e4beee0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hacienda, Economía y Empleo Absorbe: Hacienda; Economía, Comercio y Empresa; Trabajo",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-5a2a6a663d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Menos ingresos municipales: ≈ 13.400 M€/año; los ayuntamientos lo absorben con ahorro, no con otros impuestos.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-c19fdaad05",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Partida finalista blindada por ley: ningún ministro puede recortarla ni apartar a un investigador.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-66258f81fa",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sociedades: 20 %. 15 % si reinviertes. 10 % startups.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-1003c7ed45",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Del 25 al 20 % en dos años; 15 % sobre el beneficio reinvertido; 10 % los tres primeros años de una empresa nueva.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-fc1bd25ed6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ninguna bajada entra en vigor sin ahorro estructural certificado por la AIReF. Techo de gasto real. Déficit cero en 2030.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-299054df20",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Frente a modelos de financiación improvisados ad hoc por el sanchismo para contentar a sus socios separatistas y mantenerse un día más en el poder, defenderemos un sistema justo, solidario y responsable, regido por criterios objetivos y transparentes, iguales para todas las Comunidades Autónomas.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-d6688a447d",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nos opondremos a las condonaciones de deuda entre administraciones, salvo en caso de catástrofe.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-a18912f038",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma constitucional para establecer límites claramente definidos a la presión fiscal y al endeudamiento.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-1e9dcdb7ba",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Creación de tipos penales constitucionalmente blindados para castigar su vulneración.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-664ff9a967",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El efectivo, derecho constitucional.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-507578555c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derecho a pagar y cobrar en efectivo sin límite de importe: se deroga el tope de 1.000 euros y España vetará el de 10.000 que impone Bruselas desde 2027.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-0d566c782f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Comercios, bancos y administraciones estarán obligados a aceptarlo.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-9d903a1005",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "El euro digital nunca sustituirá ni condicionará al efectivo: tu dinero no es un permiso que alguien pueda apagar.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-dba7e011f3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Negarse a aceptar u obstaculizar el pago en efectivo será penado por ley.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-181734f838",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de Devolución del Rescate: las entidades que se quedaron con las cajas rescatadas (CaixaBank, BBVA, Sabadell, Unicaja y Abanca) pagan 4.700 millones al año durante 15 años, en proporción a las ayudas que absorbieron, con tope del 40 % de su beneficio anual y el exceso aplazado con interés.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-1aa246ad92",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "No deducible, prohibido repercutirlo al cliente (multa del triple) y heredable por quien compre la entidad.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-eada1d7e7a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Rebaja fiscal y nuevo gasto comprometido en 2030: unos 81.700 millones de euros al año (80.000 de rebaja fiscal; 1.700 para la UCO, la UDEF y la UDYCO, Canarias, Ceuta y Melilla). Ahorro e ingresos identificados: 88.500 millones, incluida la devolución del rescate bancario. La diferencia va a reducir deuda. Y nada entra en vigor sin su ahorro certificado.",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-bbcf2b4679",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Sobrecoste autonómico por duplicidades y redundancias (cada comunidad comparada con las tres más eficientes)",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-a35f299b7b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Entes, empresas y fundaciones públicas sin función",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-0842244742",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Contratación pública 100 % electrónica y competitiva",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-532119fbb4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Inmigración: expulsiones efectivas y fin de regularizaciones",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-53b2486a79",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Senado, Consejo de Estado, CES, publicidad institucional, subvenciones a partidos, sindicatos y patronal, asesores",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-d0d5412ea8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión de 12 ministerios, 2 vicepresidencias y la mitad de los altos cargos: estructura, gabinetes y sedes",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-169d37825f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Ayuda internacional: Ayuda Oficial al Desarrollo (4.550 M€ en 2025)",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-2fa472505e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Devolución del rescate bancario por las entidades herederas de las cajas rescatadas (70.000 M€ en 15 años)",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-1cb9407621",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Regla de oro. Un euro de rebaja, un euro de ahorro certificado.",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-d909c564a4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La deuda de la Seguridad Social, reconocida y con calendario de pago.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-998539253f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Medicamentos: precios netos públicos y copago cero para quien no puede. Subasta nacional de genéricos y biosimilares.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-9d5cbb31c0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El funcionario condenado pierde la plaza para siempre; la empresa corruptora, quince años sin contratar con el Estado.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-65eb5e3830",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Todo gasto mayor de 1.000 euros, publicado en 24 horas.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-105f8a768c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Licencia de actividad en 24 horas por declaración responsable.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-839d78d9fc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por cada regulación nueva que afecte a empresas, dos derogadas. Unidad de mercado real: lo que vale en una comunidad vale en todas.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-d9c83fd209",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las bajas por enfermedad las paga la Seguridad Social desde el primer día, no la empresa, que hoy carga con los quince primeros.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-5d7e981e05",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Bloqueo comercial total a todo puerto marroquí si el país alauí sigue bloqueando un solo puerto español.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-5a68cef9b9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Con SALF, el residente no paga IRPF, la empresa que crea empleo allí no paga Sociedades durante diez años y la cotización empresarial queda al 0 %.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-a765fe76df",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Puerto franco y aduana comercial abierta por España, con o sin Marruecos.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-518fc5bbb0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Zona Especial Canaria al 0 % de Sociedades (hoy, 4 %) para la empresa que cree cinco empleos en las islas.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-c36c437d10",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hispanoamérica, primero: Comunidad Hispánica de naciones. Libre comercio, reconocimiento de títulos y cupos preferentes con las naciones hispanas que lo quieran; cumbre anual en Madrid; cámaras y embajadas reforzadas donde invierte España, segundo inversor del continente.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-74f3805b80",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Defensa: el 2 % se gasta en España y en sus militares. 33.123 millones en 2025, con prioridad a la industria nacional: 260.050 empleos.",
+     "apartado": "X. Geopolítica"
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "nombre": "Sanidad",
+   "definicion": "Sanidad pública, listas de espera, atención primaria, salud mental y adicciones.",
+   "citas": [
+    {
+     "id": "c-def5c39d8c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sanidad y Seguridad Social Absorbe: Sanidad; Seguridad Social; Derechos Sociales y Consumo",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-34121901c5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Una central de compras. 60 días para operarte. Profesionales pagados como en Europa.",
+     "apartado": "10 compromisos › Sanidad"
+    },
+    {
+     "id": "c-1f51b2c392",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Central única obligatoria con precios netos públicos: 15 % de ahorro, íntegro para sueldos y plazas.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-ac2f3300e1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "60 días para cirugía, 30 para especialista, 7 para pruebas prioritarias. Superado el plazo, eliges centro, público o privado, y lo paga la sanidad pública.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-728c912384",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Subida del 20 % a médicos y del 10 % a enfermería y al resto de profesionales sanitarios en cuatro años, 30.000 euros de complemento en plazas rurales y contratos estables desde el primer día.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-ee1e4725b5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Una tarjeta, una historia clínica, una receta. Válidas en toda España. Tu analítica de Sevilla se ve en Bilbao.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-c48553c822",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "10.000 camas y 1.500 UCI más.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-89073008a2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cita con tu médico en 48 horas. Si no la hay, consulta privada pagada por el Sistema.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-f4644abb3e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Telemedicina para crónicos, enfermería que prescribe y administrativos para que el médico no rellene papeles.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-6464b06f17",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La sanidad española es para los españoles.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-fd46d2f713",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tarjeta para españoles y residentes legales con cotización o cobertura. Urgencias para todos, siempre. Facturación real a los países y aseguradoras de terceros.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-998539253f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Medicamentos: precios netos públicos y copago cero para quien no puede. Subasta nacional de genéricos y biosimilares.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-6a0eb1ea96",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Copago cero para pensiones mínimas y enfermos crónicos.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-6288d3d882",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Copago cero en farmacia para todos los menores de 3 años, en toda España.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-dc590e6873",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Un niño enfermo no es un hecho imponible.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-1437b68383",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Un psicólogo clínico por cada 10.000 habitantes en los centros de salud y atención en 15 días.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-60d4e350b2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Gerentes por concurso, no por carné. Dirección de hospitales por méritos con mandato de cinco años.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-8c9850b6b5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cuentas, listas de espera y resultados de cada hospital, públicos en tiempo real.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-e36c29e46e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derecho a una prueba de paternidad gratuita e inmediata en el propio hospital, al nacer, salvo renuncia expresa de ambos progenitores.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-c8f0ceefef",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las mutuas dan el alta en contingencias comunes a los 15 días, con revisión del INSS en 72 horas.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-27957499bf",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Cuando dependa de nosotros haremos que ningún español tenga que verse tirado como tu con horas de espera mientras tienen preferencia los que vienen de la mano de las ONG",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2025-10-12"
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "nombre": "Educación",
+   "definicion": "Escuela, formación profesional, universidad y becas.",
+   "citas": [
+    {
+     "id": "c-dd35bc36b1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Educación, Ciencia y Cultura Absorbe: Educación y FP; Universidades y Ciencia; Cultura y Deportes; Juventud",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-07f11c3ad5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de 20 años. Castellano garantizado. El dinero sigue al alumno.",
+     "apartado": "10 compromisos › Educación"
+    },
+    {
+     "id": "c-410099cc42",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "De seis a doce meses, militar o civil, entre 18 y 30 años: 1.600 euros netos, formación oficial, puntos en todas las oposiciones, vivienda protegida preferente y 5.000 euros al terminar.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-9d7ea4d61c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Quien complete la mili voluntaria tendrá un mínimo exento de IRPF de 50.000 euros durante diez años (15.000 más que el resto), cero cotización del trabajador en sus tres primeros años de contrato y matrícula gratuita en universidad y FP.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-7a88631178",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "FP dual con contrato y salario del 50 % del convenio, pagado a medias por empresa y Estado. Cotización cero durante dos años por contratar a menores de 30 y mayores de 50.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-a4b90f1e7e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Aprobada por dos tercios y blindada: no se cambia sin la misma mayoría. Contenidos mínimos comunes al 100 %, evaluaciones externas al final de cada etapa y selectividad única y en castellano en toda España.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-05dd2d04b6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derecho a la enseñanza en castellano en toda España, exigible por la familia, con Alta Inspección estatal que sanciona.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-400fa831fe",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Dos años de prácticas remuneradas con tutor y examen nacional de acceso. El mejor profesor de España enseña donde quiera.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-aed0d15f0c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El profesor es autoridad pública. Y cobra como tal. Autoridad pública en toda España, 10 % más de sueldo en la legislatura y menos burocracia: un profesor está para enseñar.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-5032b21988",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "FP desde los 15 y un tutor para cada alumno en riesgo. Aprendizaje remunerado desde los 15, tutor individual y fin del aprobado automático: se titula cuando se ha aprendido.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-42ba4e4e0e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cheque escolar válido en pública, concertada y privada, con el mismo importe por alumno y resultados públicos de cada centro. Elegir colegio no puede ser un lujo.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-ba13a70367",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los contenidos los fija un Consejo Académico independiente, no el Gobierno de turno. Neutralidad ideológica obligatoria en el aula, prohibición de propaganda de partidos y sindicatos en horario lectivo, libros de texto revisados por académicos, inspección y sanción.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-4e439e5afc",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El aula es para enseñar, no para reclutar.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-77973b9e6c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Historia de España común y educación económica. El mismo temario de Historia en toda España.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-e19bc554e2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Economía y Constitución obligatorias en Secundaria: qué es un impuesto, una hipoteca, una pensión.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-ecd870c35d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Beca-salario de 2.000 euros para FP superior con déficit. Industria, construcción, energía, sanidad, digital.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-b4ea349496",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Universidades financiadas en parte por la inserción laboral de sus titulados.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-72dd3535cd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Inglés real. 5.000 auxiliares nativos más, certificación B2 al terminar Bachillerato pagada por el Estado y versión original en la televisión pública infantil.",
+     "apartado": "IX. Educación"
+    }
+   ]
+  },
+  {
+   "tema": "familias-y-cuidados",
+   "nombre": "Familias y servicios sociales",
+   "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
+   "citas": [
+    {
+     "id": "c-b0583171e4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "A cambio, se alquila sin exigir tres nóminas y un aval bancario. Prioridad a menores de 45 y familias con hijos.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-c2a6cf9527",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cada hijo suma 5.000 euros al mínimo exento de cada progenitor: ni el padre ni la madre pagan IRPF por esa parte. Una pareja con dos hijos no paga hasta 45.000 euros cada uno.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-49b1691922",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El Estado que cobra por tener hijos no puede hablar de natalidad.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-e0984bd81a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prueba radiológica y dental obligatoria antes de entrar en un centro de menores. Repatriación con la familia como primera opción. Ni un adulto en un centro con niños.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-974c8f9f16",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal y cotización. Tasa del 2 % a las remesas hacia países que no readmiten.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-6288d3d882",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Copago cero en farmacia para todos los menores de 3 años, en toda España.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-dc590e6873",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Un niño enfermo no es un hecho imponible.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-e36c29e46e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derecho a una prueba de paternidad gratuita e inmediata en el propio hospital, al nacer, salvo renuncia expresa de ambos progenitores.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-d53993dd54",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Rechazar dos ofertas adecuadas: fin de la prestación. Y complemento salarial para que el Ingreso Mínimo baje 50 céntimos por cada euro ganado, no uno a uno.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-6ac29065cb",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por ello, anunciamos el 0% del IRPF al español que cobre menos de 30.000 euros, y rebajaremos medio punto por cada hijo que se tenga para aumentar la natalidad",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2025-10-12"
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "nombre": "Inmigración",
+   "definicion": "Entrada y control de fronteras, regularización, integración, asilo, nacionalidad y emigración.",
+   "citas": [
+    {
+     "id": "c-db137fbaf9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Solo legal. Expulsión en 48 horas. Paralización total de inmigración de países no colaboradores contra las mafias de trata de personas.",
+     "apartado": "10 compromisos › Inmigración"
+    },
+    {
+     "id": "c-225fb06b66",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Extranjero condenado: cumple la pena fuera.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-5cd5d13863",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Convenios con terceros países para que los extranjeros condenados cumplan la pena allí, en prisiones de máxima dureza, no en una celda con televisión y permisos.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-83eea6d9dc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Después, veto de por vida del acceso a España.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-532119fbb4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Inmigración: expulsiones efectivas y fin de regularizaciones",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-bbe61f5e67",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Identificación, orden y salida en 48 horas. El 100 % de las órdenes ejecutadas en 90 días. Internamiento hasta la expulsión.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-da279e13af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación de la regularización de 2026, revisión una por una de las concesiones y prohibición por ley orgánica de cualquier regularización masiva. Cada regularización es una invitación.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-0efbf6f9b7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ni un euro, ni un visado, ni una preferencia comercial a Marruecos, Argelia, Senegal o Mauritania si no readmiten a sus nacionales en 72 horas.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-e73c34cb67",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Veto español a cualquier acuerdo europeo que no lo exija.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-787ce19ec3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Moratoria total, durante toda la legislatura, a la inmigración procedente de países que no colaboran contra las mafias de trata de personas ni readmiten a sus nacionales. Para el resto, solo visados con contrato previo y cupo anual votado en el Congreso.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-cf0800ccb1",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Primero integramos a los que ya están.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-35a0bf6a29",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cupos preferentes para Hispanoamérica. Nacionalidad: diez años de residencia legal, examen de cultura y Constitución, sin antecedentes y sin depender de ayudas. Revisión de todas las obtenidas con fraude.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-a8e78fece5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Condena de más de un año: pérdida de la residencia.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-5eabb982ce",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Terrorismo, crimen organizado o delitos sexuales graves: pérdida de la nacionalidad para dobles nacionales.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-e0984bd81a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prueba radiológica y dental obligatoria antes de entrar en un centro de menores. Repatriación con la familia como primera opción. Ni un adulto en un centro con niños.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-30e546abf2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición de la financiación extranjera del culto, registro público de donaciones y cierre de quien no cumpla. Imanes que prediquen contra la Constitución, expulsados.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-3c27511acb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Burka y niqab fuera del espacio público, como en Francia, Bélgica, Austria, Dinamarca, Países Bajos y Suiza. Una mujer sin rostro no es diversidad: es sumisión.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-974c8f9f16",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal y cotización. Tasa del 2 % a las remesas hacia países que no readmiten.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-6464b06f17",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La sanidad española es para los españoles.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-fd46d2f713",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tarjeta para españoles y residentes legales con cotización o cobertura. Urgencias para todos, siempre. Facturación real a los países y aseguradoras de terceros.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-cc7f5de4c6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Que el eje franco-alemán quiera arruinar nuestro sector primario, bloquear medidas contra la inmigración ilegal, use el endeudamiento español para extorsionar el legítimo interés nacional o coarte derechos fundamentales como la libertad de expresión o la no injerencia política extranjera justifica un referéndum de renegociación. Si Bruselas rechaza renegociar, segundo referéndum: la salida.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-e29b7024ca",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Bloqueo comercial total si Marruecos utiliza la inmigración como ataque híbrido en nuestra frontera sur.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-c36c437d10",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hispanoamérica, primero: Comunidad Hispánica de naciones. Libre comercio, reconocimiento de títulos y cupos preferentes con las naciones hispanas que lo quieran; cumbre anual en Madrid; cámaras y embajadas reforzadas donde invierte España, segundo inversor del continente.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-b47d873010",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "2,4 millones de hispanoamericanos viven aquí: un activo, no un problema.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-f62f4b37c8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "4.550 millones al año de ayuda oficial al desarrollo. Se cortan salvo emergencias humanitarias y programas con retorno para España: readmisión de nacionales en 72 horas, respeto a la soberanía (quien reclame Ceuta, Melilla o Canarias no cobra) y cooperación contra el narcotráfico y el yihadismo.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-27957499bf",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Cuando dependa de nosotros haremos que ningún español tenga que verse tirado como tu con horas de espera mientras tienen preferencia los que vienen de la mano de las ONG",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2025-10-12"
+    },
+    {
+     "id": "c-e07b324cba",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por ello, anuncio un plan de deportación masiva de inmigrantes ilegales financiado con los millones de ayuda en cooperación internacional a la cooperación, empezando por Marruecos. No usaremos barcos para escoltar flotillas, sino para expulsar del país y vetar la entrada ilegal",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2025-10-12"
+    }
+   ]
+  },
+  {
+   "tema": "seguridad-y-justicia",
+   "nombre": "Seguridad y justicia",
+   "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
+   "citas": [
+    {
+     "id": "c-ab350195af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Interior y Justicia Absorbe: Interior, Justicia y Migraciones",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-376cc82c58",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Macrocárcel sin tercer grado para corruptos y criminales.",
+     "apartado": "10 compromisos › Seguridad"
+    },
+    {
+     "id": "c-0ff364dc2d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Imprescriptible. Sin tercer grado. Devuelves el triple. El que denuncia cobra el 15 %.",
+     "apartado": "10 compromisos › Corrupción"
+    },
+    {
+     "id": "c-c009f97bc0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Referéndum de renegociación europea. Bloqueo comercial a Marruecos si bloquea un puerto español. Hermanos Musulmanes: ley antiterrorista con penas máximas.",
+     "apartado": "10 compromisos › Geopolítica"
+    },
+    {
+     "id": "c-127deaeed4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Con denuncia y título de propiedad, la Policía desaloja en 48 horas. Al que deja de pagar, juicio verbal y lanzamiento en 30 días, sin excusas de 'vulnerabilidad': a los vulnerables los atiende el Estado, no tu casa.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-046bd36a8b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Macrocárcel para asesinos, violadores, narcos y corruptos.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-7a4199a082",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Máxima seguridad para asesinos, agresores sexuales, narcotraficantes, crimen organizado, terroristas, multirreincidentes violentos y políticos corruptos. Sin permisos, sin tercer grado, sin teléfono.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-d911910550",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Violadores, asesinos, narcos y corruptos: cumplimiento íntegro, sin reducción ninguna ni permisos. Prisión permanente revisable por violación a menores o con lesiones graves. Tres condenas: prisión sin suspensión.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-33258fac6a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Agresores sexuales: registro público y castración química.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-de243e9fb2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Registro público de reincidentes, pulsera telemática de por vida y castración química voluntaria como condición de cualquier beneficio penitenciario.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-225fb06b66",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Extranjero condenado: cumple la pena fuera.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-5cd5d13863",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Convenios con terceros países para que los extranjeros condenados cumplan la pena allí, en prisiones de máxima dureza, no en una celda con televisión y permisos.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-83eea6d9dc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Después, veto de por vida del acceso a España.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-82bf82e235",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Guardia Civil y Policía: el mismo sueldo que un mosso.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-f548d201db",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Equiparación salarial real en dos años, jubilación a los 60 sin penalización y reconocimiento de profesión de riesgo.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-21b86f0536",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Plan Estrecho: la Armada contra el narco.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-700b8a12dd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Apoyo permanente de la Armada y el Ejército del Aire, 180 millones en lanchas, drones y medios aéreos, y decomiso civil de todo bien del narcotráfico.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-25a9332887",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Presunción legal de legítima defensa en tu vivienda o negocio, incluido el uso de armas de fuego legalmente tenidas: quien irrumpe por la fuerza o de noche asume las consecuencias. La acusación tiene que probar el exceso, no la víctima.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-56a4cb9aa4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "2.000 jueces y 1.500 fiscales más. Juicios rápidos en 72 horas para multirreincidentes y delitos flagrantes. Expediente digital único en toda España.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-d0433bb564",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Licencia de arma para defensa del domicilio sin trabas para ciudadanos sin antecedentes.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-6fe9919d20",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El agente que investiga a un político obedece al juez, no al ministro. La injerencia política es delito.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-ebf0680bf6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Ningún policía vuelve a fichar periodistas por encargo.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-9dde9b1f60",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Plan 2027-2029: UCO de 580 a 1.800 agentes, UDEF de 320 a 1.000, 1.200 más en UDYCO y Vigilancia Aduanera, peritos contables y laboratorio forense propio.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-c19fdaad05",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Partida finalista blindada por ley: ningún ministro puede recortarla ni apartar a un investigador.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-81ce1b653e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vigilantes de seguridad: protección penal reforzada, como bomberos y sanitarios.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-477043c8f2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma de la Ley de Seguridad Privada: estatuto de colaborador de la seguridad pública, con la misma protección penal que bomberos y personal sanitario: agredirlos es atentado, sin ser agentes de la autoridad ni invadir una sola competencia de la Policía y la Guardia Civil.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-3b4047955e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Chaleco, guantes anticorte y defensa a cargo de la empresa; binomio obligatorio en transporte, hospitales y centros de menores; TIP en 30 días, no en nueve meses; título oficial de FP y reglamento nuevo en seis meses: el vigente es de 1994.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-78531094fe",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El Estado no vuelve a adjudicar vigilancia a precio de nómina impagada: precio mínimo de licitación igual al coste del convenio más estructura, pago directo al trabajador si la empresa no paga y exclusión de la contratación pública a quien incumpla.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-44c9e57de0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Plus de peligrosidad de 150 euros en todo contrato público.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-9fc18772b2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Coeficientes reductores para jubilarse a los 60 con 35 años cotizados, financiados con cotización adicional, como la policía local.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-1e9dcdb7ba",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Creación de tipos penales constitucionalmente blindados para castigar su vulneración.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-363a6f7d1e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El umbral de confiscatoriedad será individualmente invocable por cualquier persona física o jurídica ante la Administración tributaria, los Tribunales Económico-Administrativos y la jurisdicción competente.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-a8e78fece5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Condena de más de un año: pérdida de la residencia.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-5eabb982ce",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Terrorismo, crimen organizado o delitos sexuales graves: pérdida de la nacionalidad para dobles nacionales.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-87cebc2fdb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hermanos Musulmanes: ilegalizados. Mezquitas sin dinero extranjero.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-6d74bb3540",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ilegalización e inclusión en la lista terrorista: Hamás, su rama, ya está.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-30e546abf2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición de la financiación extranjera del culto, registro público de donaciones y cierre de quien no cumpla. Imanes que prediquen contra la Constitución, expulsados.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-1a885dd6f5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cohecho, malversación, prevaricación, tráfico de influencias y financiación ilegal cometidos por cargos públicos: imprescriptibles. Hoy prescriben entre 5 y 15 años: el ladrón solo tiene que esperar.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-c338463075",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Modelo de macrocárcel SALF. Régimen cerrado de máxima seguridad para asesinos, violadores, narcos y corruptos: sin permisos, sin tercer grado, sin piscinas ni gimnasios. Cero ocio y 100 % trabajo, compensación del daño causado y reinserción obligatoria.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-75ac993fd6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sin tercer grado, sin indulto, sin permisos. Cumplimiento íntegro para condenados por corrupción y prohibición legal de indulto.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-643cfd6815",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El poder no puede perdonar a los que robaron para el poder.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-7118889e8d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma de la Constitución para prohibir expresamente las amnistías y condicionar los indultos a requisitos que impidan su utilización política: solicitud por el órgano jurisdiccional en la misma sentencia condenatoria e informe favorable del CGPJ o de un órgano ad hoc sin influencia política en su composición.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-8e6e6abfa5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición, en todo caso, de los indultos a políticos corruptos, sin excepciones.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-7f31e0b1c1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La propia Constitución exigirá tipos penales que castiguen la aprobación de amnistías o indultos generales y la utilización política del indulto, con pena mínima de prisión.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-e4308de2a8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Antes de esta reforma, una única excepción: indultaremos a José Manuel Lomas, el librero de 82 años condenado por defender su finca, y le concederemos la Orden del Mérito Civil.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-84ebf31df1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Devuelves el triple o no sales. Responsabilidad civil del triple, decomiso de todo patrimonio no justificado y ningún beneficio hasta restituir.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-26e1228bfc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Elegido por tres quintos del Congreso entre fiscales con 25 años de carrera, mandato de seis años no coincidente con la legislatura.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-6f79ac5894",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Anticorrupción pasa a 100 fiscales con unidad propia de peritos y auditores; Antidroga, a 40; Vigilancia Aduanera cubre todas sus vacantes en dos años y el SEPBLAC duplica su plantilla.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-9248c6b73c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Presupuesto propio por ley, fuera del alcance del ministro.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-bda52236cf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma de la Constitución para suprimir el Tribunal Constitucional y atribuir la potestad de control de constitucionalidad de las leyes y de las actuaciones de los poderes públicos a una sala especial del Tribunal Supremo.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-97b710df69",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Su composición vendrá determinada por criterios estrictamente excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-8f71fe7ed7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma de la Constitución para garantizar la independencia del Consejo General del Poder Judicial, con composición determinada por criterios excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-3d16d21c94",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tipos penales específicos, y endurecimiento de los existentes, para cualquier actuación política o judicial que comprometa la independencia judicial, como transmitir o recibir instrucciones.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-fa45e61f4d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las becas públicas para preparar oposiciones se concederán únicamente por mérito y capacidad.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-28299379ad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Acción popular blindada en la Constitución. La ley no podrá vetar ni restringir el ejercicio de la acción popular a ninguna persona física o jurídica, y podrá extender la posibilidad de ejercerla a entes sin personalidad.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-60a5ced53f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Persecución total contra sus miembros, bloqueo económico total y aplicación de la ley del terrorismo, con sus penas máximas, por la mera pertenencia a esta y otras redes de radicalización islámica.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-b7270281ab",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Denuncia internacional del soporte marroquí a las estructuras del narcotráfico activas en España.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-bb37e69c15",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se acabó: brigada completa en cada ciudad, con la V Bandera de la Legión recuperada, 5.000 militares y 1.000 guardias civiles más en las dos plazas; baterías NASAMS y red antidrón en Ceuta, Melilla y cada isla canaria (hoy, una sola batería en Gran Canaria); dos buques más en Las Palmas y escuadrón de drones en Lanzarote.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-f1f786079a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de agentes extranjeros: quien trabaje para un gobierno, fundación o empresa extranjera se inscribe o comete delito.",
+     "apartado": "X. Geopolítica"
+    }
+   ]
+  },
+  {
+   "tema": "democracia-e-instituciones",
+   "nombre": "Democracia e instituciones",
+   "definicion": "Funcionamiento de las instituciones, corrupción, transparencia, sistema electoral, administración pública y medios de comunicación.",
+   "citas": [
+    {
+     "id": "c-d41acc4ca4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La mitad de los altos cargos y 400 asesores. Doce ministerios desaparecen el primer día; sus funciones útiles pasan a los diez que quedan.",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-9deee039c4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vicepresidencia económica: Hacienda, Economía y Empleo",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-c2396d57c7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Presidencia y Administraciones Públicas Absorbe: Relaciones con las Cortes, Política Territorial, Función Pública y Transformación Digital",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-ab350195af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Interior y Justicia Absorbe: Interior, Justicia y Migraciones",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-f84e4beee0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hacienda, Economía y Empleo Absorbe: Hacienda; Economía, Comercio y Empresa; Trabajo",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-d1b44454ad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Defensa Absorbe: Fuerzas Armadas e industria de defensa",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-2a7fad302f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Asuntos Exteriores Absorbe: Exteriores, UE y cooperación condicionada",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-def5c39d8c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sanidad y Seguridad Social Absorbe: Sanidad; Seguridad Social; Derechos Sociales y Consumo",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-dd35bc36b1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Educación, Ciencia y Cultura Absorbe: Educación y FP; Universidades y Ciencia; Cultura y Deportes; Juventud",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-b320fa89af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Infraestructuras, Energía e Industria Absorbe: Transportes; Energía y Medio Ambiente; Industria y Turismo",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-6eb1b54f03",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vivienda Absorbe: Suelo, licencias, Sareb y vivienda en propiedad",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-206a9f7512",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Agricultura, Pesca y Alimentación Absorbe: Campo, mar y mundo rural",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-104dc92918",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "35 → 15 secretarías de Estado",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-e33ff9c247",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "128 → 70 direcciones generales",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-376cc82c58",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Macrocárcel sin tercer grado para corruptos y criminales.",
+     "apartado": "10 compromisos › Seguridad"
+    },
+    {
+     "id": "c-0ff364dc2d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Imprescriptible. Sin tercer grado. Devuelves el triple. El que denuncia cobra el 15 %.",
+     "apartado": "10 compromisos › Corrupción"
+    },
+    {
+     "id": "c-ee427c1179",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Desde el 1.º día, el 100 % del sueldo público de Alvise Pérez queda bloqueado en una cuenta del Banco de España. En junio de 2030, se comparan las 119 medidas de este contrato electoral con los votos de Alvise en el Congreso de los Diputados: si no llegan al 100 %, ese dinero acumulado se lo queda España.",
+     "apartado": "Cláusula de penalización"
+    },
+    {
+     "id": "c-60d156e9a9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si SALF no entra en el Gobierno, la multa se aplica igual en base a la actividad de voto en el Congreso.",
+     "apartado": "Cláusula de penalización"
+    },
+    {
+     "id": "c-10346ecbe9",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Invitamos al resto de partidos a firmar esta misma cláusula: el que no la firme ya te ha dicho cuánto vale su programa.",
+     "apartado": "Cláusula de penalización"
+    },
+    {
+     "id": "c-1fde085d63",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y nadie legisla sobre vivienda sin publicar sus pisos: 19 miembros del Gobierno suman 39 viviendas.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-0744eab31b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las reformas no requerirán declaración responsable.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-7c7372c35c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Construir rápido: licencia automática en 15 días.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-046bd36a8b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Macrocárcel para asesinos, violadores, narcos y corruptos.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-7a4199a082",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Máxima seguridad para asesinos, agresores sexuales, narcotraficantes, crimen organizado, terroristas, multirreincidentes violentos y políticos corruptos. Sin permisos, sin tercer grado, sin teléfono.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-82bf82e235",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Guardia Civil y Policía: el mismo sueldo que un mosso.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-6fe9919d20",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El agente que investiga a un político obedece al juez, no al ministro. La injerencia política es delito.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-ebf0680bf6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Ningún policía vuelve a fichar periodistas por encargo.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-9dde9b1f60",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Plan 2027-2029: UCO de 580 a 1.800 agentes, UDEF de 320 a 1.000, 1.200 más en UDYCO y Vigilancia Aduanera, peritos contables y laboratorio forense propio.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-c19fdaad05",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Partida finalista blindada por ley: ningún ministro puede recortarla ni apartar a un investigador.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-78531094fe",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El Estado no vuelve a adjudicar vigilancia a precio de nómina impagada: precio mínimo de licitación igual al coste del convenio más estructura, pago directo al trabajador si la empresa no paga y exclusión de la contratación pública a quien incumpla.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-acfaccccd5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Renta en una página, liquidación en 30 días, carga de la prueba para la Administración e intereses de demora simétricos: Hacienda devuelve con el mismo interés con el que cobra.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-446fa9c50b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Eliminación inmediata de incentivos a la persecución fiscal; el 50 % de los inspectores fiscales se dedicarán en exclusiva a la investigación de políticos, cargos públicos y empresas subvencionadas directa o indirectamente.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-cec6c2daa8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional). Cada contribuyente recibirá cada año cuánto pagó en total y en qué se gastó, euro a euro.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-a18912f038",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma constitucional para establecer límites claramente definidos a la presión fiscal y al endeudamiento.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-a35f299b7b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Entes, empresas y fundaciones públicas sin función",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-0842244742",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Contratación pública 100 % electrónica y competitiva",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-782ef58093",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión de las diputaciones provinciales",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-53b2486a79",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Senado, Consejo de Estado, CES, publicidad institucional, subvenciones a partidos, sindicatos y patronal, asesores",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-d0d5412ea8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión de 12 ministerios, 2 vicepresidencias y la mitad de los altos cargos: estructura, gabinetes y sedes",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-04794aaabe",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El sobre naranja: la verdad por ley.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-b6ad350036",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cada año recibes tu pensión estimada y el saldo de tu cuenta individual.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-f017b3e3b6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Fin de la mentira institucional: sabrás lo que vas a cobrar y quién se lo está gastando.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-15faa57bda",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Pensiones de políticos: fuera. Sin complemento parlamentario (la pensión máxima con siete años de escaño), sin cesantías, sin oficinas, coches y escoltas vitalicios para expresidentes.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-758c65755b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cuentas claras cada mes. Cotizaciones por un lado, transferencias del Estado por otro, publicadas con cada nómina.",
+     "apartado": "V. Pensiones"
+    },
+    {
+     "id": "c-60d4e350b2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Gerentes por concurso, no por carné. Dirección de hospitales por méritos con mandato de cinco años.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-8c9850b6b5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cuentas, listas de espera y resultados de cada hospital, públicos en tiempo real.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-1a885dd6f5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cohecho, malversación, prevaricación, tráfico de influencias y financiación ilegal cometidos por cargos públicos: imprescriptibles. Hoy prescriben entre 5 y 15 años: el ladrón solo tiene que esperar.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-c338463075",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Modelo de macrocárcel SALF. Régimen cerrado de máxima seguridad para asesinos, violadores, narcos y corruptos: sin permisos, sin tercer grado, sin piscinas ni gimnasios. Cero ocio y 100 % trabajo, compensación del daño causado y reinserción obligatoria.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-75ac993fd6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sin tercer grado, sin indulto, sin permisos. Cumplimiento íntegro para condenados por corrupción y prohibición legal de indulto.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-643cfd6815",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El poder no puede perdonar a los que robaron para el poder.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-7118889e8d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma de la Constitución para prohibir expresamente las amnistías y condicionar los indultos a requisitos que impidan su utilización política: solicitud por el órgano jurisdiccional en la misma sentencia condenatoria e informe favorable del CGPJ o de un órgano ad hoc sin influencia política en su composición.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-8e6e6abfa5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición, en todo caso, de los indultos a políticos corruptos, sin excepciones.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-7f31e0b1c1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La propia Constitución exigirá tipos penales que castiguen la aprobación de amnistías o indultos generales y la utilización política del indulto, con pena mínima de prisión.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-84ebf31df1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Devuelves el triple o no sales. Responsabilidad civil del triple, decomiso de todo patrimonio no justificado y ningún beneficio hasta restituir.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-9d5cbb31c0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El funcionario condenado pierde la plaza para siempre; la empresa corruptora, quince años sin contratar con el Estado.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-68f3cebae7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El que denuncia cobra el 15 %. El 15 % de lo recuperado, libre de impuestos, con anonimato, protección laboral y una autoridad independiente con capacidad de sancionar.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-26e1228bfc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Elegido por tres quintos del Congreso entre fiscales con 25 años de carrera, mandato de seis años no coincidente con la legislatura.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-6f79ac5894",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Anticorrupción pasa a 100 fiscales con unidad propia de peritos y auditores; Antidroga, a 40; Vigilancia Aduanera cubre todas sus vacantes en dos años y el SEPBLAC duplica su plantilla.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-9248c6b73c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Presupuesto propio por ley, fuera del alcance del ministro.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-bda52236cf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma de la Constitución para suprimir el Tribunal Constitucional y atribuir la potestad de control de constitucionalidad de las leyes y de las actuaciones de los poderes públicos a una sala especial del Tribunal Supremo.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-97b710df69",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Su composición vendrá determinada por criterios estrictamente excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-8f71fe7ed7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforma de la Constitución para garantizar la independencia del Consejo General del Poder Judicial, con composición determinada por criterios excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-fa45e61f4d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las becas públicas para preparar oposiciones se concederán únicamente por mérito y capacidad.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-227a4bd785",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los 17.621 aforados, juzgados por el mismo juez que tú. Reforma constitucional presentada el primer día.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-d1b72e9d0d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Puertas giratorias cerradas, también hacia los órganos de control. Cinco años de incompatibilidad para pasar a empresas reguladas y cinco para que un exministro o dirigente de partido presida el Poder Judicial, la sala constitucional del Supremo, el Banco de España, la CNMC o el Defensor del Pueblo.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-f27ac1d0a5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Contratación pública: todo electrónico, todo público. Plataforma única, subasta inversa y precios de referencia en tiempo real.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-2b432713ee",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Toda emergencia auditada en 30 días y publicada íntegra en 24 horas con los beneficiarios reales.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-65eb5e3830",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Todo gasto mayor de 1.000 euros, publicado en 24 horas.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-f5e3d2e9b7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Portal único de todas las administraciones: pagos, contratos, subvenciones, nóminas de altos cargos y asesores, agendas y regalos.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-b309c71eaf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Límite de 15 años en cargos públicos remunerados. Fuera el Senado, el Consejo de Estado, los Consejos Económicos y Sociales, la publicidad institucional y las subvenciones a sindicatos y patronal. Partidos: 50 % menos. Asesores: de 1.255 a 400.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-fb2f04cc6b",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La peor y más corrosiva corrupción es, a día de hoy, legal",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-105f8a768c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Licencia de actividad en 24 horas por declaración responsable.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-d416926bb1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Oposiciones a ciegas. Todas las oposiciones y concursos 100 % anónimos y digitales, con tribunales sorteados y grabados.",
+     "apartado": "VIII. Empleo"
+    },
+    {
+     "id": "c-aed0d15f0c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El profesor es autoridad pública. Y cobra como tal. Autoridad pública en toda España, 10 % más de sueldo en la legislatura y menos burocracia: un profesor está para enseñar.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-72dd3535cd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Inglés real. 5.000 auxiliares nativos más, certificación B2 al terminar Bachillerato pagada por el Estado y versión original en la televisión pública infantil.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-061c810ceb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La indemnización por residencia no se revisa de fondo desde 2007: 435 euros al mes para un soldado en Ceuta, 117 en Gran Canaria. Baleares la subió en 2026; a Canarias, Ceuta y Melilla las dejaron fuera. Se duplica para militares, guardias civiles, policías y funcionarios del Estado destinados en los tres territorios, exenta de IRPF y con vivienda militar o alquiler pagado en Ceuta y Melilla.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-c6841e424e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y para quien viste el uniforme: retribuciones equiparadas a la Guardia Civil (un soldado cobra hoy 1.300 euros netos); profesión de riesgo para todos los militares, también los de Clases Pasivas, con jubilación anticipada; nueva Ley de derechos y deberes, con libertad de expresión y asociaciones profesionales con capacidad de negociar; y nueva Ley de la carrera militar: nadie es expulsado a los 45 años con 600 euros al mes, carrera hasta la jubilación y ascensos por mérito.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-f1f786079a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de agentes extranjeros: quien trabaje para un gobierno, fundación o empresa extranjera se inscribe o comete delito.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-6dd40d9eda",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibida la financiación extranjera de partidos, fundaciones políticas, medios y ONG que hagan política.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-f630dc7d37",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El Senado es una cámara obsoleta. Cuesta 68 millones de euros al año y no decide nada que el Congreso no pueda deshacer con una votación. Tal y como está, lo honesto es cerrarlo y dedicar cada euro de ese presupuesto al bien común.",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "tema": "organizacion-territorial",
+   "nombre": "Organización territorial",
+   "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+   "citas": [
+    {
+     "id": "c-07f11c3ad5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de 20 años. Castellano garantizado. El dinero sigue al alumno.",
+     "apartado": "10 compromisos › Educación"
+    },
+    {
+     "id": "c-12e296f38e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El IBI se elimina por completo, para todos. Sin compensaciones a nadie: el impuesto desaparece y punto.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-5a2a6a663d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Menos ingresos municipales: ≈ 13.400 M€/año; los ayuntamientos lo absorben con ahorro, no con otros impuestos.",
+     "apartado": "I. Vivienda"
+    },
+    {
+     "id": "c-299054df20",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Frente a modelos de financiación improvisados ad hoc por el sanchismo para contentar a sus socios separatistas y mantenerse un día más en el poder, defenderemos un sistema justo, solidario y responsable, regido por criterios objetivos y transparentes, iguales para todas las Comunidades Autónomas.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-a12da61014",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Presionaremos con firmeza en esta dirección y denunciaremos incansablemente la utilización de la financiación autonómica, y por tanto de la riqueza, las necesidades y el futuro de los españoles, como moneda de cambio al servicio de intereses políticos.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-d6688a447d",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nos opondremos a las condonaciones de deuda entre administraciones, salvo en caso de catástrofe.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-bbcf2b4679",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Sobrecoste autonómico por duplicidades y redundancias (cada comunidad comparada con las tres más eficientes)",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-b56f13c47c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Gestión mancomunada obligatoria en municipios de menos de 5.000 habitantes",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-782ef58093",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión de las diputaciones provinciales",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-05dd2d04b6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derecho a la enseñanza en castellano en toda España, exigible por la familia, con Alta Inspección estatal que sanciona.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-77973b9e6c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Historia de España común y educación económica. El mismo temario de Historia en toda España.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-72dd3535cd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Inglés real. 5.000 auxiliares nativos más, certificación B2 al terminar Bachillerato pagada por el Estado y versión original en la televisión pública infantil.",
+     "apartado": "IX. Educación"
+    },
+    {
+     "id": "c-5a68cef9b9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Con SALF, el residente no paga IRPF, la empresa que crea empleo allí no paga Sociedades durante diez años y la cotización empresarial queda al 0 %.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-f629992ed3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Deducción de 1.000 euros en la cuota del IRPF para cada contribuyente residente en Canarias desde la renta de 2027: 1,09 millones de canarios.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-5b43b3cce4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y el 75 % de residente en avión y barco, pagado a las compañías en 30 días: el Estado debe hoy 810 millones y pone en riesgo las rutas.",
+     "apartado": "X. Geopolítica"
+    }
+   ]
+  },
+  {
+   "tema": "medio-ambiente-y-energia",
+   "nombre": "Medio ambiente y energía",
+   "definicion": "Clima, energía, agua, contaminación, costas, montes, protección de la naturaleza y bienestar animal.",
+   "citas": [
+    {
+     "id": "c-b320fa89af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Infraestructuras, Energía e Industria Absorbe: Transportes; Energía y Medio Ambiente; Industria y Turismo",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-ec6b2ed3f8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Luz y agua al 4 % de IVA para siempre.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-fa45c0dd41",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La luz, del 21 al 4 %; el agua, del 10 al 4 %. Y fuera el impuesto a la producción eléctrica que va directo a tu factura.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-abe72767ef",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Veto a Mercosur, al recorte de la PAC y al Pacto Verde.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-c5cffdf762",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mercosur se aplica desde mayo de 2026 contra el voto de Francia; el recorte del 20 % de la PAC quita 877 millones al año al campo español; la Ley de Restauración deja improductivo hasta el 40 % de la Red Natura. España lo veta en el Consejo: lo que se come en España se produce en España.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-0a23f1415c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vuelta a la posición de la ONU, tratado de amistad con Argelia y contratos de gas a largo plazo: Argelia aporta el 38,5 % del gas que importamos.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-08e4c5ae04",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Defensa del campo y de la industria. Veto a Mercosur, al recorte de la PAC y al Pacto Verde.",
+     "quien": "el partido",
+     "fecha": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "tema": "campo-y-medio-rural",
+   "nombre": "Campo y medio rural",
+   "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+   "citas": [
+    {
+     "id": "c-206a9f7512",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Agricultura, Pesca y Alimentación Absorbe: Campo, mar y mundo rural",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-b56f13c47c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Gestión mancomunada obligatoria en municipios de menos de 5.000 habitantes",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-728c912384",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Subida del 20 % a médicos y del 10 % a enfermería y al resto de profesionales sanitarios en cuatro años, 30.000 euros de complemento en plazas rurales y contratos estables desde el primer día.",
+     "apartado": "VI. Sanidad"
+    },
+    {
+     "id": "c-cc7f5de4c6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Que el eje franco-alemán quiera arruinar nuestro sector primario, bloquear medidas contra la inmigración ilegal, use el endeudamiento español para extorsionar el legítimo interés nacional o coarte derechos fundamentales como la libertad de expresión o la no injerencia política extranjera justifica un referéndum de renegociación. Si Bruselas rechaza renegociar, segundo referéndum: la salida.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-abe72767ef",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Veto a Mercosur, al recorte de la PAC y al Pacto Verde.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-c5cffdf762",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mercosur se aplica desde mayo de 2026 contra el voto de Francia; el recorte del 20 % de la PAC quita 877 millones al año al campo español; la Ley de Restauración deja improductivo hasta el 40 % de la Red Natura. España lo veta en el Consejo: lo que se come en España se produce en España.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-08e4c5ae04",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Defensa del campo y de la industria. Veto a Mercosur, al recorte de la PAC y al Pacto Verde.",
+     "quien": "el partido",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-9e742ecf25",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "¿Y qué clase de UE es esa que desmantela nuestra productividad? ¿Qué es esa UE que destruye nuestro campo y a nuestros agricultores?",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2025-10-12"
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "nombre": "Transporte e infraestructuras",
+   "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+   "citas": [
+    {
+     "id": "c-b320fa89af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Infraestructuras, Energía e Industria Absorbe: Transportes; Energía y Medio Ambiente; Industria y Turismo",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-5b43b3cce4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y el 75 % de residente en avión y barco, pagado a las compañías en 30 días: el Estado debe hoy 810 millones y pone en riesgo las rutas.",
+     "apartado": "X. Geopolítica"
+    }
+   ]
+  },
+  {
+   "tema": "igualdad-y-derechos",
+   "nombre": "Igualdad y derechos",
+   "definicion": "Igualdad entre mujeres y hombres, violencia machista, derechos LGTBI, libertades civiles, memoria democrática y relación con las religiones.",
+   "citas": [
+    {
+     "id": "c-de243e9fb2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Registro público de reincidentes, pulsera telemática de por vida y castración química voluntaria como condición de cualquier beneficio penitenciario.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-d0433bb564",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Licencia de arma para defensa del domicilio sin trabas para ciudadanos sin antecedentes.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-ebf0680bf6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Ningún policía vuelve a fichar periodistas por encargo.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-363a6f7d1e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El umbral de confiscatoriedad será individualmente invocable por cualquier persona física o jurídica ante la Administración tributaria, los Tribunales Económico-Administrativos y la jurisdicción competente.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-664ff9a967",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El efectivo, derecho constitucional.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-507578555c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derecho a pagar y cobrar en efectivo sin límite de importe: se deroga el tope de 1.000 euros y España vetará el de 10.000 que impone Bruselas desde 2027.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-0d566c782f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Comercios, bancos y administraciones estarán obligados a aceptarlo.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-9d903a1005",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "El euro digital nunca sustituirá ni condicionará al efectivo: tu dinero no es un permiso que alguien pueda apagar.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-dba7e011f3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Negarse a aceptar u obstaculizar el pago en efectivo será penado por ley.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-87cebc2fdb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hermanos Musulmanes: ilegalizados. Mezquitas sin dinero extranjero.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-30e546abf2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición de la financiación extranjera del culto, registro público de donaciones y cierre de quien no cumpla. Imanes que prediquen contra la Constitución, expulsados.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-3c27511acb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Burka y niqab fuera del espacio público, como en Francia, Bélgica, Austria, Dinamarca, Países Bajos y Suiza. Una mujer sin rostro no es diversidad: es sumisión.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-28299379ad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Acción popular blindada en la Constitución. La ley no podrá vetar ni restringir el ejercicio de la acción popular a ninguna persona física o jurídica, y podrá extender la posibilidad de ejercerla a entes sin personalidad.",
+     "apartado": "VII. Corrupción"
+    },
+    {
+     "id": "c-60a5ced53f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Persecución total contra sus miembros, bloqueo económico total y aplicación de la ley del terrorismo, con sus penas máximas, por la mera pertenencia a esta y otras redes de radicalización islámica.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-c6841e424e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y para quien viste el uniforme: retribuciones equiparadas a la Guardia Civil (un soldado cobra hoy 1.300 euros netos); profesión de riesgo para todos los militares, también los de Clases Pasivas, con jubilación anticipada; nueva Ley de derechos y deberes, con libertad de expresión y asociaciones profesionales con capacidad de negociar; y nueva Ley de la carrera militar: nadie es expulsado a los 45 años con 600 euros al mes, carrera hasta la jubilación y ascensos por mérito.",
+     "apartado": "X. Geopolítica"
+    }
+   ]
+  },
+  {
+   "tema": "politica-exterior-y-defensa",
+   "nombre": "Política exterior y defensa",
+   "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
+   "citas": [
+    {
+     "id": "c-d1b44454ad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Defensa Absorbe: Fuerzas Armadas e industria de defensa",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-2a7fad302f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Asuntos Exteriores Absorbe: Exteriores, UE y cooperación condicionada",
+     "apartado": "El Gobierno › Así estará con SALF"
+    },
+    {
+     "id": "c-c009f97bc0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Referéndum de renegociación europea. Bloqueo comercial a Marruecos si bloquea un puerto español. Hermanos Musulmanes: ley antiterrorista con penas máximas.",
+     "apartado": "10 compromisos › Geopolítica"
+    },
+    {
+     "id": "c-5cd5d13863",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Convenios con terceros países para que los extranjeros condenados cumplan la pena allí, en prisiones de máxima dureza, no en una celda con televisión y permisos.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-21b86f0536",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Plan Estrecho: la Armada contra el narco.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-700b8a12dd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Apoyo permanente de la Armada y el Ejército del Aire, 180 millones en lanchas, drones y medios aéreos, y decomiso civil de todo bien del narcotráfico.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-ed5ff3c063",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La mili voluntaria: 1.600 euros al mes.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-410099cc42",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "De seis a doce meses, militar o civil, entre 18 y 30 años: 1.600 euros netos, formación oficial, puntos en todas las oposiciones, vivienda protegida preferente y 5.000 euros al terminar.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-9d7ea4d61c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Quien complete la mili voluntaria tendrá un mínimo exento de IRPF de 50.000 euros durante diez años (15.000 más que el resto), cero cotización del trabajador en sus tres primeros años de contrato y matrícula gratuita en universidad y FP.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-fc47ceab0e",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Servir a España tiene que notarse en la nómina.",
+     "apartado": "II. Seguridad"
+    },
+    {
+     "id": "c-9d903a1005",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "El euro digital nunca sustituirá ni condicionará al efectivo: tu dinero no es un permiso que alguien pueda apagar.",
+     "apartado": "III. Impuestos"
+    },
+    {
+     "id": "c-169d37825f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Ayuda internacional: Ayuda Oficial al Desarrollo (4.550 M€ en 2025)",
+     "apartado": "III. Impuestos › Cómo se paga"
+    },
+    {
+     "id": "c-0efbf6f9b7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ni un euro, ni un visado, ni una preferencia comercial a Marruecos, Argelia, Senegal o Mauritania si no readmiten a sus nacionales en 72 horas.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-e73c34cb67",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Veto español a cualquier acuerdo europeo que no lo exija.",
+     "apartado": "IV. Inmigración"
+    },
+    {
+     "id": "c-cc7f5de4c6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Que el eje franco-alemán quiera arruinar nuestro sector primario, bloquear medidas contra la inmigración ilegal, use el endeudamiento español para extorsionar el legítimo interés nacional o coarte derechos fundamentales como la libertad de expresión o la no injerencia política extranjera justifica un referéndum de renegociación. Si Bruselas rechaza renegociar, segundo referéndum: la salida.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-abe72767ef",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Veto a Mercosur, al recorte de la PAC y al Pacto Verde.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-c5cffdf762",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mercosur se aplica desde mayo de 2026 contra el voto de Francia; el recorte del 20 % de la PAC quita 877 millones al año al campo español; la Ley de Restauración deja improductivo hasta el 40 % de la Red Natura. España lo veta en el Consejo: lo que se come en España se produce en España.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-60a5ced53f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Persecución total contra sus miembros, bloqueo económico total y aplicación de la ley del terrorismo, con sus penas máximas, por la mera pertenencia a esta y otras redes de radicalización islámica.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-5d7e981e05",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Bloqueo comercial total a todo puerto marroquí si el país alauí sigue bloqueando un solo puerto español.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-f2f41e6d48",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reivindicación de los territorios del Rif si el Parlamento marroquí no rechaza la exigencia de soberanía sobre Ceuta, Melilla, las Islas Canarias y cualquier otro territorio español.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-e29b7024ca",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Bloqueo comercial total si Marruecos utiliza la inmigración como ataque híbrido en nuestra frontera sur.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-b7270281ab",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Denuncia internacional del soporte marroquí a las estructuras del narcotráfico activas en España.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-a765fe76df",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Puerto franco y aduana comercial abierta por España, con o sin Marruecos.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-bb37e69c15",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se acabó: brigada completa en cada ciudad, con la V Bandera de la Legión recuperada, 5.000 militares y 1.000 guardias civiles más en las dos plazas; baterías NASAMS y red antidrón en Ceuta, Melilla y cada isla canaria (hoy, una sola batería en Gran Canaria); dos buques más en Las Palmas y escuadrón de drones en Lanzarote.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-5c4bf51ac7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Doctrina pública y escrita: toda agresión a Ceuta, Melilla o Canarias se responde con toda la fuerza del Estado.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-061c810ceb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La indemnización por residencia no se revisa de fondo desde 2007: 435 euros al mes para un soldado en Ceuta, 117 en Gran Canaria. Baleares la subió en 2026; a Canarias, Ceuta y Melilla las dejaron fuera. Se duplica para militares, guardias civiles, policías y funcionarios del Estado destinados en los tres territorios, exenta de IRPF y con vivienda militar o alquiler pagado en Ceuta y Melilla.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-7e51037593",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Negociación bilateral con Londres con la cosoberanía como primer paso y fin del paraíso fiscal, como pide la ONU desde 1965.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-40bfefbab8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sáhara: se retira la carta de Sánchez. Argelia: socio recuperado.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-0a23f1415c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vuelta a la posición de la ONU, tratado de amistad con Argelia y contratos de gas a largo plazo: Argelia aporta el 38,5 % del gas que importamos.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-c36c437d10",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hispanoamérica, primero: Comunidad Hispánica de naciones. Libre comercio, reconocimiento de títulos y cupos preferentes con las naciones hispanas que lo quieran; cumbre anual en Madrid; cámaras y embajadas reforzadas donde invierte España, segundo inversor del continente.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-b47d873010",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "2,4 millones de hispanoamericanos viven aquí: un activo, no un problema.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-74f3805b80",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Defensa: el 2 % se gasta en España y en sus militares. 33.123 millones en 2025, con prioridad a la industria nacional: 260.050 empleos.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-c6841e424e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y para quien viste el uniforme: retribuciones equiparadas a la Guardia Civil (un soldado cobra hoy 1.300 euros netos); profesión de riesgo para todos los militares, también los de Clases Pasivas, con jubilación anticipada; nueva Ley de derechos y deberes, con libertad de expresión y asociaciones profesionales con capacidad de negociar; y nueva Ley de la carrera militar: nadie es expulsado a los 45 años con 600 euros al mes, carrera hasta la jubilación y ascensos por mérito.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-f1f786079a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de agentes extranjeros: quien trabaje para un gobierno, fundación o empresa extranjera se inscribe o comete delito.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-f62f4b37c8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "4.550 millones al año de ayuda oficial al desarrollo. Se cortan salvo emergencias humanitarias y programas con retorno para España: readmisión de nacionales en 72 horas, respeto a la soberanía (quien reclame Ceuta, Melilla o Canarias no cobra) y cooperación contra el narcotráfico y el yihadismo.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-1aedfdf99c",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La ayuda es una herramienta, no una limosna.",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-0b6bee5367",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La política más importante en España ante una partitocracia secuestrada por poderes extranjeros debe ser su capacidad de defensa ante tales agresiones externas",
+     "apartado": "X. Geopolítica"
+    },
+    {
+     "id": "c-e07b324cba",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por ello, anuncio un plan de deportación masiva de inmigrantes ilegales financiado con los millones de ayuda en cooperación internacional a la cooperación, empezando por Marruecos. No usaremos barcos para escoltar flotillas, sino para expulsar del país y vetar la entrada ilegal",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2025-10-12"
+    },
+    {
+     "id": "c-08e4c5ae04",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Defensa del campo y de la industria. Veto a Mercosur, al recorte de la PAC y al Pacto Verde.",
+     "quien": "el partido",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-9e742ecf25",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "¿Y qué clase de UE es esa que desmantela nuestra productividad? ¿Qué es esa UE que destruye nuestro campo y a nuestros agricultores?",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2025-10-12"
+    },
+    {
+     "id": "c-61bdc6f1ce",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La UE ha traicionado los principios fundacionales con una visión globalista que quiere enviaros a morir a conflictos que no son nuestros. Ni una gota de sangre española para defender los intereses de la UE",
+     "quien": "Luis «Alvise» Pérez, Presidente de SALF y eurodiputado",
+     "fecha": "2025-10-12"
+    }
+   ]
+  },
+  {
+   "tema": "ciencia-cultura-y-digital",
+   "nombre": "Ciencia, cultura y digital",
+   "definicion": "Investigación, tecnología e inteligencia artificial, cultura y deporte.",
+   "citas": [
+    {
+     "id": "c-dd35bc36b1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Educación, Ciencia y Cultura Absorbe: Educación y FP; Universidades y Ciencia; Cultura y Deportes; Juventud",
+     "apartado": "El Gobierno › Así estará con SALF"
+    }
+   ]
+  }
+ ]
+}

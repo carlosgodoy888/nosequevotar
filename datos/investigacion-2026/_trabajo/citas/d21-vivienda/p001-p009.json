@@ -1,0 +1,825 @@
+{
+  "fuente": "d21-vivienda",
+  "partido": "d21",
+  "paginas": [
+    1,
+    9
+  ],
+  "citas": [
+    {
+      "cita": "El problema de la vivienda es la prioridad nº1 de España: una bomba de relojería que amenaza con dinamitar el futuro de nuestro país.",
+      "pagina": 2,
+      "apartado": [
+        "Vivienda, prioridad nº1"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La vivienda como prioridad número uno del país",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La crisis de la vivienda no puede esperar a que los políticos se pongan de acuerdo dentro de una década. Pero tampoco se soluciona con parches mágicos a corto plazo.",
+      "pagina": 2,
+      "apartado": [
+        "Alivio hoy. Solución para siempre: plan de choque en 2 fases"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Urgencia de la crisis de vivienda y rechazo de parches",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestro compromiso es doble: un Plan de Choque Inmediato con medidas excepcionales para dar un respiro urgente a los ciudadanos hoy, y un Plan Nacional de Barrios a 10 años vista para resolver este problema estructural para siempre.",
+      "pagina": 2,
+      "apartado": [
+        "Alivio hoy. Solución para siempre: plan de choque en 2 fases"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Compromiso de plan de choque inmediato y plan a diez años",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Pacto de Reconciliación del Alquiler - Limitar Precios y Proteger la Propiedad: acabaremos con el enfrentamiento polarizante entre inquilinos y propietarios. Aplicaremos una limitación temporal y excepcional de los alquileres para dar un respiro inmediato a las familias y los jóvenes, pero a cambio blindaremos a los pequeños propietarios: el Estado actuará de escudo ante impagos y dará seguridad frente a la inquiokupación.",
+      "pagina": 2,
+      "apartado": [
+        "Alivio hoy. Solución para siempre: plan de choque en 2 fases",
+        "Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Limitación temporal de alquileres con protección estatal al pequeño propietario",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y también será la Administración —y no el particular— quien asuma el realojo o el coste del alquiler de las personas vulnerables.",
+      "pagina": 2,
+      "apartado": [
+        "Alivio hoy. Solución para siempre: plan de choque en 2 fases",
+        "Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "La Administración asume realojo o alquiler de personas vulnerables",
+      "etiquetas": [
+        "vivienda",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "10.000 Millones de Fondos Europeos - Reinversión en Vivienda: nuestros gobiernos (nacional, Comunidades Autónomas y Ayuntamientos) han sido incapaces de ejecutar todos los fondos Next Generation mientras nuestra juventud no puede emanciparse. Realizaremos una auditoría de urgencia y reasignaremos el 100% de los fondos europeos no utilizados o en riesgo de devolución para inyectarlos directamente en un Fondo Público Soberano de construcción de vivienda asequible y protegida.",
+      "pagina": 3,
+      "apartado": [
+        "Alivio hoy. Solución para siempre: plan de choque en 2 fases",
+        "Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reasignar fondos europeos no ejecutados a un fondo de vivienda",
+      "etiquetas": [
+        "vivienda",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cero Impuestos a Menores de 35 Años y Bajada de Impuestos para Todos: el mayor encarecedor de la vivienda es la propia Administración. Eliminaremos todos los impuestos (IVA, ITP y AJD) en la compra de vivienda habitual para los jóvenes menores de 35 años y los reduciremos para todos (hasta un máximo de 400.000€).",
+      "pagina": 3,
+      "apartado": [
+        "Alivio hoy. Solución para siempre: plan de choque en 2 fases",
+        "Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar impuestos de compra a menores de 35 y reducirlos al resto",
+      "etiquetas": [
+        "vivienda",
+        "impuestos",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan Nacional de Barrios (Horizonte - 10 Años): las medidas de choque ganan tiempo para las familias de hoy, pero el déficit de viviendas para las familias de mañana solo se arregla construyendo. En paralelo a las medidas de urgencia, pondremos en marcha una política industrial de Estado para pasar de levantar promociones aisladas de cincuenta en cincuenta, a construir barrios integrales de mil en mil. Un compromiso a una década vista para aumentar masivamente la oferta de vivienda asequible protegida y recuperar la capacidad productiva del país.",
+      "pagina": 3,
+      "apartado": [
+        "Alivio hoy. Solución para siempre: plan de choque en 2 fases",
+        "Fase 2 - Solución para siempre: un plan a 10 años"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan Nacional de Barrios a diez años para construir vivienda asequible",
+      "etiquetas": [
+        "vivienda",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Objetivo: Movilizar de forma inmediata toda la vivienda que ya existe.",
+      "pagina": 4,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivo de la fase 1: movilizar la vivienda existente",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Limitación Temporal de Alquileres: aplicaremos una limitación general y temporal de los alquileres en zonas tensionadas utilizando el Sistema Estatal de Referencia del Precio del Alquiler de Vivienda (SERPAVI). Esta tregua de precios tendrá un carácter estrictamente excepcional y transitorio: se irá levantando de forma gradual a medida que el Plan Nacional de Barrios a 10 años incremente la oferta disponible y los indicadores de precios del mercado se estabilicen, dando un respiro inmediato a las familias y jóvenes mientras la nueva vivienda asequible se construye.",
+      "pagina": 4,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Límite temporal de alquileres en zonas tensionadas según el índice SERPAVI",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Justicia Especializada en 90 Días y Fin a la Inquiokupación: la lentitud judicial es el mayor enemigo del alquiler. Crearemos un Servicio de Mediación de Arrendamientos gratuito y vinculante (resolución máxima en 30 días) y Juzgados Especializados de Arrendamientos que garanticen una resolución firme en un plazo adicional de 60 días.",
+      "pagina": 4,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Servicio de mediación y juzgados especializados de arrendamientos con plazos",
+      "etiquetas": [
+        "vivienda",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En paralelo, modificaremos el Código Penal para tipificar expresamente como delito de estafa la firma de un contrato con intención premeditada de impago y el subarriendo ilegal.",
+      "pagina": 4,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tipificar como estafa el impago premeditado y el subarriendo ilegal",
+      "etiquetas": [
+        "vivienda",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantía Pública de Alquiler: la política social corresponde a la Administración, no a los ciudadanos particulares. Crearemos el Servicio Social de Garantía de Arrendamientos, que asegurará el cobro íntegro e ininterrumpido del alquiler al propietario en caso de que un inquilino sea declarado vulnerable y la Administración competente no disponga de una alternativa habitacional inmediata.",
+      "pagina": 4,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Servicio público que garantiza el cobro del alquiler al propietario",
+      "etiquetas": [
+        "vivienda",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vigilancia del Alquiler por Habitaciones y Falsos Contratos Temporales: acabaremos con el vacío legal que ha propiciado que el alquiler por habitaciones pueda convertirse en un modelo especulativo y de hacinamiento. Incorporaremos esta modalidad a la Ley de Arrendamientos Urbanos (LAU), exigiendo estándares estrictos de habitabilidad y cruzando digitalmente los contratos con el padrón municipal para erradicar los falsos alquileres temporales.",
+      "pagina": 5,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Regular el alquiler por habitaciones en la LAU y controlar falsos temporales",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "10.000 M€ de Fondos Europeos y Nuevo Fondo Público Soberano: negociaremos de urgencia con Bruselas la reasignación de todos los fondos Next Generation no ejecutados o en riesgo de devolución.",
+      "pagina": 5,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Fondo soberano de vivienda protegida y cero especulación del Estado"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Negociar con Bruselas la reasignación de fondos Next Generation",
+      "etiquetas": [
+        "vivienda",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Inyectaremos este capital en un nuevo Fondo Público Soberano de Vivienda dedicado en exclusiva a la promoción inmobiliaria, abierto a la coinversión de actores privados y capital institucional, garantizando por ley que el producto final financiado por este fondo sea siempre vivienda protegida y asequible.",
+      "pagina": 5,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Fondo soberano de vivienda protegida y cero especulación del Estado"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevo Fondo Público Soberano de Vivienda para vivienda protegida",
+      "etiquetas": [
+        "vivienda",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cero Impuestos en la Compra para Menores de 35 Años: sacaremos al Estado de la ecuación especulativa de la vivienda. Eliminaremos todos los impuestos (IVA, ITP y AJD) en la compra de vivienda habitual para los jóvenes menores de 35 años (hasta un máximo de 400.000€).",
+      "pagina": 5,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Fondo soberano de vivienda protegida y cero especulación del Estado"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar IVA, ITP y AJD en la compra para menores de 35",
+      "etiquetas": [
+        "vivienda",
+        "impuestos",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Rebaja Excepcional de Impuestos en la Compra de Vivienda Habitual: la asfixia fiscal no termina a los 35 años. Para facilitar el acceso a la propiedad de todas las familias y fomentar la rotación del mercado, reduciremos el ITP a un tipo único del 2%, el AJD al 0% y ampliaremos la aplicación del IVA superreducido al 4% a la compra de vivienda que se destine a residencia habitual (hasta un tope de 400.000€).",
+      "pagina": 5,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Fondo soberano de vivienda protegida y cero especulación del Estado"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rebaja de ITP, AJD e IVA en la compra de vivienda habitual",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Alivio Fiscal para el Alquiler Asequible: alquilar a un precio razonable debe ser siempre más rentable que mantener una casa vacía. Diseñaremos bonificaciones ambiciosas en el IRPF y reducciones en el IBI para aquellos propietarios que incorporen sus viviendas al mercado, premiando a quienes contribuyen a aumentar la oferta de viviendas en alquiler.",
+      "pagina": 5,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Movilización masiva de viviendas vacías"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bonificaciones en IRPF e IBI a propietarios que alquilen",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La garantía del cobro de rentas y las ventajas fiscales deben conseguir el objetivo de movilizar toda la vivienda existente hoy en día, única solución real de urgencia a corto plazo para incrementar el parque de vivienda.",
+      "pagina": 5,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Movilización masiva de viviendas vacías"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Movilizar la vivienda existente como solución urgente a corto plazo",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Rehabilitación a Cambio de Usufructo Temporal: para movilizar las decenas de miles de viviendas antiguas o en mal estado cuyos dueños no pueden costear una reforma, la Administración tutelará y avalará acuerdos de usufructo temporal con plena seguridad jurídica. Bajo esta garantía pública, empresas rehabilitadoras del sector privado o empresas municipales de vivienda asumirán la reforma integral del inmueble a cambio de explotarlo en alquiler asequible por un tiempo pactado, devolviéndolo completamente renovado a su propietario al término del acuerdo.",
+      "pagina": 6,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Movilización masiva de viviendas vacías"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rehabilitación de viviendas a cambio de usufructo temporal avalado",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Recargo para Compradores No Residentes: en línea con los países más avanzados de la OCDE, aplicaremos un recargo mínimo en los impuestos del 10% (que las Comunidades Autónomas podrán elevar hasta el 25%) a la compra de vivienda no habitual por parte de inversores extracomunitarios. Frenaremos así la especulación internacional que puede contribuir a inflar los precios y expulsar a los ciudadanos de sus propios barrios.",
+      "pagina": 6,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Recargo para no residentes y competencia justa en vivienda turística"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Recargo fiscal mínimo del 10% a compradores extracomunitarios de vivienda",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Equiparación Fiscal del Alquiler Turístico: frenaremos la fuga de viviendas residenciales hacia el mercado vacacional igualando las reglas del juego. Aplicaremos el IVA general del 10% a los alquileres turísticos de corta estancia (asimilándolos a la actividad hotelera), protegiendo el modelo de barrio.",
+      "pagina": 6,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional",
+        "Recargo para no residentes y competencia justa en vivienda turística"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "IVA del 10% a los alquileres turísticos de corta estancia",
+      "etiquetas": [
+        "vivienda",
+        "impuestos",
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Objetivo: Construir a escala industrial toda la vivienda asequible que España necesita.",
+      "pagina": 7,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivo de la fase 2: construir vivienda asequible a escala industrial",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "España no merece más promesas de última hora: nuestro país necesita una verdadera Política de Vivienda con mayúsculas, transversal y sostenida en el tiempo.",
+      "pagina": 7,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Política de vivienda transversal y sostenida en el tiempo",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por eso vamos a impulsar un Plan Nacional de Barrios: un acuerdo a diez años vista que implica a todas las administraciones para dejar de levantar edificios aislados y empezar a construir a escala industrial los barrios completos que nuestras nuevas generaciones necesitan.",
+      "pagina": 7,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan Nacional de Barrios como acuerdo a diez años entre administraciones",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Colaboración Público-Privada a Escala Industrial: pasaremos de levantar promociones aisladas de cincuenta en cincuenta, a construir barrios integrales de mil en mil.",
+      "pagina": 7,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Construir barrios, no bloques de hormigón"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Pasar de promociones aisladas a barrios integrales a gran escala",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Estado, las Comunidades Autónomas y los Ayuntamientos aportarán el suelo público mediante concesiones o derechos de superficie a 75 años (garantizando que el suelo y las viviendas sigan siendo 100% públicas al final del periodo).",
+      "pagina": 7,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Construir barrios, no bloques de hormigón"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suelo público cedido en concesión o derecho de superficie a 75 años",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sumaremos toda la capacidad productiva del país: tanto las empresas públicas de vivienda como el sector privado —respaldados por el nuevo Fondo Soberano de Vivienda y capital institucional— diseñarán, construirán y gestionarán el parque de vivienda asequible.",
+      "pagina": 7,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Construir barrios, no bloques de hormigón"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Empresas públicas y sector privado construirán y gestionarán vivienda asequible",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Barrios Completos y Política Industrial a 10 Años: construiremos ecosistemas urbanos completos. Los nuevos desarrollos integrarán transporte público, colegios, centros de salud, zonas verdes y actividad comercial.",
+      "pagina": 7,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Construir barrios, no bloques de hormigón"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Nuevos barrios con transporte, colegios, centros de salud y comercio",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para lograr impulsar la actividad productiva, garantizaremos una demanda pública estable durante una década, lo que permitirá a las empresas constructoras invertir en prefabricación, innovación tecnológica e industrialización de los procesos, y así multiplicar la productividad, abaratar costes y generar empleo de alta cualificación.",
+      "pagina": 7,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Construir barrios, no bloques de hormigón"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Demanda pública estable durante diez años para industrializar la construcción",
+      "etiquetas": [
+        "vivienda",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "IVA Superreducido al 4% para la Construcción de Vivienda Asequible: no podemos exigir precios asequibles si el Estado cobra impuestos de lujo por construir. Rebajaremos el IVA del 10% al tipo superreducido del 4% para todas las obras de nueva construcción o rehabilitación integral que se destinen a vivienda asequible y reduciremos otros impuestos como tasas municipales, ICIOs y plusvalías.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Construir barrios, no bloques de hormigón"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "IVA del 4% y otros impuestos reducidos en obras de vivienda asequible",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Obligación de Cumplimiento y Subrogación Autonómica: la ciudadanía no puede seguir esperando ni un solo día más mientras las administraciones se pasan la pelota de la crisis de la vivienda. Los Ayuntamientos, siendo la administración más cercana al ciudadano, liderarán la detección de necesidades y la ejecución del Plan en su territorio. El Estado y las Comunidades Autónomas les proporcionarán el paraguas normativo y la financiación, pero a cambio se exigirán resultados.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Responsabilidad municipal vinculante: no más excusas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reparto de papeles entre ayuntamientos, comunidades y Estado en el plan",
+      "etiquetas": [
+        "vivienda",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si un Ayuntamiento retiene bolsas de suelo público de forma injustificada, paraliza proyectos, bloquea licencias o incumple sus objetivos de vivienda asequible, su competencia urbanística será subrogada de forma automática e inmediata por su Comunidad Autónoma, que asumirá el control para garantizar la construcción.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Responsabilidad municipal vinculante: no más excusas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subrogación autonómica de la competencia urbanística municipal por incumplimiento",
+      "etiquetas": [
+        "vivienda",
+        "organización territorial",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Licencias de Obra Mayor en 30 Días y Oficinas Centrales de Urbanismo: los Ayuntamientos tendrán un plazo máximo e improrrogable de 30 días para revisar solicitudes de licencias de obra mayor.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Responsabilidad municipal vinculante: no más excusas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazo máximo de 30 días para licencias de obra mayor",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si incumplen el plazo, el expediente pasará automáticamente a unas nuevas Oficina Centrales Autonómicas de Urbanismo, que resolverán en 30 días adicionales y cobrarán al propio Ayuntamiento una tasa de penalización por haber tenido que asumir su trabajo.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Responsabilidad municipal vinculante: no más excusas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Oficinas autonómicas de urbanismo que resuelven licencias y penalizan retrasos",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Supresión de Licencias para Obra Menor: para descongestionar a los técnicos municipales y que se centren en los grandes desarrollos, eliminaremos la exigencia de licencia previa para obras menores que no requieran proyecto arquitectónico. Bastará con una declaración responsable 100% digital, manteniendo la exigencia de que los trabajos especializados (electricidad, gas…) sean ejecutados siempre por profesionales certificados y sujetos a una posible comprobación posterior.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Responsabilidad municipal vinculante: no más excusas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sustituir la licencia de obra menor por declaración responsable digital",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ley Urgente de Desbloqueo Urbanístico y Reforma de la Ley del Suelo: modificaremos de urgencia la legislación estatal para acabar con la inseguridad jurídica que paraliza ciudades enteras.",
+      "pagina": 9,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Fin de la parálisis urbanística y desbloqueo de suelo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley urgente de desbloqueo urbanístico y reforma de la Ley del Suelo",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Evitaremos que un simple defecto formal o subsanable provoque la nulidad de todo un Plan General de Ordenación Urbana (PGOU).",
+      "pagina": 9,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Fin de la parálisis urbanística y desbloqueo de suelo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Evitar la nulidad de planes urbanísticos por defectos formales",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos un régimen de \"Burocracia Exprés\" con silencio administrativo positivo de 3 meses para autorizaciones sectoriales (aguas, carreteras, medio ambiente) y reduciremos los plazos de litigiosidad en los tribunales para evitar que proyectos vitales queden paralizados durante años.",
+      "pagina": 9,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Fin de la parálisis urbanística y desbloqueo de suelo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Silencio positivo de tres meses y reducción de plazos de litigios urbanísticos",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desbloqueo de Suelo Público Retenido e Incentivos al Sector Privado: la Administración es hoy el mayor tenedor de suelo inactivo del país. Obligaremos por ley a todos los Ayuntamientos, Comunidades, Ministerios y empresas públicas (con especial foco en Defensa, Carreteras, ADIF…) a auditar y liberar de forma inmediata sus reservas de suelo público y dotacional paralizado, agilizando su recalificación y desarrollo urbanístico para cederlo en derecho de superficie al Plan Nacional de Barrios.",
+      "pagina": 9,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Fin de la parálisis urbanística y desbloqueo de suelo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligar por ley a liberar suelo público paralizado para vivienda",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En paralelo, los Ayuntamientos movilizarán el suelo privado impulsando la figura del agente urbanizador para propiciar su desarrollo.",
+      "pagina": 9,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Fin de la parálisis urbanística y desbloqueo de suelo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Movilizar suelo privado mediante la figura del agente urbanizador",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "También aprobaremos bonificaciones en la plusvalía municipal y reducciones en el IBI para los propietarios que activen sus parcelas para vivienda asequible, y flexibilizaremos la normativa para transformar oficinas o locales vacíos en nuevos hogares.",
+      "pagina": 9,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Fin de la parálisis urbanística y desbloqueo de suelo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bonificaciones fiscales por activar parcelas y conversión de oficinas en viviendas",
+      "etiquetas": [
+        "vivienda",
+        "impuestos",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Portal Nacional de Trazabilidad Urbanística: la transparencia es el mejor escudo contra el clientelismo y la ineficacia. Crearemos una plataforma digital pública donde cualquier ciudadano, promotor o cooperativa podrá auditar en tiempo real la situación legal exacta, el estado de las licencias y los cuellos de botella de cualquier desarrollo urbanístico en España, incluyendo un canal de denuncia directa contra bloqueos injustificados o casos sospechosos de corrupción urbanística.",
+      "pagina": 9,
+      "apartado": [
+        "Nuestro plan de vivienda, al detalle",
+        "Fase 2 – Plan Nacional de Barrios (10 años)",
+        "Fin de la parálisis urbanística y desbloqueo de suelo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plataforma pública para seguir el estado de los desarrollos urbanísticos",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

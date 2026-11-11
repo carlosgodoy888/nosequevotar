@@ -1,0 +1,970 @@
+{
+  "fuente": "bng-programa-2026",
+  "partido": "bng",
+  "paginas": [
+    22,
+    28
+  ],
+  "citas": [
+    {
+      "cita": "Fronte aos discursos discriminatorios, xenófobos ou racistas, o BNG defende unha Galiza inclusiva, entendida como unha patria colectiva a defender, construír e gozar entre todas e todos mediante a participación activa na vida social, económica, cultural e política.",
+      "pagina": 22,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de una Galicia inclusiva frente a discursos xenófobos",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": "Frente a los discursos discriminatorios, xenófobos o racistas, el BNG defiende una Galicia inclusiva, entendida como una patria colectiva a defender, construir y disfrutar entre todas y todos mediante la participación activa en la vida social, económica, cultural y política.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defender os dereitos laborais das persoas migrantes é defender as condicións de traballo do conxunto da clase traballadora galega.",
+      "pagina": 22,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Derechos laborales de migrantes como defensa de toda la clase trabajadora",
+      "etiquetas": [
+        "inmigración",
+        "empleo"
+      ],
+      "traduccion": "Defender los derechos laborales de las personas migrantes es defender las condiciones de trabajo del conjunto de la clase trabajadora gallega.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar os mecanismos de inspección laboral e combater a explotación.",
+      "pagina": 22,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforzar la inspección laboral contra la explotación de migrantes",
+      "etiquetas": [
+        "inmigración",
+        "empleo"
+      ],
+      "traduccion": "Reforzar los mecanismos de inspección laboral y combatir la explotación.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover a regularización administrativa como vía para eliminar a irregularidade como ferramenta de explotación.",
+      "pagina": 22,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Promover la regularización administrativa de personas migrantes",
+      "etiquetas": [
+        "inmigración",
+        "empleo"
+      ],
+      "traduccion": "Promover la regularización administrativa como vía para eliminar la irregularidad como herramienta de explotación.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoiar a afiliación sindical e a organización colectiva.",
+      "pagina": 22,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a la afiliación sindical de trabajadores migrantes",
+      "etiquetas": [
+        "inmigración",
+        "empleo"
+      ],
+      "traduccion": "Apoyar la afiliación sindical y la organización colectiva.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Axilizar a homologación e o recoñecemento de titulacións obtidas no estranxeiro e estabelecer sistemas de acreditación de competencias profesionais. Tamén para a poboación emigrante retornada.",
+      "pagina": 22,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Agilizar la homologación de títulos extranjeros y acreditar competencias profesionales",
+      "etiquetas": [
+        "inmigración",
+        "empleo",
+        "educación"
+      ],
+      "traduccion": "Agilizar la homologación y el reconocimiento de titulaciones obtenidas en el extranjero y establecer sistemas de acreditación de competencias profesionales. También para la población emigrante retornada.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Recoñecer e dignificar o traballo de coidados, maioritariamente realizado por mulleres inmigrantes.",
+      "pagina": 22,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reconocer y dignificar el trabajo de cuidados",
+      "etiquetas": [
+        "inmigración",
+        "empleo",
+        "igualdad"
+      ],
+      "traduccion": "Reconocer y dignificar el trabajo de cuidados, mayoritariamente realizado por mujeres inmigrantes.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "A garantía ao acceso á lingua galega debe ser parte integral do proceso de acollida desde o primeiro momento.",
+      "pagina": 22,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Acceso a la lengua gallega como parte de la acogida",
+      "etiquetas": [
+        "inmigración",
+        "lenguas"
+      ],
+      "traduccion": "La garantía al acceso a la lengua gallega debe ser parte integral del proceso de acogida desde el primer momento.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Demandamos tamén que un acreditado coñecemento da lingua e cultura galegas sexa admitido como criterio para acceder á nacionalidade española, con independencia do coñecemento do español, ao demostrar unha integración na sociedade galega e unha vontade clara de pertencer a ela.",
+      "pagina": 23,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Conocimiento del gallego como criterio para acceder a la nacionalidad",
+      "etiquetas": [
+        "inmigración",
+        "lenguas",
+        "nacionalidad"
+      ],
+      "traduccion": "Demandamos también que un acreditado conocimiento de la lengua y cultura gallegas sea admitido como criterio para acceder a la nacionalidad española, con independencia del conocimiento del español, al demostrar una integración en la sociedad gallega y una voluntad clara de pertenecer a ella.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar as reformas lexislativas necesarias para garantir os dereitos da poboación inmigrante (vivenda, traballo, atención sanitaria, educación...) así como favorecer e facilitar os procesos de regularización administrativa.",
+      "pagina": 23,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reformas legislativas para garantizar derechos y facilitar la regularización",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": "Impulsar las reformas legislativas necesarias para garantizar los derechos de la población inmigrante (vivienda, trabajo, atención sanitaria, educación...) así como favorecer y facilitar los procesos de regularización administrativa.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantir o cumprimento do dereito internacional en materia de protección da poboación inmigrante, refuxiada e/ou solicitante de asilo.",
+      "pagina": 23,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cumplir el derecho internacional sobre inmigrantes, refugiados y asilo",
+      "etiquetas": [
+        "inmigración",
+        "derechos humanos"
+      ],
+      "traduccion": "Garantizar el cumplimiento del derecho internacional en materia de protección de la población inmigrante, refugiada y/o solicitante de asilo.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reclamar a dotación dos recursos humanos e materiais necesarios ás oficinas de estranxeiría para garantir a debida atención, no tempo e na forma, da poboación inmigrante, refuxiada e/ou solicitante de asilo.",
+      "pagina": 23,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más recursos humanos y materiales para las oficinas de extranjería",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": "Reclamar la dotación de los recursos humanos y materiales necesarios a las oficinas de extranjería para garantizar la debida atención, en el tiempo y en la forma, de la población inmigrante, refugiada y/o solicitante de asilo.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defender a erradicación de calquera forma de discriminación e actitude racista nas administracións públicas.",
+      "pagina": 23,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Erradicar la discriminación y el racismo en las administraciones públicas",
+      "etiquetas": [
+        "inmigración",
+        "igualdad"
+      ],
+      "traduccion": "Defender la erradicación de cualquier forma de discriminación y actitud racista en las administraciones públicas.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Demandar o peche dos Centros de Internamento para Estranxeiros (CIEs) no Estado español e o fin das deportacións en quente, garantindo o respecto escrupuloso dos dereitos humanos para a poboación inmigrante, refuxiada e/ou solicitante de asilo.",
+      "pagina": 23,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.5. Acollida, inclusión e dereitos das persoas inmigrantes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cierre de los CIE y fin de las devoluciones en caliente",
+      "etiquetas": [
+        "inmigración",
+        "derechos humanos"
+      ],
+      "traduccion": "Demandar el cierre de los Centros de Internamiento para Extranjeros (CIEs) en el Estado español y el fin de las deportaciones en caliente, garantizando el respeto escrupuloso de los derechos humanos para la población inmigrante, refugiada y/o solicitante de asilo.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ante o rearme do machismo que experimenta o mundo e o noso contexto máis próximo, a mellor resposta é impulsar novos avances contra cada unha das discriminacións que sufrimos por causa do patriarcado e moi especialmente ante o problema máis importante da vida das mulleres: a violencia machista.",
+      "pagina": 24,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Nuevos avances contra las discriminaciones y la violencia machista",
+      "etiquetas": [
+        "igualdad",
+        "violencia machista"
+      ],
+      "traduccion": "Ante el rearme del machismo que experimenta el mundo y nuestro contexto más próximo, la mejor respuesta es impulsar nuevos avances contra cada una de las discriminaciones que sufrimos por causa del patriarcado y muy especialmente ante el problema más importante de la vida de las mujeres: la violencia machista.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para iso, é fundamental reforzar a resposta desde o sistema público blindando e ampliando os seus servizos e avanzar na lexislación de dereitos para garantir o dereito humano e fundamental das mulleres a vivir unha vida libre de violencias no ámbito público e no privado.",
+      "pagina": 24,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Reforzar la respuesta pública y la legislación contra las violencias",
+      "etiquetas": [
+        "igualdad",
+        "violencia machista"
+      ],
+      "traduccion": "Para ello, es fundamental reforzar la respuesta desde el sistema público blindando y ampliando sus servicios y avanzar en la legislación de derechos para garantizar el derecho humano y fundamental de las mujeres a vivir una vida libre de violencias en el ámbito público y en el privado.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para iso é fundamental intervir en ámbitos que aínda dependen do Estado como o xudicial ou o laboral e, por iso, en canto Galiza non poida decidir por si propia, defenderemos políticas feministas para seguir conquistando dereitos.",
+      "pagina": 24,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de políticas feministas en ámbitos de competencia estatal",
+      "etiquetas": [
+        "igualdad",
+        "organización territorial"
+      ],
+      "traduccion": "Para ello es fundamental intervenir en ámbitos que aún dependen del Estado como el judicial o el laboral y, por eso, mientras Galicia no pueda decidir por sí misma, defenderemos políticas feministas para seguir conquistando derechos.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cumprir as obrigas internacionais en materia de prevención e loita contra todas as formas de violencia machista, nomeadamente do Convenio de Istambul corrixindo os problemas sinalados nos Informes Grevio e, singularmente, realizar unha reforma lexislativa integral que garanta a cobertura de todos os tipos de violencias contra as mulleres na lei orgánica correspondente e que outorgue rango de lei efectivo á violencia vicaria.",
+      "pagina": 24,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cumplir el Convenio de Estambul y reforma legal integral sobre violencias",
+      "etiquetas": [
+        "violencia machista",
+        "igualdad"
+      ],
+      "traduccion": "Cumplir las obligaciones internacionales en materia de prevención y lucha contra todas las formas de violencia machista, en particular del Convenio de Estambul corrigiendo los problemas señalados en los Informes Grevio y, singularmente, realizar una reforma legislativa integral que garantice la cobertura de todos los tipos de violencias contra las mujeres en la ley orgánica correspondiente y que otorgue rango de ley efectivo a la violencia vicaria.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar e executar as medidas do Pacto de Estado contra a violencia machista que dependen do goberno do Estado e seguen sen se desenvolver.",
+      "pagina": 24,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ejecutar las medidas pendientes del Pacto de Estado contra la violencia machista",
+      "etiquetas": [
+        "violencia machista",
+        "igualdad"
+      ],
+      "traduccion": "Impulsar y ejecutar las medidas del Pacto de Estado contra la violencia machista que dependen del gobierno del Estado y siguen sin desarrollarse.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incrementar a transferencia dos fondos económicos a Galiza destinados ao cumprimento do Pacto de Estado no ámbito das súas competencias. Para tal fin, exixiremos a revisión dos criterios de repartición dos recursos económicos dirixidos á Administración Local e galega para que teñan en conta a realidade específica do noso país (dispersión poboacional, alto número de núcleos de poboación e o avellentamento, entre outros) así como os recursos existentes.",
+      "pagina": 24,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más fondos del Pacto de Estado para Galicia y revisión del reparto",
+      "etiquetas": [
+        "violencia machista",
+        "organización territorial"
+      ],
+      "traduccion": "Incrementar la transferencia de los fondos económicos a Galicia destinados al cumplimiento del Pacto de Estado en el ámbito de sus competencias. Para tal fin, exigiremos la revisión de los criterios de reparto de los recursos económicos dirigidos a la Administración Local y gallega para que tengan en cuenta la realidad específica de nuestro país (dispersión poblacional, alto número de núcleos de población y el envejecimiento, entre otros) así como los recursos existentes.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantir por lei que os novos recursos impulsados ao abeiro do Pacto do Estado ou da Lei Orgánica 10/2022 de garantía integral da libertade sexual, sexan públicos e de xestión directa e reclamar en Galiza a integración dos centros de crise privatizados no sistema público e a adaptación á nosa estrutura territorial e poboacional.",
+      "pagina": 25,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Recursos contra la violencia machista públicos y de gestión directa por ley",
+      "etiquetas": [
+        "violencia machista",
+        "servicios sociales"
+      ],
+      "traduccion": "Garantizar por ley que los nuevos recursos impulsados al amparo del Pacto del Estado o de la Ley Orgánica 10/2022 de garantía integral de la libertad sexual, sean públicos y de gestión directa y reclamar en Galicia la integración de los centros de crisis privatizados en el sistema público y la adaptación a nuestra estructura territorial y poblacional.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Introdución da perspectiva de xénero en todas as políticas públicas como elemento transversal, promovendo a erradicación de calquera forma de discriminación ou fenda por razón de xénero en calquera ámbito ou servizo público.",
+      "pagina": 25,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Perspectiva de género transversal en todas las políticas públicas",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "traduccion": "Introducción de la perspectiva de género en todas las políticas públicas como elemento transversal, promoviendo la erradicación de cualquier forma de discriminación o brecha por razón de género en cualquier ámbito o servicio público.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar a participación das mulleres na vida pública e institucional modificando a Lei de paridade, Lei Orgánica 2/2024, para permitir a presenza de correlativa de máis mulleres nas listas electorais.",
+      "pagina": 25,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Modificar la Ley de paridad para permitir más mujeres correlativas en listas",
+      "etiquetas": [
+        "igualdad",
+        "instituciones",
+        "sistema electoral"
+      ],
+      "traduccion": "Reforzar la participación de las mujeres en la vida pública e institucional modificando la Ley de paridad, Ley Orgánica 2/2024, para permitir la presencia de correlativa de más mujeres en las listas electorales.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Introducir o termo feminicidio na lexislación española e impulsar un Estatuto de Vítima de Feminicidio para unha abordaxe integral da violencia machista.",
+      "pagina": 25,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Introducir el término feminicidio en la ley y Estatuto de Víctima",
+      "etiquetas": [
+        "violencia machista",
+        "justicia"
+      ],
+      "traduccion": "Introducir el término feminicidio en la legislación española e impulsar un Estatuto de Víctima de Feminicidio para un abordaje integral de la violencia machista.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mellorar o sistema de protección das mulleres en situación de violencia machista a través, entre outras, das seguintes medidas:",
+      "pagina": 25,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mejorar el sistema de protección de mujeres víctimas de violencia machista",
+      "etiquetas": [
+        "violencia machista"
+      ],
+      "traduccion": "Mejorar el sistema de protección de las mujeres en situación de violencia machista a través, entre otras, de las siguientes medidas:",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantir a xestión pública e directa dos mecanismos de control telemático para a protección de vítimas de violencia machista e realizar as melloras oportunas para rematar cos problemas de cobertura e revitimización existentes no noso país.",
+      "pagina": 25,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gestión pública y directa de los dispositivos de control telemático",
+      "etiquetas": [
+        "violencia machista",
+        "seguridad"
+      ],
+      "traduccion": "Garantizar la gestión pública y directa de los mecanismos de control telemático para la protección de víctimas de violencia machista y realizar las mejoras oportunas para acabar con los problemas de cobertura y revictimización existentes en nuestro país.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Xeneralizar a elaboración de informes forenses de valoración de risco complementarios aos policiais, así como revisar periodicamente o sistema VioGén para mellorar o seu grao de eficiencia e eficacia así como estender os mecanismos de xeolocalización do agresor a partir daqueles casos con valoración de risco medio.",
+      "pagina": 25,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Informes forenses de riesgo, revisión de VioGén y geolocalización del agresor",
+      "etiquetas": [
+        "violencia machista",
+        "seguridad",
+        "justicia"
+      ],
+      "traduccion": "Generalizar la elaboración de informes forenses de valoración de riesgo complementarios a los policiales, así como revisar periódicamente el sistema VioGén para mejorar su grado de eficiencia y eficacia así como extender los mecanismos de geolocalización del agresor a partir de aquellos casos con valoración de riesgo medio.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Destinar fondos estatais para incrementar e reforzar os servizos do Imelga.",
+      "pagina": 25,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondos estatales para el Instituto de Medicina Legal de Galicia",
+      "etiquetas": [
+        "violencia machista",
+        "justicia"
+      ],
+      "traduccion": "Destinar fondos estatales para incrementar y reforzar los servicios del Imelga.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar no recoñecemento da violencia vicaria e na protección ás e aos menores desenvolvendo de forma efectiva medidas que eviten os subterfuxios que acaban permitindo visitas dos maltratadores. Así mesmo, avanzar na toma de medidas cautelares ante posíbeis situacións de risco das e dos menores ante a sospeita de exercicio de violencia por parte de adultos referentes, singularmente no ámbito educativo e do tempo libre. En todos estes ámbitos deberá garantirse a escoita, privacidade, seguridade e apoio psicolóxico ás e aos menores.",
+      "pagina": 25,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Violencia vicaria, visitas de maltratadores y medidas cautelares para menores",
+      "etiquetas": [
+        "violencia machista",
+        "infancia"
+      ],
+      "traduccion": "Avanzar en el reconocimiento de la violencia vicaria y en la protección a las y los menores desarrollando de forma efectiva medidas que eviten los subterfugios que acaban permitiendo visitas de los maltratadores. Asimismo, avanzar en la toma de medidas cautelares ante posibles situaciones de riesgo de las y los menores ante la sospecha de ejercicio de violencia por parte de adultos referentes, singularmente en el ámbito educativo y del tiempo libre. En todos estos ámbitos deberá garantizarse la escucha, privacidad, seguridad y apoyo psicológico a las y los menores.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar medidas concretas e específicas dirixidas á formación obrigatoria de todos os axentes, organismos e institucións implicados, directa ou indirectamente, coa prevención e intervención fronte á violencia machista, comezando polas forzas e corpos de seguridade e a Xustiza.",
+      "pagina": 26,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Formación obligatoria en violencia machista para policía, justicia y otros agentes",
+      "etiquetas": [
+        "violencia machista",
+        "justicia",
+        "seguridad"
+      ],
+      "traduccion": "Impulsar medidas concretas y específicas dirigidas a la formación obligatoria de todos los agentes, organismos e instituciones implicados, directa o indirectamente, con la prevención e intervención frente a la violencia machista, comenzando por las fuerzas y cuerpos de seguridad y la Justicia.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dotación suficiente de prazas xudiciais e de financiamento para medios materiais e humanos nas seccións de violencia sobre a muller dos tribunais de instancia, e reorganización da comarcalización das seccións de Ourense e Santiago de Compostela, sen estendela a Lugo e Pontevedra, para corrixir os desequilibrios territoriais e as dificultades que supón para as vítimas os desprazamentos.",
+      "pagina": 26,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazas y medios para secciones judiciales de violencia sobre la mujer",
+      "etiquetas": [
+        "violencia machista",
+        "justicia"
+      ],
+      "traduccion": "Dotación suficiente de plazas judiciales y de financiación para medios materiales y humanos en las secciones de violencia sobre la mujer de los tribunales de instancia, y reorganización de la comarcalización de las secciones de Ourense y Santiago de Compostela, sin extenderla a Lugo y Pontevedra, para corregir los desequilibrios territoriales y las dificultades que supone para las víctimas los desplazamientos.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulso das mudanzas legais oportunas para combater calquera forma de violencia machista no ámbito dixital e garantir a debida persecución destes delitos cando se cometan a través da rede e/ou a través do uso de tecnoloxías e plataformas dixitais (incluída a Intelixencia Artificial).",
+      "pagina": 26,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cambios legales contra la violencia machista en el ámbito digital",
+      "etiquetas": [
+        "violencia machista",
+        "ciencia y tecnología",
+        "justicia"
+      ],
+      "traduccion": "Impulso de los cambios legales oportunos para combatir cualquier forma de violencia machista en el ámbito digital y garantizar la debida persecución de estos delitos cuando se cometan a través de la red y/o a través del uso de tecnologías y plataformas digitales (incluida la Inteligencia Artificial).",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Oposición firme e contundente ante calquera intento de legalización, regulamentación e banalización dos ventres de alugueiro por se trataren dunha forma de explotación dos corpos das mulleres, así como de mercantilización de seres humanos (mulleres e crianzas). Impulsar as mudanzas legais necesarias para impedir esta práctica a través de terceiros países.",
+      "pagina": 26,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Oposición a legalizar la gestación subrogada e impedirla vía terceros países",
+      "etiquetas": [
+        "igualdad",
+        "gestación subrogada"
+      ],
+      "traduccion": "Oposición firme y contundente ante cualquier intento de legalización, reglamentación y banalización de los vientres de alquiler por tratarse de una forma de explotación de los cuerpos de las mujeres, así como de mercantilización de seres humanos (mujeres y criaturas). Impulsar los cambios legales necesarios para impedir esta práctica a través de terceros países.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desbloquear a lexislación específica contra a trata, a explotación de seres humanos e impulsar medidas integrais para a protección das vítimas cun enfoque de dereitos, sen ningún tipo de discriminación con base á súa nacionalidade.",
+      "pagina": 26,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desbloquear la ley contra la trata y proteger a las víctimas",
+      "etiquetas": [
+        "igualdad",
+        "justicia",
+        "derechos humanos"
+      ],
+      "traduccion": "Desbloquear la legislación específica contra la trata, la explotación de seres humanos e impulsar medidas integrales para la protección de las víctimas con un enfoque de derechos, sin ningún tipo de discriminación con base en su nacionalidad.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar medidas estratéxicas conducentes á abolición da prostitución desde unha perspectiva que puna e persiga o proxeneta e prostituidor, ficando as mulleres prostituídas libres de calquera criminalización, estigmatización ou aproximación moralista.",
+      "pagina": 26,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Abolición de la prostitución penalizando a proxenetas y prostituidores",
+      "etiquetas": [
+        "igualdad",
+        "prostitución"
+      ],
+      "traduccion": "Impulsar medidas estratégicas conducentes a la abolición de la prostitución desde una perspectiva que castigue y persiga al proxeneta y prostituidor, quedando las mujeres prostituidas libres de cualquier criminalización, estigmatización o aproximación moralista.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ofrecemento dunha rede de cobertura que garanta a liberdade para deixar a prostitución a todas as mulleres que así o queiran cubrindo as súas necesidades persoais básicas (ingresos, aloxamento, emprego, regularización administrativa…).",
+      "pagina": 26,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Red de cobertura para mujeres que quieran dejar la prostitución",
+      "etiquetas": [
+        "igualdad",
+        "prostitución",
+        "servicios sociales"
+      ],
+      "traduccion": "Ofrecimiento de una red de cobertura que garantice la libertad para dejar la prostitución a todas las mujeres que así lo quieran cubriendo sus necesidades personales básicas (ingresos, alojamiento, empleo, regularización administrativa…).",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Persecución intensa e efectiva da prostitución forzada, con coordinación eficaz dos distintos organismos, corpos e entidades (Policía, Garda Civil, xulgados, avogacía, inspección de traballo, etc.).",
+      "pagina": 26,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Persecución de la prostitución forzada con coordinación entre organismos",
+      "etiquetas": [
+        "prostitución",
+        "seguridad",
+        "justicia"
+      ],
+      "traduccion": "Persecución intensa y efectiva de la prostitución forzada, con coordinación eficaz de los distintos organismos, cuerpos y entidades (Policía, Guardia Civil, juzgados, abogacía, inspección de trabajo, etc.).",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Inclusión no Pacto de Estado do impulso dunha rede pública de centros de media estadía para o desenvolvemento persoal integral das mulleres en situación de prostitución que decidan deixar de exercela.",
+      "pagina": 27,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Red pública de centros de media estancia para dejar la prostitución",
+      "etiquetas": [
+        "prostitución",
+        "igualdad",
+        "servicios sociales"
+      ],
+      "traduccion": "Inclusión en el Pacto de Estado del impulso de una red pública de centros de media estancia para el desarrollo personal integral de las mujeres en situación de prostitución que decidan dejar de ejercerla.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Inclusión das vítimas de violencia machista como colectivo prioritario no deseño das políticas públicas de garantía de acceso á vivenda.",
+      "pagina": 27,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Víctimas de violencia machista como colectivo prioritario en vivienda",
+      "etiquetas": [
+        "violencia machista",
+        "vivienda"
+      ],
+      "traduccion": "Inclusión de las víctimas de violencia machista como colectivo prioritario en el diseño de las políticas públicas de garantía de acceso a la vivienda.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporación de políticas de apoio ás denunciantes, de forma pública ou xudicial, de violencia machista nas situacións de persecución xudicial por parte dos seus denunciados.",
+      "pagina": 27,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.1. Vidas libres de violencia machista"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a denunciantes de violencia machista perseguidas judicialmente por los denunciados",
+      "etiquetas": [
+        "violencia machista",
+        "justicia"
+      ],
+      "traduccion": "Incorporación de políticas de apoyo a las denunciantes, de forma pública o judicial, de violencia machista en las situaciones de persecución judicial por parte de sus denunciados.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Recoñecer legalmente as familias monoparentais en orixe, por decisión propia, e impulso dunha lexislación específica —para aquelas cuestións de competencia estatal— que permita garantir os seus dereitos e superar a discriminación estrutural que sofren actualmente.",
+      "pagina": 27,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.2 Promover avances para unha igualdade real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reconocimiento legal y legislación específica para familias monoparentales",
+      "etiquetas": [
+        "familia",
+        "igualdad"
+      ],
+      "traduccion": "Reconocer legalmente las familias monoparentales en origen, por decisión propia, e impulso de una legislación específica —para aquellas cuestiones de competencia estatal— que permita garantizar sus derechos y superar la discriminación estructural que sufren actualmente.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar medidas de corresponsabilidade social e conciliación real a través de políticas de apoio á conciliación persoal e de coidados incluíndo a compensación económica das reducións de xornada, a garantía de ingresos en períodos de excedencia e a achega económica da Administración Xeral do Estado no financiamento da gratuidade das escolas infantís galegas.",
+      "pagina": 27,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.2 Promover avances para unha igualdade real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Conciliación: compensar reducciones de jornada, excedencias y financiar escuelas infantiles",
+      "etiquetas": [
+        "igualdad",
+        "empleo",
+        "conciliación"
+      ],
+      "traduccion": "Impulsar medidas de corresponsabilidad social y conciliación real a través de políticas de apoyo a la conciliación personal y de cuidados incluyendo la compensación económica de las reducciones de jornada, la garantía de ingresos en períodos de excedencia y la aportación económica de la Administración General del Estado en la financiación de la gratuidad de las escuelas infantiles gallegas.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar medidas dirixidas a eliminar calquera forma de discriminación por razón de xénero e de sexismo nos medios de comunicación, tanto públicos como privados, promovendo un tratamento informativo adecuado da violencia machista entre as que se incluirá un código ético que deberá ser cumprido para a obtención de fondos públicos.",
+      "pagina": 27,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.2 Promover avances para unha igualdade real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Código ético contra el sexismo en medios, condición para fondos públicos",
+      "etiquetas": [
+        "igualdad",
+        "medios de comunicación",
+        "violencia machista"
+      ],
+      "traduccion": "Impulsar medidas dirigidas a eliminar cualquier forma de discriminación por razón de género y de sexismo en los medios de comunicación, tanto públicos como privados, promoviendo un tratamiento informativo adecuado de la violencia machista entre las que se incluirá un código ético que deberá ser cumplido para la obtención de fondos públicos.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cumprir coa elaboración pendente do catálogo de enfermidades profesionais recollidas na lei de pesca do 2023 a instancias do BNG para o recoñecemento das enfermidades profesionais das mulleres do marisqueo.",
+      "pagina": 27,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.2 Promover avances para unha igualdade real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Elaborar el catálogo de enfermedades profesionales de las mariscadoras",
+      "etiquetas": [
+        "agricultura y pesca",
+        "empleo",
+        "igualdad"
+      ],
+      "traduccion": "Cumplir con la elaboración pendiente del catálogo de enfermedades profesionales recogidas en la ley de pesca del 2023 a instancias del BNG para el reconocimiento de las enfermedades profesionales de las mujeres del marisqueo.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Financiar e impulsar medidas de igualdade no ámbito do medio rural e, de forma concreta, nos programas destinados a fomentar a empregabilidade e o emprendemento.",
+      "pagina": 27,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.2 Promover avances para unha igualdade real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Medidas de igualdad en el medio rural, empleo y emprendimiento",
+      "etiquetas": [
+        "igualdad",
+        "medio rural",
+        "empleo"
+      ],
+      "traduccion": "Financiar e impulsar medidas de igualdad en el ámbito del medio rural y, de forma concreta, en los programas destinados a fomentar la empleabilidad y el emprendimiento.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover un maior control e vixilancia no cumprimento dos convenios colectivos das traballadoras de atención as persoas maiores e dependentes así como no ámbito do traballo no fogar.",
+      "pagina": 27,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.2 Promover avances para unha igualdade real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Vigilar el cumplimiento de convenios en cuidados y trabajo del hogar",
+      "etiquetas": [
+        "empleo",
+        "igualdad",
+        "dependencia"
+      ],
+      "traduccion": "Promover un mayor control y vigilancia en el cumplimiento de los convenios colectivos de las trabajadoras de atención a las personas mayores y dependientes así como en el ámbito del trabajo en el hogar.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar programas de investigación específicos sobre a saúde da muller superadores dos nesgos patriarcais.",
+      "pagina": 28,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.2 Promover avances para unha igualdade real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas de investigación específicos sobre la salud de la mujer",
+      "etiquetas": [
+        "sanidad",
+        "igualdad",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Impulsar programas de investigación específicos sobre la salud de la mujer superadores de los sesgos patriarcales.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar medidas de garantía de abastecemento de medicación esencial para o tratamento das mulleres, como no ámbito da menopausa, para evitar novas crises na súa cobertura.",
+      "pagina": 28,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.6. Políticas feministas para avanzar nos dereitos das mulleres",
+        "2.6.2 Promover avances para unha igualdade real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Garantizar el abastecimiento de medicación esencial para mujeres",
+      "etiquetas": [
+        "sanidad",
+        "igualdad"
+      ],
+      "traduccion": "Impulsar medidas de garantía de abastecimiento de medicación esencial para el tratamiento de las mujeres, como en el ámbito de la menopausia, para evitar nuevas crisis en su cobertura.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Logo dos avances lexislativos producidos neste ámbito co goberno de coalición, aprobados co apoio do BNG e doutras forzas soberanistas, a folla de ruta pasa por consolidar e ampliar o acadado.",
+      "pagina": 28,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.7. A defensa dos dereitos das persoas LGBT"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Consolidar y ampliar los avances legislativos en derechos LGBT",
+      "etiquetas": [
+        "lgtbi"
+      ],
+      "traduccion": "Tras los avances legislativos producidos en este ámbito con el gobierno de coalición, aprobados con el apoyo del BNG y de otras fuerzas soberanistas, la hoja de ruta pasa por consolidar y ampliar lo logrado.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "De maneira específica, no tocante ás persoas trans, a despatoloxización legal precisa de ser acompañada dunha “despatoloxización social”, con medidas formativas que faciliten o trato coa Administración ou co sistema sanitario, garantindo os seus dereitos fronte ás violencias e discriminacións.",
+      "pagina": 28,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.7. A defensa dos dereitos das persoas LGBT"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Despatologización social de las personas trans con medidas formativas",
+      "etiquetas": [
+        "lgtbi"
+      ],
+      "traduccion": "De manera específica, en lo tocante a las personas trans, la despatologización legal precisa ser acompañada de una “despatologización social”, con medidas formativas que faciliten el trato con la Administración o con el sistema sanitario, garantizando sus derechos frente a las violencias y discriminaciones.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Do mesmo xeito, cómpre avanzar na equiparación de dereitos a nivel laboral e no relativo ás persoas migrantes e solicitantes de asilo.",
+      "pagina": 28,
+      "apartado": [
+        "2. Dereito a unha vida digna",
+        "2.7. A defensa dos dereitos das persoas LGBT"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Equiparación de derechos laborales y de migrantes y solicitantes de asilo",
+      "etiquetas": [
+        "lgtbi",
+        "empleo",
+        "inmigración"
+      ],
+      "traduccion": "Del mismo modo, es necesario avanzar en la equiparación de derechos a nivel laboral y en lo relativo a las personas migrantes y solicitantes de asilo.",
+      "verificacion": "exacta"
+    }
+  ]
+}

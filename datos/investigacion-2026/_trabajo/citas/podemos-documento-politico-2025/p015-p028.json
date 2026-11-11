@@ -1,0 +1,181 @@
+{
+  "fuente": "podemos-documento-politico-2025",
+  "partido": "podemos",
+  "paginas": [
+    15,
+    28
+  ],
+  "citas": [
+    {
+      "cita": "Nosotras y nosotros seguimos aspirando a que España se convierta en una verdadera democracia en la que mande la gente y no los que manejan el dinero y nunca se presentan a las elecciones. Por eso queremos volver a poner en pie a la izquierda, para poder aplicar las políticas que nos permitan redistribuir de manera definitiva la riqueza en nuestro país, hasta que la élite económica que explota y asfixia a nuestro pueblo para obtener beneficios millonarios simplemente desaparezca.",
+      "pagina": 18,
+      "apartado": [
+        "Quién manda aquí: los verdaderos adversarios"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Redistribución de la riqueza como objetivo político",
+      "etiquetas": [
+        "economía",
+        "ideología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Del mismo modo, es incomprensible que el PSOE todavía hoy no haya explicado si va a responder con su patrimonio de todo lo que se llevaron los corruptos que ellos mismos eligieron porque, a juicio de Podemos, quienes incurren en delitos de corrupción tienen que devolver hasta el último euro robado.",
+      "pagina": 22,
+      "apartado": [
+        "Del gobierno de coalición al gobierno de Sánchez"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Devolución íntegra de lo sustraído por corrupción",
+      "etiquetas": [
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Hay muchas cosas, como exigir un embargo total de armas a Israel o reclamar avances feministas, que ya sólo pelea Podemos y que jamás habríamos podido impulsar en un grupo parlamentario — como es el de Sumar— que vetaba de forma sistemática nuestras iniciativas y que no dejaba hablar a nuestras portavoces.",
+      "pagina": 23,
+      "apartado": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Embargo total de armas a Israel",
+      "etiquetas": [
+        "política exterior",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "nosotras somos aquellas que defendemos con más fuerza unos servicios públicos universales y de calidad en contraposición a un régimen de guerra que destina obscenas cantidades de dinero público no a proteger a la ciudadanía sino a la fabricación de dispositivos para matar, una reforma fiscal verdaderamente ambiciosa que haga pagar más a los de arriba para poder financiarlos",
+      "pagina": 25,
+      "apartado": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Servicios públicos frente a gasto militar y reforma fiscal progresiva",
+      "etiquetas": [
+        "servicios públicos",
+        "impuestos",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "los avances feministas y de derechos LGTBIQ+ más potentes del mundo para construir una sociedad en la que nadie sea más que nadie y en la que los cuidados están repartidos",
+      "pagina": 25,
+      "apartado": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Avances feministas y de derechos LGTBI, en la enumeración de lo que dice defender",
+      "etiquetas": [
+        "igualdad",
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "un ordenamiento jurídico y social en el que migrar sea un derecho, el racismo un oscuro recuerdo del pasado y en el que ningún ser humano sea ilegal",
+      "pagina": 25,
+      "apartado": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Migrar como derecho, en la enumeración de lo que dice defender",
+      "etiquetas": [
+        "inmigración",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "nosotras somos las que tenemos la valentía necesaria para garantizar el derecho a una vivienda digna para todas y cada una de las familias de nuestro país arrebatando a los grandes caseros y a los especuladores rentistas la capacidad de lucrarse con la vida de la gente",
+      "pagina": 25,
+      "apartado": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Garantizar vivienda limitando el negocio de grandes propietarios",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "una transición ecológica con componente de clase que no olvide que son los ricos y las grandes empresas petroleras y energéticas los que más contaminan y más huella de carbono tienen",
+      "pagina": 25,
+      "apartado": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Transición ecológica centrada en los grandes emisores, en la enumeración de lo que dice defender",
+      "etiquetas": [
+        "medio ambiente",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "una democratización profunda de todos aquellos poderes fácticos que no se presentan a las elecciones —como las fuerzas de seguridad, el poder judicial o el poder mediático— para poder hacer viable todo lo anterior y para caminar con paso firme hacia una República en la que nadie esté por encima de la ley, en la que todo el mundo tenga derecho a una vida digna y en la que todos los pueblos de España puedan decidir democráticamente su futuro",
+      "pagina": 25,
+      "apartado": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Democratizar los poderes no electos y avanzar hacia una república, en la enumeración de lo que dice defender",
+      "etiquetas": [
+        "instituciones",
+        "justicia",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En estos años hemos visto con especial crudeza como son los poderes con menos controles democráticos, el mediático, el económico y el judicial, donde más fácilmente se atrincheran los sectores reaccionarios para mandar sin presentarse a las elecciones. Democratizar esos poderes es un imperativo democrático de nuestro tiempo.",
+      "pagina": 28,
+      "apartado": [
+        "Una izquierda orgullosa de serlo, autónoma y no intervenida por el PSOE para poder llevar a cabo transformaciones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Democratizar los poderes mediático, económico y judicial",
+      "etiquetas": [
+        "justicia",
+        "medios de comunicación",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

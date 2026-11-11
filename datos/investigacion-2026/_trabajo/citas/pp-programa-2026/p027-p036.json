@@ -1,0 +1,1751 @@
+{
+  "fuente": "pp-programa-2026",
+  "partido": "pp",
+  "paginas": [
+    27,
+    36
+  ],
+  "citas": [
+    {
+      "cita": "Una democracia sana exige que quienes gobiernan respondan por sus actos. Acabar con la corrupción y con los mecanismos que la protegen es una condición de la reconstrucción nacional.",
+      "pagina": 28,
+      "apartado": [
+        "02 Regenerar la democracia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rendición de cuentas y fin de la corrupción",
+      "etiquetas": [
+        "instituciones",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ahí concentraremos nuestras reformas. En evitar que la investidura dependa de las imposiciones de unos pocos diputados. En dar estabilidad a los presupuestos para que las cuentas públicas no dependan cada año del regateo partidista. En separar el nombramiento de los órganos independientes de los pactos para formar o sostener un Gobierno. En cerrar los espacios de opacidad y de uso privado del dinero público. Y en acotar la urgencia y los procedimientos excepcionales, reforzando al mismo tiempo la calidad de las leyes, la seguridad jurídica y la capacidad del Parlamento para exigir comparecencias, respuestas y rendición de cuentas.",
+      "pagina": 28,
+      "apartado": [
+        "02 Regenerar la democracia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Cinco ámbitos en que concentrarán las reformas institucionales",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Un Gobierno debe poder gobernar con estabilidad y responder de sus decisiones. Queremos transformar España y, al mismo tiempo, reforzar las garantías democráticas para que ningún Gobierno vuelva a cometer los abusos que hemos visto estos años. Estas reglas nos obligarán también a nosotros.",
+      "pagina": 28,
+      "apartado": [
+        "02 Regenerar la democracia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Estabilidad del Gobierno y refuerzo de las garantías democráticas",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "REFORZAREMOS EL CONTROL DEL VOTO POR CORREO EN TODO SU RECORRIDO. Garantizaremos el ejercicio efectivo y seguro del derecho al voto por correo.",
+      "pagina": 28,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "56",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo del control del voto por correo",
+      "etiquetas": [
+        "elecciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La Administración electoral reforzará el control y la supervisión de la recepción, custodia y entrega de los votos por parte de Correos.",
+      "pagina": 28,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "56",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Supervisión de la custodia y entrega de votos por Correos",
+      "etiquetas": [
+        "elecciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos la identificación al solicitar y entregar el voto, con garantías para quien no pueda hacerlo personalmente.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "56",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más identificación al solicitar y entregar el voto por correo",
+      "etiquetas": [
+        "elecciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y mantendremos la posibilidad de que cada elector pueda hacer seguimiento del sobre electoral y recibir una notificación de que el voto emitido por correo ha sido entregado al presidente de la mesa electoral.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "56",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Seguimiento y notificación de entrega del voto por correo",
+      "etiquetas": [
+        "elecciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LOS CONDENADOS POR TERRORISMO NO TENDRÁN CABIDA EN LAS INSTITUCIONES. Ampliaremos las incompatibilidades e inelegibilidades aplicables a los condenados por terrorismo, así como a los condenados por corrupción grave, delitos contra la vida o delitos graves contra las instituciones del Estado.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "57",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más inelegibilidades para condenados por terrorismo, corrupción y delitos graves",
+      "etiquetas": [
+        "elecciones",
+        "instituciones",
+        "terrorismo"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "También ampliaremos las causas de inelegibilidad para impedir que quienes se sustraigan voluntariamente a la acción de la Justicia y hayan sido declarados en rebeldía por delitos graves puedan presentarse a elecciones u ocupar cargos públicos mientras persista esa situación.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "57",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inelegibilidad de declarados en rebeldía por delitos graves",
+      "etiquetas": [
+        "elecciones",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LAS DECISIONES DE LA JUNTA ELECTORAL SE HARÁN CUMPLIR. Reforzaremos la Junta Electoral Central con medios propios y estables, y capacidad efectiva para hacer cumplir sus acuerdos durante la campaña.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "58",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Medios propios y capacidad ejecutiva para la Junta Electoral Central",
+      "etiquetas": [
+        "elecciones",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA IGUALDAD DE LOS ESPAÑOLES NO SERÁ EL PRECIO DE UNA INVESTIDURA. No habrá cesiones en materia de igualdad básica, Hacienda general, Seguridad Social, Defensa y Fuerzas Armadas, política exterior y política migratoria y fronteras a cambio de apoyos para formar o sostener un Gobierno.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "59",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Sin cesiones de materias estatales a cambio de apoyos de investidura",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Preservaremos la capacidad del Estado para cumplir sus responsabilidades y evaluaremos cualquier transferencia por sus efectos sobre la igualdad de los españoles.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "59",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Evaluar las transferencias por su efecto sobre la igualdad",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA IMPUNIDAD NO SERÁ MONEDA DE CAMBIO PARA GOBERNAR. Derogaremos la Ley de Amnistía y prohibiremos que el derecho de gracia se utilice como contraprestación política para formar o mantener un Gobierno.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "60",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogar la Ley de Amnistía y prohibir indultos como contraprestación política",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Aprobaremos una nueva Ley del Indulto con criterios objetivos y transparentes.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "60",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva Ley del Indulto con criterios objetivos",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No podrán ser indultados los condenados por corrupción, terrorismo, delitos contra la integridad territorial o el orden constitucional ni por delitos graves contra menores.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "60",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Delitos excluidos de la posibilidad de indulto",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "REFORMAREMOS EL SUPLICATORIO Y REVISAREMOS LOS AFORAMIENTOS. Evitaremos que el suplicatorio pueda convertirse en un instrumento de impunidad ante la Justicia.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "61",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma del suplicatorio parlamentario",
+      "etiquetas": [
+        "instituciones",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Corregiremos la extensión excesiva de los aforamientos para devolverlos a una concepción limitada y justificada, conforme a la Constitución y a los estándares europeos.",
+      "pagina": 29,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "61",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Limitación de los aforamientos",
+      "etiquetas": [
+        "instituciones",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "NINGÚN PACTO PARA GOBERNAR SE ESCONDERÁ A LOS ESPAÑOLES. Impulsaremos la obligación de publicar íntegramente los acuerdos de investidura, de legislatura y de apoyo parlamentario que permitan formar o sostener un Gobierno. No habrá anexos reservados ni compromisos políticos ocultos.",
+      "pagina": 30,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "62",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicación íntegra de los pactos de investidura y legislatura",
+      "etiquetas": [
+        "instituciones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EL TRASPASO DE PODERES TENDRÁ CONTENIDO, PLAZOS Y RESPONSABLES. Regularemos un procedimiento formal de transición entre Gobiernos.",
+      "pagina": 30,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "63",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Procedimiento formal de traspaso de poderes entre Gobiernos",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada ministerio deberá entregar al nuevo Ejecutivo un informe completo y actualizado sobre la situación presupuestaria, las obligaciones económicas asumidas, los contratos y compromisos en vigor, los asuntos pendientes, los riesgos identificados y las decisiones que requieran continuidad inmediata.",
+      "pagina": 30,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "63",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Informe obligatorio de cada ministerio al nuevo Ejecutivo",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se fijarán plazos y responsables del traspaso, y la ocultación deliberada de información o la entrega de datos falsos tendrá consecuencias.",
+      "pagina": 30,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "63",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazos, responsables y consecuencias por ocultar datos en el traspaso",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EL LÍDER DE LA OPOSICIÓN TENDRÁ UN ESTATUTO INSTITUCIONAL. Consolidaremos la posición institucional del líder de la oposición y sus relaciones con el presidente del Gobierno.",
+      "pagina": 30,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "64",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estatuto institucional del líder de la oposición",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Estableceremos cauces obligatorios y regulares de interlocución e información sobre los principales asuntos de Estado, en materia de seguridad nacional, defensa, política exterior y crisis de especial gravedad, con las garantías de confidencialidad necesarias.",
+      "pagina": 30,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.1 El poder se ganará con más garantías y se ejercerá de forma más estable"
+      ],
+      "numero": "64",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Interlocución obligatoria con la oposición sobre asuntos de Estado",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "DOS PRÓRROGAS PRESUPUESTARIAS OBLIGARÁN A CONVOCAR ELECCIONES. El Gobierno cumplirá con su obligación constitucional de presentar cada año los Presupuestos Generales del Estado para que las Cortes los debatan.",
+      "pagina": 30,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.2 Nadie gobernará sin presupuestos ni gastará sin control"
+      ],
+      "numero": "65",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Elecciones tras dos prórrogas y presentación anual de los presupuestos",
+      "etiquetas": [
+        "instituciones",
+        "economía",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Promoveremos las reformas necesarias para que una segunda prórroga consecutiva provoque la disolución de las Cortes y la convocatoria de elecciones.",
+      "pagina": 30,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.2 Nadie gobernará sin presupuestos ni gastará sin control"
+      ],
+      "numero": "65",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Disolución de las Cortes tras una segunda prórroga presupuestaria",
+      "etiquetas": [
+        "instituciones",
+        "economía",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EL SENADO TAMBIÉN CONTROLARÁ CÓMO SE GASTA CADA PRESUPUESTO. El Senado examinará cada año la ejecución de los Presupuestos Generales del Estado y controlará la ejecución de los fondos europeos y las transferencias a las Comunidades Autónomas.",
+      "pagina": 30,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.2 Nadie gobernará sin presupuestos ni gastará sin control"
+      ],
+      "numero": "66",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Control anual del Senado sobre ejecución presupuestaria y fondos europeos",
+      "etiquetas": [
+        "instituciones",
+        "economía",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA INDEPENDENCIA DEL TRIBUNAL CONSTITUCIONAL ES UNA PRIORIDAD DEMOCRÁTICA. El Tribunal Constitucional debe ser percibido y funcionar como una institución jurídica independiente, no como una prolongación de las mayorías políticas.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "67",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Independencia del Tribunal Constitucional frente a las mayorías políticas",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ningún candidato podrá haber ocupado cargos políticos durante los cinco años anteriores y estableceremos un régimen estricto de incompatibilidades.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "67",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Candidatos al Constitucional sin cargos políticos en los cinco años previos",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ningún magistrado participará en la decisión sobre la constitucionalidad de una norma en cuya elaboración o impulso haya participado desde el Gobierno o la Administración.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "67",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Abstención de magistrados en normas que impulsaron desde el Gobierno",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA JUSTICIA CONSTITUCIONAL DEBE LLEGAR A TIEMPO. La protección de la Constitución pierde eficacia cuando las decisiones llegan después de que el daño institucional se haya producido.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "68",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rapidez de las decisiones de la justicia constitucional",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los recursos de inconstitucionalidad contra leyes que afecten a derechos fundamentales se resolverán en noventa días.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "68",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazo de noventa días para recursos sobre derechos fundamentales",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliaremos el recurso previo de inconstitucionalidad a las leyes orgánicas sobre los poderes del Estado y las instituciones de relevancia constitucional.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "68",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliación del recurso previo de inconstitucionalidad a leyes orgánicas institucionales",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se publicarán los asuntos pendientes, las normas de reparto y el sentido del voto de cada magistrado una vez resuelto el asunto.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "68",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicidad de asuntos pendientes, reparto y votos del Constitucional",
+      "etiquetas": [
+        "justicia",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Tribunal aprobará en seis meses un código ético que proteja el secreto de sus deliberaciones y fije consecuencias para las filtraciones.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "68",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Código ético del Tribunal Constitucional en seis meses",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliaremos en la ley las causas de abstención y recusación de los magistrados.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "68",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más causas de abstención y recusación de magistrados constitucionales",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y EL TRIBUNAL CONSTITUCIONAL NO SERÁ UNA SEGUNDA INSTANCIA SOBRE EL TRIBUNAL SUPREMO. El recurso de amparo protegerá los derechos fundamentales, pero no servirá para volver a revisar la interpretación de la legalidad ordinaria que corresponde al Tribunal Supremo. Reformaremos la legislación procesal y la Ley Orgánica del Tribunal Constitucional para delimitar con claridad qué recursos de amparo admite y qué efectos tienen sus decisiones.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "69",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Delimitación del recurso de amparo frente al Tribunal Supremo",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EL FISCAL GENERAL DEL ESTADO NO DEPENDERÁ DEL GOBIERNO. La Fiscalía debe defender la legalidad, no los intereses políticos de quien ocupa el poder. Aprobaremos un nuevo Estatuto del Ministerio Fiscal.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "70",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevo Estatuto del Ministerio Fiscal e independencia del fiscal general",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El fiscal general tendrá un mandato único de cinco años y, como recomienda la Comisión Europea, no cesará con el Gobierno que lo propuso.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "70",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mandato único de cinco años para el fiscal general",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El informe del Consejo General del Poder Judicial sobre su idoneidad será preceptivo y vinculante para su nombramiento.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "70",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Informe vinculante del CGPJ para nombrar al fiscal general",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Su procesamiento conllevará el cese inmediato y automático.",
+      "pagina": 31,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "70",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cese automático del fiscal general si es procesado",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA IMPARCIALIDAD DE LA FISCALÍA PROTEGERÁ A CADA FISCAL. Reforzaremos el Consejo Fiscal para revisar las órdenes controvertidas y proteger la autonomía profesional.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "71",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Refuerzo del Consejo Fiscal para revisar órdenes controvertidas",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Regularemos el reparto de asuntos y la resolución de discrepancias.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "71",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Regulación del reparto de asuntos en la Fiscalía",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los nombramientos y ascensos responderán a criterios objetivos y necesitarán el respaldo del Consejo Fiscal.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "71",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nombramientos y ascensos de fiscales con respaldo del Consejo Fiscal",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La Fiscalía gestionará su presupuesto y su organización interna con autonomía.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "71",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Autonomía presupuestaria y organizativa de la Fiscalía",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sus comunicaciones con el Gobierno serán escritas y públicas, salvo las materias legalmente reservadas.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "71",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comunicaciones escritas y públicas entre Fiscalía y Gobierno",
+      "etiquetas": [
+        "justicia",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LOS JUECES ELEGIRÁN A LOS JUECES. Los jueces y magistrados de todas las categorías elegirán a los doce vocales judiciales del Consejo General del Poder Judicial.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "72",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Elección de los doce vocales judiciales del CGPJ por los jueces",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Mantendremos la evaluación pública de méritos de los ocho juristas que designan las Cortes.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "72",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Evaluación pública de méritos de los vocales juristas del CGPJ",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Extenderemos a todos los vocales la incompatibilidad por haber ocupado cargos políticos en los cinco años anteriores a su elección.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "72",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incompatibilidad de todos los vocales del CGPJ por cargos políticos previos",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adaptaremos el sistema de renovación para impedir que el bloqueo parlamentario paralice el Consejo.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "72",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sistema de renovación del CGPJ que evite el bloqueo",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las plazas del Tribunal Supremo se cubrirán por concurso reglado de méritos, con decisiones motivadas y públicas, exigiendo que en la antigüedad mínima de veinte años en la carrera judicial que ya exige la ley no se compute el tiempo en servicios especiales por el desempeño de cargos políticos.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "72",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazas del Tribunal Supremo por concurso reglado de méritos",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los jueces y fiscales que hayan ocupado cargos políticos no podrán volver a juzgar ni a ejercer la acusación hasta cinco años después de su cese.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "72",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cinco años sin juzgar ni acusar tras ocupar cargos políticos",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "PROTEGEREMOS LA INDEPENDENCIA DE LOS JUECES. Reforzaremos en la Ley Orgánica del Poder Judicial su amparo frente a las presiones políticas y mejoraremos los medios materiales y tecnológicos de juzgados y tribunales.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "73",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Amparo legal a los jueces y más medios para juzgados",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Fortaleceremos la protección penal frente a amenazas, coacciones e injurias graves y estableceremos sanciones administrativas para intimidaciones que no constituyan delito.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "73",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Protección penal y sanciones por intimidaciones a jueces",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los Reglamentos de las Cámaras impedirán citarlos para responder por sus actuaciones judiciales.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "73",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de citar a jueces en las Cámaras por sus actuaciones",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA ABOGACÍA DEL ESTADO NO DEFENDERÁ INTERESES PARTICULARES DE LOS ALTOS CARGOS. Reformaremos su Reglamento para que el ejercicio de acciones judiciales en nombre de un miembro del Gobierno requiera una justificación expresa del interés general y de su relación con las funciones del cargo. La asistencia jurídica pública no podrá utilizarse para pleitos particulares ajenos al ejercicio legítimo de esas funciones.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "74",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Límites al uso de la Abogacía del Estado por altos cargos",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "REFUNDAREMOS EL CIS PARA DEVOLVERLE SU INDEPENDENCIA Y SU PRESTIGIO TÉCNICO. Su dirección será científica y profesional, reduciremos los puestos de confianza y su presidente tendrá un mandato propio, que no dependerá de quien gobierne.",
+      "pagina": 32,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "75",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Refundación del CIS con dirección profesional y mandato propio",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Auditaremos su actividad desde 2018, recuperaremos las series históricas y daremos mayor transparencia a sus métodos, muestras y datos.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "75",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Auditoría del CIS desde 2018 y transparencia de sus métodos",
+      "etiquetas": [
+        "instituciones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El CIS concentrará su trabajo en conocer los grandes cambios de la sociedad española —familia, infancia, envejecimiento y movilidad social—.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "75",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Orientación del CIS hacia los grandes cambios sociales",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Congreso de los Diputados podrá requerirle cualquier informe o investigación que se esté realizando o se haya realizado en cualquier momento.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "75",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Facultad del Congreso para requerir informes al CIS",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "INICIAREMOS EN LOS PRIMEROS CIEN DÍAS LA REFORMA DE RTVE Y EFE PARA RECUPERAR SU INDEPENDENCIA. Recuperar la credibilidad de los medios públicos es una cuestión democrática básica. Desde el inicio de la legislatura adoptaremos las medidas necesarias para garantizar una información rigurosa, plural e independiente, una dirección profesional y una verdadera vocación de servicio público.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "76",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de RTVE y EFE en los primeros cien días",
+      "etiquetas": [
+        "medios de comunicación",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "GARANTIZAREMOS LA LIBERTAD DE PRENSA, EL PLURALISMO INFORMATIVO Y LA INDEPENDENCIA DE LOS MEDIOS DE COMUNICACIÓN FRENTE A CUALQUIER INJERENCIA DEL PODER POLÍTICO. Reforzaremos la protección de los periodistas, de sus fuentes y del secreto profesional.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "77",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Libertad de prensa y protección de periodistas y fuentes",
+      "etiquetas": [
+        "medios de comunicación"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "LAS ESTADÍSTICAS CONTARÁN LA REALIDAD, SIN PRESIONES DEL GOBIERNO. Fijaremos por ley el mandato del presidente del INE y limitaremos su cese anticipado a causas tasadas.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "78",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mandato legal del presidente del INE y cese tasado",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Aseguraremos la independencia de sus métodos, calendarios y publicaciones.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "78",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Independencia de métodos, calendarios y publicaciones del INE",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EL CONSEJO DE ESTADO SERVIRÁ AL ESTADO, NO A LOS PARTIDOS POLÍTICOS. Modificaremos los requisitos para nombrar a su presidente: no podrán ser elegidos aquellos candidatos que en los últimos cinco años hayan ocupado puestos como cargo electo, miembro de gobiernos o cargo orgánico en un partido político u organización sindical o empresarial.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "79",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Requisitos para presidir el Consejo de Estado",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El candidato a presidente comparecerá en el Congreso de los Diputados con carácter previo a su nombramiento, y se emitirá un dictamen sobre su idoneidad y la ausencia de conflictos de intereses.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "79",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comparecencia previa del candidato a presidir el Consejo de Estado",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, potenciaremos su papel: el Consejo de Estado dictaminará antes de su aprobación todos los anteproyectos de ley orgánica y publicará sus dictámenes.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "79",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Dictamen del Consejo de Estado sobre todos los anteproyectos de ley orgánica",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EL TRIBUNAL DE CUENTAS FISCALIZARÁ EN TIEMPO ÚTIL, NO CUANDO YA SEA TARDE. Afianzaremos su independencia, profesionalidad y capacidad técnica para que pueda detectar irregularidades y exigir responsabilidades con mayor rapidez.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "80",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de la independencia y capacidad del Tribunal de Cuentas",
+      "etiquetas": [
+        "instituciones",
+        "gasto público",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tendrá acceso en tiempo real a los datos de contratación, subvenciones, financiación política y grandes transferencias de fondos públicos.",
+      "pagina": 33,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "80",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acceso en tiempo real del Tribunal de Cuentas a datos públicos",
+      "etiquetas": [
+        "instituciones",
+        "gasto público",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dotaremos de mayor transparencia y publicidad a sus decisiones.",
+      "pagina": 34,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "80",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más transparencia en las decisiones del Tribunal de Cuentas",
+      "etiquetas": [
+        "instituciones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LOS ÁRBITROS SERÁN INDEPENDIENTES. Aprobaremos un marco común de gobernanza para los reguladores y las autoridades independientes, como el Banco de España, la CNMC, la CNMV, la AIReF y la Agencia Española de Protección de Datos.",
+      "pagina": 34,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "81",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Marco común de gobernanza para reguladores y autoridades independientes",
+      "etiquetas": [
+        "instituciones",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sus máximos responsables serán elegidos entre profesionales independientes de acreditado prestigio que no hayan ejercido recientemente cargos políticos.",
+      "pagina": 34,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.3 El poder no controlará a quien lo vigila"
+      ],
+      "numero": "81",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Responsables de reguladores sin cargos políticos recientes",
+      "etiquetas": [
+        "instituciones",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LOS CORRUPTOS DEVOLVERÁN LO ROBADO. Restableceremos las penas por malversación.",
+      "pagina": 34,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.4 La política nunca será un negocio"
+      ],
+      "numero": "82",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Restablecimiento de las penas por malversación",
+      "etiquetas": [
+        "corrupción",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Reforzaremos la Oficina de Recuperación y Gestión de Activos para localizar y administrar los bienes procedentes de los delitos que se hayan cometido.",
+      "pagina": 34,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.4 La política nunca será un negocio"
+      ],
+      "numero": "82",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de la Oficina de Recuperación y Gestión de Activos",
+      "etiquetas": [
+        "corrupción",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporaremos sin demora a la legislación española el marco penal europeo contra la corrupción para reforzar la persecución de estos delitos y el castigo a sus responsables.",
+      "pagina": 34,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.4 La política nunca será un negocio"
+      ],
+      "numero": "82",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incorporación del marco penal europeo contra la corrupción",
+      "etiquetas": [
+        "corrupción",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "NINGÚN EURO PÚBLICO QUEDARÁ FUERA DE CONTROL. Implantaremos un sistema único e interoperable de trazabilidad digital de los contratos, las subvenciones y las grandes transferencias de fondos públicos de todas las administraciones, que identifique a los beneficiarios reales de las empresas adjudicatarias.",
+      "pagina": 34,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.4 La política nunca será un negocio"
+      ],
+      "numero": "84",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sistema único de trazabilidad digital de contratos y subvenciones",
+      "etiquetas": [
+        "corrupción",
+        "transparencia",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos los controles de conflictos de interés, la protección efectiva de los informantes y el cruce de información entre órganos de control para detectar irregularidades con mayor rapidez.",
+      "pagina": 34,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.4 La política nunca será un negocio"
+      ],
+      "numero": "84",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de controles de conflictos de interés y protección de informantes",
+      "etiquetas": [
+        "corrupción",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA INFORMACIÓN PÚBLICA NO SE OCULTARÁ SIN JUSTIFICACIÓN. Transformaremos el Consejo de Transparencia y Buen Gobierno en una Autoridad Independiente de Transparencia y Buen Gobierno, que absorberá también la Oficina de Conflictos de Intereses, con capacidad efectiva para hacer cumplir sus resoluciones y sancionar los incumplimientos.",
+      "pagina": 34,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.4 La política nunca será un negocio"
+      ],
+      "numero": "85",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Autoridad Independiente de Transparencia con capacidad ejecutiva y sancionadora",
+      "etiquetas": [
+        "transparencia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Exigiremos que toda denegación de información esté motivada de forma expresa.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.4 La política nunca será un negocio"
+      ],
+      "numero": "85",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Motivación expresa de toda denegación de información pública",
+      "etiquetas": [
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA POLÍTICA VOLVERÁ AL PARLAMENTO. Devolveremos a las Cortes su posición central en la política española, su prestigio y el pleno ejercicio de sus funciones, revirtiendo la deriva presidencialista de los últimos años. Gobernaremos con lealtad institucional y respeto a la división de poderes.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "86",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Devolver a las Cortes su posición central",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LAS LEYES SE DEBATIRÁN SIN TRAMPAS NI ATAJOS. Reformaremos los Reglamentos del Congreso y del Senado para limitar las prórrogas sucesivas de los plazos, de modo que sus Mesas no puedan bloquear una ley alargándolos injustificadamente ni vaciar el debate acortándolos a conveniencia.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "87",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de los Reglamentos de las Cámaras sobre prórrogas de plazos",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "No se admitirán enmiendas ajenas al contenido de las leyes.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "87",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inadmisión de enmiendas ajenas al contenido de las leyes",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada ley explicará el coste que impone a ciudadanos y empresas.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "87",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Explicación del coste de cada ley para ciudadanos y empresas",
+      "etiquetas": [
+        "instituciones",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las que no cumplan su objetivo se corregirán o se derogarán.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "87",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Corrección o derogación de leyes que no cumplan su objetivo",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las decisiones de las Mesas serán públicas.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "87",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicidad de las decisiones de las Mesas de las Cámaras",
+      "etiquetas": [
+        "instituciones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos los servicios jurídicos de las Cámaras y exigiremos que las Mesas motiven cualquier decisión que se aparte de sus informes.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "87",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Refuerzo de servicios jurídicos parlamentarios y motivación de las Mesas",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las solicitudes de reconsideración deberán resolverse antes de la finalización de la tramitación de la ley a la que afecten.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "87",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazo para resolver las solicitudes de reconsideración parlamentarias",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fijaremos, además, plazos máximos para tramitar, debatir y votar en el Congreso las proposiciones de ley remitidas por el Senado.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "87",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazos máximos en el Congreso para proposiciones de ley del Senado",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA EXCEPCIÓN VOLVERÁ A SER SÓLO UNA EXCEPCIÓN. Reservaremos el decreto-ley a situaciones verdaderamente extraordinarias y urgentes.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "88",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Decreto-ley solo para situaciones extraordinarias y urgentes",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No podrá aprobarse otro con el contenido sustancial de uno rechazado por el Congreso durante el mismo periodo de sesiones.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "88",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de repetir un decreto-ley rechazado por el Congreso",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Limitaremos también el recurso a la urgencia, la lectura única y los procedimientos excepcionales que reducen el debate parlamentario.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "88",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Límites a la urgencia, la lectura única y procedimientos excepcionales",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La falta de apoyos o la conveniencia del Gobierno no justificarán eludir la deliberación de las Cortes.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "88",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a eludir la deliberación parlamentaria por conveniencia del Gobierno",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EL GOBIERNO NO PODRÁ ESQUIVAR EL CONTROL DE LAS CORTES. Aseguraremos que el presidente y los miembros del Gobierno atiendan sin subterfugios las comparecencias acordadas por el Congreso y el Senado en el plazo que fijen sus Reglamentos.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "89",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comparecencias obligatorias del Gobierno ante las Cortes en plazo",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cualquier imposibilidad de asistencia deberá justificarse con razones concretas, suficientes y debidamente acreditadas.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "89",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Justificación acreditada de las ausencias a comparecencias parlamentarias",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El incumplimiento injustificado tendrá consecuencias parlamentarias expresamente previstas en los Reglamentos.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "89",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Consecuencias parlamentarias por incumplir comparecencias sin justificación",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El debate sobre el Estado de la Nación se celebrará en cada año completo de legislatura.",
+      "pagina": 35,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "89",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Debate anual sobre el Estado de la Nación",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LAS LEYES SE HARÁN A LA VISTA DE TODOS. Regularemos la actividad de los lobbies ante el Gobierno y las Cortes.",
+      "pagina": 36,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "90",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Regulación de la actividad de los lobbies",
+      "etiquetas": [
+        "transparencia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos un Registro Nacional público y obligatorio, dependiente de la Autoridad Independiente de Transparencia, en el que conste a quién representa cada grupo de interés.",
+      "pagina": 36,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "90",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro nacional público y obligatorio de grupos de interés",
+      "etiquetas": [
+        "transparencia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LOS SECRETOS OFICIALES TENDRÁN LÍMITES Y FECHA DE CADUCIDAD. Sustituiremos la Ley de Secretos Oficiales de 1968 por una nueva regulación con criterios claros para clasificar información, plazos máximos de desclasificación y control judicial efectivo.",
+      "pagina": 36,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "91",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva ley de secretos oficiales con plazos de desclasificación",
+      "etiquetas": [
+        "transparencia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La información reservada deberá responder a una necesidad real de protección de la seguridad y los intereses del Estado, no a la conveniencia de quien gobierna.",
+      "pagina": 36,
+      "apartado": [
+        "02 Regenerar la democracia",
+        "2.5 El Parlamento volverá a hacer buenas leyes y a controlar al Gobierno"
+      ],
+      "numero": "91",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La información reservada debe responder a la seguridad del Estado",
+      "etiquetas": [
+        "transparencia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

@@ -1,0 +1,4016 @@
+{
+  "partido": "podemos",
+  "actualizado": "2026-11-11",
+  "fuentes": [
+    "podemos-documento-politico-2025",
+    null
+  ],
+  "resumen": {
+    "vigentes": 160,
+    "medidas": 100,
+    "medidas_concretas": 66,
+    "posiciones": 60,
+    "exactas": 104,
+    "normalizadas": 0,
+    "sustituidas": 0
+  },
+  "citas": [
+    {
+      "id": "c-4e62cd380d",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Al avance del fascismo se le combate y se le frena, como hiciera el 15M durante años, señalando y focalizando la lucha social contra los verdaderos enemigos de la sociedad, contra los verdaderos culpables de la situación de precariedad y degradación existencial existente en la vida de muchas personas, así como con políticas claras y pedagógicas que sean capaces de generar más avances sociales, más derechos, más igualdad y una sociedad más segura, acogedora e inclusiva para todos, todas y todes.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 5,
+      "numero": null,
+      "apartado_original": [
+        "De la ola revolucionaria a la ola reaccionaria: las dos respuestas posibles a la crisis del capitalismo"
+      ],
+      "nota": "Frenar a la extrema derecha con más derechos sociales",
+      "etiquetas": [
+        "ideología",
+        "derechos y libertades"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-eb21de4331",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Sin embargo, en vez de optar por el camino de la paz y de los derechos humanos, las élites actuales de la Unión Europea han elegido la senda dictada por la OTAN de destinar ingentes cantidades de recursos públicos al aumento del gasto en armamento, detrayendo así, obviamente, esas mismas cantidades de los servicios públicos y la protección social. Porque cada euro que destinamos a armas y tanques es un euro que no destinamos a médicas y profesores.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 7,
+      "numero": null,
+      "apartado_original": [
+        "La Unión Europea ante la ola reaccionaria"
+      ],
+      "nota": "Rechazo al aumento del gasto militar en la Unión Europea",
+      "etiquetas": [
+        "defensa",
+        "gasto público",
+        "unión europea"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-85b92f740c",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "En este nuevo ciclo es vital, no solamente para España, sino también para el conjunto de Europa, que ganen fuerza los movimientos populares y las opciones políticas que, frente al régimen de guerra, apostamos por la paz, la defensa de los derechos humanos y de la vida, el feminismo y los cuidados o la protección de la casa común, toda vez que no existe un planeta B.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 8,
+      "numero": null,
+      "apartado_original": [
+        "La Unión Europea ante la ola reaccionaria"
+      ],
+      "nota": "Prioridad a la paz, derechos humanos, feminismo y ecología",
+      "etiquetas": [
+        "política exterior",
+        "derechos humanos",
+        "medio ambiente"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-a99263fb26",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Frente a unas élites que parecen haber olvidado el horror xenófobo que tuvo lugar en la primera mitad del siglo XX en la península europea, nosotras sí tenemos memoria, nosotras sí defendemos los derechos humanos de todas las personas y nosotras sí decimos que ningún ser humano es ilegal.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 8,
+      "numero": null,
+      "apartado_original": [
+        "La Unión Europea ante la ola reaccionaria"
+      ],
+      "nota": "Defensa de los derechos humanos de las personas migrantes",
+      "etiquetas": [
+        "inmigración",
+        "derechos humanos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-23c4ab7bb5",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Nunca debemos olvidar, además, que nuestras victorias están en constante disputa, y por eso nuestra tarea ahora es garantizar la implementación de los últimos avances, no dar ni un paso atrás en derechos conquistados y, lo más importante, ampliarlos.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 14,
+      "numero": null,
+      "apartado_original": [
+        "Pues al final sí que se podía"
+      ],
+      "nota": "Aplicar, mantener y ampliar los derechos ya aprobados",
+      "etiquetas": [
+        "derechos y libertades"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-8aef20d7ce",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Nosotras y nosotros seguimos aspirando a que España se convierta en una verdadera democracia en la que mande la gente y no los que manejan el dinero y nunca se presentan a las elecciones. Por eso queremos volver a poner en pie a la izquierda, para poder aplicar las políticas que nos permitan redistribuir de manera definitiva la riqueza en nuestro país, hasta que la élite económica que explota y asfixia a nuestro pueblo para obtener beneficios millonarios simplemente desaparezca.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 18,
+      "numero": null,
+      "apartado_original": [
+        "Quién manda aquí: los verdaderos adversarios"
+      ],
+      "nota": "Redistribución de la riqueza como objetivo político",
+      "etiquetas": [
+        "economía",
+        "ideología"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-5346967975",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Del mismo modo, es incomprensible que el PSOE todavía hoy no haya explicado si va a responder con su patrimonio de todo lo que se llevaron los corruptos que ellos mismos eligieron porque, a juicio de Podemos, quienes incurren en delitos de corrupción tienen que devolver hasta el último euro robado.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 22,
+      "numero": null,
+      "apartado_original": [
+        "Del gobierno de coalición al gobierno de Sánchez"
+      ],
+      "nota": "Devolución íntegra de lo sustraído por corrupción",
+      "etiquetas": [
+        "corrupción"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-d752e95474",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Hay muchas cosas, como exigir un embargo total de armas a Israel o reclamar avances feministas, que ya sólo pelea Podemos y que jamás habríamos podido impulsar en un grupo parlamentario — como es el de Sumar— que vetaba de forma sistemática nuestras iniciativas y que no dejaba hablar a nuestras portavoces.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 23,
+      "numero": null,
+      "apartado_original": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "nota": "Embargo total de armas a Israel",
+      "etiquetas": [
+        "política exterior",
+        "defensa"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-a981b08ed1",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "nosotras somos aquellas que defendemos con más fuerza unos servicios públicos universales y de calidad en contraposición a un régimen de guerra que destina obscenas cantidades de dinero público no a proteger a la ciudadanía sino a la fabricación de dispositivos para matar, una reforma fiscal verdaderamente ambiciosa que haga pagar más a los de arriba para poder financiarlos",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 25,
+      "numero": null,
+      "apartado_original": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "nota": "Servicios públicos frente a gasto militar y reforma fiscal progresiva",
+      "etiquetas": [
+        "servicios públicos",
+        "impuestos",
+        "defensa"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-381a4d6bc5",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "los avances feministas y de derechos LGTBIQ+ más potentes del mundo para construir una sociedad en la que nadie sea más que nadie y en la que los cuidados están repartidos",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 25,
+      "numero": null,
+      "apartado_original": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "nota": "Avances feministas y de derechos LGTBI, en la enumeración de lo que dice defender",
+      "etiquetas": [
+        "igualdad",
+        "lgtbi"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-16f289564d",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "un ordenamiento jurídico y social en el que migrar sea un derecho, el racismo un oscuro recuerdo del pasado y en el que ningún ser humano sea ilegal",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 25,
+      "numero": null,
+      "apartado_original": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "nota": "Migrar como derecho, en la enumeración de lo que dice defender",
+      "etiquetas": [
+        "inmigración",
+        "derechos humanos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-1ad185b0af",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "nosotras somos las que tenemos la valentía necesaria para garantizar el derecho a una vivienda digna para todas y cada una de las familias de nuestro país arrebatando a los grandes caseros y a los especuladores rentistas la capacidad de lucrarse con la vida de la gente",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 25,
+      "numero": null,
+      "apartado_original": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "nota": "Garantizar vivienda limitando el negocio de grandes propietarios",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-55fb716ba4",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "una transición ecológica con componente de clase que no olvide que son los ricos y las grandes empresas petroleras y energéticas los que más contaminan y más huella de carbono tienen",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 25,
+      "numero": null,
+      "apartado_original": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "nota": "Transición ecológica centrada en los grandes emisores, en la enumeración de lo que dice defender",
+      "etiquetas": [
+        "medio ambiente",
+        "energía"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-3f83977f88",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "una democratización profunda de todos aquellos poderes fácticos que no se presentan a las elecciones —como las fuerzas de seguridad, el poder judicial o el poder mediático— para poder hacer viable todo lo anterior y para caminar con paso firme hacia una República en la que nadie esté por encima de la ley, en la que todo el mundo tenga derecho a una vida digna y en la que todos los pueblos de España puedan decidir democráticamente su futuro",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 25,
+      "numero": null,
+      "apartado_original": [
+        "Nos tumbaron, pero nos volvimos a levantar: y ahora, ¿qué hacemos?"
+      ],
+      "nota": "Democratizar los poderes no electos y avanzar hacia una república, en la enumeración de lo que dice defender",
+      "etiquetas": [
+        "instituciones",
+        "justicia",
+        "organización territorial"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-a69fdea240",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "En estos años hemos visto con especial crudeza como son los poderes con menos controles democráticos, el mediático, el económico y el judicial, donde más fácilmente se atrincheran los sectores reaccionarios para mandar sin presentarse a las elecciones. Democratizar esos poderes es un imperativo democrático de nuestro tiempo.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 28,
+      "numero": null,
+      "apartado_original": [
+        "Una izquierda orgullosa de serlo, autónoma y no intervenida por el PSOE para poder llevar a cabo transformaciones"
+      ],
+      "nota": "Democratizar los poderes mediático, económico y judicial",
+      "etiquetas": [
+        "justicia",
+        "medios de comunicación",
+        "instituciones"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-d8c8cd7a6d",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Es esencial reconocer la vivienda como un derecho y no como un negocio y eso requiere de una intervención integral.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 31,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "La vivienda como derecho y no como negocio",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-43c324672d",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "La solución no está en construir más, ni en el pelotazo urbanístico que nos llevó a la crisis de 2008.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 31,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Rechazo a construir más vivienda como solución",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-1c0b9a0dbe",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Hay que hacer frente a los bancos, fondos buitre, promotores inmobiliarios, rentistas y demás especuladores, obligándoles a sacar su vivienda al mercado.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 31,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Obligar a grandes propietarios a sacar viviendas al mercado",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-c3674c05e5",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Por un lado, es urgente implementar una regulación contundente de los precios del alquiler, bajándolos un 40% en el conjunto del Estado como medida de choque.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 31,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Bajar un 40% los precios del alquiler",
+      "etiquetas": [
+        "vivienda",
+        "coste de la vida"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-d4ec6fbd3e",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Al mismo tiempo, y para evitar que los rentistas decidan retirar del mercado del alquiler residencial sus pisos, hay que prohibir la utilización de las viviendas como piso turístico.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 31,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Prohibir el uso de viviendas como piso turístico",
+      "etiquetas": [
+        "vivienda",
+        "turismo"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-029fbb2df1",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Además, hay que establecer sanciones ejemplarizantes a aquellos que utilicen en fraude la modalidad del alquiler de temporada.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 31,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Sanciones por fraude en el alquiler de temporada",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-6ee1c6fad6",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Para evitar fugas especulativas adicionales, hay que poner un impuesto a las viviendas vacías.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 31,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Impuesto a las viviendas vacías",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-2928d9c44b",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "También hay que establecer una moratoria inmediata a la compra de vivienda que no sea para vivir en ella, para que un pariente cercano viva en ella, o para uso residencial como segunda vivienda.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 31,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Moratoria a la compra de vivienda no destinada a residencia",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-d77b33f342",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Asimismo, hay que establecer un máximo de viviendas en propiedad para cada persona física y jurídica del país como ya demanda la mayoría de la población según las encuestas.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 31,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Límite de viviendas en propiedad por persona física y jurídica",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-704bfb22d3",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Estas políticas deben ser combinadas con un rápido aumento del parque público de alquiler social, que se deberá incrementar mediante la expropiación del uso del 50% de las viviendas en manos de grandes tenedores, así como de la puesta en pie de un programa de compra masiva de viviendas en el mercado privado para incorporar al parque público aquellos pisos que ya no sean del interés de los rentistas.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 31,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Ampliar la vivienda pública con expropiación de uso y compra masiva",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-885b494f20",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Todo ello irá acompañado del establecimiento de una protección absoluta contra los desalojos sin alternativa habitacional de familias vulnerables, así como con la disolución de los comandos neonazis como Desokupa, que se dedican a hacer negocio mediante la criminalización de la pobreza y mediante la violencia.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 31,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Prohibir desalojos sin alternativa habitacional y disolver Desokupa",
+      "etiquetas": [
+        "vivienda",
+        "seguridad"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-3e7cab8ab9",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "En estos momentos, somos una de las poquísimas fuerzas políticas en España que se oponen contundentemente al aumento del gasto militar y la única de ámbito estatal.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 32,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Oposición al aumento del gasto militar",
+      "etiquetas": [
+        "defensa"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-11ff4fccb4",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Por todo ello, y porque no es compatible con la vida habitar en un mundo en el que la violencia bélica es aceptada como forma de dirimir los conflictos, como no es viable aceptar un esquema de relaciones internacionales que no cumpla con los derechos humanos, desde Podemos abogamos por cesar inmediatamente el seguidismo español y de la Unión Europea a la voluntad imperialista de los Estados Unidos a través de la OTAN y lo decimos con toda claridad.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 33,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Rechazo a seguir la política de Estados Unidos y la OTAN",
+      "etiquetas": [
+        "política exterior",
+        "defensa"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-c25752eab1",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Hay que abandonar la OTAN a la mayor brevedad y hay que desacatar la orden de Donald Trump de aumentar el gasto militar en Europa.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 33,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Salir de la OTAN y no aumentar el gasto militar",
+      "etiquetas": [
+        "defensa",
+        "política exterior"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-2104d71785",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Por supuesto, desde Podemos defendemos la ruptura inmediata de todas las relaciones diplomáticas y comerciales con el estado genocida de Israel y, en particular, un embargo a la compra y a la venta de armamento a dicho país.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 33,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Romper relaciones con Israel y embargo de armas",
+      "etiquetas": [
+        "política exterior",
+        "defensa"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-3f09e6e5d6",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Por supuesto, una fuerza como la nuestra también sabe que es indispensable, para poder avanzar hacia un orden internacional diferente, que nuestro país sea capaz de establecer alianzas con los pueblos hermanos de América Latina, una zona que, por innumerables motivos históricos, culturales y también comerciales debería ser una de las más absolutas prioridades para nuestro país.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 33,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Prioridad a las alianzas con América Latina",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-99a4a9a4e8",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Al mismo tiempo, es hora de establecer unas relaciones internacionales de igual a igual con los diferentes pueblos de África y abandonar de una vez por todas la visión eurocéntrica, cada vez más escorada hacia el racismo y la xenofobia.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 33,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Relaciones de igual a igual con los países africanos",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-42f1235bae",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Para nosotras, migrar es un derecho humano. Para nosotras, ninguna persona es ilegal.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 34,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "La migración como derecho humano",
+      "etiquetas": [
+        "inmigración",
+        "derechos humanos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-e349f391c7",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Para nosotras, todas las vecinas y vecinos que viven y trabajan con nosotras en España tienen que ser no solamente regularizados inmediatamente sino que, además, se les deben conceder la nacionalidad española mediante un procedimiento exprés de carta de naturaleza —si se puede hacer con deportistas de élite, también se puede hacer con familias trabajadoras— aprobado por el Consejo de Ministros.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 34,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Regularización inmediata y nacionalidad por carta de naturaleza",
+      "etiquetas": [
+        "inmigración",
+        "nacionalidad"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-392de48155",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Quien vive, trabaja y ama en España, tiene que tener DNI español y derecho al voto.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 34,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "DNI y derecho al voto para residentes extranjeros",
+      "etiquetas": [
+        "inmigración",
+        "nacionalidad",
+        "elecciones"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-7ba1d11800",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Por eso, todos los servicios públicos y todos los derechos de ciudadanía tienen que ser universales para todos los seres humanos que viven en España sin ningún tipo de distinción.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 34,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Servicios públicos universales para todos los residentes",
+      "etiquetas": [
+        "inmigración",
+        "servicios públicos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-acaf170cdc",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Por eso, defendemos la derogación de la ley de extranjería y el cierre de los Centros de Internamiento para Extranjeros (CIE), queremos el fin de las redadas racistas y que ninguna persona que denuncie un delito de odio o racismo se juegue la deportación.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 34,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Derogar la ley de extranjería, cerrar los CIE y proteger a denunciantes",
+      "etiquetas": [
+        "inmigración",
+        "derechos humanos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-1bbff85df1",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Por eso, vamos a trabajar en Europa sin descanso para derogar el Pacto Europeo de Migración y Asilo y defender políticas que garanticen derechos y dignidad en lugar de control y restricciones.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 34,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Derogar el Pacto Europeo de Migración y Asilo",
+      "etiquetas": [
+        "inmigración",
+        "asilo",
+        "unión europea"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-10c1148dfd",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "La brújula feminista es, sin duda, uno de los principales vectores ideológicos que recorren toda nuestra acción política y nuestro programa.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "El feminismo como eje del programa",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-e08e6cb31b",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Entre las tareas pendientes, podemos mencionar la erradicación de todas las violencias machistas desde una perspectiva interseccional",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Erradicar las violencias machistas",
+      "etiquetas": [
+        "violencia machista"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-de0405e29a",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "seguir avanzando en la contabilización precisa de todos los feminicidios, sean del tipo que sean",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Contabilizar todos los tipos de feminicidio",
+      "etiquetas": [
+        "violencia machista"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-d4817a4f34",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "desplegar todos los recursos recogidos en el Pacto de Estado contra la Violencia de Género, incluida la financiación de los servicios de atención a víctimas",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Desplegar los recursos del Pacto de Estado contra la Violencia de Género",
+      "etiquetas": [
+        "violencia machista",
+        "violencia de género"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-ecb093bfa6",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "implementar todas y cada una de las medidas que contiene la ley solo sí es sí",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Aplicar íntegramente la ley de libertad sexual",
+      "etiquetas": [
+        "violencia machista"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-72566a67c1",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "seguir caminando hacia un horizonte de abolición de la prostitución, pero siempre teniendo en cuenta que la prostitución ha sido y es una estrategia de supervivencia femenina y, por lo tanto, dicho camino tiene que ir acompañado de las garantías para que todas las mujeres puedan tener vidas dignas en el ámbito material",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Avanzar hacia la abolición de la prostitución con garantías materiales",
+      "etiquetas": [
+        "prostitución",
+        "igualdad"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-e6c84c1484",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "además, hay que prohibir el lucro de terceros para que nadie obtenga beneficio económico con la explotación sexual de las mujeres, así como regularizar a todas las personas mediante como una de las medidas más eficaces para evitar que las mujeres estén obligadas a dedicarse a la prostitución o no puedan salir de ella.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Prohibir el lucro de terceros en la prostitución y regularización general",
+      "etiquetas": [
+        "prostitución",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-86dda43206",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Es también necesario dotar de la máxima protección institucional a las madres e implementar en toda la legislación y los protocolos que sean necesarios la idea básica de que ningún maltratador puede ser un buen padre.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Protección a las madres frente a padres maltratadores",
+      "etiquetas": [
+        "violencia machista",
+        "infancia",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-64704f1246",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Hay que formar a los operadores jurídicos en materia de igualdad y de feminismo para que, entre otras muchas cosas, dejen de utilizar conceptos machistas y anticientíficos como el síndrome de alienación parental.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Formación en igualdad de los operadores jurídicos",
+      "etiquetas": [
+        "justicia",
+        "igualdad"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-f58bb8eaf7",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Desde una perspectiva feminista, es preciso también avanzar en medidas que eviten la violencia política contra las las mujeres en el espacio público y político, así como trabajar para que las redes sociales estén libres de odio misógino, LGTBIQA+fóbico y racista.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Prevenir la violencia política contra mujeres y el odio en redes",
+      "etiquetas": [
+        "igualdad",
+        "lgtbi",
+        "derechos digitales"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-ad898b78cc",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "También es fundamental la diversidad de los cuerpos y luchar contra la violencia que se ejerce contra los cuerpos no normativos, como es el caso, por ejemplo, de la gordofobia.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Combatir la discriminación por el aspecto físico",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-5ac935f195",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Aunque se ha conseguido y se ha ampliado en la legislatura pasada el derecho al aborto, hace falta todavía garantizar que este derecho se cumple y que se puede acudir a él en el sistema público de sanidad",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Garantizar el aborto en la sanidad pública",
+      "etiquetas": [
+        "sanidad",
+        "igualdad"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-3aa67c9cec",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "como los derechos sexuales y reproductivos son mucho más que el derecho al aborto, hay que seguir avanzando en medidas que garanticen la educación sexual, que combatan la pobreza menstrual, que nombren y pongan coto a la violencia obstétrica, pero también que persigan la explotación reproductiva que suponen los vientres de alquiler.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Educación sexual, pobreza menstrual, violencia obstétrica y gestación subrogada",
+      "etiquetas": [
+        "igualdad",
+        "educación",
+        "gestación subrogada"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-5d259fbe36",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Por ello, nosotras también defendemos que hay una manera de hacer política de vivienda que tiene perspectiva de género, que hay una forma de entender el urbanismo y la accesibilidad con la lógica feminista como brújula, que hay una brecha económica muy grande entre las mujeres y los hombres y que eso afecta a las pensiones, a los salarios o a la economía de los cuidados.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 35,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Perspectiva de género en vivienda, urbanismo y brecha económica",
+      "etiquetas": [
+        "igualdad",
+        "vivienda",
+        "urbanismo"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-91bbd22c2f",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "En este sentido, parte fundamental del proyecto político de Podemos —y del país feminista hacia el que queremos avanzar— es también el cuidado, extensión y reforzamiento de un sistema de servicios públicos de calidad y para todas.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Refuerzo de los servicios públicos",
+      "etiquetas": [
+        "servicios públicos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-7bf39c9db5",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "En nuestro proyecto de país, se tienen que derogar de forma inmediata todas las leyes que permiten la privatización de la sanidad, de la educación a todos los niveles, o del sistema de residencias.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Derogar las leyes que permiten privatizar sanidad, educación y residencias",
+      "etiquetas": [
+        "sanidad",
+        "educación",
+        "dependencia"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-2d36e44a7b",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Al tiempo que se retira de las manos de los intereses capitalistas aquellos servicios de los que depende la dignidad vital de las grandes mayorías de nuestro país, es perentorio aumentar de forma muy significativa la financiación pública de los mismos.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Aumentar la financiación de los servicios públicos",
+      "etiquetas": [
+        "servicios públicos",
+        "gasto público"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-784890733e",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "En vez de aumentar el gasto en armamento, como ha hecho el gobierno de Sánchez a lo largo de esta legislatura y como pretende hacer todavía más, lo que hay que hacer es aumentar las partidas en sanidad, educación y cuidados.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Más gasto en sanidad, educación y cuidados en vez de armamento",
+      "etiquetas": [
+        "gasto público",
+        "sanidad",
+        "educación"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-04038290da",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "reforzar la atención primaria y garantizar la atención en el medio rural",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Reforzar la atención primaria y la sanidad rural",
+      "etiquetas": [
+        "sanidad",
+        "medio rural"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-876afd26f2",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "reducir al mínimo las listas de espera sanitaria",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Reducir las listas de espera sanitarias",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-a2b2850292",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "bajar las ratios en los colegios e institutos",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Reducir el número de alumnos por aula",
+      "etiquetas": [
+        "educación"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-dfdc3172d8",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "garantizar que la educación universitaria no sea un privilegio de unos pocos",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Acceso general a la universidad",
+      "etiquetas": [
+        "universidad"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-3a2da0dfcf",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "dar cobertura pública universal y gratuita a la educación infantil de 0 a 3 años",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Educación infantil de 0 a 3 años pública y gratuita",
+      "etiquetas": [
+        "educación",
+        "infancia",
+        "conciliación"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-167176eea2",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "garantizar, entre otras cosas, la asistencia suficiente para todas las personas dependientes de todas las edades y sean cuales sean sus circunstancias vitales.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Atención suficiente a todas las personas dependientes",
+      "etiquetas": [
+        "dependencia"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-4d786717a1",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Para ello, por supuesto, es indispensable llevar a cabo una reforma fiscal que haga que las grandes empresas y las grandes fortunas de este país paguen de una vez lo que tienen que pagar.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Reforma fiscal sobre grandes empresas y fortunas",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-86ac06e8c2",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Hace falta aprobar un verdadero impuesto a los grandes patrimonios",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Impuesto a los grandes patrimonios",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-3c9161660b",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "establecer de forma efectiva un tipo impositivo mínimo en el impuesto de sociedades que evite, como ocurre ahora, que las grandes corporaciones tributen menos porcentualmente que una pyme",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Tipo mínimo efectivo en el impuesto de sociedades",
+      "etiquetas": [
+        "impuestos",
+        "empresas"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-71cddcd1f1",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "hay que aprobar impuestos extraordinarios por encima del tipo habitual a aquellos sectores empresariales y oligopólicos que obtienen unos beneficios desproporcionados al tiempo que se aprovechan de las economías familiares —como puede ser la banca o las grandes energéticas—",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 36,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Impuestos extraordinarios a banca y energéticas",
+      "etiquetas": [
+        "impuestos",
+        "empresas",
+        "energía"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-2ba3bd5a8a",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "hay que implementar, en particular, un impuesto a los beneficios extraordinarios de las empresas del IBEX que alcance el 50% de los mismos sin olvidar que repartieron un récord de 40.000 millones en dividendos en el año 2024",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 37,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Impuesto del 50% a beneficios extraordinarios del IBEX",
+      "etiquetas": [
+        "impuestos",
+        "empresas"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-f16b92363d",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "hay que igualar los rendimientos del capital a los rendimientos del trabajo en el IRPF porque no puede ser que salga más barato tener millones de euros en acciones que cobrar un salario",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 37,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Igualar en el IRPF rentas del capital y del trabajo",
+      "etiquetas": [
+        "impuestos",
+        "ahorro"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-0d7f8e9334",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "hay que reforzar de forma significativa las plantillas de la Agencia Tributaria para perseguir con mayor eficacia el fraude fiscal, mayoritariamente localizado en las capas de ingresos más altos.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 37,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Más personal en la Agencia Tributaria contra el fraude",
+      "etiquetas": [
+        "impuestos",
+        "función pública"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-c27806ca29",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Si de verdad queremos tener unos servicios públicos universales y de calidad que sean dignos de lo que merece nuestro pueblo, es indispensable aumentar la recaudación del Estado y esto no se puede hacer aumentando los impuestos a la clase trabajadora, a los autónomos o a las pymes, sino que tiene que hacerse aumentando los impuestos a los de arriba.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 37,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Más recaudación con impuestos a rentas altas, no a trabajadores",
+      "etiquetas": [
+        "impuestos",
+        "servicios públicos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-feefe0055e",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Por supuesto, no podemos olvidar tampoco la necesidad de mejorar los salarios y las pensiones en nuestro país, aumentando muy específicamente el salario mínimo y las pensiones contributivas más bajas, así como las pensiones no contributivas de forma que ninguna pensión sea inferior al SMI, protegiendo además el sistema público de pensiones de la voracidad del capitalismo de depredador.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 37,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Ninguna pensión por debajo del salario mínimo interprofesional",
+      "etiquetas": [
+        "pensiones",
+        "empleo"
+      ],
+      "temas": [
+        "pensiones",
+        "empleo"
+      ],
+      "temas_manual": [
+        "pensiones",
+        "empleo"
+      ],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-3114014229",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "No podemos tampoco olvidar la necesidad de aumentar el ingreso mínimo vital y reducir su burocracia, ampliando el número de personas cubiertas y evitando que ninguna familia viva en la pobreza, como primera fase para caminar hacia una futura renta básica incondicional.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 37,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Ampliar el ingreso mínimo vital hacia una renta básica",
+      "etiquetas": [
+        "servicios sociales",
+        "seguridad social"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-1b830eb908",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Hay que mejorar los ingresos de las familias y también hay que trabajar a brazo partido para reducir sus gastos más importantes.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 37,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Subir ingresos y reducir gastos de las familias",
+      "etiquetas": [
+        "coste de la vida"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-bd5ff8f755",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "En este sentido, es indispensable una intervención del mercado eléctrico para acabar de una vez y para siempre con la fijación de precios marginalistas, prácticamente una estafa, y establecer un sistema de subasta que tenga que ver con el coste de producción de cada megavatio-hora.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 37,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Sustituir el precio marginalista de la electricidad por coste de producción",
+      "etiquetas": [
+        "energía",
+        "coste de la vida"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-46bc6498db",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Del mismo modo, hay que intervenir los márgenes de beneficio de la alimentación para evitar lo que hemos visto en los últimos años, en los que se ha combinado una inflación absolutamente desbocada con un aumento de los beneficios de las grandes cadenas de supermercados, como Mercadona. Esta intervención, por supuesto, ha de hacerse garantizando la sostenibilidad económica tanto de los pequeños comercios como de los pequeños y medianos productores familiares y tradicionales del sector primario español.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 37,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Intervenir los márgenes de beneficio en la alimentación",
+      "etiquetas": [
+        "alimentación",
+        "coste de la vida",
+        "comercio"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-290ac297b8",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "En el ámbito de la transformación digital, se debe asumir la regulación de la Inteligencia Artificial, teniendo en cuenta su impacto en el medio ambiente y el empleo, prestando especial atención a los trabajos creativos.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 37,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Regular la inteligencia artificial protegiendo los trabajos creativos",
+      "etiquetas": [
+        "inteligencia artificial",
+        "empleo",
+        "medio ambiente"
+      ],
+      "temas": [
+        "ciencia-cultura-y-digital",
+        "empleo",
+        "medio-ambiente-y-energia"
+      ],
+      "temas_manual": [
+        "ciencia-cultura-y-digital",
+        "empleo",
+        "medio-ambiente-y-energia"
+      ],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-229ad7e3a6",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Si de verdad queremos frenar, a nivel planetario, las emisiones de gases de efecto invernadero que nos están llevando al borde del precipicio, es no solamente justo, sino también lo único verdaderamente eficaz obligar a los de arriba a que reduzcan sus emisiones y a que paguen por la transición que tenemos que hacer.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 38,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Que los más ricos reduzcan emisiones y paguen la transición",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-6798ce5b44",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Solamente si retribuimos cada megavatio-hora a un precio que tenga que ver con su coste de producción, las energías más contaminantes van a dejar de ser rentables y la propia lógica económica va a impulsar que tengamos un pool cien por ciento renovable más pronto que tarde. Esto, además, va a producir una factura de la luz mucho más justa, que todavía puede mejorarse si establecemos un pago progresivo según el consumo.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 38,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Precio eléctrico por coste de producción y tarifa progresiva",
+      "etiquetas": [
+        "energía",
+        "coste de la vida"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-62efb8a614",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "En todo caso, y mientras siga existiendo un oligopolio energético que obtiene beneficios milmillonarios a costa de los bolsillos de las familias, se tienen que aumentar los impuestos sobre sus beneficios y se deben utilizar los fondos públicos así obtenidos para acelerar la transición energética.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 38,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Más impuestos a las grandes energéticas para financiar la transición",
+      "etiquetas": [
+        "impuestos",
+        "energía"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-66556f1a7b",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Al mismo tiempo, es indispensable crear una empresa pública de energía que no solamente pueda competir de tú a tú con los gigantes privados, bajando así la factura, sino que además sirva para gestionar dicha transición de una manera social y territorialmente justa, poniendo el bien común como su principio director.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 38,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Crear una empresa pública de energía",
+      "etiquetas": [
+        "energía",
+        "empresas públicas"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-15ddc9ec43",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Por supuesto, hay que mantener y ampliar las bonificaciones al transporte urbano e interurbano, no solamente como medida de justicia social, sino también como una de las medidas más eficaces para descarbonizar el parque móvil.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 38,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Mantener y ampliar las bonificaciones al transporte público",
+      "etiquetas": [
+        "transporte",
+        "coste de la vida",
+        "medio ambiente"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-7e6489e2f3",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Para ir avanzando hacia un parque automovilístico cada vez más electrificado, se deben ampliar y mejorar las zonas de bajas emisiones en las ciudades y hay que aprobar un ambicioso plan de ayudas para que las familias con menos recursos y las personas trabajadoras que tengan que acceder al centro de nuestras grandes urbes puedan tener acceso a un coche eléctrico al mismo precio que les costaría su alternativa de gasolina o de diésel.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 38,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Zonas de bajas emisiones y ayudas al coche eléctrico",
+      "etiquetas": [
+        "transporte",
+        "medio ambiente",
+        "subvenciones"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-85cc7b0772",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Por el mismo motivo, se deben establecer importantes impuestos a todo tipo de vehículos y actividades de lujo que tengan una alta huella de carbono o que sean intensivos en el consumo de recursos naturales, como los campos de golf, los aviones privados, los coches de alta cilindrada o los yates.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 39,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Impuestos a vehículos y actividades de lujo contaminantes",
+      "etiquetas": [
+        "impuestos",
+        "medio ambiente"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-9fcecf3f86",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Además, hay que aprobar un paquete ambicioso de leyes que impida que los grandes fondos buitre internacionales se sigan quedando cada vez con más hectáreas de nuestro campo.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 39,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Leyes contra la compra de tierras por fondos de inversión",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio rural"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-4ff93229c3",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Es vital proteger y garantizar la sostenibilidad de las pequeñas y medianas producciones agrícolas y ganaderas de nuestro país, no solamente por un motivo de justicia social y de soberanía alimentaria, sino también por un motivo medioambiental.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 39,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Proteger la pequeña y mediana producción agraria",
+      "etiquetas": [
+        "agricultura y pesca",
+        "alimentación"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-4911c51cf0",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Si queremos que España sea sostenible hídricamente y que no tengamos que sufrir restricciones de riego y de agua potable debido a la sequía cada pocos años, es imperativo que arrebatemos los derechos extensivos de riego que están acaparando sistemáticamente los fondos especulativos.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 39,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Retirar derechos de riego a fondos de inversión",
+      "etiquetas": [
+        "agua",
+        "agricultura y pesca"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-42533b2142",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Es necesario transformar el sistema de producción y distribución de alimentos hacia un modelo agroecológico que reduzca la dependencia de energías fósiles y promueva la soberanía alimentaria.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 39,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Transición a un modelo agroecológico de alimentación",
+      "etiquetas": [
+        "alimentación",
+        "agricultura y pesca"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-83f0ee235c",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Desde la perspectiva ecofeminista que caracteriza a Podemos, se debe plantear un cambio radical del sistema económico y social, superando el capitalismo para garantizar la sostenibilidad y la justicia social.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 39,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Superar el capitalismo desde una perspectiva ecofeminista",
+      "etiquetas": [
+        "ideología",
+        "economía",
+        "medio ambiente"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-7b7e23e695",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Es clave incluir la perspectiva rural en todas las políticas y fortalecer los servicios públicos en estas zonas, como medida fundamental para luchar contra la despoblación.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 39,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Servicios públicos rurales contra la despoblación",
+      "etiquetas": [
+        "medio rural",
+        "despoblación",
+        "servicios públicos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-de1adf8548",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Además, y adoptando una visión amplia sobre lo que significa ser la especie más poderosa que habita este planeta, desde Podemos queremos seguir recorriendo ese camino que iniciamos en la legislatura pasada con la aprobación de las primeras leyes de protección animal de nuestro país, ampliando la misma a aquellos animales que aún siguen desprotegidos —como los perros de caza, tras el vergonzoso pacto entre el PSOE y VOX— e incorporando también nuevos derechos como la inclusión de la asistencia veterinaria gratuita y universal en el sistema público de salud.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 39,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Ampliar la protección animal y veterinaria pública gratuita",
+      "etiquetas": [
+        "bienestar animal",
+        "caza",
+        "sanidad"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-55cf246119",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Por último, no podemos olvidar que la única forma de poder llevar a cabo estos cambios profundos en nuestro país —o cualquier otro que se oriente en una dirección emancipadora y de expropiación del poder y los privilegios de los de arriba— será imposible o tendrá una vida muy corta si no va acompañado de profundas reformas políticas en el sistema democrático e institucional.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 39,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Necesidad de reformas profundas del sistema institucional",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-0b93a2fa2b",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Una fuerza política que tenga una verdadera voluntad de rediseñar las relaciones económicas de poder en nuestra sociedad, de garantizar una vida digna para todas las personas y de blindar los avances sociales para que no se puedan revertir, tiene también que defender con fiereza la democratización del poder judicial",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 40,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Democratizar el poder judicial",
+      "etiquetas": [
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-f11be70a75",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "la limitación drástica del control oligárquico de los medios de comunicación",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 40,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Limitar la concentración de la propiedad de los medios",
+      "etiquetas": [
+        "medios de comunicación"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-6c6af2f86c",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "el establecimiento de métodos habituales de participación ciudadana como los referéndums o los presupuestos participativos",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 40,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Referéndums y presupuestos participativos habituales",
+      "etiquetas": [
+        "participación ciudadana"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-8fa6e7fb70",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "las reformas profundas que sitúen a todos los cuerpos funcionariales del Estado — muy especialmente a aquellos que tienen el monopolio del uso de la fuerza— bajo control democrático y al servicio del interés general de su pueblo.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 40,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Control democrático de los cuerpos del Estado y la policía",
+      "etiquetas": [
+        "seguridad",
+        "función pública",
+        "instituciones"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-019d22a226",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Mientras siga existiendo la impunidad absoluta para jueces y periodistas corruptos, mientras la policía se siga utilizando para infiltrar movimientos sociales o para levantar falsos atestados contra activistas de izquierda, mientras siga habiendo Ley Mordaza, mientras se sigan creando comandos policiales como las cloacas que creó el PP, mientras siga siendo posible apretar botones de emergencia golpistas desde las zonas más oscuras del poder mediático y estatal cuando aparece una fuerza política como Podemos, el cambio social será imposible.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 40,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Control democrático de policía y judicatura como condición de cambio",
+      "etiquetas": [
+        "seguridad",
+        "justicia",
+        "instituciones"
+      ],
+      "temas": [
+        "seguridad-y-justicia",
+        "democracia-e-instituciones"
+      ],
+      "temas_manual": [
+        "seguridad-y-justicia",
+        "democracia-e-instituciones"
+      ],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-c5e5b1a81b",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Por eso, no podemos perder de vista la necesidad de impulsar la memoria democrática; porque la búsqueda de verdad, justicia, reparación y garantías de no repetición no solamente es una obligación de cualquier país mínimamente digno, sino también porque, además, el conocimiento de nuestra historia es la mejor brújula para llevar a cabo una democratización profunda en el presente.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 40,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Impulso de la memoria democrática",
+      "etiquetas": [
+        "memoria democrática"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-cd91a60343",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Es necesaria la recuperación de la memoria, junto a las entidades memorialistas, poner en el centro la inclusión de la memoria democrática en el ámbito educativo, de manera transversal, y señalar la pervivencia franquista en el sistema, a todos los niveles, desde la élite económica a los medios de comunicación, pero apuntando principalmente a las herramientas de control que se reservó el franquismo: monarquía, judicatura, fuerzas de seguridad.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 40,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Memoria democrática en la educación y con entidades memorialistas",
+      "etiquetas": [
+        "memoria democrática",
+        "educación"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-1a10c32093",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Es necesario, también, que se impulse el laicismo en las instituciones públicas, acabando con el concordato de la Santa Sede, y con los privilegios fiscales de la Iglesia Católica en nuestro país.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 40,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Fin del concordato y de los beneficios fiscales de la Iglesia",
+      "etiquetas": [
+        "laicidad",
+        "religión",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-cae22c9ca4",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Hay que apostar por una enseñanza pública de calidad, inclusiva y laica.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 40,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Enseñanza pública, inclusiva y laica",
+      "etiquetas": [
+        "educación",
+        "laicidad"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-4634b8497b",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Frente a ese proyecto de dirección de Estado, Podemos debe impulsar una dirección de Estado en clave Repúblicana y plurinacional.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 41,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Defensa de un Estado republicano y plurinacional",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "temas": [
+        "organizacion-territorial",
+        "democracia-e-instituciones"
+      ],
+      "temas_manual": [
+        "organizacion-territorial",
+        "democracia-e-instituciones"
+      ],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-3997b93950",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "la reforma valiente del sistema económico para garantizar de forma efectiva la libertad de las personas mediante una redistribución de la riqueza que permita acabar con las penurias materiales en las que viven millones de compatriotas",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 41,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Reformar el sistema económico para redistribuir la riqueza",
+      "etiquetas": [
+        "economía"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-201d0d978b",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "el reconocimiento del derecho a decidir de todos los pueblos que configuran nuestro país de países, algo que solamente Podemos, como fuerza política de ámbito estatal con voluntad y capacidad de gobernar, ha sido capaz de poner encima de la mesa con fuerza en los últimos años.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 41,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Reconocer el derecho de autodeterminación de los territorios",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "temas": [],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-fc214e826d",
+      "partido": "podemos",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Al mismo tiempo, la apuesta por un modelo confederal de soberanías compartidas es la única alternativa para una alianza estratégica que supere el malmenorismo como frágil pegamento de un bloque inviable si solo es bloque de investidura.",
+      "idioma": "es",
+      "fuente": "podemos-documento-politico-2025",
+      "pagina": 41,
+      "numero": null,
+      "apartado_original": [
+        "Un programa valiente y con claridad ideológica: hacia la República"
+      ],
+      "nota": "Propone un modelo confederal de soberanías compartidas",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "temas": [
+        "organizacion-territorial"
+      ],
+      "temas_manual": [
+        "organizacion-territorial"
+      ],
+      "fecha": "2025-04-07",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-7a9d94b886",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "bajar el precio de los alquileres, prohibir la especulación para que solamente se pueda comprar pisos para vivir y no para hacer negocio y topar los precios de los alimentos",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/pone-condiciones-investir-sanchez-bajar-alquileres-alimentos-prohibir-especulacion-vivienda_1_13643371.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-06",
+      "nota": "Condiciones para negociar una investidura con el PSOE",
+      "temas": [
+        "vivienda",
+        "economia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-9b42ba93cd",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Podemos expropiar el uso de las viviendas que, por miles, acumulan los fondos buitre",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/pone-condiciones-investir-sanchez-bajar-alquileres-alimentos-prohibir-especulacion-vivienda_1_13643371.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-06",
+      "nota": "Expropiar el uso de viviendas de fondos para alquiler social",
+      "temas": [
+        "vivienda"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-4ba4510e9e",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Una casa no se puede comprar si es para hacer negocio",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/montero-plantea-vetar-la-especulacion-y-expropiar-a-fondos-buitre-para-afrontar-la-crisis-de-vivienda/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-10-27",
+      "nota": "Entrevista en La Revuelta sobre vetar la compra especulativa",
+      "temas": [
+        "vivienda"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-9c50d19148",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Podemos va a rechazar con su voto cualquier regalo a los rentistas, porque lo que hay que hacer es intervenir y lo que está haciendo el Gobierno, lejos de ser una ayuda, es algo que sigue alimentando el negocio de la vivienda",
+      "idioma": "es",
+      "url": "https://www.bolsamania.com/noticias/empresas/video-economia--podemos-votara-en-contra-de-las-ayudas-fiscales-a-caseros-rechazaremos-cualquier-regalo-a-rentistas--21493122.html",
+      "medio": "Bolsamanía (Europa Press)",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos y portavoz en el Congreso",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-01-13",
+      "nota": "Voto en contra de ayudas fiscales en el IRPF a caseros",
+      "temas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-063cd51a57",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Alguien podría decir: es mejor eso que nada. Pero todo el mundo sabe que con 1.286 euros no se puede vivir",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/irene-montero-ve-insuficiente-la-subida-del-smi-y-reclama-elevarlo-hasta-los-1-800-euros/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-05",
+      "nota": "Ve insuficiente la subida del SMI; reclama 1.800 euros",
+      "temas": [
+        "empleo",
+        "economia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-cdd5d1ae12",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Hay muchas más cosas que tener en la vida, además de trabajar. La vida está para vivirla",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/irene-montero-ve-insuficiente-la-subida-del-smi-y-reclama-elevarlo-hasta-los-1-800-euros/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-05",
+      "nota": "Defensa de la jornada laboral de 30 horas semanales",
+      "temas": [
+        "empleo"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-5b9b1b4d1e",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Hay que abrir un debate para que se reforme la ley y esto tenga consecuencias en términos de sanciones. Que una patronal, que una empresa, que una administración pública, que debería tener más responsabilidad aún que una empresa, si no se sienta a negociar con buena fe, con voluntad de alcanzar un acuerdo, tenga sanciones, porque esta situación es simplemente inaceptable",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/congreso-y-senado/belarra-respalda-a-los-docentes-y-pide-sanciones-a-quien-rehuse-negociar-con-los-comites-de-huelga/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-10-27",
+      "nota": "Sanciones a quien no negocie con comités de huelga",
+      "temas": [
+        "empleo",
+        "educacion"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-dc733d8fd0",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Lo que todo el mundo espera en un país decente y democrático es que si a una empresa le va bien, eso signifique que al país le va bien y que a las trabajadoras que crean esos beneficios, que crean esa riqueza con su trabajo, también le vaya bien",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/irene-montero-afirma-que-las-fuerzas-soberanistas-no-bastan-para-impulsar-transformaciones-profundas/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-03",
+      "nota": "Tras reunirse con trabajadoras de Inditex en Galicia",
+      "temas": [
+        "empleo",
+        "economia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-fd34c54286",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "las pensiones son un derecho público",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/irene-montero-propone-jubilarse-a-los-63-anos-y-elevar-las-pensiones-minimas-y-no-contributivas/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-06",
+      "nota": "Contra la privatización; propone jubilación a los 63 años",
+      "temas": [
+        "pensiones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-91818438c1",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "va a salir fundamentalmente de la sanidad y las pensiones",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/irene-montero-propone-jubilarse-a-los-63-anos-y-elevar-las-pensiones-minimas-y-no-contributivas/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-06",
+      "nota": "Sobre el aumento del gasto militar exigido por EEUU y OTAN",
+      "temas": [
+        "pensiones",
+        "politica-exterior-y-defensa",
+        "sanidad"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-920a9e20d5",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Es que hay que freírles a impuestos, evidentemente, para que pague más quien más tiene y para que podamos redistribuir esa riqueza",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/irene-montero-propone-desviar-gasto-militar-para-nacionalizar-repsol-reforzar-sanidad-y-lanzar-un-super-publico/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-06",
+      "nota": "Apoyo a subir impuestos a las grandes fortunas",
+      "temas": [
+        "impuestos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-b7e38526d2",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "recuperar el control público de Repsol, cerrar las filiales que están operando en paraísos fiscales y que pague íntegramente sus impuestos",
+      "idioma": "es",
+      "url": "https://www.ecoticias.com/co2/podemos-nacionalizar-repsol-contaminacion-transicion-verde-espana",
+      "medio": "ECOticias (EFE)",
+      "quien": "Irene Montero",
+      "cargo": "Secretaria política de Podemos y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2025-11-07",
+      "nota": "Nacionalizar Repsol y cerrar filiales en paraísos fiscales",
+      "temas": [
+        "impuestos",
+        "economia",
+        "medio-ambiente-y-energia"
+      ],
+      "verificacion": "fuente-abierta-corregida",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-97180cf5d5",
+      "partido": "podemos",
+      "tipo": "redes",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Hay que nacionalizar Repsol y punto",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/podemos-insiste-en-exigir-la-nacionalizacion-de-repsol-tras-multiplicar-por-cuatro-sus-beneficios/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-10-30",
+      "nota": "Mensaje en redes tras los beneficios de Repsol",
+      "temas": [
+        "economia",
+        "medio-ambiente-y-energia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-300a687adf",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "recuperar para lo público una energética como Repsol",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/pone-condiciones-investir-sanchez-bajar-alquileres-alimentos-prohibir-especulacion-vivienda_1_13643371.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-06",
+      "nota": "Financiada con el aumento del gasto militar, 9.100 millones",
+      "temas": [
+        "economia",
+        "politica-exterior-y-defensa"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-cdb17708dc",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Necesitamos enfrentar a ese oligopolio desde lo público. Si quieren hacer negocios, que lo hagan con relojes",
+      "idioma": "es",
+      "url": "https://www.democrata.es/economia/irene-montero-plantea-un-impuestazo-del-15-a-los-beneficios-de-las-grandes-empresas-mas-contaminantes/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-10",
+      "nota": "Defensa de un supermercado público frente a grandes cadenas",
+      "temas": [
+        "economia",
+        "campo-y-medio-rural"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-16146a1a94",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "No puedes ganar dinero con que la gente ponga la calefacción; haz negocio con relojes, haz negocio con vinos",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/montero-plantea-vetar-la-especulacion-y-expropiar-a-fondos-buitre-para-afrontar-la-crisis-de-vivienda/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-10-27",
+      "nota": "Nacionalizar empresas estratégicas de energía y alimentación",
+      "temas": [
+        "economia",
+        "medio-ambiente-y-energia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-b6fe0120d3",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "contratar 40.000 profesionales sanitarios y 40.000 maestros para cuidar y proteger los dos pilares de una democracia, que son la educación y la sanidad públicas",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/pone-condiciones-investir-sanchez-bajar-alquileres-alimentos-prohibir-especulacion-vivienda_1_13643371.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-06",
+      "nota": "Contrataciones financiadas con el aumento del gasto militar",
+      "temas": [
+        "sanidad",
+        "educacion"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-fb593ef94c",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Se tiene que dedicar a lo básico, a que haya servicios públicos, a las políticas de conciliación, de lucha contra las violencias machistas. Qué locura bolivariana decir que si te pones enfermo tiene que haber un buen hospital con profesionales bien remunerados",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/ampliacion-irene-montero-acepta-unas-primarias-abiertas-para-optar-a-ser-candidata-de-podemos-en-las-generales/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Secretaria política de Podemos y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-09-12",
+      "nota": "Acto 'Paz, casa, trabajo' de presentación de candidatura",
+      "temas": [
+        "sanidad",
+        "familias-y-cuidados",
+        "igualdad-y-derechos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-be57816000",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Qué locura decir que cualquier niño o niña tiene derecho a la mejor escuela pública nazca en el barrio que nazca",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/ampliacion-irene-montero-acepta-unas-primarias-abiertas-para-optar-a-ser-candidata-de-podemos-en-las-generales/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Secretaria política de Podemos y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-09-12",
+      "nota": "Defensa de la escuela pública en el acto de candidatura",
+      "temas": [
+        "educacion"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-4ff1f94619",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Los anteriores recursos se destinarán prioritariamente a garantizar la gratuidad de la educación infantil de cero a seis años, reducir las ratios de alumnado, reforzar las plantillas docentes y de profesionales de apoyo y mejorar las infraestructuras y equipamientos de la educación pública",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/congreso-y-senado/podemos-plantea-limites-de-15-alumnos-en-primaria-20-en-secundaria-y-23-en-bachillerato/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "el partido",
+      "cargo": "Enmienda registrada por Podemos en el Congreso",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-09-17",
+      "nota": "Enmienda a ley de ratios: fondos de Defensa a educación",
+      "temas": [
+        "educacion",
+        "politica-exterior-y-defensa",
+        "familias-y-cuidados"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-f6a0a83537",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "poner en marcha un supermercado público y remunerar el permiso de ocho semanas para cuidado de hijos",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/pone-condiciones-investir-sanchez-bajar-alquileres-alimentos-prohibir-especulacion-vivienda_1_13643371.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-06",
+      "nota": "Permiso de cuidado remunerado y supermercado público",
+      "temas": [
+        "familias-y-cuidados",
+        "economia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-afc998c4f5",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Podemos ha conseguido un acuerdo con el PSOE para que el Gobierno apruebe de inmediato una regularización extraordinaria de personas migrantes. Podemos está para garantizar derechos, y papeles son derechos",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/anuncia-pacto-gobierno-regularizacion-extraordinaria-migrantes_1_12937083.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "Secretaria política de Podemos y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-01-26",
+      "nota": "Anuncio del pacto de regularización extraordinaria",
+      "temas": [
+        "inmigracion"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-2962d65d21",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Vamos a estar vigilantes para que sea un proceso ágil y eficaz, para evitar la burocracia que se exige a las personas migrantes y que siempre ha sido otra forma de violencia institucional. Hemos conseguido una regularización masiva de personas migrantes y el objetivo es que se regularicen alrededor de medio millón de personas que son obligadas a vivir sin derechos porque ningún ser humano es ilegal.",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/anuncia-pacto-gobierno-regularizacion-extraordinaria-migrantes_1_12937083.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "Secretaria política de Podemos y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-01-26",
+      "nota": "Objetivo de regularizar a medio millón de personas",
+      "temas": [
+        "inmigracion"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-0e80b6d63d",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Si tuvieras que darle de comer a tus hijos, ¿acaso no te buscarías la vida? ¿Acaso no te jugarías la vida en una patera?",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/podemos-denuncia-que-el-sistema-mata-con-desahucios-y-precariedad-y-urge-a-seguir-el-rastro-del-dinero/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-10-10",
+      "nota": "Acto 'Así de básico: paz, casa y trabajo' en Getafe",
+      "temas": [
+        "inmigracion"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-227759bd25",
+      "partido": "podemos",
+      "tipo": "redes",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Pero te tienes que creer que la culpa de tus problemas es de las personas migrantes. Hay que mirar arriba: el dinero que se están quedando unos pocos tiene que bajar a las familias",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/podemos-insiste-en-exigir-la-nacionalizacion-de-repsol-tras-multiplicar-por-cuatro-sus-beneficios/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-10-30",
+      "nota": "Publicación en redes sobre beneficios de Repsol y migración",
+      "temas": [
+        "inmigracion",
+        "economia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-ffb02731f9",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "un aumento de la violencia policial premeditado, que busca asustar a la gente que quiere movilizarse para que no lo hagan",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/irene-montero-denuncia-que-el-gobierno-ha-intensificado-de-forma-premeditada-la-violencia-policial-contra-las-protestas/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-08",
+      "nota": "Críticas a la actuación policial en protestas",
+      "temas": [
+        "seguridad-y-justicia",
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-ea9acf3c9f",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "una emergencia de violencia policial sin precedentes",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/congreso-y-senado/podemos-y-erc-exigen-que-sanchez-rinda-cuentas-en-el-congreso-por-las-ultimas-cargas-policiales-contra-jovenes/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-10-23",
+      "nota": "Piden comparecencia de Sánchez, Marlaska y Robles",
+      "temas": [
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-8c7aa11136",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Al bipartidismo en España no le molesta la corrupción, le molesta que se conozca la corrupción",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/ampliacion-montero-y-rufian-llaman-a-votar-con-memoria-y-conciencia-y-rechazan-el-voto-util-del-psoe-el-psoe-si-puede-te-come/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-07",
+      "nota": "Mitin conjunto con Gabriel Rufián en Madrid",
+      "temas": [
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-cfb193bb16",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "sigue protegiendo la corrupción como forma de gobierno y que sigue diciendo que el problema es que se sepa, no que exista",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/irene-montero-interpreta-las-nuevas-detenciones-del-caso-koldo-como-otro-episodio-de-corrupcion-del-bipartidismo/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-06",
+      "nota": "Sobre el caso Koldo; pide vetar a empresas corruptas",
+      "temas": [
+        "democracia-e-instituciones",
+        "economia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-b2911182bb",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Nosotras siempre hemos estado dispuestas a negociar un texto para que no tenga ningún contenido racista y siempre dijimos que antes de hablar de competencias había que hablar de derechos",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/abre-negociar-traspaso-competencias-migratorias-catalunya-lograr-desbloquear-regularizacion_1_12938584.html",
+      "medio": "elDiario.es (entrevista en SER Catalunya)",
+      "quien": "Irene Montero",
+      "cargo": "Secretaria política de Podemos y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-01-27",
+      "nota": "Traspaso de competencias de inmigración a Cataluña",
+      "temas": [
+        "organizacion-territorial",
+        "inmigracion"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-15cf513b08",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "España debe también prohibir los cortes de suministros, crear un cheque energético, mejorar el bono social para familias vulnerables. España debe nacionalizar Repsol y contar con una empresa pública de energía",
+      "idioma": "es",
+      "url": "https://www.elindependiente.com/espana/2026/03/07/irene-montero-exige-a-sanchez-medidas-para-paliar-las-consecuencias-de-la-guerra-en-iran-espana-debe-nacionalizar-repsol/",
+      "medio": "El Independiente",
+      "quien": "Irene Montero",
+      "cargo": "Secretaria política de Podemos y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-03-07",
+      "nota": "Medidas energéticas ante la guerra en Irán",
+      "temas": [
+        "medio-ambiente-y-energia",
+        "economia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-30944de7ab",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Si seguimos así, en tres años vamos a lanzar al planeta el total de la cantidad de emisiones que se ha calculado para alcanzar el 1,5°C que se ha establecido como límite",
+      "idioma": "es",
+      "url": "https://www.ecoticias.com/co2/podemos-nacionalizar-repsol-contaminacion-transicion-verde-espana",
+      "medio": "ECOticias (EFE)",
+      "quien": "Irene Montero",
+      "cargo": "Secretaria política de Podemos y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2025-11-07",
+      "nota": "Al plantear la nacionalización de Repsol por el clima",
+      "temas": [
+        "medio-ambiente-y-energia"
+      ],
+      "verificacion": "fuente-abierta-corregida",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-cabbe04761",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Lo que estamos teniendo es un negocio que es una mafia, que juega con nuestra salud y que juega con la capacidad de la gente de poder tener una alimentación justa y sana, y a precios adecuados",
+      "idioma": "es",
+      "url": "https://www.democrata.es/economia/irene-montero-plantea-un-impuestazo-del-15-a-los-beneficios-de-las-grandes-empresas-mas-contaminantes/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-10",
+      "nota": "Sobre la gran distribución alimentaria y los productores",
+      "temas": [
+        "campo-y-medio-rural",
+        "economia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-762de69c78",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Lo que están planteando es de una enorme sensatez y creo que el Gobierno debería escuchar con atención precisamente porque este problema, el de la soberanía alimentaria, cada vez va a tener un peso mayor en España",
+      "idioma": "es",
+      "url": "https://forbes.es/ultima-hora/407159/sumar-y-podemos-apoyan-a-los-agricultores-y-exigen-que-se-eviten-las-ventas-a-perdidas-en-el-sector/",
+      "medio": "Forbes España",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos y portavoz en el Congreso",
+      "partido_de_quien": "Podemos",
+      "fecha": "2024-02-06",
+      "nota": "Apoyo a las protestas agrarias y a la ley de cadena alimentaria",
+      "temas": [
+        "campo-y-medio-rural"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-5a8b6403f0",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Yo esperaría esa honestidad. Eso es lo mínimo exigible. Y que podamos ir al fondo del asunto. Y, por tanto, primero la dimisión y acto seguido aplicación del 128 de la Constitución",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/irene-montero-reclama-usar-el-articulo-128-para-devolver-al-estado-el-control-del-ferrocarril/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-02",
+      "nota": "Renacionalizar el ferrocarril vía artículo 128 tras accidente",
+      "temas": [
+        "transporte"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-ece31c7ce6",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Si se quiere hacer negocio, que se haga con relojes o con vinos, no con el sistema ferroviario, no con el transporte, no con la seguridad de la gente",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/irene-montero-reclama-usar-el-articulo-128-para-devolver-al-estado-el-control-del-ferrocarril/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-02",
+      "nota": "Contra la liberalización ferroviaria",
+      "temas": [
+        "transporte"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-2d41189143",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "renacionalizar el ferrocarril, invertir lo suficiente y garantizar el derecho a la movilidad desde lo público",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/podemos-ve-insuficiente-la-dimision-de-puente-y-reclama-renacionalizar-el-ferrocarril/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-04",
+      "nota": "Tras la dimisión del ministro de Transportes",
+      "temas": [
+        "transporte"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-16bea66940",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "volver a poner todo el transporte público completamente gratuito para prevenir y para anticiparse a una situación difícil y para que las invasiones de Trump no las paguen los pueblos",
+      "idioma": "es",
+      "url": "https://www.eldebate.com/espana/20260303/podemos-pide-salir-otan-ciudadania-no-pague-consecuencias-guerra-iran_391463.html",
+      "medio": "El Debate",
+      "quien": "Irene Montero",
+      "cargo": "Secretaria política de Podemos y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-03-03",
+      "nota": "Transporte público gratuito ante la guerra en Irán",
+      "temas": [
+        "transporte",
+        "economia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-b8c69e7dcc",
+      "partido": "podemos",
+      "tipo": "redes",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Vamos a ver, Alberto, esto no es un debate. Esto es ya un derecho de todas las mujeres en nuestro país. En España una joven de 16 o 17 años puede practicarse una operación quirúrgica a vida o muerte sin informar a sus padres ni pedirles permiso. ¿Cómo no va a poder abortar?",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/podemos-reivindica-que-el-aborto-a-los-16-anos-es-un-derecho-y-acusa-a-feijoo-de-parecerse-a-gallardon/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-10-23",
+      "nota": "Aborto a los 16 y 17 años sin permiso paterno",
+      "temas": [
+        "igualdad-y-derechos",
+        "sanidad"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-6b5de50699",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "todavía queda dinero para llevar a 1.000 millones el presupuesto de lucha contra las violencias machistas",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/pone-condiciones-investir-sanchez-bajar-alquileres-alimentos-prohibir-especulacion-vivienda_1_13643371.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-06",
+      "nota": "Presupuesto contra la violencia machista de 1.000 millones",
+      "temas": [
+        "igualdad-y-derechos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-9e44a34336",
+      "partido": "podemos",
+      "tipo": "redes",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "nuestro cuerpo es nuestro y nosotras decidimos sobre nuestro propio cuerpo",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/podemos-reivindica-que-el-aborto-a-los-16-anos-es-un-derecho-y-acusa-a-feijoo-de-parecerse-a-gallardon/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-10-23",
+      "nota": "Defensa del aborto en la sanidad pública y gratuito",
+      "temas": [
+        "igualdad-y-derechos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-23ce3c244f",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "es urgente salir de la OTAN ya",
+      "idioma": "es",
+      "url": "https://www.eldebate.com/espana/20260303/podemos-pide-salir-otan-ciudadania-no-pague-consecuencias-guerra-iran_391463.html",
+      "medio": "El Debate",
+      "quien": "Irene Montero",
+      "cargo": "Secretaria política de Podemos y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-03-03",
+      "nota": "Salida de la OTAN tras ataques de EEUU e Israel a Irán",
+      "temas": [
+        "politica-exterior-y-defensa"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-0a7a10ee78",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "El Gobierno, para que luego digan que no hay dinero, pues para armas lo han encontrado, sobradamente. Y este incremento se ha producido sin una sola votación parlamentaria y sin un solo acuerdo democrático",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/irene-montero-propone-desviar-gasto-militar-para-nacionalizar-repsol-reforzar-sanidad-y-lanzar-un-super-publico/",
+      "medio": "Demócrata (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "Candidata de Podemos a la Presidencia del Gobierno y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-06",
+      "nota": "Propone desviar 24.000 millones de gasto militar a lo social",
+      "temas": [
+        "politica-exterior-y-defensa",
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-df4719551c",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "si quieres guerra, ve tú. Nosotras a nuestros hijos, hijas y gente querida las queremos en casa, sanas y salvas",
+      "idioma": "es",
+      "url": "https://www.elindependiente.com/espana/2026/03/07/irene-montero-exige-a-sanchez-medidas-para-paliar-las-consecuencias-de-la-guerra-en-iran-espana-debe-nacionalizar-repsol/",
+      "medio": "El Independiente",
+      "quien": "Irene Montero",
+      "cargo": "Secretaria política de Podemos y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-03-07",
+      "nota": "Mitin en Valladolid contra la participación en guerras",
+      "temas": [
+        "politica-exterior-y-defensa"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-0fd98ac2a0",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Mientras en Francia se habla del servicio militar y en Alemania plantas de Volkswagen se transforman en fábricas de material militar, España tiene que ser un país de paz",
+      "idioma": "es",
+      "url": "https://www.publico.es/politica/irene-montero-lanza-sabado-candidatura-generales-bajo-lema-paz-casa-trabajo.html",
+      "medio": "Público",
+      "quien": "el partido",
+      "cargo": "Podemos (fuentes oficiales del partido)",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-09-11",
+      "nota": "Eje 'paz' de las cinco prioridades de la candidatura",
+      "temas": [
+        "politica-exterior-y-defensa"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-606afceb5b",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Le traigo una propuesta concreta. Crujamos a impuestos a las plataformas que extienden el odio, el racismo, la violencia contra la clase trabajadora y usemos ese dinero para financiar a todos los niveles y para todos los sectores educación sexual obligatoria",
+      "idioma": "es",
+      "url": "https://www.eldebate.com/educacion/20260211/podemos-quiere-crujir-impuestos-redes-sociales-usar-ese-dinero-educacion-sexual-obligatoria_384178.html",
+      "medio": "El Debate",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos y portavoz en el Congreso",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-02-11",
+      "nota": "En el Pleno del Congreso, ante Pedro Sánchez",
+      "temas": [
+        "ciencia-cultura-y-digital",
+        "impuestos",
+        "educacion"
+      ],
+      "verificacion": "fuente-abierta-corregida",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-f0cd94d28b",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Prohibir sin educar no vale para absolutamente nada. Contra Elon Musk no vale solo prohibir, hace falta educación, educación, educación",
+      "idioma": "es",
+      "url": "https://www.eldebate.com/educacion/20260211/podemos-quiere-crujir-impuestos-redes-sociales-usar-ese-dinero-educacion-sexual-obligatoria_384178.html",
+      "medio": "El Debate",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos y portavoz en el Congreso",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-02-11",
+      "nota": "Sobre prohibir redes sociales a menores de 16 años",
+      "temas": [
+        "ciencia-cultura-y-digital",
+        "educacion"
+      ],
+      "verificacion": "fuente-abierta-corregida",
+      "estado": "vigente",
+      "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-f47a0b7288",
+      "partido": "podemos",
+      "tipo": "congreso",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "La presente Proposición de Ley pretende eliminar esa injusticia, estableciendo que tras 40 años cotizados no se deben aplicar coeficientes reductores a la pensión de jubilación (con el consiguiente ajuste a los coeficientes existentes) y que dicha medida se aplicará a las pensiones de las personas ya jubiladas.",
+      "idioma": "es",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-117-1.PDF",
+      "medio": "Congreso de los Diputados (BOCG, serie B, núm. 117-1)",
+      "quien": "Ione Belarra",
+      "cargo": "Portavoz del Grupo Parlamentario Mixto y secretaria general de Podemos",
+      "partido_de_quien": "Podemos",
+      "fecha": "2024-05-23",
+      "nota": "Proposición de ley de jubilación sin penalización con 40 años cotizados",
+      "temas": [
+        "pensiones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-a11e17ad27",
+      "partido": "podemos",
+      "tipo": "documento",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Aumentar la cuantía de las pensiones mínimas y no contributivas. Para ello, se debe aprobar un aumento extraordinario del 20% (adicional al ya realizado) y establecer el compromiso de que todas estas prestaciones alcancen, al menos, el umbral de pobreza.",
+      "idioma": "es",
+      "url": "https://theobjective.com/wp-content/uploads/2023/09/Propuestas-para-un-segundo-Gobierno-de-coalicion-PODEMOS.pdf",
+      "medio": "Podemos, «Propuestas para un segundo Gobierno de coalición» (PDF alojado en theobjective.com)",
+      "quien": "el partido",
+      "cargo": "",
+      "partido_de_quien": "Podemos",
+      "fecha": "2023-09-29",
+      "nota": "Subida extraordinaria del 20% de pensiones mínimas y no contributivas",
+      "temas": [
+        "pensiones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-a107807ed1",
+      "partido": "podemos",
+      "tipo": "congreso",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Señorías, es muy sencillo de entender: cada euro que nos estamos gastando en armas y tanques en el mayor rearme de la historia es dinero que no le estamos dedicando a tener pensiones dignas, a tener unas pensiones que, por ejemplo, sean como el salario mínimo interprofesional, que se actualicen al IPC, que sean dignas de verdad, pensiones públicas.",
+      "idioma": "es",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-206.PDF",
+      "medio": "Congreso de los Diputados (Diario de Sesiones, Pleno núm. 206)",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos y diputada del Grupo Parlamentario Mixto",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-09-22",
+      "nota": "Pensiones equiparadas al SMI y actualizadas con el IPC",
+      "temas": [
+        "pensiones",
+        "politica-exterior-y-defensa"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-279912dd6e",
+      "partido": "podemos",
+      "tipo": "documento",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Derogar con carácter inmediato la Ley Mordaza, y hacerlo esta vez incluyendo las demandas de los socios parlamentarios, como por ejemplo prohibir las balas de goma y las devoluciones en caliente o eliminar la infracción arbitraria de falta de respeto y de consideración a la autoridad.",
+      "idioma": "es",
+      "url": "https://theobjective.com/wp-content/uploads/2023/09/Propuestas-para-un-segundo-Gobierno-de-coalicion-PODEMOS.pdf",
+      "medio": "Podemos, «Propuestas para un segundo Gobierno de coalición» (PDF alojado en theobjective.com)",
+      "quien": "el partido",
+      "cargo": "",
+      "partido_de_quien": "Podemos",
+      "fecha": "2023-09-29",
+      "nota": "Derogación de la Ley Mordaza y prohibición de balas de goma",
+      "temas": [
+        "seguridad-y-justicia",
+        "democracia-e-instituciones",
+        "inmigracion"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-93aaa6e437",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Para mí, por ejemplo, las balas de goma, que suponen un daño enorme para las personas, es un elemento central que está bien que, en una negociación, una fuerza parlamentaria que no tiene responsabilidades de gobierno la plantee.",
+      "idioma": "es",
+      "url": "https://www.elsaltodiario.com/politica/entrevista-ione-belarra-ley-mordaza",
+      "medio": "El Salto",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos y ministra en funciones de Derechos Sociales y Agenda 2030",
+      "partido_de_quien": "Podemos",
+      "fecha": "2023-10-01",
+      "nota": "Rechazo a las balas de goma en la reforma de la Ley Mordaza",
+      "temas": [
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-abce5e103d",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "No hay que investigar nada, lo que hay es que se depuran inmediatamente responsabilidades. El que perpetró esa agresión ayer a la profesora jubilada en Valencia tiene que ser expulsado inmediatamente de la Policía Nacional.",
+      "idioma": "es",
+      "url": "https://www.democrata.es/politica/podemos-reclama-la-dimision-de-marlaska-y-la-expulsion-del-policia-cafre-por-la-brutalidad-policial-en-valencia/",
+      "medio": "Demócrata",
+      "quien": "Pablo Fernández",
+      "cargo": "Coportavoz de Podemos",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-06-01",
+      "nota": "Exige expulsar al policía de la agresión en Valencia",
+      "temas": [
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "fuente-abierta-corregida",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-1468c7843e",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Nosotras estamos defendiendo lo mismo que hemos defendido siempre, que es garantizar el derecho a decidir, pero creo que es importante ser conscientes de que en esta mesa de negociación están sentadas fuerzas políticas muy diferentes.",
+      "idioma": "es",
+      "url": "https://www.elsaltodiario.com/politica/entrevista-ione-belarra-ley-mordaza",
+      "medio": "El Salto",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos y ministra en funciones de Derechos Sociales y Agenda 2030",
+      "partido_de_quien": "Podemos",
+      "fecha": "2023-10-01",
+      "nota": "Defensa del derecho a decidir de Cataluña",
+      "temas": [
+        "organizacion-territorial"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-23d41c820a",
+      "partido": "podemos",
+      "tipo": "congreso",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Eso, presidente, y poner en marcha una red social pública con un algoritmo transparente, que no premie el racismo y el machismo, que no ampare el genocidio en Palestina como ha hecho X.",
+      "idioma": "es",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-164.PDF",
+      "medio": "Congreso de los Diputados (Diario de Sesiones, Pleno núm. 164)",
+      "quien": "Ione Belarra",
+      "cargo": "Secretaria general de Podemos y diputada del Grupo Parlamentario Mixto",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-02-11",
+      "nota": "Crear una red social pública con algoritmo transparente",
+      "temas": [
+        "ciencia-cultura-y-digital"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-1ff21ad51b",
+      "partido": "podemos",
+      "tipo": "congreso",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Aprobar un plan plurianual de refuerzo de la plantilla estable del INAEM que reduzca la actual tasa de temporalidad del 30 por ciento por debajo del 8 por ciento establecido como criterio general para el empleo público, mediante procesos selectivos específicos y con la dotación presupuestaria correspondiente, entendiendo la estabilidad de la plantilla como condición imprescindible del mandato cultural del organismo.",
+      "idioma": "es",
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/D/BOCG-15-D-530.PDF",
+      "medio": "Congreso de los Diputados (BOCG, serie D, núm. 530)",
+      "quien": "Ione Belarra",
+      "cargo": "Portavoz del Grupo Parlamentario Mixto y secretaria general de Podemos",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-04-28",
+      "nota": "Proposición no de ley para reducir la temporalidad en el INAEM",
+      "temas": [
+        "ciencia-cultura-y-digital",
+        "empleo"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-11"
+    }
+  ]
+}

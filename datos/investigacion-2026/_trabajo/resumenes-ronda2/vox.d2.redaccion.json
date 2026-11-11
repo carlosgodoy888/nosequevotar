@@ -1,0 +1,80 @@
+{
+  "resumenes": [
+    {
+      "tema": "organizacion-territorial",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una Ley de Mercado Abierto para que empresas, profesionales y productos que operen legalmente en una comunidad autónoma puedan hacerlo en toda España sin trámites adicionales.", "apoyos": ["c-655ab462e9", "c-c66cc98f58", "c-d8327982f3"] },
+        { "texto": "Quiere que el Estado use el artículo 150.3 de la Constitución para imponer reglas comunes en ámbitos como justicia, sanidad, educación o fiscalidad.", "apoyos": ["c-72a0a866c3", "c-feb87f85fd"] },
+        { "texto": "Plantea derogar los requisitos autonómicos para vender productos que superen la norma europea, como obligaciones lingüísticas o sistemas de envases propios.", "apoyos": ["c-058fdfea0a"] },
+        { "texto": "Considera que el modelo autonómico ha debilitado la unidad nacional y la igualdad entre españoles.", "apoyos": ["c-ef4432ad2a", "c-53be8b2e9c", "c-a59d318d98"] }
+      ],
+      "nota": "Las obligaciones lingüísticas que se plantea derogar se citan en el contexto de la venta de productos (etiquetado), no de la enseñanza; por eso la frase lo acota."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar la ley de cambio climático de 2021, la de residuos de 2022 y la del comercio de derechos de emisión.", "apoyos": ["c-e398d782b5", "c-8a14df505a", "c-39ce5ee994", "c-5fd2ad20c7"] },
+        { "texto": "Quiere revertir el calendario de cierre de las centrales nucleares y explotar los hidrocarburos propios.", "apoyos": ["c-8cba169e63", "c-a02ac290bd", "c-554ec8d7f2", "c-5fd2ad20c7"] },
+        { "texto": "Plantea tramitación exprés, con plazos cerrados y silencio positivo, para redes eléctricas, almacenamiento e infraestructuras hidráulicas, y una sola evaluación ambiental por proyecto.", "apoyos": ["c-d29d140115", "c-bb4ea2903a", "c-500431e25a", "c-8f1f69ef11", "c-186b2aacad"] },
+        { "texto": "Ante la Unión Europea pedirá suprimir la normativa del Pacto Verde y reformar el comercio de emisiones o la norma que prohíbe vender coches de combustión desde 2035.", "apoyos": ["c-330f63ce0d", "c-03509955f7", "c-e11a40bbcb", "c-a630ebee1b"] }
+      ],
+      "nota": "Se distinguen las leyes que deroga (cambio climático, residuos, comercio de emisiones) de las que solo reformaría (evaluación ambiental, sector eléctrico, fiscalidad energética, no citadas por espacio) y de la normativa europea cuya reforma exigiría. No se recoge el término «fanatismo climático»."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone revisar toda la normativa del campo, como la PAC, el cuaderno digital, el riego o los fitosanitarios, con silencio positivo y menos trámites.", "apoyos": ["c-a6275e1997", "c-779ce301be", "c-57a30a32cd"] },
+        { "texto": "Ante la Unión Europea pedirá reformar las condiciones ambientales de las ayudas de la PAC y las normas sobre fitosanitarios y plaguicidas.", "apoyos": ["c-3ae658db5c", "c-d99e7f188b"] },
+        { "texto": "Quiere revertir la aplicación provisional del acuerdo con Mercosur y frenar su aprobación, y defender a agricultores y ganaderos de lo que llama «competencia desleal».", "apoyos": ["c-cedd6788f4", "c-2e7be62278", "c-ce3c426c40"] },
+        { "texto": "Plantea además interconectar las cuencas en un plan nacional del agua.", "apoyos": ["c-07453b2380", "c-13832c565e"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "transporte",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar la Ley de Movilidad Sostenible de 2025 y el plan de movilidad sostenible obligatorio para las empresas.", "apoyos": ["c-0ab0008ff2", "c-f69cb7aa1c"] },
+        { "texto": "Ante la Unión Europea pedirá reformar la norma que prohíbe vender coches de combustión desde 2035.", "apoyos": ["c-e11a40bbcb"] },
+        { "texto": "Pide una auditoría de seguridad de las vías y técnicos que garanticen la seguridad de los trayectos, y atribuye los problemas a la degradación y la falta de inversión.", "apoyos": ["c-38046121bc", "c-a45889b4ac", "c-bc2741b2ae"] }
+      ],
+      "nota": "Las citas de redes eléctricas, almacenamiento e infraestructuras hidráulicas asignadas a este tema no tratan de transporte y no se usan. Las declaraciones sobre vías y trayectos no nombran el modo de transporte (parecen referirse al ferrocarril); por eso no se menciona. c-6571e980ff no especifica qué infraestructura y no se usa."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar la obligación de que las empresas tengan planes de igualdad, recogida en la ley de igualdad de 2007 reformada en 2019, y los planes LGTBI obligatorios.", "apoyos": ["c-6076b4197c", "c-4d80cc11a9", "c-dc35c93f2a", "c-c772333f84"] },
+        { "texto": "Sostiene que la Constitución ya garantiza la igualdad ante la ley y que esas obligaciones frenan el crecimiento de las empresas.", "apoyos": ["c-6076b4197c", "c-4f2612ec21"] },
+        { "texto": "Ante la Unión Europea pedirá reformar la directiva de igualdad retributiva.", "apoyos": ["c-7fa71f399e"] },
+        { "texto": "También defiende una única definición de familia y pide todo el reproche penal para quienes agreden a las mujeres.", "apoyos": ["c-684987f34f", "c-810070418b"] }
+      ],
+      "nota": "La derogación de los planes de igualdad se limita a la parte de la Ley Orgánica 3/2007 que los regula, no a la ley entera; la frase lo acota."
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone revisar la normativa española de origen europeo para dejarla en el mínimo imprescindible y transponer las directivas de forma literal, sin añadidos.", "apoyos": ["c-ae50310767", "c-6ff56361cf", "c-a090e87eda"] },
+        { "texto": "Ante la Unión Europea pedirá suprimir la normativa del Pacto Verde, revertir el acuerdo con Mercosur y poner fin al Acuerdo de Asociación con Marruecos.", "apoyos": ["c-330f63ce0d", "c-cedd6788f4", "c-dd431561d9", "c-c3c7d6bd07", "c-a71e60c40f"] },
+        { "texto": "Pide reforzar con más efectivos policiales y militares las fronteras de Ceuta y Melilla y que las Fuerzas Armadas apoyen la lucha contra la inmigración irregular.", "apoyos": ["c-843623564f", "c-014ace0c1c", "c-76b75b1c4d"] },
+        { "texto": "Defiende más inversión en defensa y ser mejores aliados asumiendo más responsabilidades.", "apoyos": ["c-fac906c4c4", "c-f204a6a40c"] }
+      ],
+      "nota": "Se escribe «inmigración irregular» donde la cita dice «inmigración ilegal», y no se recoge el término «invasión»."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone reducir la ley de protección de datos a lo que exige la Unión Europea y que la AEPD pase de sancionar a asesorar, sobre todo a pymes.", "apoyos": ["c-3e6ee5deda", "c-75f295b361"] },
+        { "texto": "Quiere un uso masivo de la inteligencia artificial en la Administración para resolver expedientes sencillos y reducir trámites, y pedirá a la Unión Europea reformar su reglamento de IA.", "apoyos": ["c-acb26bc6dc", "c-04fe37239f"] },
+        { "texto": "Plantea derogar el protocolo obligatorio de desconexión digital en las empresas.", "apoyos": ["c-8b07ff9764"] },
+        { "texto": "En cultura, defiende que no se prohíban los festejos taurinos.", "apoyos": ["c-175fc9c688"] }
+      ],
+      "nota": "Sobre ciencia no hay citas; cultura solo tiene una declaración."
+    }
+  ]
+}

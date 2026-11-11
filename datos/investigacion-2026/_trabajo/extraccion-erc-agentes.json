@@ -1,0 +1,209 @@
+{
+ "tramos": [
+  {
+   "tramo": "erc-programa-2026 p.1-11",
+   "fuente": "erc-programa-2026",
+   "extraer": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p001-p011.json",
+    "citas": 59,
+    "medidas": 46,
+    "posiciones": 13,
+    "verificador_ok": true,
+    "paginas_sin_contenido": [
+     1,
+     2,
+     3,
+     4,
+     6
+    ],
+    "notas": "Hay 59 citas en el archivo. El verificador encuentra 58 tal cual y 1 tras normalizar el texto: la medida 17, partida en «edu-/cativa» entre las páginas 10 y 11. No da ningún error ni ninguna cita no encontrada. El tramo recoge las medidas numeradas del 1 al 22, de los apartados A, B y C de «A. Defensar el país». Del apartado D (Finançament i sobirania fiscal) solo cae en el tramo la introducción, de la que salen dos posiciones; sus medidas empiezan en la página 12 con la número 23. Las medidas que contienen varias acciones distintas se han dividido en varias citas con el mismo número (2, 5, 9, 10, 12, 13, 14, 15, 17 y 19). La 10 enumera seis contenidos de la ley separados por punto y coma, y cada uno va en su propia cita. Las medidas que se anuncian en los párrafos de introducción del apartado A.A (Llei mordassa, delitos contra la Corona, memoria) no se han recogido otra vez, porque ya están en la lista numerada. Los títulos de apartado conservan la letra del documento y van con mayúscula inicial («A. Defensar el país», «A. Autodeterminació, democràcia i drets», etc.); el preámbulo va como «Preàmbul». Se ha mantenido la errata del original «la llengües catalana» en la medida 12. Las etiquetas siguen el vocabulario que ya usan los demás archivos («lenguas», «memoria democrática», «financiación autonómica», «unión europea»). En «paginas_sin_contenido» van las páginas 1 y 2 (portada), 3 (índice), 4 (en blanco) y 6 (solo la cabecera)."
+   },
+   "revisar": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p001-p011.json",
+    "anadidas": 2,
+    "corregidas": 5,
+    "eliminadas": 1,
+    "citas_finales": 60,
+    "verificador_ok": true,
+    "dudas": [
+     "Del preámbulo queda una sola posición, «Aquest programa electoral recull el nostre projecte...», que enumera las tres prioridades del programa. Está más cerca de presentar el documento que de declarar una postura. Se puede quitar si se prefiere no recoger nada del preámbulo.",
+     "Las citas de la medida 10 que van después de «La llei ha de regular...» son fragmentos de una enumeración separada por punto y coma: empiezan en minúscula y la última empieza por «i». Se entienden gracias al apartado y al número, pero no son frases completas.",
+     "Las medidas 18 y 22 (competencias educativas exclusivas, competencia sobre los currículos) tienen medida_concreta false. Se podría defender true, porque piden traspasar competencias determinadas. Las he dejado igual para que las dos sean coherentes entre sí.",
+     "Hay medidas anunciadas en la introducción de A.A que no se han recogido aparte porque repiten la lista numerada. Entre ellas está «exigint a l’Estat que compleixi amb la Llei de Memòria Democràtica i estableixi les responsabilitats pertinents» (p. 7)."
+    ],
+    "notas": "He revisado las páginas 1 a 11 una a una, comparándolas con el archivo, y las medidas numeradas del 1 al 22 estaban todas.\n\nCitas añadidas (2):\n- Medida 3, p. 8: «Cal posar fi als tipus penals que s’usen per combatre la dissidència política i aplicar càstigs exemplars.» Es una acción distinta de suprimir los delitos concretos.\n- Medida 4, p. 8: «La norma ha de garantir que cap cas quedi sense investigar...». Dice qué debe contener la ley.\n\nCita eliminada (1):\n- La frase retórica del preámbulo «Perquè no n’hi ha prou amb resistir davant les amenaces...». Funcionaba casi como un lema y llevaba la etiqueta «instituciones», que no le correspondía.\n\nCorrecciones (5):\n- Etiquetas de la medida 2, en sus dos primeras citas: añadida «derechos y libertades», que es la etiqueta que usan los demás archivos.\n- Etiquetas de la medida 3: añadida «derechos y libertades».\n- Etiquetas de la medida 8 (IBI a las confesiones religiosas): «instituciones» pasa a «religión».\n- Traducción de «Per posar fil a l’agulla»: decía «Para empezar» y ahora dice «Para ponerse manos a la obra», que es más fiel a la expresión.\n\nLo demás está bien: los apartados, los números, la clase, las traducciones y la errata «la llengües catalana», que se mantiene. El verificador da 60 citas: 59 exactas, 1 normalizada (la medida 17, partida en «edu-/cativa») y 0 errores."
+   }
+  },
+  {
+   "tramo": "erc-programa-2026 p.12-17",
+   "fuente": "erc-programa-2026",
+   "extraer": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p012-p017.json",
+    "citas": 67,
+    "medidas": 60,
+    "posiciones": 7,
+    "verificador_ok": true,
+    "paginas_sin_contenido": [],
+    "notas": "He pasado el verificador: 67 citas, las 67 exactas, ninguna sin encontrar y ningún error. El tramo cubre las medidas 23 a 54, todas recogidas. Están bajo «A. Defensar el país» y los apartados D (Finançament i sobirania fiscal), E (Cultura catalana i defensa d'un espai comunicatiu nacional), F (Més sobirania i competències) y G (Unió Europea, projecció internacional i cooperació). Los títulos conservan su letra, como en el documento. Cuando una medida numerada contenía acciones distintas, la he dividido en varias citas con el mismo número: 23, 27-33, 35, 37, 42, 43, 46 y 51-54. También he recogido como medidas sin número cuatro exigencias que solo aparecen en el texto introductorio. Una es derogar la LRSAL y reformar la LOEPSF (p. 12). Otra, el 0,7 % de ayuda al desarrollo junto con la participación directa de Cataluña en programas europeos de cooperación (p. 15). Las otras dos están en la p. 16: la oficialidad del catalán en Europa, y más presencia multilateral con más financiación para enseñar la lengua en el exterior. No he repetido como citas aparte las frases introductorias que coinciden con medidas numeradas: competencias tributarias, migración y paro (34, 35, 40), Sáhara (43) y embargo a Israel (42). La medida 37 empieza en la p. 14 y sigue en la p. 15. He puesto su título como cita de la p. 14 y la frase sobre los pisos de la SAREB como cita aparte de la p. 15. Todas las páginas del tramo tienen contenido."
+   },
+   "revisar": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p012-p017.json",
+    "anadidas": 2,
+    "corregidas": 1,
+    "eliminadas": 3,
+    "citas_finales": 66,
+    "verificador_ok": true,
+    "dudas": [
+     "He dejado como medida sin número la frase de la p. 16 «A més, demanem més presència en els òrgans multilaterals… més finançament per a l’ensenyament de la llengua a l’estranger». La parte de la financiación se solapa con la medida 47, pero la de la presencia en órganos multilaterales no está en ninguna medida numerada.",
+     "En el texto introductorio de la p. 16 está la frase «Cal revertir-lo, denunciar les violacions de drets humans del Marroc…». No la he recogido porque coincide con la medida 43, aunque esa medida no dice de forma expresa «denunciar las violaciones de derechos humanos de Marruecos».",
+     "La frase que he añadido a la medida 37 empieza en la p. 14 y termina en la p. 15. El verificador la da por exacta con pagina 14."
+    ],
+    "notas": "He revisado el archivo de citas de las páginas 12 a 17 del programa de ERC. Quedan 66 citas y el verificador las da todas por exactas, sin errores.\n\n**Quitadas (3), porque repetían medidas numeradas:**\n- **p. 12, derogar la LRSAL y reformar la LOEPSF.** El propio texto dice que está «també inclosa al programa». Es una medida numerada de la p. 44, bajo «F. Enfortir el municipalisme».\n- **p. 15, exigir el 0,7 % de ayuda al desarrollo y la participación directa de Cataluña en programas europeos de cooperación.** Repite las medidas 46 y 54.\n- **p. 16, oficialidad del catalán en Europa.** Es una medida numerada de la p. 9, bajo «B. Protecció efectiva de la llengua catalana».\n\nCon esto queda aplicado a todo el tramo el criterio que ya seguía el primer agente: no repetir el texto introductorio cuando coincide con una medida numerada.\n\n**Añadidas (2):**\n- **Medida 37, p. 14:** «És necessari que se’n faci el traspàs a la Generalitat de Catalunya i, si escau, als ajuntaments, a títol gratuït…». Es una acción distinta del título: el traspaso es gratuito y puede ir también a los ayuntamientos.\n- **Posición en el apartado G, p. 16:** «Una Europa on Catalunya hi ha de tenir veu pròpia com a espai natural de relació política».\n\n**Corregida (1):** la primera cita de la medida 25 pasa a `medida_concreta` false. Habla de reformar el modelo de ingresos locales sin decir cómo.\n\n**Lo demás:**\n- Están las medidas 23 a 54, todas.\n- Los apartados coinciden con el documento: «A. Defensar el país» y los subapartados D a G.\n- He comprobado todas las etiquetas contra temas.json y cada una tiene tema asignado.\n- Las traducciones son fieles."
+   }
+  },
+  {
+   "tramo": "erc-programa-2026 p.18-24",
+   "fuente": "erc-programa-2026",
+   "extraer": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p018-p024.json",
+    "citas": 79,
+    "medidas": 66,
+    "posiciones": 13,
+    "verificador_ok": true,
+    "paginas_sin_contenido": [],
+    "notas": "El verificador da 79 citas exactas, ninguna sin encontrar y ningún error. El tramo cubre todas las medidas numeradas de la 55 a la 98, dentro del gran bloque «Defensar la gent». Se reparten en cuatro apartados: «Pla de xoc sobre l’habitatge», «Cost de la vida», «Un model econòmic i una fiscalitat més justes» y «Més feminisme, més drets LGBTI+ i més antiracisme». En el campo «apartado» los títulos van sin la letra (A., B., etc.), y el título general en mayúsculas («DEFENSAR LA GENT») va con mayúscula inicial. La página 18 solo tiene introducción y una posición; su primera medida numerada está en la página 19. Las medidas con varias acciones distintas se han dividido en varias citas con el mismo número: 56, 57, 59, 64, 69, 71, 79, 81, 82, 83, 84, 86, 87, 88, 89, 95, 96 y 98. La medida 84 empieza en la página 22 y sigue en la 23; la frase que cruza de página está en la página 22, que es donde empieza. Dentro de la medida 75 hay una frase de principio («Cal transformar la fiscalitat...»), recogida como posición con número \"75\". La medida 59 acaba con un doble punto en el original («arrendatari..»); la cita copia solo el primero. Los párrafos introductorios de «Defensar la gent» se han dejado fuera porque son críticas al Gobierno o descripciones sin postura."
+   },
+   "revisar": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p018-p024.json",
+    "anadidas": 1,
+    "corregidas": 81,
+    "eliminadas": 1,
+    "citas_finales": 79,
+    "verificador_ok": true,
+    "dudas": [
+     "En la medida 59 el original acaba en «arrendatari..» (dos puntos). La cita copia solo uno y el verificador la da por exacta.",
+     "La posición de la página 23 que empieza «Davant l’immobilisme del Govern espanyol i l’amenaça de les dretes...» abre con una crítica al Gobierno. Se mantiene porque es la frase completa en la que ERC fija su postura feminista.",
+     "El apartado C tiene 4 posiciones si se cuenta la frase «Cal transformar la fiscalitat...», que está dentro de la medida 75 y lleva el número 75. Se ha dejado como estaba."
+    ],
+    "notas": "He revisado todas las medidas numeradas del tramo, de la 55 a la 98, y están todas recogidas. Las divisiones en varias citas están bien hechas y no falta ninguna medida. El verificador da 79 citas, las 79 exactas y sin errores.\n\nCambios hechos:\n1. Apartados (79 citas): el primer agente había quitado las letras de los títulos. Las he repuesto: «B. Defensar la gent», «A. Pla de xoc sobre l’habitatge», «B. Cost de la vida», «C. Un model econòmic i una fiscalitat més justes» y «D. Més feminisme, més drets LGBTI+ i més antiracisme». Así lo pide la norma de copiar los títulos tal como están escritos, y así lo hacen los demás tramos de ERC (p001-p011, p012-p017 y p032-p038 usan «A. Defensar el país», «B. Defensar la gent», etc.).\n2. Traducciones de las medidas 94 y 96 (2 citas): había «LGTBI+» y he puesto «LGBTI+», como dice el original.\n3. Posiciones del apartado D: he quitado la genérica «Esquerra Republicana defensa una societat feminista, diversa i lliure de discriminacions...». En su lugar he añadido la de la página 23 «La defensa dels drets LGBTI+ exigeix continuar eliminant les discriminacions legals i socials...». El apartado queda con tres posiciones: feminismo, derechos LGBTI+ y antirracismo.\n\nLo demás está bien y no lo he tocado: clase, medida_concreta, números, notas, etiquetas y traducciones."
+   }
+  },
+  {
+   "tramo": "erc-programa-2026 p.25-31",
+   "fuente": "erc-programa-2026",
+   "extraer": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p025-p031.json",
+    "citas": 134,
+    "medidas": 125,
+    "posiciones": 9,
+    "verificador_ok": true,
+    "paginas_sin_contenido": [],
+    "notas": "El verificador pasa sin errores: 133 citas exactas, 1 normalizada (la 112, que cruza de la página 26 a la 27 con una palabra partida) y ninguna no encontrada. El tramo cubre las medidas 99 a 150. Las medidas 99 a 102 están en «D. Més feminisme, més drets LGBTI+ i més antiracisme», las 103 a 125 en «E. Treball digne i seguretat social garantida», las 126 a 129 en «F. Reindustrialitzar el país» y las 130 a 150 en «G. Impulsar una transició energètica justa, ecològica i accessible». Todas cuelgan del bloque «B. Defensar la gent». Los títulos de apartado conservan la letra que les da el documento (A., B., …), y el bloque general, que va en mayúsculas, se ha pasado a mayúscula inicial. Si en otros tramos se han escrito sin letra, habrá que unificarlos al unir los archivos. Cuando una medida tiene título y una sola frase que lo desarrolla con la misma acción (106, 107, 108, 111, 123, 124, 130, 133, 148), ambas van en una sola cita. En las 139 y 146 el título es solo una frase nominal y la cita recoge únicamente el desarrollo. No se han recogido como citas aparte algunas frases que solo justifican o repiten la medida: la última frase de la 104 y el «Això permetrà…» de la 138. Hay etiquetas fuera de la lista de ejemplo: «autónomos», «industria», «agua», «familias» y «sociedad digital»."
+   },
+   "revisar": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p025-p031.json",
+    "anadidas": 1,
+    "corregidas": 1,
+    "eliminadas": 1,
+    "citas_finales": 134,
+    "verificador_ok": true,
+    "dudas": [
+     "Medida 104: queda fuera la última frase («S’ha de garantir que les indemnitzacions per acomiadaments sense causa siguin efectivament dissuasives…»), igual que en la versión anterior, porque repite el objetivo de la medida. Habría que añadirla si se quiere recoger cada frase de cada medida.",
+     "Medida 118, tercera cita («Superar la fragmentació… traspassos»): lleva medida_concreta true, pero los traspasos no se concretan. Podría ser false.",
+     "Las medidas 139, 146, 147, 149 y 150 tienen títulos nominales («Comissió Bilateral…», «Finançament estatal…») y solo se ha recogido su desarrollo."
+    ],
+    "notas": "He revisado las páginas 25 a 31 una a una frente al archivo y no falta ninguna medida numerada del 99 al 150. Tampoco falta ninguna acción distinta dentro de cada medida. Los apartados («B. Defensar la gent» › D/E/F/G) coinciden con el documento: B aparece en p-018 y D en p-023. En el apartado E he cambiado una posición por otra, sin pasar de 3: quito «Cal garantir les rendes i avançar cap a l’assoliment de salaris suficients…», que las medidas 103 a 105 y 125 ya cubren, y pongo «Catalunya necessita eines pròpies per desplegar polítiques socials… sistema de pensions», que es la postura de la sección sobre competencias que no recoge ninguna medida. He corregido la nota de la medida 132 («Privilegios de las grandes energéticas» pasa a «Ventajas de las grandes empresas energéticas») para que no repita el lenguaje valorativo del partido. Las demás citas cumplen: clase, número, apartado, notas, etiquetas coherentes y traducciones literales. El verificador da 134 citas: 133 exactas, 1 normalizada (la medida 112, que pasa de la página 26 a la 27) y 0 errores. Hay etiquetas fuera de la lista de ejemplo, usadas siempre igual: «autónomos», «industria», «agua», «familias» y «sociedad digital»."
+   }
+  },
+  {
+   "tramo": "erc-programa-2026 p.32-38",
+   "fuente": "erc-programa-2026",
+   "extraer": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p032-p038.json",
+    "citas": 84,
+    "medidas": 68,
+    "posiciones": 16,
+    "verificador_ok": true,
+    "paginas_sin_contenido": [],
+    "notas": "Verificador: 84 citas, 82 exactas, 2 normalizadas, 0 no encontradas, 0 errores. El tramo cubre las medidas 151 a 167 y 198 a 216. El documento salta de la 167 a la 198: no faltan páginas, la numeración del propio programa no es correlativa. En las páginas 34, 36 y 38 los números de las medidas aparecen agrupados en una línea aparte («198. 199. 200.», «205. 206. 207. 208.», «209. 210. … 216.»), separados de los textos. Los he asignado por orden según el título de cada medida: la 207 es la de los perros de caza y trabajo, y la 210 la del traspaso de los aeropuertos de Girona, Reus y Sabadell. Conviene revisar esta asignación. Las citas de la 167 (pp. 33-34) y de la 200 (pp. 34-35) empiezan en una página y siguen en la siguiente. En ellas he unido las palabras partidas por guion («regulació», «xifratge»). Apartados usados: «B. Defensar la gent» con sus subapartados G, H, I y J, y «C. Defensar els serveis públics» con su subapartado «A. Inversions en infraestructures i garanties d’execució». Las tres posiciones de la introducción de C solo llevan el apartado general. Además de los temas de la lista, he usado estas etiquetas: «lenguas», «derechos digitales», «infancia» y «bienestar animal»."
+   },
+   "revisar": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p032-p038.json",
+    "anadidas": 2,
+    "corregidas": 14,
+    "eliminadas": 0,
+    "citas_finales": 86,
+    "verificador_ok": true,
+    "dudas": [
+     "Números de las medidas en las páginas 34, 36 y 38: aparecen agrupados en una línea aparte del texto. Los he comprobado contando los títulos y cuadran. En la p. 38 hay 8 números (209-216) y solo 7 títulos claros. La asignación del primer agente es la más plausible: la 210 empezaría en «Traspassar la titularitat i la gestió dels aeroports de Girona, Reus i Sabadell…». Habría que confirmarlo con el PDF.",
+     "La numeración salta de la 167 (p. 33) a la 198 (p. 34) sin que falten páginas. Puede ser una errata del propio programa o un fallo de la extracción. Conviene mirarlo en el PDF.",
+     "La cita «No podem permetre que els algoritmes…» (clase posicion) y la nueva «Cap activitat econòmica…» (clase posicion) llevan el número de la medida en la que van insertas (200 y 207). Si se prefiere numero null para las posiciones, habría que cambiarlo.",
+     "En la medida 207 no hay un título corto que la separe del texto. La frase «Impulsar la modificació de la legislació estatal…» puede ser a la vez título y cuerpo."
+    ],
+    "notas": "He leído las páginas 32 a 38, las 31 y 39 para ver el contexto y los títulos del índice (p. 3). Los apartados del archivo coinciden con el documento: B > G, H, I, J y C > A. Tras los cambios, el verificador da 86 citas: 84 exactas, 2 normalizadas, 0 no encontradas y 0 errores.\n\nAñadidas (2), ambas en el apartado J:\n- p. 36, sin número, clase medida y medida_concreta false: «Per aquests motius, cal donar suport als professionals veterinaris i a les entitats de protecció animal…».\n- p. 36, número 207, clase posicion: «Cap activitat econòmica, esportiva o recreativa pot justificar un nivell inferior de protecció.».\n\nCorregidas (14):\n- Nota de la 157: decía «lesivos», que es una valoración tomada del partido. Ahora dice «Revertir acuerdos comerciales que afectan al sector primario».\n- Etiqueta «agua» añadida en la 152 y en las dos citas de la 163.\n- Etiqueta «inteligencia artificial» añadida en las 7 citas de las medidas 202 y 203. Es la etiqueta que ya usan otros archivos.\n- Las 3 posiciones de la introducción de C llevaban «servicios sociales». Ahora llevan «servicios públicos», y la de financiación lleva además «financiación autonómica» y «organización territorial».\n\nNo he eliminado ninguna cita: no hay duplicados ni críticas a otros partidos. La frase «Esquerra Republicana serem el mur de contenció…», que es una crítica, ya estaba bien excluida. Las frases de justificación del final de algunas medidas («Aquesta mesura permetrà…», en las 154, 164, 165, 166 y 216) se dejan fuera correctamente.\n\nLa asignación de números del primer agente en las pp. 34, 36 y 38 cuadra al contar los títulos: 198-200 tienen 3 títulos, 205-208 tienen 4 y 209-216 tienen 8 si se toma la 210 como «Traspassar la titularitat…».\n\nEl script de corrección está en C:\\Users\\ikera\\AppData\\Local\\Temp\\claude\\b3c8a3bf9887241b\\41fbc188-4c5e-4183-ac4d-ae176ff5ac1c\\scratchpad\\revisar-erc-32-38.js."
+   }
+  },
+  {
+   "tramo": "erc-programa-2026 p.39-48",
+   "fuente": "erc-programa-2026",
+   "extraer": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p039-p048.json",
+    "citas": 101,
+    "medidas": 86,
+    "posiciones": 15,
+    "verificador_ok": true,
+    "paginas_sin_contenido": [
+     47,
+     48
+    ],
+    "notas": "El verificador da 101 citas: 100 exactas, 1 normalizada, 0 no encontradas y 0 errores. La normalizada es la de la medida 234, que empieza en la p. 41 con la palabra «referi-» partida al final de página y sigue en la p. 42.\n\nEl tramo abarca las medidas 217 a 258, todas dentro de «C. Defensar els serveis públics», con los subapartados A (infraestructuras), B (red ferroviaria), C (servicios sociales), D (sanidad), E (seguridad), F (municipalismo) y G (universidades e investigación). Los títulos llevan la letra delante, como hace el archivo de BNG con sus números («3. ...», «3.1. ...»).\n\nEn el documento no hay medida 251: la numeración salta de la 250 a la 252.\n\nLas páginas 47 y 48 están vacías en el texto extraído.\n\nLa medida 232 es solo su título; el resto del párrafo describe la situación y no se ha recogido.\n\nEn F y G hay medidas sin número que aparecen en el texto introductorio y se han recogido con «numero»: null: la reforma de la Llei 7/1985, la reforma de la financiación local, el reparto de tributos, los municipios turísticos, la eliminación de duplicidades administrativas, las becas y las desigualdades de género en la universidad.\n\nDe la medida 249 se ha dejado fuera la frase de crítica al Partido Popular.\n\nLos textos se han copiado con el apóstrofo tipográfico (’) del original, y la errata «les competència» de la p. 41 se mantiene tal cual."
+   },
+   "revisar": {
+    "archivo": "E:\\nosequevotar.es\\nosequevotar\\datos\\investigacion-2026\\_trabajo\\citas\\erc-programa-2026\\p039-p048.json",
+    "anadidas": 1,
+    "corregidas": 3,
+    "eliminadas": 0,
+    "citas_finales": 102,
+    "verificador_ok": true,
+    "dudas": [
+     "Medida 232: solo se recoge el título («Equiparar a nivell A de les professionals del sector social.»). El resto del párrafo describe la discriminación laboral y no añade ninguna acción. La cita es literal, pero sin contexto se entiende a medias; la nota lo aclara.",
+     "Medida 230: el último elemento («El tercer fil entre Figueres i Portbou...») es un fragmento sin verbo en el original. Se mantiene como cita aparte por ser una actuación distinta, traducida como «tercer carril».",
+     "Introducción de D (sanidad): se ha dejado fuera la frase «Aquest deteriorament... no pot servir d'excusa per avançar cap a la privatització», que también expresa postura, para no pasar de 3 posiciones. La idea de frenar la privatización ya aparece en la medida 233.",
+     "Introducción de G: la frase «Cal millorar les condicions laborals i retributives, reduir la temporalitat...» no se recoge porque repite la medida 253. El mismo criterio de no duplicar se ha seguido con las frases introductorias que repiten medidas numeradas."
+    ],
+    "notas": "He revisado las páginas 39 a 48 (medidas 217 a 258, apartado «C. Defensar els serveis públics», subapartados A a G). Los títulos coinciden con el índice de la p. 3 y con la cabecera de la p. 37. Las medidas numeradas estaban todas: 217 a 258, sin la 251, que no existe en el documento. Las páginas 47 y 48 están vacías.\n\nCambios:\n1. En la introducción de B, la cita «No podem continuar ampliant la xarxa... Cal reforçar la conservació de les vies...» mezclaba una postura con acciones concretas. La he partido en dos:\n   - una posición: «No podem continuar ampliant la xarxa sense garantir-ne el manteniment, la seguretat i la fiabilitat.»\n   - una medida nueva sin número: «Cal reforçar la conservació de les vies, modernitzar els centres de control...», con las etiquetas transporte y seguridad. Es el mismo criterio que se usa en F y G con las frases que empiezan por «Cal».\n2. La segunda posición de B empezaba con «Cal accelerar-lo», cuyo pronombre no se entiende fuera de contexto. Además, esas acciones ya están en las medidas 222, 225, 226 y 230. La he recortado a «Catalunya necessita més inversió, més manteniment i més sobirania ferroviària...» y he ajustado la traducción.\n3. Traducción de la medida 240: faltaba «son» en «como son la Interpol y la Europol».\n\nLas clases, «medida_concreta», números, apartados, notas y etiquetas del resto de citas son correctos y coherentes entre sí. El verificador da 102 citas: 101 exactas, 1 normalizada (la de la medida 234, partida entre las páginas 41 y 42 por «referi-da»), 0 no encontradas y 0 errores."
+   }
+  }
+ ],
+ "sinRevisar": [],
+ "documentos": [
+  {
+   "fuente": "erc-programa-2026",
+   "citas_totales": 527,
+   "medidas": 453,
+   "posiciones": 74,
+   "apartados_principales": [
+    "Preàmbul",
+    "A. Defensar el país",
+    "B. Defensar la gent",
+    "C. Defensar els serveis públics"
+   ],
+   "numeracion": {
+    "numera_sus_medidas": true,
+    "primera": "1",
+    "ultima": "258",
+    "numeros_que_faltan": []
+   },
+   "cambios_hechos": "Apartados: los 24 subtítulos se han cotejado con el índice (p. 3) y con los títulos del cuerpo del documento. Coinciden en los seis tramos, con la misma grafía y la misma jerarquía, así que no ha hecho falta corregir ninguno. Numeración: el documento usa del 1 al 258. Los números 168-197 y el 251 no aparecen en ninguna página: la medida 167 (p. 33-34) pasa directamente a la 198 (p. 34, sección I) y la 250 (p. 44) a la 252 (p. 45). Son saltos del propio documento, no medidas sin recoger. Todos los números que sí existen tienen al menos una cita de clase medida. Fronteras entre tramos: no hay citas repetidas ni solapadas. Tampoco ha quedado sin recoger ninguna medida en los cortes p11/p12, p17/p18, p24/p25, p31/p32 y p38/p39. Etiquetas igualadas (10 citas): 'sociedad digital' pasa a 'derechos digitales' en las 3 de la medida 102; 'municipios' pasa a 'organización territorial' en las medidas 25 y 37; 'transparencia' pasa a 'instituciones' en la 28; 'seguridad social' pasa a 'servicios sociales' en la 30; 'política exterior' pasa a 'unión europea' en asuntos de la UE (medidas 82, 156 y 246). Verificador: 527 citas, 522 exactas, 5 normalizadas, 0 no encontradas, 0 errores.",
+   "verificador_ok": true,
+   "dudas": [
+    "Los saltos de numeración 168-197 y 251 son del original. Si en la web se muestra el número de medida, puede parecer que faltan medidas.",
+    "El apartado general 'B. Defensar la gent' no tiene ninguna posición propia, a diferencia de A y C. Su introducción (p. 18) mezcla una declaración de prioridades (coste de la vida, vivienda, derechos sociales) con críticas al Gobierno y a otros partidos, por eso no se ha añadido. La frase candidata empieza por 'Davant d’aquests que han estat governant...'.",
+    "En la página 34 los números 198, 199 y 200 van juntos en una línea ('198. 199. 200.') y separados de sus textos. Las citas se han asignado por orden y conviene revisar a mano que cada texto corresponde a su número. Lo mismo pasa en las p. 36 y 38 (205-208 y 209-216).",
+    "Varias medidas sin número salen del texto introductorio de algunos apartados (p. 16, 36, 39, 43-45) y tienen numero null. Son compromisos concretos, pero no están en la lista numerada.",
+    "Se mantienen las etiquetas 'familias', 'gasto público', 'infancia' e 'inteligencia artificial', que aparecen poco pero no son sinónimos de otras etiquetas del documento."
+   ]
+  }
+ ],
+ "documentosSinComprobar": []
+}

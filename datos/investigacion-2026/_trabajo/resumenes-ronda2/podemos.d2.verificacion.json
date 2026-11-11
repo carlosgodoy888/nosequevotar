@@ -1,0 +1,144 @@
+{
+  "revisiones": [
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad y vigencia: el resumen abría con la derogación de la «Ley Mordaza» y el detalle de balas de goma, devoluciones en caliente y falta de respeto a la autoridad, que solo aparecen en declaraciones de 2023 sobre una negociación concreta. Lo que más pesa en el documento de 2025 es democratizar el poder judicial y poner las fuerzas de seguridad bajo control democrático; paso esa línea a la primera frase. Mantengo la derogación, que el documento de 2025 también menciona (c-019d22a226), pero sin el detalle de la falta de respeto a la autoridad.",
+        "Criterio común: «democratizar» es una palabra corriente y va atribuida con «defiende»; quito las comillas aquí y en democracia-e-instituciones.",
+        "«Denuncia lo que considera más violencia policial» queda impreciso; las citas hablan de un aumento. Paso a «lo que describe como un aumento de la violencia policial».",
+        "Apoyos que no respaldan la frase: c-86dda43206 (protección de las madres) y c-72566a67c1 (horizonte abolicionista) no dicen nada de lo que afirma la tercera frase; los quito.",
+        "Desokupa: «comandos neonazis» está literalmente en c-885b494f20 y va atribuido, pero es una etiqueta grave contra una empresa concreta. Describo la medida con las razones que da la propia cita (hacer negocio con la violencia y la criminalización de la pobreza), que es más neutral e igual de fiel.",
+        "Bien excluida la petición de expulsar a un agente concreto (c-abce5e103d), por ser un caso individual."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende democratizar el poder judicial y poner bajo control democrático a las fuerzas de seguridad, y denuncia lo que describe como un aumento de la violencia policial.", "apoyos": ["c-0b93a2fa2b", "c-8fa6e7fb70", "c-3f83977f88", "c-a69fdea240", "c-ffb02731f9", "c-ea9acf3c9f"] },
+        { "texto": "Pide derogar de inmediato la que llama «Ley Mordaza» y prohibir las balas de goma y las devoluciones en caliente.", "apoyos": ["c-279912dd6e", "c-93aaa6e437", "c-019d22a226"] },
+        { "texto": "Propone formar en igualdad a los operadores jurídicos y prohibir el lucro de terceros con la prostitución.", "apoyos": ["c-64704f1246", "c-e6c84c1484"] },
+        { "texto": "Plantea además disolver grupos como Desokupa, a los que acusa de hacer negocio con la violencia y la criminalización de la pobreza.", "apoyos": ["c-885b494f20"] }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Criterio común: «democratizar» es una palabra corriente y va atribuida con «defiende»; quito las comillas, como en seguridad-y-justicia.",
+        "El resto es fiel: «control oligárquico» está literalmente en c-f11be70a75 y va atribuido («lo que llama»); «hasta el último euro robado» está literalmente en c-5346967975 y expresa una línea general, no un caso concreto. Bien excluidas las citas de servicios públicos y fiscalidad y las críticas a otros partidos."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea avanzar hacia una república plurinacional, acompañada de reformas profundas del sistema político e institucional.", "apoyos": ["c-4634b8497b", "c-3f83977f88", "c-55cf246119"] },
+        { "texto": "Defiende democratizar el poder judicial, los medios de comunicación y las fuerzas de seguridad, y limitar de forma drástica lo que llama «control oligárquico» de los medios.", "apoyos": ["c-3f83977f88", "c-a69fdea240", "c-f11be70a75", "c-8fa6e7fb70"] },
+        { "texto": "Propone hacer habituales los referéndums y los presupuestos participativos, y que quien vive y trabaja en España tenga DNI español y derecho al voto.", "apoyos": ["c-6c6af2f86c", "c-392de48155", "c-7ba1d11800"] },
+        { "texto": "Sobre la corrupción, pide que quienes la cometan devuelvan «hasta el último euro robado».", "apoyos": ["c-5346967975"] }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "corregido",
+      "problemas": [
+        "Base mal marcada: de 6 citas, las 4 del documento son de principios sin medidas, y las 2 declaraciones son una de 2023 y otra que no dice de qué negociación ni de qué competencias habla. Es «escasa».",
+        "La tercera frase («Sobre el reparto de competencias, sostiene que antes hay que hablar de derechos y rechaza textos con contenido que considera racista») se apoya solo en c-b2911182bb, que se refiere a una negociación concreta que la cita no identifica. Además, la cita dice que estaban dispuestos a negociar un texto sin contenido racista, no que rechacen textos. La elimino.",
+        "«Dice seguir defendiéndolo en las negociaciones parlamentarias» generaliza en presente una declaración de 2023 sobre una mesa de negociación concreta (c-1468c7843e). La quito; el documento de 2025 ya respalda el derecho a decidir.",
+        "«Soberanías compartidas» y «país de países» están literalmente en las citas y van atribuidos."
+      ],
+      "base": "escasa",
+      "frases": [
+        { "texto": "Defiende una república plurinacional y apuesta por un modelo confederal de lo que llama «soberanías compartidas».", "apoyos": ["c-4634b8497b", "c-fc214e826d", "c-3f83977f88"] },
+        { "texto": "Pide reconocer el derecho a decidir de todos los pueblos de lo que llama un «país de países».", "apoyos": ["c-201d0d978b", "c-3f83977f88", "c-1468c7843e"] }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea una transición ecológica en la que paguen más quienes más contaminan, con impuestos extraordinarios a los beneficios de las grandes energéticas para financiarla.", "apoyos": ["c-55fb716ba4", "c-229ad7e3a6", "c-62efb8a614", "c-71cddcd1f1"] },
+        { "texto": "Propone pagar cada megavatio-hora según su coste de producción en lugar del precio marginalista, crear una empresa pública de energía y nacionalizar Repsol.", "apoyos": ["c-bd5ff8f755", "c-6798ce5b44", "c-66556f1a7b", "c-97180cf5d5", "c-15cf513b08", "c-b7e38526d2"] },
+        { "texto": "Pide gravar actividades de lujo con alta huella de carbono, como yates, aviones privados o campos de golf, y ampliar la protección animal a los perros de caza.", "apoyos": ["c-85cc7b0772", "c-de1adf8548"] }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "corregido",
+      "problemas": [
+        "«Un modelo agroecológico basado en la soberanía alimentaria»: c-42533b2142 dice «que promueva la soberanía alimentaria». Lo ajusto.",
+        "Apoyo poco claro: c-762de69c78 (2024) elogia lo que plantean unos terceros sin decir quiénes ni qué; lo quito de los apoyos.",
+        "«Leyes que frenen la compra de tierras»: c-9fcecf3f86 dice leyes que «impida[n]» que los grandes fondos sigan quedándose con más hectáreas, sin hablar de compra. Lo ajusto a la cita y evito «fondos buitre».",
+        "Apoyos poco claros en la tercera frase: c-cdb17708dc («ese oligopolio») no dice de qué sector habla, y c-cabbe04761 no respalda lo que afirma la frase. Dejo solo c-46bc6498db."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende proteger las pequeñas y medianas explotaciones agrícolas y ganaderas y avanzar hacia un modelo agroecológico que promueva la soberanía alimentaria.", "apoyos": ["c-4ff93229c3", "c-42533b2142"] },
+        { "texto": "Propone leyes que impidan que los grandes fondos internacionales sigan acumulando tierras y quitar a los fondos especulativos los derechos de riego que, según dice, acaparan.", "apoyos": ["c-9fcecf3f86", "c-4911c51cf0"] },
+        { "texto": "Quiere intervenir los márgenes de beneficio de la alimentación, garantizando la viabilidad de pequeños comercios y productores.", "apoyos": ["c-46bc6498db"] },
+        { "texto": "Contra la despoblación, pide incluir la perspectiva rural en todas las políticas y reforzar los servicios públicos y la atención sanitaria en estas zonas.", "apoyos": ["c-7b7e23e695", "c-04038290da"] }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "corregido",
+      "problemas": [
+        "Gratuidad: c-16bea66940 la pide «para anticiparse a una situación difícil», no como medida general; «e incluso volver a hacerlo completamente gratuito» le quita ese contexto. Lo añado.",
+        "Sintaxis ambigua en la tercera frase («ampliar las zonas de bajas emisiones y ayudas»): la cita habla de aprobar un plan de ayudas, no de ampliar ayudas. Lo corrijo.",
+        "Bien excluida c-5a8b6403f0, que pide una dimisión y aplicar el artículo 128 de la Constitución sin decir de quién ni para qué; el resumen no le atribuye nada."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone mantener y ampliar los descuentos al transporte público urbano e interurbano, y ha pedido volver a hacerlo completamente gratuito para anticiparse a una situación difícil.", "apoyos": ["c-15ddc9ec43", "c-16bea66940"] },
+        { "texto": "Pide renacionalizar el ferrocarril, invertir lo suficiente en él y garantizar el derecho a la movilidad desde lo público.", "apoyos": ["c-2d41189143", "c-ece31c7ce6"] },
+        { "texto": "Quiere ampliar las zonas de bajas emisiones y aprobar ayudas para que familias con menos recursos accedan a un coche eléctrico al precio de uno de gasolina o diésel.", "apoyos": ["c-7e6489e2f3"] }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "corregido",
+      "problemas": [
+        "«Pone el feminismo en el centro» exagera c-10c1148dfd, que lo llama «uno de los principales vectores ideológicos». Lo ajusto.",
+        "Falta la medida concreta con cifra más reciente: elevar a 1.000 millones el presupuesto contra la violencia machista (c-6b5de50699, 2026). La incluyo en lugar del Pacto de Estado para no pasar de 90 palabras.",
+        "«Los privilegios fiscales de la Iglesia» presentaba como hecho lo que es una valoración del partido. Lo atribuyo («lo que llama»).",
+        "«Ley del solo sí es sí» es el nombre popular de la ley y va bien entre comillas; «Centros de Internamiento de Extranjeros» ya va desarrollado."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Sitúa el feminismo entre sus ejes, pide aplicar íntegramente la ley del «solo sí es sí» y elevar a 1.000 millones el presupuesto contra la violencia machista.", "apoyos": ["c-10c1148dfd", "c-ecb093bfa6", "c-6b5de50699"] },
+        { "texto": "Defiende garantizar el aborto en la sanidad pública, perseguir los vientres de alquiler y avanzar hacia abolir la prostitución.", "apoyos": ["c-5ac935f195", "c-b8c69e7dcc", "c-3aa67c9cec", "c-72566a67c1"] },
+        { "texto": "Sostiene que migrar es un derecho y propone derogar la ley de extranjería y cerrar los Centros de Internamiento de Extranjeros.", "apoyos": ["c-42f1235bae", "c-16f289564d", "c-acaf170cdc", "c-a99263fb26"] },
+        { "texto": "Pide ampliar los derechos LGTBIQ+, impulsar la memoria democrática y acabar con el concordato y lo que llama privilegios fiscales de la Iglesia.", "apoyos": ["c-381a4d6bc5", "c-23c4ab7bb5", "c-c5e5b1a81b", "c-cd91a60343", "c-1a10c32093"] }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "corregido",
+      "problemas": [
+        "Sintaxis en la cuarta frase: «priorizar […] relaciones de igual a igual con África» no es lo que dice c-99a4a9a4e8 (establecerlas). Añado el verbo.",
+        "Bien evitado «estado genocida» (c-2104d71785) y bien descartadas c-300a687adf (Repsol) y c-4ff1f94619 (educación infantil), que no tratan del tema. «Que considera dinero restado» va atribuido."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Rechaza el aumento del gasto militar, que considera dinero restado a los servicios públicos y las pensiones, y pide no acatar la exigencia de Donald Trump de elevarlo.", "apoyos": ["c-3e7cab8ab9", "c-eb21de4331", "c-a107807ed1", "c-c25752eab1", "c-0a7a10ee78"] },
+        { "texto": "Propone salir de la OTAN cuanto antes.", "apoyos": ["c-c25752eab1", "c-23ce3c244f", "c-11ff4fccb4"] },
+        { "texto": "Pide romper las relaciones diplomáticas y comerciales con Israel e imponerle un embargo de armas.", "apoyos": ["c-2104d71785", "c-d752e95474"] },
+        { "texto": "Quiere priorizar las alianzas con América Latina, establecer relaciones de igual a igual con África y derogar el Pacto Europeo de Migración y Asilo.", "apoyos": ["c-3f09e6e5d6", "c-99a4a9a4e8", "c-1bbff85df1"] }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "corregido",
+      "problemas": [
+        "Sigla poco conocida: el INAEM aparecía sin desarrollar. La desarrollo (Instituto Nacional de las Artes Escénicas y de la Música).",
+        "«Odio machista, LGTBIfóbico» no es literal: c-f58bb8eaf7 dice «misógino, LGTBIQA+fóbico». Lo ajusto.",
+        "Orden: el resumen abría con una frase de un discurso parlamentario («crujamos a impuestos»). Pongo primero la línea del documento sobre las redes sociales y acorto la frase de la IA para no pasar de 90 palabras."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea crear una red social pública con un algoritmo transparente y trabajar por unas redes libres de odio misógino, LGTBIQA+fóbico y racista.", "apoyos": ["c-23d41c820a", "c-f58bb8eaf7"] },
+        { "texto": "Propone subir mucho los impuestos a las plataformas a las que acusa de difundir odio y destinar lo recaudado a educación sexual obligatoria.", "apoyos": ["c-606afceb5b", "c-f0cd94d28b"] },
+        { "texto": "Defiende regular la inteligencia artificial atendiendo a su impacto ambiental, laboral y en los trabajos creativos.", "apoyos": ["c-290ac297b8"] },
+        { "texto": "Pide reducir la temporalidad de la plantilla del Instituto Nacional de las Artes Escénicas y de la Música (INAEM) del 30 % a menos del 8 %.", "apoyos": ["c-1ff21ad51b"] }
+      ]
+    }
+  ]
+}

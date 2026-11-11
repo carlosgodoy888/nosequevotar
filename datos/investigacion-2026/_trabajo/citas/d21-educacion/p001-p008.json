@@ -1,0 +1,988 @@
+{
+  "fuente": "d21-educacion",
+  "partido": "d21",
+  "paginas": [
+    1,
+    8
+  ],
+  "citas": [
+    {
+      "cita": "La educación debe estar en el centro de todo. Es el principal motor de movilidad social, igualdad de oportunidades y progreso personal de cualquier sociedad: apostar por ser siempre nuestra mejor versión, formándonos desde la infancia hasta la edad adulta. Es la única vía para construir una sociedad próspera y con futuro.",
+      "pagina": 2,
+      "apartado": [
+        "La educación en el centro"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La educación como motor de movilidad social y progreso",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "en la sociedad tecnológica hacia la que nos movemos, dominar la tecnología es tan vital para ser un ciudadano libre como lo fue aprender a leer y escribir el siglo pasado.",
+      "pagina": 2,
+      "apartado": [
+        "Una educación para el siglo 21",
+        "Incorporaremos la Tecnología como un Pilar Fundamental del Currículo Educativo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Dominar la tecnología, tan vital como leer y escribir",
+      "etiquetas": [
+        "educación",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Buscaremos superar el error de limitarse a sustituir libros por pantallas, e incorporaremos el conocimiento tecnológico aplicado (fundamentos de IA, ciberseguridad, ética digital, pensamiento computacional, algoritmos y redes sociales) como una especialidad troncal y transversal en el currículo, manteniendo una convivencia adecuada entre lo analógico y lo digital.",
+      "pagina": 2,
+      "apartado": [
+        "Una educación para el siglo 21",
+        "Incorporaremos la Tecnología como un Pilar Fundamental del Currículo Educativo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Conocimiento tecnológico aplicado como especialidad troncal y transversal del currículo",
+      "etiquetas": [
+        "educación",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "para proteger a nuestros estudiantes de los riesgos y los sesgos de utilizar inteligencias artificiales genéricas sin control, garantizaremos un entorno de formación digital seguro.",
+      "pagina": 2,
+      "apartado": [
+        "Una educación para el siglo 21",
+        "Inteligencia Artificial Educativa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Garantizar un entorno de formación digital seguro para estudiantes",
+      "etiquetas": [
+        "educación",
+        "ciencia y tecnología",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollaremos un modelo de lenguaje de Inteligencia Artificial propio de apoyo a la educación que fomente el pensamiento crítico, siguiendo el exitoso modelo educativo de Estonia (nº1 en PISA en Europa). Estará financiado y auditado por el Estado. Este sistema actuará como un tutor de refuerzo personalizado para cada estudiante, adaptándose a la diversidad del alumnado y garantizando su privacidad.",
+      "pagina": 2,
+      "apartado": [
+        "Una educación para el siglo 21",
+        "Inteligencia Artificial Educativa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Modelo de IA educativa propio, financiado y auditado por el Estado",
+      "etiquetas": [
+        "educación",
+        "ciencia y tecnología",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "la tecnología no debe apagar nuestra capacidad de comunicación humana.",
+      "pagina": 3,
+      "apartado": [
+        "Una educación para el siglo 21",
+        "Saber Comunicar será una Prioridad Absoluta"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La tecnología no debe apagar la comunicación humana",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ante el retroceso de la comprensión y la expresión oral en las aulas, implementaremos un programa transversal a todas las asignaturas para enseñar a comunicar con seguridad. Saber estructurar ideas, argumentar procesos deductivos, debatir desde el respeto y hablar en público será una prioridad curricular, dotando a los estudiantes de la confianza necesaria para defender sus reflexiones en cualquier entorno personal o profesional.",
+      "pagina": 3,
+      "apartado": [
+        "Una educación para el siglo 21",
+        "Saber Comunicar será una Prioridad Absoluta"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Programa transversal de comunicación oral y hablar en público",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "nuestros jóvenes no pueden terminar su educación obligatoria sin saber leer una nómina, entender una hipoteca o desconociendo cómo se financian los servicios públicos mediante los impuestos.",
+      "pagina": 3,
+      "apartado": [
+        "Una educación para el siglo 21",
+        "Educación Económica para la Vida"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Necesidad de formación económica básica en la educación obligatoria",
+      "etiquetas": [
+        "educación",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporaremos una nueva materia obligatoria de Cultura Económica y Financiera en la ESO. Su currículo tendrá un enfoque práctico y se articulará en tres pilares esenciales: economía personal, economía social y economía profesional/del emprendimiento.",
+      "pagina": 3,
+      "apartado": [
+        "Una educación para el siglo 21",
+        "Educación Económica para la Vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva materia obligatoria de Cultura Económica y Financiera en la ESO",
+      "etiquetas": [
+        "educación",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "estableceremos un Programa de Corresponsabilidad Educativa con representantes de Respeto Escolar entre profesores, alumnos y padres. Al inicio de cada curso escolar se acordarán compromisos claros y mutuos entre los docentes, los estudiantes y las familias.",
+      "pagina": 3,
+      "apartado": [
+        "Una educación para el siglo 21",
+        "Respeto, Corresponsabilidad y Convivencia Escolar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Programa de Corresponsabilidad Educativa con compromisos entre docentes, alumnos y familias",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se implantará un Premio Nacional para aquellos centros que hayan destacado por su labor de fomento de la convivencia y se creará una Caja de Herramientas pública con las medidas que funcionen mejor cada año para que todos los centros puedan utilizar las mejores prácticas.",
+      "pagina": 3,
+      "apartado": [
+        "Una educación para el siglo 21",
+        "Respeto, Corresponsabilidad y Convivencia Escolar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Premio Nacional de convivencia escolar y Caja de Herramientas pública",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "proponemos que, al menos una vez al año, los negocios locales asuman el compromiso cívico de dedicar una jornada a entablar contacto directo con los jóvenes en etapa escolar mediante visitas, retos o microprácticas.",
+      "pagina": 3,
+      "apartado": [
+        "Una educación para el siglo 21",
+        "Aprendizaje Práctico en el Mundo Real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Jornada anual de contacto entre negocios locales y escolares",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "pondremos en marcha un Plan Estatal Educativo para situar a España en el top 10 de países europeos en los tres ámbitos de PISA (matemáticas, comprensión lectora y ciencias) en un plazo máximo de 8 años.",
+      "pagina": 3,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Objetivo PISA - España al Top 10 Europeo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan estatal: top 10 europeo en PISA en ocho años",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para lograr una mejora inmediata en los alumnos, impulsaremos una remodelación que amplíe las horas dedicadas a las materias instrumentales.",
+      "pagina": 3,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Objetivo PISA - España al Top 10 Europeo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliar las horas de las materias instrumentales",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Junto con el profesorado, estableceremos metodologías avaladas por la ciencia cognitiva y la evidencia internacional: el refuerzo de la fonética, la lectura en voz alta, la escritura creativa y el fomento de la lectura de libros completos; el cálculo mental y la resolución lógica paso a paso en matemáticas; y la observación, la hipótesis y la experimentación directa para la comprensión de las ciencias.",
+      "pagina": 3,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Objetivo PISA - España al Top 10 Europeo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Metodologías de lectura, matemáticas y ciencias avaladas por la evidencia",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "restableceremos las menciones y especializaciones disciplinares en el grado de Educación (Matemáticas, Lengua y Ciencias) y crearemos una nueva especialidad en Tecnología.",
+      "pagina": 4,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Nuevas Especialidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Restablecer menciones disciplinares en el grado de Educación y crear Tecnología",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para facilitar la formación de los actuales docentes, impulsaremos planes de formación continua para que puedan acreditarse en estas nuevas especialidades.",
+      "pagina": 4,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Nuevas Especialidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación continua para acreditar a docentes en las nuevas especialidades",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para garantizar que todos los niños inicien su etapa escolar con la misma base de oportunidades, acabaremos con la visión asistencial de \"guardería\" para la conciliación y consolidaremos los 0-3 como la etapa pedagógica más decisiva.",
+      "pagina": 4,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Educación Infantil (0-3 años) como Primer Ascensor Social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Consolidar el ciclo 0-3 como etapa pedagógica, no asistencial",
+      "etiquetas": [
+        "educación",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revalorizaremos de forma tangible a los educadores infantiles —dignificando su remuneración, revisando las ratios e incorporando progresivamente la \"pareja educativa\" de apoyo en el aula— e impulsaremos un nuevo plan de estimulación temprana enfocado en la riqueza del lenguaje, la psicomotricidad y la interacción cognitiva.",
+      "pagina": 4,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Educación Infantil (0-3 años) como Primer Ascensor Social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mejora salarial y de ratios en 0-3, pareja educativa y estimulación temprana",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "ningún estudiante ni docente puede rendir en aulas obsoletas o degradadas.",
+      "pagina": 4,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Plan de Renovación de Infraestructuras Educativas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a las aulas obsoletas o degradadas",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Lanzaremos un plan estatal extraordinario para la rehabilitación integral y modernización de colegios e institutos públicos, garantizando la eficiencia energética, la climatización adecuada frente a olas de calor o frío, la eliminación definitiva de barracones y la dotación de laboratorios, talleres y material tecnológico de calidad.",
+      "pagina": 4,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Plan de Renovación de Infraestructuras Educativas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan estatal de rehabilitación y modernización de colegios e institutos públicos",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "evaluaremos periódicamente los conocimientos a nivel nacional para erradicar las brechas territoriales (no es aceptable que unas Comunidades Autónomas estén al nivel de Canadá y otras al nivel de Turquía).",
+      "pagina": 4,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Sistema de Medición para el Apoyo Educativo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Evaluación nacional periódica de conocimientos para reducir brechas territoriales",
+      "etiquetas": [
+        "educación",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se activará un programa estatal de apoyo y refuerzo para aquellas comunidades que caigan más de dos puntos por debajo de la media nacional.",
+      "pagina": 4,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Sistema de Medición para el Apoyo Educativo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Programa estatal de refuerzo para comunidades por debajo de la media",
+      "etiquetas": [
+        "educación",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para contextualizar estos resultados adecuadamente, crearemos un Índice Socioeducativo que medirá el nivel socioeconómico de las familias, el número de estudiantes con necesidades específicas y los indicadores de convivencia, determinando de forma objetiva la financiación y los recursos extra que le corresponden a cada centro.",
+      "pagina": 4,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Sistema de Medición para el Apoyo Educativo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Índice Socioeducativo para asignar financiación y recursos extra a centros",
+      "etiquetas": [
+        "educación",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Utilizando los datos del Índice Socioeducativo, asignaremos a los centros Equipos Permanentes de Refuerzo (educadores sociales, orientadores psicopedagógicos y profesores de lenguas extranjeras).",
+      "pagina": 5,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Escudos de Apoyo Docente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Equipos Permanentes de Refuerzo asignados a los centros",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoveremos un modelo de \"docencia compartida\" intermitente, donde el docente cuente con apoyo directo para gestionar los casos de complejidad y mantener el ritmo académico del resto del grupo.",
+      "pagina": 5,
+      "apartado": [
+        "Recuperar todo el potencial educativo del país",
+        "Escudos de Apoyo Docente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Modelo de docencia compartida intermitente con apoyo en el aula",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "conscientes de la frustración y la sensación de estancamiento que sufren los docentes en un sistema rígido donde la única forma de avanzar profesionalmente es acumular antigüedad, abriremos un proceso de escucha activa y colaboración directa con los profesores para co-diseñar un nuevo modelo de carrera profesional.",
+      "pagina": 5,
+      "apartado": [
+        "Fortalecer el prestigio de la docencia",
+        "Reconocer el Mérito y el Esfuerzo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Proceso con el profesorado para diseñar una nueva carrera profesional docente",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Queremos construir juntos, desde la experiencia real de las aulas, un sistema de progresión abierto para la enseñanza en el siglo 21, que deje atrás el modelo exclusivo de antigüedad y permita por fin reconocer, valorar y recompensar el esfuerzo y la vocación de los docentes.",
+      "pagina": 5,
+      "apartado": [
+        "Fortalecer el prestigio de la docencia",
+        "Reconocer el Mérito y el Esfuerzo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Carrera docente que supere la antigüedad y reconozca el esfuerzo",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "para poner en valor y blindar la exigencia de esta vocación como se merece, estableceremos evaluaciones específicas de ingreso para acceder a los grados universitarios de enseñanza. Se medirá la competencia comunicativa, la comprensión lectora, la expresión escrita y el perfil vocacional del aspirante, garantizando que quien quiera dedicarse a la enseñanza siempre posea una base humana y académica excelente.",
+      "pagina": 5,
+      "apartado": [
+        "Fortalecer el prestigio de la docencia",
+        "Pruebas de Acceso a las Facultades de Educación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pruebas específicas de acceso a los grados universitarios de enseñanza",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "transformaremos la preparación docente mediante un sistema inspirado en el modelo sanitario. Implantaremos el MIR Educativo: dos años de formación práctica remunerada e inmersión total en los colegios e institutos.",
+      "pagina": 5,
+      "apartado": [
+        "Fortalecer el prestigio de la docencia",
+        "MIR Educativo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "MIR Educativo: dos años de formación práctica remunerada",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nadie conoce mejor la realidad del aula que quienes imparten clase en ella cada día, por lo que esta etapa estará guiada y supervisada por nuestros actuales profesores. Ellos actuarán como mentores de las nuevas generaciones, transmitiendo su experiencia vital, respaldando a los aspirantes y garantizando una evaluación continua y de calidad sobre el terreno.",
+      "pagina": 5,
+      "apartado": [
+        "Fortalecer el prestigio de la docencia",
+        "MIR Educativo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Profesores en activo como mentores y supervisores del MIR Educativo",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "profesionalizaremos la figura del director para convertirlo en un verdadero líder pedagógico con formación específica y remuneración acorde a su responsabilidad.",
+      "pagina": 5,
+      "apartado": [
+        "Fortalecer el prestigio de la docencia",
+        "Profesionalizar y Respaldar la Dirección Educativa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Profesionalizar la dirección de centros con formación y remuneración específicas",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asumir la dirección de un centro no puede significar estar solo frente a los problemas diarios; por ello, garantizaremos un apoyo institucional y administrativo, dotando a los equipos directivos del respaldo necesario para que puedan centrarse en lo verdaderamente importante: impulsar el proyecto educativo y cuidar de su comunidad escolar.",
+      "pagina": 6,
+      "apartado": [
+        "Fortalecer el prestigio de la docencia",
+        "Profesionalizar y Respaldar la Dirección Educativa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo institucional y administrativo a los equipos directivos",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "romperemos la rigidez de los planes de estudio para adaptarlos a una realidad laboral en la que las fronteras entre disciplinas es cada vez más difusa y los conocimientos de distintas áreas se combinan constantemente.",
+      "pagina": 6,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Grados Flexibles e Interuniversitarios"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Flexibilizar los planes de estudio universitarios",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implementaremos un primer curso optativo común por ramas de conocimiento que evite el abandono ante dudas vocacionales.",
+      "pagina": 6,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Grados Flexibles e Interuniversitarios"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Primer curso universitario optativo común por ramas de conocimiento",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los grados permitirán combinar microcredenciales, menciones flexibles e itinerarios con otras universidades.",
+      "pagina": 6,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Grados Flexibles e Interuniversitarios"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Grados con microcredenciales, menciones flexibles e itinerarios interuniversitarios",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "siguiendo el camino de otros países, fomentaremos la experiencia práctica en todas las etapas de la formación universitaria, acercando la universidad al mundo profesional para que los jóvenes obtengan no solo formación académica, sino también para la empleabilidad.",
+      "pagina": 6,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Aprendizaje Práctico"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomentar la experiencia práctica en toda la formación universitaria",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminaremos las trabas burocráticas y laborales que actualmente dificultan el acceso a prácticas.",
+      "pagina": 6,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Aprendizaje Práctico"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Eliminar trabas burocráticas y laborales para acceder a prácticas",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Diseñaremos un sistema de incentivos para que las empresas ofrezcan oportunidades de aprendizaje y experiencia real a los estudiantes, con garantías de calidad, remuneración, supervisión y protección frente a abusos.",
+      "pagina": 6,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Aprendizaje Práctico"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivos a empresas que ofrezcan prácticas con garantías y remuneración",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizaremos que todos los títulos incorporen prácticas tutorizadas y conectadas con el mundo profesional.",
+      "pagina": 6,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Aprendizaje Práctico"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prácticas tutorizadas en todos los títulos universitarios",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "apoyaremos los acuerdos entre universidades públicas en la apertura de campus internacionales (especialmente en países de habla hispana) para multiplicar las opciones de movilidad de nuestros estudiantes y proyectar nuestro talento académico e influencia a nivel internacional.",
+      "pagina": 6,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Expansión Internacional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a campus internacionales de universidades públicas",
+      "etiquetas": [
+        "educación",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizaremos el pago de las becas al inicio del curso unificando los calendarios académicos antes del verano, evaluando la renta fiscal de dos años antes para agilizar trámites y asignando la revisión económica al Ministerio de Hacienda, liberando así a las universidades de esta carga.",
+      "pagina": 6,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Becas Que Lleguen a Tiempo en Septiembre"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pago de las becas al inicio del curso y revisión por Hacienda",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para orientar la elección de los estudiantes y sus familias con datos reales, crearemos el primer Comparador Público de Titulaciones: una plataforma estatal que mostrará de forma transparente, grado por grado y universidad por universidad, el nivel de satisfacción estudiantil, las tasas de inserción laboral a 1, 3 y 5 años y los salarios medios de sus egresados.",
+      "pagina": 7,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Comparador Público de Titulaciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plataforma estatal que compara titulaciones por satisfacción, inserción y salarios",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "abriremos la contratación de profesorado a estándares internacionales y tribunales externos independientes para retener y atraer a los mejores investigadores del mundo.",
+      "pagina": 7,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Talento Docente y Sexenio de Innovación Docente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Contratación de profesorado universitario con estándares internacionales y tribunales externos",
+      "etiquetas": [
+        "educación",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Junto a la investigación, fomentaremos el prestigio de la enseñanza creando un Sexenio específico de Innovación Docente con impacto salarial y de promoción para premiar a quienes destacan por su excelencia pedagógica y mentoría.",
+      "pagina": 7,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Talento Docente y Sexenio de Innovación Docente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sexenio de Innovación Docente con impacto salarial y de promoción",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "También facilitaremos la contratación ágil de profesores asociados procedentes de la sociedad civil y del tejido productivo.",
+      "pagina": 7,
+      "apartado": [
+        "Universidad flexible, práctica y conectada al mundo real",
+        "Talento Docente y Sexenio de Innovación Docente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Contratación ágil de profesores asociados de la sociedad civil",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "atajaremos la precariedad y la excesiva rotación de plantillas en la FP, que en determinados centros supera el 80% anual.",
+      "pagina": 7,
+      "apartado": [
+        "Apostar por la formación profesional más que nunca",
+        "Atracción y Estabilidad del Talento Docente en FP"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducir la precariedad y rotación del profesorado de FP",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reformaremos el acceso a las bolsas docentes dando prioridad absoluta a la experiencia técnica en el sector productivo real, con oposiciones donde la prueba práctica tenga mayor peso que la teórica.",
+      "pagina": 7,
+      "apartado": [
+        "Apostar por la formación profesional más que nunca",
+        "Atracción y Estabilidad del Talento Docente en FP"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acceso a la docencia de FP que prime la experiencia técnica",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para evitar la fuga de estos profesionales a la empresa privada, crearemos un complemento salarial específico que retenga el talento en especialidades críticas (robótica, informática, automoción o mantenimiento industrial), indexado a los sueldos del mercado.",
+      "pagina": 7,
+      "apartado": [
+        "Apostar por la formación profesional más que nunca",
+        "Atracción y Estabilidad del Talento Docente en FP"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Complemento salarial para docentes de FP en especialidades críticas",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "reformaremos el calendario de la FP para eliminar la obligatoriedad de las prácticas en primer curso y trasladarlas por defecto al segundo curso, condicionando legalmente el acceso a la empresa a que el alumno haya asimilado y demostrado todos los conocimientos exigidos.",
+      "pagina": 7,
+      "apartado": [
+        "Apostar por la formación profesional más que nunca",
+        "Flexibilización de la FP y Tutor Compartido para las PYMES"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Trasladar las prácticas de FP del primer al segundo curso",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, para adaptar el modelo a la realidad de las PYMEs españolas, crearemos la figura del Tutor Compartido Sectorial, financiado por la administración para apoyar a las pequeñas empresas que no pueden tutorizar por sí solas.",
+      "pagina": 7,
+      "apartado": [
+        "Apostar por la formación profesional más que nunca",
+        "Flexibilización de la FP y Tutor Compartido para las PYMES"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tutor Compartido Sectorial financiado para las prácticas en pymes",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "reconoceremos la función social de las PYMES y autónomos que abren sus puertas al talento joven en un entorno donde la tecnología transforma rápidamente las tareas de los perfiles júnior.",
+      "pagina": 8,
+      "apartado": [
+        "Apostar por la formación profesional más que nunca",
+        "Créditos de Retorno Empresarial - Premiar y Compensar a Quien Forma"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reconocimiento a pymes y autónomos que forman a jóvenes",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos los Créditos de Retorno Empresarial, un sistema donde las PYMES acumularán saldo por cada hora de mentoría y tutoría certificada, canjeable por deducciones fiscales directas, formación para su propia plantilla, acceso a talleres públicos de FP o puntuación extra en la contratación pública.",
+      "pagina": 8,
+      "apartado": [
+        "Apostar por la formación profesional más que nunca",
+        "Créditos de Retorno Empresarial - Premiar y Compensar a Quien Forma"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Créditos canjeables para pymes por horas de mentoría y tutoría",
+      "etiquetas": [
+        "educación",
+        "empleo",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "implantaremos un modelo de presupuestación plurianual —revisable cada tres años— que fije la inversión en plazas, infraestructuras, materiales y profesorado en función de tres ejes estratégicos de demanda: el interés del alumnado, las necesidades reales de contratación del tejido empresarial y los sectores estratégicos nacionales (acabando definitivamente con las listas de espera en titulaciones con pleno empleo).",
+      "pagina": 8,
+      "apartado": [
+        "Apostar por la formación profesional más que nunca",
+        "Financiación Plurianual Estratégica para las FP"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Presupuestación plurianual de la FP revisable cada tres años",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Integraremos el Bono Cultural Joven y el Verano Joven en una Hucha de Formación para Jóvenes, dirigida a todas las personas que cumplan 18 años en España. Los 300 millones de euros anuales actualmente destinados a ambas iniciativas se integrarán en una cuenta digital individual de aproximadamente 500 euros por joven, utilizable en matrículas universitarias o de formación profesional, formación cultural, certificados profesionales, idiomas, formación tecnológica, oposiciones, actividades artísticas y materiales de estudio.",
+      "pagina": 8,
+      "apartado": [
+        "Hucha de formación para jóvenes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Hucha formativa de unos 500 euros al cumplir 18 años",
+      "etiquetas": [
+        "educación",
+        "juventud",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Evaluaremos también la ampliación para todas las personas residentes en España de entre 18 y 30 años.",
+      "pagina": 8,
+      "apartado": [
+        "Hucha de formación para jóvenes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Evaluar ampliar la hucha a residentes de 18 a 30 años",
+      "etiquetas": [
+        "educación",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

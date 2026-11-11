@@ -1,0 +1,18 @@
+{ "revisiones": [
+  { "tema": "transporte", "veredicto": "corregido", "problemas": [
+      "Frase 3: la cita c-3f1ebe9ef6 no dice a qué comunidad se refiere la transferencia ni que esté «prevista en» el Estatuto; solo critica que la transferencia de los trenes de Cercanías se alargue y que eso impida cumplir «un Estatuto aprobado en 1979». «Reclama completar la transferencia prevista en el Estatuto de 1979» le atribuye más de lo que dice; se reescribe como crítica a que siga pendiente, ligada a un Estatuto de 1979, sin inventar el ámbito.",
+      "Frase 3: c-2404466ffd pide «una profunda e integral reflexión sobre el modelo y sobre las políticas ferroviarias»; «revisar a fondo» sube un poco la fuerza. Se cambia por «reflexionar a fondo sobre el modelo ferroviario»."
+    ], "base": "suficiente", "frases": [
+    { "texto": "Plantea dejar atrás las grandes inversiones en una red exclusiva de alta velocidad y renovar a fondo el trazado ferroviario existente.", "apoyos": ["c-da486be4d5", "c-eb57101b08", "c-7e5981bf53"] },
+    { "texto": "Defiende un tren que combine largo recorrido competitivo, cercanías de calidad, mercancías y servicio a pueblos intermedios para combatir la despoblación.", "apoyos": ["c-7e5981bf53", "c-eb57101b08"] },
+    { "texto": "Tras varios accidentes graves, pide reflexionar a fondo sobre el modelo ferroviario y critica que la transferencia de Cercanías, ligada a un Estatuto de 1979, siga pendiente.", "apoyos": ["c-2404466ffd", "c-3f1ebe9ef6"] },
+    { "texto": "Considera que reducir el número de vuelos es una de las soluciones al impacto climático de la aviación.", "apoyos": ["c-7e9baa726c"] }
+  ] },
+  { "tema": "ciencia-cultura-y-digital", "veredicto": "corregido", "problemas": [
+      "Frase 1: la cita c-8b29cdc40e contrapone las expresiones culturales de base a «un modelo de megaproyectos y macroeventos»; «proteger … frente a megaproyectos y macroeventos» lo convierte en protección contra esos eventos. Se recoge como contraposición de modelos. La cita no dice el ámbito del estatuto («las competencias que tenemos»), así que no se añade.",
+      "Se mantiene la base escasa (cinco declaraciones dispersas, ninguna sobre investigación) y la omisión de c-34239ea38f, que no dice qué se evalúa. La de IA (c-e6def701ca) se hizo en el Parlamento Vasco y habla de «nuestro país»; dejarla fuera de un resumen de dos frases para unas generales es defendible."
+    ], "base": "escasa", "frases": [
+    { "texto": "Propone un estatuto que proteja las expresiones culturales de base, frente a un modelo de megaproyectos y macroeventos, y garantice condiciones dignas a los profesionales de la cultura.", "apoyos": ["c-8b29cdc40e"] },
+    { "texto": "Defiende que los trámites electrónicos con la Administración del Estado puedan hacerse en todas las lenguas oficiales y que deportistas puedan representar a Euskal Herria internacionalmente.", "apoyos": ["c-8e45ac3872", "c-c792f6a8ea"] }
+  ] }
+] }

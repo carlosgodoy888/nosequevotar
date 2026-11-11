@@ -1,0 +1,1485 @@
+{
+  "fuente": "d21-espana-limpia",
+  "partido": "d21",
+  "paginas": [
+    1,
+    13
+  ],
+  "citas": [
+    {
+      "cita": "La democracia es el mejor sistema para garantizar la libertad, los derechos y la prosperidad. Precisamente por eso es necesario protegerla, modernizarla y fortalecerla.",
+      "pagina": 2,
+      "apartado": [
+        "España Limpia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de la democracia y necesidad de modernizarla",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Creemos en una política basada en el servicio público, el mérito, la ética, la rendición de cuentas, la búsqueda de consensos, y la orientación a resultados.",
+      "pagina": 2,
+      "apartado": [
+        "España Limpia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Principios de la política: mérito, ética y rendición de cuentas",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para poder avanzar es imperativo hacer una limpieza política integral que vaya mucho más allá de un simple cambio de caras. Y que permita liberar los muchísimos recursos que los partidos políticos dedican a sí mismos y a los suyos para ponerlos al servicio de la ciudadanía.",
+      "pagina": 2,
+      "apartado": [
+        "España Limpia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Limpieza política integral y liberación de recursos de los partidos",
+      "etiquetas": [
+        "instituciones",
+        "partidos políticos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cortando el clientelismo con despidos y normas estrictas de mérito y capacidad.",
+      "pagina": 2,
+      "apartado": [
+        "España Limpia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cortar el clientelismo con despidos y normas de mérito",
+      "etiquetas": [
+        "administración pública",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Atajando la corrupción política con medidas tajantes.",
+      "pagina": 2,
+      "apartado": [
+        "España Limpia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Atajar la corrupción política",
+      "etiquetas": [
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Con instituciones despolitizadas y organismos de control efectivos y rigurosamente independientes.",
+      "pagina": 2,
+      "apartado": [
+        "España Limpia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Instituciones despolitizadas y organismos de control independientes",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y devolviendo el control a la ciudadanía.",
+      "pagina": 2,
+      "apartado": [
+        "España Limpia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Devolver el control a la ciudadanía",
+      "etiquetas": [
+        "participación ciudadana",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La Administración pública no es propiedad de los partidos políticos: nos pertenece a los ciudadanos.",
+      "pagina": 3,
+      "apartado": [
+        "No más redes clientelares"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La Administración pertenece a los ciudadanos, no a los partidos",
+      "etiquetas": [
+        "administración pública",
+        "partidos políticos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es hora de limpiar radicalmente nuestras instituciones de todas las redes clientelares.",
+      "pagina": 3,
+      "apartado": [
+        "No más redes clientelares"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Eliminar las redes clientelares de las instituciones",
+      "etiquetas": [
+        "administración pública",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reducción del 90% de los asesores: los ministros/consejeros no podrán tener más de 4 asesores, los vicepresidentes no más de 7 y el gabinete del Presidente no más de 20.",
+      "pagina": 3,
+      "apartado": [
+        "No más redes clientelares",
+        "Punto y final al tsunami de asesores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reducción del 90% de asesores con topes por cargo",
+      "etiquetas": [
+        "administración pública",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Presidente del Gobierno podrá nombrar asesores temporales para proyectos o políticas específicas, pero su nombramiento requerirá un proceso competitivo completamente abierto y meritocrático.",
+      "pagina": 3,
+      "apartado": [
+        "No más redes clientelares",
+        "Punto y final al tsunami de asesores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Asesores temporales del Presidente por proceso competitivo abierto",
+      "etiquetas": [
+        "administración pública",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los asesores no tendrán chóferes, ni ninguna otra prebenda pública aparte de su sueldo.",
+      "pagina": 3,
+      "apartado": [
+        "No más redes clientelares",
+        "Punto y final al tsunami de asesores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Asesores sin chóferes ni prebendas aparte del sueldo",
+      "etiquetas": [
+        "administración pública",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Será obligatorio publicar los nombres, funciones, currículos y salarios de todos los asesores en todas las administraciones para asegurar un control ciudadano permanente.",
+      "pagina": 3,
+      "apartado": [
+        "No más redes clientelares",
+        "Punto y final al tsunami de asesores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicación obligatoria de nombres, currículos y salarios de asesores",
+      "etiquetas": [
+        "transparencia",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los cargos políticos responderán por las acciones de su gabinete.",
+      "pagina": 3,
+      "apartado": [
+        "No más redes clientelares",
+        "Punto y final al tsunami de asesores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Responsabilidad de los cargos políticos por su gabinete",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde el minuto cero, todos los cargos en la Administración y empresas públicas, sin excepciones, serán asignados por mérito y capacidad y con procedimientos abiertos, justificados por razones estrictas de competencia profesional.",
+      "pagina": 3,
+      "apartado": [
+        "No más redes clientelares",
+        "Fuera cargos de carnet y delito de enchufismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cargos de Administración y empresas públicas por mérito y capacidad",
+      "etiquetas": [
+        "administración pública",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se tipificará el delito de enchufismo reformando y ampliando el artículo 405 del Código Penal y se inhabilitará por ley a todos los políticos que hagan nombramientos sin respetar los principios de mérito y capacidad.",
+      "pagina": 3,
+      "apartado": [
+        "No más redes clientelares",
+        "Fuera cargos de carnet y delito de enchufismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Delito de enchufismo en el Código Penal e inhabilitación",
+      "etiquetas": [
+        "justicia",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El único cargo en el que se permitirá la libre designación será el de Secretario de Estado.",
+      "pagina": 3,
+      "apartado": [
+        "No más redes clientelares",
+        "Fuera cargos de carnet y delito de enchufismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Libre designación limitada al cargo de Secretario de Estado",
+      "etiquetas": [
+        "administración pública",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para los cargos de carnet existentes: en un plazo de 6 meses se hará una inspección pública integral de todos los nombramientos existentes de libre designación en las administraciones y empresas públicas, con criterios objetivos y transparentes, por un Tribunal Administrativo Independiente",
+      "pagina": 4,
+      "apartado": [
+        "No más redes clientelares",
+        "Fuera cargos de carnet y delito de enchufismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inspección en seis meses de los nombramientos de libre designación",
+      "etiquetas": [
+        "administración pública",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se publicará la lista y coste de todos los nombramientos sin formación y experiencia específica para el cargo.",
+      "pagina": 4,
+      "apartado": [
+        "No más redes clientelares",
+        "Fuera cargos de carnet y delito de enchufismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicación de lista y coste de nombramientos sin cualificación",
+      "etiquetas": [
+        "transparencia",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se iniciarán trámites de despido de todos los nombramientos de libre designación que no cumplan esos criterios dentro del respeto a la legalidad.",
+      "pagina": 4,
+      "apartado": [
+        "No más redes clientelares",
+        "Fuera cargos de carnet y delito de enchufismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Despido de cargos de libre designación que no cumplan criterios",
+      "etiquetas": [
+        "administración pública",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todo el dinero recuperado por esta vía se dedicará a vivienda.",
+      "pagina": 4,
+      "apartado": [
+        "No más redes clientelares",
+        "Fuera cargos de carnet y delito de enchufismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Destinar a vivienda el dinero ahorrado en cargos despedidos",
+      "etiquetas": [
+        "vivienda",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estará terminantemente prohibido que los parlamentarios, cargos públicos y asesores paguen un porcentaje de su sueldo a los partidos políticos.",
+      "pagina": 4,
+      "apartado": [
+        "No más redes clientelares",
+        "No más impuestos revolucionarios para los partidos políticos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir que cargos y asesores cedan parte del sueldo al partido",
+      "etiquetas": [
+        "partidos políticos",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las comisiones, sobrecostes, amaños y corruptelas nos roban el futuro y bienestar a todos los españoles.",
+      "pagina": 5,
+      "apartado": [
+        "Cortar de raíz la corrupción"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Postura sobre el coste social de la corrupción",
+      "etiquetas": [
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se crearán juzgados especializados en corrupción, replicando el modelo organizativo de los juzgados de violencia de género. Serán dotados de suficientes medios de personal y tecnológicos.",
+      "pagina": 5,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Nuevos juzgados especializados en corrupción"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Creación de juzgados especializados en corrupción dotados de medios",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para agilizar los juicios contra la corrupción, se hará una revisión de las reglas procesales eliminando toda dilación indebida.",
+      "pagina": 5,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Nuevos juzgados especializados en corrupción"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Revisión de reglas procesales para agilizar juicios de corrupción",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se creará un órgano judicial especializado encargado de revisar cada dos meses todos los procedimientos impugnados por las partes para eliminar defectos procedimentales, evitando anulaciones futuras por defectos de orden menor.",
+      "pagina": 5,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Nuevos juzgados especializados en corrupción"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Órgano judicial que revise cada dos meses procedimientos impugnados",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para evitar influencias indebidas en los tribunales de justicia, los casos de corrupción de políticos en una Comunidad Autónoma serán juzgados por el tribunal correspondiente en una Comunidad Autónoma adyacente.",
+      "pagina": 5,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Nuevos juzgados especializados en corrupción"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Juzgar la corrupción de políticos en una comunidad autónoma adyacente",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La Intervención General de la Administración del Estado (IGAE) —el órgano estatal encargado de auditar y controlar internamente las cuentas y el gasto público— contará con los mismos medios tecnológicos, capacidad de cruce masivo de datos e inteligencia artificial que la Agencia Tributaria.",
+      "pagina": 5,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "El mismo control para el político que para el ciudadano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Dotar a la IGAE de los medios tecnológicos de la Agencia Tributaria",
+      "etiquetas": [
+        "corrupción",
+        "gasto público",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los funcionarios de la IGAE tendrán los mismos pluses de productividad vinculados a sus objetivos de control y resultados que tienen los funcionarios de la Agencia Tributaria.",
+      "pagina": 6,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "El mismo control para el político que para el ciudadano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pluses de productividad para funcionarios de la IGAE",
+      "etiquetas": [
+        "corrupción",
+        "gasto público",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se dotará a los interventores de independencia presupuestaria y herramientas de auditoría en tiempo real para fiscalizar cada euro gestionado por los cargos públicos con el mismo nivel de exigencia y trazabilidad con el que Hacienda supervisa las cuentas de los ciudadanos.",
+      "pagina": 6,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "El mismo control para el político que para el ciudadano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Independencia presupuestaria y auditoría en tiempo real para interventores",
+      "etiquetas": [
+        "corrupción",
+        "gasto público",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para reforzar la independencia de la IGAE del ciclo político, el Interventor General del Estado será nombrado por un plazo de seis años, irrevocable y no renovable, de forma similar al mecanismo utilizado para el nombramiento del Presidente de la Agencia Independiente de Responsabilidad Fiscal (AIReF).",
+      "pagina": 6,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "El mismo control para el político que para el ciudadano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mandato de seis años no renovable del Interventor General",
+      "etiquetas": [
+        "corrupción",
+        "gasto público",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se doblarán los recursos de la Fiscalía Anticorrupción para investigar delitos graves de corrupción, incluyendo equipos multidisciplinares de expertos en urbanismo, contratación pública, arquitectos, ingenieros, auditores forenses y analistas de datos.",
+      "pagina": 6,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Doblar los recursos de la Fiscalía Anticorrupción",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se apoyará a la Fiscalía Anticorrupción con una Oficina Anticorrupción que se centrará en la prevención de la corrupción con poder de inspección de los mecanismos anticorrupción de empresas y partidos políticos. Tendrá poder sancionador de hasta el 10% del volumen total de negocios de la empresa sancionada por corrupción y del 10% del volumen total de ingresos del partido político sancionado.",
+      "pagina": 6,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Oficina Anticorrupción con poder de inspección y sanción de hasta el 10%",
+      "etiquetas": [
+        "corrupción",
+        "partidos políticos",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La lucha contra la corrupción se financiará con el dinero de los corruptos. El 100% de los fondos, bienes y activos financieros recuperados mediante sentencias por delitos de corrupción y sanciones de la Oficina Anticorrupción se destinará directamente a la dotación de medios para los organismos de lucha contra la corrupción.",
+      "pagina": 6,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Destinar lo recuperado por corrupción a los organismos anticorrupción",
+      "etiquetas": [
+        "corrupción",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Camuflar la corrupción será delito: todo cargo público que, conociendo que se ha incurrido en corrupción por parte de terceros, no la denuncie inmediatamente, tendrá responsabilidad penal.",
+      "pagina": 6,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Los corruptos no tendrán refugio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Responsabilidad penal del cargo público que no denuncie corrupción",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Igualmente, se tipificará la responsabilidad penal de todo cargo público que sabiendo, o habiendo podido razonablemente saber, que ha habido manipulación de la contratación en las decisiones o adjudicación de contratos en las que participe (o bajo su responsabilidad), no la haya denunciado inmediatamente.",
+      "pagina": 6,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Los corruptos no tendrán refugio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Responsabilidad penal por no denunciar manipulación de contratos públicos",
+      "etiquetas": [
+        "justicia",
+        "corrupción",
+        "contratación pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se implantará un sistema integral de control de toda la contratación pública basado en IA que garantice la objetividad, la trazabilidad y la detección de irregularidades en tiempo real.",
+      "pagina": 7,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Los corruptos no tendrán refugio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sistema de control de la contratación pública basado en IA",
+      "etiquetas": [
+        "contratación pública",
+        "corrupción",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todos los contratos, incluidos los contratos menores, estarán sujetos a supervisión automática, publicación accesible y revisión independiente.",
+      "pagina": 7,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Los corruptos no tendrán refugio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supervisión y publicación de todos los contratos, incluidos menores",
+      "etiquetas": [
+        "contratación pública",
+        "transparencia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los partidos responderán siempre -civilmente y de forma subsidiaria- por los delitos de corrupción cometidos por sus dirigentes en el ejercicio de funciones públicas o partidarias, excepto cuando se pueda probar que el partido tenía los estándares más altos de prevención de la corrupción, auditados independientemente de forma anual.",
+      "pagina": 7,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Los partidos políticos no saldrán impunes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Responsabilidad civil subsidiaria de los partidos por corrupción",
+      "etiquetas": [
+        "partidos políticos",
+        "corrupción",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se suspenderá la financiación pública de un partido político cuando el partido o sus principales dirigentes (presidente, secretario general, tesorero o equivalentes) estén formalmente investigados por delitos de corrupción, malversación o financiación ilegal. Solo se reactivará si el partido implanta mecanismos de cumplimiento verificados por el Tribunal de Cuentas de forma pública y transparente.",
+      "pagina": 7,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Los partidos políticos no saldrán impunes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suspender la financiación pública de partidos investigados y condición para reactivarla",
+      "etiquetas": [
+        "partidos políticos",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los delitos relacionados con la corrupción no prescribirán.",
+      "pagina": 7,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Quien robe a lo público, no volverá nunca a lo público"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Imprescriptibilidad de los delitos de corrupción",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cualquier político condenado por sentencia firme por delitos de corrupción, malversación, tráfico de influencias o desviación de fondos públicos será inelegible e inhabilitado de por vida para cualquier cargo público.",
+      "pagina": 7,
+      "apartado": [
+        "Cortar de raíz la corrupción",
+        "Quien robe a lo público, no volverá nunca a lo público"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inhabilitación de por vida para políticos condenados por corrupción",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En la democracia del siglo 21 solo caben instituciones independientes, meritocráticas e inalcanzables para la injerencia partidista.",
+      "pagina": 8,
+      "apartado": [
+        "No más repartos de sillones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Instituciones independientes y sin injerencia de los partidos",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se cortará de raíz la politización del Consejo General del Poder Judicial (CGPJ): los vocales judiciales se elegirán por los jueces, sin intervención alguna de las asociaciones judiciales, como requiere el Consejo de Europa.",
+      "pagina": 8,
+      "apartado": [
+        "No más repartos de sillones",
+        "Un Consejo General del Poder Judicial despolitizado"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Elección de los vocales judiciales del CGPJ por los jueces",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los vocales no judiciales tendrán que comparecer públicamente en el Congreso antes de ser votados.",
+      "pagina": 8,
+      "apartado": [
+        "No más repartos de sillones",
+        "Un Consejo General del Poder Judicial despolitizado"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comparecencia pública en el Congreso de vocales no judiciales del CGPJ",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No se podrá nombrar a ningún vocal no judicial que tenga un conflicto de interés directo o indirecto.",
+      "pagina": 8,
+      "apartado": [
+        "No más repartos de sillones",
+        "Un Consejo General del Poder Judicial despolitizado"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Veto a vocales no judiciales del CGPJ con conflicto de interés",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se garantizará la independencia de la Fiscalía modificando el sistema de elección del Fiscal General del Estado: el Congreso (por mayoría de 3/5) elegirá una terna y el Gobierno elegirá al Fiscal General entre esa terna, previo informe del CGPJ.",
+      "pagina": 8,
+      "apartado": [
+        "No más repartos de sillones",
+        "Una Fiscalía independiente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Elección del Fiscal General entre una terna del Congreso",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se revisará el periodo del mandato del Fiscal General para que no coincida con el mandato electoral del Gobierno.",
+      "pagina": 8,
+      "apartado": [
+        "No más repartos de sillones",
+        "Una Fiscalía independiente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desvincular el mandato del Fiscal General del mandato del Gobierno",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todos los representantes de todos los organismos independientes se nombrarán siguiendo procedimientos abiertos, con comparecencia pública en el Congreso y mayoría reforzada de tres quintos.",
+      "pagina": 8,
+      "apartado": [
+        "No más repartos de sillones",
+        "Unos organismos de control independientes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nombramientos en organismos independientes por mayoría de tres quintos",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si el Congreso bloquea los nombramientos durante más de tres meses, se someterán a sorteo entre todos los elegibles.",
+      "pagina": 8,
+      "apartado": [
+        "No más repartos de sillones",
+        "Unos organismos de control independientes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sorteo si el Congreso bloquea nombramientos en organismos independientes tres meses",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y se reformará la duración de los mandatos de todos los organismos independientes para que no coincidan con los periodos de cambio de legislatura.",
+      "pagina": 8,
+      "apartado": [
+        "No más repartos de sillones",
+        "Unos organismos de control independientes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mandatos de organismos independientes no coincidentes con la legislatura",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En los organismos independientes no habrá ningún político: se prohibirán todos los nombramientos de personas con carrera política en los 10 años anteriores a su nombramiento en todos los organismos independientes.",
+      "pagina": 8,
+      "apartado": [
+        "No más repartos de sillones",
+        "Unos organismos de control independientes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Organismos independientes sin personas con carrera política en diez años",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los fiscales y jueces no podrán haber ejercido ningún cargo político en los últimos 20 años.",
+      "pagina": 9,
+      "apartado": [
+        "No más repartos de sillones",
+        "Unos organismos de control independientes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fiscales y jueces sin cargo político en los últimos veinte años",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y los miembros del Consejo General del Poder Judicial, el Tribunal Constitucional, el Tribunal Supremo, el Fiscal General del Estado y el Fiscal Jefe Anticorrupción no podrán haber ejercido ningún cargo político.",
+      "pagina": 9,
+      "apartado": [
+        "No más repartos de sillones",
+        "Unos organismos de control independientes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Altos cargos judiciales y fiscales sin ningún cargo político previo",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ninguna democracia europea consiente semejante red de privilegios procesales que quiebra la igualdad ante la justicia.",
+      "pagina": 9,
+      "apartado": [
+        "Punto y final a los aforamientos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Postura sobre los aforamientos y la igualdad ante la justicia",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se eliminarán todos los aforamientos que no estén expresamente contemplados en la Constitución de forma inmediata por vía de reforma de la Ley Orgánica del Poder Judicial (art 56, 57 y 73) y normativas conexas.",
+      "pagina": 9,
+      "apartado": [
+        "Punto y final a los aforamientos",
+        "Todos fuera"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar aforamientos no constitucionales reformando la Ley Orgánica del Poder Judicial",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se hará una reforma quirúrgica de la Constitución para: - eliminar todos los aforamientos de Diputados y Senadores (art 71)",
+      "pagina": 9,
+      "apartado": [
+        "Punto y final a los aforamientos",
+        "Todos fuera"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma constitucional para eliminar aforamientos de diputados y senadores",
+      "etiquetas": [
+        "justicia",
+        "instituciones",
+        "reforma constitucional"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "limitar el aforamiento de los miembros de Gobierno (art. 102) exclusivamente para las acciones penales, en el ejercicio de las funciones propias del cargo y sin carácter retroactivo.",
+      "pagina": 9,
+      "apartado": [
+        "Punto y final a los aforamientos",
+        "Todos fuera"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma constitucional para limitar el aforamiento del Gobierno",
+      "etiquetas": [
+        "justicia",
+        "instituciones",
+        "reforma constitucional"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La política debe estar siempre al servicio de los ciudadanos.",
+      "pagina": 10,
+      "apartado": [
+        "Devolver el poder al ciudadano"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La política al servicio de los ciudadanos",
+      "etiquetas": [
+        "participación ciudadana",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los Diputados y Senadores tendrán la obligación de dedicar una jornada a reuniones abiertas con ciudadanos en su circunscripción al menos una vez cada dos semanas.",
+      "pagina": 10,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Escuchar será obligatorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reuniones quincenales obligatorias de parlamentarios con ciudadanos",
+      "etiquetas": [
+        "participación ciudadana",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se creará un registro público de reuniones donde consten las fechas y asistentes, garantizando la transparencia.",
+      "pagina": 10,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Escuchar será obligatorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro público de reuniones de parlamentarios con ciudadanos",
+      "etiquetas": [
+        "transparencia",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y se reformarán los Reglamentos del Congreso y del Senado para incluir sanciones monetarias cada vez que falten a esa obligación.",
+      "pagina": 10,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Escuchar será obligatorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sanciones monetarias a parlamentarios que no se reúnan con ciudadanos",
+      "etiquetas": [
+        "instituciones",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Presidente del Gobierno se someterá anualmente a una Asamblea de ‘Cara a Cara con la Ciudadanía’, elegida por sorteo y representativa de la sociedad, con garantías de independencia e indemnización de gastos equivalentes a las de la elección de los jurados populares.",
+      "pagina": 10,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Escuchar será obligatorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Asamblea ciudadana anual por sorteo ante el Presidente del Gobierno",
+      "etiquetas": [
+        "participación ciudadana",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Presidente responderá a preguntas directas sobre decisiones o políticas concretas, planteadas por los propios ciudadanos.",
+      "pagina": 10,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Escuchar será obligatorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Preguntas directas de ciudadanos al Presidente en la asamblea anual",
+      "etiquetas": [
+        "participación ciudadana",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cuando las decisiones políticas en asuntos de orden mayor se bloqueen reiteradamente por los partidos políticos en el Parlamento, la ciudadanía podrá activar una Asamblea Ciudadana sectorial con la recogida de firmas del 1% del censo electoral en un plazo de 12 meses.",
+      "pagina": 10,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "No más bloqueos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Asamblea Ciudadana activable con firmas del 1% del censo",
+      "etiquetas": [
+        "participación ciudadana",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La Asamblea será convocada por la Junta Electoral Central, elegida por sorteo, representativa de la sociedad y con garantías equivalentes a la de un jurado popular. Propondrá en un plazo razonable soluciones alternativas que se someterán a referéndum popular consultivo para que toda la ciudadanía pueda pronunciarse.",
+      "pagina": 10,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "No más bloqueos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Asamblea Ciudadana por sorteo con propuestas sometidas a referéndum consultivo",
+      "etiquetas": [
+        "participación ciudadana",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los Diputados y Senadores no cobrarán su sueldo mensual cuando no hayan asistido a las sesiones plenarias –y las de las Comisiones en las que participan– excepto si pueden acreditar que ha sido por causa de enfermedad o fuerza mayor.",
+      "pagina": 10,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Si no trabajan, no cobran"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sin sueldo para parlamentarios que no asistan a las sesiones",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La información sobre las ausencias se hará pública con carácter mensual.",
+      "pagina": 11,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Si no trabajan, no cobran"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicación mensual de las ausencias de los parlamentarios",
+      "etiquetas": [
+        "transparencia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si el Gobierno incumple su obligación constitucional de presentar los Presupuestos Generales del Estado, se suspenderá el sueldo de todo el Gobierno hasta que se presenten.",
+      "pagina": 11,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "No habrá Gobierno sin presupuestos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suspender el sueldo del Gobierno si no presenta Presupuestos",
+      "etiquetas": [
+        "instituciones",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El incumplimiento injustificado de la obligación constitucional de presentar presupuestos durante más de un año dará lugar al cese del Gobierno.",
+      "pagina": 11,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "No habrá Gobierno sin presupuestos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cese del Gobierno tras más de un año sin presentar presupuestos",
+      "etiquetas": [
+        "instituciones",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las políticas y programas de gasto estarán sujetos a una evaluación posterior de su eficacia, impacto y coste.",
+      "pagina": 11,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Menos promesas, más resultados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Evaluación posterior de políticas y programas de gasto",
+      "etiquetas": [
+        "gasto público",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los resultados serán públicos, accesibles online y se utilizarán para decidir la continuidad, modificación o eliminación de los programas evaluados.",
+      "pagina": 11,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Menos promesas, más resultados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Resultados de las evaluaciones públicos y vinculados a la continuidad",
+      "etiquetas": [
+        "gasto público",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Presidente del Gobierno presentará cada año ante el Parlamento un balance público y verificable de cumplimiento de objetivos.",
+      "pagina": 11,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Menos promesas, más resultados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Balance anual del Presidente ante el Parlamento",
+      "etiquetas": [
+        "instituciones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada Ministerio explicará: qué prometió, qué recursos utilizó, qué resultados obtuvo y qué objetivos fueron cumplidos e incumplidos.",
+      "pagina": 11,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Menos promesas, más resultados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rendición de cuentas de cada Ministerio sobre objetivos y recursos",
+      "etiquetas": [
+        "instituciones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cualquier ciudadano podrá consultar de forma sencilla y en un único Portal de Evaluación: los objetivos de cada Ministerio, los recursos presupuestados y efectivamente gastados, el grado de ejecución de cada programa, sus indicadores de cumplimiento, los resultados obtenidos y las evaluaciones independientes realizadas.",
+      "pagina": 11,
+      "apartado": [
+        "Devolver el poder al ciudadano",
+        "Menos promesas, más resultados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Portal de Evaluación único con objetivos, gasto y resultados",
+      "etiquetas": [
+        "transparencia",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La mejor política anticorrupción es la que evita que llegue siquiera a producirse.",
+      "pagina": 12,
+      "apartado": [
+        "Gobernar con ética"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Prioridad de la prevención en la política anticorrupción",
+      "etiquetas": [
+        "corrupción",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los cargos políticos cumplirán con la totalidad del Código Ético del Gobierno de España Mejor y Hay Derecho que establece, entre otros, un sistema preventivo de conflictos de interés, elimina las excepciones a la reglamentación sobre las puertas giratorias, limita el uso de asesores, residencias oficiales, coches, y establece la obligación de no mentir deliberadamente en el Parlamento.",
+      "pagina": 12,
+      "apartado": [
+        "Gobernar con ética",
+        "Código ético de Gobierno obligatorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cumplimiento obligatorio del Código Ético de España Mejor y Hay Derecho",
+      "etiquetas": [
+        "instituciones",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se revisará de forma inmediata la Ley de Conflictos de Interés para ampliar los supuestos de conflicto a los requerimientos de la OCDE.",
+      "pagina": 12,
+      "apartado": [
+        "Gobernar con ética",
+        "Código ético de Gobierno obligatorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión de la Ley de Conflictos de Interés según la OCDE",
+      "etiquetas": [
+        "instituciones",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se pondrá en marcha una Comisión Ética y un Experto Independiente para monitorizar y asegurar el cumplimiento del Código.",
+      "pagina": 12,
+      "apartado": [
+        "Gobernar con ética",
+        "Código ético de Gobierno obligatorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comisión Ética y Experto Independiente para vigilar el Código",
+      "etiquetas": [
+        "instituciones",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dos mandatos son más que suficientes.",
+      "pagina": 12,
+      "apartado": [
+        "Con dos mandatos basta"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Postura a favor de limitar los mandatos a dos",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se establecerá la obligación legal de no ejercer un mismo cargo público durante más de dos mandatos completos o un periodo acumulado superior a ocho años.",
+      "pagina": 12,
+      "apartado": [
+        "Con dos mandatos basta",
+        "8 años como máximo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Límite legal de dos mandatos u ocho años por cargo",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Una democracia del siglo 21 debe permitir a sus ciudadanos elegir con libertad a sus representantes.",
+      "pagina": 13,
+      "apartado": [
+        "Aire fresco en nuestro sistema electoral"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Libertad de los ciudadanos para elegir a sus representantes",
+      "etiquetas": [
+        "sistema electoral",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos una reforma de la Ley Electoral que permita a los ciudadanos tener mayor capacidad para decidir qué personas les representan, reduciendo el peso de las listas cerradas elaboradas por los partidos políticos e introduciendo tanto listas desbloqueadas como abiertas.",
+      "pagina": 13,
+      "apartado": [
+        "Aire fresco en nuestro sistema electoral",
+        "Adiós listas cerradas, hola listas flexibles"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la Ley Electoral con listas desbloqueadas y abiertas",
+      "etiquetas": [
+        "sistema electoral",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

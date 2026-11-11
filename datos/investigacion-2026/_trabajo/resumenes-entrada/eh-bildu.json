@@ -1,0 +1,1042 @@
+{
+ "partido": "eh-bildu",
+ "nombre": "EH Bildu",
+ "programa": "no_publicado",
+ "temas": [
+  {
+   "tema": "vivienda",
+   "nombre": "Vivienda",
+   "definicion": "Acceso a la vivienda en compra y alquiler, vivienda pública, suelo y urbanismo.",
+   "citas": [
+    {
+     "id": "c-b378a25d2a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La primera iniciativa que llevaremos al Congreso será no solo recuperar la prórroga automática de los contratos que las derechas tumbarán esta semana en el Congreso, sino que además plantearemos acabar con la compra especulativa de vivienda",
+     "quien": "Oskar Matute, Cabeza de lista al Congreso por Bizkaia",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-fe9e48b1d4",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "defendemos una intervención pública activa en el mercado de la vivienda. Tenemos que conseguir que la gente entienda que la vivienda, antes que una fuente de ahorro y una inversión, es un derecho. Hay que regular los alquileres turísticos y de temporada",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2025-05-15"
+    },
+    {
+     "id": "c-abf9b3b0c0",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Si año tras año tenemos que prorrogar el escudo social porque sigue habiendo personas en situación de vulnerabilidad, habría que convertirlo en estructural y permanente.",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2026-02-03"
+    },
+    {
+     "id": "c-459479780c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El Congreso ha aprobado esta semana una ley propuesta por EH Bildu para prohibir el alquiler y el anuncio de pisos turísticos ilegales. Hasta ahora las entidades han estado persiguiendo a las plataformas, suplicando. Ahora estarán obligadas con nuestra ley a no poner anuncios, de lo contrario recibirán grandes multas",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2025-10-10"
+    },
+    {
+     "id": "c-37683bcaf2",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay tiempo para que se imponga la lógica del bien común: no se puede proteger a rentistas mientras la mayoría se ahoga entre alquileres e hipotecas. La vivienda no puede ser el patito feo: hablar de un problema y no actuar es condenar a toda una generación.",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2026-03-27"
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "nombre": "Empleo y salarios",
+   "definicion": "Trabajo, salarios, jornada, contratos, autónomos, sindicatos y salud laboral.",
+   "citas": [
+    {
+     "id": "c-94af74b9c1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Elevar sustancialmente el SMI en 2027, por encima de la inflación; permitir salarios mínimos propios adaptados a las distintas realidades socioeconómicas, también para Euskal Herria; y fijar por ley el 60% del salario medio como referencia mínima, de acuerdo con la Carta Social Europea.",
+     "quien": "el partido, Grupo Parlamentario EH Bildu en el Congreso",
+     "fecha": "2026-09-16"
+    },
+    {
+     "id": "c-da73010241",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Acabar con las horas extra no pagadas, estableciendo recargos obligatorios y un registro horario efectivo.",
+     "quien": "el partido, Grupo Parlamentario EH Bildu en el Congreso",
+     "fecha": "2026-09-16"
+    },
+    {
+     "id": "c-eb43d976d4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Porque los y las trabajadoras vascas, así como las de este Estado y sus pueblos, merecen recuperar el poder adquisitivo y el bienestar social arrebatado. Y porque a estos reaccionarios se les para con más derechos para la clase trabajadora.",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-09-16"
+    },
+    {
+     "id": "c-e7f30b46f8",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La huelga general ha demostrado una vez más que tener un salario mínimo propio que se adapte a nuestra realidad socioeconómica es una reivindicación con un amplio respaldo. Necesitamos más soberanía para vivir mejor.",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-03-20"
+    },
+    {
+     "id": "c-839a58376f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El rechazo de Confebask a la reducción de jornada no es muy diferente a lo que decían los sectores conservadores reacios al cambio cuando se implantó la jornada de 40h y se incorporaron las mujeres en el mercado laboral. Reclamamos valentía también para un SMI propio en función de nuestra realidad socioeconómica.",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2025-05-15"
+    },
+    {
+     "id": "c-c39a59af29",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La movilización del 17 de marzo es necesaria para garantizar la seguridad vital de la ciudadanía mediante unos salarios y pensiones que se ajusten de una vez por todas al encarecimiento de la vida en nuestro país.",
+     "quien": "el partido, Comunicado de EH Bildu",
+     "fecha": "2026-03-13"
+    },
+    {
+     "id": "c-5298b9f525",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Debemos adelantarnos a los acontecimientos y mirar a medio y largo plazo con responsabilidad y mano tendida. Apoyo sí, pero con condiciones. Las ayudas públicas deben de estar condicionadas a que no haya deslocalizaciones de empresas y no haya despidos",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2025-04-15"
+    },
+    {
+     "id": "c-8b29cdc40e",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mediante ese Estatuto pretendemos exprimir al máximo las herramientas y competencias que tenemos para reforzar y proteger las expresiones culturales desde la base, porque son las que sostienen el sistema, frente a un modelo de megaproyectos y macroeventos que se mide solo en términos monetarios. El Estatuto será además un instrumento clave para garantizar condiciones vitales y laborales dignas a las y los profesionales de la cultura",
+     "quien": "Idurre Bideguren, Senadora y portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2024-04-08"
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "nombre": "Pensiones",
+   "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
+   "citas": [
+    {
+     "id": "c-5962f121b5",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las pensiones de viudedad subirán hasta un 14% en 2024 dando cumplimiento al acuerdo alcanzado por EH Bildu en la última reforma de las pensiones.",
+     "quien": "el partido, Nota de prensa de EH Bildu",
+     "fecha": "2023-12-12"
+    },
+    {
+     "id": "c-1faa68d9af",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En nuestro país contamos con las condiciones socioeconómicas necesarias para garantizar pensiones dignas y poner freno a la precariedad. EH Bildu sigue plenamente comprometida con esta reivindicación y trabajará de forma incansable para que la voz de decenas de miles de pensionistas sea escuchada y debatida en el Parlamento Vasco.",
+     "quien": "el partido, Comunicado de EH Bildu",
+     "fecha": "2025-09-02"
+    },
+    {
+     "id": "c-c39a59af29",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La movilización del 17 de marzo es necesaria para garantizar la seguridad vital de la ciudadanía mediante unos salarios y pensiones que se ajusten de una vez por todas al encarecimiento de la vida en nuestro país.",
+     "quien": "el partido, Comunicado de EH Bildu",
+     "fecha": "2026-03-13"
+    },
+    {
+     "id": "c-87c2a1c8f9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ante esta situación, si apostamos por un sistema de salud público, lo lógico sería responder desde el sistema público de salud, reforzándolo; en términos preventivos, asistenciales y rehabilitadores.",
+     "quien": "Idurre Bideguren, Portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2024-11-12"
+    }
+   ]
+  },
+  {
+   "tema": "impuestos",
+   "nombre": "Impuestos",
+   "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
+   "citas": [
+    {
+     "id": "c-2f9f71ef9e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La bajada de impuestos favorece en mayor medida a quien más tiene y, además, una parte importante de esos beneficios se los quedan las grandes empresas. No nos parece una medida acertada, toda vez que además va en contra de esa soberanía energética basada en las renovables y en las energías limpias.",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-bd58ba7862",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Bajar el IVA no es la solución: no tiene ningún enfoque progresivo ni beneficio para la ciudadanía. Recientemente hemos visto que la bajada de impuestos no se refleja en los bolsillos de los ciudadanos y que, en cambio, los beneficios se van a las grandes empresas: a las grandes compañías energéticas y a las petroleras.",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-03-20"
+    },
+    {
+     "id": "c-7ad89f75fa",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La derecha vasca, catalana y española se alinearon con los intereses de los CEOs de las energéticas para tumbar el gravamen a las energéticas. Hay élites que no se presentan a las elecciones, pero que a veces tienen una capacidad de incidencia política mayor que la que tenemos los que pulsamos el botón. Pedimos que pague más quien más tiene",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2025-02-05"
+    },
+    {
+     "id": "c-693334c066",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No convalidarlo supondría perder más de 67 millones de euros anuales para las arcas forales, un ingreso fundamental para garantizar servicios públicos y políticas sociales en nuestro territorio. Quien rechace esta medida deberá dar explicaciones claras a la sociedad vasca",
+     "quien": "el partido, Comunicado de EH Bildu",
+     "fecha": "2024-12-23"
+    },
+    {
+     "id": "c-88efab05e7",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Propondremos que sean las grandes empresas energéticas, petroleras y alimentarias quienes, con sus enormes márgenes de beneficio, deban asumir y absorber, en situaciones inflacionarias y de crisis de abastecimiento, el aumento de los costes de estos productos y servicios básicos. Para que no sean los y las consumidoras, la ciudadanía, quienes asuman el alza de los precios",
+     "quien": "Oskar Matute, Cabeza de lista al Congreso por Bizkaia",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-e98f0c2843",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Las diputaciones de Araba, de Bizkaia y de Gipuzkoa ya han señalado que van a tener pérdidas millonarias, y eso va a ir en detrimento de las políticas sociales que se puedan hacer. Casi en torno a los 250 millones menos que vamos a disponer los vizcaínos, alaveses y guipuzcoanos para políticas de protección social.",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2026-03-27"
+    }
+   ]
+  },
+  {
+   "tema": "economia",
+   "nombre": "Economía y empresas",
+   "definicion": "Industria, empresas, comercio, turismo, cuentas públicas y coste de la vida. Los impuestos y el empleo van aparte.",
+   "citas": [
+    {
+     "id": "c-459479780c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El Congreso ha aprobado esta semana una ley propuesta por EH Bildu para prohibir el alquiler y el anuncio de pisos turísticos ilegales. Hasta ahora las entidades han estado persiguiendo a las plataformas, suplicando. Ahora estarán obligadas con nuestra ley a no poner anuncios, de lo contrario recibirán grandes multas",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2025-10-10"
+    },
+    {
+     "id": "c-94af74b9c1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Elevar sustancialmente el SMI en 2027, por encima de la inflación; permitir salarios mínimos propios adaptados a las distintas realidades socioeconómicas, también para Euskal Herria; y fijar por ley el 60% del salario medio como referencia mínima, de acuerdo con la Carta Social Europea.",
+     "quien": "el partido, Grupo Parlamentario EH Bildu en el Congreso",
+     "fecha": "2026-09-16"
+    },
+    {
+     "id": "c-2f9f71ef9e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La bajada de impuestos favorece en mayor medida a quien más tiene y, además, una parte importante de esos beneficios se los quedan las grandes empresas. No nos parece una medida acertada, toda vez que además va en contra de esa soberanía energética basada en las renovables y en las energías limpias.",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-88efab05e7",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Propondremos que sean las grandes empresas energéticas, petroleras y alimentarias quienes, con sus enormes márgenes de beneficio, deban asumir y absorber, en situaciones inflacionarias y de crisis de abastecimiento, el aumento de los costes de estos productos y servicios básicos. Para que no sean los y las consumidoras, la ciudadanía, quienes asuman el alza de los precios",
+     "quien": "Oskar Matute, Cabeza de lista al Congreso por Bizkaia",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-5298b9f525",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Debemos adelantarnos a los acontecimientos y mirar a medio y largo plazo con responsabilidad y mano tendida. Apoyo sí, pero con condiciones. Las ayudas públicas deben de estar condicionadas a que no haya deslocalizaciones de empresas y no haya despidos",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2025-04-15"
+    },
+    {
+     "id": "c-1f361e1e0b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "De no haber sido por las medidas que las izquierdas hemos introducido en él, su decreto, más que un escudo social, constituiría un escudo empresarial",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-03-25"
+    },
+    {
+     "id": "c-bef36f9e7e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Se necesita más enchufe para atender a la demanda industrial",
+     "quien": "Mikel Otero, Diputado de EH Bildu por Araba",
+     "fecha": "2025-06-19"
+    },
+    {
+     "id": "c-1699d39ee4",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Si queremos que nuestra flota tenga futuro, es imprescindible salvaguardar los recursos marinos, garantizar una pesca sostenible y acabar con la pesca ilegal. No es suficiente lo que se ha hecho hasta ahora",
+     "quien": "Idurre Bideguren, Portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2024-02-13"
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "nombre": "Sanidad",
+   "definicion": "Sanidad pública, listas de espera, atención primaria, salud mental y adicciones.",
+   "citas": [
+    {
+     "id": "c-87c2a1c8f9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ante esta situación, si apostamos por un sistema de salud público, lo lógico sería responder desde el sistema público de salud, reforzándolo; en términos preventivos, asistenciales y rehabilitadores.",
+     "quien": "Idurre Bideguren, Portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2024-11-12"
+    },
+    {
+     "id": "c-8119742a1f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Con el riesgo de crear poco a poco un sistema de salud a dos velocidades. Uno más ágil, para la población laboral activa, para que se recupere lo antes posible, y otro para el resto. Recuperar la confianza perdida en la ciudadanía se consigue con más recursos y mejorando la calidad del servicio",
+     "quien": "Idurre Bideguren, Portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2024-11-12"
+    },
+    {
+     "id": "c-069638e8c6",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Establecer perímetros de protección que garanticen el acceso libre, seguro, confidencial y digno de las mujeres y del personal sanitario.",
+     "quien": "el partido, Grupo Parlamentario EH Bildu en el Congreso",
+     "fecha": "2026-06-16"
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "nombre": "Educación",
+   "definicion": "Escuela, formación profesional, universidad y becas.",
+   "citas": [
+    {
+     "id": "c-53dbe40916",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No queremos centros de formación con denominación de universidad, pero de dudosa calidad y objetivos y sin actividad investigadora. Queremos universidades de verdad. Que cumplan con los estándares mínimos, tanto en la calidad de la docencia como en la investigación. Pero no desde Madrid, sino en nuestro país, que es donde corresponde, con nuestras herramientas y leyes propias",
+     "quien": "Marije Fullaondo, Diputada de EH Bildu por Bizkaia",
+     "fecha": "2025-05-14"
+    },
+    {
+     "id": "c-6e47793de7",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si realmente creen que no hay invasión competencial, transformen el Real Decreto en Real Decreto-Ley, tráiganlo aquí y aseguremos que no se invaden nuestras competencias. De ser así, no tenga duda de que lo apoyaremos",
+     "quien": "Marije Fullaondo, Diputada de EH Bildu por Bizkaia",
+     "fecha": "2025-05-14"
+    },
+    {
+     "id": "c-f329f038e9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Invertir en educación es invertir en futuro. El problema de la financiación no viene de ahora. Una inversión de calidad y suficiente en educación ahorraría a la sociedad de muchos problemas.",
+     "quien": "Arnaldo Otegi, Secretario general de EH Bildu",
+     "fecha": "2025-11-06"
+    },
+    {
+     "id": "c-34239ea38f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Consideramos importante hacer una evaluación detallada para conocer los efectos que está teniendo y si está sirviendo para alcanzar los objetivos previstos",
+     "quien": "Josu Estarrona, Senador de EH Bildu por Araba",
+     "fecha": "2025-05-05"
+    }
+   ]
+  },
+  {
+   "tema": "familias-y-cuidados",
+   "nombre": "Familias y servicios sociales",
+   "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
+   "citas": [
+    {
+     "id": "c-abf9b3b0c0",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Si año tras año tenemos que prorrogar el escudo social porque sigue habiendo personas en situación de vulnerabilidad, habría que convertirlo en estructural y permanente.",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2026-02-03"
+    },
+    {
+     "id": "c-dd58dc3a97",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Esta ley no es perfecta, pero es un paso adelante. Un paso que puede mejorar la vida de miles de personas y que abre la puerta a seguir construyendo un sistema de cuidados público, justo y basado en derechos",
+     "quien": "Marije Fullaondo, Diputada de EH Bildu por Bizkaia",
+     "fecha": "2026-09-16"
+    },
+    {
+     "id": "c-37ca892a8a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Reducir esas esperas es una cuestión de justicia y, sobre todo, de dignidad",
+     "quien": "Marije Fullaondo, Diputada de EH Bildu por Bizkaia",
+     "fecha": "2026-09-16"
+    },
+    {
+     "id": "c-0db1b33117",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El tipo de familia no puede determinar la diferencia de trato y de cuidado a los bebés, ya que los nacidos y nacidas en familias monomarentales se ven tempranamente privados del tal necesario cuidado y cercanía",
+     "quien": "Olaia Duarte, Senadora de EH Bildu",
+     "fecha": "2024-10-29"
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "nombre": "Inmigración",
+   "definicion": "Entrada y control de fronteras, regularización, integración, asilo, nacionalidad y emigración.",
+   "citas": [
+    {
+     "id": "c-e44d4a57c6",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "no para gestionar las políticas que decida el Gobierno español de turno, sino para poder decidir y desarrollar una respuesta propia",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-2ea3150a75",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Se les niega poder tener condiciones de vida dignas en sus propias tierras, mientras se rechaza que vengan aquí a buscarla. Una gran hipocresía",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-dfafea2e3e",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mientras tanto, seguimos trabajando desde las instituciones y acompañando las movilizaciones populares, para que la Ley de Extranjería actualmente vigente en el estado español sea abolida, por ser una ley racista y vulneradora de derechos, para que la ILP de regularización que está paralizada en el Congreso, dé como resultado una regularización masiva de población migrante",
+     "quien": "el partido, Declaración de EH Bildu (Día Internacional de las Personas Migrantes)",
+     "fecha": "2025-12-18"
+    },
+    {
+     "id": "c-1588e5ced8",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ante las numerosas sentencias que evidencian una clara vulneración del derecho humanitario, era necesaria una reforma, pero una reforma basada en los principios de solidaridad y responsabilidad compartida. Una reforma que minimice los riesgos y que garantice vía seguras",
+     "quien": "Idurre Bideguren, Portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2024-05-07"
+    }
+   ]
+  },
+  {
+   "tema": "seguridad-y-justicia",
+   "nombre": "Seguridad y justicia",
+   "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
+   "citas": [
+    {
+     "id": "c-dc3ef25cd1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hemos logrado eliminar y desactivar todos los artículos por los que se llama mordaza a la Ley Mordaza, incluidos los cuatro escollos de la pasada legislatura. La nueva ley no tendrá nada que ver con la actual y será mucho más respetuosa y garantista con los derechos de la ciudadanía",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2024-10-04"
+    },
+    {
+     "id": "c-26798d59f7",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Instamos al Gobierno a no conformarse solo con estar y que apueste por transformar. Queda pendiente desatascar la Ley Mordaza y blindar los derechos de los y las trabajadoras frente a las deslocalizaciones y la acumulación del capital, en beneficio de unos pocos",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2025-05-15"
+    },
+    {
+     "id": "c-c15b80a908",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La conclusión es que no existe la independencia judicial. No haberles hecho frente antes, cuando afectaba solo a algunos, ha hecho que se extienda y operen con la sensación de ser intocables, impunes.",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2024-07-04"
+    }
+   ]
+  },
+  {
+   "tema": "democracia-e-instituciones",
+   "nombre": "Democracia e instituciones",
+   "definicion": "Funcionamiento de las instituciones, corrupción, transparencia, sistema electoral, administración pública y medios de comunicación.",
+   "citas": [
+    {
+     "id": "c-dc3ef25cd1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hemos logrado eliminar y desactivar todos los artículos por los que se llama mordaza a la Ley Mordaza, incluidos los cuatro escollos de la pasada legislatura. La nueva ley no tendrá nada que ver con la actual y será mucho más respetuosa y garantista con los derechos de la ciudadanía",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2024-10-04"
+    },
+    {
+     "id": "c-26798d59f7",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Instamos al Gobierno a no conformarse solo con estar y que apueste por transformar. Queda pendiente desatascar la Ley Mordaza y blindar los derechos de los y las trabajadoras frente a las deslocalizaciones y la acumulación del capital, en beneficio de unos pocos",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2025-05-15"
+    },
+    {
+     "id": "c-c15b80a908",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La conclusión es que no existe la independencia judicial. No haberles hecho frente antes, cuando afectaba solo a algunos, ha hecho que se extienda y operen con la sensación de ser intocables, impunes.",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2024-07-04"
+    },
+    {
+     "id": "c-906dfb75e5",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Lo queremos saber todo, y queremos que asuman las consecuencias. Porque la lucha contra la corrupción no puede ser superficial ni selectiva, debe ser integral. Eso sí sería un cambio estructural",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-06-24"
+    },
+    {
+     "id": "c-f20d0148db",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "A esto solo se le puede hacer frente con un proceso democratizador. Justo haciendo eso a lo que le tienen miedo",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-06-24"
+    },
+    {
+     "id": "c-8e45ac3872",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "EH Bildu considera que todas las comunicaciones, trámites, resoluciones o peticiones que se realicen por medios electrónicos, digitales y telemáticos en la administración pública del Estado se deben poder realizar íntegramente en todas y cada una de las lenguas oficiales.",
+     "quien": "el partido",
+     "fecha": "2024-02-05"
+    }
+   ]
+  },
+  {
+   "tema": "organizacion-territorial",
+   "nombre": "Organización territorial",
+   "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+   "citas": [
+    {
+     "id": "c-e7f30b46f8",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La huelga general ha demostrado una vez más que tener un salario mínimo propio que se adapte a nuestra realidad socioeconómica es una reivindicación con un amplio respaldo. Necesitamos más soberanía para vivir mejor.",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-03-20"
+    },
+    {
+     "id": "c-7ad89f75fa",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La derecha vasca, catalana y española se alinearon con los intereses de los CEOs de las energéticas para tumbar el gravamen a las energéticas. Hay élites que no se presentan a las elecciones, pero que a veces tienen una capacidad de incidencia política mayor que la que tenemos los que pulsamos el botón. Pedimos que pague más quien más tiene",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2025-02-05"
+    },
+    {
+     "id": "c-693334c066",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No convalidarlo supondría perder más de 67 millones de euros anuales para las arcas forales, un ingreso fundamental para garantizar servicios públicos y políticas sociales en nuestro territorio. Quien rechace esta medida deberá dar explicaciones claras a la sociedad vasca",
+     "quien": "el partido, Comunicado de EH Bildu",
+     "fecha": "2024-12-23"
+    },
+    {
+     "id": "c-53dbe40916",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No queremos centros de formación con denominación de universidad, pero de dudosa calidad y objetivos y sin actividad investigadora. Queremos universidades de verdad. Que cumplan con los estándares mínimos, tanto en la calidad de la docencia como en la investigación. Pero no desde Madrid, sino en nuestro país, que es donde corresponde, con nuestras herramientas y leyes propias",
+     "quien": "Marije Fullaondo, Diputada de EH Bildu por Bizkaia",
+     "fecha": "2025-05-14"
+    },
+    {
+     "id": "c-e44d4a57c6",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "no para gestionar las políticas que decida el Gobierno español de turno, sino para poder decidir y desarrollar una respuesta propia",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-21b260bdd4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Somos una nación y nos debemos relacionar con el Estado como lo que somos: una nación. No vale el café para todos. Hay que acabar con la fase de intercambio de cromos, que tiene como consecuencia que los y las vascas tenemos derechos flotantes e interpretables. Eso tiene que cambiar.",
+     "quien": "Arnaldo Otegi, Secretario general de EH Bildu",
+     "fecha": "2026-01-29"
+    },
+    {
+     "id": "c-100ebfcee6",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Vamos a atornillarnos a una mesa, sin ansiedades y sin fechas límite, para tratar de alcanzar un acuerdo sobre el nuevo estatus que ponga a este país en el sitio que se merece: el de una nación con derechos.",
+     "quien": "Arnaldo Otegi, Secretario general de EH Bildu",
+     "fecha": "2026-01-29"
+    },
+    {
+     "id": "c-3c16d44177",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nosotros estamos dispuestos a ser flexibles con quienes actualmente están trabajando en la función pública y no saben euskera. Pero el rumbo y el objetivo debe ser claro: la administración pública debe ser bilingüe.",
+     "quien": "Arnaldo Otegi, Secretario general de EH Bildu",
+     "fecha": "2026-04-16"
+    },
+    {
+     "id": "c-e98f0c2843",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Las diputaciones de Araba, de Bizkaia y de Gipuzkoa ya han señalado que van a tener pérdidas millonarias, y eso va a ir en detrimento de las políticas sociales que se puedan hacer. Casi en torno a los 250 millones menos que vamos a disponer los vizcaínos, alaveses y guipuzcoanos para políticas de protección social.",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-da486be4d5",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "superar la fase de macroinversiones en red exclusiva dedicada para la Alta Velocidad y reformar profundamente el trazado y las infraestructuras existentes",
+     "quien": "Mikel Otero, Diputado de EH Bildu por Araba",
+     "fecha": "2026-03-18"
+    },
+    {
+     "id": "c-3f1ebe9ef6",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La transferencia 'inminente' de los trenes de Cercanías se alarga ya medio siglo. Es una cuestión de país. Siempre resulta que son los flecos los que impiden cumplir un Estatuto aprobado en 1979",
+     "quien": "Mario Zubiaga, Senador de EH Bildu por Gipuzkoa",
+     "fecha": "2024-02-08"
+    },
+    {
+     "id": "c-d5ed32b467",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Teniendo en cuenta que casi la mitad de la población vive en un territorio con otra lengua diferente al castellano, ¿no sería lógico que la administración ofrezca sus servicios en varios idiomas?",
+     "quien": "Idurre Bideguren, Portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2024-02-05"
+    },
+    {
+     "id": "c-c792f6a8ea",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Como he dicho, aunque la consideramos insuficiente, apoyamos aquella enmienda porque abre un resquicio que podría ser el primer paso para que, al menos en algunos deportes, nuestros y nuestras deportistas puedan representar a Euskal Herria en la esfera internacional.",
+     "quien": "Marije Fullaondo La Cruz, Diputada por Bizkaia y portavoz del Grupo Parlamentario Euskal Herria Bildu en el debate de la proposición de ley del PP sobre la Ley del Deporte",
+     "fecha": "2024-10-29"
+    }
+   ]
+  },
+  {
+   "tema": "medio-ambiente-y-energia",
+   "nombre": "Medio ambiente y energía",
+   "definicion": "Clima, energía, agua, contaminación, costas, montes, protección de la naturaleza y bienestar animal.",
+   "citas": [
+    {
+     "id": "c-2f9f71ef9e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La bajada de impuestos favorece en mayor medida a quien más tiene y, además, una parte importante de esos beneficios se los quedan las grandes empresas. No nos parece una medida acertada, toda vez que además va en contra de esa soberanía energética basada en las renovables y en las energías limpias.",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2026-03-27"
+    },
+    {
+     "id": "c-bef36f9e7e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Se necesita más enchufe para atender a la demanda industrial",
+     "quien": "Mikel Otero, Diputado de EH Bildu por Araba",
+     "fecha": "2025-06-19"
+    },
+    {
+     "id": "c-fb2235cced",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "hay un lobby nuclear que ha aprovechado el apagón eléctrico para recuperar un debate superado. Garoña se cerró por la lucha popular y porque no era rentable. La realidad es que los costes son monumentales y los residuos un peligro permanente",
+     "quien": "Oskar Matute, Portavoz adjunto de EH Bildu en el Congreso",
+     "fecha": "2025-05-15"
+    },
+    {
+     "id": "c-fb5840056c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Hacen falta ayudas económicas, más recursos y medidas compensatorias de manera urgente, para evitar que desaparezca la pesca más artesanal",
+     "quien": "Idurre Bideguren, Portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2025-05-26"
+    },
+    {
+     "id": "c-7e5981bf53",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por todo esto, creemos que es el momento de reordenar prioridades, de centrarse en ofrecer un servicio ferroviario con sentido común, en el que se combinen, por una parte, velocidades competitivas en largos recorridos; por otra, servicios de cercanía de calidad que cohesionen el territorio, y también capacidad para mercancías, cuestión que es urgente si queremos reducir emisiones en el sector del transporte. Es decir, ir hacia un modelo de servicio ferroviario de altas prestaciones.",
+     "quien": "Mikel Otero Gabirondo, Diputado en el Congreso (Grupo Parlamentario Euskal Herria Bildu)",
+     "fecha": "2026-02-25"
+    },
+    {
+     "id": "c-7e9baa726c",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La quema de combustibles fósiles para la aviación contribuye al calentamiento global, y el calentamiento resultante está causando trastornos con los viajes aéreos. Es un círculo. Y está claro que una de las soluciones pasa por disminuir el número de vuelos, y esta práctica de las aerolíneas no van en ese sentido",
+     "quien": "Josu Estarrona, Senador de EH Bildu",
+     "fecha": "2024-03-19"
+    }
+   ]
+  },
+  {
+   "tema": "campo-y-medio-rural",
+   "nombre": "Campo y medio rural",
+   "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+   "citas": [
+    {
+     "id": "c-fb5840056c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Hacen falta ayudas económicas, más recursos y medidas compensatorias de manera urgente, para evitar que desaparezca la pesca más artesanal",
+     "quien": "Idurre Bideguren, Portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2025-05-26"
+    },
+    {
+     "id": "c-1699d39ee4",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Si queremos que nuestra flota tenga futuro, es imprescindible salvaguardar los recursos marinos, garantizar una pesca sostenible y acabar con la pesca ilegal. No es suficiente lo que se ha hecho hasta ahora",
+     "quien": "Idurre Bideguren, Portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2024-02-13"
+    },
+    {
+     "id": "c-e7e391fa53",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las Bardenas deben dejar de estar al servicio de la guerra y pasar a estar al servicio de la vida, del territorio y de su gente. EH Bildu reclama aprovechar el fin del contrato en 2028 para abrir un proceso real de desmilitarización, con recursos suficientes para garantizar alternativas económicas, sociales y laborales a las entidades y municipios afectados y superar la dependencia generada en torno al polígono.",
+     "quien": "el partido, Grupo Parlamentario EH Bildu en el Congreso",
+     "fecha": "2026-06-04"
+    },
+    {
+     "id": "c-eb57101b08",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El ferrocarril tiene que garantizar servicio a los pueblos intermedios y a las cabeceras de comarca. Se tiene que convertir en una herramienta efectiva para combatir la despoblación y asegurar el derecho a la movilidad de un tren verdaderamente accesible. Esto es lo que estamos proponiendo, hacer una renovación completa del trazado ya existente.",
+     "quien": "Mikel Otero Gabirondo, Diputado en el Congreso (Grupo Parlamentario Euskal Herria Bildu)",
+     "fecha": "2026-02-25"
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "nombre": "Transporte e infraestructuras",
+   "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+   "citas": [
+    {
+     "id": "c-da486be4d5",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "superar la fase de macroinversiones en red exclusiva dedicada para la Alta Velocidad y reformar profundamente el trazado y las infraestructuras existentes",
+     "quien": "Mikel Otero, Diputado de EH Bildu por Araba",
+     "fecha": "2026-03-18"
+    },
+    {
+     "id": "c-3f1ebe9ef6",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La transferencia 'inminente' de los trenes de Cercanías se alarga ya medio siglo. Es una cuestión de país. Siempre resulta que son los flecos los que impiden cumplir un Estatuto aprobado en 1979",
+     "quien": "Mario Zubiaga, Senador de EH Bildu por Gipuzkoa",
+     "fecha": "2024-02-08"
+    },
+    {
+     "id": "c-7e5981bf53",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por todo esto, creemos que es el momento de reordenar prioridades, de centrarse en ofrecer un servicio ferroviario con sentido común, en el que se combinen, por una parte, velocidades competitivas en largos recorridos; por otra, servicios de cercanía de calidad que cohesionen el territorio, y también capacidad para mercancías, cuestión que es urgente si queremos reducir emisiones en el sector del transporte. Es decir, ir hacia un modelo de servicio ferroviario de altas prestaciones.",
+     "quien": "Mikel Otero Gabirondo, Diputado en el Congreso (Grupo Parlamentario Euskal Herria Bildu)",
+     "fecha": "2026-02-25"
+    },
+    {
+     "id": "c-eb57101b08",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El ferrocarril tiene que garantizar servicio a los pueblos intermedios y a las cabeceras de comarca. Se tiene que convertir en una herramienta efectiva para combatir la despoblación y asegurar el derecho a la movilidad de un tren verdaderamente accesible. Esto es lo que estamos proponiendo, hacer una renovación completa del trazado ya existente.",
+     "quien": "Mikel Otero Gabirondo, Diputado en el Congreso (Grupo Parlamentario Euskal Herria Bildu)",
+     "fecha": "2026-02-25"
+    },
+    {
+     "id": "c-2404466ffd",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Señor Sánchez, los graves accidentes ferroviarios ocurridos en las últimas semanas, así como el descontrol, la cascada de fallos, las incidencias y los cambios de servicio que han desencadenado los accidentes hacen necesaria una profunda e integral reflexión sobre el modelo y sobre las políticas ferroviarias que se han aplicado en las últimas décadas.",
+     "quien": "Mertxe Aizpurua Arzallus, Portavoz del Grupo Parlamentario Euskal Herria Bildu en el Congreso",
+     "fecha": "2026-02-11"
+    },
+    {
+     "id": "c-7e9baa726c",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La quema de combustibles fósiles para la aviación contribuye al calentamiento global, y el calentamiento resultante está causando trastornos con los viajes aéreos. Es un círculo. Y está claro que una de las soluciones pasa por disminuir el número de vuelos, y esta práctica de las aerolíneas no van en ese sentido",
+     "quien": "Josu Estarrona, Senador de EH Bildu",
+     "fecha": "2024-03-19"
+    }
+   ]
+  },
+  {
+   "tema": "igualdad-y-derechos",
+   "nombre": "Igualdad y derechos",
+   "definicion": "Igualdad entre mujeres y hombres, violencia machista, derechos LGTBI, libertades civiles, memoria democrática y relación con las religiones.",
+   "citas": [
+    {
+     "id": "c-5962f121b5",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las pensiones de viudedad subirán hasta un 14% en 2024 dando cumplimiento al acuerdo alcanzado por EH Bildu en la última reforma de las pensiones.",
+     "quien": "el partido, Nota de prensa de EH Bildu",
+     "fecha": "2023-12-12"
+    },
+    {
+     "id": "c-0db1b33117",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El tipo de familia no puede determinar la diferencia de trato y de cuidado a los bebés, ya que los nacidos y nacidas en familias monomarentales se ven tempranamente privados del tal necesario cuidado y cercanía",
+     "quien": "Olaia Duarte, Senadora de EH Bildu",
+     "fecha": "2024-10-29"
+    },
+    {
+     "id": "c-4997389fb9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ante sus amenazas de recortes de derechos, de controlar nuestras vidas y nuestros cuerpos, las mujeres de este país les tenemos que dejar claro que no van a pasar, que no pensamos retroceder en ninguno de los derechos que hemos ganado gracias a la lucha de miles de mujeres en las últimas décadas",
+     "quien": "Eneka Maiz, Cabeza de lista al Congreso por Nafarroa",
+     "fecha": "2026-11-07"
+    },
+    {
+     "id": "c-069638e8c6",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Establecer perímetros de protección que garanticen el acceso libre, seguro, confidencial y digno de las mujeres y del personal sanitario.",
+     "quien": "el partido, Grupo Parlamentario EH Bildu en el Congreso",
+     "fecha": "2026-06-16"
+    }
+   ]
+  },
+  {
+   "tema": "politica-exterior-y-defensa",
+   "nombre": "Política exterior y defensa",
+   "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
+   "citas": [
+    {
+     "id": "c-1f361e1e0b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "De no haber sido por las medidas que las izquierdas hemos introducido en él, su decreto, más que un escudo social, constituiría un escudo empresarial",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-03-25"
+    },
+    {
+     "id": "c-1588e5ced8",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ante las numerosas sentencias que evidencian una clara vulneración del derecho humanitario, era necesaria una reforma, pero una reforma basada en los principios de solidaridad y responsabilidad compartida. Una reforma que minimice los riesgos y que garantice vía seguras",
+     "quien": "Idurre Bideguren, Portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2024-05-07"
+    },
+    {
+     "id": "c-c8fe2c8033",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Quizá sea el momento de plantear la salida de la OTAN y abrir un debate profundo sobre la autonomía estratégica europea como apuesta de futuro",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-03-25"
+    },
+    {
+     "id": "c-4c83ed9f67",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nos oponemos a la carrera armamentística. La guerra no es la solución. Las guerras no se van a solucionar con más guerras. Abogamos por reforzar el diálogo, la diplomacia y el bienestar social.",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2025-04-15"
+    },
+    {
+     "id": "c-bed9ee6fef",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Israel debe aislarse por todos los lados. De lo contrario seguirá con la destrucción hasta ahora de una manera u otra. La imposición de sanciones.",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2025-10-10"
+    },
+    {
+     "id": "c-1b3f0d7301",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "recalibrar su posición hacia Marruecos y rectificar su error con el Sáhara",
+     "quien": "Mertxe Aizpurua, Portavoz de EH Bildu en el Congreso",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-e7e391fa53",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las Bardenas deben dejar de estar al servicio de la guerra y pasar a estar al servicio de la vida, del territorio y de su gente. EH Bildu reclama aprovechar el fin del contrato en 2028 para abrir un proceso real de desmilitarización, con recursos suficientes para garantizar alternativas económicas, sociales y laborales a las entidades y municipios afectados y superar la dependencia generada en torno al polígono.",
+     "quien": "el partido, Grupo Parlamentario EH Bildu en el Congreso",
+     "fecha": "2026-06-04"
+    },
+    {
+     "id": "c-23b62ce71e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La autonomía estratégica europea es totalmente incompatible con la pertenencia a un esquema militar como es la OTAN, una herramienta de coerción de la política de exterior de EEUU. Y la propuesta de rearme parte de esa visión",
+     "quien": "Pernando Barrena, Eurodiputado de EH Bildu",
+     "fecha": "2025-03-25"
+    }
+   ]
+  },
+  {
+   "tema": "ciencia-cultura-y-digital",
+   "nombre": "Ciencia, cultura y digital",
+   "definicion": "Investigación, tecnología e inteligencia artificial, cultura y deporte.",
+   "citas": [
+    {
+     "id": "c-34239ea38f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Consideramos importante hacer una evaluación detallada para conocer los efectos que está teniendo y si está sirviendo para alcanzar los objetivos previstos",
+     "quien": "Josu Estarrona, Senador de EH Bildu por Araba",
+     "fecha": "2025-05-05"
+    },
+    {
+     "id": "c-e6def701ca",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Se trata de sentar las bases de una agenda pública soberana que nos permita gobernar la Inteligencia Artificial, regular sus usos y poner todo su potencial al servicio de los retos y necesidades de nuestro país",
+     "quien": "Lore Martínez Axpe, Parlamentaria de EH Bildu en el Parlamento Vasco",
+     "fecha": "2026-10-29"
+    },
+    {
+     "id": "c-8b29cdc40e",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mediante ese Estatuto pretendemos exprimir al máximo las herramientas y competencias que tenemos para reforzar y proteger las expresiones culturales desde la base, porque son las que sostienen el sistema, frente a un modelo de megaproyectos y macroeventos que se mide solo en términos monetarios. El Estatuto será además un instrumento clave para garantizar condiciones vitales y laborales dignas a las y los profesionales de la cultura",
+     "quien": "Idurre Bideguren, Senadora y portavoz adjunta de EH Bildu en el Senado",
+     "fecha": "2024-04-08"
+    },
+    {
+     "id": "c-c792f6a8ea",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Como he dicho, aunque la consideramos insuficiente, apoyamos aquella enmienda porque abre un resquicio que podría ser el primer paso para que, al menos en algunos deportes, nuestros y nuestras deportistas puedan representar a Euskal Herria en la esfera internacional.",
+     "quien": "Marije Fullaondo La Cruz, Diputada por Bizkaia y portavoz del Grupo Parlamentario Euskal Herria Bildu en el debate de la proposición de ley del PP sobre la Ley del Deporte",
+     "fecha": "2024-10-29"
+    },
+    {
+     "id": "c-8e45ac3872",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "EH Bildu considera que todas las comunicaciones, trámites, resoluciones o peticiones que se realicen por medios electrónicos, digitales y telemáticos en la administración pública del Estado se deben poder realizar íntegramente en todas y cada una de las lenguas oficiales.",
+     "quien": "el partido",
+     "fecha": "2024-02-05"
+    }
+   ]
+  }
+ ]
+}

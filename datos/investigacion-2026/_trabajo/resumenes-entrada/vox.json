@@ -1,0 +1,2963 @@
+{
+ "partido": "vox",
+ "nombre": "Vox",
+ "programa": "documento_parcial",
+ "temas": [
+  {
+   "tema": "vivienda",
+   "nombre": "Vivienda",
+   "definicion": "Acceso a la vivienda en compra y alquiler, vivienda pública, suelo y urbanismo.",
+   "citas": [
+    {
+     "id": "c-25592424ad",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La vivienda es la tormenta perfecta: ausencia de casas, inmigración masiva, precios desorbitados, sueldos irrisorios, trabajos inestables, especulación inmobiliaria, escasez de vivienda pública, impuestos y burocracia excesivos, corrupción política… y suma y sigue.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Vivienda"
+    },
+    {
+     "id": "c-d6891aafdb",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El secuestro de suelo por parte de las administraciones y políticas restrictivas sobre el suelo impiden construir: excesivas restricciones en la clasificación de suelo, en el planeamiento y ambientales, cargas urbanísticas muy elevadas, retraso en licitaciones, controles administrativos prolongados, excesivas limitaciones en suelo rústico…, etc.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Vivienda"
+    },
+    {
+     "id": "c-100f7ccf8e",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Del mismo modo, las leyes del bipartidismo, lejos de favorecer una política de vivienda robusta, han obtenido el resultado contrario, consagrando la inseguridad jurídica. Entre infinidad de ellas, pueden destacarse la Ley 12/2023, de 24 de mayo, por el derecho a la vivienda y todas las modificaciones en materia de vivienda previstas en el Real Decreto-ley 7/2019 y en el Real Decreto-ley 11/2020.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Vivienda"
+    },
+    {
+     "id": "c-35a4ee139a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 12/2023, de 24 de mayo, por el derecho a la vivienda y todas las modificaciones en materia de vivienda previstas en el Real Decreto-ley 7/2019 y el Real Decreto-ley 11/2020.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-001ea56e02",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-9bcdb679d6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de Suelo y Rehabilitación Urbana.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-1b06137366",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación y su desarrollo reglamentario, en particular, el Código Técnico de la Edificación (CTE).",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-99a075d7e8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Directiva 2024/1275 relativa a la eficiencia energética de los edificios (EPBD).",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-bbf634f840",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Lo que esa familia necesita es que ustedes renuncien a su parte del botín, que bajen los impuestos a la compra de la primera vivienda, la que es para vivir, que los bajen, que permitan además su pago diferido en el tiempo y sin intereses y que ―sí, entonces sí― le pongan unos impuestos altísimos y disuasorios, ostensiblemente disuasorios, a los compradores extranjeros y a las fortunas extranjeras.",
+     "quien": "Carlos Hernández Quero, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-be65ec5d90",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En primer lugar, porque la ley de vivienda, cuyos resultados ya se han comprobado, no ha de ser reformada ni modificada, ha de ser derogada como toda legislación antisocial y antipopular que atenta contra el bien común",
+     "quien": "Carlos Hernández Quero, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-efe073293a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La solución a la okupación pasa por garantizar de forma tajante la restitución inmediata del inmueble al propietario en el momento en que se produzca un impago, un incumplimiento de contrato o el vencimiento del plazo, aportando plena certeza jurídica.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-f11d344652",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Pueden pasar años desde que se señala un suelo hasta que se pone un ladrillo, y cuando por fin se construye más de la mitad de lo que pagamos son impuestos. Proponemos más suelo y plazos cerrados, y que la primera vivienda esté libre de carga impositiva",
+     "quien": "Maribel Cerezo, Candidata de Vox al Congreso por Baleares",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-d4b49387ce",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Yo creo que el Estado tiene que intervenir cuando hay una práctica abusiva en el mercado",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-bfba4df28f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La oferta y la demanda no casan, no se construye y cada vez entra más gente",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-05f4bed9b8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En la parte alta proponemos una fiscalidad diferenciada: que las fortunas extranjeras que adquieran vivienda en España paguen impuestos superiores.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-0ed80c0af1",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Señorías, España necesita más vivienda, menos impuestos, menos burocracia, energía más barata, seguridad jurídica, competencia y mejores condiciones para que nuestras empresas produzcan y nuestros trabajadores prosperen.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "nombre": "Empleo y salarios",
+   "definicion": "Trabajo, salarios, jornada, contratos, autónomos, sindicatos y salud laboral.",
+   "citas": [
+    {
+     "id": "c-fcde77a119",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Páginas y páginas del BOE en una sola dirección, la de las subidas interminables: cotización de autónomos, nuevos tramos del IRPF, subidas del IVA, tasas, permisos; eso sí, ni rastro de deflactaciones, facilidades administrativas, ni bajada de cotizaciones.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Poder adquisitivo"
+    },
+    {
+     "id": "c-ebcda7331a",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España se ha convertido en un auténtico laberinto burocrático para quien quiere emprender, invertir o crear empleo.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Empresa"
+    },
+    {
+     "id": "c-6be1500916",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Los autónomos tampoco se libran de la persecución fiscal y regulatoria. El aumento desorbitado de las cuotas mínimas y los nuevos sistemas de cotización por ingresos reales están asfixiando a los pequeños negocios, empujándolos directamente a la economía sumergida para poder sobrevivir.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Trabajo"
+    },
+    {
+     "id": "c-45406dcaed",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El ejemplo más flagrante es el Reglamento de la Reserva de Talentos de 2026 que, en lugar de blindar y potenciar el talento local, insiste en perpetuar la dependencia de la mano de obra barata extranjera.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Trabajo"
+    },
+    {
+     "id": "c-d92dd0e146",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Cada nueva obligación, cada trámite añadido y cada restricción burocrática terminan dificultando la contratación, frenando inversiones y reduciendo la capacidad de crecimiento de las empresas, afectando especialmente a jóvenes, trabajadores poco cualificados y pequeñas empresas.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Trabajo"
+    },
+    {
+     "id": "c-b0a5dbd372",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Vamos a devolver a la empresa española a lo único que debería hacer: producir, contratar y prosperar.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-6542e85e79",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fin de la trampa de los 50 empleados. Hoy, una pyme que pasa de 49 a 50 trabajadores se convierte de la noche a la mañana en un monstruo burocrático: plan de igualdad, plan LGTBI, auditoría retributiva, comité de seguridad y salud, canal interno de denuncias y un sinfín de obligaciones más. El resultado es previsible: miles de empresas se quedan congeladas en 49 empleados para no entrar en el infierno regulatorio. Empleos que no se crean, sueldos que no suben, españoles que no prosperan. Vamos a eliminar todas esas obligaciones que castigan a la empresa por el simple hecho de crecer.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-8b07ff9764",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación del protocolo de desconexión digital obligatorio. Las condiciones de trabajo se pactan entre empresa y trabajador, debiendo garantizar siempre unas condiciones laborales justas y dignas para todos los trabajadores. No hace falta un protocolo oficial registrado por triplicado para apagar el móvil al salir del trabajo. Se deroga.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-2da4078a2f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Prevención de riesgos laborales proporcional al riesgo real. En sectores con riesgo serio (construcción, química, siderurgia, manipulación de maquinaria pesada...), la prevención de riesgos es imprescindible y debe mantenerse con todas las garantías. La seguridad de los trabajadores no se negocia.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-780f8bedb2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a sustituir el modelo actual por uno basado en el riesgo real de cada actividad, no en el convenio formal de encuadramiento. Se eliminarán las exigencias formales y los cursos sin utilidad práctica, y las microempresas sin riesgo significativo quedarán sometidas a un régimen ultra-simplificado.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-df19fab2b2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fin del registro horario obligatorio universal. El registro horario nació para perseguir abusos y ha terminado convertido en una carga absurda para teletrabajadores, profesionales por objetivos, autónomos con empleados y miles de pymes donde no tiene ningún sentido. Empresa y trabajador podrán acordar libremente cómo organizar y controlar el tiempo de trabajo. Quien quiera fichar, que fiche. Quien trabaje por objetivos, que trabaje por objetivos. La Administración intervendrá donde haya indicios reales de abuso, no para vigilar de forma generalizada a quien cumple.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-4af95b7725",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma laboral, la garantía de la estabilidad en el empleo y la transformación del mercado de trabajo.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-a914bcdad1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Estatuto de los Trabajadores.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-b488904980",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Real Decreto-ley 8/2019 en lo relativo al registro diario obligatorio de jornada.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-d8327982f3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Empresa y trabajo: iniciar un negocio, contratar trabajadores o crecer como empresa no puede ser un infierno regulatorio y económico. Vamos a revertir esta tendencia, identificando los trámites, gestiones y cumplimientos normativos que lastran injustificadamente nuestra competitividad, encarnada en la fragmentación regulatoria —disparidad de normas, autorizaciones y licencias en distintos niveles competenciales y territoriales— que precisan un marco legislativo que garantice la unidad del mercado y la armonización.",
+     "apartado": "Propuestas de VOX › Reestructuraremos toda la normativa que afecta especialmente a los siguientes sectores hiperregulados"
+    },
+    {
+     "id": "c-d5607f1d94",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No hace falta un protocolo oficial registrado por triplicado para apagar el móvil al salir del trabajo",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-cf6f5e523f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "quien quiera fichar, que fiche",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-e12db46f3e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "la aplicación universal y acrítica de la normativa a cualquier microempresa ha llenado el día a día de las pymes de cursos, protocolos y certificaciones sin utilidad práctica",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-ce6e38a2d5",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Respecto al mercado laboral, el empleo creado es de baja calidad y con salarios reducidos: el 75 % de los trabajadores cobra igual o menos de dos veces el SMI, situándose el salario más frecuente en 16.000 euros anuales.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-a587f312e4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es una huelga política, con lo cual debería estar prohibida.",
+     "quien": "Juan José Aizcorbe, Diputado y cabeza de lista de Vox por Barcelona",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-8e9650d654",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si llegamos, tenemos la intención de acabar con el saqueo a las propinas, una injusticia absoluta",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-ba25aad126",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por ejemplo, nosotros defendemos un estatuto médico propio.",
+     "quien": "García Gomis, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-22"
+    },
+    {
+     "id": "c-c772333f84",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "obligar a cada empresa a redactar, negociar, registrar y revisar un plan de igualdad es burocracia ideológica disfrazada de progreso",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "nombre": "Pensiones",
+   "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
+   "citas": [
+    {
+     "id": "c-d3ffe19a6e",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Resulta evidente que la hiperregulación, particularmente en materia fiscal y de cotizaciones, está encareciendo el coste de la vida.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Poder adquisitivo"
+    },
+    {
+     "id": "c-fcde77a119",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Páginas y páginas del BOE en una sola dirección, la de las subidas interminables: cotización de autónomos, nuevos tramos del IRPF, subidas del IVA, tasas, permisos; eso sí, ni rastro de deflactaciones, facilidades administrativas, ni bajada de cotizaciones.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Poder adquisitivo"
+    },
+    {
+     "id": "c-6be1500916",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Los autónomos tampoco se libran de la persecución fiscal y regulatoria. El aumento desorbitado de las cuotas mínimas y los nuevos sistemas de cotización por ingresos reales están asfixiando a los pequeños negocios, empujándolos directamente a la economía sumergida para poder sobrevivir.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Trabajo"
+    },
+    {
+     "id": "c-e862624276",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "La solución que plantea Vox requiere una reforma estructural hacia un modelo mixto que combine el reparto con la capitalización individual, como han hecho con éxito otros países europeos.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-da4eeed7de",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El único modo de mantener el sistema es rebajar impuestos y recortar en gasto político ideológico. Pueden estar tranquilos los pensionistas que tienen derechos adquiridos, porque las pensiones se van a pagar de la manera que haga falta",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-019ba64b8a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Asumimos el compromiso de trabajar sobre las largas carreras de cotización. Hay que atender especialmente a quienes llegaron a la jubilación anticipada por un despido o un ERE, valorar los años y las bases realmente cotizadas y distinguir según el tiempo en que se adelanta la jubilación. También debemos reconocer mejor a quienes continúan trabajando después de la edad ordinaria y siguen aportando cuando ya podrían retirarse.",
+     "quien": "Juan José Aizcorbe, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-22"
+    }
+   ]
+  },
+  {
+   "tema": "impuestos",
+   "nombre": "Impuestos",
+   "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
+   "citas": [
+    {
+     "id": "c-d3ffe19a6e",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Resulta evidente que la hiperregulación, particularmente en materia fiscal y de cotizaciones, está encareciendo el coste de la vida.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Poder adquisitivo"
+    },
+    {
+     "id": "c-fcde77a119",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Páginas y páginas del BOE en una sola dirección, la de las subidas interminables: cotización de autónomos, nuevos tramos del IRPF, subidas del IVA, tasas, permisos; eso sí, ni rastro de deflactaciones, facilidades administrativas, ni bajada de cotizaciones.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Poder adquisitivo"
+    },
+    {
+     "id": "c-f23f396c0d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-a0c623a1e1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-001ea56e02",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-15290fb4ec",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-8cba169e63",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Energía: España debe caminar hacia la Soberanía Energética e Industrial. Una pieza clave para ello es la energía nuclear. Acabaremos con la presión regulatoria que se cierne sobre las centrales para garantizar un suministro estable frente a la intermitencia de las renovables y revertir el calendario de cierre de las centrales para garantizar una energía asequible para los españoles, derogando o suprimiendo toda disposición contraria a este fin, como las Órdenes relativas a los cierres definitivos de las centrales o las medidas fiscales de la Ley 15/2012, de 27 de diciembre, que recaen sobre las centrales, prorrogando con ello su vida útil.",
+     "apartado": "Propuestas de VOX › Reestructuraremos toda la normativa que afecta especialmente a los siguientes sectores hiperregulados"
+    },
+    {
+     "id": "c-bbf634f840",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Lo que esa familia necesita es que ustedes renuncien a su parte del botín, que bajen los impuestos a la compra de la primera vivienda, la que es para vivir, que los bajen, que permitan además su pago diferido en el tiempo y sin intereses y que ―sí, entonces sí― le pongan unos impuestos altísimos y disuasorios, ostensiblemente disuasorios, a los compradores extranjeros y a las fortunas extranjeras.",
+     "quien": "Carlos Hernández Quero, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-f11d344652",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Pueden pasar años desde que se señala un suelo hasta que se pone un ladrillo, y cuando por fin se construye más de la mitad de lo que pagamos son impuestos. Proponemos más suelo y plazos cerrados, y que la primera vivienda esté libre de carga impositiva",
+     "quien": "Maribel Cerezo, Candidata de Vox al Congreso por Baleares",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-da4eeed7de",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El único modo de mantener el sistema es rebajar impuestos y recortar en gasto político ideológico. Pueden estar tranquilos los pensionistas que tienen derechos adquiridos, porque las pensiones se van a pagar de la manera que haga falta",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-eae93dd328",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Suprimiendo únicamente las subvenciones superiores a 100.000 euros al año se obtendrían los fondos para financiar la reforma del IRPF que propone Vox. Nuestra propuesta plantea un sistema simplificado con un mínimo exento de 22.000 euros y dos tramos únicos: un 15 % hasta los 70.000 euros de renta y un 25 % para importes superiores, sin deducciones ni bonificaciones.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-8e9650d654",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si llegamos, tenemos la intención de acabar con el saqueo a las propinas, una injusticia absoluta",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-88fa5aefde",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Lo que se necesita es una reducción drástica y permanente de los impuestos a la energía, eliminando o reduciendo el impuesto sobre el valor de la producción eléctrica, el impuesto especial sobre hidrocarburos y el IVA correspondiente, que actualmente incurren en una doble imposición fiscal.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-d37fa0da85",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vienen y nos cuentan que en este decreto introducen una rebaja al IVA de la luz y del gas, medida que, por cierto, VOX lleva exigiendo que adopten con carácter permanente desde hace años; los bienes esenciales deberían tener un IVA superreducido o sin IVA.",
+     "quien": "José María Figaredo, Diputado de Vox en el Congreso",
+     "fecha": "2026-10-16"
+    },
+    {
+     "id": "c-05f4bed9b8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En la parte alta proponemos una fiscalidad diferenciada: que las fortunas extranjeras que adquieran vivienda en España paguen impuestos superiores.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-2e7be62278",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Queremos abaratar la cesta de la compra reduciendo impuestos, cotizaciones y costes regulatorios; favorecer la competencia y defender a nuestros agricultores y ganaderos frente a la competencia desleal.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-b9f3106f31",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Hemos propuesto importantes reducciones y deducciones por hijo en el IRPF. La diferencia es que ustedes quieren que el Estado decida por las familias; nosotros queremos que el Estado ayude a las familias a decidir.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-51fb53b572",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Señor ministro, la igualdad no consiste en repartir las consecuencias de la mala gestión. La igualdad consiste en aplicar las mismas reglas para todos. Señor ministro, este proyecto de ley rompe el principio de quien gasta responde, que es la base de cualquier sistema fiscal serio.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado del Grupo Parlamentario VOX, defensor de su enmienda de totalidad en el Pleno",
+     "fecha": "2026-07-23"
+    }
+   ]
+  },
+  {
+   "tema": "economia",
+   "nombre": "Economía y empresas",
+   "definicion": "Industria, empresas, comercio, turismo, cuentas públicas y coste de la vida. Los impuestos y el empleo van aparte.",
+   "citas": [
+    {
+     "id": "c-3a41447edb",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En síntesis, el elenco de medidas elegido representa el ánimo decidido de VOX de poner fin a una querencia hiperreguladora que está boicoteando la prosperidad de las familias, empresas y trabajadores españoles.",
+     "apartado": "Programa de desregulación"
+    },
+    {
+     "id": "c-71ff472849",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Si las instituciones no son capaces de regular la creatividad sin asfixiarla; ni de proteger la iniciativa en vez de suplantarla; si ni siquiera son capaces de apuntalar la protección social de las familias españolas sin agobiarlas, arruinarlas y marginarlas al final de la cola de las ayudas sociales y la vivienda protegida, entonces, lo mejor que pueden hacer es echarse a un lado.",
+     "apartado": "Programa de desregulación"
+    },
+    {
+     "id": "c-b140948360",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Más legislación no es mejor legislación: la nota de España en el Índice de Complejidad Regulatoria se ha desplomado un 50%, manifestando la involución de nuestro marco normativo.",
+     "apartado": "Introducción"
+    },
+    {
+     "id": "c-52c8eb4ee6",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En síntesis: cada día somos más pobres, sí, y mucha culpa es de la hiperregulación. Malas leyes que destruyen nuestra economía y demasiadas leyes que asfixian e impiden la prosperidad de empresas y trabajadores.",
+     "apartado": "Introducción"
+    },
+    {
+     "id": "c-d3ffe19a6e",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Resulta evidente que la hiperregulación, particularmente en materia fiscal y de cotizaciones, está encareciendo el coste de la vida.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Poder adquisitivo"
+    },
+    {
+     "id": "c-ebcda7331a",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España se ha convertido en un auténtico laberinto burocrático para quien quiere emprender, invertir o crear empleo.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Empresa"
+    },
+    {
+     "id": "c-c66cc98f58",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Otro gran escollo al crecimiento empresarial es la quiebra del mercado nacional. La Ley de Garantía de la Unidad de Mercado ha fracasado plenamente, obligando a las empresas a asumir costes millonarios en estudios legales y adaptación de licencias solo para poder operar en distintas regiones de su propio país.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Empresa"
+    },
+    {
+     "id": "c-8d490827f4",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Y por si fuese poco, el fanatismo climático de la Unión Europea y su delirante Marco de Finanzas Sostenibles han dado la estocada final a infinidad de empresas, especialmente las pequeñas y medianas.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Empresa"
+    },
+    {
+     "id": "c-d92dd0e146",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Cada nueva obligación, cada trámite añadido y cada restricción burocrática terminan dificultando la contratación, frenando inversiones y reduciendo la capacidad de crecimiento de las empresas, afectando especialmente a jóvenes, trabajadores poco cualificados y pequeñas empresas.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Trabajo"
+    },
+    {
+     "id": "c-5fd2ad20c7",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El punto de inflexión tiene nombre y fecha: la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética. Con ella, España se lanzó a la carrera de la descarbonización sacrificando su competitividad: prohibió explorar, investigar y explotar nuestros propios hidrocarburos, vetó el aprovechamiento de yacimientos estratégicos y maniató la inversión con calendarios ideológicos de reducción de emisiones.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Energía"
+    },
+    {
+     "id": "c-a02ac290bd",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Mientras medio planeta refuerza su capacidad nuclear, España se dispone a apagar voluntariamente unas centrales que funcionan, que son seguras y que producen energía limpia, estable y barata. Cerrarlas solo sirve para una cosa: disparar el precio de la luz, aumentar la dependencia del gas extranjero y acelerar la desindustrialización.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Energía"
+    },
+    {
+     "id": "c-a630ebee1b",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El Pacto Verde Europeo, que es la forma en que la Unión Europea ha vehiculado el cumplimiento del Acuerdo de París de 2015, ha condenado a nuestra industria, hundiéndola en términos de competitividad a nivel internacional.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Industria"
+    },
+    {
+     "id": "c-26b85fa52f",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En materia de legislación nacional, la Ley de Industria vigente data de 1992 y el marco que establece ha quedado manifiestamente desfasado respecto a las transformaciones que ha experimentado el sector manufacturero.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Industria"
+    },
+    {
+     "id": "c-4f2612ec21",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "A esta superposición regulatoria, se añade una burocracia administrativa que penaliza especialmente a quienes quieren crecer: procedimientos administrativos lentos, requisitos documentales no armonizados entre administraciones, falta de centralización en sedes electrónicas, cuellos de botella recurrentes en los trámites medioambientales y urbanísticos... Y, para las empresas que superan el umbral de los 50 trabajadores, un catálogo de obligaciones adicionales —planes de igualdad, auditorías retributivas, protocolos LGTBI, etc.— que se activan de forma automática y que, en la práctica, obstaculizan el crecimiento.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Industria"
+    },
+    {
+     "id": "c-806e0e152b",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La deuda pública es el desagradable colofón a la relación de miserias consecuencia de demasiadas leyes y malas leyes, y de una burocracia interminable. El empobrecimiento generalizado de los españoles no pasa solo por la ruina presente sino por la hipoteca de precariedad futura, desplomadas todas las expectativas vitales de muchas generaciones sin posesiones, ni proyección.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Deuda pública"
+    },
+    {
+     "id": "c-55fd7756af",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Las propuestas de VOX en materia de desregulación parten de la revisión profunda de toda la normativa y la burocracia asociada, con el objetivo de eliminar todos los obstáculos que están arrebatando la prosperidad a las empresas, trabajadores y familias españolas.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-8ecf468d08",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mesas sectoriales de desregulación. El buzón recoge propuestas individuales; las mesas sectoriales recogerán las de quienes representan a sectores enteros. El Gobierno se sentará, de forma sistemática y periódica, con asociaciones empresariales, colegios profesionales, organizaciones de autónomos, patronales sectoriales y representantes de la sociedad civil productiva, para identificar qué normas sobran, qué trámites entorpecen y qué cargas pueden suprimirse o simplificarse.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-655ab462e9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de Mercado Abierto. Lo que es legal en una región de España, lo es en toda España. Cualquier empresa, profesional o producto que ya opere legalmente en una Comunidad Autónoma podrá hacerlo en el resto del territorio nacional sin trámites, licencias ni registros adicionales. España es un solo mercado y una sola nación: no puede ser que un autónomo, un comerciante o un fabricante tenga que pedir diecisiete permisos distintos para vender lo mismo.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-2e309bbc66",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cargas impuestas desde Bruselas a las empresas: al mínimo en España, batalla por su eliminación en Europa. Registro salarial, auditorías retributivas y todo el aparato de control salarial que obliga a la empresa a justificar ante la Administración cuánto paga, a quién y por qué. Canal interno de denuncias. Medición de la huella de carbono. Estado de información no financiera, esto es, el famoso informe ESG: decenas de páginas que la empresa debe dedicar a detallar su política de diversidad, sostenibilidad, igualdad y demás letanías ideológicas.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-3e6ee5deda",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a reescribir la Ley Orgánica de Protección de Datos en clave de mínimo imprescindible: solo lo que exige Bruselas, redactado de forma clara, breve y sin trampas. La AEPD pasará de organismo sancionador a organismo de ayuda y asesoramiento, especialmente para las pymes.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-90aa4c12ff",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Principio de mínima intervención o carga normativa. Toda nueva norma deberá aprobarse aplicando la alternativa menos restrictiva, menos burocrática y menos costosa posible para ciudadanos, autónomos y empresas. La Administración tendrá la obligación de justificar expresamente cualquier carga, trámite o limitación adicional que pretenda imponer.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-b0a5dbd372",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Vamos a devolver a la empresa española a lo único que debería hacer: producir, contratar y prosperar.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-6542e85e79",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fin de la trampa de los 50 empleados. Hoy, una pyme que pasa de 49 a 50 trabajadores se convierte de la noche a la mañana en un monstruo burocrático: plan de igualdad, plan LGTBI, auditoría retributiva, comité de seguridad y salud, canal interno de denuncias y un sinfín de obligaciones más. El resultado es previsible: miles de empresas se quedan congeladas en 49 empleados para no entrar en el infierno regulatorio. Empleos que no se crean, sueldos que no suben, españoles que no prosperan. Vamos a eliminar todas esas obligaciones que castigan a la empresa por el simple hecho de crecer.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-6076b4197c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación del plan de igualdad obligatorio. La igualdad ante la ley ya está garantizada por la Constitución. Obligar a cada empresa a redactar, negociar, registrar y revisar periódicamente un plan de igualdad es burocracia ideológica disfrazada de progreso. Se deroga.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-dc35c93f2a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación del plan LGTBI obligatorio. Ninguna empresa debe estar obligada a redactar planes para acreditar su adhesión a una agenda. Las empresas están para contratar a los mejores, no para certificar su corrección política. Se deroga.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-8b07ff9764",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación del protocolo de desconexión digital obligatorio. Las condiciones de trabajo se pactan entre empresa y trabajador, debiendo garantizar siempre unas condiciones laborales justas y dignas para todos los trabajadores. No hace falta un protocolo oficial registrado por triplicado para apagar el móvil al salir del trabajo. Se deroga.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-f69cb7aa1c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación del plan de movilidad sostenible obligatorio. La Administración ya ha complicado bastante el transporte a todos los trabajadores bajo la excusa de la sostenibilidad ambiental. No podemos permitir más burocracia ideológica que hace perder tiempo y dinero. Se deroga.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-780f8bedb2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a sustituir el modelo actual por uno basado en el riesgo real de cada actividad, no en el convenio formal de encuadramiento. Se eliminarán las exigencias formales y los cursos sin utilidad práctica, y las microempresas sin riesgo significativo quedarán sometidas a un régimen ultra-simplificado.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-df19fab2b2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fin del registro horario obligatorio universal. El registro horario nació para perseguir abusos y ha terminado convertido en una carga absurda para teletrabajadores, profesionales por objetivos, autónomos con empleados y miles de pymes donde no tiene ningún sentido. Empresa y trabajador podrán acordar libremente cómo organizar y controlar el tiempo de trabajo. Quien quiera fichar, que fiche. Quien trabaje por objetivos, que trabaje por objetivos. La Administración intervendrá donde haya indicios reales de abuso, no para vigilar de forma generalizada a quien cumple.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-79516c72aa",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Una empresa, un único expediente administrativo nacional. Toda empresa operará en España con un único expediente digital interoperable ante Hacienda, Seguridad Social, ayuntamientos y Comunidades Autónomas. Quedará prohibido exigir documentos, licencias o datos ya aportados ante otra Administración.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-bd11c800da",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Libertad para el comercio español. Que el comerciante decida. El pequeño comercio, la tienda de barrio y la pyme familiar llevan décadas asfixiados por una maraña de licencias duplicadas, etiquetas que cambian al cruzar una frontera autonómica y normas de envasado que multiplican costes sin aportar nada. Mientras el comercio online global vende sin restricciones, al comercio físico español se le ata de pies y manos. Devolveremos al comerciante la libertad para hacer prosperar su negocio.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-acb6242727",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a derogar todas esas restricciones a las rebajas, promociones, saldos y liquidaciones, y a devolver al comerciante la libertad plena para decidir sus campañas.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-80b9be548d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fin de la doble licencia comercial. Hoy, abrir un comercio mediano o grande en España exige sortear no una, sino dos vueltas administrativas: la municipal y la autonómica, esta última camuflada con frecuencia como “informe vinculante” que actúa como una autorización encubierta. Resultado: meses o años de espera, miles de euros en informes y un mensaje claro a quien quiere invertir en España: no lo hagas. Una sola licencia, un solo trámite, un solo plazo. Quien quiera abrir un comercio cumpliendo la ley, podrá hacerlo.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-058fdfea0a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En España, además, las Comunidades Autónomas han ido añadiendo capas propias: obligaciones lingüísticas distintas en cada territorio, sistemas de devolución de envases también distintos, exigencias adicionales que convierten la venta del mismo producto en diecisiete operaciones diferentes. Vamos a derogar todas las exigencias autonómicas que añadan requisitos por encima de la norma europea.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-624a45f034",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "En paralelo, defenderemos en Bruselas la simplificación de la normativa comunitaria de etiquetado y envasado.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-a2e12a9835",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Mientras China levanta fábricas enteras en meses, en España un proyecto industrial puede pasar más tiempo esperando informes que produciendo. La culpa no es de la geografía: es de las trabas que hemos puesto encima. Vamos a quitarlas y a devolver a España su soberanía energética e industrial.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-3a1555f8f1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Más allá de la infinidad de malas leyes que están en vigor en todos los ámbitos, y que derogaremos y/o reformaremos en cuanto tengamos la oportunidad, en materia de desregulación empezaremos derogando toda normativa que suponga un perjuicio para los españoles y que añada burocracia en los diferentes sectores económicos, si bien la mayoría de la carga regulatoria no reside en las leyes más conocidas, sino en el volumen acumulado de normativa de desarrollo, como reales decretos, órdenes ministeriales, circulares, instrucciones, o la normativa autonómica y local, que precisará de una intervención integral y sostenida en el tiempo.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-39ce5ee994",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-65cbc1b1fc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 10/2025, de 26 de diciembre, por la que se regulan los servicios de atención a la clientela.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-4d80cc11a9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La legislación sobre planes de igualdad en las empresas prevista en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, tras la reforma del Real Decreto-ley 6/2019, de 1 de marzo, así como todo su desarrollo reglamentario.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-a0c623a1e1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-b488904980",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Real Decreto-ley 8/2019 en lo relativo al registro diario obligatorio de jornada.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-84b3134360",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 21/1992, de 16 de julio, de Industria.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-a351aa2115",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Código de Comercio, Ley de Sociedades de Capital y Ley de Auditoría de Cuentas, en materia de información no financiera y diversidad.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-bb6503f9dd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-75f295b361",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-cedd6788f4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Revertir la aplicación provisional del acuerdo comercial UE-Mercosur y frenar su aprobación.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-dd431561d9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Poner fin al Acuerdo de Asociación UE-Marruecos.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-f6adb0c869",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2020/852 sobre taxonomía ambiental europea.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-03509955f7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Régimen para el comercio de derechos de emisión de gases de efecto invernadero de la Unión Europea (ETS), creado por la Directiva 2003/87/CE 2023/959 y modificado por la Directiva 2023/959, así como el Reglamento 2023/956 por el que se establece un Mecanismo de Ajuste en Frontera por Carbono (CBAM).",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-dab8a20228",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Directiva 2022/2464 sobre información sobre sostenibilidad por parte de las empresas (CSRD) y la Directiva 2024/1760 sobre diligencia debida de las empresas en materia de sostenibilidad (CS3D).",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-7fa71f399e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Directiva 2023/970 sobre igualdad retributiva y de mecanismos burocráticos para su cumplimiento.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-d8327982f3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Empresa y trabajo: iniciar un negocio, contratar trabajadores o crecer como empresa no puede ser un infierno regulatorio y económico. Vamos a revertir esta tendencia, identificando los trámites, gestiones y cumplimientos normativos que lastran injustificadamente nuestra competitividad, encarnada en la fragmentación regulatoria —disparidad de normas, autorizaciones y licencias en distintos niveles competenciales y territoriales— que precisan un marco legislativo que garantice la unidad del mercado y la armonización.",
+     "apartado": "Propuestas de VOX › Reestructuraremos toda la normativa que afecta especialmente a los siguientes sectores hiperregulados"
+    },
+    {
+     "id": "c-7d818d8ec5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Industria: Reindustrialización de España. La vigente Ley de Industria data de 1992: más de tres décadas de desarrollo normativo que precisa de una actualización y armonización, tanto a nivel de rango de ley como reglamentario, para fomentar el desarrollo industrial de España, en particular en materia de autorizaciones, licencias, en favor de la declaración responsable y del silencio positivo de la administración, eliminando toda duplicidad, norma obsoleta o exigencia medioambiental que no sea conforme con el interés general.",
+     "apartado": "Propuestas de VOX › Reestructuraremos toda la normativa que afecta especialmente a los siguientes sectores hiperregulados"
+    },
+    {
+     "id": "c-d4b49387ce",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Yo creo que el Estado tiene que intervenir cuando hay una práctica abusiva en el mercado",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-d5607f1d94",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No hace falta un protocolo oficial registrado por triplicado para apagar el móvil al salir del trabajo",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-e12db46f3e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "la aplicación universal y acrítica de la normativa a cualquier microempresa ha llenado el día a día de las pymes de cursos, protocolos y certificaciones sin utilidad práctica",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-eae93dd328",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Suprimiendo únicamente las subvenciones superiores a 100.000 euros al año se obtendrían los fondos para financiar la reforma del IRPF que propone Vox. Nuestra propuesta plantea un sistema simplificado con un mínimo exento de 22.000 euros y dos tramos únicos: un 15 % hasta los 70.000 euros de renta y un 25 % para importes superiores, sin deducciones ni bonificaciones.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-d37fa0da85",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vienen y nos cuentan que en este decreto introducen una rebaja al IVA de la luz y del gas, medida que, por cierto, VOX lleva exigiendo que adopten con carácter permanente desde hace años; los bienes esenciales deberían tener un IVA superreducido o sin IVA.",
+     "quien": "José María Figaredo, Diputado de Vox en el Congreso",
+     "fecha": "2026-10-16"
+    },
+    {
+     "id": "c-2e7be62278",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Queremos abaratar la cesta de la compra reduciendo impuestos, cotizaciones y costes regulatorios; favorecer la competencia y defender a nuestros agricultores y ganaderos frente a la competencia desleal.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-0ed80c0af1",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Señorías, España necesita más vivienda, menos impuestos, menos burocracia, energía más barata, seguridad jurídica, competencia y mejores condiciones para que nuestras empresas produzcan y nuestros trabajadores prosperen.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-72bc5133bc",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Basta ya de legislaturas que añaden miles de normas y no retiran ninguna: los españoles no pueden seguir cargando con un Boletín Oficial que crece sin parar mientras su libertad mengua",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-dba5c43b07",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cada ley nueva tendrá que identificar, en su propio texto, qué tres normas vigentes deroga",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-554ec8d7f2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Para minimizar ese impacto, debemos explotar nuestros recursos de hidrocarburos y reforzar la red eléctrica de distribución.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-fac906c4c4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No puede ser que España sea una nación indefensa, necesitamos muchas inversiones y además poner de manifiesto que la industria de seguridad y defensa en España es una industria modélica",
+     "quien": "Jorge Buxadé, Eurodiputado y jefe de la delegación de Vox en el Parlamento Europeo",
+     "fecha": "2026-10-31"
+    },
+    {
+     "id": "c-51fb53b572",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Señor ministro, la igualdad no consiste en repartir las consecuencias de la mala gestión. La igualdad consiste en aplicar las mismas reglas para todos. Señor ministro, este proyecto de ley rompe el principio de quien gasta responde, que es la base de cualquier sistema fiscal serio.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado del Grupo Parlamentario VOX, defensor de su enmienda de totalidad en el Pleno",
+     "fecha": "2026-07-23"
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "nombre": "Sanidad",
+   "definicion": "Sanidad pública, listas de espera, atención primaria, salud mental y adicciones.",
+   "citas": [
+    {
+     "id": "c-5e53de2a26",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "establecer la prioridad nacional en el acceso al sistema sanitario con carácter general",
+     "quien": "el partido, Grupo Parlamentario Vox, proposición no de ley",
+     "fecha": "2026-04-24"
+    },
+    {
+     "id": "c-d54d17cc86",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "derogar el decreto que reconoce el derecho a la protección de la salud y la atención sanitaria con cargo a fondos públicos de las personas extranjeras que encontrándose en España no tengan su residencia legal en el territorio español",
+     "quien": "el partido, Grupo Parlamentario Vox, proposición no de ley",
+     "fecha": "2026-04-24"
+    },
+    {
+     "id": "c-ba25aad126",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por ejemplo, nosotros defendemos un estatuto médico propio.",
+     "quien": "García Gomis, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-22"
+    },
+    {
+     "id": "c-67fed6f039",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "la gente muere esperando una cita médica o esperando una intervención quirúrgica",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-07"
+    },
+    {
+     "id": "c-8d87e33693",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España no puede seguir sosteniendo los problemas de todo el mundo, pagando la sanidad de todo el mundo y condenando a los españoles a perder su prosperidad",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "nombre": "Educación",
+   "definicion": "Escuela, formación profesional, universidad y becas.",
+   "citas": [
+    {
+     "id": "c-e75f2d33d7",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La gravedad de los resultados en PISA hace igualmente necesario recuperar un sistema sólido de evaluación externa, objetiva y común a toda la nación.",
+     "quien": "Robles López, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-22"
+    },
+    {
+     "id": "c-2b1b4095aa",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La escuela debe proporcionar a todos los alumnos una base sólida de conocimientos que les permitan desenvolverse con autonomía y continuar su formación en igualdad de condiciones, y no puede ser una eterna sucesión de festivales emocionales y de extrañas habilidades competenciales que no resisten un mínimo examen de conocimientos como la evaluación PISA.",
+     "quien": "Robles López, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-22"
+    },
+    {
+     "id": "c-140592624f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Y exigimos, además, que cualquier libro, material pedagógico o recurso financiado con dinero público respete la neutralidad ideológica y el derecho de los padres a decidir sobre la educación de sus hijos.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-b89b0be870",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Las segundas proceden de la transferencia a las comunidades autónomas de las competencias educativas y, sobre todo, a aquellas que tienen como fin formar una nación cultural mediante la inmersión lingüística.",
+     "quien": "Robles López, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-22"
+    }
+   ]
+  },
+  {
+   "tema": "familias-y-cuidados",
+   "nombre": "Familias y servicios sociales",
+   "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
+   "citas": [
+    {
+     "id": "c-71ff472849",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Si las instituciones no son capaces de regular la creatividad sin asfixiarla; ni de proteger la iniciativa en vez de suplantarla; si ni siquiera son capaces de apuntalar la protección social de las familias españolas sin agobiarlas, arruinarlas y marginarlas al final de la cola de las ayudas sociales y la vivienda protegida, entonces, lo mejor que pueden hacer es echarse a un lado.",
+     "apartado": "Programa de desregulación"
+    },
+    {
+     "id": "c-3115fcbb86",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El tren legislativo en materia de extranjería no deja lugar a dudas, su destino es más inmigración y menos protección social para el español.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Inmigración masiva"
+    },
+    {
+     "id": "c-140592624f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Y exigimos, además, que cualquier libro, material pedagógico o recurso financiado con dinero público respete la neutralidad ideológica y el derecho de los padres a decidir sobre la educación de sus hijos.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-b9f3106f31",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Hemos propuesto importantes reducciones y deducciones por hijo en el IRPF. La diferencia es que ustedes quieren que el Estado decida por las familias; nosotros queremos que el Estado ayude a las familias a decidir.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-50f30bd0b9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Todo el presupuesto que, desde los poderes públicos, se destine al fomento de la natalidad no ha de concebirse como un gasto, sino como una inversión necesaria y rentable en el futuro de nuestro país",
+     "quien": "el partido, Grupo Parlamentario Vox, proposición no de ley sobre natalidad",
+     "fecha": "2025-01-20"
+    },
+    {
+     "id": "c-684987f34f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Señorías, pretender que no existe una única definición de familia y sustituirla por una pluralidad de modelos de familia es de locos.",
+     "quien": "Ruiz Solás, Diputada de Vox en el Congreso",
+     "fecha": "2026-09-22"
+    },
+    {
+     "id": "c-b6e3818f68",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nosotros primero, si no es mucho pedir, pues nos vamos a ocupar de los nuestros y después si sobra, pues ya nos ocuparemos de los vecinos",
+     "quien": "Pepa Millán, Portavoz de Vox en el Congreso",
+     "fecha": "2026-04-28"
+    },
+    {
+     "id": "c-1d7b810eae",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Cuando uno va a un país y no pretende pagar sino vivir de las ayudas públicas debe irse",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-0631600f3d",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Una cosa es impedir el acceso de los menores a contenidos pornográficos o protegerlos de comportamientos pedófilos en Internet, y otra bien distinta es utilizar este problema como coartada para imponer una visión totalitaria y única de un relato de los hechos en los que no quepa la discrepancia.",
+     "quien": "José María Figaredo Álvarez-Sala, Portavoz adjunto del Grupo Parlamentario VOX en el Congreso (firma la enmienda)",
+     "fecha": "2025-06-18"
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "nombre": "Inmigración",
+   "definicion": "Entrada y control de fronteras, regularización, integración, asilo, nacionalidad y emigración.",
+   "citas": [
+    {
+     "id": "c-45406dcaed",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El ejemplo más flagrante es el Reglamento de la Reserva de Talentos de 2026 que, en lugar de blindar y potenciar el talento local, insiste en perpetuar la dependencia de la mano de obra barata extranjera.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Trabajo"
+    },
+    {
+     "id": "c-25592424ad",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La vivienda es la tormenta perfecta: ausencia de casas, inmigración masiva, precios desorbitados, sueldos irrisorios, trabajos inestables, especulación inmobiliaria, escasez de vivienda pública, impuestos y burocracia excesivos, corrupción política… y suma y sigue.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Vivienda"
+    },
+    {
+     "id": "c-fa508b39c6",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La inmigración masiva opera como generador y multiplicador de los principales problemas que padecen todos los españoles: precariedad laboral asegurada por extranjeros que están dispuestos a trabajar con peores condiciones, que siguen siendo mejores que las de sus países de origen; escasez de vivienda elevada a infinito; ayudas sociales copadas por los recién llegados; criminalidad con denominación de origen extranjera; saturación y degradación de los servicios públicos incompatible con la vida…",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Inmigración masiva"
+    },
+    {
+     "id": "c-17b2559433",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El mensaje es claro: entrar ilegalmente en España tiene premio. Mientras la burocracia roba tiempo y obstaculiza la vida del español, pone la alfombra roja al de fuera; para el de aquí dolores de cabeza, para el de fuera paños calientes.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Inmigración masiva"
+    },
+    {
+     "id": "c-3115fcbb86",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El tren legislativo en materia de extranjería no deja lugar a dudas, su destino es más inmigración y menos protección social para el español.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Inmigración masiva"
+    },
+    {
+     "id": "c-2b12362144",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Silencio administrativo positivo y declaración responsable como regla general. Si la Administración no contesta en plazo, el ciudadano gana. Y si una actividad no entraña riesgo grave, basta con declararla para empezar a ejercerla. Quedan fuera, como excepción tasada, algunas materias que afectan a la soberanía nacional y al control de quién entra y se queda en España: nacionalidad, residencia, permisos de trabajo a extranjeros y, en general, inmigración.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-d70a0336f0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Directiva 2024/1233 relativa al procedimiento de permiso único de trabajo y residencia de trabajadores extracomunitarios.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-bfba4df28f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La oferta y la demanda no casan, no se construye y cada vez entra más gente",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-5e53de2a26",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "establecer la prioridad nacional en el acceso al sistema sanitario con carácter general",
+     "quien": "el partido, Grupo Parlamentario Vox, proposición no de ley",
+     "fecha": "2026-04-24"
+    },
+    {
+     "id": "c-d54d17cc86",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "derogar el decreto que reconoce el derecho a la protección de la salud y la atención sanitaria con cargo a fondos públicos de las personas extranjeras que encontrándose en España no tengan su residencia legal en el territorio español",
+     "quien": "el partido, Grupo Parlamentario Vox, proposición no de ley",
+     "fecha": "2026-04-24"
+    },
+    {
+     "id": "c-b6e3818f68",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nosotros primero, si no es mucho pedir, pues nos vamos a ocupar de los nuestros y después si sobra, pues ya nos ocuparemos de los vecinos",
+     "quien": "Pepa Millán, Portavoz de Vox en el Congreso",
+     "fecha": "2026-04-28"
+    },
+    {
+     "id": "c-7b63a6e168",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "El segundo paso es ejecutar un proceso de remigración rápido y agilizado para los inmigrantes en situación ilegal, los que hayan cometido delitos, los que se nieguen a integrarse imponiendo su cultura y aquellos que viven de subsidios públicos.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-1d7b810eae",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Cuando uno va a un país y no pretende pagar sino vivir de las ayudas públicas debe irse",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-8d87e33693",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España no puede seguir sosteniendo los problemas de todo el mundo, pagando la sanidad de todo el mundo y condenando a los españoles a perder su prosperidad",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-1dfc14ad44",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "la pena de pérdida de nacionalidad española se impondrá a quienes, no siendo españoles de origen, hubieren adquirido la nacionalidad española y fueren condenados por sentencia firme por la comisión de cualquier delito previsto en este Código o en las leyes penales especiales, sin perjuicio de las demás penas previstas para el delito correspondiente",
+     "quien": "el partido, Grupo Parlamentario Vox, proposición de ley de reforma del Código Penal",
+     "fecha": "2026-07-03"
+    },
+    {
+     "id": "c-014ace0c1c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "la primera medida y más urgente para Vox, si los españoles nos dan su confianza, va a ser recuperar Ceuta, recuperar el control de nuestras fronteras, nuestra soberanía nacional y devolver la seguridad a los ceutíes porque Ceuta es España y no puede ser que las decisiones de Rabat tengan efecto en nuestro país",
+     "quien": "Isabel Pérez Moñino, Portavoz nacional de Vox de Agenda España",
+     "fecha": "2026-11-06"
+    },
+    {
+     "id": "c-959d40cd3b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "E instamos también al Gobierno, primero, a que de manera inmediata proceda a la expulsión de todos los invasores que aún continúan en la ciudad y, también, a la devolución inmediata de todos los menores.",
+     "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-176c78a008",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "garantizar que la emisión de informes de vulnerabilidad se base en hechos únicamente objetivamente acreditados, mediante una evaluación técnica completa con verificación de la situación laboral, patrimonial, de empadronamiento y de acceso a otras ayudas",
+     "quien": "Pepa Millán, Portavoz de Vox en el Congreso",
+     "fecha": "2026-04-28"
+    },
+    {
+     "id": "c-843623564f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Segundo, a que proceda de manera urgente y permanente al refuerzo de efectivos de las fuerzas y cuerpos de seguridad y Fuerzas Armadas desplegados en Ceuta y Melilla, con el fin de evitar cualquier otro intento de invasión; a que fortalezca de inmediato la todavía desprotegida frontera terrestre de Ceuta; a que reconozca el carácter de agentes de autoridad a los miembros de las Fuerzas Armadas desplegados en Ceuta, y a que igualmente despliegue a la Armada española para la defensa de nuestra frontera marítima.",
+     "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-d86ef1b937",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No puede aceptarse que la alegación de un determinado grado de arraigo atribuya un privilegio de inmunidad frente a las consecuencias jurídicas derivadas de la conducta delictiva.",
+     "quien": "el partido, Grupo Parlamentario Vox, proposición de ley de reforma del Código Penal",
+     "fecha": "2026-07-03"
+    },
+    {
+     "id": "c-945782c223",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Creo que hay que pedirle dos cosas muy claras, que creo que son poquitas y que son razonables, y es que no nos invada y que no reclame el territorio nacional de Ceuta y de Melilla. Creo que con eso es suficiente para empezar a hablar",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-03"
+    },
+    {
+     "id": "c-76b75b1c4d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Lo que propone el Grupo VOX es que se añada, a continuación de «terrorismo», lo siguiente: «y la inmigración ilegal». Es decir, que las Fuerzas Armadas apoyen a las fuerzas de orden público en la lucha contra el terrorismo «y la inmigración ilegal».",
+     "quien": "José María Sánchez García, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    }
+   ]
+  },
+  {
+   "tema": "seguridad-y-justicia",
+   "nombre": "Seguridad y justicia",
+   "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
+   "citas": [
+    {
+     "id": "c-efe073293a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La solución a la okupación pasa por garantizar de forma tajante la restitución inmediata del inmueble al propietario en el momento en que se produzca un impago, un incumplimiento de contrato o el vencimiento del plazo, aportando plena certeza jurídica.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-7b63a6e168",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "El segundo paso es ejecutar un proceso de remigración rápido y agilizado para los inmigrantes en situación ilegal, los que hayan cometido delitos, los que se nieguen a integrarse imponiendo su cultura y aquellos que viven de subsidios públicos.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-1dfc14ad44",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "la pena de pérdida de nacionalidad española se impondrá a quienes, no siendo españoles de origen, hubieren adquirido la nacionalidad española y fueren condenados por sentencia firme por la comisión de cualquier delito previsto en este Código o en las leyes penales especiales, sin perjuicio de las demás penas previstas para el delito correspondiente",
+     "quien": "el partido, Grupo Parlamentario Vox, proposición de ley de reforma del Código Penal",
+     "fecha": "2026-07-03"
+    },
+    {
+     "id": "c-959d40cd3b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "E instamos también al Gobierno, primero, a que de manera inmediata proceda a la expulsión de todos los invasores que aún continúan en la ciudad y, también, a la devolución inmediata de todos los menores.",
+     "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-843623564f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Segundo, a que proceda de manera urgente y permanente al refuerzo de efectivos de las fuerzas y cuerpos de seguridad y Fuerzas Armadas desplegados en Ceuta y Melilla, con el fin de evitar cualquier otro intento de invasión; a que fortalezca de inmediato la todavía desprotegida frontera terrestre de Ceuta; a que reconozca el carácter de agentes de autoridad a los miembros de las Fuerzas Armadas desplegados en Ceuta, y a que igualmente despliegue a la Armada española para la defensa de nuestra frontera marítima.",
+     "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-d86ef1b937",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No puede aceptarse que la alegación de un determinado grado de arraigo atribuya un privilegio de inmunidad frente a las consecuencias jurídicas derivadas de la conducta delictiva.",
+     "quien": "el partido, Grupo Parlamentario Vox, proposición de ley de reforma del Código Penal",
+     "fecha": "2026-07-03"
+    },
+    {
+     "id": "c-810070418b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay hombres que agreden a las mujeres, la inmensa mayoría de los hombres quieren a las mujeres. Los que las agreden merecen todo el reproche penal y los violadores no deben salir de la prisión",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "tema": "democracia-e-instituciones",
+   "nombre": "Democracia e instituciones",
+   "definicion": "Funcionamiento de las instituciones, corrupción, transparencia, sistema electoral, administración pública y medios de comunicación.",
+   "citas": [
+    {
+     "id": "c-3a41447edb",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En síntesis, el elenco de medidas elegido representa el ánimo decidido de VOX de poner fin a una querencia hiperreguladora que está boicoteando la prosperidad de las familias, empresas y trabajadores españoles.",
+     "apartado": "Programa de desregulación"
+    },
+    {
+     "id": "c-71ff472849",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Si las instituciones no son capaces de regular la creatividad sin asfixiarla; ni de proteger la iniciativa en vez de suplantarla; si ni siquiera son capaces de apuntalar la protección social de las familias españolas sin agobiarlas, arruinarlas y marginarlas al final de la cola de las ayudas sociales y la vivienda protegida, entonces, lo mejor que pueden hacer es echarse a un lado.",
+     "apartado": "Programa de desregulación"
+    },
+    {
+     "id": "c-b140948360",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Más legislación no es mejor legislación: la nota de España en el Índice de Complejidad Regulatoria se ha desplomado un 50%, manifestando la involución de nuestro marco normativo.",
+     "apartado": "Introducción"
+    },
+    {
+     "id": "c-52c8eb4ee6",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En síntesis: cada día somos más pobres, sí, y mucha culpa es de la hiperregulación. Malas leyes que destruyen nuestra economía y demasiadas leyes que asfixian e impiden la prosperidad de empresas y trabajadores.",
+     "apartado": "Introducción"
+    },
+    {
+     "id": "c-ebcda7331a",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España se ha convertido en un auténtico laberinto burocrático para quien quiere emprender, invertir o crear empleo.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Empresa"
+    },
+    {
+     "id": "c-d92dd0e146",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Cada nueva obligación, cada trámite añadido y cada restricción burocrática terminan dificultando la contratación, frenando inversiones y reduciendo la capacidad de crecimiento de las empresas, afectando especialmente a jóvenes, trabajadores poco cualificados y pequeñas empresas.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Trabajo"
+    },
+    {
+     "id": "c-57a30a32cd",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nuestro campo está en serio peligro. La conjunción de burocracia asfixiante e hiperregulación boicotea la viabilidad del sector, así como décadas de políticas verdes impuestas desde Bruselas y aceptadas y ejecutadas por el bipartidismo.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Sector primario"
+    },
+    {
+     "id": "c-779ce301be",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hombres y mujeres del campo que están más tiempo enterrados en formularios que trabajando la tierra: el ejemplo más evidente de esta deriva es el cuaderno digital de explotación agrícola, una imposición tan desmedida, invasiva y alejada de la realidad del campo que el Gobierno se vio obligado a aplazar su aplicación hasta enero de 2027 ante la rebelión masiva del sector primario.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Sector primario"
+    },
+    {
+     "id": "c-6614da489c",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La conclusión es clara. España no es pobre en energía: es rica en trabas. Tiene el sol, el viento, el agua, el subsuelo y la demanda; lo que le falta son permisos, libertad y un Estado que la deje funcionar.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Energía"
+    },
+    {
+     "id": "c-4f2612ec21",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "A esta superposición regulatoria, se añade una burocracia administrativa que penaliza especialmente a quienes quieren crecer: procedimientos administrativos lentos, requisitos documentales no armonizados entre administraciones, falta de centralización en sedes electrónicas, cuellos de botella recurrentes en los trámites medioambientales y urbanísticos... Y, para las empresas que superan el umbral de los 50 trabajadores, un catálogo de obligaciones adicionales —planes de igualdad, auditorías retributivas, protocolos LGTBI, etc.— que se activan de forma automática y que, en la práctica, obstaculizan el crecimiento.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Industria"
+    },
+    {
+     "id": "c-53be8b2e9c",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Las comunidades autónomas están en la vanguardia de la hiperregulación. Maquinarias turbo-legislativas y burocráticas que han levantado muros artificiales entre regiones, que han dinamitado la cohesión nacional, siendo la trinchera favorita de los separatismos, y que han neutralizado la diversidad y riqueza regional, provincial y local en aras de una homogeneización autonómica ficticia.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Sistema autonómico"
+    },
+    {
+     "id": "c-55fd7756af",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Las propuestas de VOX en materia de desregulación parten de la revisión profunda de toda la normativa y la burocracia asociada, con el objetivo de eliminar todos los obstáculos que están arrebatando la prosperidad a las empresas, trabajadores y familias españolas.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-810443cd1c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Revisión sistemática de la Administración, sus procedimientos y la burocracia que soporta el ciudadano. Toda actuación administrativa deberá justificar su existencia, su utilidad y su proporcionalidad. Lo que no sea estrictamente necesario, se suprime. Lo que sea necesario, se simplifica al máximo. Esta revisión será permanente, transversal y afectará a todos los niveles administrativos, sin excepción y sin sectores blindados.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-8a85b400b2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Buzón de desregulación. Se habilitará un canal permanente y accesible para que cualquier ciudadano, autónomo, empresa, asociación o profesional pueda proponer la supresión o simplificación de cualquier norma, trámite o exigencia administrativa que considere innecesaria, redundante o desproporcionada.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-8ecf468d08",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mesas sectoriales de desregulación. El buzón recoge propuestas individuales; las mesas sectoriales recogerán las de quienes representan a sectores enteros. El Gobierno se sentará, de forma sistemática y periódica, con asociaciones empresariales, colegios profesionales, organizaciones de autónomos, patronales sectoriales y representantes de la sociedad civil productiva, para identificar qué normas sobran, qué trámites entorpecen y qué cargas pueden suprimirse o simplificarse.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-0def1234eb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogar tres normas por cada una que se apruebe. Cada ley nueva tendrá que identificar, en su propio texto, qué tres normas vigentes deroga. Sin esa identificación, no se tramita ni se aprueba.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-acb26bc6dc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La Administración usará la IA de forma masiva, siempre desde el respeto al hombre por encima de la IA, para acabar con esperas, papeleo y trámites absurdos: resolución automática de expedientes sencillos, asistentes que guíen al ciudadano paso a paso, detección de duplicidades y contradicciones entre normas, traducción inmediata de la jerga administrativa a lenguaje comprensible.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-31ce181b8f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Una sola base de datos para toda la Administración. El ciudadano no volverá a entregar un papel, un certificado o un dato que la Administración ya tiene. Se acabó el peregrinaje de ventanilla en ventanilla pidiendo documentos que el propio Estado emitió. Todas las administraciones compartirán una base de datos común, y será la Administración la que se mueva por dentro, no el ciudadano el que corra por fuera.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-1a7fd69ecb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a hacer dos cosas a la vez: perseguir sin contemplaciones a las mafias que se lucran con la reventa de citas y trámites, y atacar la causa que los hace posibles, simplificando los trámites afectados y aplicando la caducidad automática de los permisos que no se materializan.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-2b12362144",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Silencio administrativo positivo y declaración responsable como regla general. Si la Administración no contesta en plazo, el ciudadano gana. Y si una actividad no entraña riesgo grave, basta con declararla para empezar a ejercerla. Quedan fuera, como excepción tasada, algunas materias que afectan a la soberanía nacional y al control de quién entra y se queda en España: nacionalidad, residencia, permisos de trabajo a extranjeros y, en general, inmigración.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-3f785edd1b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ninguna Administración podrá exigir cita previa como condición para atender al ciudadano. Quien quiera pedirla, podrá hacerlo; quien se presente sin ella, será atendido igual.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-d9a721a84f",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La Administración está para servir al ciudadano, no para esconderse de él.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-ae50310767",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se revisará toda la normativa española de origen europeo para podarla y dejarla en el mínimo imprescindible.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-6ff56361cf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y, de aquí en adelante, las directivas se transpondrán de forma literal y ajustada, sin adornos ni añadidos ideológicos.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-90aa4c12ff",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Principio de mínima intervención o carga normativa. Toda nueva norma deberá aprobarse aplicando la alternativa menos restrictiva, menos burocrática y menos costosa posible para ciudadanos, autónomos y empresas. La Administración tendrá la obligación de justificar expresamente cualquier carga, trámite o limitación adicional que pretenda imponer.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-79516c72aa",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Una empresa, un único expediente administrativo nacional. Toda empresa operará en España con un único expediente digital interoperable ante Hacienda, Seguridad Social, ayuntamientos y Comunidades Autónomas. Quedará prohibido exigir documentos, licencias o datos ya aportados ante otra Administración.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-80b9be548d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fin de la doble licencia comercial. Hoy, abrir un comercio mediano o grande en España exige sortear no una, sino dos vueltas administrativas: la municipal y la autonómica, esta última camuflada con frecuencia como “informe vinculante” que actúa como una autorización encubierta. Resultado: meses o años de espera, miles de euros en informes y un mensaje claro a quien quiere invertir en España: no lo hagas. Una sola licencia, un solo trámite, un solo plazo. Quien quiera abrir un comercio cumpliendo la ley, podrá hacerlo.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-d29d140115",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tramitación exprés de redes eléctricas. Las autorizaciones para construir líneas, subestaciones y puntos de conexión a la red se resolverán en plazos máximos cerrados y con silencio administrativo positivo.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-8f1f69ef11",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a establecer una sola evaluación ambiental por proyecto, con un plazo máximo tasado de cumplimiento estricto. Si la Administración incumple el plazo, el expediente caduca a favor del promotor y la Administración responderá por los perjuicios causados.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-186b2aacad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fin de la duplicidad de informes ambientales y sectoriales. Cuando una norma europea o estatal ya exige un informe, no cabe que la Comunidad Autónoma o el Ayuntamiento exijan otro encima sobre lo mismo. Un proyecto, una autorización, un informe.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-223c856674",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La burocracia no protege el medio ambiente: lo que lo protege es una evaluación técnica seria y rápida, no diez informes que se contradicen entre sí.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-3a1555f8f1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Más allá de la infinidad de malas leyes que están en vigor en todos los ámbitos, y que derogaremos y/o reformaremos en cuanto tengamos la oportunidad, en materia de desregulación empezaremos derogando toda normativa que suponga un perjuicio para los españoles y que añada burocracia en los diferentes sectores económicos, si bien la mayoría de la carga regulatoria no reside en las leyes más conocidas, sino en el volumen acumulado de normativa de desarrollo, como reales decretos, órdenes ministeriales, circulares, instrucciones, o la normativa autonómica y local, que precisará de una intervención integral y sostenida en el tiempo.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-e0ddc0da84",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La mayoría de las reformas necesarias en materia de desregulación no dependen de un solo nivel de gobierno (véase vivienda, urbanismo, industria, fiscalidad, gestión ambiental). Es indispensable, por tanto, acometer una reforma tanto de las normas de carácter básico como de aquellas que ejercitan la competencia material sustantiva.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-bb6503f9dd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-7d818d8ec5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Industria: Reindustrialización de España. La vigente Ley de Industria data de 1992: más de tres décadas de desarrollo normativo que precisa de una actualización y armonización, tanto a nivel de rango de ley como reglamentario, para fomentar el desarrollo industrial de España, en particular en materia de autorizaciones, licencias, en favor de la declaración responsable y del silencio positivo de la administración, eliminando toda duplicidad, norma obsoleta o exigencia medioambiental que no sea conforme con el interés general.",
+     "apartado": "Propuestas de VOX › Reestructuraremos toda la normativa que afecta especialmente a los siguientes sectores hiperregulados"
+    },
+    {
+     "id": "c-a6275e1997",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sector primario: basta ya de un campo arruinado y sin relevo. España tiene que estar a la altura de su sector agrícola, frente a las trabas nacionales y procedentes de Bruselas. Acometeremos una revisión de toda la normativa en materia de PAC, registros, cuaderno digital, autorizaciones de riego, procedimientos en relación con la parcelación, fitosanitarios, plaguicidas, bienestar animal, cuotas y todas las trabas que arruinan nuestro campo. En VOX lo tenemos claro: silencio positivo, declaraciones responsables, fondos de compensación y muchos menos trámites.",
+     "apartado": "Propuestas de VOX › Reestructuraremos toda la normativa que afecta especialmente a los siguientes sectores hiperregulados"
+    },
+    {
+     "id": "c-a587f312e4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es una huelga política, con lo cual debería estar prohibida.",
+     "quien": "Juan José Aizcorbe, Diputado y cabeza de lista de Vox por Barcelona",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-72bc5133bc",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Basta ya de legislaturas que añaden miles de normas y no retiran ninguna: los españoles no pueden seguir cargando con un Boletín Oficial que crece sin parar mientras su libertad mengua",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-dba5c43b07",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cada ley nueva tendrá que identificar, en su propio texto, qué tres normas vigentes deroga",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-a7da1f12ce",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El ciudadano no volverá a entregar un papel, un certificado o un dato que la Administración ya tiene. Se acabó el peregrinaje de ventanilla en ventanilla",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-feb87f85fd",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Justicia, carreteras, comercio, sanidad, fiscalidad, educación o urbanismo no pueden seguir siendo un laberinto donde cada español tiene unos derechos, unas obligaciones y unos trámites distintos según el lugar en el que viva o trabaje. Un solo país, mismas reglas",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    }
+   ]
+  },
+  {
+   "tema": "organizacion-territorial",
+   "nombre": "Organización territorial",
+   "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+   "citas": [
+    {
+     "id": "c-c66cc98f58",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Otro gran escollo al crecimiento empresarial es la quiebra del mercado nacional. La Ley de Garantía de la Unidad de Mercado ha fracasado plenamente, obligando a las empresas a asumir costes millonarios en estudios legales y adaptación de licencias solo para poder operar en distintas regiones de su propio país.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Empresa"
+    },
+    {
+     "id": "c-53be8b2e9c",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Las comunidades autónomas están en la vanguardia de la hiperregulación. Maquinarias turbo-legislativas y burocráticas que han levantado muros artificiales entre regiones, que han dinamitado la cohesión nacional, siendo la trinchera favorita de los separatismos, y que han neutralizado la diversidad y riqueza regional, provincial y local en aras de una homogeneización autonómica ficticia.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Sistema autonómico"
+    },
+    {
+     "id": "c-a59d318d98",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Además del volumen ingente de normas, la desconexión normativa entre las 17 comunidades autónomas es total: 17 realidades completamente distintas en función de la región en la que has nacido; tu salud o la educación de tus hijos en juego por un puñado de kilómetros; tu porvenir apostado a la arbitrariedad más absoluta.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Sistema autonómico"
+    },
+    {
+     "id": "c-655ab462e9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley de Mercado Abierto. Lo que es legal en una región de España, lo es en toda España. Cualquier empresa, profesional o producto que ya opere legalmente en una Comunidad Autónoma podrá hacerlo en el resto del territorio nacional sin trámites, licencias ni registros adicionales. España es un solo mercado y una sola nación: no puede ser que un autónomo, un comerciante o un fabricante tenga que pedir diecisiete permisos distintos para vender lo mismo.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-72a0a866c3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Leyes de armonización para acabar con el caos autonómico. El Estado recuperará el uso del artículo 150.3 de la Constitución para imponer reglas comunes allí donde las Comunidades Autónomas han convertido España en diecisiete países distintos. Justicia, carreteras, comercio, sanidad, fiscalidad, educación o urbanismo no pueden seguir siendo un laberinto donde cada español tiene unos derechos, unas obligaciones y unos trámites distintos según el lugar en el que viva o trabaje.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-058fdfea0a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En España, además, las Comunidades Autónomas han ido añadiendo capas propias: obligaciones lingüísticas distintas en cada territorio, sistemas de devolución de envases también distintos, exigencias adicionales que convierten la venta del mismo producto en diecisiete operaciones diferentes. Vamos a derogar todas las exigencias autonómicas que añadan requisitos por encima de la norma europea.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-186b2aacad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fin de la duplicidad de informes ambientales y sectoriales. Cuando una norma europea o estatal ya exige un informe, no cabe que la Comunidad Autónoma o el Ayuntamiento exijan otro encima sobre lo mismo. Un proyecto, una autorización, un informe.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-e0ddc0da84",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La mayoría de las reformas necesarias en materia de desregulación no dependen de un solo nivel de gobierno (véase vivienda, urbanismo, industria, fiscalidad, gestión ambiental). Es indispensable, por tanto, acometer una reforma tanto de las normas de carácter básico como de aquellas que ejercitan la competencia material sustantiva.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-d8327982f3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Empresa y trabajo: iniciar un negocio, contratar trabajadores o crecer como empresa no puede ser un infierno regulatorio y económico. Vamos a revertir esta tendencia, identificando los trámites, gestiones y cumplimientos normativos que lastran injustificadamente nuestra competitividad, encarnada en la fragmentación regulatoria —disparidad de normas, autorizaciones y licencias en distintos niveles competenciales y territoriales— que precisan un marco legislativo que garantice la unidad del mercado y la armonización.",
+     "apartado": "Propuestas de VOX › Reestructuraremos toda la normativa que afecta especialmente a los siguientes sectores hiperregulados"
+    },
+    {
+     "id": "c-feb87f85fd",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Justicia, carreteras, comercio, sanidad, fiscalidad, educación o urbanismo no pueden seguir siendo un laberinto donde cada español tiene unos derechos, unas obligaciones y unos trámites distintos según el lugar en el que viva o trabaje. Un solo país, mismas reglas",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-b89b0be870",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Las segundas proceden de la transferencia a las comunidades autónomas de las competencias educativas y, sobre todo, a aquellas que tienen como fin formar una nación cultural mediante la inmersión lingüística.",
+     "quien": "Robles López, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-22"
+    },
+    {
+     "id": "c-ef4432ad2a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El «Estado de las autonomías» ha provocado un verdadero caos en la atribución y el ejercicio de las distintas competencias y, lo que es mucho peor, ha fortalecido enormemente a las fuerzas separatistas, con lo que ha debilitado la unidad nacional y el principio de igualdad de los españoles.",
+     "quien": "José María Figaredo Álvarez-Sala, Portavoz del Grupo Parlamentario VOX en el Congreso (firma la enmienda)",
+     "fecha": "2026-07-08"
+    },
+    {
+     "id": "c-51fb53b572",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Señor ministro, la igualdad no consiste en repartir las consecuencias de la mala gestión. La igualdad consiste en aplicar las mismas reglas para todos. Señor ministro, este proyecto de ley rompe el principio de quien gasta responde, que es la base de cualquier sistema fiscal serio.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado del Grupo Parlamentario VOX, defensor de su enmienda de totalidad en el Pleno",
+     "fecha": "2026-07-23"
+    }
+   ]
+  },
+  {
+   "tema": "medio-ambiente-y-energia",
+   "nombre": "Medio ambiente y energía",
+   "definicion": "Clima, energía, agua, contaminación, costas, montes, protección de la naturaleza y bienestar animal.",
+   "citas": [
+    {
+     "id": "c-8d490827f4",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Y por si fuese poco, el fanatismo climático de la Unión Europea y su delirante Marco de Finanzas Sostenibles han dado la estocada final a infinidad de empresas, especialmente las pequeñas y medianas.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Empresa"
+    },
+    {
+     "id": "c-25da748af1",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La inclusión del lobo ibérico en el LESPRE (Listado de Especies Silvestres en Régimen de Protección Especial) en 2021 prohibió de facto su gestión cinegética en toda España, incluso en zonas donde históricamente existía control poblacional. El resultado ha sido un aumento de los ataques al ganado y una enorme inseguridad jurídica para miles de ganaderos extensivos.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Sector primario"
+    },
+    {
+     "id": "c-5fd2ad20c7",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El punto de inflexión tiene nombre y fecha: la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética. Con ella, España se lanzó a la carrera de la descarbonización sacrificando su competitividad: prohibió explorar, investigar y explotar nuestros propios hidrocarburos, vetó el aprovechamiento de yacimientos estratégicos y maniató la inversión con calendarios ideológicos de reducción de emisiones.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Energía"
+    },
+    {
+     "id": "c-a02ac290bd",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Mientras medio planeta refuerza su capacidad nuclear, España se dispone a apagar voluntariamente unas centrales que funcionan, que son seguras y que producen energía limpia, estable y barata. Cerrarlas solo sirve para una cosa: disparar el precio de la luz, aumentar la dependencia del gas extranjero y acelerar la desindustrialización.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Energía"
+    },
+    {
+     "id": "c-6614da489c",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La conclusión es clara. España no es pobre en energía: es rica en trabas. Tiene el sol, el viento, el agua, el subsuelo y la demanda; lo que le falta son permisos, libertad y un Estado que la deje funcionar.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Energía"
+    },
+    {
+     "id": "c-a630ebee1b",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El Pacto Verde Europeo, que es la forma en que la Unión Europea ha vehiculado el cumplimiento del Acuerdo de París de 2015, ha condenado a nuestra industria, hundiéndola en términos de competitividad a nivel internacional.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Industria"
+    },
+    {
+     "id": "c-a2e12a9835",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Mientras China levanta fábricas enteras en meses, en España un proyecto industrial puede pasar más tiempo esperando informes que produciendo. La culpa no es de la geografía: es de las trabas que hemos puesto encima. Vamos a quitarlas y a devolver a España su soberanía energética e industrial.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-584c19bfb2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a eliminar el tope a la inversión en redes para que España tenga la red eléctrica que necesita para crecer, contratar y construir vivienda.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-d29d140115",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tramitación exprés de redes eléctricas. Las autorizaciones para construir líneas, subestaciones y puntos de conexión a la red se resolverán en plazos máximos cerrados y con silencio administrativo positivo.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-bb78a354c8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a hacer una limpieza profunda de los permisos de acceso y conexión que llevan años sin desarrollarse, devolver al mercado la capacidad bloqueada y establecer criterios objetivos que prioricen a quien de verdad va a construir y producir.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-bb4ea2903a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a establecer una tramitación exprés para los proyectos de almacenamiento energético, con plazos cerrados y silencio administrativo positivo, y a desbloquear de forma específica el bombeo hidráulico como infraestructura estratégica nacional.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-500431e25a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Aplicaremos a las infraestructuras hidráulicas la misma tramitación exprés que al resto: plazos cerrados, una sola evaluación ambiental y silencio positivo.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-07453b2380",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "E impulsaremos la interconexión de cuencas para convertir España en una auténtica autopista del agua.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-8f1f69ef11",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a establecer una sola evaluación ambiental por proyecto, con un plazo máximo tasado de cumplimiento estricto. Si la Administración incumple el plazo, el expediente caduca a favor del promotor y la Administración responderá por los perjuicios causados.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-186b2aacad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fin de la duplicidad de informes ambientales y sectoriales. Cuando una norma europea o estatal ya exige un informe, no cabe que la Comunidad Autónoma o el Ayuntamiento exijan otro encima sobre lo mismo. Un proyecto, una autorización, un informe.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-223c856674",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La burocracia no protege el medio ambiente: lo que lo protege es una evaluación técnica seria y rápida, no diez informes que se contradicen entre sí.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-e398d782b5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 7/2021, de 20 de mayo, de cambio climático y transición energética.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-39ce5ee994",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-8a14df505a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-15290fb4ec",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-a3be659fb6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 21/2013, de 9 de diciembre, de evaluación ambiental.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-76bbf4ea87",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-330f63ce0d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión de la normativa derivada del Pacto Verde Europeo.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-f6adb0c869",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2020/852 sobre taxonomía ambiental europea.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-03509955f7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Régimen para el comercio de derechos de emisión de gases de efecto invernadero de la Unión Europea (ETS), creado por la Directiva 2003/87/CE 2023/959 y modificado por la Directiva 2023/959, así como el Reglamento 2023/956 por el que se establece un Mecanismo de Ajuste en Frontera por Carbono (CBAM).",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-99a075d7e8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Directiva 2024/1275 relativa a la eficiencia energética de los edificios (EPBD).",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-e11a40bbcb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2019/631 por el que se establecen normas de comportamiento en materia de emisiones de CO2 de los turismos nuevos y de los vehículos comerciales ligeros nuevos y la prohibición de la venta de coches de combustión interna a partir de 2035.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-d3235f10b8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2024/1991 sobre la restauración de la naturaleza.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-8cba169e63",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Energía: España debe caminar hacia la Soberanía Energética e Industrial. Una pieza clave para ello es la energía nuclear. Acabaremos con la presión regulatoria que se cierne sobre las centrales para garantizar un suministro estable frente a la intermitencia de las renovables y revertir el calendario de cierre de las centrales para garantizar una energía asequible para los españoles, derogando o suprimiendo toda disposición contraria a este fin, como las Órdenes relativas a los cierres definitivos de las centrales o las medidas fiscales de la Ley 15/2012, de 27 de diciembre, que recaen sobre las centrales, prorrogando con ello su vida útil.",
+     "apartado": "Propuestas de VOX › Reestructuraremos toda la normativa que afecta especialmente a los siguientes sectores hiperregulados"
+    },
+    {
+     "id": "c-88fa5aefde",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Lo que se necesita es una reducción drástica y permanente de los impuestos a la energía, eliminando o reduciendo el impuesto sobre el valor de la producción eléctrica, el impuesto especial sobre hidrocarburos y el IVA correspondiente, que actualmente incurren en una doble imposición fiscal.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-0ed80c0af1",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Señorías, España necesita más vivienda, menos impuestos, menos burocracia, energía más barata, seguridad jurídica, competencia y mejores condiciones para que nuestras empresas produzcan y nuestros trabajadores prosperen.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-95b0efaa16",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No solo con los molinos y placas solares podemos alimentar a nuestra sociedad",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-554ec8d7f2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Para minimizar ese impacto, debemos explotar nuestros recursos de hidrocarburos y reforzar la red eléctrica de distribución.",
+     "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
+     "fecha": "2026-10-04"
+    },
+    {
+     "id": "c-13832c565e",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tenemos la oportunidad de poner en marcha un plan nacional del agua que interconecte todas las cuencas para que ningún rincón de España pase sed.",
+     "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
+     "fecha": "2026-10-07"
+    },
+    {
+     "id": "c-1bf5c451c5",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Los objetivos climáticos se sustituirán por la recuperación y el refuerzo de la soberanía alimentaria",
+     "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
+     "fecha": "2026-10-07"
+    }
+   ]
+  },
+  {
+   "tema": "campo-y-medio-rural",
+   "nombre": "Campo y medio rural",
+   "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+   "citas": [
+    {
+     "id": "c-57a30a32cd",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nuestro campo está en serio peligro. La conjunción de burocracia asfixiante e hiperregulación boicotea la viabilidad del sector, así como décadas de políticas verdes impuestas desde Bruselas y aceptadas y ejecutadas por el bipartidismo.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Sector primario"
+    },
+    {
+     "id": "c-779ce301be",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hombres y mujeres del campo que están más tiempo enterrados en formularios que trabajando la tierra: el ejemplo más evidente de esta deriva es el cuaderno digital de explotación agrícola, una imposición tan desmedida, invasiva y alejada de la realidad del campo que el Gobierno se vio obligado a aplazar su aplicación hasta enero de 2027 ante la rebelión masiva del sector primario.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Sector primario"
+    },
+    {
+     "id": "c-25da748af1",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La inclusión del lobo ibérico en el LESPRE (Listado de Especies Silvestres en Régimen de Protección Especial) en 2021 prohibió de facto su gestión cinegética en toda España, incluso en zonas donde históricamente existía control poblacional. El resultado ha sido un aumento de los ataques al ganado y una enorme inseguridad jurídica para miles de ganaderos extensivos.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Sector primario"
+    },
+    {
+     "id": "c-07453b2380",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "E impulsaremos la interconexión de cuencas para convertir España en una auténtica autopista del agua.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-cedd6788f4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Revertir la aplicación provisional del acuerdo comercial UE-Mercosur y frenar su aprobación.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-3ae658db5c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2021/2115 relativo a los planes estratégicos de la PAC (2023-2027), que condiciona el acceso a las ayudas de la PAC al cumplimiento de exigencias medioambientales.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-d99e7f188b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 1107/2009 relativo a productos fitosanitarios y la Directiva 2009/128/CE sobre plaguicidas.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-a6275e1997",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Sector primario: basta ya de un campo arruinado y sin relevo. España tiene que estar a la altura de su sector agrícola, frente a las trabas nacionales y procedentes de Bruselas. Acometeremos una revisión de toda la normativa en materia de PAC, registros, cuaderno digital, autorizaciones de riego, procedimientos en relación con la parcelación, fitosanitarios, plaguicidas, bienestar animal, cuotas y todas las trabas que arruinan nuestro campo. En VOX lo tenemos claro: silencio positivo, declaraciones responsables, fondos de compensación y muchos menos trámites.",
+     "apartado": "Propuestas de VOX › Reestructuraremos toda la normativa que afecta especialmente a los siguientes sectores hiperregulados"
+    },
+    {
+     "id": "c-2e7be62278",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Queremos abaratar la cesta de la compra reduciendo impuestos, cotizaciones y costes regulatorios; favorecer la competencia y defender a nuestros agricultores y ganaderos frente a la competencia desleal.",
+     "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-13832c565e",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tenemos la oportunidad de poner en marcha un plan nacional del agua que interconecte todas las cuencas para que ningún rincón de España pase sed.",
+     "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
+     "fecha": "2026-10-07"
+    },
+    {
+     "id": "c-1bf5c451c5",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Los objetivos climáticos se sustituirán por la recuperación y el refuerzo de la soberanía alimentaria",
+     "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
+     "fecha": "2026-10-07"
+    },
+    {
+     "id": "c-ce3c426c40",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "No vamos a permitir que la competencia desleal siga sustituyendo el principio de preferencia comunitaria como ocurre con el acuerdo comercial UE-Marruecos, declarado ilegal por el Tribunal de Justicia de la UE. Los tomates de España serán los primeros.",
+     "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
+     "fecha": "2026-10-07"
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "nombre": "Transporte e infraestructuras",
+   "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+   "citas": [
+    {
+     "id": "c-f69cb7aa1c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación del plan de movilidad sostenible obligatorio. La Administración ya ha complicado bastante el transporte a todos los trabajadores bajo la excusa de la sostenibilidad ambiental. No podemos permitir más burocracia ideológica que hace perder tiempo y dinero. Se deroga.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-584c19bfb2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a eliminar el tope a la inversión en redes para que España tenga la red eléctrica que necesita para crecer, contratar y construir vivienda.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-d29d140115",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tramitación exprés de redes eléctricas. Las autorizaciones para construir líneas, subestaciones y puntos de conexión a la red se resolverán en plazos máximos cerrados y con silencio administrativo positivo.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-bb78a354c8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a hacer una limpieza profunda de los permisos de acceso y conexión que llevan años sin desarrollarse, devolver al mercado la capacidad bloqueada y establecer criterios objetivos que prioricen a quien de verdad va a construir y producir.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-bb4ea2903a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a establecer una tramitación exprés para los proyectos de almacenamiento energético, con plazos cerrados y silencio administrativo positivo, y a desbloquear de forma específica el bombeo hidráulico como infraestructura estratégica nacional.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-500431e25a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Aplicaremos a las infraestructuras hidráulicas la misma tramitación exprés que al resto: plazos cerrados, una sola evaluación ambiental y silencio positivo.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-07453b2380",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "E impulsaremos la interconexión de cuencas para convertir España en una auténtica autopista del agua.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-0ab0008ff2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley 9/2025, de 3 de diciembre, de Movilidad Sostenible.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-e11a40bbcb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2019/631 por el que se establecen normas de comportamiento en materia de emisiones de CO2 de los turismos nuevos y de los vehículos comerciales ligeros nuevos y la prohibición de la venta de coches de combustión interna a partir de 2035.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-38046121bc",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Lo primero que hay que hacer es una auditoría de seguridad para saber cómo están las vías.",
+     "quien": "Juan José Aizcorbe, Diputado y cabeza de lista de Vox por Barcelona",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-a45889b4ac",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Lo que hay que hacer es poner técnicos que sepan cómo funciona, asegurar la seguridad en todos los trayectos y minimizar los tiempos.",
+     "quien": "Juan José Aizcorbe, Diputado y cabeza de lista de Vox por Barcelona",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-6571e980ff",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Ellos hablan de una prioridad; nosotros, en VOX, en nuestras enmiendas, reconocemos el carácter estratégico para la soberanía y la competitividad nacional. Pero en VOX somos aún más ambiciosos. ¿Y qué queremos? Completar las actuaciones para dotarlas de plena funcionalidad y garantizar su explotación",
+     "quien": "Rueda Perelló, Diputada de Vox en el Congreso",
+     "fecha": "2026-09-22"
+    },
+    {
+     "id": "c-bc2741b2ae",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay un problema técnico, de degradación, de falta de inversiones, de falta de inversiones de los fondos europeos, también de decisiones de naturaleza ideológica",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "tema": "igualdad-y-derechos",
+   "nombre": "Igualdad y derechos",
+   "definicion": "Igualdad entre mujeres y hombres, violencia machista, derechos LGTBI, libertades civiles, memoria democrática y relación con las religiones.",
+   "citas": [
+    {
+     "id": "c-4f2612ec21",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "A esta superposición regulatoria, se añade una burocracia administrativa que penaliza especialmente a quienes quieren crecer: procedimientos administrativos lentos, requisitos documentales no armonizados entre administraciones, falta de centralización en sedes electrónicas, cuellos de botella recurrentes en los trámites medioambientales y urbanísticos... Y, para las empresas que superan el umbral de los 50 trabajadores, un catálogo de obligaciones adicionales —planes de igualdad, auditorías retributivas, protocolos LGTBI, etc.— que se activan de forma automática y que, en la práctica, obstaculizan el crecimiento.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Industria"
+    },
+    {
+     "id": "c-6076b4197c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación del plan de igualdad obligatorio. La igualdad ante la ley ya está garantizada por la Constitución. Obligar a cada empresa a redactar, negociar, registrar y revisar periódicamente un plan de igualdad es burocracia ideológica disfrazada de progreso. Se deroga.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-dc35c93f2a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación del plan LGTBI obligatorio. Ninguna empresa debe estar obligada a redactar planes para acreditar su adhesión a una agenda. Las empresas están para contratar a los mejores, no para certificar su corrección política. Se deroga.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-4d80cc11a9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La legislación sobre planes de igualdad en las empresas prevista en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, tras la reforma del Real Decreto-ley 6/2019, de 1 de marzo, así como todo su desarrollo reglamentario.",
+     "apartado": "Propuestas de VOX › Primeras leyes que derogaremos"
+    },
+    {
+     "id": "c-7fa71f399e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Directiva 2023/970 sobre igualdad retributiva y de mecanismos burocráticos para su cumplimiento.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-684987f34f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Señorías, pretender que no existe una única definición de familia y sustituirla por una pluralidad de modelos de familia es de locos.",
+     "quien": "Ruiz Solás, Diputada de Vox en el Congreso",
+     "fecha": "2026-09-22"
+    },
+    {
+     "id": "c-810070418b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay hombres que agreden a las mujeres, la inmensa mayoría de los hombres quieren a las mujeres. Los que las agreden merecen todo el reproche penal y los violadores no deben salir de la prisión",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-c772333f84",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "obligar a cada empresa a redactar, negociar, registrar y revisar un plan de igualdad es burocracia ideológica disfrazada de progreso",
+     "quien": "el partido, Programa de Desregulación de Vox",
+     "fecha": "2026-06-27"
+    },
+    {
+     "id": "c-e78c08a445",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es lo único, lo demás, lo único que busca es un enfrentamiento entre nosotros",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-0631600f3d",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Una cosa es impedir el acceso de los menores a contenidos pornográficos o protegerlos de comportamientos pedófilos en Internet, y otra bien distinta es utilizar este problema como coartada para imponer una visión totalitaria y única de un relato de los hechos en los que no quepa la discrepancia.",
+     "quien": "José María Figaredo Álvarez-Sala, Portavoz adjunto del Grupo Parlamentario VOX en el Congreso (firma la enmienda)",
+     "fecha": "2025-06-18"
+    }
+   ]
+  },
+  {
+   "tema": "politica-exterior-y-defensa",
+   "nombre": "Política exterior y defensa",
+   "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
+   "citas": [
+    {
+     "id": "c-8d490827f4",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Y por si fuese poco, el fanatismo climático de la Unión Europea y su delirante Marco de Finanzas Sostenibles han dado la estocada final a infinidad de empresas, especialmente las pequeñas y medianas.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Empresa"
+    },
+    {
+     "id": "c-45406dcaed",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El ejemplo más flagrante es el Reglamento de la Reserva de Talentos de 2026 que, en lugar de blindar y potenciar el talento local, insiste en perpetuar la dependencia de la mano de obra barata extranjera.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Trabajo"
+    },
+    {
+     "id": "c-57a30a32cd",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nuestro campo está en serio peligro. La conjunción de burocracia asfixiante e hiperregulación boicotea la viabilidad del sector, así como décadas de políticas verdes impuestas desde Bruselas y aceptadas y ejecutadas por el bipartidismo.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Sector primario"
+    },
+    {
+     "id": "c-a630ebee1b",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El Pacto Verde Europeo, que es la forma en que la Unión Europea ha vehiculado el cumplimiento del Acuerdo de París de 2015, ha condenado a nuestra industria, hundiéndola en términos de competitividad a nivel internacional.",
+     "apartado": "Diagnóstico: “La prosperidad que nos ha robado la hiperregulación” › Industria"
+    },
+    {
+     "id": "c-ae50310767",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se revisará toda la normativa española de origen europeo para podarla y dejarla en el mínimo imprescindible.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-6ff56361cf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y, de aquí en adelante, las directivas se transpondrán de forma literal y ajustada, sin adornos ni añadidos ideológicos.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-2e309bbc66",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cargas impuestas desde Bruselas a las empresas: al mínimo en España, batalla por su eliminación en Europa. Registro salarial, auditorías retributivas y todo el aparato de control salarial que obliga a la empresa a justificar ante la Administración cuánto paga, a quién y por qué. Canal interno de denuncias. Medición de la huella de carbono. Estado de información no financiera, esto es, el famoso informe ESG: decenas de páginas que la empresa debe dedicar a detallar su política de diversidad, sostenibilidad, igualdad y demás letanías ideológicas.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-624a45f034",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "En paralelo, defenderemos en Bruselas la simplificación de la normativa comunitaria de etiquetado y envasado.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-a090e87eda",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La sobrerregulación que afecta a los españoles no se entiende sin los actos legislativos de la Unión Europea.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-c3c7d6bd07",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Es imperativo impulsar ante las instituciones comunitarias la modificación o eliminación, en su caso, de las siguientes iniciativas reguladoras, como los reglamentos —vinculantes y de aplicación inmediata— y las directivas —de obligada transposición—, así como, en todo caso, la forma en que se transponen y aplican en España",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-330f63ce0d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión de la normativa derivada del Pacto Verde Europeo.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-cedd6788f4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Revertir la aplicación provisional del acuerdo comercial UE-Mercosur y frenar su aprobación.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-dd431561d9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Poner fin al Acuerdo de Asociación UE-Marruecos.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-f6adb0c869",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2020/852 sobre taxonomía ambiental europea.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-03509955f7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Régimen para el comercio de derechos de emisión de gases de efecto invernadero de la Unión Europea (ETS), creado por la Directiva 2003/87/CE 2023/959 y modificado por la Directiva 2023/959, así como el Reglamento 2023/956 por el que se establece un Mecanismo de Ajuste en Frontera por Carbono (CBAM).",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-99a075d7e8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Directiva 2024/1275 relativa a la eficiencia energética de los edificios (EPBD).",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-e11a40bbcb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2019/631 por el que se establecen normas de comportamiento en materia de emisiones de CO2 de los turismos nuevos y de los vehículos comerciales ligeros nuevos y la prohibición de la venta de coches de combustión interna a partir de 2035.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-d3235f10b8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2024/1991 sobre la restauración de la naturaleza.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-3ae658db5c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2021/2115 relativo a los planes estratégicos de la PAC (2023-2027), que condiciona el acceso a las ayudas de la PAC al cumplimiento de exigencias medioambientales.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-d99e7f188b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 1107/2009 relativo a productos fitosanitarios y la Directiva 2009/128/CE sobre plaguicidas.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-dab8a20228",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Directiva 2022/2464 sobre información sobre sostenibilidad por parte de las empresas (CSRD) y la Directiva 2024/1760 sobre diligencia debida de las empresas en materia de sostenibilidad (CS3D).",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-7fa71f399e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Directiva 2023/970 sobre igualdad retributiva y de mecanismos burocráticos para su cumplimiento.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-d70a0336f0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Directiva 2024/1233 relativa al procedimiento de permiso único de trabajo y residencia de trabajadores extracomunitarios.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-04fe37239f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2024/1689 por el que se establecen normas armonizadas en materia de inteligencia artificial.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-014ace0c1c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "la primera medida y más urgente para Vox, si los españoles nos dan su confianza, va a ser recuperar Ceuta, recuperar el control de nuestras fronteras, nuestra soberanía nacional y devolver la seguridad a los ceutíes porque Ceuta es España y no puede ser que las decisiones de Rabat tengan efecto en nuestro país",
+     "quien": "Isabel Pérez Moñino, Portavoz nacional de Vox de Agenda España",
+     "fecha": "2026-11-06"
+    },
+    {
+     "id": "c-843623564f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Segundo, a que proceda de manera urgente y permanente al refuerzo de efectivos de las fuerzas y cuerpos de seguridad y Fuerzas Armadas desplegados en Ceuta y Melilla, con el fin de evitar cualquier otro intento de invasión; a que fortalezca de inmediato la todavía desprotegida frontera terrestre de Ceuta; a que reconozca el carácter de agentes de autoridad a los miembros de las Fuerzas Armadas desplegados en Ceuta, y a que igualmente despliegue a la Armada española para la defensa de nuestra frontera marítima.",
+     "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-ce3c426c40",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "No vamos a permitir que la competencia desleal siga sustituyendo el principio de preferencia comunitaria como ocurre con el acuerdo comercial UE-Marruecos, declarado ilegal por el Tribunal de Justicia de la UE. Los tomates de España serán los primeros.",
+     "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
+     "fecha": "2026-10-07"
+    },
+    {
+     "id": "c-945782c223",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Creo que hay que pedirle dos cosas muy claras, que creo que son poquitas y que son razonables, y es que no nos invada y que no reclame el territorio nacional de Ceuta y de Melilla. Creo que con eso es suficiente para empezar a hablar",
+     "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
+     "fecha": "2026-11-03"
+    },
+    {
+     "id": "c-a71e60c40f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Mientras no se produzca esa declaración expresa de Marruecos, pedimos que el Gobierno suspenda inmediatamente la aplicación del Tratado de Amistad, Buena Vecindad y Cooperación con Marruecos, y que inste a la Unión Europea a revisar o suspender el Acuerdo Euromediterráneo de Asociación con Marruecos, así como todas las ayudas, preferencias y fondos que pueda en este momento estar recibiendo procedentes de Bruselas.",
+     "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-76b75b1c4d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Lo que propone el Grupo VOX es que se añada, a continuación de «terrorismo», lo siguiente: «y la inmigración ilegal». Es decir, que las Fuerzas Armadas apoyen a las fuerzas de orden público en la lucha contra el terrorismo «y la inmigración ilegal».",
+     "quien": "José María Sánchez García, Diputado de Vox en el Congreso",
+     "fecha": "2026-09-15"
+    },
+    {
+     "id": "c-fac906c4c4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No puede ser que España sea una nación indefensa, necesitamos muchas inversiones y además poner de manifiesto que la industria de seguridad y defensa en España es una industria modélica",
+     "quien": "Jorge Buxadé, Eurodiputado y jefe de la delegación de Vox en el Parlamento Europeo",
+     "fecha": "2026-10-31"
+    },
+    {
+     "id": "c-f204a6a40c",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "A nosotros nos interesa seguir, aportar más y tener más responsabilidades. No se trata de sustituir a Estados Unidos, sino de ser mejores aliados.",
+     "quien": "Alberto Asarta, Portavoz de Defensa de Vox en el Congreso",
+     "fecha": "2026-06-24"
+    }
+   ]
+  },
+  {
+   "tema": "ciencia-cultura-y-digital",
+   "nombre": "Ciencia, cultura y digital",
+   "definicion": "Investigación, tecnología e inteligencia artificial, cultura y deporte.",
+   "citas": [
+    {
+     "id": "c-acb26bc6dc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La Administración usará la IA de forma masiva, siempre desde el respeto al hombre por encima de la IA, para acabar con esperas, papeleo y trámites absurdos: resolución automática de expedientes sencillos, asistentes que guíen al ciudadano paso a paso, detección de duplicidades y contradicciones entre normas, traducción inmediata de la jerga administrativa a lenguaje comprensible.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-3e6ee5deda",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a reescribir la Ley Orgánica de Protección de Datos en clave de mínimo imprescindible: solo lo que exige Bruselas, redactado de forma clara, breve y sin trampas. La AEPD pasará de organismo sancionador a organismo de ayuda y asesoramiento, especialmente para las pymes.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-8b07ff9764",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación del protocolo de desconexión digital obligatorio. Las condiciones de trabajo se pactan entre empresa y trabajador, debiendo garantizar siempre unas condiciones laborales justas y dignas para todos los trabajadores. No hace falta un protocolo oficial registrado por triplicado para apagar el móvil al salir del trabajo. Se deroga.",
+     "apartado": "Propuestas de VOX › Primeras medidas en materia de desregulación"
+    },
+    {
+     "id": "c-75f295b361",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.",
+     "apartado": "Propuestas de VOX › Primeras leyes cuya revisión y reforma promoveremos en materia de desregulación"
+    },
+    {
+     "id": "c-04fe37239f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reglamento 2024/1689 por el que se establecen normas armonizadas en materia de inteligencia artificial.",
+     "apartado": "Propuestas de VOX › Principal normativa europea cuya reforma exigiremos"
+    },
+    {
+     "id": "c-175fc9c688",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Lo que sí tengo es el deber de exigir respeto a la cultura de todos los españoles, a la cultura que podemos compartir; ustedes pueden no tener devoción por los festejos taurinos o tenerla, pero no pueden prohibírselo a los demás.",
+     "quien": "José Ramírez del Río, Portavoz del Grupo Parlamentario VOX en la Comisión de Cultura del Congreso",
+     "fecha": "2025-11-11"
+    },
+    {
+     "id": "c-0631600f3d",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Una cosa es impedir el acceso de los menores a contenidos pornográficos o protegerlos de comportamientos pedófilos en Internet, y otra bien distinta es utilizar este problema como coartada para imponer una visión totalitaria y única de un relato de los hechos en los que no quepa la discrepancia.",
+     "quien": "José María Figaredo Álvarez-Sala, Portavoz adjunto del Grupo Parlamentario VOX en el Congreso (firma la enmienda)",
+     "fecha": "2025-06-18"
+    }
+   ]
+  }
+ ]
+}

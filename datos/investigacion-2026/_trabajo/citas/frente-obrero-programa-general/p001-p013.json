@@ -1,0 +1,610 @@
+{
+  "fuente": "frente-obrero-programa-general",
+  "partido": "frente-obrero",
+  "paginas": [
+    1,
+    13
+  ],
+  "citas": [
+    {
+      "cita": "La dicotomía izquierda y derecha ya no sirve para comprender la realidad existente, mucho menos para determinar las alianzas y la orientación práctica.",
+      "pagina": 5,
+      "apartado": [
+        "01 La España que debemos ser"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo del eje izquierda-derecha como marco político",
+      "etiquetas": [
+        "ideología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Frente Obrero es un movimiento patriota y revolucionario, que lucha por y para los trabajadores, por y para España. No somos reformistas, nuestro objetivo es la transformación de la sociedad, no parchear lo que tenemos.",
+      "pagina": 5,
+      "apartado": [
+        "01 La España que debemos ser"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Definición del partido como movimiento patriota y revolucionario",
+      "etiquetas": [
+        "ideología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestro objetivo sigue siendo acabar con el régimen actual y dar solución a los grandes problemas que afectan a nuestro país. Por ello apostamos por la realización de un proceso constituyente.",
+      "pagina": 6,
+      "apartado": [
+        "01 La España que debemos ser"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Apertura de un proceso constituyente",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La democracia representativa española es una estafa para favorecer a la partitocracia que defiende los intereses del gran capital.",
+      "pagina": 6,
+      "apartado": [
+        "01 La España que debemos ser"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Crítica a la democracia representativa española como partitocracia",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Debemos recuperar un movimiento obrero que ponga contra las cuerdas al Gobierno y garantice, no solo los derechos, sino los intereses de los trabajadores, que pueda paralizar el país.",
+      "pagina": 8,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Recuperación de un movimiento obrero con capacidad de presión",
+      "etiquetas": [
+        "empleo",
+        "sindicatos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El capitalismo no se puede reformar, es un sistema basado en la explotación de la gran mayoría de la población al servicio de unos pocos.",
+      "pagina": 8,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Postura sobre el capitalismo como sistema no reformable",
+      "etiquetas": [
+        "economía",
+        "ideología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Necesitamos un nuevo movimiento en defensa de los trabajadores, combativo y, por supuesto, patriota.",
+      "pagina": 8,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Nuevo movimiento de trabajadores combativo y patriota",
+      "etiquetas": [
+        "empleo",
+        "sindicatos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumento general de los salarios en relación al coste de la vida.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Subida general de salarios ligada al coste de la vida",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fortalecer la negociación colectiva a través de la implementación de un sistema obligatorio de representación de los trabajadores en todos las empresas con diez trabajadores o más, sin excepciones.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Representación obligatoria de trabajadores en empresas de diez o más",
+      "etiquetas": [
+        "empleo",
+        "sindicatos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Endurecer las penas por la contratación de extranjeros no regulados, especialmente en el campo.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Penas más duras por contratar extranjeros en situación irregular",
+      "etiquetas": [
+        "empleo",
+        "inmigración",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogación de las leyes que permiten la contratación colectiva de trabajadores en sectores precarizados, que buscan abaratar los costes salariales.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogación de las leyes de contratación colectiva en sectores precarizados",
+      "etiquetas": [
+        "empleo",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentar la lucha contra la temporalidad.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Lucha contra la temporalidad laboral",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Restricción de las condiciones que permiten a las empresas acogerse a contratos temporales o fijos-discontinuos.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Restricción de los contratos temporales y fijos-discontinuos",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibición de las empresas de trabajo temporal (ETTS).",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de las empresas de trabajo temporal",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminación de la cuota para los autónomos que no llegan al SMI e implementación de una bonificación total por baja.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cuota cero para autónomos bajo el SMI y bonificación por baja",
+      "etiquetas": [
+        "autónomos",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cuotas más reducidas para los autónomos.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reducción de las cuotas de autónomos",
+      "etiquetas": [
+        "autónomos",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la jubilación a los autónomos.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Garantía de jubilación para los autónomos",
+      "etiquetas": [
+        "autónomos",
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acabar con los falsos autónomos.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fin de la figura de los falsos autónomos",
+      "etiquetas": [
+        "autónomos",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogación de las sucesivas reformas laborales que han fortalecido el despido libre y barato para las empresas y que posibilitan la primacía del convenio de empresa sobre los convenios sectoriales aun cuando perjudica al trabajador.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogación de las reformas laborales sobre despido y convenios",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogación inmediata del Real Decreto 17/1977 sobre relaciones de trabajo, que limita el ejercicio pleno del derecho a huelga sobre todo en los sectores estratégicos.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogación del Real Decreto 17/1977 sobre derecho de huelga",
+      "etiquetas": [
+        "empleo",
+        "sindicatos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar el control sobre el cumplimiento de las condiciones de trabajo, especialmente en trabajos de alta peligrosidad, siendo la prevención de riesgos una prioridad ineludible.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más control de condiciones de trabajo y prevención de riesgos",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar el control sobre el registro de horas extra y garantizar que solo se realicen las previstas por ley para cada trabajador.",
+      "pagina": 9,
+      "apartado": [
+        "02 Los trabajadores primero"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más control del registro de horas extra",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario que España abandone la Unión Europea, se reindustrialice, se tecnifique y modernice la producción en el campo. Mientras permanezcamos en la UE, nuestra soberanía estará secuestrada y las medidas que han de tomarse para hacer avanzar el país no podrán ser realizadas.",
+      "pagina": 11,
+      "apartado": [
+        "03 Soberanía nacional"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Abandono de la Unión Europea, reindustrialización y modernización del campo",
+      "etiquetas": [
+        "unión europea",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La OTAN no aporta nada a España, pero sí supone un gasto. Nos arrastra a conflictos que nada tienen que ver con nuestros intereses como país y no nos apoya en el conflicto que mantenemos con Marruecos, por mucho que a nivel oficial puedan parecer nuestros aliados.",
+      "pagina": 11,
+      "apartado": [
+        "03 Soberanía nacional"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo de la pertenencia de España a la OTAN",
+      "etiquetas": [
+        "defensa",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Salida de la Unión Europea para recuperar nuestra soberanía nacional.",
+      "pagina": 11,
+      "apartado": [
+        "03 Soberanía nacional"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Salida de España de la Unión Europea",
+      "etiquetas": [
+        "unión europea",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Salida inmediata de la OTAN y reforzamiento de nuestro ejército.",
+      "pagina": 11,
+      "apartado": [
+        "03 Soberanía nacional"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Salida de la OTAN y refuerzo del ejército",
+      "etiquetas": [
+        "defensa",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Expulsión de toda base militar extranjera, empezando con la presencia del ejército inglés en Gibraltar, cuyo control debe ser recuperado. No podemos aspirar a ser un país soberano con ejércitos extranjeros en nuestro territorio.",
+      "pagina": 11,
+      "apartado": [
+        "03 Soberanía nacional"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Expulsión de bases militares extranjeras y recuperación de Gibraltar",
+      "etiquetas": [
+        "defensa",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "España asumirá su deuda histórica y defenderá sin reservas el derecho del pueblo saharaui a la autodeterminación.",
+      "pagina": 11,
+      "apartado": [
+        "03 Soberanía nacional"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa de la autodeterminación del pueblo saharaui",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Delimitación de las aguas archipelágicas.",
+      "pagina": 11,
+      "apartado": [
+        "03 Soberanía nacional"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Delimitación de las aguas archipelágicas españolas",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ningún país puede tener un mínimo de soberanía si no tiene una capacidad industrial avanzada.",
+      "pagina": 13,
+      "apartado": [
+        "04 Recuperemos la industria española"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Vínculo entre capacidad industrial y soberanía",
+      "etiquetas": [
+        "industria",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ahora la UE quiere que sigamos la estela de la “transición ecológica”, mermando aún más nuestra independencia productiva. Hoy más que nunca es necesaria una reindustrialización que garantice el desarrollo y la soberanía de España, que sea respetuosa con su riqueza natural, pero priorice las necesidades del país.",
+      "pagina": 13,
+      "apartado": [
+        "04 Recuperemos la industria española"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Reindustrialización que priorice el país frente a la transición ecológica",
+      "etiquetas": [
+        "industria",
+        "medio ambiente",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reindustrialización del país, priorizando el desarrollo de industrias estratégicas y que exploten los recursos con los que cuenta España.",
+      "pagina": 13,
+      "apartado": [
+        "04 Recuperemos la industria española"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reindustrialización con prioridad a las industrias estratégicas",
+      "etiquetas": [
+        "industria",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar una estrategia independiente de desarrollo industrial, que ponga fin a las imposiciones de Bruselas en beneficio de otras potencias.",
+      "pagina": 13,
+      "apartado": [
+        "04 Recuperemos la industria española"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estrategia industrial propia al margen de la Unión Europea",
+      "etiquetas": [
+        "industria",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nacionalización de los sectores estratégicos de la economía.",
+      "pagina": 13,
+      "apartado": [
+        "04 Recuperemos la industria española"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nacionalización de los sectores estratégicos de la economía",
+      "etiquetas": [
+        "economía",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fuerte intervención para priorizar los intereses de los españoles.",
+      "pagina": 13,
+      "apartado": [
+        "04 Recuperemos la industria española"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Intervención estatal en la economía",
+      "etiquetas": [
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Modernizar y cambiar el sector turístico, basado en el ocio destructivo, para fomentar el turismo de alta calidad y el turismo rural, respetuoso con el medio y la población local.",
+      "pagina": 13,
+      "apartado": [
+        "04 Recuperemos la industria española"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cambio del modelo turístico hacia turismo de calidad y rural",
+      "etiquetas": [
+        "turismo",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

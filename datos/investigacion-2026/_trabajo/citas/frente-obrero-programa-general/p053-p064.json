@@ -1,0 +1,933 @@
+{
+  "fuente": "frente-obrero-programa-general",
+  "partido": "frente-obrero",
+  "paginas": [
+    53,
+    64
+  ],
+  "citas": [
+    {
+      "cita": "El que ha querido venir a trabajar y aportar al país respetando nuestra cultura ha sido bienvenido, pero las laxas condiciones para regular y nacionalizar han hecho que se haya creado un grave problema. Ante el cual solo queda llevar a la práctica medidas drásticas para hacer retornar a aquellos que no cumplen las características anteriores.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Retorno de inmigrantes que no vengan a trabajar respetando la cultura",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Una persona puede vivir en España con un visado sin ningún problema sin que se le de la nacionalidad, es necesario hacer valer la nacionalidad y nuestra cultura.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Residir con visado sin nacionalidad; hacer valer nacionalidad y cultura",
+      "etiquetas": [
+        "inmigración",
+        "nacionalidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumplimiento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Las medidas migratorias requerirían una nueva constitución",
+      "etiquetas": [
+        "inmigración",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Control absoluto de las fronteras tanto de las terrestres como del mar circundante. Un país que no es capaz de controlar sus fronteras es un Estado fallido.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Control de las fronteras terrestres y marítimas",
+      "etiquetas": [
+        "inmigración",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Lucha obstinada contra las mafias de tráfico de inmigrantes. Persiguiendo y condenando a altas penas de cárcel a aquellos que juegan con las vidas de los inmigrantes.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Persecución y penas de cárcel para mafias de tráfico de inmigrantes",
+      "etiquetas": [
+        "inmigración",
+        "seguridad",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Expulsión inmediata de todos aquellos inmigrantes que delinquen de forma reiterada o que están de forma irregular en el país.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Expulsión de inmigrantes reincidentes o en situación irregular",
+      "etiquetas": [
+        "inmigración",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Imposibilidad de regularse si han intentado entrar de forma ilegal.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sin regularización para quien intentó entrar ilegalmente",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisión de los permisos de residencia a aquellos que hayan entrado de forma ilegal y lo hayan conseguido en los últimos años.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión de permisos de residencia obtenidos tras entrada ilegal",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Expulsión de los radicales islámicos y de las estructuras religiosas que actúan como lobby para países extranjeros.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Expulsión de radicales islámicos y estructuras religiosas vinculadas al extranjero",
+      "etiquetas": [
+        "inmigración",
+        "religión",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El islam debe ser sacado de las escuelas públicas y no se debe subvencionar ninguna actividad islámica.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Islam fuera de la escuela pública y sin subvenciones",
+      "etiquetas": [
+        "religión",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibición del hijab en lugares y puestos de trabajo públicos.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición del hijab en lugares y empleos públicos",
+      "etiquetas": [
+        "religión",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, se ofrecerán ayudas a las mujeres que quieran dejar el uso de la vestimenta islámica y se vean amenazadas en el proceso.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas a mujeres amenazadas por dejar la vestimenta islámica",
+      "etiquetas": [
+        "igualdad",
+        "religión"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sancionar y poner bajo el peso de la ley a aquellas organizaciones que promuevan acciones para evitar la legalidad al respecto. Con especial atención a las ONG.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Sanciones a organizaciones y ONG que promuevan eludir la legalidad migratoria",
+      "etiquetas": [
+        "inmigración",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cese de entrega de nacionalidades hasta que se pueda realizar una revisión exhaustiva de las que se han entregado en los últimos veinte años.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suspensión de nacionalizaciones hasta revisar las de los últimos veinte años",
+      "etiquetas": [
+        "inmigración",
+        "nacionalidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Elevación de las condiciones para la obtención futura de la nacionalidad, primando de verdad el Ius Sanguinis. La entrega de la nacionalidad a personas que no cumplan este requisito deben ser meritorias de ello, siendo algo anecdótico y no cientos de miles al año como pasa en la actualidad.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Endurecer el acceso a la nacionalidad primando el ius sanguinis",
+      "etiquetas": [
+        "inmigración",
+        "nacionalidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Retirada de la nacionalidad a todos aquellos nacionalizados que cometan un delito grave.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Retirada de la nacionalidad a nacionalizados con delito grave",
+      "etiquetas": [
+        "inmigración",
+        "nacionalidad",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se deben establecer medidas para fomentar el retorno de los españoles que han tenido que emigrar debido a la situación económica y política del país. España necesita a los españoles para volver a levantarse.",
+      "pagina": 53,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomento del retorno de españoles emigrados",
+      "etiquetas": [
+        "emigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Operatividad de los CIE o sustitución de estos por otro tipo de centro más efectivo para la deportación.",
+      "pagina": 54,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Operatividad de los CIE o sustitución por otros centros",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las órdenes de expulsión deben ser ejecutadas sin excepción alguna.",
+      "pagina": 54,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ejecución de todas las órdenes de expulsión",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dotación moderna para la policía y la Guardia Civil. Las Fuerzas de Seguridad del Estado deben poder actuar con contundencia para implantar las medidas de resolución.",
+      "pagina": 54,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Dotación de medios para Policía y Guardia Civil",
+      "etiquetas": [
+        "seguridad",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Búsqueda de acuerdos con países cercanos para instalar puertos y centros para la clasificación y deportación de inmigrantes desde suelo extranjero de aquellos que intenten entrar en España de forma ilegal.",
+      "pagina": 54,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "11",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acuerdos con países cercanos para centros de deportación en el exterior",
+      "etiquetas": [
+        "inmigración",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoción y apoyo para promover la cultura española y facilitar la asimilación e integración de los inmigrantes que han venido a aportar al país.",
+      "pagina": 54,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "12",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Promoción de la cultura española para asimilar e integrar inmigrantes",
+      "etiquetas": [
+        "inmigración",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Supervisión constante de las empresas que contratan a los inmigrantes para acabar con las condiciones laborales leoninas que suelen sufrir.",
+      "pagina": 54,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "13",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Supervisión de empresas que contratan inmigrantes",
+      "etiquetas": [
+        "inmigración",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Restringir el uso de la figura del “asilo político” únicamente para aquellos que realmente cumplan dicha situación, elevando las condiciones exigidas, acabando con la abusiva utilización actual como manera de prolongar la estancia en suelo nacional para obtener la regularización de inmigración ilegal.",
+      "pagina": 54,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "14",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Restricción del asilo político y elevación de sus requisitos",
+      "etiquetas": [
+        "inmigración",
+        "asilo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se acabará con la actual concesión de libertad de movimiento desde su solicitud, regulando únicamente para el caso de que finalmente sea concedido dicho asilo político, expulsándose a los inmigrantes que sea denegada su solicitud",
+      "pagina": 54,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "14",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Solicitantes de asilo sin libertad de movimiento; expulsión si se deniega",
+      "etiquetas": [
+        "inmigración",
+        "asilo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las medidas propuestas si no son suficientes para la resolución del problema deben endurecerse más, teniendo en cuenta los avances y experiencias de otros países europeos.",
+      "pagina": 54,
+      "apartado": [
+        "17 Inmigración"
+      ],
+      "numero": "15",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Endurecimiento de las medidas migratorias si resultan insuficientes",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La propuesta del Frente Obrero es iniciar un proceso inmediato en el que se consiga que las comunidades autónomas sean simétricas, es decir, que todas tengan los mismos derechos y obligaciones. A su vez, creemos que hay que reforzar el gobierno central, haciendo que recupere algunas competencias que jamás deberían de haber sido suyas, respetando las diferentes culturas de todas las regiones de España.",
+      "pagina": 56,
+      "apartado": [
+        "18 Estructura territorial y administración"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Comunidades autónomas simétricas y refuerzo del gobierno central",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defendemos la unidad del país, posicionándonos contra todos los procesos de independencia existentes, los cuales son contrarios a los intereses de los trabajadores.",
+      "pagina": 56,
+      "apartado": [
+        "18 Estructura territorial y administración"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de la unidad del país frente al independentismo",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nosotros somos contrarios a la monarquía, somos partidarios de una República encaminada al socialismo, pero hasta que llegue el momento de decidir la nueva forma de Estado pensamos que es necesario igualar las competencias y regímenes fiscales de todas las autonomías.",
+      "pagina": 56,
+      "apartado": [
+        "18 Estructura territorial y administración"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Postura republicana e igualación de competencias y regímenes fiscales autonómicos",
+      "etiquetas": [
+        "instituciones",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implantar medidas para que todas las Comunidades Autónomas tengan las mismas competencias y el mismo régimen fiscal. Se acabaron las desigualdades entre regiones.",
+      "pagina": 56,
+      "apartado": [
+        "18 Estructura territorial y administración"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mismas competencias y mismo régimen fiscal para todas las autonomías",
+      "etiquetas": [
+        "organización territorial",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Centralizar determinadas competencias como sanidad, educación y los servicios de emergencia.",
+      "pagina": 56,
+      "apartado": [
+        "18 Estructura territorial y administración"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Centralización de sanidad, educación y servicios de emergencia",
+      "etiquetas": [
+        "organización territorial",
+        "sanidad",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminación de puestos y cargos inoperantes o duplicados.",
+      "pagina": 56,
+      "apartado": [
+        "18 Estructura territorial y administración"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Eliminación de puestos y cargos inoperantes o duplicados",
+      "etiquetas": [
+        "instituciones",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoción de la fusión de ayuntamientos para reducir el volumen de la administración.",
+      "pagina": 56,
+      "apartado": [
+        "18 Estructura territorial y administración"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Promoción de la fusión de ayuntamientos",
+      "etiquetas": [
+        "organización territorial",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejora de las condiciones de trabajo y seguridad de los cuerpos policiales.",
+      "pagina": 56,
+      "apartado": [
+        "18 Estructura territorial y administración"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mejora de condiciones de trabajo y seguridad de los policías",
+      "etiquetas": [
+        "seguridad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todos somos iguales ante la ley, y tener más o menos ingresos no puede determinar la verdad.",
+      "pagina": 58,
+      "apartado": [
+        "19 Justicia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Igualdad ante la ley con independencia de los ingresos",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por esta razón, apostamos por una transformación radical del sistema judicial, que nos permita tener una verdadera justicia para la gente, independiente, y que sea implacable con el poder político cuando sea necesario. Jugar con el dinero y las instituciones de los españoles debe tener un alto precio a pagar.",
+      "pagina": 58,
+      "apartado": [
+        "19 Justicia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Transformación del sistema judicial hacia una justicia independiente",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la independencia judicial respecto al poder político, priorizando la membresía por carrera judicial en los órganos superiores.",
+      "pagina": 58,
+      "apartado": [
+        "19 Justicia"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Independencia judicial priorizando la carrera judicial en órganos superiores",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Supresión de la elección por parte del Gobierno de miembros para cualquier órgano judicial.",
+      "pagina": 58,
+      "apartado": [
+        "19 Justicia"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de la elección gubernamental de miembros de órganos judiciales",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Justicia de calidad al alcance de todos. La justicia gratuita actualmente es lenta y de mala calidad; nadie merece ser condenado por el mero hecho de no tener ingresos.",
+      "pagina": 58,
+      "apartado": [
+        "19 Justicia"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Justicia de calidad accesible con independencia de los ingresos",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumento de las penas por corrupción, que deben extenderse también a los partidos políticos como personas jurídicas.",
+      "pagina": 59,
+      "apartado": [
+        "19 Justicia"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más penas por corrupción, extendidas a los partidos políticos",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la devolución completa de los fondos públicos objeto del delito.",
+      "pagina": 59,
+      "apartado": [
+        "19 Justicia"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Devolución completa de los fondos públicos sustraídos",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibición del indulto en casos de corrupción política y delitos relacionados con esta.",
+      "pagina": 59,
+      "apartado": [
+        "19 Justicia"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición del indulto en casos de corrupción política",
+      "etiquetas": [
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La policía debe dejar de estar al servicio de los poderosos para ejercer funciones de protección y servicio al pueblo.",
+      "pagina": 61,
+      "apartado": [
+        "20 Fuerzas y Cuerpos de Seguridad del Estado"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Función de la policía: protección y servicio al pueblo",
+      "etiquetas": [
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Entendemos que mientras no caiga el régimen, este proceso es irrealizable, pero, mientras tanto, apostamos por la democratización de las fuerzas de seguridad y su adecuación a la realidad existente del país.",
+      "pagina": 61,
+      "apartado": [
+        "20 Fuerzas y Cuerpos de Seguridad del Estado"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Apuesta por la democratización de las fuerzas de seguridad",
+      "etiquetas": [
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Depuración de mandos policiales corruptos al servicio de los intereses de la partitocracia y a aquellos al servicio de la reacción más rancia.",
+      "pagina": 61,
+      "apartado": [
+        "20 Fuerzas y Cuerpos de Seguridad del Estado"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Depuración de mandos policiales",
+      "etiquetas": [
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Democratización de las estructuras del cuerpo. Incluyendo la posibilidad de sindicarse en la Guardia Civil.",
+      "pagina": 61,
+      "apartado": [
+        "20 Fuerzas y Cuerpos de Seguridad del Estado"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Democratización de los cuerpos y sindicación en la Guardia Civil",
+      "etiquetas": [
+        "seguridad",
+        "sindicatos"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Equiparación de sueldos entre los diferentes cuerpos policiales y la Guardia Civil.",
+      "pagina": 61,
+      "apartado": [
+        "20 Fuerzas y Cuerpos de Seguridad del Estado"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Equiparación salarial entre cuerpos policiales y Guardia Civil",
+      "etiquetas": [
+        "seguridad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Supresión de las policías autonómicas. Deben ser integradas en la Policía Nacional, ya no tiene ningún sentido práctico que haya un desdoblamiento",
+      "pagina": 61,
+      "apartado": [
+        "20 Fuerzas y Cuerpos de Seguridad del Estado"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de policías autonómicas e integración en la Policía Nacional",
+      "etiquetas": [
+        "seguridad",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario concienciar a los militares de que en este país se necesitan muchos cambios, comenzando por la democratización del propio ejército, la depuración de los mandos reaccionarios y la mejora de sus propias condiciones de trabajo.",
+      "pagina": 63,
+      "apartado": [
+        "21 Ejército"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Democratización del ejército, depuración de mandos y mejores condiciones laborales",
+      "etiquetas": [
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Debemos tener propuestas claras para la resolución de todos estos conflictos, independientemente de que cuando se dé el proceso constituyente, aboguemos por una refundación del ejército actual, en un Ejército al servicio del pueblo.",
+      "pagina": 63,
+      "apartado": [
+        "21 Ejército"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Refundación del ejército en un proceso constituyente",
+      "etiquetas": [
+        "defensa",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Modernización y democratización de las estructuras del ejército. Incluyendo la depuración de los mandos al servicio de la reacción.",
+      "pagina": 63,
+      "apartado": [
+        "21 Ejército"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Modernización y democratización del ejército con depuración de mandos",
+      "etiquetas": [
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Dignificación de la vida del soldado. Mejorarán las atribuciones y tendrán libertad de reunión, sindicación y afiliación política.",
+      "pagina": 63,
+      "apartado": [
+        "21 Ejército"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Libertad de reunión, sindicación y afiliación política para los soldados",
+      "etiquetas": [
+        "defensa",
+        "derechos y libertades",
+        "sindicatos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se acabará con el cese de contrato a los 45 años sin dar alternativas laborales para su vuelta al mundo civil.",
+      "pagina": 63,
+      "apartado": [
+        "21 Ejército"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fin del cese de contrato militar a los 45 años sin alternativa",
+      "etiquetas": [
+        "defensa",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todas estas medidas contribuirán en el futuro a refundar al ejército en uno diferente al actual, en un Ejército al servicio del pueblo, dejando lo reaccionario y represivo en el pasado.",
+      "pagina": 63,
+      "apartado": [
+        "21 Ejército"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refundación futura del ejército",
+      "etiquetas": [
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los soldados españoles dejarán de poner en riesgo sus vidas en misiones en el extranjero que solo buscan defender intereses extranjeros ajenos a nuestros intereses.",
+      "pagina": 63,
+      "apartado": [
+        "21 Ejército"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fin de misiones en el extranjero que defiendan intereses ajenos",
+      "etiquetas": [
+        "defensa",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

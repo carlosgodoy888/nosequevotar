@@ -1,0 +1,75 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Frase literal de la nota oficial de NC-BC del 22-12-2025 (sección Prensa NC de nuevacanariasbc.org). Es texto del propio partido en tercera persona y expresa una propuesta suya (acelerar la agencia canaria de emergencias que impulsó con una PNL). La cita ya menciona al Gobierno de Canarias.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "corregida",
+      "motivo": "Frase literal de la nota oficial de NC-BC del 05-11-2025: texto del partido en tercera persona sobre la intervención de Carmen Hernández en la comisión de presupuestos del Parlamento de Canarias. Expresa una postura del partido (hace falta un nuevo edificio judicial). La cita no tiene sujeto ni ámbito: se precisa la nota.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: En el Parlamento de Canarias (presupuestos de 2026), Carmen Hernández pide un nuevo edificio judicial en Tenerife en lugar de adaptar el auditorio"
+    },
+    {
+      "n": 3,
+      "veredicto": "corregida",
+      "motivo": "Frase literal de la nota oficial de NC-BC del 17-06-2026: texto del partido en tercera persona que recoge la propuesta de Natalia Santana, portavoz del grupo en la materia, en una comisión del Parlamento de Canarias. Es una propuesta concreta. La cita no indica el ámbito: se precisa la nota.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Protocolos en los centros de menores de Canarias contra la explotación sexual y la trata, propuesta de Natalia Santana en el Parlamento de Canarias"
+    },
+    {
+      "n": 4,
+      "veredicto": "corregida",
+      "motivo": "Texto literal entre comillas en la nota oficial de NC-BC del 13-10-2026, atribuido a Carmen Hernández, que hizo la pregunta en el pleno del Parlamento de Canarias. La cita no dice de qué proyecto se trata ni dónde está: se precisa la nota.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Rechazo al puerto de Fonsalía (Guía de Isora, Tenerife), en la zona protegida de Teno-Rasca, planteado en el Parlamento de Canarias"
+    },
+    {
+      "n": 5,
+      "veredicto": "corregida",
+      "motivo": "Texto literal entre comillas en la nota oficial de NC-BC del 30-09-2026, atribuido a Esther González en una comisión del Parlamento de Canarias. Se precisa el ámbito en la nota.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Contra la macrogranja de lubinas en la costa de La Aldea (Gran Canaria), planteado en el Parlamento de Canarias"
+    },
+    {
+      "n": 6,
+      "veredicto": "corregida",
+      "motivo": "Texto literal entre comillas en la nota oficial de NC-BC del 05-09-2025, atribuido a Valentín Correa, vicepresidente de los Órganos Nacionales de NC-BC (dirección del partido) y portavoz insular en Tenerife. Cargo y fecha correctos. La cita no indica el ámbito (crítica al Cabildo de Tenerife): se precisa la nota.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Prevención de incendios forestales en Tenerife mediante la ordenación del territorio"
+    },
+    {
+      "n": 7,
+      "veredicto": "comprobada",
+      "motivo": "Frase literal de la nota oficial de NC-BC del 12-02-2026: texto del partido que expresa su propuesta (enmiendas al proyecto de ley canario de la ciencia, I+D+i hasta el 3,2 % del gasto público en 2030). La cita deja claro el ámbito canario. La misma nota habla después del 3,2 % del «gasto no financiero», pero la frase citada es literal.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 8,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la nota oficial de NC-BC del 25-06-2026, atribuido a Carmen Hernández, ponente de su grupo en la ley canaria de la ciencia. «Responda» figura así en el original.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 9,
+      "veredicto": "corregida",
+      "motivo": "Frase literal de la nota oficial de NC-BC del 04-11-2025: texto del partido en tercera persona que anuncia las enmiendas de su diputada Carmen Hernández a los presupuestos canarios de 2026. Es una propuesta, no un simple relato. Se precisa el ámbito en la nota.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Enmiendas de Carmen Hernández a los presupuestos de Canarias de 2026 en universidades, cultura e I+D+i"
+    },
+    {
+      "n": 10,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la nota oficial de NC-BC del 13-10-2025, atribuido a Yoné Caraballo, diputado de NC-BC que presentó la proposición no de ley en el Parlamento de Canarias. La cita ya indica el ámbito.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    }
+  ],
+  "notas": "Abiertas todas las fuentes en nuevacanariasbc.org; su robots.txt solo prohíbe /wp-admin/. NC-BC forma parte de la coalición UPC según partidos/unidad-del-pueblo-canario.md. Todas las citas son de ámbito canario (Parlamento, Gobierno o Cabildo). Se aceptaron las frases en tercera persona (1, 2, 3, 7 y 9) porque son textos oficiales del partido que expresan una propuesta o postura suya, no relatos de un acto."
+}

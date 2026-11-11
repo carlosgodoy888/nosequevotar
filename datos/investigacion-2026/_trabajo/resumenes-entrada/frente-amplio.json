@@ -1,0 +1,1006 @@
+{
+ "partido": "frente-amplio",
+ "nombre": "Frente Amplio",
+ "programa": "no_publicado",
+ "temas": [
+  {
+   "tema": "vivienda",
+   "nombre": "Vivienda",
+   "definicion": "Acceso a la vivienda en compra y alquiler, vivienda pública, suelo y urbanismo.",
+   "citas": [
+    {
+     "id": "c-def42adeab",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Primera fase: entidades con más de 1.000 viviendas, como Blackstone o CaixaBank. Segunda fase: tenedores de más de 700 viviendas. Tercera fase: empresas propietarias de más de 50 inmuebles.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-11-06"
+    },
+    {
+     "id": "c-f9f337f7df",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "De forma paralela, proponemos adscribir obligatoriamente todas las fincas urbanas y suelos residenciales de la SAREB al parque público de vivienda.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-11-06"
+    },
+    {
+     "id": "c-d434213df2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para las empresas, el impuesto se aplicará desde la primera vivienda, y a las personas físicas se hará a partir de la cuarta casa en adelante –en este caso, siempre que las propiedades tengan un valor conjunto de más de 800.000 euros–. Se gravará con un tipo del 10 % del valor de cada vivienda, salvo si se alquilan de forma asequible y estable.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-28"
+    },
+    {
+     "id": "c-011883dfe7",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Además, la medida se acompañará, y financiará en parte con lo recaudado, de una inversión histórica hasta alcanzar el 1 % del PIB para la ampliación del parque público de vivienda asequible, protegida de forma permanente, mediante la construcción, adquisición y rehabilitación.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-28"
+    },
+    {
+     "id": "c-75cec5e4bf",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Para acabar con la especulación hay que tomar medidas estructurales, no basta con medidas parche como se ha hecho hasta ahora. Se necesitan regular los alquileres y no solo congelarlos. Hay que bajar los precios para imposibilitar los desahucios si no hay alternativa habitacional.",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-10-23"
+    },
+    {
+     "id": "c-98bacb70b9",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "¿Os acordáis cuando le decían a Yolanda Díaz que era imposible subir el salario mínimo, lo mismo le van a decir a Ada Colau cuando prohíba los pisos turísticos",
+     "quien": "Pablo Bustinduy, exministro de Derechos Sociales y portavoz de campaña del Frente Amplio",
+     "fecha": "2026-10-17"
+    },
+    {
+     "id": "c-704b4ace01",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Feijóo, Abascal, Prohens, haceros a la idea de que subiremos el salario mínimo, de que acabaremos con la especulación, mejoraremos las condiciones de los trabajadores, limitaremos la compra a no residentes y limitaremos los precios de los alimentos básicos",
+     "quien": "Carme Gomila, cabeza de lista de Ara Més-Front Ampli en Baleares",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-a2df07cef4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Como en Pan y Rosas, la lucha feminista es el motor para conquistar hoy la vivienda, el salario digno y la reducción de la jornada",
+     "quien": "Verónica Martínez Barbero, coordinadora de Movimiento Sumar y candidata del Frente Amplio al Congreso",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-34c598a016",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En Izquierda Unida, luchamos por un mundo rural con futuro, donde se garantice el acceso a servicios públicos esenciales como la sanidad, la educación y la vivienda.",
+     "quien": "el partido, Declaración política de la Conferencia Interparlamentaria de Izquierda Unida",
+     "fecha": "2026-02-02"
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "nombre": "Empleo y salarios",
+   "definicion": "Trabajo, salarios, jornada, contratos, autónomos, sindicatos y salud laboral.",
+   "citas": [
+    {
+     "id": "c-25fe07599f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Subir los salarios (el SMI, como mínimo, un 7%) y reducir inmediatamente la jornada laboral.",
+     "quien": "el partido, comunicado oficial de Izquierda Unida ante la huelga del 11N",
+     "fecha": "2026-11-04"
+    },
+    {
+     "id": "c-bfb4624014",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "El voto al Frente Amplio es la garantía de que esta no sea la última subida del SMI, que ha escalado de forma histórica en este país",
+     "quien": "Emilio Delgado, cabeza de lista del Frente Amplio por Madrid",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-a2df3bbf1e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "O aprovechamos la tecnología para que unos pocos se hagan millonarios y millones de personas pasen a ser prescindibles, o aprovechamos la tecnología para trabajar menos y vivir mejor. Nosotros estamos en esa segunda tesis",
+     "quien": "Emilio Delgado, cabeza de lista del Frente Amplio por Madrid",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-27d0ada6d8",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "nosotros nunca vamos a normalizar la siniestralidad laboral. Queremos apostar por una reflexión permanente cada vez que se produzca la muerte de un trabajador o una trabajadora",
+     "quien": "Antonio Maíllo, coordinador federal de Izquierda Unida",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-704b4ace01",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Feijóo, Abascal, Prohens, haceros a la idea de que subiremos el salario mínimo, de que acabaremos con la especulación, mejoraremos las condiciones de los trabajadores, limitaremos la compra a no residentes y limitaremos los precios de los alimentos básicos",
+     "quien": "Carme Gomila, cabeza de lista de Ara Més-Front Ampli en Baleares",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-a2df07cef4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Como en Pan y Rosas, la lucha feminista es el motor para conquistar hoy la vivienda, el salario digno y la reducción de la jornada",
+     "quien": "Verónica Martínez Barbero, coordinadora de Movimiento Sumar y candidata del Frente Amplio al Congreso",
+     "fecha": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "nombre": "Pensiones",
+   "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
+   "citas": [
+    {
+     "id": "c-337d7ea487",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La Pensión Mínima Garantizada, con un coste de unos 10.000 millones, se financiará con una tributación mínima efectiva para las grandes empresas (solo un suelo del 15 % aportaría hasta 10.000 millones al año) y con un impuesto del 2 % a los patrimonios de más de un millón de euros.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-0ba19a03ba",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Frente Amplio ha presentado hoy en Madrid, en el marco de la manifestación estatal en defensa de las pensiones públicas, dos medidas para el sistema de pensiones: una Pensión Mínima Garantizada que impida que ninguna pensión quede por debajo del Salario Mínimo Interprofesional, y la recuperación efectiva de la jubilación a los 65 años.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-911554c227",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La jubilación a los 65, otros 10.000 millones, se pagará eliminando progresivamente el tope máximo de cotización, lo que aportaría entre 7.000 y 8.500 millones, y reforzando el Mecanismo de Equidad Intergeneracional con una aportación de las empresas más automatizadas, de entre 3.000 y 4.000 millones.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-03b38439f5",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Vivir con menos de 1.000 euros después de toda una vida trabajando no es normal. Lo que vale para el salario mínimo tiene que valer para las pensiones.",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-a8b62055f2",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es una medida de igualdad entre hombres y mujeres. Son las mujeres quienes tienen las pensiones más bajas, después de toda una vida haciendo equilibrios entre el empleo y los cuidados.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "tema": "impuestos",
+   "nombre": "Impuestos",
+   "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
+   "citas": [
+    {
+     "id": "c-d434213df2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para las empresas, el impuesto se aplicará desde la primera vivienda, y a las personas físicas se hará a partir de la cuarta casa en adelante –en este caso, siempre que las propiedades tengan un valor conjunto de más de 800.000 euros–. Se gravará con un tipo del 10 % del valor de cada vivienda, salvo si se alquilan de forma asequible y estable.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-28"
+    },
+    {
+     "id": "c-f34c18f00d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El Frente Amplio propone un impuesto anual sobre el patrimonio neto: un 2% para patrimonios superiores a un millón de euros y un 3% a partir de los 50 millones. La cuota se reduciría en función de lo ya abonado por los impuestos de Patrimonio y Grandes Fortunas. No afectaría a los salarios ni a las pensiones.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-039cd1bc31",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso, el Frente Amplio propone aumentar el tipo efectivo sobre los beneficios de la gran empresa y la banca, que hoy pagan entre un 7 y un 9%, mientras que las pymes tributan al 19 o 20%. Para ello, se revisarán las desgravaciones de las que se benefician los grandes grupos, como las que obtienen por las pérdidas del año anterior.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-337d7ea487",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La Pensión Mínima Garantizada, con un coste de unos 10.000 millones, se financiará con una tributación mínima efectiva para las grandes empresas (solo un suelo del 15 % aportaría hasta 10.000 millones al año) y con un impuesto del 2 % a los patrimonios de más de un millón de euros.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-0ddd2481bb",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "no existe el derecho a acumular riqueza, pero sí a la salud, a la educación y a la vida digna",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-911554c227",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La jubilación a los 65, otros 10.000 millones, se pagará eliminando progresivamente el tope máximo de cotización, lo que aportaría entre 7.000 y 8.500 millones, y reforzando el Mecanismo de Equidad Intergeneracional con una aportación de las empresas más automatizadas, de entre 3.000 y 4.000 millones.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-24"
+    }
+   ]
+  },
+  {
+   "tema": "economia",
+   "nombre": "Economía y empresas",
+   "definicion": "Industria, empresas, comercio, turismo, cuentas públicas y coste de la vida. Los impuestos y el empleo van aparte.",
+   "citas": [
+    {
+     "id": "c-039cd1bc31",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso, el Frente Amplio propone aumentar el tipo efectivo sobre los beneficios de la gran empresa y la banca, que hoy pagan entre un 7 y un 9%, mientras que las pymes tributan al 19 o 20%. Para ello, se revisarán las desgravaciones de las que se benefician los grandes grupos, como las que obtienen por las pérdidas del año anterior.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-2409a6ab1c",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El objetivo actual es la lucha contra la especulación, los márgenes empresariales desorbitados y que esa economía llegue a la vida cotidiana de las familias españolas.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-4e44010942",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Controlar los precios de los bienes básicos y de la energía para proteger a las familias.",
+     "quien": "el partido, comunicado oficial de Izquierda Unida ante la huelga del 11N",
+     "fecha": "2026-11-04"
+    },
+    {
+     "id": "c-704b4ace01",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Feijóo, Abascal, Prohens, haceros a la idea de que subiremos el salario mínimo, de que acabaremos con la especulación, mejoraremos las condiciones de los trabajadores, limitaremos la compra a no residentes y limitaremos los precios de los alimentos básicos",
+     "quien": "Carme Gomila, cabeza de lista de Ara Més-Front Ampli en Baleares",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-35643b255c",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Una isla no puede ser un sitio al que todo el mundo quiere venir a veranear y en el que nadie pueda venir a trabajar",
+     "quien": "Verónica Martínez Barbero, coordinadora de Movimiento Sumar y candidata del Frente Amplio al Congreso",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-205b96fb6e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Solo de esta manera será posible que las nuevas generaciones de productores y de agricultores tengan futuro en un sector económico pujante como el del aceite de oliva",
+     "quien": "Enrique Santiago, portavoz parlamentario de IU y candidato del Frente Amplio por Sevilla",
+     "fecha": "2026-11-05"
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "nombre": "Sanidad",
+   "definicion": "Sanidad pública, listas de espera, atención primaria, salud mental y adicciones.",
+   "citas": [
+    {
+     "id": "c-0ddd2481bb",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "no existe el derecho a acumular riqueza, pero sí a la salud, a la educación y a la vida digna",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-0aea354bbe",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Exigimos una sanidad pública y de calidad que atienda sin prejuicios, sin patologizar y sin violencia institucional a las personas trans, no binarias e intersexuales, y sin demoras insoportables.",
+     "quien": "el partido, Manifiesto de Izquierda Unida por el Orgullo 2026",
+     "fecha": "2026-06-21"
+    },
+    {
+     "id": "c-34c598a016",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En Izquierda Unida, luchamos por un mundo rural con futuro, donde se garantice el acceso a servicios públicos esenciales como la sanidad, la educación y la vivienda.",
+     "quien": "el partido, Declaración política de la Conferencia Interparlamentaria de Izquierda Unida",
+     "fecha": "2026-02-02"
+    },
+    {
+     "id": "c-8cdcc9fcbe",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En Izquierda Unida sostenemos que blindar constitucionalmente el derecho a la interrupción voluntaria del embarazo sólo tendrá sentido si se hace con garantías reales y eficacia jurídica, integrándolo no solo en el artículo 43 de la Constitución Española -dedicado a los principios receptores de la política social y económica- sino también en el artículo 15, donde se reconocen los derechos fundamentales a la vida, a la integridad física y moral, y a la dignidad.",
+     "quien": "el partido, Comunicado de Izquierda Unida por el 28 de septiembre",
+     "fecha": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "nombre": "Educación",
+   "definicion": "Escuela, formación profesional, universidad y becas.",
+   "citas": [
+    {
+     "id": "c-0ddd2481bb",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "no existe el derecho a acumular riqueza, pero sí a la salud, a la educación y a la vida digna",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-df2e015457",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Un número máximo de 20 alumnos y alumnas por aula en Primaria y Educación Secundaria obligatoria, y 25 para Bachillerato",
+     "quien": "Toni Valero, Diputado y portavoz de Izquierda Unida en Educación",
+     "fecha": "2025-09-11"
+    },
+    {
+     "id": "c-4ef471146b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "todas las categorías de alumnado con Necesidades Específicas de Apoyo Educativo (NEAE) contempladas en la ley educativa cuenten doble a efectos de ratio de aula, pudiéndose incrementar ese coeficiente dependiendo de la gravedad del caso",
+     "quien": "Toni Valero, Diputado y portavoz de Izquierda Unida en Educación",
+     "fecha": "2025-09-11"
+    },
+    {
+     "id": "c-685ce1069b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "reforzar la red de universidades públicas en todo el territorio desde el punto de vista de su organización y financiación sostenible",
+     "quien": "Enrique Santiago y Francisco Sierra, Portavoz parlamentario de Izquierda Unida y diputado de Izquierda Unida en el Congreso (iniciativa parlamentaria conjunta)",
+     "fecha": "2025-12-05"
+    },
+    {
+     "id": "c-97448c0b91",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "desarrollar un plan estatal de formación del profesorado en materia de Memoria Democrática, Derechos Humanos y cultura de paz",
+     "quien": "el partido, Proposición no de ley de los diputados de Izquierda Unida",
+     "fecha": "2025-12-29"
+    },
+    {
+     "id": "c-34c598a016",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En Izquierda Unida, luchamos por un mundo rural con futuro, donde se garantice el acceso a servicios públicos esenciales como la sanidad, la educación y la vivienda.",
+     "quien": "el partido, Declaración política de la Conferencia Interparlamentaria de Izquierda Unida",
+     "fecha": "2026-02-02"
+    }
+   ]
+  },
+  {
+   "tema": "familias-y-cuidados",
+   "nombre": "Familias y servicios sociales",
+   "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
+   "citas": [
+    {
+     "id": "c-4ef471146b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "todas las categorías de alumnado con Necesidades Específicas de Apoyo Educativo (NEAE) contempladas en la ley educativa cuenten doble a efectos de ratio de aula, pudiéndose incrementar ese coeficiente dependiendo de la gravedad del caso",
+     "quien": "Toni Valero, Diputado y portavoz de Izquierda Unida en Educación",
+     "fecha": "2025-09-11"
+    },
+    {
+     "id": "c-bfde659d27",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "va a permitir que se les puedan dar derechos y protección específica, porque no es lo mismo ser una familia con dos progenitores que serlo con uno solo y, evidentemente, necesitamos que esas familias tengan el apoyo que merecen",
+     "quien": "Ernest Urtasun, Ministro de Cultura y número 2 de la lista Comuns-Front Ampli al Congreso por Barcelona",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-d76e700b66",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "si dejamos que las plataformas se autorregulen y no damos a la CNMC la supervisión de estas grandes plataformas, ellos siempre tendrán la excusa de que el marco normativo va por detrás",
+     "quien": "Tesh Sidi, Portavoz del Grupo Parlamentario Plurinacional Sumar y número 2 de Frente Amplio al Congreso por Madrid",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-b70141fe15",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Urge modificar la Ley Orgánica de Protección Integral a la Infancia y Adolescencia frente a la Violencia (LOPIVI), para garantizar que ningún niño o niña quede desprotegido.",
+     "quien": "el partido, Declaración política de la Conferencia Interparlamentaria de Izquierda Unida",
+     "fecha": "2026-02-02"
+    },
+    {
+     "id": "c-6b5b2c56f1",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "exige descongestionar la ciudad mediante traslados a la Península, para continuar en destino la tramitación de cada expediente: asilo, reagrupación familiar o devoluciones. En cualquier caso, es evidente que la prioridad es que los niños y niñas reciban la máxima protección",
+     "quien": "el partido, Posición de Izquierda Unida sobre Ceuta",
+     "fecha": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "nombre": "Inmigración",
+   "definicion": "Entrada y control de fronteras, regularización, integración, asilo, nacionalidad y emigración.",
+   "citas": [
+    {
+     "id": "c-cba97f1c2c",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La estrategia europea de externalizar fronteras, la gestión de las fronteras con países que no respetan los derechos humanos, es claramente un fracaso y nos hace más vulnerables",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-7f149c403a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El colmo es que los que están generando esas situaciones de desigualdad luego vayan a los barrios a señalar a los migrantes como los responsables de la delincuencia, cuando es evidente que hay una relación directa con la desigualdad",
+     "quien": "Emilio Delgado, cabeza de lista del Frente Amplio por Madrid",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-2357524fcf",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "el urgente traslado a la Península de las personas que están esperando que se resuelva su expediente, tanto de menores como de adultos",
+     "quien": "Antonio Maíllo, Coordinador federal de Izquierda Unida",
+     "fecha": "2026-09-05"
+    },
+    {
+     "id": "c-6b5b2c56f1",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "exige descongestionar la ciudad mediante traslados a la Península, para continuar en destino la tramitación de cada expediente: asilo, reagrupación familiar o devoluciones. En cualquier caso, es evidente que la prioridad es que los niños y niñas reciban la máxima protección",
+     "quien": "el partido, Posición de Izquierda Unida sobre Ceuta",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-1fe433d8f9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "aparición de grupos de ideología fascista que se atribuyen tareas de vigilancia, identificación o retención de personas supone un grave riesgo de intimidación, discriminación racial, alteración de la convivencia y violencia contra la población migrante",
+     "quien": "Nahuel González y Enrique Santiago, Diputado de IU por Valencia y portavoz parlamentario de IU",
+     "fecha": "2026-08-27"
+    }
+   ]
+  },
+  {
+   "tema": "seguridad-y-justicia",
+   "nombre": "Seguridad y justicia",
+   "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
+   "citas": [
+    {
+     "id": "c-7f149c403a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El colmo es que los que están generando esas situaciones de desigualdad luego vayan a los barrios a señalar a los migrantes como los responsables de la delincuencia, cuando es evidente que hay una relación directa con la desigualdad",
+     "quien": "Emilio Delgado, cabeza de lista del Frente Amplio por Madrid",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-d60c5ee3c4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La propuesta de seguridad pasa por reforzar la comunidad, los barrios y sobre todo garantizar la vivienda, garantizar el salario digno, pensiones y servicios públicos dignos. Esa es la mayor seguridad que la izquierda tiene que ofrecer para que efectivamente la gente no tenga miedo en su día a día.",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-10-23"
+    },
+    {
+     "id": "c-b70141fe15",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Urge modificar la Ley Orgánica de Protección Integral a la Infancia y Adolescencia frente a la Violencia (LOPIVI), para garantizar que ningún niño o niña quede desprotegido.",
+     "quien": "el partido, Declaración política de la Conferencia Interparlamentaria de Izquierda Unida",
+     "fecha": "2026-02-02"
+    },
+    {
+     "id": "c-1fe433d8f9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "aparición de grupos de ideología fascista que se atribuyen tareas de vigilancia, identificación o retención de personas supone un grave riesgo de intimidación, discriminación racial, alteración de la convivencia y violencia contra la población migrante",
+     "quien": "Nahuel González y Enrique Santiago, Diputado de IU por Valencia y portavoz parlamentario de IU",
+     "fecha": "2026-08-27"
+    },
+    {
+     "id": "c-7857bf59f9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "en Izquierda Unida tenemos una preocupación desde hace tiempo con la entrada de elementos reaccionarios importantes en las fuerzas de seguridad del Estado y, sobre todo, con operaciones de actuaciones paralelas al Estado que se han desarrollado",
+     "quien": "Antonio Maíllo, Coordinador federal de Izquierda Unida",
+     "fecha": "2026-09-05"
+    }
+   ]
+  },
+  {
+   "tema": "democracia-e-instituciones",
+   "nombre": "Democracia e instituciones",
+   "definicion": "Funcionamiento de las instituciones, corrupción, transparencia, sistema electoral, administración pública y medios de comunicación.",
+   "citas": [
+    {
+     "id": "c-0c2e3ad573",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No necesitamos humillar y mentir para convencer. Por ese motivo, desde el Frente Amplio tenemos el firme compromiso de no caer en esa trampa, pues genera un precedente muy peligroso según el cual lo que hacen los adversarios políticos nos legitima para repetirlo y aumentarlo. No lo vamos a hacer",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-10-27"
+    },
+    {
+     "id": "c-e3aa29dba4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Estamos convencidos de que es una urgencia democrática devolver al Senado el papel que le asigna la Constitución, es decir, ser un verdadero lugar de encuentro y cooperación entre territorios, comunidades y ciudades autónomas.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-17"
+    },
+    {
+     "id": "c-7529b90e69",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Vamos a defender una televisión pública, crítica, sin censura, sin fascismo y eso sí con grandes dosis de feminismo y de sentido del humor",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-2f7ce165f4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nosotros no vamos a entrar en esas tácticas, no utilizaremos la inteligencia artificial para atacar a los adversarios y esperamos que el resto de partidos políticos asuman ese mismo compromiso.",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-10-23"
+    },
+    {
+     "id": "c-7857bf59f9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "en Izquierda Unida tenemos una preocupación desde hace tiempo con la entrada de elementos reaccionarios importantes en las fuerzas de seguridad del Estado y, sobre todo, con operaciones de actuaciones paralelas al Estado que se han desarrollado",
+     "quien": "Antonio Maíllo, Coordinador federal de Izquierda Unida",
+     "fecha": "2026-09-05"
+    },
+    {
+     "id": "c-8cdcc9fcbe",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En Izquierda Unida sostenemos que blindar constitucionalmente el derecho a la interrupción voluntaria del embarazo sólo tendrá sentido si se hace con garantías reales y eficacia jurídica, integrándolo no solo en el artículo 43 de la Constitución Española -dedicado a los principios receptores de la política social y económica- sino también en el artículo 15, donde se reconocen los derechos fundamentales a la vida, a la integridad física y moral, y a la dignidad.",
+     "quien": "el partido, Comunicado de Izquierda Unida por el 28 de septiembre",
+     "fecha": "2026-09-28"
+    }
+   ]
+  },
+  {
+   "tema": "organizacion-territorial",
+   "nombre": "Organización territorial",
+   "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+   "citas": [
+    {
+     "id": "c-e3aa29dba4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Estamos convencidos de que es una urgencia democrática devolver al Senado el papel que le asigna la Constitución, es decir, ser un verdadero lugar de encuentro y cooperación entre territorios, comunidades y ciudades autónomas.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-17"
+    },
+    {
+     "id": "c-a33ee13715",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "una maravilla tener tanta lengua y que eso sea un patrimonio; que nos sintamos todos, vivamos donde vivamos y hablemos la lengua que hablemos, como un patrimonio común",
+     "quien": "Antonio Maíllo, coordinador federal de Izquierda Unida",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-5e75294667",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "cada euro de los 1.333 millones que ya se han comprometido para que la línea Madrid-Barcelona vaya a 350 kilómetros por hora irá a Rodalies",
+     "quien": "Ernest Urtasun, ministro de Cultura y número 2 de Comuns-Front Ampli por Barcelona",
+     "fecha": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "tema": "medio-ambiente-y-energia",
+   "nombre": "Medio ambiente y energía",
+   "definicion": "Clima, energía, agua, contaminación, costas, montes, protección de la naturaleza y bienestar animal.",
+   "citas": [
+    {
+     "id": "c-4e44010942",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Controlar los precios de los bienes básicos y de la energía para proteger a las familias.",
+     "quien": "el partido, comunicado oficial de Izquierda Unida ante la huelga del 11N",
+     "fecha": "2026-11-04"
+    },
+    {
+     "id": "c-55b144f643",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por último, Colau ha propuesto destinar de forma inmediata a la mejora de la red ferroviaria los fondos del plan DORA, que contempla la ampliación de los aeropuertos y suma casi 13.000 millones de euros.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-11-02"
+    },
+    {
+     "id": "c-a6199a89d3",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Frente a la inversión centrada en el avión, el medio de transporte más contaminante, y ligado aun un modelo turístico insostenible para las personas, para el clima y para el territorio, el Frente Amplio apuesta por un país y unas áreas metropolitanas articuladas en torno al tren (cercanías, media distancia como alta velocidad).",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-11-02"
+    },
+    {
+     "id": "c-7dff86e017",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El tren no está para enriquecer a empresas privadas. Está para garantizar el derecho a la movilidad, conectar nuestros pueblos y ciudades y prestar un servicio público de calidad. Es también una herramienta fundamental para afrontar la emergencia climática",
+     "quien": "Toni Valero, diputado de IU y candidato del Frente Amplio al Congreso (n.º 3 por Madrid)",
+     "fecha": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "tema": "campo-y-medio-rural",
+   "nombre": "Campo y medio rural",
+   "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+   "citas": [
+    {
+     "id": "c-205b96fb6e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Solo de esta manera será posible que las nuevas generaciones de productores y de agricultores tengan futuro en un sector económico pujante como el del aceite de oliva",
+     "quien": "Enrique Santiago, portavoz parlamentario de IU y candidato del Frente Amplio por Sevilla",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-ca7be6a4ef",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Supone una amenaza directa para el sector primario y para el conjunto del medio rural. El tratado profundiza un modelo económico que prioriza los intereses del gran capital agroindustrial frente a la agricultura y ganadería de carácter social, familiar y de pequeña escala que son estratégicas para el medio rural de nuestro país.",
+     "quien": "el partido, Comunicado de Izquierda Unida sobre el acuerdo UE-Mercosur",
+     "fecha": "2026-01-27"
+    },
+    {
+     "id": "c-d2e485c625",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "golpea claramente el empleo rural, la ganadería extensiva y el equilibrio territorial. Y este golpe es doble, porque mientras se está negociando y aprobando este tratado, vemos cómo la derecha europea impulsa un marco financiero plurianual que recorta la PAC para dar más recursos al rearme",
+     "quien": "Toni Valero, Diputado y portavoz de Izquierda Unida en Agricultura",
+     "fecha": "2025-12-19"
+    },
+    {
+     "id": "c-34c598a016",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En Izquierda Unida, luchamos por un mundo rural con futuro, donde se garantice el acceso a servicios públicos esenciales como la sanidad, la educación y la vivienda.",
+     "quien": "el partido, Declaración política de la Conferencia Interparlamentaria de Izquierda Unida",
+     "fecha": "2026-02-02"
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "nombre": "Transporte e infraestructuras",
+   "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+   "citas": [
+    {
+     "id": "c-8e3bd9348d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las propuestas del Frente Amplio para este pacto pasan, en primer lugar, por unificar Renfe y Adif, de manera que haya un gran operador público que lidere el sector y para favorecer la coordinación entre trenes e infraestructuras, aumentando la seguridad y haga más eficiente la inversión.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-11-02"
+    },
+    {
+     "id": "c-55b144f643",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por último, Colau ha propuesto destinar de forma inmediata a la mejora de la red ferroviaria los fondos del plan DORA, que contempla la ampliación de los aeropuertos y suma casi 13.000 millones de euros.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-11-02"
+    },
+    {
+     "id": "c-a6199a89d3",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Frente a la inversión centrada en el avión, el medio de transporte más contaminante, y ligado aun un modelo turístico insostenible para las personas, para el clima y para el territorio, el Frente Amplio apuesta por un país y unas áreas metropolitanas articuladas en torno al tren (cercanías, media distancia como alta velocidad).",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-11-02"
+    },
+    {
+     "id": "c-5e75294667",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "cada euro de los 1.333 millones que ya se han comprometido para que la línea Madrid-Barcelona vaya a 350 kilómetros por hora irá a Rodalies",
+     "quien": "Ernest Urtasun, ministro de Cultura y número 2 de Comuns-Front Ampli por Barcelona",
+     "fecha": "2026-11-06"
+    },
+    {
+     "id": "c-7dff86e017",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El tren no está para enriquecer a empresas privadas. Está para garantizar el derecho a la movilidad, conectar nuestros pueblos y ciudades y prestar un servicio público de calidad. Es también una herramienta fundamental para afrontar la emergencia climática",
+     "quien": "Toni Valero, diputado de IU y candidato del Frente Amplio al Congreso (n.º 3 por Madrid)",
+     "fecha": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "tema": "igualdad-y-derechos",
+   "nombre": "Igualdad y derechos",
+   "definicion": "Igualdad entre mujeres y hombres, violencia machista, derechos LGTBI, libertades civiles, memoria democrática y relación con las religiones.",
+   "citas": [
+    {
+     "id": "c-a2df07cef4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Como en Pan y Rosas, la lucha feminista es el motor para conquistar hoy la vivienda, el salario digno y la reducción de la jornada",
+     "quien": "Verónica Martínez Barbero, coordinadora de Movimiento Sumar y candidata del Frente Amplio al Congreso",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-a8b62055f2",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es una medida de igualdad entre hombres y mujeres. Son las mujeres quienes tienen las pensiones más bajas, después de toda una vida haciendo equilibrios entre el empleo y los cuidados.",
+     "quien": "el partido, nota de prensa oficial",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-0aea354bbe",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Exigimos una sanidad pública y de calidad que atienda sin prejuicios, sin patologizar y sin violencia institucional a las personas trans, no binarias e intersexuales, y sin demoras insoportables.",
+     "quien": "el partido, Manifiesto de Izquierda Unida por el Orgullo 2026",
+     "fecha": "2026-06-21"
+    },
+    {
+     "id": "c-97448c0b91",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "desarrollar un plan estatal de formación del profesorado en materia de Memoria Democrática, Derechos Humanos y cultura de paz",
+     "quien": "el partido, Proposición no de ley de los diputados de Izquierda Unida",
+     "fecha": "2025-12-29"
+    },
+    {
+     "id": "c-8cdcc9fcbe",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En Izquierda Unida sostenemos que blindar constitucionalmente el derecho a la interrupción voluntaria del embarazo sólo tendrá sentido si se hace con garantías reales y eficacia jurídica, integrándolo no solo en el artículo 43 de la Constitución Española -dedicado a los principios receptores de la política social y económica- sino también en el artículo 15, donde se reconocen los derechos fundamentales a la vida, a la integridad física y moral, y a la dignidad.",
+     "quien": "el partido, Comunicado de Izquierda Unida por el 28 de septiembre",
+     "fecha": "2026-09-28"
+    },
+    {
+     "id": "c-3648618863",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "La Ley estatal LGTBI y trans debe desplegarse plenamente en todos sus ámbitos: empleo, educación, sanidad, servicios sociales, deporte, cultura, memoria democrática, protección frente a la violencia y garantía de derechos para las personas trans migrantes. No basta con aprobar derechos: hay que hacerlos efectivos.",
+     "quien": "el partido, Manifiesto de Izquierda Unida por el Orgullo 2026",
+     "fecha": "2026-06-21"
+    }
+   ]
+  },
+  {
+   "tema": "politica-exterior-y-defensa",
+   "nombre": "Política exterior y defensa",
+   "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
+   "citas": [
+    {
+     "id": "c-cba97f1c2c",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La estrategia europea de externalizar fronteras, la gestión de las fronteras con países que no respetan los derechos humanos, es claramente un fracaso y nos hace más vulnerables",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-e8ab993868",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Todavía por los puertos de nuestro país está llegando material bélico a Israel. Eso se debe interrumpir completamente",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-e6c5211ddc",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Sería inadmisible que se recorte de los servicios públicos para entrar en la escalada armamentística",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-b24a581f21",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España debe seguir siendo y debe ser aún más lo que creo que quiere la mayoría de la población, no solo de España, sino del mundo entero, que es que nosotros seamos los líderes de la paz, no de la guerra",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-9564716588",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nuestro compromiso con el Sáhara y con las personas saharauis es total",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-ca7be6a4ef",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Supone una amenaza directa para el sector primario y para el conjunto del medio rural. El tratado profundiza un modelo económico que prioriza los intereses del gran capital agroindustrial frente a la agricultura y ganadería de carácter social, familiar y de pequeña escala que son estratégicas para el medio rural de nuestro país.",
+     "quien": "el partido, Comunicado de Izquierda Unida sobre el acuerdo UE-Mercosur",
+     "fecha": "2026-01-27"
+    },
+    {
+     "id": "c-d2e485c625",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "golpea claramente el empleo rural, la ganadería extensiva y el equilibrio territorial. Y este golpe es doble, porque mientras se está negociando y aprobando este tratado, vemos cómo la derecha europea impulsa un marco financiero plurianual que recorta la PAC para dar más recursos al rearme",
+     "quien": "Toni Valero, Diputado y portavoz de Izquierda Unida en Agricultura",
+     "fecha": "2025-12-19"
+    }
+   ]
+  },
+  {
+   "tema": "ciencia-cultura-y-digital",
+   "nombre": "Ciencia, cultura y digital",
+   "definicion": "Investigación, tecnología e inteligencia artificial, cultura y deporte.",
+   "citas": [
+    {
+     "id": "c-a2df3bbf1e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "O aprovechamos la tecnología para que unos pocos se hagan millonarios y millones de personas pasen a ser prescindibles, o aprovechamos la tecnología para trabajar menos y vivir mejor. Nosotros estamos en esa segunda tesis",
+     "quien": "Emilio Delgado, cabeza de lista del Frente Amplio por Madrid",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-0c2e3ad573",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No necesitamos humillar y mentir para convencer. Por ese motivo, desde el Frente Amplio tenemos el firme compromiso de no caer en esa trampa, pues genera un precedente muy peligroso según el cual lo que hacen los adversarios políticos nos legitima para repetirlo y aumentarlo. No lo vamos a hacer",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-10-27"
+    },
+    {
+     "id": "c-7529b90e69",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Vamos a defender una televisión pública, crítica, sin censura, sin fascismo y eso sí con grandes dosis de feminismo y de sentido del humor",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-2f7ce165f4",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nosotros no vamos a entrar en esas tácticas, no utilizaremos la inteligencia artificial para atacar a los adversarios y esperamos que el resto de partidos políticos asuman ese mismo compromiso.",
+     "quien": "Ada Colau, candidata del Frente Amplio a la Presidencia del Gobierno y número 1 por Barcelona",
+     "fecha": "2026-10-23"
+    },
+    {
+     "id": "c-d76e700b66",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "si dejamos que las plataformas se autorregulen y no damos a la CNMC la supervisión de estas grandes plataformas, ellos siempre tendrán la excusa de que el marco normativo va por detrás",
+     "quien": "Tesh Sidi, Portavoz del Grupo Parlamentario Plurinacional Sumar y número 2 de Frente Amplio al Congreso por Madrid",
+     "fecha": "2026-11-10"
+    }
+   ]
+  }
+ ]
+}

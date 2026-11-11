@@ -1,0 +1,103 @@
+{
+  "revisiones": [
+    {
+      "tema": "pensiones",
+      "veredicto": "corregido",
+      "problemas": [
+        "La frase 4 usaba como apoyo c-91818438c1 («va a salir fundamentalmente de la sanidad y las pensiones»), que no dice de qué gasto ni de qué recorte habla; no respalda que el gasto en armamento reste recursos a las pensiones. Se quita ese apoyo y la frase queda respaldada solo por c-a107807ed1, que sí lo dice.",
+        "Frase 3: la cita habla de coeficientes reductores «a la pensión de jubilación», no «a la jubilación»; se ajusta la redacción."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende un sistema público de pensiones y quiere que ninguna pensión sea inferior al salario mínimo interprofesional y que se actualicen con el IPC.",
+          "apoyos": ["c-fd34c54286", "c-feefe0055e", "c-a107807ed1"]
+        },
+        {
+          "texto": "Propone un aumento extraordinario del 20 % de las pensiones mínimas y no contributivas, con el compromiso de que alcancen al menos el umbral de pobreza.",
+          "apoyos": ["c-a11e17ad27"]
+        },
+        {
+          "texto": "Plantea que no se apliquen coeficientes reductores a la pensión de jubilación tras 40 años cotizados, también a quienes ya están jubilados.",
+          "apoyos": ["c-f47a0b7288"]
+        },
+        {
+          "texto": "Sostiene que el gasto en armamento resta recursos a las pensiones.",
+          "apoyos": ["c-a107807ed1"]
+        }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "corregido",
+      "problemas": [
+        "La frase 4 (pedir la expulsión de la Policía Nacional del agente al que atribuye una agresión en Valencia) recoge un caso individual, no una línea de postura; se elimina. La cita c-abce5e103d solo habla de ese caso y no permite extraer de ella una línea general sin generalizar.",
+        "Frase 3: «dirigido a disuadir las movilizaciones» suavizaba la cita c-ffb02731f9, que habla de un aumento «premeditado» que «busca asustar a la gente que quiere movilizarse»; se ajusta a la fuerza de la cita, atribuida al partido con «sostiene».",
+        "«Ley Mordaza» figura literalmente en c-279912dd6e y c-019d22a226; se mantiene entre comillas y atribuido («lo que llama»)."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Pide derogar de inmediato lo que llama «Ley Mordaza» y prohibir las balas de goma y las devoluciones en caliente.",
+          "apoyos": ["c-279912dd6e", "c-93aaa6e437", "c-019d22a226"]
+        },
+        {
+          "texto": "También propone suprimir la infracción por falta de respeto y consideración a la autoridad.",
+          "apoyos": ["c-279912dd6e"]
+        },
+        {
+          "texto": "Sostiene que hay un aumento premeditado de la violencia policial para asustar a quienes quieren movilizarse, y rechaza que la policía se use para infiltrar movimientos sociales.",
+          "apoyos": ["c-ffb02731f9", "c-ea9acf3c9f", "c-019d22a226"]
+        }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: «Ante la negociación de un traspaso de competencias» añade un contexto que la cita c-b2911182bb no da (habla de negociar «un texto», sin decir cuál ni que sea un traspaso). Se reduce a lo que la cita dice.",
+        "Frase 1: c-4634b8497b habla de impulsar «una dirección de Estado en clave republicana y plurinacional», no exactamente de «un Estado republicano y plurinacional»; se ajusta a «un proyecto de Estado».",
+        "Los términos propios del partido «soberanías compartidas» y «derecho a decidir» van entre comillas; ambos están literalmente en c-fc214e826d y c-1468c7843e."
+      ],
+      "base": "escasa",
+      "frases": [
+        {
+          "texto": "Defiende un proyecto de Estado republicano y plurinacional, un modelo confederal de «soberanías compartidas» y el «derecho a decidir».",
+          "apoyos": ["c-4634b8497b", "c-fc214e826d", "c-1468c7843e"]
+        },
+        {
+          "texto": "Sostiene que antes de hablar de competencias hay que hablar de derechos.",
+          "apoyos": ["c-b2911182bb"]
+        }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 4: la sigla INAEM es poco conocida; se desarrolla (Instituto Nacional de las Artes Escénicas y de la Música). Para mantener el total por debajo de 90 palabras se compacta la frase y se acorta ligeramente la frase 3 sin cambiar su contenido.",
+        "Frase 1: «subir los impuestos» rebajaba la fuerza de c-606afceb5b («Crujamos a impuestos a las plataformas»); se cambia por «gravar con fuertes impuestos».",
+        "Sin otros problemas: el término «genocidio» de c-23d41c820a no se adopta y las cifras (30 % y 8 %) coinciden con c-1ff21ad51b."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone crear una red social pública con un algoritmo transparente y gravar con fuertes impuestos a las plataformas que, según el partido, extienden el odio y el racismo.",
+          "apoyos": ["c-23d41c820a", "c-606afceb5b"]
+        },
+        {
+          "texto": "Quiere destinar esa recaudación a la educación sexual obligatoria y defiende educar además de prohibir.",
+          "apoyos": ["c-606afceb5b", "c-f0cd94d28b"]
+        },
+        {
+          "texto": "Pide regular la inteligencia artificial atendiendo a su impacto en el medio ambiente y el empleo, en especial en los trabajos creativos.",
+          "apoyos": ["c-290ac297b8"]
+        },
+        {
+          "texto": "Para el Instituto Nacional de las Artes Escénicas y de la Música, plantea reducir la temporalidad de la plantilla del 30 % a menos del 8 %.",
+          "apoyos": ["c-1ff21ad51b"]
+        }
+      ]
+    }
+  ]
+}

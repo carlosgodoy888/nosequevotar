@@ -1,0 +1,825 @@
+{
+  "fuente": "frente-obrero-programa-general",
+  "partido": "frente-obrero",
+  "paginas": [
+    27,
+    39
+  ],
+  "citas": [
+    {
+      "cita": "Es tarea nuestra fomentar el surgimiento de una generación radical, intransigente y disciplinada.",
+      "pagina": 28,
+      "apartado": [
+        "09 Juventud"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Fomentar una generación joven radical y disciplinada",
+      "etiquetas": [
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Debemos luchar contra la implantación de esta cultura del consumo que promueve la drogadicción, la prostitución y una vida de excesos que arruina la vida de miles de nuestros jóvenes y que promueve el sistema actual, rompiendo con la imagen de que los jóvenes solo quieren divertirse.",
+      "pagina": 28,
+      "apartado": [
+        "09 Juventud"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo de la cultura del consumo entre los jóvenes",
+      "etiquetas": [
+        "juventud",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No se puede entender la lucha por una España mejor, de progreso y soberana, sin una juventud combativa.",
+      "pagina": 28,
+      "apartado": [
+        "09 Juventud"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Papel de la juventud en el proyecto de país",
+      "etiquetas": [
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acabar con las altas tasas de paro juvenil, empezando por combinar el final de los estudios académicos con prácticas laborales que permitan salidas reales y beneficiosas para el conjunto del país.",
+      "pagina": 29,
+      "apartado": [
+        "09 Juventud"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Paro juvenil: prácticas laborales al final de los estudios",
+      "etiquetas": [
+        "empleo",
+        "juventud",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear parques de vivienda juveniles.",
+      "pagina": 29,
+      "apartado": [
+        "09 Juventud"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Creación de parques de vivienda para jóvenes",
+      "etiquetas": [
+        "vivienda",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ayudas económicas para jóvenes estudiantes y trabajadores en el proceso de emanciparse.",
+      "pagina": 29,
+      "apartado": [
+        "09 Juventud"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas económicas a la emancipación de los jóvenes",
+      "etiquetas": [
+        "vivienda",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentar la creación de asociaciones juveniles que promuevan la participación social y actividades culturales.",
+      "pagina": 29,
+      "apartado": [
+        "09 Juventud"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomento de las asociaciones juveniles",
+      "etiquetas": [
+        "juventud",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Rehabilitación de locales abandonados y su cesión de uso a las organizaciones juveniles.",
+      "pagina": 29,
+      "apartado": [
+        "09 Juventud"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cesión de locales rehabilitados a organizaciones juveniles",
+      "etiquetas": [
+        "juventud",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Luchar obstinadamente contra las mafias de narcotráfico. Persecución y condena a altas penas de cárcel a aquellos que juegan con la vida de miles de jóvenes.",
+      "pagina": 29,
+      "apartado": [
+        "09 Juventud"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Lucha contra el narcotráfico y penas altas de cárcel",
+      "etiquetas": [
+        "seguridad",
+        "justicia",
+        "drogas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Integrar los centros de desintoxicación a la sanidad pública y dotarlos de más recursos.",
+      "pagina": 29,
+      "apartado": [
+        "09 Juventud"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Centros de desintoxicación en la sanidad pública con más recursos",
+      "etiquetas": [
+        "sanidad",
+        "adicciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asimismo, se deben aumentar los mecanismos de detección en las escuelas y universidades.",
+      "pagina": 29,
+      "apartado": [
+        "09 Juventud"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Detección de drogodependencias en escuelas y universidades",
+      "etiquetas": [
+        "sanidad",
+        "educación",
+        "adicciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No se puede luchar por la igualdad, por la igualdad real, discriminando. La discriminación engendra más discriminación, nunca justicia ni igualdad. Estamos en contra de todo tipo de cupos.",
+      "pagina": 31,
+      "apartado": [
+        "10 Mujer e igualdad real"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo de los cupos y de la discriminación positiva",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La realidad es que la violencia de género no existe. No existe una violencia estructural contra las mujeres, sino que esta es multifactorial y se da en ambas direcciones.",
+      "pagina": 31,
+      "apartado": [
+        "10 Mujer e igualdad real"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Niega la existencia de la violencia de género",
+      "etiquetas": [
+        "igualdad",
+        "violencia de género"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Somos firmes defensores de la igualdad real y la lucha por conseguirla. Precisamente por ello, somos contrarios al feminismo en todas sus formas y variantes.",
+      "pagina": 32,
+      "apartado": [
+        "10 Mujer e igualdad real"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de la igualdad real y oposición al feminismo",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogación parcial o total de todas las leyes basadas en la discriminación positiva. Supresión de los cupos.",
+      "pagina": 32,
+      "apartado": [
+        "10 Mujer e igualdad real"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogar leyes de discriminación positiva y suprimir cupos",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogación de la Ley Trans. Es necesario proteger a los niños y adolescentes del adoctrinamiento queer, que solo crea y agrava problemas.",
+      "pagina": 32,
+      "apartado": [
+        "10 Mujer e igualdad real"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogación de la Ley Trans",
+      "etiquetas": [
+        "igualdad",
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Supresión del Ministerio de Igualdad.",
+      "pagina": 32,
+      "apartado": [
+        "10 Mujer e igualdad real"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión del Ministerio de Igualdad",
+      "etiquetas": [
+        "igualdad",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El presupuesto del ministerio será destinado en su totalidad a cuestiones sociales.",
+      "pagina": 32,
+      "apartado": [
+        "10 Mujer e igualdad real"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Presupuesto del Ministerio de Igualdad a cuestiones sociales",
+      "etiquetas": [
+        "igualdad",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulso de planes de apoyo económico para fomentar la natalidad sin que la maternidad suponga un retroceso para las mujeres en sus carreras laborales ni en el acceso y continuidad de sus estudios. La mujer no debe estar discriminada en ningún ámbito.",
+      "pagina": 32,
+      "apartado": [
+        "10 Mujer e igualdad real"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Planes de apoyo económico a la natalidad y la maternidad",
+      "etiquetas": [
+        "familia",
+        "igualdad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implantación de planes contra la trata y la explotación sexual. La prostitución es una industria que se basa en el sufrimiento humano y, como tal, debemos luchar contra ella.",
+      "pagina": 32,
+      "apartado": [
+        "10 Mujer e igualdad real"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Planes contra la trata, la explotación sexual y la prostitución",
+      "etiquetas": [
+        "igualdad",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibición y persecución de los vientres de alquiler a nivel nacional e internacional.",
+      "pagina": 32,
+      "apartado": [
+        "10 Mujer e igualdad real"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de la gestación subrogada",
+      "etiquetas": [
+        "igualdad",
+        "familia",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se perseguirá la compra de vientres de alquiler que se realicen fuera de España, para ser criados posteriormente en nuestro país",
+      "pagina": 32,
+      "apartado": [
+        "10 Mujer e igualdad real"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Persecución de la gestación subrogada contratada en el extranjero",
+      "etiquetas": [
+        "igualdad",
+        "familia",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "España necesita españoles para resurgir, no fomentar el multiculturalismo y la desaparición paulatina de lo que somos.",
+      "pagina": 34,
+      "apartado": [
+        "11 Natalidad y familia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Natalidad nacional frente a multiculturalismo",
+      "etiquetas": [
+        "familia",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La inmigración controlada es sostenible para un país, pero en un número asumible por el país receptor; en España ya hemos rebasado el límite del volumen migratorio que el país puede soportar con creces.",
+      "pagina": 34,
+      "apartado": [
+        "11 Natalidad y familia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Considera superado el límite de inmigración asumible por España",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tener descendencia, formar una familia debería ser fomentado desde el Estado y la propia sociedad.",
+      "pagina": 34,
+      "apartado": [
+        "11 Natalidad y familia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "El Estado debe fomentar la formación de familias",
+      "etiquetas": [
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Creación de planes estatales para el aumento de la natalidad nacional.",
+      "pagina": 34,
+      "apartado": [
+        "11 Natalidad y familia"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Planes estatales para aumentar la natalidad",
+      "etiquetas": [
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se facilitará que las familias tengan más hijos, convirtiéndose en familias numerosas, concediéndoles ventajas fiscales y ayudas económicas sobre las familias con menos hijos o con ninguno.",
+      "pagina": 34,
+      "apartado": [
+        "11 Natalidad y familia"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ventajas fiscales y ayudas para familias numerosas",
+      "etiquetas": [
+        "familia",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El objetivo principal de estos planes debe ser aumentar la media de hijos por mujer a más de dos.",
+      "pagina": 34,
+      "apartado": [
+        "11 Natalidad y familia"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Objetivo de más de dos hijos por mujer",
+      "etiquetas": [
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se construirán guarderías y jardines de infancia públicos y gratuitos para facilitar la compatibilidad del trabajo y la maternidad.",
+      "pagina": 34,
+      "apartado": [
+        "11 Natalidad y familia"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Guarderías y jardines de infancia públicos y gratuitos",
+      "etiquetas": [
+        "familia",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se alargarán las bajas por paternidad y maternidad y se obligará a las empresas a ser flexibles parcialmente en cuanto al teletrabajo, reducción de jornada y modificación de horarios, para poder conciliar trabajo y el cuidado de los hijos.",
+      "pagina": 35,
+      "apartado": [
+        "11 Natalidad y familia"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bajas parentales más largas y flexibilidad laboral obligatoria para conciliar",
+      "etiquetas": [
+        "familia",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Creación de estructuras para la protección del núcleo familiar y la infancia. Otorgando psicólogos, terapeutas y trabajadores sociales para la facilitación de la correcta vida en familia.",
+      "pagina": 35,
+      "apartado": [
+        "11 Natalidad y familia"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estructuras de protección de la familia y la infancia",
+      "etiquetas": [
+        "familia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibición en todos los organismos públicos de la propaganda contraria a la familia y la natalidad. Bastante daño hacen las modas del sistema y las grandes empresas que las promueven para encima estar llevando a cabo estas actividades con dinero del Estado.",
+      "pagina": 35,
+      "apartado": [
+        "11 Natalidad y familia"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir en organismos públicos mensajes contrarios a la natalidad",
+      "etiquetas": [
+        "familia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "L a situación actual del medio rural en España es insostenible, totalmente sofocado por la Agenda 2030 y las decisiones de la UE y su Política Agrícola Común (PAC), quienes determinan qué, cuándo y cuánto producir en el campo español.",
+      "pagina": 37,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Situación del medio rural, atribuida a Agenda 2030 y PAC",
+      "etiquetas": [
+        "agricultura y pesca",
+        "unión europea",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La caza, una actividad esencial para la sostenibilidad y regulación de los ecosistemas, en el que la ausencia de planificación y control real pone en peligro la seguridad y biodiversidad de la fauna de nuestros bosques y montañas, es necesario defender la caza como un actividad regulada y esencial, frente al “lobby ecologista” que la criminaliza.",
+      "pagina": 37,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de la caza como actividad regulada",
+      "etiquetas": [
+        "caza",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Romper con las políticas agrarias de la UE (PAC) y los Tratados Internacionales que merman nuestra capacidad productiva, derogación de las leyes que contribuyan a la desaparición del campo español.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ruptura con la PAC y con tratados internacionales agrarios",
+      "etiquetas": [
+        "agricultura y pesca",
+        "unión europea",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Expropiar las tierras sin usar en propiedad de grandes terratenientes y reparto entre los agricultores y cooperativas para el aprovechamiento colectivo.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Expropiación de tierras sin usar de terratenientes y reparto",
+      "etiquetas": [
+        "agricultura y pesca",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibición de la construcción de parques solares en tierras aptas para el cultivo.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir parques solares en tierras cultivables",
+      "etiquetas": [
+        "agricultura y pesca",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentar la creación de cooperativas agrarias, facilitando la concentración parcelaria, que permitan a los pequeños productores dar salida a sus productos, compartiendo de forma eficiente los recursos.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomento de cooperativas agrarias y concentración parcelaria",
+      "etiquetas": [
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Controlar exhaustivamente la normativa laboral y las leyes de prevención de riesgos para minimizar al máximo posible los accidentes frecuentes en el sector. Perseguir sin tregua a los explotadores en el campo y en el resto del sector primario.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Control de la normativa laboral en el sector primario",
+      "etiquetas": [
+        "agricultura y pesca",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reivindicar nuestro derecho de explotación de las aguas españolas sin ceder ante otros países.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Derecho de explotación de las aguas españolas",
+      "etiquetas": [
+        "agricultura y pesca",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentar la práctica de la pesca sostenible asegurando la reproducción y conservación de las especies y la creación de piscifactorías para asegurar el control y suministro de especies marinas.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Pesca sostenible y creación de piscifactorías",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Invertir en estudios y planes hidrográficos para repartir de forma eficiente el agua y terminar con la sequía de algunos territorios del país.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Inversión en planes hidrográficos y reparto del agua",
+      "etiquetas": [
+        "agua",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Poner fin al derribo de presas.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fin del derribo de presas",
+      "etiquetas": [
+        "agua",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Priorizar la limpieza y mantenimiento de los ríos, lagos y embalses para garantizar fuentes de agua potable y de riego saludables y duraderos.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Limpieza y mantenimiento de ríos, lagos y embalses",
+      "etiquetas": [
+        "agua",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Elaborar planes de recuperación de la biodiversidad y del patrimonio natural. Proteger incansablemente especies en peligro de extinción y luchar por prevenir y reducir el impacto de las especies invasoras.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Planes de biodiversidad y protección de especies amenazadas",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Determinar la caza y el control poblacional de la fauna como competencia del Estado.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Caza y control de fauna como competencia estatal",
+      "etiquetas": [
+        "caza",
+        "organización territorial",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se reforzarán los cuerpos rurales especializados en la sostenibilidad de los ecosistemas, que se apoyarán en los cazadores locales para el control de poblaciones y la protección de las explotaciones agrícolas y ganaderas.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de cuerpos rurales con apoyo de cazadores locales",
+      "etiquetas": [
+        "caza",
+        "medio ambiente",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la creación de nuevos empleos de calidad en el medio rural que incentivarán la reactivación del sector y la revitalización del campo español.",
+      "pagina": 38,
+      "apartado": [
+        "12 En defensa del campo español"
+      ],
+      "numero": "11",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Creación de empleo de calidad en el medio rural",
+      "etiquetas": [
+        "empleo",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

@@ -1,0 +1,1338 @@
+{
+  "fuente": "pp-programa-2026",
+  "partido": "pp",
+  "paginas": [
+    37,
+    44
+  ],
+  "citas": [
+    {
+      "cita": "Nosotros creemos otra cosa. Que una nación es una comunidad de ciudadanos libres e iguales ante la ley y también una comunidad de afectos, vínculos y lealtades compartidas. Que España es plural y esa pluralidad forma parte de lo que somos.",
+      "pagina": 38,
+      "apartado": [
+        "03 Reunir a la Nación"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Nación como comunidad de ciudadanos iguales y España plural",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por eso vamos a reunir lo que se ha separado: queremos que los derechos valgan lo mismo en cualquier lugar de España, que territorios, generaciones y personas vuelvan a reconocerse como parte de un mismo proyecto, que las infraestructuras funcionen y vertebren de verdad el país, que nuestra historia, nuestra cultura y nuestras tradiciones puedan seguir transmitiéndose como una herencia compartida y que la nacionalidad española recupere todo su valor como vínculo de pertenencia.",
+      "pagina": 38,
+      "apartado": [
+        "03 Reunir a la Nación"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivos del capítulo: igualdad de derechos, cohesión, infraestructuras, cultura y nacionalidad",
+      "etiquetas": [
+        "organización territorial",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los españoles no tenemos que pensar igual para volver a hacer cosas juntos. Es suficiente con que la ley, los derechos y la libertad valgan lo mismo en toda España.",
+      "pagina": 38,
+      "apartado": [
+        "03 Reunir a la Nación"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Igualdad de ley, derechos y libertad en toda España",
+      "etiquetas": [
+        "organización territorial",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LOS DERECHOS SERÁN DE LA PERSONA Y LA ACOMPAÑARÁN A CUALQUIER LUGAR DE ESPAÑA. Cambiar de Comunidad Autónoma no significará perder prestaciones, empezar de cero un trámite o recibir peor atención.",
+      "pagina": 38,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "92",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Portabilidad de derechos y prestaciones entre comunidades autónomas",
+      "etiquetas": [
+        "organización territorial",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Fortaleceremos la Alta Inspección del Estado para que compruebe que los derechos reconocidos por ley nacional se ejercen en toda España.",
+      "pagina": 38,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "92",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de la Alta Inspección del Estado",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LOS DATOS SOCIOSANITARIOS SIEMPRE DISPONIBLES: HABRÁ UNA TARJETA Y UN HISTORIAL ÚNICOS. La cohesión del sistema sanitario y social empieza por que nada falle cuando un español cruza de comunidad. En coordinación con las Comunidades Autónomas, garantizaremos que la historia clínica y la historia social puedan consultarse desde cualquier servicio asistencial, con todas las garantías de privacidad y seguridad. Un paciente que se desplace será atendido con su historia clínica y social completa en toda España.",
+      "pagina": 38,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "93",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tarjeta e historial clínico y social únicos en toda España",
+      "etiquetas": [
+        "sanidad",
+        "servicios sociales",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "UNA EMPRESA PODRÁ CRECER EN TODA ESPAÑA SIN PEDIR UN PERMISO NUEVO EN CADA COMUNIDAD. Fijaremos por ley, sector a sector y de acuerdo con las Comunidades Autónomas, los requisitos comunes para ejercer una actividad en España, de modo que una licencia, una autorización o una inscripción obtenidas en una comunidad sirvan en todas las que compartan esos requisitos.",
+      "pagina": 39,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "94",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de requisitos comunes y licencias válidas entre comunidades",
+      "etiquetas": [
+        "economía",
+        "empresas",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Cualquier exigencia autonómica adicional tendrá que ser necesaria y proporcionada, y quien encuentre una traba injustificada podrá denunciarla, con respuesta en un plazo breve y con la Comisión Nacional de los Mercados y la Competencia legitimada para llevarla a los tribunales.",
+      "pagina": 39,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "94",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Denuncia de trabas autonómicas con legitimación de la CNMC",
+      "etiquetas": [
+        "economía",
+        "empresas",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "IMPLANTAREMOS UNA PRUEBA DE ACCESO A LA UNIVERSIDAD (PAU) COMÚN. Se aplicará en todo el territorio nacional. Sus condiciones básicas, incluyendo su evaluación, se acordarán con las Comunidades Autónomas y los órganos de representación de las universidades, con el fin de garantizar la igualdad de oportunidades.",
+      "pagina": 39,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "95",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prueba de acceso a la universidad común en toda España",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "GARANTIZAREMOS EL DERECHO A RECIBIR ENSEÑANZA EN CASTELLANO EN TODA ESPAÑA. El castellano es la lengua común de los españoles, que tienen el deber constitucional de conocerla y el derecho a usarla.",
+      "pagina": 39,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "96",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derecho a recibir enseñanza en castellano en toda España",
+      "etiquetas": [
+        "educación",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las lenguas de cada Comunidad Autónoma son un patrimonio cultural de todos los españoles que debemos amparar y, por eso, se defenderá su uso junto al de la lengua oficial común.",
+      "pagina": 39,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "96",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa del uso de las lenguas cooficiales junto al castellano",
+      "etiquetas": [
+        "lenguas",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizaremos el derecho constitucional de recibir enseñanza en castellano en todas las etapas del sistema educativo y en toda la Nación, desde el respeto a las lenguas cooficiales de cada una de las Comunidades y en cumplimiento de las sentencias judiciales.",
+      "pagina": 39,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "96",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Enseñanza en castellano en todas las etapas educativas",
+      "etiquetas": [
+        "educación",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "DEFENDEREMOS LA CORDIALIDAD ENTRE LA LENGUA COMÚN Y LAS LENGUAS COOFICIALES. La cordialidad entre las lenguas cooficiales y la lengua oficial común es muestra de la España capaz de convivir alrededor de un proyecto compartido desde la pluralidad.",
+      "pagina": 39,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "97",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Convivencia entre el castellano y las lenguas cooficiales",
+      "etiquetas": [
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Los requisitos lingüísticos respetarán las libertades y los derechos fundamentales de todos.",
+      "pagina": 39,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "97",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Límites a los requisitos lingüísticos",
+      "etiquetas": [
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aseguraremos que las Administraciones de los territorios con cooficialidad se dirijan a los ciudadanos en la lengua oficial o en la cooficial, a elección del ciudadano.",
+      "pagina": 39,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "97",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Elección de lengua en la relación con las Administraciones",
+      "etiquetas": [
+        "lenguas",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EL VÍNCULO CON ESPAÑA DARÁ PRIORIDAD. Estableceremos criterios de prioridad en el acceso a determinadas ayudas, prestaciones y recursos públicos para procurar la asignación prioritaria a quienes mantengan un arraigo real, duradero y verificable con España. Se tendrán en cuenta, entre otros elementos, el empadronamiento, la trayectoria de cotización, permanencia y contribución al sistema. Estos criterios se aplicarán dentro de los límites constitucionales y europeos, por lo que no podrán basarse exclusivamente en la nacionalidad.",
+      "pagina": 40,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "98",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prioridad en ayudas y prestaciones según arraigo en España",
+      "etiquetas": [
+        "servicios sociales",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "FRENTE A LA DESPOBLACIÓN: EMPLEO, VIVIENDA Y SERVICIOS. Estableceremos incentivos económicos en las zonas en declive demográfico para abrir negocios, facilitar el relevo empresarial, atraer inversiones productivas que creen empleo estable y comprar o rehabilitar viviendas destinadas a residencia habitual.",
+      "pagina": 40,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "99",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivos económicos en zonas en declive demográfico",
+      "etiquetas": [
+        "despoblación",
+        "empleo",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos el teletrabajo y aseguraremos conectividad de calidad.",
+      "pagina": 40,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "99",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Impulso del teletrabajo y conectividad de calidad",
+      "etiquetas": [
+        "despoblación",
+        "empleo",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En colaboración con las Comunidades Autónomas, fortaleceremos los servicios públicos y los cuidados de proximidad a quienes viven lejos de las grandes ciudades mediante atención móvil, centros comarcales, transporte a demanda y soluciones específicas para los municipios más pequeños.",
+      "pagina": 40,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "99",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Servicios públicos y cuidados de proximidad fuera de las grandes ciudades",
+      "etiquetas": [
+        "despoblación",
+        "servicios sociales",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los servicios tienen que ser accesibles, no obligar a marcharse para encontrarlos.",
+      "pagina": 40,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.1 Una ciudadanía común"
+      ],
+      "numero": "99",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Accesibilidad de los servicios sin tener que marcharse",
+      "etiquetas": [
+        "despoblación",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "España no es uniforme. Sus territorios son distintos en población, tamaño, historia, necesidades y capacidad económica, y esa pluralidad forma parte de lo que somos. La autonomía existe precisamente para gobernar mejor esas diferencias, pero ni la diferencia puede convertirse en privilegio ni la solidaridad en irresponsabilidad. Reconoceremos sus necesidades reales, exigiremos responsabilidad en sus decisiones y garantizaremos reglas comunes.",
+      "pagina": 40,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Autonomía sin privilegios, con responsabilidad y reglas comunes",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "MISMAS REGLAS, CUENTAS CLARAS Y NINGÚN PRIVILEGIO A CAMBIO DE APOYO POLÍTICO. Convocaremos la Conferencia de Presidentes al inicio de la legislatura para sentar las bases de un nuevo modelo de financiación autonómica, que se acordará de manera multilateral en el Consejo de Política Fiscal y Financiera y se llevará a las Cortes.",
+      "pagina": 40,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "100",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevo modelo de financiación autonómica acordado de forma multilateral",
+      "etiquetas": [
+        "financiación autonómica",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se aprobará un fondo de nivelación transitorio, financiado con recursos del Estado, que estará vigente hasta el momento en que entre en vigor el nuevo sistema de financiación.",
+      "pagina": 40,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "100",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondo de nivelación transitorio para las comunidades autónomas",
+      "etiquetas": [
+        "financiación autonómica",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El nuevo sistema ampliará los recursos del conjunto de las Comunidades Autónomas y garantizará recursos suficientes para prestar los servicios públicos en condiciones de igualdad, de forma muy particular en el ámbito de la sanidad.",
+      "pagina": 40,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "100",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más recursos autonómicos para servicios públicos, en especial sanidad",
+      "etiquetas": [
+        "financiación autonómica",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las autonomías podrán definir sus propias políticas tributarias dentro de sus competencias y responderán de sus gastos.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "100",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Autonomía tributaria y responsabilidad de gasto de las comunidades",
+      "etiquetas": [
+        "financiación autonómica",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La AIReF y el Ministerio de Hacienda participarán en el análisis del modelo.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "100",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "AIReF y Hacienda en el análisis de la financiación autonómica",
+      "etiquetas": [
+        "financiación autonómica"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "NINGUNA COMUNIDAD SALDRÁ DEL SISTEMA COMÚN. Ninguna de las Comunidades que actualmente integran el régimen común saldrá de él ni habrá nuevos regímenes singulares negociados bilateralmente al margen de este sistema. Lo que es de todos se decidirá entre todos, en los foros multilaterales previstos para ello.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "101",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sin salidas del régimen común ni regímenes singulares bilaterales",
+      "etiquetas": [
+        "financiación autonómica",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "CADA COMUNIDAD AUTÓNOMA RESPONDERÁ DE SU DEUDA. Cada Comunidad responderá de sus decisiones y de su deuda.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "102",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Responsabilidad de cada comunidad sobre su deuda",
+      "etiquetas": [
+        "financiación autonómica",
+        "deuda pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Trabajaremos de forma multilateral, en el Consejo de Política Fiscal y Financiera y con las mismas reglas para todas, en una reestructuración de la deuda de las Comunidades Autónomas.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "102",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reestructuración multilateral de la deuda autonómica",
+      "etiquetas": [
+        "financiación autonómica",
+        "deuda pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Retiraremos de forma gradual los mecanismos extraordinarios de financiación a medida que las Comunidades recuperen su autonomía financiera y vuelvan a acudir a los mercados.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "102",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Retirada gradual de los mecanismos extraordinarios de financiación",
+      "etiquetas": [
+        "financiación autonómica",
+        "deuda pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los mecanismos excepcionales para situaciones de crisis tendrán reglas previas, transparentes y comunes para todos.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "102",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reglas previas y comunes para los mecanismos excepcionales de financiación",
+      "etiquetas": [
+        "financiación autonómica"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las Comunidades y Ciudades Autónomas tendrán un tratamiento específico en caso de emergencias o grandes catástrofes, como en el caso de Ceuta o Valencia.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "102",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Tratamiento específico de comunidades ante emergencias o catástrofes",
+      "etiquetas": [
+        "financiación autonómica",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LOS AYUNTAMIENTOS TENDRÁN FINANCIACIÓN SUFICIENTE Y PODRÁN USAR SUS AHORROS. Pondremos en marcha un nuevo sistema de financiación local, estable, equitativo y coordinado con el autonómico.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "103",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevo sistema de financiación local y uso de ahorros municipales",
+      "etiquetas": [
+        "municipios",
+        "financiación local"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "La financiación local premiará a los ayuntamientos que faciliten suelo y vivienda asequible.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "103",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Financiación local ligada a facilitar suelo y vivienda asequible",
+      "etiquetas": [
+        "municipios",
+        "financiación local",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisaremos las transferencias y los tributos locales o cedidos, teniendo en cuenta también la población estacional y la dispersión poblacional.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "103",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión de transferencias y tributos locales",
+      "etiquetas": [
+        "municipios",
+        "financiación local",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reformaremos la Ley de Residuos para que los ayuntamientos puedan decidir sobre la tasa.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "103",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la Ley de Residuos sobre la tasa municipal",
+      "etiquetas": [
+        "municipios",
+        "impuestos",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Trabajaremos con los ayuntamientos que se encuentran en una peor situación financiera, estableciendo un nuevo marco para su deuda que les dé un nuevo horizonte de gestión e inversión.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "103",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevo marco de deuda para ayuntamientos en peor situación",
+      "etiquetas": [
+        "municipios",
+        "deuda pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisaremos las competencias impropias que han ido asumiendo los ayuntamientos, regulándolas y dotándolas de financiación donde resulte necesario.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "103",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Regulación y financiación de las competencias impropias municipales",
+      "etiquetas": [
+        "municipios",
+        "financiación local"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LOS PEQUEÑOS MUNICIPIOS TENDRÁN REGLAS A SU MEDIDA. Aprobaremos el Estatuto de los Pequeños Municipios para reducir su burocracia, agilizar la contratación y facilitar que compartan personal y servicios.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "104",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estatuto de los Pequeños Municipios",
+      "etiquetas": [
+        "municipios",
+        "medio rural",
+        "despoblación"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Aumentaremos el apoyo de las diputaciones en la gestión y la prestación de servicios.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "104",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mayor apoyo de las diputaciones a los municipios",
+      "etiquetas": [
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ninguna obligación nueva del Estado llegará a un ayuntamiento sin financiación para cumplirla.",
+      "pagina": 41,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "104",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ninguna obligación estatal nueva a ayuntamientos sin financiación",
+      "etiquetas": [
+        "municipios",
+        "financiación local"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "HABRÁ MÁS RECURSOS PARA LOS PUEBLOS MÁS PEQUEÑOS. Destinaremos ayudas directas para los municipios de menos de 250 habitantes, para sostener sus servicios básicos, mantener sus infraestructuras y acceder a proyectos europeos y subvenciones. Estas ayudas reforzarán el abastecimiento de agua, la recogida de residuos, el alumbrado y la asistencia técnica al personal municipal. Esta inversión permitirá atender también los aumentos de población durante las vacaciones. Su tramitación será sencilla y adaptada a los medios de los ayuntamientos más pequeños.",
+      "pagina": 42,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "105",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas directas a municipios de menos de 250 habitantes",
+      "etiquetas": [
+        "municipios",
+        "medio rural",
+        "despoblación"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "LA INSULARIDAD, LA ULTRAPERIFERIA Y LAS CIUDADES AUTÓNOMAS NO SIGNIFICARÁN MENOS OPORTUNIDADES. Compensaremos las desventajas de la insularidad y la ultraperiferia y tendremos en cuenta sus costes en las leyes, los planes y las inversiones del Estado.",
+      "pagina": 42,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "106",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Compensación de las desventajas de la insularidad y la ultraperiferia",
+      "etiquetas": [
+        "organización territorial",
+        "insularidad",
+        "ceuta y melilla"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aseguraremos conexiones marítimas y aéreas regulares y suficientes para Canarias, Baleares, Ceuta y Melilla, tanto para viajeros como para mercancías, con obligaciones de servicio público en las rutas justificadas y alternativas ante interrupciones.",
+      "pagina": 42,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "106",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Conexiones marítimas y aéreas con islas, Ceuta y Melilla",
+      "etiquetas": [
+        "transporte",
+        "insularidad",
+        "ceuta y melilla"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adecuaremos los aeropuertos insulares a la demanda e impulsaremos mejoras en las infraestructuras de agua, energía y telecomunicaciones para garantizar los suministros.",
+      "pagina": 42,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "106",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Aeropuertos insulares e infraestructuras de agua, energía y telecomunicaciones",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras",
+        "insularidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estableceremos incentivos para atraer y retener empleados públicos en destinos insulares y ultraperiféricos de difícil cobertura, atendiendo al coste de la vida y la lejanía.",
+      "pagina": 42,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto territorial"
+      ],
+      "numero": "106",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivos para empleados públicos en destinos insulares y ultraperiféricos",
+      "etiquetas": [
+        "empleo público",
+        "insularidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Una sociedad no puede sostenerse si cada generación mira únicamente por sí misma. Gobernar es proteger a quienes han contribuido durante toda su vida, abrir oportunidades a quienes empiezan y asumir que las decisiones de hoy condicionarán durante décadas a quienes vienen detrás.",
+      "pagina": 42,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto entre generaciones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Solidaridad entre generaciones como principio de gobierno",
+      "etiquetas": [
+        "juventud",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "NO HIPOTECAREMOS A QUIENES VIENEN DETRÁS. Reduciremos el déficit estructural y la deuda.",
+      "pagina": 42,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto entre generaciones"
+      ],
+      "numero": "107",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducción del déficit estructural y de la deuda",
+      "etiquetas": [
+        "economía",
+        "deuda pública"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Las grandes decisiones sobre vivienda, empleo, pensiones, educación y fiscalidad tendrán en cuenta su impacto en las siguientes generaciones y se orientarán a ampliar sus oportunidades de trabajar, ahorrar, emanciparse, emprender y formar una familia.",
+      "pagina": 42,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto entre generaciones"
+      ],
+      "numero": "107",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Impacto generacional en las grandes decisiones de política pública",
+      "etiquetas": [
+        "juventud",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "GARANTIZAREMOS LAS PENSIONES DE HOY Y SU FUTURO. Reconstruiremos el Pacto de Toledo sobre un principio claro: las pensiones son un compromiso de Estado, por encima de la confrontación partidista.",
+      "pagina": 42,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto entre generaciones"
+      ],
+      "numero": "108",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Garantía de las pensiones y reconstrucción del Pacto de Toledo",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aseguraremos que mantengan su poder adquisitivo y suban cada año con el IPC.",
+      "pagina": 42,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto entre generaciones"
+      ],
+      "numero": "108",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revalorización anual de las pensiones con el IPC",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aseguraremos a los más jóvenes que sus futuras pensiones también mantendrán su poder adquisitivo.",
+      "pagina": 43,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto entre generaciones"
+      ],
+      "numero": "108",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Poder adquisitivo de las pensiones futuras de los jóvenes",
+      "etiquetas": [
+        "pensiones",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incentivaremos la jubilación activa mediante deducciones en el IRPF.",
+      "pagina": 43,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto entre generaciones"
+      ],
+      "numero": "108",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Deducciones en el IRPF para la jubilación activa",
+      "etiquetas": [
+        "pensiones",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proteger a quienes han sostenido el sistema durante toda su vida exige también que quienes hoy empiezan a trabajar puedan confiar en que habrá una pensión para ellos.",
+      "pagina": 43,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto entre generaciones"
+      ],
+      "numero": "108",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Confianza de los jóvenes en cobrar una pensión futura",
+      "etiquetas": [
+        "pensiones",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "VIVIR MÁS AÑOS Y VIVIR MEJOR. El aumento de la esperanza de vida debe traducirse en más años de bienestar, autonomía y libertad.",
+      "pagina": 43,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto entre generaciones"
+      ],
+      "numero": "110",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Esperanza de vida con bienestar, autonomía y libertad",
+      "etiquetas": [
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aseguraremos el derecho a la atención presencial, modernizaremos el IMSERSO y facilitaremos que los mayores puedan elegir cómo y dónde vivir y recibir cuidados.",
+      "pagina": 43,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto entre generaciones"
+      ],
+      "numero": "110",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Atención presencial, modernización del IMSERSO y elección de cuidados",
+      "etiquetas": [
+        "mayores",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Favoreceremos una vida social activa y las relaciones entre generaciones, y reconoceremos especialmente el papel insustituible de los abuelos en las familias.",
+      "pagina": 43,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Reconstruiremos el pacto entre generaciones"
+      ],
+      "numero": "110",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Vida social activa de los mayores y papel de los abuelos",
+      "etiquetas": [
+        "mayores",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Una comunidad política se mide también por cómo trata a quienes necesitan apoyos distintos para ejercer las mismas libertades. La igualdad de oportunidades consiste en impedir que una circunstancia personal cierre caminos o limite la autonomía de nadie.",
+      "pagina": 43,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Igualdad de oportunidades con independencia de las circunstancias personales",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "NADIE TENDRÁ MENOS OPORTUNIDADES POR SER QUIEN ES. Combatiremos cualquier discriminación por razón de origen, sexo, edad, discapacidad, orientación sexual, religión o cualquier otra circunstancia personal.",
+      "pagina": 43,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "111",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Lucha contra la discriminación por circunstancias personales",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminaremos las barreras que impidan estudiar, trabajar, participar en la vida pública o desarrollar un proyecto de vida con libertad y en igualdad de oportunidades.",
+      "pagina": 43,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "111",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Eliminación de barreras a la igualdad de oportunidades",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En particular, continuaremos luchando contra la LGTBIfobia.",
+      "pagina": 43,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "111",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Continuidad de la lucha contra la LGTBIfobia",
+      "etiquetas": [
+        "igualdad",
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA DISCAPACIDAD NO LIMITARÁ LAS OPORTUNIDADES NI LA LIBERTAD DE ELEGIR CÓMO VIVIR. Aseguraremos una atención temprana de calidad y la continuidad de los apoyos a lo largo de toda la vida, impulsando la asistencia personal, la vivienda con apoyos, el empleo inclusivo y la accesibilidad universal.",
+      "pagina": 44,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "112",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Atención temprana y apoyos continuados a personas con discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Haremos compatibles las pensiones de discapacidad con el empleo y ampliaremos los apoyos para adaptar los puestos de trabajo y favorecer el empleo con apoyo.",
+      "pagina": 44,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "112",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Compatibilidad de pensiones de discapacidad con el empleo",
+      "etiquetas": [
+        "discapacidad",
+        "empleo",
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliaremos el acceso a la jubilación anticipada de las personas con síndrome de Down y apoyaremos específicamente a las personas con autismo y sus familias.",
+      "pagina": 44,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "112",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Jubilación anticipada con síndrome de Down y apoyo al autismo",
+      "etiquetas": [
+        "discapacidad",
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA SOLEDAD NO DEBE CONDENAR A NADIE AL AISLAMIENTO. La soledad no deseada afecta a mayores, pero también a jóvenes, personas con discapacidad y personas que atraviesan situaciones de vulnerabilidad. Mejoraremos la detección, el acompañamiento y la participación social en colaboración con Comunidades Autónomas, ayuntamientos y sociedad civil.",
+      "pagina": 44,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "113",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Detección y acompañamiento frente a la soledad no deseada",
+      "etiquetas": [
+        "soledad no deseada",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "LA DEPENDENCIA LLEGARÁ A TIEMPO Y CUIDAR A FAMILIARES DESGRAVARÁ. Impulsaremos un Pacto de Estado por la Dependencia para asegurar una financiación estable y plurianual de acuerdo con las Comunidades Autónomas y haremos efectiva la aportación estatal del 50% del coste público del sistema.",
+      "pagina": 44,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "114",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pacto de Estado por la Dependencia y aportación estatal del 50%",
+      "etiquetas": [
+        "dependencia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Las familias se deducirán el 40% de lo que paguen por la atención profesional de un mayor dependiente, y el Estado cotizará por quien deje de trabajar o reduzca su jornada para cuidar a un familiar dependiente, cobre o no la prestación por cuidados en el entorno familiar.",
+      "pagina": 44,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "114",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Deducción del 40% por cuidados y cotización de cuidadores familiares",
+      "etiquetas": [
+        "dependencia",
+        "impuestos",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "NI TRABAS NI CULPAS. IGUALDAD REAL. Trabajaremos para que las políticas de igualdad aborden los problemas reales que siguen limitando la libertad y las oportunidades de las personas.",
+      "pagina": 44,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "115",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Orientación de las políticas de igualdad",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminaremos los obstáculos que todavía frenan la trayectoria profesional y personal de las mujeres.",
+      "pagina": 44,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "115",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Eliminación de obstáculos a la trayectoria de las mujeres",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisaremos las normas que hayan generado inseguridad jurídica en nombre de la igualdad, como la Ley Trans, y eliminaremos la libre autodeterminación registral del sexo, para reforzar la seguridad jurídica y proteger a los menores.",
+      "pagina": 44,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "115",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión de la Ley Trans y fin de la autodeterminación registral",
+      "etiquetas": [
+        "igualdad",
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizaremos que el sexo biológico sea el criterio para las categorías deportivas femeninas.",
+      "pagina": 44,
+      "apartado": [
+        "03 Reunir a la Nación",
+        "3.2 Unir territorios, generaciones y personas",
+        "Fortaleceremos el pacto entre personas"
+      ],
+      "numero": "115",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sexo biológico como criterio en las categorías deportivas femeninas",
+      "etiquetas": [
+        "igualdad",
+        "deporte",
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

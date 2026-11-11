@@ -1,0 +1,46 @@
+[
+  {
+    "id": "c-655ab462e9",
+    "cita": "Ley de Mercado Abierto. Lo que es legal en una región de España, lo es en toda España. Cualquier empresa, profesional o producto que ya opere legalmente en una Comunidad Autónoma podrá hacerlo en el resto del territorio nacional sin trámites, licencias ni registros adicionales. España es un solo mercado y una sola nación: no puede ser que un autónomo, un comerciante o un fabricante tenga que pedir diecisiete permisos distintos para vender lo mismo.",
+    "temas": [
+      "organizacion-territorial",
+      "economia"
+    ],
+    "clase": "medida",
+    "medida_concreta": true,
+    "nota": "Ley estatal de mercado abierto entre comunidades autónomas"
+  },
+  {
+    "id": "c-058fdfea0a",
+    "cita": "En España, además, las Comunidades Autónomas han ido añadiendo capas propias: obligaciones lingüísticas distintas en cada territorio, sistemas de devolución de envases también distintos, exigencias adicionales que convierten la venta del mismo producto en diecisiete operaciones diferentes. Vamos a derogar todas las exigencias autonómicas que añadan requisitos por encima de la norma europea.",
+    "temas": [
+      "organizacion-territorial",
+      "economia"
+    ],
+    "clase": "medida",
+    "medida_concreta": true,
+    "nota": "Derogar requisitos autonómicos de etiquetado, incluidos los lingüísticos"
+  },
+  {
+    "id": "c-acb26bc6dc",
+    "cita": "La Administración usará la IA de forma masiva, siempre desde el respeto al hombre por encima de la IA, para acabar con esperas, papeleo y trámites absurdos: resolución automática de expedientes sencillos, asistentes que guíen al ciudadano paso a paso, detección de duplicidades y contradicciones entre normas, traducción inmediata de la jerga administrativa a lenguaje comprensible.",
+    "temas": [
+      "ciencia-cultura-y-digital",
+      "democracia-e-instituciones"
+    ],
+    "clase": "medida",
+    "medida_concreta": true,
+    "nota": "Uso de inteligencia artificial en la Administración pública"
+  },
+  {
+    "id": "c-3e6ee5deda",
+    "cita": "Vamos a reescribir la Ley Orgánica de Protección de Datos en clave de mínimo imprescindible: solo lo que exige Bruselas, redactado de forma clara, breve y sin trampas. La AEPD pasará de organismo sancionador a organismo de ayuda y asesoramiento, especialmente para las pymes.",
+    "temas": [
+      "ciencia-cultura-y-digital",
+      "economia"
+    ],
+    "clase": "medida",
+    "medida_concreta": true,
+    "nota": "Reescribir la ley de protección de datos al mínimo europeo"
+  }
+]

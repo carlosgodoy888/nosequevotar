@@ -1,0 +1,128 @@
+{
+  "revisiones": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende la vivienda como un derecho y no como un negocio, y rechaza que la solución sea construir más.", "apoyos": ["c-d8c8cd7a6d", "c-43c324672d", "c-4ba4510e9e", "c-1ad185b0af"] },
+        { "texto": "Propone bajar un 40 % los alquileres en todo el Estado, prohibir los pisos turísticos y gravar las viviendas vacías.", "apoyos": ["c-c3674c05e5", "c-d4ec6fbd3e", "c-6ee1c6fad6", "c-7a9d94b886"] },
+        { "texto": "Plantea suspender la compra de vivienda que no sea para residir y fijar un máximo de viviendas en propiedad por persona o empresa.", "apoyos": ["c-2928d9c44b", "c-d77b33f342", "c-7a9d94b886"] },
+        { "texto": "Quiere ampliar el alquiler social expropiando el uso del 50 % de las viviendas de grandes tenedores e impedir desalojos de familias vulnerables sin alternativa habitacional.", "apoyos": ["c-704bfb22d3", "c-9b42ba93cd", "c-885b494f20"] }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "corregido",
+      "problemas": [
+        "Base: el propio redactor reconoce que el material laboral es «escaso y disperso». De las ocho citas, una es de educación infantil, otra muy sectorial (INAEM) y dos no dicen de qué hablan («con 1.286 euros no se puede vivir», «la vida está para vivirla»); el programa solo trae la subida del salario mínimo y la regulación de la IA. Se marca «escasa» y se reduce a dos frases.",
+        "Fidelidad: «que no negocien de buena fe con sus plantillas» añade «con sus plantillas», que no está en c-5b9b1b4d1e (habla de patronales, empresas y administraciones que no se sientan a negociar de buena fe). Se elimina el añadido. La cita sí es de relaciones laborales, así que su uso en empleo es correcto.",
+        "Comprobado: no se atribuye nada a c-063cd51a57 ni a c-cdd5d1ae12, y c-3a2da0dfcf (0-3 años) no se usa en este tema."
+      ],
+      "base": "escasa",
+      "frases": [
+        { "texto": "Propone subir el salario mínimo y defiende que los beneficios de las empresas se traduzcan también en mejoras para sus trabajadores.", "apoyos": ["c-feefe0055e", "c-dc733d8fd0"] },
+        { "texto": "Pide debatir una reforma legal para sancionar a empresas y administraciones que no negocien de buena fe, y regular la inteligencia artificial atendiendo a su impacto en el empleo.", "apoyos": ["c-5b9b1b4d1e", "c-290ac297b8"] }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Vigencia: el aumento extraordinario del 20 % y el objetivo de alcanzar «al menos el umbral de pobreza» proceden de un texto de 2023 (c-a11e17ad27). El documento de abril de 2025 (c-feefe0055e) y una intervención de septiembre de 2026 (c-a107807ed1) fijan otro objetivo, más alto: que ninguna pensión sea inferior al salario mínimo. Se sigue lo más reciente y se retira la medida de 2023.",
+        "Fidelidad: «un aumento extraordinario del 20 % hasta alcanzar al menos el umbral de pobreza» unía dos cosas que la cita da por separado (la subida del 20 % y el compromiso de llegar al umbral).",
+        "Fidelidad: c-feefe0055e habla de «las pensiones contributivas más bajas» y las no contributivas; se ajusta la frase. Se recoge también la protección del sistema público, que está en la misma cita.",
+        "Comprobado: no se atribuye nada a c-91818438c1."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende las pensiones públicas como un derecho, quiere proteger el sistema público y pide que se actualicen con el IPC.", "apoyos": ["c-fd34c54286", "c-feefe0055e", "c-a107807ed1"] },
+        { "texto": "Propone subir sobre todo las pensiones contributivas más bajas y las no contributivas, de modo que ninguna quede por debajo del salario mínimo.", "apoyos": ["c-feefe0055e", "c-a107807ed1"] },
+        { "texto": "Ha propuesto no aplicar coeficientes reductores a la pensión de jubilación tras 40 años cotizados, también a quienes ya están jubilados.", "apoyos": ["c-f47a0b7288"] },
+        { "texto": "Rechaza el aumento del gasto en armamento porque, según el partido, resta recursos a las pensiones.", "apoyos": ["c-a107807ed1"] }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una reforma fiscal para que paguen más las grandes empresas y fortunas, y no los trabajadores, autónomos o pymes.", "apoyos": ["c-4d786717a1", "c-c27806ca29", "c-a981b08ed1", "c-920a9e20d5"] },
+        { "texto": "Plantea un impuesto a los grandes patrimonios, un tipo mínimo efectivo en Sociedades y que el IRPF grave igual el capital que el trabajo.", "apoyos": ["c-86ac06e8c2", "c-3c9161660b", "c-f16b92363d"] },
+        { "texto": "Pide gravar al 50 % los beneficios extraordinarios del IBEX y subir impuestos a banca, energéticas y lujos contaminantes como yates o aviones privados.", "apoyos": ["c-2ba3bd5a8a", "c-71cddcd1f1", "c-62efb8a614", "c-85cc7b0772"] },
+        { "texto": "Quiere reforzar la Agencia Tributaria contra el fraude y suprimir los privilegios fiscales de la Iglesia católica.", "apoyos": ["c-0d7f8e9334", "c-1a10c32093"] }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad: c-16bea66940 se usaba como apoyo de «ampliar las bonificaciones al transporte público», pero esa cita (marzo de 2026) pide algo distinto: transporte público «completamente gratuito» ante una situación de crisis. El apoyo no respalda la frase.",
+        "Vigencia y alcance: la cita más reciente sobre transporte (gratuidad, 2026) dice algo distinto que el documento de 2025 (bonificaciones). Transporte tiene su propio tema, así que se retira de economía en lugar de resolver aquí esa diferencia.",
+        "Representatividad: el hueco se usa para una medida que el partido repite en energía (prohibir los cortes de suministro, c-15cf513b08)."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea superar el capitalismo, redistribuir la riqueza y dedicar a sanidad, educación y cuidados el dinero que hoy va al aumento del gasto militar.", "apoyos": ["c-83f0ee235c", "c-3997b93950", "c-784890733e", "c-eb21de4331", "c-8aef20d7ce"] },
+        { "texto": "En energía, propone pagar cada megavatio-hora según su coste de producción, crear una empresa pública, nacionalizar Repsol y prohibir los cortes de suministro.", "apoyos": ["c-bd5ff8f755", "c-6798ce5b44", "c-66556f1a7b", "c-97180cf5d5", "c-15cf513b08", "c-300a687adf"] },
+        { "texto": "También quiere intervenir los márgenes y topar los precios de los alimentos, y abrir un supermercado público.", "apoyos": ["c-46bc6498db", "c-7a9d94b886", "c-f6a0a83537"] }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad: c-04038290da dice «reforzar la atención primaria y garantizar la atención en el medio rural»; la frase extendía «reforzar» al medio rural. Se ajusta el verbo.",
+        "Comprobado: no se atribuye nada a c-91818438c1."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar las leyes que permiten privatizar la sanidad y aumentar su presupuesto en lugar del gasto militar.", "apoyos": ["c-7bf39c9db5", "c-784890733e"] },
+        { "texto": "Quiere contratar 40.000 profesionales sanitarios, reforzar la atención primaria, garantizar la del medio rural y reducir al mínimo las listas de espera.", "apoyos": ["c-b6fe0120d3", "c-04038290da", "c-876afd26f2"] },
+        { "texto": "Pide garantizar el aborto en la sanidad pública e incluir en ella una asistencia veterinaria gratuita y universal.", "apoyos": ["c-5ac935f195", "c-b8c69e7dcc", "c-de1adf8548"] }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende una enseñanza pública, inclusiva y laica, y propone derogar las leyes que permiten privatizar la educación.", "apoyos": ["c-cae22c9ca4", "c-7bf39c9db5", "c-be57816000"] },
+        { "texto": "Plantea contratar 40.000 maestros, bajar las ratios y hacer gratuita la educación de 0 a 3 años, que en el Congreso ha propuesto extender hasta los 6.", "apoyos": ["c-b6fe0120d3", "c-a2b2850292", "c-3a2da0dfcf", "c-4ff1f94619"] },
+        { "texto": "También quiere que la universidad no sea un privilegio, garantizar la educación sexual e incluir la memoria democrática en la enseñanza.", "apoyos": ["c-dfdc3172d8", "c-3aa67c9cec", "c-606afceb5b", "c-cd91a60343"] }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "corregido",
+      "problemas": [
+        "Vigencia: la frase decía «de 0 a 3 años» (documento de abril de 2025) pero citaba también c-4ff1f94619, una enmienda de septiembre de 2026 que pide la gratuidad de 0 a 6 años. Se sigue lo más reciente. El uso de la educación infantil como medida de conciliación es legítimo en este tema."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone subir el ingreso mínimo vital, ampliar quién lo recibe y reducir su burocracia, como paso hacia una renta básica incondicional.", "apoyos": ["c-3114014229"] },
+        { "texto": "Quiere educación infantil gratuita de 0 a 6 años y remunerar el permiso de ocho semanas para el cuidado de hijos.", "apoyos": ["c-3a2da0dfcf", "c-4ff1f94619", "c-f6a0a83537"] },
+        { "texto": "Pide asistencia suficiente para todas las personas dependientes y derogar las leyes que permiten privatizar las residencias.", "apoyos": ["c-167176eea2", "c-7bf39c9db5"] },
+        { "texto": "Defiende la máxima protección institucional a las madres y que la ley parta de que «ningún maltratador puede ser un buen padre».", "apoyos": ["c-86dda43206"] }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad: «para todos los residentes» puede leerse como residentes legales; c-7ba1d11800 dice «todos los seres humanos que viven en España sin ningún tipo de distinción». Se cambia por «todas las personas que viven en España».",
+        "Representatividad y vigencia: «prohibir las devoluciones en caliente» sale de un texto de 2023 sobre la Ley Mordaza, donde figura como demanda de los socios parlamentarios. El documento de 2025 trae en el mismo bloque una medida propia que pesa más: que nadie se arriesgue a la deportación por denunciar un delito de odio o racismo (c-acaf170cdc). Se sustituye.",
+        "Comprobado: «ningún ser humano es ilegal» está literal en c-a99263fb26 y c-2962d65d21."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende que migrar es un derecho humano y que «ningún ser humano es ilegal», con servicios y derechos universales para todas las personas que viven en España.", "apoyos": ["c-42f1235bae", "c-16f289564d", "c-a99263fb26", "c-7ba1d11800"] },
+        { "texto": "Propone regularizar de inmediato a quienes viven y trabajan en España y darles la nacionalidad por carta de naturaleza, con DNI y derecho al voto.", "apoyos": ["c-e349f391c7", "c-392de48155", "c-afc998c4f5", "c-2962d65d21"] },
+        { "texto": "Pide derogar la ley de extranjería y el Pacto Europeo de Migración y Asilo, cerrar los centros de internamiento y no deportar a quien denuncie un delito de odio.", "apoyos": ["c-acaf170cdc", "c-1bbff85df1"] }
+      ]
+    }
+  ]
+}

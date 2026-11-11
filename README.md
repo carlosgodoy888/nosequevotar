@@ -36,7 +36,13 @@ Para ver la web en local:
 python3 -m http.server 8787 -d public
 ```
 
-y abre http://localhost:8787/. Para abrirla desde el móvil en la misma wifi, sirve con `--bind 0.0.0.0` y abre en el móvil `http://<IP del ordenador>:8787/` (en un Mac, la IP sale con `ipconfig getifaddr en0`). Sin https, el móvil no deja compartir la imagen ni copiar al portapapeles: el test la descarga y selecciona el texto.
+o, sin Python (por ejemplo en Windows):
+
+```sh
+node scripts/servir.mjs            # con --red, también desde el móvil en la misma wifi
+```
+
+y abre http://localhost:8787/. El servidor lee `public/` en cada petición: después de volver a construir basta con recargar la página. Para abrirla desde el móvil en la misma wifi, sirve con `--bind 0.0.0.0` (o `--red` con el de Node) y abre en el móvil `http://<IP del ordenador>:8787/` (en un Mac, la IP sale con `ipconfig getifaddr en0`). Sin https, el móvil no deja compartir la imagen ni copiar al portapapeles: el test la descarga y selecciona el texto.
 
 ## Dónde se cambia cada cosa
 
@@ -54,6 +60,9 @@ y abre http://localhost:8787/. Para abrirla desde el móvil en la misma wifi, si
 | Página del test | `test()` en `src/plantillas/paginas.mjs` |
 | Recorrido del test, recuento, glosario e imagen para compartir | `src/js/juegos/` y `src/estilos/test.css` |
 | Validación del banco al construir | `src/plantillas/juegos.mjs` |
+| Partidos y temas: citas, resúmenes y fichas de 2026 | `src/contenido/partidos/partidos-2026.json`. No se edita a mano: sale de `datos/investigacion-2026/` con `scripts/investigacion/generar-web.mjs` (ver el README de esa carpeta) |
+| Páginas de partidos y de temas | `src/plantillas/partidos.mjs` |
+| Barra de saltos, buscador, vista y elección de partidos en esas páginas | `src/js/partidos.js` (sin JavaScript la página se lee entera con su índice) |
 | Archivos que se copian tal cual (tipografías, `_headers`, favicon, imagen para compartir) | `src/estatico/` |
 | Diseño de la imagen para compartir y del icono | `src/imagenes/og.html` |
 

@@ -1,0 +1,2608 @@
+{
+  "generado": "2026-11-10T12:47:49.928Z",
+  "fuente": {
+    "id": "BOE-A-2023-18907",
+    "publicado": "2023-09-01",
+    "titulo": "Resolución de 30 de agosto de 2023, de la Presidencia de la Junta Electoral Central, por la que se publican los resultados de las elecciones al Congreso de los Diputados y al Senado convocadas por Real Decreto 400/2023",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-18907",
+    "archivo": "fuentes/descargas/boe/BOE-A-2023-18907.txt.html",
+    "sha256": "ee46741c741a71dc0f5aedcf129d058e777de09b607e98c7116a5669cfaa695a"
+  },
+  "resumen": {
+    "candidaturas": 59,
+    "con_escano": 12,
+    "escanos": 350,
+    "votos_a_candidaturas": 24487414,
+    "avisos": 0
+  },
+  "avisos": [],
+  "candidaturas": [
+    {
+      "encabezado": "Partido Popular (PP)",
+      "nombre": "Partido Popular",
+      "siglas": "PP",
+      "con_escano": true,
+      "votos": 8160837,
+      "escanos": 137,
+      "por_circunscripcion": {
+        "albacete": {
+          "votos": 88299,
+          "escanos": 2
+        },
+        "alicante": {
+          "votos": 330293,
+          "escanos": 5
+        },
+        "almeria": {
+          "votos": 131524,
+          "escanos": 3
+        },
+        "alava": {
+          "votos": 30212,
+          "escanos": 1
+        },
+        "asturias": {
+          "votos": 212816,
+          "escanos": 3
+        },
+        "avila": {
+          "votos": 42369,
+          "escanos": 2
+        },
+        "badajoz": {
+          "votos": 148068,
+          "escanos": 2
+        },
+        "baleares": {
+          "votos": 179303,
+          "escanos": 3
+        },
+        "barcelona": {
+          "votos": 367519,
+          "escanos": 5
+        },
+        "bizkaia": {
+          "votos": 70533,
+          "escanos": 1
+        },
+        "burgos": {
+          "votos": 82329,
+          "escanos": 2
+        },
+        "caceres": {
+          "votos": 89633,
+          "escanos": 2
+        },
+        "cadiz": {
+          "votos": 221703,
+          "escanos": 4
+        },
+        "cantabria": {
+          "votos": 147326,
+          "escanos": 2
+        },
+        "castellon": {
+          "votos": 108302,
+          "escanos": 2
+        },
+        "ciudad-real": {
+          "votos": 114709,
+          "escanos": 2
+        },
+        "cordoba": {
+          "votos": 169976,
+          "escanos": 2
+        },
+        "a-coruna": {
+          "votos": 292272,
+          "escanos": 4
+        },
+        "cuenca": {
+          "votos": 45255,
+          "escanos": 2
+        },
+        "gipuzkoa": {
+          "votos": 32721,
+          "escanos": 0
+        },
+        "girona": {
+          "votos": 31341,
+          "escanos": 0
+        },
+        "granada": {
+          "votos": 185996,
+          "escanos": 3
+        },
+        "guadalajara": {
+          "votos": 51195,
+          "escanos": 1
+        },
+        "huelva": {
+          "votos": 93565,
+          "escanos": 2
+        },
+        "huesca": {
+          "votos": 45783,
+          "escanos": 2
+        },
+        "jaen": {
+          "votos": 137617,
+          "escanos": 2
+        },
+        "leon": {
+          "votos": 101605,
+          "escanos": 2
+        },
+        "lleida": {
+          "votos": 23699,
+          "escanos": 0
+        },
+        "lugo": {
+          "votos": 99769,
+          "escanos": 3
+        },
+        "madrid": {
+          "votos": 1463183,
+          "escanos": 16
+        },
+        "malaga": {
+          "votos": 302000,
+          "escanos": 5
+        },
+        "murcia": {
+          "votos": 307972,
+          "escanos": 4
+        },
+        "navarra": {
+          "votos": 57134,
+          "escanos": 1
+        },
+        "ourense": {
+          "votos": 93182,
+          "escanos": 3
+        },
+        "palencia": {
+          "votos": 40709,
+          "escanos": 2
+        },
+        "las-palmas": {
+          "votos": 136857,
+          "escanos": 3
+        },
+        "pontevedra": {
+          "votos": 227658,
+          "escanos": 3
+        },
+        "la-rioja": {
+          "votos": 79715,
+          "escanos": 2
+        },
+        "salamanca": {
+          "votos": 93318,
+          "escanos": 3
+        },
+        "santa-cruz-de-tenerife": {
+          "votos": 174770,
+          "escanos": 3
+        },
+        "segovia": {
+          "votos": 39894,
+          "escanos": 2
+        },
+        "sevilla": {
+          "votos": 353663,
+          "escanos": 4
+        },
+        "soria": {
+          "votos": 18895,
+          "escanos": 1
+        },
+        "tarragona": {
+          "votos": 51061,
+          "escanos": 1
+        },
+        "teruel": {
+          "votos": 26586,
+          "escanos": 2
+        },
+        "toledo": {
+          "votos": 146533,
+          "escanos": 3
+        },
+        "valencia": {
+          "votos": 483469,
+          "escanos": 6
+        },
+        "valladolid": {
+          "votos": 129170,
+          "escanos": 2
+        },
+        "zamora": {
+          "votos": 46196,
+          "escanos": 2
+        },
+        "zaragoza": {
+          "votos": 186776,
+          "escanos": 3
+        },
+        "ceuta": {
+          "votos": 12918,
+          "escanos": 1
+        },
+        "melilla": {
+          "votos": 13446,
+          "escanos": 1
+        }
+      },
+      "circunscripciones": 52,
+      "puesto": 1
+    },
+    {
+      "encabezado": "Partido Socialista Obrero Español (PSOE)",
+      "nombre": "Partido Socialista Obrero Español",
+      "siglas": "PSOE",
+      "con_escano": true,
+      "votos": 6600383,
+      "escanos": 102,
+      "por_circunscripcion": {
+        "albacete": {
+          "votos": 76322,
+          "escanos": 2
+        },
+        "alicante": {
+          "votos": 287737,
+          "escanos": 4
+        },
+        "almeria": {
+          "votos": 93282,
+          "escanos": 2
+        },
+        "alava": {
+          "votos": 46775,
+          "escanos": 1
+        },
+        "asturias": {
+          "votos": 205049,
+          "escanos": 2
+        },
+        "avila": {
+          "votos": 26828,
+          "escanos": 1
+        },
+        "badajoz": {
+          "votos": 153473,
+          "escanos": 2
+        },
+        "baleares": {
+          "votos": 151786,
+          "escanos": 3
+        },
+        "bizkaia": {
+          "votos": 157448,
+          "escanos": 2
+        },
+        "burgos": {
+          "votos": 69775,
+          "escanos": 2
+        },
+        "caceres": {
+          "votos": 91692,
+          "escanos": 2
+        },
+        "cadiz": {
+          "votos": 211200,
+          "escanos": 3
+        },
+        "cantabria": {
+          "votos": 116596,
+          "escanos": 2
+        },
+        "castellon": {
+          "votos": 100530,
+          "escanos": 2
+        },
+        "ciudad-real": {
+          "votos": 100102,
+          "escanos": 2
+        },
+        "cordoba": {
+          "votos": 144080,
+          "escanos": 2
+        },
+        "a-coruna": {
+          "votos": 190897,
+          "escanos": 2
+        },
+        "cuenca": {
+          "votos": 42528,
+          "escanos": 1
+        },
+        "gipuzkoa": {
+          "votos": 87709,
+          "escanos": 2
+        },
+        "granada": {
+          "votos": 165862,
+          "escanos": 2
+        },
+        "guadalajara": {
+          "votos": 46479,
+          "escanos": 1
+        },
+        "huelva": {
+          "votos": 92326,
+          "escanos": 2
+        },
+        "huesca": {
+          "votos": 40307,
+          "escanos": 1
+        },
+        "jaen": {
+          "votos": 133819,
+          "escanos": 2
+        },
+        "leon": {
+          "votos": 92578,
+          "escanos": 2
+        },
+        "lugo": {
+          "votos": 60163,
+          "escanos": 1
+        },
+        "madrid": {
+          "votos": 1004599,
+          "escanos": 10
+        },
+        "malaga": {
+          "votos": 239172,
+          "escanos": 3
+        },
+        "murcia": {
+          "votos": 189210,
+          "escanos": 3
+        },
+        "navarra": {
+          "votos": 93553,
+          "escanos": 2
+        },
+        "ourense": {
+          "votos": 56035,
+          "escanos": 1
+        },
+        "palencia": {
+          "votos": 33613,
+          "escanos": 1
+        },
+        "las-palmas": {
+          "votos": 175671,
+          "escanos": 3
+        },
+        "pontevedra": {
+          "votos": 179737,
+          "escanos": 3
+        },
+        "la-rioja": {
+          "votos": 62322,
+          "escanos": 2
+        },
+        "salamanca": {
+          "votos": 60718,
+          "escanos": 1
+        },
+        "santa-cruz-de-tenerife": {
+          "votos": 165590,
+          "escanos": 3
+        },
+        "segovia": {
+          "votos": 27113,
+          "escanos": 1
+        },
+        "sevilla": {
+          "votos": 387760,
+          "escanos": 5
+        },
+        "soria": {
+          "votos": 14966,
+          "escanos": 1
+        },
+        "teruel": {
+          "votos": 22226,
+          "escanos": 1
+        },
+        "toledo": {
+          "votos": 126072,
+          "escanos": 2
+        },
+        "valencia": {
+          "votos": 461353,
+          "escanos": 5
+        },
+        "valladolid": {
+          "votos": 103596,
+          "escanos": 2
+        },
+        "zamora": {
+          "votos": 33601,
+          "escanos": 1
+        },
+        "zaragoza": {
+          "votos": 159858,
+          "escanos": 2
+        },
+        "ceuta": {
+          "votos": 11332,
+          "escanos": 0
+        },
+        "melilla": {
+          "votos": 6943,
+          "escanos": 0
+        }
+      },
+      "circunscripciones": 48,
+      "puesto": 2
+    },
+    {
+      "encabezado": "VOX (VOX)",
+      "nombre": "VOX",
+      "siglas": "VOX",
+      "con_escano": true,
+      "votos": 3057000,
+      "escanos": 33,
+      "por_circunscripcion": {
+        "albacete": {
+          "votos": 36750,
+          "escanos": 0
+        },
+        "alicante": {
+          "votos": 146133,
+          "escanos": 2
+        },
+        "almeria": {
+          "votos": 68364,
+          "escanos": 1
+        },
+        "alava": {
+          "votos": 6573,
+          "escanos": 0
+        },
+        "asturias": {
+          "votos": 74571,
+          "escanos": 1
+        },
+        "avila": {
+          "votos": 15068,
+          "escanos": 0
+        },
+        "badajoz": {
+          "votos": 53492,
+          "escanos": 1
+        },
+        "baleares": {
+          "votos": 76547,
+          "escanos": 1
+        },
+        "barcelona": {
+          "votos": 201775,
+          "escanos": 2
+        },
+        "bizkaia": {
+          "votos": 16069,
+          "escanos": 0
+        },
+        "burgos": {
+          "votos": 25858,
+          "escanos": 0
+        },
+        "caceres": {
+          "votos": 32076,
+          "escanos": 0
+        },
+        "cadiz": {
+          "votos": 96720,
+          "escanos": 1
+        },
+        "cantabria": {
+          "votos": 49243,
+          "escanos": 1
+        },
+        "castellon": {
+          "votos": 48913,
+          "escanos": 1
+        },
+        "ciudad-real": {
+          "votos": 46046,
+          "escanos": 1
+        },
+        "cordoba": {
+          "votos": 62526,
+          "escanos": 1
+        },
+        "a-coruna": {
+          "votos": 34410,
+          "escanos": 0
+        },
+        "cuenca": {
+          "votos": 17700,
+          "escanos": 0
+        },
+        "gipuzkoa": {
+          "votos": 7877,
+          "escanos": 0
+        },
+        "girona": {
+          "votos": 22706,
+          "escanos": 0
+        },
+        "granada": {
+          "votos": 81080,
+          "escanos": 1
+        },
+        "guadalajara": {
+          "votos": 27126,
+          "escanos": 1
+        },
+        "huelva": {
+          "votos": 37572,
+          "escanos": 1
+        },
+        "huesca": {
+          "votos": 15155,
+          "escanos": 0
+        },
+        "jaen": {
+          "votos": 54400,
+          "escanos": 1
+        },
+        "leon": {
+          "votos": 35451,
+          "escanos": 0
+        },
+        "lleida": {
+          "votos": 12560,
+          "escanos": 0
+        },
+        "lugo": {
+          "votos": 8643,
+          "escanos": 0
+        },
+        "madrid": {
+          "votos": 506164,
+          "escanos": 5
+        },
+        "malaga": {
+          "votos": 129758,
+          "escanos": 2
+        },
+        "murcia": {
+          "votos": 163124,
+          "escanos": 2
+        },
+        "navarra": {
+          "votos": 19491,
+          "escanos": 0
+        },
+        "ourense": {
+          "votos": 9080,
+          "escanos": 0
+        },
+        "palencia": {
+          "votos": 12504,
+          "escanos": 0
+        },
+        "las-palmas": {
+          "votos": 77343,
+          "escanos": 1
+        },
+        "pontevedra": {
+          "votos": 27539,
+          "escanos": 0
+        },
+        "la-rioja": {
+          "votos": 17056,
+          "escanos": 0
+        },
+        "salamanca": {
+          "votos": 29203,
+          "escanos": 0
+        },
+        "segovia": {
+          "votos": 12510,
+          "escanos": 0
+        },
+        "sevilla": {
+          "votos": 141087,
+          "escanos": 1
+        },
+        "soria": {
+          "votos": 4978,
+          "escanos": 0
+        },
+        "tarragona": {
+          "votos": 38039,
+          "escanos": 0
+        },
+        "teruel": {
+          "votos": 9932,
+          "escanos": 0
+        },
+        "toledo": {
+          "votos": 76044,
+          "escanos": 1
+        },
+        "valencia": {
+          "votos": 218657,
+          "escanos": 2
+        },
+        "valladolid": {
+          "votos": 47948,
+          "escanos": 1
+        },
+        "zamora": {
+          "votos": 13652,
+          "escanos": 0
+        },
+        "zaragoza": {
+          "votos": 79376,
+          "escanos": 1
+        },
+        "ceuta": {
+          "votos": 7752,
+          "escanos": 0
+        },
+        "melilla": {
+          "votos": 4359,
+          "escanos": 0
+        }
+      },
+      "circunscripciones": 51,
+      "puesto": 3
+    },
+    {
+      "encabezado": "Sumar (SUMAR)",
+      "nombre": "Sumar",
+      "siglas": "SUMAR",
+      "con_escano": true,
+      "votos": 3044996,
+      "escanos": 31,
+      "por_circunscripcion": {
+        "albacete": {
+          "votos": 15834,
+          "escanos": 0
+        },
+        "alicante": {
+          "votos": 115787,
+          "escanos": 1
+        },
+        "almeria": {
+          "votos": 21485,
+          "escanos": 0
+        },
+        "alava": {
+          "votos": 21561,
+          "escanos": 0
+        },
+        "asturias": {
+          "votos": 88630,
+          "escanos": 1
+        },
+        "avila": {
+          "votos": 5027,
+          "escanos": 0
+        },
+        "badajoz": {
+          "votos": 26778,
+          "escanos": 0
+        },
+        "baleares": {
+          "votos": 83487,
+          "escanos": 1
+        },
+        "barcelona": {
+          "votos": 405993,
+          "escanos": 5
+        },
+        "bizkaia": {
+          "votos": 66592,
+          "escanos": 1
+        },
+        "burgos": {
+          "votos": 17508,
+          "escanos": 0
+        },
+        "caceres": {
+          "votos": 16354,
+          "escanos": 0
+        },
+        "cadiz": {
+          "votos": 82115,
+          "escanos": 1
+        },
+        "cantabria": {
+          "votos": 29713,
+          "escanos": 0
+        },
+        "castellon": {
+          "votos": 44187,
+          "escanos": 0
+        },
+        "ciudad-real": {
+          "votos": 17405,
+          "escanos": 0
+        },
+        "cordoba": {
+          "votos": 61594,
+          "escanos": 1
+        },
+        "a-coruna": {
+          "votos": 82618,
+          "escanos": 1
+        },
+        "cuenca": {
+          "votos": 6325,
+          "escanos": 0
+        },
+        "gipuzkoa": {
+          "votos": 40081,
+          "escanos": 0
+        },
+        "girona": {
+          "votos": 35344,
+          "escanos": 1
+        },
+        "granada": {
+          "votos": 58567,
+          "escanos": 1
+        },
+        "guadalajara": {
+          "votos": 12907,
+          "escanos": 0
+        },
+        "huelva": {
+          "votos": 26752,
+          "escanos": 0
+        },
+        "huesca": {
+          "votos": 13774,
+          "escanos": 0
+        },
+        "jaen": {
+          "votos": 29461,
+          "escanos": 0
+        },
+        "leon": {
+          "votos": 18577,
+          "escanos": 0
+        },
+        "lleida": {
+          "votos": 14561,
+          "escanos": 0
+        },
+        "lugo": {
+          "votos": 10287,
+          "escanos": 0
+        },
+        "madrid": {
+          "votos": 557780,
+          "escanos": 6
+        },
+        "malaga": {
+          "votos": 96652,
+          "escanos": 1
+        },
+        "murcia": {
+          "votos": 71578,
+          "escanos": 1
+        },
+        "navarra": {
+          "votos": 43922,
+          "escanos": 0
+        },
+        "ourense": {
+          "votos": 10171,
+          "escanos": 0
+        },
+        "palencia": {
+          "votos": 5877,
+          "escanos": 0
+        },
+        "las-palmas": {
+          "votos": 54369,
+          "escanos": 1
+        },
+        "pontevedra": {
+          "votos": 75615,
+          "escanos": 1
+        },
+        "la-rioja": {
+          "votos": 11470,
+          "escanos": 0
+        },
+        "salamanca": {
+          "votos": 11012,
+          "escanos": 0
+        },
+        "santa-cruz-de-tenerife": {
+          "votos": 53632,
+          "escanos": 0
+        },
+        "segovia": {
+          "votos": 7137,
+          "escanos": 0
+        },
+        "sevilla": {
+          "votos": 148745,
+          "escanos": 2
+        },
+        "soria": {
+          "votos": 1711,
+          "escanos": 0
+        },
+        "tarragona": {
+          "votos": 41719,
+          "escanos": 1
+        },
+        "teruel": {
+          "votos": 4126,
+          "escanos": 0
+        },
+        "toledo": {
+          "votos": 31876,
+          "escanos": 0
+        },
+        "valencia": {
+          "votos": 242839,
+          "escanos": 3
+        },
+        "valladolid": {
+          "votos": 28049,
+          "escanos": 0
+        },
+        "zamora": {
+          "votos": 5839,
+          "escanos": 0
+        },
+        "zaragoza": {
+          "votos": 69925,
+          "escanos": 1
+        },
+        "ceuta": {
+          "votos": 821,
+          "escanos": 0
+        },
+        "melilla": {
+          "votos": 827,
+          "escanos": 0
+        }
+      },
+      "circunscripciones": 52,
+      "puesto": 4
+    },
+    {
+      "encabezado": "Partit dels Socialistes de Catalunya (PSC-PSOE) (PSC)",
+      "nombre": "Partit dels Socialistes de Catalunya (PSC-PSOE)",
+      "siglas": "PSC",
+      "con_escano": true,
+      "votos": 1221335,
+      "escanos": 19,
+      "por_circunscripcion": {
+        "barcelona": {
+          "votos": 952347,
+          "escanos": 13
+        },
+        "girona": {
+          "votos": 93448,
+          "escanos": 2
+        },
+        "lleida": {
+          "votos": 54414,
+          "escanos": 2
+        },
+        "tarragona": {
+          "votos": 121126,
+          "escanos": 2
+        }
+      },
+      "circunscripciones": 4,
+      "puesto": 5
+    },
+    {
+      "encabezado": "Esquerra Republicana de Catalunya (ERC)",
+      "nombre": "Esquerra Republicana de Catalunya",
+      "siglas": "ERC",
+      "con_escano": true,
+      "votos": 466020,
+      "escanos": 7,
+      "por_circunscripcion": {
+        "barcelona": {
+          "votos": 328697,
+          "escanos": 4
+        },
+        "girona": {
+          "votos": 47531,
+          "escanos": 1
+        },
+        "lleida": {
+          "votos": 34331,
+          "escanos": 1
+        },
+        "tarragona": {
+          "votos": 55461,
+          "escanos": 1
+        }
+      },
+      "circunscripciones": 4,
+      "puesto": 6
+    },
+    {
+      "encabezado": "Junts (JUNTS)",
+      "nombre": "Junts",
+      "siglas": "JUNTS",
+      "con_escano": true,
+      "votos": 395429,
+      "escanos": 7,
+      "por_circunscripcion": {
+        "barcelona": {
+          "votos": 258159,
+          "escanos": 3
+        },
+        "girona": {
+          "votos": 63251,
+          "escanos": 2
+        },
+        "lleida": {
+          "votos": 33228,
+          "escanos": 1
+        },
+        "tarragona": {
+          "votos": 40791,
+          "escanos": 1
+        }
+      },
+      "circunscripciones": 4,
+      "puesto": 7
+    },
+    {
+      "encabezado": "Euskal Herria Bildu (EH Bildu)",
+      "nombre": "Euskal Herria Bildu",
+      "siglas": "EH Bildu",
+      "con_escano": true,
+      "votos": 335129,
+      "escanos": 6,
+      "por_circunscripcion": {
+        "alava": {
+          "votos": 32987,
+          "escanos": 1
+        },
+        "bizkaia": {
+          "votos": 125867,
+          "escanos": 2
+        },
+        "gipuzkoa": {
+          "votos": 117321,
+          "escanos": 2
+        },
+        "navarra": {
+          "votos": 58954,
+          "escanos": 1
+        }
+      },
+      "circunscripciones": 4,
+      "puesto": 8
+    },
+    {
+      "encabezado": "Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco (EAJ-PNV)",
+      "nombre": "Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco",
+      "siglas": "EAJ-PNV",
+      "con_escano": true,
+      "votos": 277289,
+      "escanos": 5,
+      "por_circunscripcion": {
+        "alava": {
+          "votos": 28075,
+          "escanos": 1
+        },
+        "bizkaia": {
+          "votos": 164188,
+          "escanos": 2
+        },
+        "gipuzkoa": {
+          "votos": 85026,
+          "escanos": 2
+        }
+      },
+      "circunscripciones": 3,
+      "puesto": 9
+    },
+    {
+      "encabezado": "Partido Animalista con el Medio Ambiente (PACMA)",
+      "nombre": "Partido Animalista con el Medio Ambiente",
+      "siglas": "PACMA",
+      "con_escano": false,
+      "votos": 169237,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "albacete": {
+          "votos": 1261
+        },
+        "alicante": {
+          "votos": 7335
+        },
+        "almeria": {
+          "votos": 1962
+        },
+        "alava": {
+          "votos": 773
+        },
+        "asturias": {
+          "votos": 3167
+        },
+        "avila": {
+          "votos": 275
+        },
+        "badajoz": {
+          "votos": 1395
+        },
+        "baleares": {
+          "votos": 4969
+        },
+        "barcelona": {
+          "votos": 28201
+        },
+        "bizkaia": {
+          "votos": 2729
+        },
+        "burgos": {
+          "votos": 943
+        },
+        "caceres": {
+          "votos": 814
+        },
+        "cadiz": {
+          "votos": 5937
+        },
+        "cantabria": {
+          "votos": 2089
+        },
+        "castellon": {
+          "votos": 1968
+        },
+        "ciudad-real": {
+          "votos": 1319
+        },
+        "cordoba": {
+          "votos": 2699
+        },
+        "a-coruna": {
+          "votos": 3096
+        },
+        "cuenca": {
+          "votos": 387
+        },
+        "gipuzkoa": {
+          "votos": 1568
+        },
+        "girona": {
+          "votos": 3531
+        },
+        "granada": {
+          "votos": 3143
+        },
+        "guadalajara": {
+          "votos": 1039
+        },
+        "huelva": {
+          "votos": 1663
+        },
+        "huesca": {
+          "votos": 498
+        },
+        "jaen": {
+          "votos": 1671
+        },
+        "leon": {
+          "votos": 895
+        },
+        "lleida": {
+          "votos": 1352
+        },
+        "lugo": {
+          "votos": 645
+        },
+        "madrid": {
+          "votos": 21742
+        },
+        "malaga": {
+          "votos": 8487
+        },
+        "murcia": {
+          "votos": 5063
+        },
+        "navarra": {
+          "votos": 1530
+        },
+        "ourense": {
+          "votos": 700
+        },
+        "palencia": {
+          "votos": 295
+        },
+        "las-palmas": {
+          "votos": 3570
+        },
+        "pontevedra": {
+          "votos": 3003
+        },
+        "la-rioja": {
+          "votos": 723
+        },
+        "salamanca": {
+          "votos": 631
+        },
+        "santa-cruz-de-tenerife": {
+          "votos": 6147
+        },
+        "segovia": {
+          "votos": 307
+        },
+        "sevilla": {
+          "votos": 9288
+        },
+        "soria": {
+          "votos": 94
+        },
+        "tarragona": {
+          "votos": 3797
+        },
+        "teruel": {
+          "votos": 172
+        },
+        "toledo": {
+          "votos": 2024
+        },
+        "valencia": {
+          "votos": 10334
+        },
+        "valladolid": {
+          "votos": 1105
+        },
+        "zamora": {
+          "votos": 313
+        },
+        "zaragoza": {
+          "votos": 2428
+        },
+        "melilla": {
+          "votos": 160
+        }
+      },
+      "circunscripciones": 51,
+      "puesto": 10
+    },
+    {
+      "encabezado": "Bloque Nacionalista Galego (BNG)",
+      "nombre": "Bloque Nacionalista Galego",
+      "siglas": "BNG",
+      "con_escano": true,
+      "votos": 153995,
+      "escanos": 1,
+      "por_circunscripcion": {
+        "a-coruna": {
+          "votos": 67653,
+          "escanos": 1
+        },
+        "lugo": {
+          "votos": 17197,
+          "escanos": 0
+        },
+        "ourense": {
+          "votos": 15317,
+          "escanos": 0
+        },
+        "pontevedra": {
+          "votos": 53828,
+          "escanos": 0
+        }
+      },
+      "circunscripciones": 4,
+      "puesto": 11
+    },
+    {
+      "encabezado": "Coalición Canaria (CCa)",
+      "nombre": "Coalición Canaria",
+      "siglas": "CCa",
+      "con_escano": true,
+      "votos": 116363,
+      "escanos": 1,
+      "por_circunscripcion": {
+        "las-palmas": {
+          "votos": 33558,
+          "escanos": 0
+        },
+        "santa-cruz-de-tenerife": {
+          "votos": 82805,
+          "escanos": 1
+        }
+      },
+      "circunscripciones": 2,
+      "puesto": 12
+    },
+    {
+      "encabezado": "Candidatura D'Unitat Popular-Per La Ruptura (CUP-PR)",
+      "nombre": "Candidatura D'Unitat Popular-Per La Ruptura",
+      "siglas": "CUP-PR",
+      "con_escano": false,
+      "votos": 99644,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "barcelona": {
+          "votos": 67266
+        },
+        "girona": {
+          "votos": 18229
+        },
+        "lleida": {
+          "votos": 5449
+        },
+        "tarragona": {
+          "votos": 8700
+        }
+      },
+      "circunscripciones": 4,
+      "puesto": 13
+    },
+    {
+      "encabezado": "Unión del Pueblo Navarro (UPN)",
+      "nombre": "Unión del Pueblo Navarro",
+      "siglas": "UPN",
+      "con_escano": true,
+      "votos": 52188,
+      "escanos": 1,
+      "por_circunscripcion": {
+        "navarra": {
+          "votos": 52188,
+          "escanos": 1
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 14
+    },
+    {
+      "encabezado": "Frente Obrero (FO)",
+      "nombre": "Frente Obrero",
+      "siglas": "FO",
+      "con_escano": false,
+      "votos": 46274,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "albacete": {
+          "votos": 381
+        },
+        "alicante": {
+          "votos": 1724
+        },
+        "almeria": {
+          "votos": 500
+        },
+        "alava": {
+          "votos": 354
+        },
+        "asturias": {
+          "votos": 1176
+        },
+        "avila": {
+          "votos": 100
+        },
+        "badajoz": {
+          "votos": 477
+        },
+        "baleares": {
+          "votos": 1039
+        },
+        "barcelona": {
+          "votos": 6048
+        },
+        "bizkaia": {
+          "votos": 929
+        },
+        "burgos": {
+          "votos": 490
+        },
+        "caceres": {
+          "votos": 316
+        },
+        "cadiz": {
+          "votos": 1225
+        },
+        "cantabria": {
+          "votos": 790
+        },
+        "castellon": {
+          "votos": 721
+        },
+        "ciudad-real": {
+          "votos": 447
+        },
+        "cordoba": {
+          "votos": 701
+        },
+        "a-coruna": {
+          "votos": 1011
+        },
+        "cuenca": {
+          "votos": 207
+        },
+        "gipuzkoa": {
+          "votos": 530
+        },
+        "girona": {
+          "votos": 570
+        },
+        "granada": {
+          "votos": 658
+        },
+        "guadalajara": {
+          "votos": 304
+        },
+        "huesca": {
+          "votos": 258
+        },
+        "jaen": {
+          "votos": 410
+        },
+        "leon": {
+          "votos": 541
+        },
+        "lleida": {
+          "votos": 247
+        },
+        "lugo": {
+          "votos": 233
+        },
+        "madrid": {
+          "votos": 7652
+        },
+        "malaga": {
+          "votos": 1662
+        },
+        "murcia": {
+          "votos": 1201
+        },
+        "navarra": {
+          "votos": 679
+        },
+        "ourense": {
+          "votos": 182
+        },
+        "palencia": {
+          "votos": 139
+        },
+        "las-palmas": {
+          "votos": 635
+        },
+        "pontevedra": {
+          "votos": 884
+        },
+        "la-rioja": {
+          "votos": 295
+        },
+        "salamanca": {
+          "votos": 278
+        },
+        "santa-cruz-de-tenerife": {
+          "votos": 1619
+        },
+        "segovia": {
+          "votos": 183
+        },
+        "sevilla": {
+          "votos": 1950
+        },
+        "soria": {
+          "votos": 68
+        },
+        "tarragona": {
+          "votos": 661
+        },
+        "teruel": {
+          "votos": 94
+        },
+        "toledo": {
+          "votos": 985
+        },
+        "valencia": {
+          "votos": 2919
+        },
+        "valladolid": {
+          "votos": 601
+        },
+        "zamora": {
+          "votos": 121
+        },
+        "zaragoza": {
+          "votos": 1026
+        },
+        "ceuta": {
+          "votos": 53
+        }
+      },
+      "circunscripciones": 50,
+      "puesto": 15
+    },
+    {
+      "encabezado": "Nueva Canarias-Bloque Canarista (NC-bc)",
+      "nombre": "Nueva Canarias-Bloque Canarista",
+      "siglas": "NC-bc",
+      "con_escano": false,
+      "votos": 45595,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "las-palmas": {
+          "votos": 42430
+        },
+        "santa-cruz-de-tenerife": {
+          "votos": 3165
+        }
+      },
+      "circunscripciones": 2,
+      "puesto": 16
+    },
+    {
+      "encabezado": "Partit Demòcrata Europeu Català-Espai CIU (PDeCAT-E-CiU)",
+      "nombre": "Partit Demòcrata Europeu Català-Espai CIU",
+      "siglas": "PDeCAT-E-CiU",
+      "con_escano": false,
+      "votos": 32016,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "barcelona": {
+          "votos": 24452
+        },
+        "girona": {
+          "votos": 3388
+        },
+        "lleida": {
+          "votos": 1865
+        },
+        "tarragona": {
+          "votos": 2311
+        }
+      },
+      "circunscripciones": 4,
+      "puesto": 17
+    },
+    {
+      "encabezado": "Recortes Cero (RECORTES CERO)",
+      "nombre": "Recortes Cero",
+      "siglas": "RECORTES CERO",
+      "con_escano": false,
+      "votos": 23421,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "albacete": {
+          "votos": 185
+        },
+        "alicante": {
+          "votos": 1135
+        },
+        "almeria": {
+          "votos": 206
+        },
+        "alava": {
+          "votos": 185
+        },
+        "asturias": {
+          "votos": 590
+        },
+        "avila": {
+          "votos": 42
+        },
+        "badajoz": {
+          "votos": 204
+        },
+        "baleares": {
+          "votos": 726
+        },
+        "barcelona": {
+          "votos": 3104
+        },
+        "bizkaia": {
+          "votos": 525
+        },
+        "burgos": {
+          "votos": 154
+        },
+        "caceres": {
+          "votos": 111
+        },
+        "cadiz": {
+          "votos": 486
+        },
+        "cantabria": {
+          "votos": 533
+        },
+        "castellon": {
+          "votos": 493
+        },
+        "ciudad-real": {
+          "votos": 233
+        },
+        "cordoba": {
+          "votos": 392
+        },
+        "a-coruna": {
+          "votos": 548
+        },
+        "cuenca": {
+          "votos": 58
+        },
+        "gipuzkoa": {
+          "votos": 442
+        },
+        "girona": {
+          "votos": 248
+        },
+        "granada": {
+          "votos": 343
+        },
+        "guadalajara": {
+          "votos": 162
+        },
+        "huelva": {
+          "votos": 217
+        },
+        "huesca": {
+          "votos": 64
+        },
+        "jaen": {
+          "votos": 203
+        },
+        "leon": {
+          "votos": 72
+        },
+        "lleida": {
+          "votos": 120
+        },
+        "lugo": {
+          "votos": 113
+        },
+        "madrid": {
+          "votos": 3784
+        },
+        "malaga": {
+          "votos": 888
+        },
+        "murcia": {
+          "votos": 546
+        },
+        "navarra": {
+          "votos": 252
+        },
+        "ourense": {
+          "votos": 97
+        },
+        "palencia": {
+          "votos": 42
+        },
+        "las-palmas": {
+          "votos": 396
+        },
+        "pontevedra": {
+          "votos": 510
+        },
+        "la-rioja": {
+          "votos": 124
+        },
+        "salamanca": {
+          "votos": 80
+        },
+        "santa-cruz-de-tenerife": {
+          "votos": 766
+        },
+        "segovia": {
+          "votos": 64
+        },
+        "sevilla": {
+          "votos": 1034
+        },
+        "soria": {
+          "votos": 9
+        },
+        "tarragona": {
+          "votos": 267
+        },
+        "teruel": {
+          "votos": 49
+        },
+        "toledo": {
+          "votos": 275
+        },
+        "valencia": {
+          "votos": 1773
+        },
+        "valladolid": {
+          "votos": 159
+        },
+        "zamora": {
+          "votos": 50
+        },
+        "zaragoza": {
+          "votos": 306
+        },
+        "ceuta": {
+          "votos": 33
+        },
+        "melilla": {
+          "votos": 23
+        }
+      },
+      "circunscripciones": 52,
+      "puesto": 18
+    },
+    {
+      "encabezado": "Por un Mundo más Justo (PUM+J)",
+      "nombre": "Por un Mundo más Justo",
+      "siglas": "PUM+J",
+      "con_escano": false,
+      "votos": 23290,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "albacete": {
+          "votos": 325
+        },
+        "almeria": {
+          "votos": 371
+        },
+        "alava": {
+          "votos": 106
+        },
+        "asturias": {
+          "votos": 773
+        },
+        "avila": {
+          "votos": 91
+        },
+        "badajoz": {
+          "votos": 464
+        },
+        "bizkaia": {
+          "votos": 804
+        },
+        "burgos": {
+          "votos": 354
+        },
+        "caceres": {
+          "votos": 249
+        },
+        "cadiz": {
+          "votos": 673
+        },
+        "ciudad-real": {
+          "votos": 365
+        },
+        "cordoba": {
+          "votos": 598
+        },
+        "cuenca": {
+          "votos": 111
+        },
+        "gipuzkoa": {
+          "votos": 149
+        },
+        "granada": {
+          "votos": 765
+        },
+        "guadalajara": {
+          "votos": 249
+        },
+        "huelva": {
+          "votos": 368
+        },
+        "huesca": {
+          "votos": 114
+        },
+        "jaen": {
+          "votos": 360
+        },
+        "leon": {
+          "votos": 155
+        },
+        "lugo": {
+          "votos": 149
+        },
+        "madrid": {
+          "votos": 6749
+        },
+        "malaga": {
+          "votos": 1519
+        },
+        "navarra": {
+          "votos": 1002
+        },
+        "ourense": {
+          "votos": 144
+        },
+        "palencia": {
+          "votos": 99
+        },
+        "las-palmas": {
+          "votos": 563
+        },
+        "la-rioja": {
+          "votos": 232
+        },
+        "salamanca": {
+          "votos": 205
+        },
+        "segovia": {
+          "votos": 136
+        },
+        "sevilla": {
+          "votos": 1765
+        },
+        "soria": {
+          "votos": 23
+        },
+        "teruel": {
+          "votos": 36
+        },
+        "toledo": {
+          "votos": 499
+        },
+        "valencia": {
+          "votos": 1778
+        },
+        "valladolid": {
+          "votos": 376
+        },
+        "zamora": {
+          "votos": 81
+        },
+        "zaragoza": {
+          "votos": 419
+        },
+        "ceuta": {
+          "votos": 31
+        },
+        "melilla": {
+          "votos": 40
+        }
+      },
+      "circunscripciones": 40,
+      "puesto": 19
+    },
+    {
+      "encabezado": "Unión del Pueblo Leones (UPL)",
+      "nombre": "Unión del Pueblo Leones",
+      "siglas": "UPL",
+      "con_escano": false,
+      "votos": 23201,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "leon": {
+          "votos": 22675
+        },
+        "zamora": {
+          "votos": 526
+        }
+      },
+      "circunscripciones": 2,
+      "puesto": 20
+    },
+    {
+      "encabezado": "Coalición Existe (EXISTE)",
+      "nombre": "Coalición Existe",
+      "siglas": "EXISTE",
+      "con_escano": false,
+      "votos": 20440,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "huesca": {
+          "votos": 1312
+        },
+        "teruel": {
+          "votos": 11348
+        },
+        "zaragoza": {
+          "votos": 7780
+        }
+      },
+      "circunscripciones": 3,
+      "puesto": 21
+    },
+    {
+      "encabezado": "Partido Comunista de los Trabajadores de España (PCTE)",
+      "nombre": "Partido Comunista de los Trabajadores de España",
+      "siglas": "PCTE",
+      "con_escano": false,
+      "votos": 18218,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "alava": {
+          "votos": 165
+        },
+        "asturias": {
+          "votos": 1598
+        },
+        "avila": {
+          "votos": 85
+        },
+        "baleares": {
+          "votos": 719
+        },
+        "barcelona": {
+          "votos": 2858
+        },
+        "bizkaia": {
+          "votos": 618
+        },
+        "burgos": {
+          "votos": 349
+        },
+        "cantabria": {
+          "votos": 598
+        },
+        "cordoba": {
+          "votos": 746
+        },
+        "cuenca": {
+          "votos": 100
+        },
+        "gipuzkoa": {
+          "votos": 259
+        },
+        "girona": {
+          "votos": 420
+        },
+        "granada": {
+          "votos": 695
+        },
+        "guadalajara": {
+          "votos": 191
+        },
+        "huesca": {
+          "votos": 137
+        },
+        "leon": {
+          "votos": 319
+        },
+        "lleida": {
+          "votos": 192
+        },
+        "lugo": {
+          "votos": 116
+        },
+        "madrid": {
+          "votos": 3407
+        },
+        "navarra": {
+          "votos": 311
+        },
+        "ourense": {
+          "votos": 101
+        },
+        "palencia": {
+          "votos": 80
+        },
+        "pontevedra": {
+          "votos": 485
+        },
+        "la-rioja": {
+          "votos": 224
+        },
+        "salamanca": {
+          "votos": 325
+        },
+        "segovia": {
+          "votos": 94
+        },
+        "sevilla": {
+          "votos": 1522
+        },
+        "soria": {
+          "votos": 43
+        },
+        "tarragona": {
+          "votos": 405
+        },
+        "teruel": {
+          "votos": 60
+        },
+        "valladolid": {
+          "votos": 335
+        },
+        "zamora": {
+          "votos": 100
+        },
+        "zaragoza": {
+          "votos": 561
+        }
+      },
+      "circunscripciones": 33,
+      "puesto": 22
+    },
+    {
+      "encabezado": "Geroa Bai (GBAI).",
+      "nombre": "Geroa Bai (GBAI).",
+      "siglas": null,
+      "con_escano": false,
+      "votos": 9938,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "navarra": {
+          "votos": 9938
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 23
+    },
+    {
+      "encabezado": "Soria ¡Ya! (SY)",
+      "nombre": "Soria ¡Ya!",
+      "siglas": "SY",
+      "con_escano": false,
+      "votos": 9697,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "soria": {
+          "votos": 9697
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 24
+    },
+    {
+      "encabezado": "Adelante Andalucía (ADELANTE ANDALUCÍA)",
+      "nombre": "Adelante Andalucía",
+      "siglas": "ADELANTE ANDALUCÍA",
+      "con_escano": false,
+      "votos": 9191,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "cadiz": {
+          "votos": 9191
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 25
+    },
+    {
+      "encabezado": "Escaños en Blanco para dejar Escaños Vacíos (ESCAÑOS EN BLANCO)",
+      "nombre": "Escaños en Blanco para dejar Escaños Vacíos",
+      "siglas": "ESCAÑOS EN BLANCO",
+      "con_escano": false,
+      "votos": 8448,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "alava": {
+          "votos": 619
+        },
+        "cordoba": {
+          "votos": 942
+        },
+        "cuenca": {
+          "votos": 168
+        },
+        "gipuzkoa": {
+          "votos": 933
+        },
+        "huesca": {
+          "votos": 475
+        },
+        "lleida": {
+          "votos": 462
+        },
+        "murcia": {
+          "votos": 1377
+        },
+        "la-rioja": {
+          "votos": 608
+        },
+        "teruel": {
+          "votos": 135
+        },
+        "valladolid": {
+          "votos": 583
+        },
+        "zaragoza": {
+          "votos": 2146
+        }
+      },
+      "circunscripciones": 11,
+      "puesto": 26
+    },
+    {
+      "encabezado": "Jaén Merece Más (JM+)",
+      "nombre": "Jaén Merece Más",
+      "siglas": "JM+",
+      "con_escano": false,
+      "votos": 8293,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "jaen": {
+          "votos": 8293
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 27
+    },
+    {
+      "encabezado": "Por Ávila (XAV)",
+      "nombre": "Por Ávila",
+      "siglas": "XAV",
+      "con_escano": false,
+      "votos": 7362,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "avila": {
+          "votos": 7362
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 28
+    },
+    {
+      "encabezado": "Bloque Extremeño (BQEX)",
+      "nombre": "Bloque Extremeño",
+      "siglas": "BQEX",
+      "con_escano": false,
+      "votos": 5807,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "badajoz": {
+          "votos": 3885
+        },
+        "caceres": {
+          "votos": 1922
+        }
+      },
+      "circunscripciones": 2,
+      "puesto": 29
+    },
+    {
+      "encabezado": "Caminando Juntos (CJ)",
+      "nombre": "Caminando Juntos",
+      "siglas": "CJ",
+      "con_escano": false,
+      "votos": 5620,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "alicante": {
+          "votos": 1027
+        },
+        "cadiz": {
+          "votos": 745
+        },
+        "granada": {
+          "votos": 461
+        },
+        "malaga": {
+          "votos": 691
+        },
+        "murcia": {
+          "votos": 453
+        },
+        "palencia": {
+          "votos": 33
+        },
+        "salamanca": {
+          "votos": 140
+        },
+        "segovia": {
+          "votos": 102
+        },
+        "sevilla": {
+          "votos": 912
+        },
+        "valencia": {
+          "votos": 1056
+        }
+      },
+      "circunscripciones": 10,
+      "puesto": 30
+    },
+    {
+      "encabezado": "España Vaciada (ESPAÑA VACIADA)",
+      "nombre": "España Vaciada",
+      "siglas": "ESPAÑA VACIADA",
+      "con_escano": false,
+      "votos": 5472,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "asturias": {
+          "votos": 2314
+        },
+        "leon": {
+          "votos": 486
+        },
+        "palencia": {
+          "votos": 384
+        },
+        "salamanca": {
+          "votos": 1062
+        },
+        "valladolid": {
+          "votos": 1226
+        }
+      },
+      "circunscripciones": 5,
+      "puesto": 31
+    },
+    {
+      "encabezado": "Falange Española de las JONS (FE de las JONS)",
+      "nombre": "Falange Española de las JONS",
+      "siglas": "FE de las JONS",
+      "con_escano": false,
+      "votos": 4683,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "avila": {
+          "votos": 77
+        },
+        "castellon": {
+          "votos": 161
+        },
+        "guadalajara": {
+          "votos": 118
+        },
+        "madrid": {
+          "votos": 1751
+        },
+        "murcia": {
+          "votos": 376
+        },
+        "palencia": {
+          "votos": 71
+        },
+        "sevilla": {
+          "votos": 681
+        },
+        "toledo": {
+          "votos": 281
+        },
+        "valencia": {
+          "votos": 731
+        },
+        "valladolid": {
+          "votos": 164
+        },
+        "zaragoza": {
+          "votos": 272
+        }
+      },
+      "circunscripciones": 11,
+      "puesto": 32
+    },
+    {
+      "encabezado": "Partido Aragonés (PAR)",
+      "nombre": "Partido Aragonés",
+      "siglas": "PAR",
+      "con_escano": false,
+      "votos": 4173,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "huesca": {
+          "votos": 717
+        },
+        "teruel": {
+          "votos": 711
+        },
+        "zaragoza": {
+          "votos": 2745
+        }
+      },
+      "circunscripciones": 3,
+      "puesto": 33
+    },
+    {
+      "encabezado": "Partido Humanista (PH)",
+      "nombre": "Partido Humanista",
+      "siglas": "PH",
+      "con_escano": false,
+      "votos": 2902,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "madrid": {
+          "votos": 2902
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 34
+    },
+    {
+      "encabezado": "Por Huelva (XH)",
+      "nombre": "Por Huelva",
+      "siglas": "XH",
+      "con_escano": false,
+      "votos": 1931,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "huelva": {
+          "votos": 1931
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 35
+    },
+    {
+      "encabezado": "Vamos Palencia (VP)",
+      "nombre": "Vamos Palencia",
+      "siglas": "VP",
+      "con_escano": false,
+      "votos": 1917,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "palencia": {
+          "votos": 1917
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 36
+    },
+    {
+      "encabezado": "Zamora Sí (Zsi)",
+      "nombre": "Zamora Sí",
+      "siglas": "Zsi",
+      "con_escano": false,
+      "votos": 1843,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "zamora": {
+          "votos": 1843
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 37
+    },
+    {
+      "encabezado": "Vía Burgalesa (VB)",
+      "nombre": "Vía Burgalesa",
+      "siglas": "VB",
+      "con_escano": false,
+      "votos": 1774,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "burgos": {
+          "votos": 1774
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 38
+    },
+    {
+      "encabezado": "Por Mi Región (POR MI REGIÓN)",
+      "nombre": "Por Mi Región",
+      "siglas": "POR MI REGIÓN",
+      "con_escano": false,
+      "votos": 1698,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "murcia": {
+          "votos": 1698
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 39
+    },
+    {
+      "encabezado": "Ahora Canarias-Partido Comunista del Pueblo Canario (AHORA CANARIAS-PCPC)",
+      "nombre": "Ahora Canarias-Partido Comunista del Pueblo Canario",
+      "siglas": "AHORA CANARIAS-PCPC",
+      "con_escano": false,
+      "votos": 1674,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "las-palmas": {
+          "votos": 883
+        },
+        "santa-cruz-de-tenerife": {
+          "votos": 791
+        }
+      },
+      "circunscripciones": 2,
+      "puesto": 40
+    },
+    {
+      "encabezado": "Partido Autónomos (PARTIDO AUTÓNOMOS)",
+      "nombre": "Partido Autónomos",
+      "siglas": "PARTIDO AUTÓNOMOS",
+      "con_escano": false,
+      "votos": 1446,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "alicante": {
+          "votos": 1446
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 41
+    },
+    {
+      "encabezado": "Estat Valencià del Benestar (EVB)",
+      "nombre": "Estat Valencià del Benestar",
+      "siglas": "EVB",
+      "con_escano": false,
+      "votos": 1442,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "valencia": {
+          "votos": 1442
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 42
+    },
+    {
+      "encabezado": "Coalición por Melilla (CpM)",
+      "nombre": "Coalición por Melilla",
+      "siglas": "CpM",
+      "con_escano": false,
+      "votos": 1298,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "melilla": {
+          "votos": 1298
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 43
+    },
+    {
+      "encabezado": "Juntos por Granada (JxG)",
+      "nombre": "Juntos por Granada",
+      "siglas": "JxG",
+      "con_escano": false,
+      "votos": 1218,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "granada": {
+          "votos": 1218
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 44
+    },
+    {
+      "encabezado": "España Vaciada-Partido Castellano-Tierra Comunera (EV-PCAS-TC)",
+      "nombre": "España Vaciada-Partido Castellano-Tierra Comunera",
+      "siglas": "EV-PCAS-TC",
+      "con_escano": false,
+      "votos": 1184,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "burgos": {
+          "votos": 1184
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 45
+    },
+    {
+      "encabezado": "Partido Regionalista del País Leonés (PREPAL)",
+      "nombre": "Partido Regionalista del País Leonés",
+      "siglas": "PREPAL",
+      "con_escano": false,
+      "votos": 964,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "leon": {
+          "votos": 309
+        },
+        "salamanca": {
+          "votos": 489
+        },
+        "zamora": {
+          "votos": 166
+        }
+      },
+      "circunscripciones": 3,
+      "puesto": 46
+    },
+    {
+      "encabezado": "Somos Cáceres (Somos Cc)",
+      "nombre": "Somos Cáceres",
+      "siglas": "Somos Cc",
+      "con_escano": false,
+      "votos": 963,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "caceres": {
+          "votos": 963
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 47
+    },
+    {
+      "encabezado": "Almerienses-Regionalistas Pro Almería (ALM)",
+      "nombre": "Almerienses-Regionalistas Pro Almería",
+      "siglas": "ALM",
+      "con_escano": false,
+      "votos": 874,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "almeria": {
+          "votos": 874
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 48
+    },
+    {
+      "encabezado": "Federación de los Independientes de Aragón (FIA)",
+      "nombre": "Federación de los Independientes de Aragón",
+      "siglas": "FIA",
+      "con_escano": false,
+      "votos": 506,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "huesca": {
+          "votos": 84
+        },
+        "teruel": {
+          "votos": 28
+        },
+        "zaragoza": {
+          "votos": 394
+        }
+      },
+      "circunscripciones": 3,
+      "puesto": 49
+    },
+    {
+      "encabezado": "Tercera Edad en Acción (3e)",
+      "nombre": "Tercera Edad en Acción",
+      "siglas": "3e",
+      "con_escano": false,
+      "votos": 484,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "la-rioja": {
+          "votos": 286
+        },
+        "segovia": {
+          "votos": 198
+        }
+      },
+      "circunscripciones": 2,
+      "puesto": 50
+    },
+    {
+      "encabezado": "Unidad Castellana (Ud.Ca)",
+      "nombre": "Unidad Castellana",
+      "siglas": "Ud.Ca",
+      "con_escano": false,
+      "votos": 463,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "valladolid": {
+          "votos": 463
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 51
+    },
+    {
+      "encabezado": "Grupo Independiente Palencia Tierra Viva (GITV)",
+      "nombre": "Grupo Independiente Palencia Tierra Viva",
+      "siglas": "GITV",
+      "con_escano": false,
+      "votos": 366,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "palencia": {
+          "votos": 366
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 52
+    },
+    {
+      "encabezado": "Partido Unionista Estado de España (PUEDE)",
+      "nombre": "Partido Unionista Estado de España",
+      "siglas": "PUEDE",
+      "con_escano": false,
+      "votos": 269,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "asturias": {
+          "votos": 269
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 53
+    },
+    {
+      "encabezado": "Entre Veïns Catalunya (EVR)",
+      "nombre": "Entre Veïns Catalunya",
+      "siglas": "EVR",
+      "con_escano": false,
+      "votos": 265,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "tarragona": {
+          "votos": 265
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 54
+    },
+    {
+      "encabezado": "Libres (LB)",
+      "nombre": "Libres",
+      "siglas": "LB",
+      "con_escano": false,
+      "votos": 263,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "almeria": {
+          "votos": 210
+        },
+        "ceuta": {
+          "votos": 53
+        }
+      },
+      "circunscripciones": 2,
+      "puesto": 55
+    },
+    {
+      "encabezado": "Unidos por la Solidaridad Internacional (UNIDOS SI)",
+      "nombre": "Unidos por la Solidaridad Internacional",
+      "siglas": "UNIDOS SI",
+      "con_escano": false,
+      "votos": 253,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "tarragona": {
+          "votos": 253
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 56
+    },
+    {
+      "encabezado": "Referéndum Sistema Dinero (+RDS+)",
+      "nombre": "Referéndum Sistema Dinero",
+      "siglas": "+RDS+",
+      "con_escano": false,
+      "votos": 165,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "murcia": {
+          "votos": 165
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 57
+    },
+    {
+      "encabezado": "Coalición de Centro Democrático (CCD)",
+      "nombre": "Coalición de Centro Democrático",
+      "siglas": "CCD",
+      "con_escano": false,
+      "votos": 153,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "ourense": {
+          "votos": 153
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 58
+    },
+    {
+      "encabezado": "Fuerza Cívica (FUERZA CÍVICA)",
+      "nombre": "Fuerza Cívica",
+      "siglas": "FUERZA CÍVICA",
+      "con_escano": false,
+      "votos": 115,
+      "escanos": 0,
+      "por_circunscripcion": {
+        "valladolid": {
+          "votos": 115
+        }
+      },
+      "circunscripciones": 1,
+      "puesto": 59
+    }
+  ]
+}

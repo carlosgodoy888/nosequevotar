@@ -1,0 +1,2594 @@
+{
+  "fuente": "salf-contrato-electoral-29n",
+  "partido": "salf",
+  "paginas": [
+    1,
+    20
+  ],
+  "citas": [
+    {
+      "cita": "La mitad de los altos cargos y 400 asesores. Doce ministerios desaparecen el primer día; sus funciones útiles pasan a los diez que quedan.",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de doce ministerios y reducción de altos cargos y asesores",
+      "etiquetas": [
+        "instituciones",
+        "administración pública",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vicepresidencia económica: Hacienda, Economía y Empleo",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Una única vicepresidencia, de carácter económico",
+      "etiquetas": [
+        "instituciones",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Presidencia y Administraciones Públicas Absorbe: Relaciones con las Cortes, Política Territorial, Función Pública y Transformación Digital",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ministerio de Presidencia con Política Territorial, Función Pública y Transformación Digital",
+      "etiquetas": [
+        "instituciones",
+        "administración pública",
+        "función pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Interior y Justicia Absorbe: Interior, Justicia y Migraciones",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ministerio único de Interior, Justicia y Migraciones",
+      "etiquetas": [
+        "instituciones",
+        "seguridad",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Hacienda, Economía y Empleo Absorbe: Hacienda; Economía, Comercio y Empresa; Trabajo",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ministerio único de Hacienda, Economía y Trabajo",
+      "etiquetas": [
+        "instituciones",
+        "economía",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defensa Absorbe: Fuerzas Armadas e industria de defensa",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ministerio de Defensa con la industria de defensa",
+      "etiquetas": [
+        "instituciones",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asuntos Exteriores Absorbe: Exteriores, UE y cooperación condicionada",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ministerio de Exteriores con UE y cooperación condicionada",
+      "etiquetas": [
+        "instituciones",
+        "política exterior",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sanidad y Seguridad Social Absorbe: Sanidad; Seguridad Social; Derechos Sociales y Consumo",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ministerio único de Sanidad, Seguridad Social y Derechos Sociales",
+      "etiquetas": [
+        "instituciones",
+        "sanidad",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Educación, Ciencia y Cultura Absorbe: Educación y FP; Universidades y Ciencia; Cultura y Deportes; Juventud",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ministerio único de Educación, Universidades, Ciencia, Cultura y Deportes",
+      "etiquetas": [
+        "instituciones",
+        "educación",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Infraestructuras, Energía e Industria Absorbe: Transportes; Energía y Medio Ambiente; Industria y Turismo",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ministerio único de Transportes, Energía, Medio Ambiente e Industria",
+      "etiquetas": [
+        "instituciones",
+        "infraestructuras",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vivienda Absorbe: Suelo, licencias, Sareb y vivienda en propiedad",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ministerio de Vivienda con suelo, licencias y Sareb",
+      "etiquetas": [
+        "instituciones",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Agricultura, Pesca y Alimentación Absorbe: Campo, mar y mundo rural",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ministerio de Agricultura, Pesca y Alimentación",
+      "etiquetas": [
+        "instituciones",
+        "agricultura y pesca",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "35 → 15 secretarías de Estado",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reducción de secretarías de Estado de 35 a 15",
+      "etiquetas": [
+        "instituciones",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "128 → 70 direcciones generales",
+      "pagina": 3,
+      "apartado": [
+        "El Gobierno",
+        "Así estará con SALF"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reducción de direcciones generales de 128 a 70",
+      "etiquetas": [
+        "administración pública",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tu primera casa, un 35 % más barata. Okupa fuera en 48 horas. Eliminación TOTAL de impuestos a la 1.ª vivienda. Democratización total del suelo. Crédito hipotecario para menores de 45 años.",
+      "pagina": 4,
+      "apartado": [
+        "10 compromisos",
+        "Vivienda"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Resumen del compromiso de vivienda: precio, desalojos, impuestos, suelo y crédito",
+      "etiquetas": [
+        "vivienda",
+        "impuestos",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Macrocárcel sin tercer grado para corruptos y criminales.",
+      "pagina": 4,
+      "apartado": [
+        "10 compromisos",
+        "Seguridad"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Resumen del compromiso de seguridad: macrocárcel sin tercer grado",
+      "etiquetas": [
+        "seguridad",
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nadie paga IRPF por los primeros 35.000 euros.",
+      "pagina": 4,
+      "apartado": [
+        "10 compromisos",
+        "Impuestos"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Resumen del compromiso fiscal: primeros 35.000 euros sin IRPF",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Solo legal. Expulsión en 48 horas. Paralización total de inmigración de países no colaboradores contra las mafias de trata de personas.",
+      "pagina": 4,
+      "apartado": [
+        "10 compromisos",
+        "Inmigración"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Resumen del compromiso migratorio: expulsión en 48 horas y paralización selectiva",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforma urgente contra el sistema fraudulento actual.",
+      "pagina": 4,
+      "apartado": [
+        "10 compromisos",
+        "Pensiones"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Resumen del compromiso de pensiones: reforma urgente del sistema",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Una central de compras. 60 días para operarte. Profesionales pagados como en Europa.",
+      "pagina": 4,
+      "apartado": [
+        "10 compromisos",
+        "Sanidad"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Resumen del compromiso sanitario: central de compras, plazos y salarios",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Imprescriptible. Sin tercer grado. Devuelves el triple. El que denuncia cobra el 15 %.",
+      "pagina": 4,
+      "apartado": [
+        "10 compromisos",
+        "Corrupción"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Resumen del compromiso anticorrupción: imprescriptibilidad, devolución triple y recompensa al denunciante",
+      "etiquetas": [
+        "corrupción",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cuña fiscal del 41 al 29 %. Contrato único con mochila. Eliminación total de la cuota de autónomos.",
+      "pagina": 4,
+      "apartado": [
+        "10 compromisos",
+        "Empleo"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Resumen del compromiso de empleo: cuña fiscal, contrato único y autónomos",
+      "etiquetas": [
+        "empleo",
+        "autónomos",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ley de 20 años. Castellano garantizado. El dinero sigue al alumno.",
+      "pagina": 4,
+      "apartado": [
+        "10 compromisos",
+        "Educación"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Resumen del compromiso educativo: ley estable, castellano y financiación por alumno",
+      "etiquetas": [
+        "educación",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Referéndum de renegociación europea. Bloqueo comercial a Marruecos si bloquea un puerto español. Hermanos Musulmanes: ley antiterrorista con penas máximas.",
+      "pagina": 4,
+      "apartado": [
+        "10 compromisos",
+        "Geopolítica"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Resumen del compromiso exterior: referéndum europeo, Marruecos y Hermanos Musulmanes",
+      "etiquetas": [
+        "unión europea",
+        "política exterior",
+        "terrorismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde el 1.º día, el 100 % del sueldo público de Alvise Pérez queda bloqueado en una cuenta del Banco de España. En junio de 2030, se comparan las 119 medidas de este contrato electoral con los votos de Alvise en el Congreso de los Diputados: si no llegan al 100 %, ese dinero acumulado se lo queda España.",
+      "pagina": 4,
+      "apartado": [
+        "Cláusula de penalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cláusula de penalización sobre el sueldo del candidato",
+      "etiquetas": [
+        "transparencia",
+        "partidos políticos"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si SALF no entra en el Gobierno, la multa se aplica igual en base a la actividad de voto en el Congreso.",
+      "pagina": 4,
+      "apartado": [
+        "Cláusula de penalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "La penalización se aplica también si no gobierna",
+      "etiquetas": [
+        "transparencia",
+        "partidos políticos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Invitamos al resto de partidos a firmar esta misma cláusula: el que no la firme ya te ha dicho cuánto vale su programa.",
+      "pagina": 4,
+      "apartado": [
+        "Cláusula de penalización"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Invitación a los demás partidos a firmar la cláusula",
+      "etiquetas": [
+        "partidos políticos",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cero impuestos (ITP y AJD al 0 %; IVA al 4 % devuelto íntegro en la renta), licencia en plazo y suelo público sin coste. Resultado garantizado por ley: el comprador de primera vivienda paga, como mínimo, un 35 % menos que hoy.",
+      "pagina": 5,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Primera vivienda sin impuestos y un 35 % más barata",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "vivienda",
+        "impuestos"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Ley de neutralidad: la recaudación por vivienda no puede crecer más que el IPC y el exceso se devuelve bajando tipos.",
+      "pagina": 5,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley que limita al IPC la recaudación fiscal por vivienda",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Y nadie legisla sobre vivienda sin publicar sus pisos: 19 miembros del Gobierno suman 39 viviendas.",
+      "pagina": 5,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicar el patrimonio inmobiliario de quien legisla sobre vivienda",
+      "etiquetas": [
+        "transparencia",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Con denuncia y título de propiedad, la Policía desaloja en 48 horas. Al que deja de pagar, juicio verbal y lanzamiento en 30 días, sin excusas de 'vulnerabilidad': a los vulnerables los atiende el Estado, no tu casa.",
+      "pagina": 5,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desalojo de ocupaciones en 48 horas y de impagos en 30 días",
+      "etiquetas": [
+        "vivienda",
+        "justicia",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "vivienda",
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Todo el suelo de la Sareb y del Estado, en 12 meses, a concurso para construir vivienda protegida en propiedad a precio tasado. El joven que compra es dueño, no inquilino del Ayuntamiento.",
+      "pagina": 6,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suelo de Sareb y Estado para vivienda protegida en propiedad",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "vivienda"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Un mes obra menor, dos obra mayor, tres grandes desarrollos. Pasado el plazo, licencia concedida y el ayuntamiento paga el retraso.",
+      "pagina": 6,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazos máximos de licencia con silencio positivo",
+      "etiquetas": [
+        "urbanismo",
+        "vivienda",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "vivienda"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Las reformas no requerirán declaración responsable.",
+      "pagina": 6,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reformas de vivienda sin declaración responsable",
+      "etiquetas": [
+        "urbanismo",
+        "burocracia",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Las SOCIMI con más de 100 viviendas en alquiler tributan al 25 %, como cualquier empresa. Y el Estado deja de contratar a los fondos que dice combatir.",
+      "pagina": 6,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fin del régimen fiscal especial de las grandes SOCIMI",
+      "etiquetas": [
+        "vivienda",
+        "impuestos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "vivienda",
+        "impuestos"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aval público del 20 % de entrada para menores de 40 en su primera vivienda. Con un 35 % de ahorro y la entrada avalada, comprar vuelve a ser posible con un sueldo normal.",
+      "pagina": 6,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aval público del 20 % de la entrada para menores de 40",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "vivienda"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Seguro público de impago: doce meses de renta y daños garantizados; después, el Estado persigue al moroso.",
+      "pagina": 7,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Seguro público de impago del alquiler durante doce meses",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "A cambio, se alquila sin exigir tres nóminas y un aval bancario. Prioridad a menores de 45 y familias con hijos.",
+      "pagina": 7,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Alquiler sin exigir nóminas ni aval, con prioridad a jóvenes y familias",
+      "etiquetas": [
+        "vivienda",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Construir rápido: licencia automática en 15 días.",
+      "pagina": 7,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Licencia automática de construcción en 15 días",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vivienda industrializada en suelo público y urbano consolidado con licencia automática y estándar técnico único: lo que vale en Sevilla vale en Bilbao.",
+      "pagina": 7,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Vivienda industrializada con licencia automática y estándar técnico único",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Registro único de alquiler turístico con cumplimiento fiscal, sin prohibiciones.",
+      "pagina": 7,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro único de alquiler turístico sin prohibiciones",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El IBI se elimina por completo, para todos. Sin compensaciones a nadie: el impuesto desaparece y punto.",
+      "pagina": 7,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión total del IBI",
+      "etiquetas": [
+        "impuestos",
+        "municipios",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "impuestos",
+        "vivienda",
+        "organizacion-territorial"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Un tributo aberrante no se parchea, se quita.",
+      "pagina": 7,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "10",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo de principio al IBI como tributo",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Menos ingresos municipales: ≈ 13.400 M€/año; los ayuntamientos lo absorben con ahorro, no con otros impuestos.",
+      "pagina": 7,
+      "apartado": [
+        "I. Vivienda"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Los ayuntamientos asumen la pérdida de ingresos con ahorro",
+      "etiquetas": [
+        "municipios",
+        "impuestos",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Macrocárcel para asesinos, violadores, narcos y corruptos.",
+      "pagina": 8,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Macrocárcel para condenados por delitos graves y corrupción",
+      "etiquetas": [
+        "seguridad",
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Máxima seguridad para asesinos, agresores sexuales, narcotraficantes, crimen organizado, terroristas, multirreincidentes violentos y políticos corruptos. Sin permisos, sin tercer grado, sin teléfono.",
+      "pagina": 8,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Régimen de máxima seguridad sin permisos ni tercer grado",
+      "etiquetas": [
+        "seguridad",
+        "justicia",
+        "corrupción"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "seguridad-y-justicia",
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Violadores, asesinos, narcos y corruptos: cumplimiento íntegro, sin reducción ninguna ni permisos. Prisión permanente revisable por violación a menores o con lesiones graves. Tres condenas: prisión sin suspensión.",
+      "pagina": 8,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cumplimiento íntegro de penas y ampliación de la prisión permanente",
+      "etiquetas": [
+        "justicia",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Agresores sexuales: registro público y castración química.",
+      "pagina": 8,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro público y castración química para agresores sexuales",
+      "etiquetas": [
+        "justicia",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Registro público de reincidentes, pulsera telemática de por vida y castración química voluntaria como condición de cualquier beneficio penitenciario.",
+      "pagina": 8,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro de reincidentes, pulsera telemática y castración química voluntaria",
+      "etiquetas": [
+        "justicia",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "seguridad-y-justicia",
+        "igualdad-y-derechos"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Extranjero condenado: cumple la pena fuera.",
+      "pagina": 9,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cumplimiento de la condena fuera de España para extranjeros",
+      "etiquetas": [
+        "justicia",
+        "inmigración",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Convenios con terceros países para que los extranjeros condenados cumplan la pena allí, en prisiones de máxima dureza, no en una celda con televisión y permisos.",
+      "pagina": 9,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Convenios para cumplir la pena en prisiones de terceros países",
+      "etiquetas": [
+        "justicia",
+        "inmigración",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Después, veto de por vida del acceso a España.",
+      "pagina": 9,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición vitalicia de entrada para extranjeros condenados",
+      "etiquetas": [
+        "inmigración",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Guardia Civil y Policía: el mismo sueldo que un mosso.",
+      "pagina": 9,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Equiparar el sueldo de Guardia Civil y Policía con los Mossos",
+      "etiquetas": [
+        "seguridad",
+        "función pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Equiparación salarial real en dos años, jubilación a los 60 sin penalización y reconocimiento de profesión de riesgo.",
+      "pagina": 9,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Equiparación salarial en dos años y jubilación a los 60",
+      "etiquetas": [
+        "seguridad",
+        "función pública",
+        "pensiones"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan Estrecho: la Armada contra el narco.",
+      "pagina": 9,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan con la Armada contra el narcotráfico en el Estrecho",
+      "etiquetas": [
+        "narcotráfico",
+        "seguridad",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyo permanente de la Armada y el Ejército del Aire, 180 millones en lanchas, drones y medios aéreos, y decomiso civil de todo bien del narcotráfico.",
+      "pagina": 9,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Apoyo militar permanente, 180 millones y decomiso civil contra el narcotráfico",
+      "etiquetas": [
+        "narcotráfico",
+        "seguridad",
+        "defensa"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "seguridad-y-justicia",
+        "politica-exterior-y-defensa"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La mili voluntaria: 1.600 euros al mes.",
+      "pagina": 9,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Servicio voluntario remunerado con 1.600 euros al mes",
+      "etiquetas": [
+        "defensa",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "De seis a doce meses, militar o civil, entre 18 y 30 años: 1.600 euros netos, formación oficial, puntos en todas las oposiciones, vivienda protegida preferente y 5.000 euros al terminar.",
+      "pagina": 9,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Servicio voluntario militar o civil de seis a doce meses",
+      "etiquetas": [
+        "defensa",
+        "empleo",
+        "función pública"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "politica-exterior-y-defensa",
+        "empleo",
+        "educacion"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Quien complete la mili voluntaria tendrá un mínimo exento de IRPF de 50.000 euros durante diez años (15.000 más que el resto), cero cotización del trabajador en sus tres primeros años de contrato y matrícula gratuita en universidad y FP.",
+      "pagina": 9,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ventajas fiscales, de cotización y de matrícula tras el servicio voluntario",
+      "etiquetas": [
+        "impuestos",
+        "defensa",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Servir a España tiene que notarse en la nómina.",
+      "pagina": 9,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "8",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Principio de recompensar económicamente el servicio voluntario",
+      "etiquetas": [
+        "defensa",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Presunción legal de legítima defensa en tu vivienda o negocio, incluido el uso de armas de fuego legalmente tenidas: quien irrumpe por la fuerza o de noche asume las consecuencias. La acusación tiene que probar el exceso, no la víctima.",
+      "pagina": 10,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Presunción legal de legítima defensa en vivienda o negocio",
+      "etiquetas": [
+        "seguridad",
+        "justicia",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "2.000 jueces y 1.500 fiscales más. Juicios rápidos en 72 horas para multirreincidentes y delitos flagrantes. Expediente digital único en toda España.",
+      "pagina": 10,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más jueces y fiscales y juicios rápidos",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Licencia de arma para defensa del domicilio sin trabas para ciudadanos sin antecedentes.",
+      "pagina": 10,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Licencia de armas para la defensa del domicilio",
+      "etiquetas": [
+        "seguridad",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El agente que investiga a un político obedece al juez, no al ministro. La injerencia política es delito.",
+      "pagina": 10,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "11",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Policía judicial dependiente del juez y delito de injerencia política",
+      "etiquetas": [
+        "justicia",
+        "corrupción",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ningún policía vuelve a fichar periodistas por encargo.",
+      "pagina": 10,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "11",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prohibición de fichas policiales sobre periodistas",
+      "etiquetas": [
+        "medios de comunicación",
+        "seguridad",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan 2027-2029: UCO de 580 a 1.800 agentes, UDEF de 320 a 1.000, 1.200 más en UDYCO y Vigilancia Aduanera, peritos contables y laboratorio forense propio.",
+      "pagina": 10,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "12",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Triplicar los investigadores de UCO, UDEF y UDYCO",
+      "etiquetas": [
+        "seguridad",
+        "corrupción",
+        "narcotráfico"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "seguridad-y-justicia",
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Partida finalista blindada por ley: ningún ministro puede recortarla ni apartar a un investigador.",
+      "pagina": 10,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "12",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Presupuesto protegido por ley para las unidades de investigación",
+      "etiquetas": [
+        "seguridad",
+        "corrupción",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vigilantes de seguridad: protección penal reforzada, como bomberos y sanitarios.",
+      "pagina": 11,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "13",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Protección penal reforzada para los vigilantes de seguridad",
+      "etiquetas": [
+        "seguridad",
+        "justicia",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforma de la Ley de Seguridad Privada: estatuto de colaborador de la seguridad pública, con la misma protección penal que bomberos y personal sanitario: agredirlos es atentado, sin ser agentes de la autoridad ni invadir una sola competencia de la Policía y la Guardia Civil.",
+      "pagina": 11,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "13",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la Ley de Seguridad Privada: agresión como atentado",
+      "etiquetas": [
+        "seguridad",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Chaleco, guantes anticorte y defensa a cargo de la empresa; binomio obligatorio en transporte, hospitales y centros de menores; TIP en 30 días, no en nueve meses; título oficial de FP y reglamento nuevo en seis meses: el vigente es de 1994.",
+      "pagina": 11,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "13",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Equipamiento, servicio en pareja, habilitación rápida y nuevo reglamento para vigilantes",
+      "etiquetas": [
+        "seguridad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El Estado no vuelve a adjudicar vigilancia a precio de nómina impagada: precio mínimo de licitación igual al coste del convenio más estructura, pago directo al trabajador si la empresa no paga y exclusión de la contratación pública a quien incumpla.",
+      "pagina": 11,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "14",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Precio mínimo de licitación en contratos públicos de vigilancia",
+      "etiquetas": [
+        "empleo",
+        "administración pública",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Plus de peligrosidad de 150 euros en todo contrato público.",
+      "pagina": 11,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "14",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plus de peligrosidad de 150 euros para vigilantes",
+      "etiquetas": [
+        "empleo",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Coeficientes reductores para jubilarse a los 60 con 35 años cotizados, financiados con cotización adicional, como la policía local.",
+      "pagina": 11,
+      "apartado": [
+        "II. Seguridad"
+      ],
+      "numero": "14",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Jubilación a los 60 para vigilantes con 35 años cotizados",
+      "etiquetas": [
+        "pensiones",
+        "empleo",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "35.000 euros libres de IRPF para todos.",
+      "pagina": 12,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Exención de IRPF para los primeros 35.000 euros",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero. Calendario: 15.000 en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030.",
+      "pagina": 12,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "IRPF cero para los primeros 35.000 euros en 2030",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "impuestos",
+        "empleo"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada hijo suma 5.000 euros al mínimo exento de cada progenitor: ni el padre ni la madre pagan IRPF por esa parte. Una pareja con dos hijos no paga hasta 45.000 euros cada uno.",
+      "pagina": 12,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mínimo exento de IRPF ampliado en 5.000 euros por hijo",
+      "etiquetas": [
+        "impuestos",
+        "familia"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "familias-y-cuidados",
+        "impuestos"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El Estado que cobra por tener hijos no puede hablar de natalidad.",
+      "pagina": 12,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "2",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Crítica a la fiscalidad sobre las familias con hijos",
+      "etiquetas": [
+        "familia",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fin de la subida de impuestos por inflación.",
+      "pagina": 12,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fin de las subidas fiscales derivadas de la inflación",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tarifa, mínimos y deducciones del IRPF actualizados cada año con el IPC, por ley.",
+      "pagina": 12,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Actualización anual por ley del IRPF con el IPC",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cuota cero, total y para siempre: ningún autónomo vuelve a pagar cuota. IVA de caja: si no cobras, no adelantas.",
+      "pagina": 12,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminación de la cuota de autónomos e IVA de caja",
+      "etiquetas": [
+        "autónomos",
+        "impuestos",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "empleo",
+        "impuestos"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sociedades: 20 %. 15 % si reinviertes. 10 % startups.",
+      "pagina": 13,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tipos reducidos del impuesto de Sociedades",
+      "etiquetas": [
+        "impuestos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Del 25 al 20 % en dos años; 15 % sobre el beneficio reinvertido; 10 % los tres primeros años de una empresa nueva.",
+      "pagina": 13,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rebaja del tipo general, por reinversión y para empresas nuevas",
+      "etiquetas": [
+        "impuestos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "impuestos",
+        "economia"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Sucesiones, Donaciones y Patrimonio: suprimidos.",
+      "pagina": 13,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de los impuestos de Sucesiones, Donaciones y Patrimonio",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Heredar la casa de tus padres no es un hecho imponible. Es un duelo. Fuera también el impuesto a las grandes fortunas.",
+      "pagina": 13,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de Sucesiones, Donaciones, Patrimonio y grandes fortunas",
+      "etiquetas": [
+        "impuestos",
+        "familia"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "impuestos"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Luz y agua al 4 % de IVA para siempre.",
+      "pagina": 13,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "IVA permanente del 4 % para luz y agua",
+      "etiquetas": [
+        "impuestos",
+        "energía",
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La luz, del 21 al 4 %; el agua, del 10 al 4 %. Y fuera el impuesto a la producción eléctrica que va directo a tu factura.",
+      "pagina": 13,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rebaja del tipo en luz y agua y supresión del impuesto eléctrico",
+      "etiquetas": [
+        "impuestos",
+        "energía",
+        "agua"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "medio-ambiente-y-energia",
+        "impuestos"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Ninguna bajada entra en vigor sin ahorro estructural certificado por la AIReF. Techo de gasto real. Déficit cero en 2030.",
+      "pagina": 13,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Regla de oro fiscal y déficit cero en 2030",
+      "etiquetas": [
+        "gasto público",
+        "impuestos",
+        "deuda pública"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "economia",
+        "impuestos"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Renta en una página, liquidación en 30 días, carga de la prueba para la Administración e intereses de demora simétricos: Hacienda devuelve con el mismo interés con el que cobra.",
+      "pagina": 13,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Declaración simplificada, carga de la prueba e intereses simétricos en Hacienda",
+      "etiquetas": [
+        "impuestos",
+        "burocracia",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Eliminación inmediata de incentivos a la persecución fiscal; el 50 % de los inspectores fiscales se dedicarán en exclusiva a la investigación de políticos, cargos públicos y empresas subvencionadas directa o indirectamente.",
+      "pagina": 13,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reorientación de la inspección fiscal hacia cargos públicos",
+      "etiquetas": [
+        "impuestos",
+        "corrupción",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "impuestos",
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional). Cada contribuyente recibirá cada año cuánto pagó en total y en qué se gastó, euro a euro.",
+      "pagina": 13,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tres quintos para subir impuestos e informe fiscal anual al contribuyente",
+      "etiquetas": [
+        "impuestos",
+        "instituciones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "impuestos",
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Frente a modelos de financiación improvisados ad hoc por el sanchismo para contentar a sus socios separatistas y mantenerse un día más en el poder, defenderemos un sistema justo, solidario y responsable, regido por criterios objetivos y transparentes, iguales para todas las Comunidades Autónomas.",
+      "pagina": 14,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "11",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Financiación autonómica con criterios iguales para todas",
+      "etiquetas": [
+        "financiación autonómica",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "organizacion-territorial",
+        "economia"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Presionaremos con firmeza en esta dirección y denunciaremos incansablemente la utilización de la financiación autonómica, y por tanto de la riqueza, las necesidades y el futuro de los españoles, como moneda de cambio al servicio de intereses políticos.",
+      "pagina": 14,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "11",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo al uso de la financiación autonómica en pactos políticos",
+      "etiquetas": [
+        "financiación autonómica"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Nos opondremos a las condonaciones de deuda entre administraciones, salvo en caso de catástrofe.",
+      "pagina": 14,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "11",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a condonar deuda entre administraciones salvo catástrofe",
+      "etiquetas": [
+        "financiación autonómica",
+        "deuda pública"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "organizacion-territorial",
+        "economia"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Reforma constitucional para establecer límites claramente definidos a la presión fiscal y al endeudamiento.",
+      "pagina": 14,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "12",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Límites constitucionales a la presión fiscal y a la deuda",
+      "etiquetas": [
+        "impuestos",
+        "deuda pública",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Creación de tipos penales constitucionalmente blindados para castigar su vulneración.",
+      "pagina": 14,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "12",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Delitos por superar los límites constitucionales de impuestos y deuda",
+      "etiquetas": [
+        "impuestos",
+        "deuda pública",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El umbral de confiscatoriedad será individualmente invocable por cualquier persona física o jurídica ante la Administración tributaria, los Tribunales Económico-Administrativos y la jurisdicción competente.",
+      "pagina": 14,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "12",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derecho individual a invocar el límite de confiscatoriedad fiscal",
+      "etiquetas": [
+        "impuestos",
+        "justicia",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El efectivo, derecho constitucional.",
+      "pagina": 15,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "13",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reconocer el pago en efectivo como derecho constitucional",
+      "etiquetas": [
+        "derechos y libertades",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derecho a pagar y cobrar en efectivo sin límite de importe: se deroga el tope de 1.000 euros y España vetará el de 10.000 que impone Bruselas desde 2027.",
+      "pagina": 15,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "13",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pago en efectivo sin límite de importe",
+      "etiquetas": [
+        "economía",
+        "derechos y libertades",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "economia",
+        "igualdad-y-derechos"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Comercios, bancos y administraciones estarán obligados a aceptarlo.",
+      "pagina": 15,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "13",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligación de aceptar pagos en efectivo",
+      "etiquetas": [
+        "economía",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El euro digital nunca sustituirá ni condicionará al efectivo: tu dinero no es un permiso que alguien pueda apagar.",
+      "pagina": 15,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "13",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "El euro digital no sustituirá ni condicionará al efectivo",
+      "etiquetas": [
+        "economía",
+        "derechos y libertades",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Negarse a aceptar u obstaculizar el pago en efectivo será penado por ley.",
+      "pagina": 15,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "13",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sanción legal por rechazar el pago en efectivo",
+      "etiquetas": [
+        "economía",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Ley de Devolución del Rescate: las entidades que se quedaron con las cajas rescatadas (CaixaBank, BBVA, Sabadell, Unicaja y Abanca) pagan 4.700 millones al año durante 15 años, en proporción a las ayudas que absorbieron, con tope del 40 % de su beneficio anual y el exceso aplazado con interés.",
+      "pagina": 15,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "14",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pago anual de la banca por el rescate de las cajas",
+      "etiquetas": [
+        "economía",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "economia",
+        "impuestos"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "No deducible, prohibido repercutirlo al cliente (multa del triple) y heredable por quien compre la entidad.",
+      "pagina": 15,
+      "apartado": [
+        "III. Impuestos"
+      ],
+      "numero": "14",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pago bancario no deducible ni repercutible al cliente",
+      "etiquetas": [
+        "economía",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Rebaja fiscal y nuevo gasto comprometido en 2030: unos 81.700 millones de euros al año (80.000 de rebaja fiscal; 1.700 para la UCO, la UDEF y la UDYCO, Canarias, Ceuta y Melilla). Ahorro e ingresos identificados: 88.500 millones, incluida la devolución del rescate bancario. La diferencia va a reducir deuda. Y nada entra en vigor sin su ahorro certificado.",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Balance del plan: rebajas, ahorros y excedente para reducir deuda",
+      "etiquetas": [
+        "impuestos",
+        "gasto público",
+        "deuda pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sobrecoste autonómico por duplicidades y redundancias (cada comunidad comparada con las tres más eficientes)",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ahorro previsto de 57.000 millones en duplicidades autonómicas",
+      "etiquetas": [
+        "gasto público",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Entes, empresas y fundaciones públicas sin función",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ahorro previsto de 3.000 millones en entes públicos sin función",
+      "etiquetas": [
+        "gasto público",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Gestión mancomunada obligatoria en municipios de menos de 5.000 habitantes",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Servicios mancomunados obligatorios en municipios de menos de 5.000 habitantes",
+      "etiquetas": [
+        "municipios",
+        "medio rural",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "organizacion-territorial",
+        "campo-y-medio-rural"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Contratación pública 100 % electrónica y competitiva",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Contratación pública electrónica, ahorro estimado de 5.000 millones anuales",
+      "etiquetas": [
+        "administración pública",
+        "gasto público",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Supresión de las diputaciones provinciales",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suprimir las diputaciones, ahorro estimado de 1.500 millones anuales",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "organizacion-territorial",
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Inmigración: expulsiones efectivas y fin de regularizaciones",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ahorro previsto de 1.000 millones por expulsiones y fin de regularizaciones",
+      "etiquetas": [
+        "inmigración",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Senado, Consejo de Estado, CES, publicidad institucional, subvenciones a partidos, sindicatos y patronal, asesores",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ahorro previsto de 500 millones en instituciones, publicidad, subvenciones y asesores",
+      "etiquetas": [
+        "instituciones",
+        "gasto público",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Supresión de 12 ministerios, 2 vicepresidencias y la mitad de los altos cargos: estructura, gabinetes y sedes",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de ministerios y altos cargos, ahorro estimado de 300 millones",
+      "etiquetas": [
+        "instituciones",
+        "administración pública",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ayuda internacional: Ayuda Oficial al Desarrollo (4.550 M€ en 2025)",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ahorro previsto de 4.500 millones en ayuda oficial al desarrollo",
+      "etiquetas": [
+        "política exterior",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Devolución del rescate bancario por las entidades herederas de las cajas rescatadas (70.000 M€ en 15 años)",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ingreso previsto por la devolución del rescate bancario",
+      "etiquetas": [
+        "economía",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Regla de oro. Un euro de rebaja, un euro de ahorro certificado.",
+      "pagina": 16,
+      "apartado": [
+        "III. Impuestos",
+        "Cómo se paga"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Principio de compensar cada rebaja fiscal con ahorro certificado",
+      "etiquetas": [
+        "impuestos",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Identificación, orden y salida en 48 horas. El 100 % de las órdenes ejecutadas en 90 días. Internamiento hasta la expulsión.",
+      "pagina": 17,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ejecución de órdenes de expulsión en 48 horas",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "inmigracion"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Derogación de la regularización de 2026, revisión una por una de las concesiones y prohibición por ley orgánica de cualquier regularización masiva. Cada regularización es una invitación.",
+      "pagina": 17,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogar la regularización de 2026 y prohibir las masivas",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "inmigracion"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ni un euro, ni un visado, ni una preferencia comercial a Marruecos, Argelia, Senegal o Mauritania si no readmiten a sus nacionales en 72 horas.",
+      "pagina": 17,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Condicionar ayudas, visados y comercio a la readmisión de nacionales",
+      "etiquetas": [
+        "inmigración",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Veto español a cualquier acuerdo europeo que no lo exija.",
+      "pagina": 17,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Veto a acuerdos europeos que no exijan la readmisión",
+      "etiquetas": [
+        "inmigración",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Moratoria total, durante toda la legislatura, a la inmigración procedente de países que no colaboran contra las mafias de trata de personas ni readmiten a sus nacionales. Para el resto, solo visados con contrato previo y cupo anual votado en el Congreso.",
+      "pagina": 18,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Moratoria migratoria y cupos con contrato previo",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "inmigracion"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Primero integramos a los que ya están.",
+      "pagina": 18,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "4",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Prioridad a la integración de los inmigrantes ya residentes",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cupos preferentes para Hispanoamérica. Nacionalidad: diez años de residencia legal, examen de cultura y Constitución, sin antecedentes y sin depender de ayudas. Revisión de todas las obtenidas con fraude.",
+      "pagina": 18,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cupos para Hispanoamérica y nacionalidad tras diez años de residencia",
+      "etiquetas": [
+        "inmigración",
+        "nacionalidad"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "inmigracion"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Condena de más de un año: pérdida de la residencia.",
+      "pagina": 18,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Retirada de la residencia por condenas superiores a un año",
+      "etiquetas": [
+        "inmigración",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Terrorismo, crimen organizado o delitos sexuales graves: pérdida de la nacionalidad para dobles nacionales.",
+      "pagina": 18,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Retirada de la nacionalidad a dobles nacionales por delitos graves",
+      "etiquetas": [
+        "nacionalidad",
+        "justicia",
+        "terrorismo"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Prueba radiológica y dental obligatoria antes de entrar en un centro de menores. Repatriación con la familia como primera opción. Ni un adulto en un centro con niños.",
+      "pagina": 18,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Menores migrantes: prueba de edad y repatriación",
+      "etiquetas": [
+        "inmigración",
+        "infancia"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "inmigracion",
+        "familias-y-cuidados"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Hermanos Musulmanes: ilegalizados. Mezquitas sin dinero extranjero.",
+      "pagina": 19,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ilegalizar a los Hermanos Musulmanes y vetar financiación extranjera de mezquitas",
+      "etiquetas": [
+        "terrorismo",
+        "seguridad",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ilegalización e inclusión en la lista terrorista: Hamás, su rama, ya está.",
+      "pagina": 19,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inclusión de los Hermanos Musulmanes en la lista terrorista",
+      "etiquetas": [
+        "terrorismo",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibición de la financiación extranjera del culto, registro público de donaciones y cierre de quien no cumpla. Imanes que prediquen contra la Constitución, expulsados.",
+      "pagina": 19,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de financiación extranjera del culto y expulsión de imanes",
+      "etiquetas": [
+        "derechos y libertades",
+        "seguridad",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "igualdad-y-derechos",
+        "inmigracion",
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Burka y niqab fuera del espacio público, como en Francia, Bélgica, Austria, Dinamarca, Países Bajos y Suiza. Una mujer sin rostro no es diversidad: es sumisión.",
+      "pagina": 19,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición del velo integral en espacios públicos",
+      "etiquetas": [
+        "derechos y libertades",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "igualdad-y-derechos",
+        "inmigracion"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal y cotización. Tasa del 2 % a las remesas hacia países que no readmiten.",
+      "pagina": 19,
+      "apartado": [
+        "IV. Inmigración"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas tras cinco años de residencia y tasa a las remesas",
+      "etiquetas": [
+        "inmigración",
+        "servicios sociales",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "inmigracion",
+        "familias-y-cuidados"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Revalorización con el IPC y prohibición de recortes, con rango constitucional. A quien ya cobra no se le toca un euro.",
+      "pagina": 20,
+      "apartado": [
+        "V. Pensiones"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revalorización con el IPC y sin recortes, con rango constitucional",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "pensiones"
+      ],
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El sobre naranja: la verdad por ley.",
+      "pagina": 20,
+      "apartado": [
+        "V. Pensiones"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Carta anual obligatoria con la pensión estimada",
+      "etiquetas": [
+        "pensiones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada año recibes tu pensión estimada y el saldo de tu cuenta individual.",
+      "pagina": 20,
+      "apartado": [
+        "V. Pensiones"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Información anual sobre la pensión estimada y la cuenta individual",
+      "etiquetas": [
+        "pensiones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Fin de la mentira institucional: sabrás lo que vas a cobrar y quién se lo está gastando.",
+      "pagina": 20,
+      "apartado": [
+        "V. Pensiones"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Compromiso de informar sobre la pensión futura y su uso",
+      "etiquetas": [
+        "pensiones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sistema mixto: tu cuenta, a tu nombre, heredable.",
+      "pagina": 20,
+      "apartado": [
+        "V. Pensiones"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sistema mixto de pensiones con cuenta individual heredable",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Menores de 45 años: el 2 % del salario a una cuenta individual obligatoria, tuya, heredable, con comisión máxima del 0,3 %.",
+      "pagina": 20,
+      "apartado": [
+        "V. Pensiones"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cuenta individual obligatoria del 2 % para menores de 45",
+      "etiquetas": [
+        "pensiones",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "pensiones"
+      ],
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Mochila austriaca. El 1,53 % del salario, a cargo de la empresa, a tu cuenta desde el primer día. Te la llevas al cambiar de trabajo y la cobras al jubilarte si no la usas.",
+      "pagina": 20,
+      "apartado": [
+        "V. Pensiones"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aportación empresarial del 1,53 % a una cuenta del trabajador",
+      "etiquetas": [
+        "empleo",
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cobra el 100 % de la pensión y sigue trabajando sin recortes ni cotizaciones extra. Con 40 años cotizados te jubilas cuando quieras, sin penalización.",
+      "pagina": 20,
+      "apartado": [
+        "V. Pensiones"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Jubilación activa plena y retiro libre con 40 años cotizados",
+      "etiquetas": [
+        "pensiones",
+        "empleo"
+      ],
+      "traduccion": null,
+      "temas_manual": [
+        "pensiones",
+        "empleo"
+      ],
+      "verificacion": "normalizada"
+    }
+  ]
+}
