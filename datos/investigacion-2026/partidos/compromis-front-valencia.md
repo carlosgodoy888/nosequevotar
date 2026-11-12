@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** coalicion. Miembros: Coalició Compromís; Més-Compromís; Iniciativa del Poble Valencià; Verds Equo del País Valencià; Podemos (Podem); Esquerra Unida del País Valencià; Esquerra Republicana del País Valencià; Recortes Cero
 - **Cabeza de cartel:** Àgueda Micó, número 1 por Valencia (Compromís); por Alicante encabeza María Teresa Pérez (Podem) y por Castellón Ignasi García (Compromís).
-- **Programa para el 29 de noviembre:** no publicado (comprobado el 11 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** no publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 64 vigentes: 36 medidas, de ellas 33 concretas, y 28 posiciones. Declaraciones verificadas abriendo su fuente: 64.
 - **Pendiente:** Confirmar con Compromís que https://frontvalencia.org es su web de campaña: no está enlazada desde compromis.net y tiene contenido de plantilla sin terminar.
 

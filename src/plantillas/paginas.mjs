@@ -20,14 +20,17 @@ function cuentaAtras(ctx) {
   return `<p class="cuenta" data-cuenta="${ctx.sitio.eleccion.fecha}"${oculta}><span class="cuenta__numero">${Math.max(dias, 0)}</span> <span class="cuenta__texto">${dias === 1 ? 'día para votar' : 'días para votar'}</span></p>`;
 }
 
-// En la portada (con hoy) una guía con portadaHasta deja de verse después de esa fecha,
-// y extra añade más tarjetas al final de la lista.
-function tarjetasGuias(guias, { hoy, extra = '' } = {}) {
+// En la portada (con hoy) una guía con portadaHasta deja de verse después de esa fecha;
+// primero y extra añaden tarjetas delante y detrás de las guías.
+function tarjetasGuias(guias, { hoy, primero = '', extra = '' } = {}) {
   const periodo = (g) => hoy && g.portadaHasta ? atributosPeriodo({ hasta: g.portadaHasta }, hoy) : '';
   return `<ul class="tarjetas">
-${guias.map(g => `<li${periodo(g)}><a class="tarjeta-enlace" href="/guia/${g.slug}/" data-evento="clic_guia"><span class="tarjeta-enlace__titulo">${esc(g.nombre)}</span><span class="tarjeta-enlace__texto">${esc(g.resumen)}</span></a></li>`).join('\n')}${extra ? `\n${extra}` : ''}
+${primero ? `${primero}\n` : ''}${guias.map(g => `<li${periodo(g)}><a class="tarjeta-enlace" href="/guia/${g.slug}/" data-evento="clic_guia"><span class="tarjeta-enlace__titulo">${esc(g.nombre)}</span><span class="tarjeta-enlace__texto">${esc(g.resumen)}</span></a></li>`).join('\n')}${extra ? `\n${extra}` : ''}
 </ul>`;
 }
+
+// Primera tarjeta de «Guías para votar» en la portada: lleva al calendario.
+const TARJETA_CALENDARIO = '<li><a class="tarjeta-enlace" href="/calendario/"><span class="tarjeta-enlace__titulo">Calendario electoral</span><span class="tarjeta-enlace__texto">Qué día es cada cosa: voto por correo, campaña, votación y resultados.</span></a></li>';
 
 // Tarjeta «Próximo plazo» de la portada, con lo que el votante tiene que hacer o puede hacer (paraVotante).
 // El HTML trae todos los plazos con sus fechas: es lo que se ve sin JavaScript y nunca queda desfasado.
@@ -149,6 +152,30 @@ ${llamadaTest()}
   };
 }
 
+// Temas de la tarjeta «¿Qué tema te importa más?» de la portada, por su id en los datos de partidos.
+// Todos llevan a /temas/: la tarjeta despierta la curiosidad y el tema se elige allí.
+const TEMAS_PORTADA = ['vivienda', 'inmigracion', 'sanidad', 'pensiones', 'empleo', 'impuestos'];
+
+function tarjetaTemas(ctx) {
+  const { temas, partidos } = ctx.propuestas;
+  const elegidos = TEMAS_PORTADA.map(id => {
+    const tema = temas.find(t => t.id === id);
+    if (!tema) throw new Error(`Portada: el tema «${id}» no existe en los datos de partidos.`);
+    return tema;
+  });
+  return `<div class="ejemplo" aria-labelledby="temas-rotulo">
+<p class="ejemplo__rotulo" id="temas-rotulo">Compara las propuestas de los partidos, tema a tema.</p>
+<article class="tarjeta">
+<h2 class="tarjeta__pregunta">¿Qué tema te importa más?</h2>
+<ul class="temas-portada">
+${elegidos.map(t => `<li><a class="boton-casilla" href="/temas/" data-evento="clic_temas" data-tema-portada><span class="casilla" aria-hidden="true"></span>${esc(t.nombre)}</a></li>`).join('\n')}
+</ul>
+<p class="tarjeta__pie">Lo que proponen ${partidos.length} partidos en ${temas.length} temas, con la cita exacta de cada uno.</p>
+</article>
+<a class="boton" href="/temas/" data-evento="clic_temas">Ver los ${temas.length} temas</a>
+</div>`;
+}
+
 export function portada(ctx) {
   const proximas = (() => {
     const filas = [...ctx.fechas].sort((a, b) => a.inicio.localeCompare(b.inicio));
@@ -161,19 +188,20 @@ export function portada(ctx) {
     ruta: '/',
     titulo: 'No sé qué votar: guías para votar y propuestas sin siglas',
     descripcion: 'Guías claras para votar en las elecciones generales del 29 de noviembre de 2026 y un test para elegir propuestas sin saber de qué partido son.',
+    arriba: true,
     contenido: `<section class="envoltorio portada" aria-labelledby="titulo">
 <div class="portada__texto">
 <p class="etiqueta"><span class="casilla casilla--pequena" aria-hidden="true"></span>Elecciones generales · ${textoFecha(ctx.sitio.eleccion.fecha, null, true)}</p>
-<h1 id="titulo">Todo lo que necesitas para votar, sin siglas.</h1>
-<p class="entradilla">Guías cortas para votar sin errores y un test que te enseña propuestas reales sin decirte de qué partido son.</p>
+<h1 id="titulo">Todo lo que necesitas para votar.</h1>
 ${cuentaAtras(ctx)}
 <div class="botones">
-<a class="boton" href="/guia/" data-evento="clic_guia">Ver las guías para votar</a>
-<a class="boton boton--claro" href="/test/" data-evento="clic_hacer_test">Haz el test sin siglas</a>
+<a class="boton" href="/temas/" data-evento="clic_temas">Explora las propuestas políticas</a>
+<a class="boton boton--claro" href="/test/" data-evento="clic_hacer_test">Test de afinidad</a>
 </div>
 </div>
+<div class="portada__ejemplos">
 <div class="ejemplo" aria-labelledby="ejemplo-rotulo">
-<p class="ejemplo__rotulo" id="ejemplo-rotulo">Así es una papeleta del test. Pruébala con un ejemplo; el partido es inventado.</p>
+<p class="ejemplo__rotulo" id="ejemplo-rotulo">Así es una papeleta del test. Pruébala con un ejemplo.</p>
 <article class="tarjeta" id="tarjeta">
 <div class="tarjeta__cabeza"><span class="tarjeta__letra">B</span><span class="tarjeta__estado" id="estado" aria-live="polite"></span></div>
 <p class="tarjeta__texto">Construir 200.000 viviendas públicas de alquiler en diez años sobre suelo del Estado.</p>
@@ -184,20 +212,20 @@ ${cuentaAtras(ctx)}
 </div>
 <div class="firma">
 <span class="firma__rotulo">La firmaba el</span>
-<span class="franja" id="franja"><span class="franja__nombre" id="partido" aria-hidden="true">Partido Norte</span><span class="franja__tapa" aria-hidden="true"></span></span>
+<span class="franja franja--fija" role="img" aria-label="Nombre tapado"><span class="franja__tapa"></span></span>
 <span class="firma__fuente">Programa de ejemplo, página 14</span>
 </div>
 </article>
-<button type="button" class="boton" id="revelar">Revelar quién la firmaba</button>
-<p class="solo-lector" id="anuncio" aria-live="polite"></p>
-<p class="mas"><a href="/test/" data-evento="clic_hacer_test">Haz el test completo: 3 o 6 temas</a></p>
+<a class="boton" href="/test/" data-evento="clic_hacer_test">Revelar quién la firmaba</a>
+</div>
+${tarjetaTemas(ctx)}
 </div>
 </section>
 
 <section class="seccion" aria-labelledby="guias-titulo">
 <div class="envoltorio">
 <h2 id="guias-titulo">Guías para votar</h2>
-${tarjetasGuias(ctx.guias, { hoy: ctx.hoy, extra: tarjetaPlazo(ctx) })}
+${tarjetasGuias(ctx.guias, { hoy: ctx.hoy, primero: TARJETA_CALENDARIO, extra: tarjetaPlazo(ctx) })}
 </div>
 </section>
 
@@ -219,7 +247,7 @@ ${tablaFechas(proximas, ctx, { titulo: 'Próximas fechas' })}
 <li class="paso"><span class="paso__numero" aria-hidden="true">2</span><div><h3>Decides</h3><p>Ante cada propuesta eliges «Me convence», «No me convence» o «Paso», si no lo tienes claro.</p></div></li>
 <li class="paso"><span class="paso__numero" aria-hidden="true">3</span><div><h3>Descubres quién era</h3><p>Ves con qué programa coincides más y quién firmaba cada propuesta, con la frase exacta del programa y su página.</p></div></li>
 </ol>
-<p class="mas"><a class="boton" href="/test/" data-evento="clic_hacer_test">Haz el test sin siglas</a></p>
+<p class="mas"><a class="boton" href="/test/" data-evento="clic_hacer_test">Test de afinidad</a></p>
 </div>
 </section>
 

@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Míriam Nogueras (Barcelona). Otros cabezas de lista: Marta Madrenas (Girona), Isidre Gavín (Lleida) y Josep Maria Cruset (Tarragona).
-- **Programa para el 29 de noviembre:** no publicado (comprobado el 11 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** no publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 90 vigentes: 44 medidas, de ellas 28 concretas, y 46 posiciones. Declaraciones verificadas abriendo su fuente: 90.
 
 ## Lo que han dicho sus portavoces

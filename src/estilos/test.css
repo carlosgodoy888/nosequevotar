@@ -186,3 +186,9 @@ button.acta__resumen:hover { background: var(--sepia); }
 
 /* Los títulos que reciben el foco al cambiar de pantalla no son controles: sin recuadro. */
 .juego [tabindex="-1"]:focus { outline: none; }
+
+/* Por debajo de 320 px (plegables cerrados, pantalla muy ampliada) los dos botones de decisión no caben
+   en fila: van uno debajo de otro, con el mismo tamaño. */
+@media (max-width: 319px) {
+  .decision { grid-template-columns: 1fr; }
+}

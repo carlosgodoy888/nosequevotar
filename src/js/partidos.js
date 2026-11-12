@@ -51,37 +51,103 @@ if (ficha) {
   abrirDestino();
   addEventListener('hashchange', abrirDestino);
 
-  // --- Barra fija: anterior, lista de secciones, siguiente ---
+  // --- Barra fija: anterior, menú de secciones, siguiente ---
+  // El menú es un botón con la sección actual que despliega una lista de enlaces (no un <select>, para
+  // que tenga el aspecto de la web en todos los dispositivos). Se maneja con el ratón, el dedo o el teclado:
+  // flechas, Inicio y Fin para moverse, Intro para ir y Escape para cerrar.
   function barraDeSaltos() {
     const barra = ficha.querySelector('[data-saltos]');
     if (!barra || !secciones.length) return;
     const lista = barra.querySelector('[data-saltos-lista]');
+    const abrir = barra.querySelector('[data-saltos-abrir]');
+    const nombre = barra.querySelector('[data-saltos-nombre]');
+    const orden = barra.querySelector('[data-saltos-orden]');
+    const ordenLector = barra.querySelector('[data-saltos-orden-lector]');
     const anterior = barra.querySelector('[data-saltos-anterior]');
     const siguiente = barra.querySelector('[data-saltos-siguiente]');
+    let actual = null; // id de la sección en la que se está
     let objetivo = null;
     let suelta;
 
-    const botones = () => {
+    const opciones = () => [...lista.querySelectorAll('a')];
+    // Deja una sección como la actual: en el botón, en la casilla de la lista y en anterior y siguiente.
+    const poner = (id) => {
+      actual = id;
       const v = visibles();
-      const i = v.findIndex(s => s.id === lista.value);
+      const i = v.findIndex(s => s.id === id);
+      nombre.textContent = i < 0 ? '' : v[i].dataset.salto;
+      orden.textContent = i < 0 ? '' : `${i + 1}/${v.length}`;
+      ordenLector.textContent = i < 0 ? '' : `, ${i + 1} de ${v.length}`;
+      for (const a of opciones()) {
+        const esta = a.dataset.id === id;
+        if (esta) a.setAttribute('aria-current', 'true'); else a.removeAttribute('aria-current');
+        a.querySelector('.casilla').classList.toggle('marcada', esta);
+      }
       anterior.disabled = i <= 0;
       siguiente.disabled = i < 0 || i >= v.length - 1;
     };
     // Navegación nativa al ancla: el navegador coloca la sección bajo la barra y deja ahí el punto
-    // de partida del tabulador. No añade pasos al botón «atrás».
+    // de partida del tabulador. No añade pasos al botón «atrás». Si la dirección ya apuntaba a esa
+    // sección, el navegador puede no moverse: por eso se lleva además la sección a su sitio.
     const ir = (id) => {
       objetivo = id;
       clearTimeout(suelta);
       suelta = setTimeout(() => { objetivo = null; }, 400);
       location.replace(`#${id}`);
-      lista.value = id;
-      botones();
+      document.getElementById(id)?.scrollIntoView({ block: 'start' });
+      poner(id);
     };
     const mover = (pasos) => {
       const v = visibles();
-      const i = Math.max(0, v.findIndex(s => s.id === lista.value));
+      const i = Math.max(0, v.findIndex(s => s.id === actual));
       const destino = v[Math.min(v.length - 1, Math.max(0, i + pasos))];
       if (destino) ir(destino.id);
+    };
+
+    // La lista ocupa, como mucho, lo que queda de pantalla bajo la barra.
+    const ajustar = () => { lista.style.maxHeight = `${Math.max(160, innerHeight - barra.getBoundingClientRect().bottom - 12)}px`; };
+    const cerrar = (devolverFoco) => {
+      if (lista.hidden) return;
+      lista.hidden = true;
+      barra.classList.remove('saltos--abierta');
+      abrir.setAttribute('aria-expanded', 'false');
+      if (devolverFoco) abrir.focus({ preventScroll: true });
+    };
+    const desplegar = () => {
+      if (barra.hidden) return;
+      // Si la barra aún no está pegada arriba y debajo queda poco sitio, la página sube hasta pegarla
+      // (su «top» es la altura a la que se queda fija, bajo la cabecera y la miga de pan).
+      const sobra = barra.getBoundingClientRect().top - (parseFloat(getComputedStyle(barra).top) || 0);
+      if (sobra > 1 && innerHeight - barra.getBoundingClientRect().bottom < 320) scrollBy(0, sobra);
+      lista.hidden = false;
+      barra.classList.add('saltos--abierta');
+      abrir.setAttribute('aria-expanded', 'true');
+      ajustar();
+      // La sección actual queda a la vista, centrada, y con el foco.
+      const marcada = lista.querySelector('[aria-current]') ?? lista.querySelector('a');
+      if (marcada) {
+        lista.scrollTop = marcada.offsetTop - (lista.clientHeight - marcada.offsetHeight) / 2;
+        marcada.focus({ preventScroll: true });
+      }
+    };
+    const opcion = (seccion, i, total) => {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = `#${seccion.id}`;
+      a.dataset.id = seccion.id;
+      const casilla = document.createElement('span');
+      casilla.className = 'casilla';
+      casilla.setAttribute('aria-hidden', 'true');
+      const texto = document.createElement('span');
+      texto.className = 'saltos__opcion';
+      texto.textContent = seccion.dataset.salto;
+      const numero = document.createElement('span');
+      numero.className = 'saltos__orden';
+      numero.setAttribute('aria-hidden', 'true');
+      numero.textContent = `${i + 1}/${total}`;
+      a.append(casilla, texto, numero);
+      li.append(a);
+      return li;
     };
     // La sección actual es la última cuyo comienzo ya ha pasado por debajo de la barra. Al final de
     // la página, la última sección puede no llegar arriba: si se ve, es la actual.
@@ -93,22 +159,46 @@ if (ficha) {
       const limite = barra.getBoundingClientRect().bottom + 24;
       const alFinal = innerHeight + scrollY >= document.documentElement.scrollHeight - 4;
       const ultima = v.at(-1);
-      const actual = alFinal && ultima.getBoundingClientRect().top < innerHeight
+      const ahora = alFinal && ultima.getBoundingClientRect().top < innerHeight
         ? ultima
         : v.filter(s => s.getBoundingClientRect().top <= limite).at(-1) ?? v[0];
-      if (lista.value !== actual.id) lista.value = actual.id;
-      botones();
+      if (actual !== ahora.id) poner(ahora.id);
     };
+    // Rehace la lista con las secciones que se ven (el buscador y la elección de partidos ocultan algunas).
     const pintar = () => {
-      const actual = lista.value;
       const v = visibles();
-      lista.replaceChildren(...v.map((s, i) => new Option(`${s.dataset.salto} · ${i + 1}/${v.length}`, s.id)));
-      if (v.some(s => s.id === actual)) lista.value = actual;
+      lista.replaceChildren(...v.map((s, i) => opcion(s, i, v.length)));
       barra.hidden = v.length < 2;
+      if (barra.hidden) cerrar(false);
+      poner(v.some(s => s.id === actual) ? actual : v[0]?.id ?? null);
       marcar();
     };
     addEventListener('scroll', () => { if (!pendiente) { pendiente = true; requestAnimationFrame(marcar); } }, { passive: true });
-    lista.addEventListener('change', () => ir(lista.value));
+    addEventListener('resize', () => { if (!lista.hidden) ajustar(); });
+    abrir.addEventListener('click', () => { if (lista.hidden) desplegar(); else cerrar(true); });
+    lista.addEventListener('click', (e) => {
+      const a = e.target.closest('a');
+      if (!a) return;
+      e.preventDefault();
+      cerrar(false);
+      ir(a.dataset.id);
+    });
+    barra.addEventListener('keydown', (e) => {
+      if (lista.hidden) {
+        if (e.target === abrir && (e.key === 'ArrowDown' || e.key === 'ArrowUp')) { e.preventDefault(); desplegar(); }
+        return;
+      }
+      if (e.key === 'Escape') { e.preventDefault(); cerrar(true); return; }
+      const o = opciones();
+      const i = o.indexOf(document.activeElement);
+      const destino = { ArrowDown: o[Math.min(o.length - 1, i + 1)], ArrowUp: o[Math.max(0, i - 1)], Home: o[0], End: o.at(-1) }[e.key];
+      if (destino) { e.preventDefault(); destino.focus(); }
+    });
+    // Tocar fuera de la lista, o salir de ella con el tabulador, la cierra.
+    document.addEventListener('click', (e) => { if (!lista.hidden && !lista.contains(e.target) && !abrir.contains(e.target)) cerrar(false); });
+    barra.addEventListener('focusout', (e) => {
+      if (!lista.hidden && e.relatedTarget && !lista.contains(e.relatedTarget) && e.relatedTarget !== abrir) cerrar(false);
+    });
     anterior.addEventListener('click', () => mover(-1));
     siguiente.addEventListener('click', () => mover(1));
     ficha.addEventListener('ficha:cambio', pintar);

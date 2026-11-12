@@ -1,0 +1,2114 @@
+{
+  "fuente": "vox-programa-2026",
+  "partido": "vox",
+  "paginas": [
+    32,
+    55
+  ],
+  "citas": [
+    {
+      "cita": "Misma atención de calidad para todos los españoles: tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional.",
+      "pagina": 32,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "60",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tarjeta sanitaria única con historia clínica compartida estatal",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar que el desconocimiento de las lenguas regionales no sea en ningún caso impedimento para el acceso por oposición a plazas de personal sanitario ni un perjuicio para los pacientes.",
+      "pagina": 32,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "60",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Lenguas cooficiales no exigibles en oposiciones sanitarias",
+      "etiquetas": [
+        "sanidad",
+        "lenguas",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo de la atención primaria y pediátrica en todo el territorio nacional. Mejorar su accesibilidad y capacidad asistencial, con especial atención a las zonas rurales y de difícil cobertura y a la continuidad de la atención entre centros de salud, especialistas y hospitales.",
+      "pagina": 32,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "61",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de atención primaria y pediatría, también en zonas rurales",
+      "etiquetas": [
+        "sanidad",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan nacional de reducción de listas de espera y mejora de la atención sanitaria. Reorganizar circuitos asistenciales, mejorar la capacidad diagnóstica y la actividad quirúrgica y facilitar derivaciones entre centros y territorios.",
+      "pagina": 32,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "62",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan nacional para reducir listas de espera",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras, con transparencia, evaluación de calidad y control del gasto.",
+      "pagina": 32,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "62",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Colaboración público-privada para reducir demoras sanitarias",
+      "etiquetas": [
+        "sanidad",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Publicación de indicadores comparables y periódicos de listas de espera, actividad y resultados.",
+      "pagina": 32,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "62",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicar indicadores periódicos de listas de espera",
+      "etiquetas": [
+        "sanidad",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejorar las condiciones laborales y retributivas de todos los profesionales. Mejora progresiva de retribuciones, reconocimiento de guardias y turnos, conciliación efectiva y carrera profesional basada en formación, experiencia y méritos.",
+      "pagina": 32,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "63",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mejoras salariales y de carrera para profesionales sanitarios",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incentivos económicos y profesionales para plazas rurales o de difícil cobertura; impulso de contratos estables y contratos puente tras la residencia, y un programa de retorno de sanitarios españoles que trabajan en el extranjero.",
+      "pagina": 32,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "63",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivos a plazas rurales, contratos tras la residencia y retorno",
+      "etiquetas": [
+        "sanidad",
+        "medio rural",
+        "emigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo de plantillas médicas, de enfermería y personal administrativo.",
+      "pagina": 33,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "63",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más personal médico, de enfermería y administrativo",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan para promover el retorno de los profesionales sanitarios que se han marchado al extranjero en busca de las oportunidades que no han tenido en España.",
+      "pagina": 33,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "63",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de retorno de sanitarios emigrados",
+      "etiquetas": [
+        "sanidad",
+        "emigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fin del turismo sanitario.",
+      "pagina": 33,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "63",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acabar con el llamado turismo sanitario",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Atención específica a la salud de las mujeres. Reforzar la prevención y el diagnóstico precoz del cáncer de mama y de los cánceres ginecológicos, mejorar el diagnóstico y tratamiento de las enfermedades que afectan especialmente a las mujeres y garantizar una atención adecuada durante el embarazo, parto y posparto, con especial atención a las necesidades de las madres que afrontan la maternidad a edades más avanzadas.",
+      "pagina": 33,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "64",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prevención del cáncer femenino y atención al embarazo",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mapa de infraestructuras sanitarias urgentes y refuerzo de la cartera de servicios sanitarios. Impulso de un mapa de infraestructuras sanitarias urgentes y necesarias y establecimiento de un plan de inversiones directas.",
+      "pagina": 33,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "65",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mapa de infraestructuras sanitarias y plan de inversiones",
+      "etiquetas": [
+        "sanidad",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la investigación médica con independencia de la rentabilidad comercial (enfermedades raras, enfermedades crónicas, y neurodegenerativas).",
+      "pagina": 33,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "65",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Investigación en enfermedades raras, crónicas y neurodegenerativas",
+      "etiquetas": [
+        "sanidad",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo de la Estrategia Nacional del Cáncer y creación de una Red de Centros Nacionales de Oncología.",
+      "pagina": 33,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "65",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Red de Centros Nacionales de Oncología",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo de la Estrategia Nacional de Salud Mental.",
+      "pagina": 33,
+      "apartado": [
+        "Sanidad"
+      ],
+      "numero": "65",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforzar la Estrategia Nacional de Salud Mental",
+      "etiquetas": [
+        "sanidad",
+        "salud mental"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Igualar las oportunidades para todos los alumnos españoles: unificar currículo, evaluaciones nacionales e inspección.",
+      "pagina": 35,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "66",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Currículo, evaluaciones e inspección comunes en toda España",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reválidas y EVAU única.",
+      "pagina": 35,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "66",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Exámenes de reválida y prueba de acceso universitario única",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se garantizará la educación en español en todo el territorio nacional.",
+      "pagina": 35,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "66",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Enseñanza en castellano en todas las comunidades",
+      "etiquetas": [
+        "educación",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fin a las diferencias en los contenidos curriculares e impulso de la exigencia académica.",
+      "pagina": 35,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "66",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Contenidos curriculares iguales y más exigencia académica",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisión de las homologaciones de títulos extranjeros.",
+      "pagina": 35,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "66",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisar la homologación de títulos extranjeros",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar los derechos de las familias en la educación de sus hijos. Garantizar la libre elección de centro educativo en todos los niveles para que las familias elijan libremente el modelo educativo que desean, sin que su situación económica o social sea un impedimento para ello.",
+      "pagina": 35,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "67",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Libre elección de centro educativo en todos los niveles",
+      "etiquetas": [
+        "educación",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ningún español debe quedarse sin poder estudiar por falta de recursos económicos. Mejorar el sistema de becas en las etapas universitaria y preuniversitaria para que la educación sea un verdadero ascensor social en el que la situación económica no sea un obstáculo para el esfuerzo, el mérito y la capacidad.",
+      "pagina": 35,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "68",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mejorar las becas universitarias y preuniversitarias",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminación de contenidos ideológicos ajenos a las materias académicas.",
+      "pagina": 35,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "69",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Retirar de la enseñanza contenidos considerados ideológicos",
+      "etiquetas": [
+        "educación",
+        "ideología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogación de la LOMLOE y recuperación de una enseñanza basada en el esfuerzo, el saber, el mérito, la exigencia, la disciplina y la responsabilidad personal.",
+      "pagina": 35,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "69",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogar la ley educativa LOMLOE",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Potenciación de las matemáticas, la lectura, las humanidades y las ciencias.",
+      "pagina": 35,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "69",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más peso a matemáticas, lectura, humanidades y ciencias",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Respeto en las aulas. Fin de los móviles en clase, refuerzo de la autoridad del profesor y plan nacional contra el acoso escolar y el ciberacoso.",
+      "pagina": 35,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "69",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sin móviles en clase y plan contra el acoso escolar",
+      "etiquetas": [
+        "educación",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecimiento de un número máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "70",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Límite por aula de alumnado extranjero o sin dominio del castellano",
+      "etiquetas": [
+        "educación",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Creación de aulas específicas de nivelación, donde los alumnos que se incorporen tarde al sistema español alcancen el nivel requerido antes de integrarse en su clase, sin ralentizar a sus compañeros y con más posibilidades de éxito para ellos mismos.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "70",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aulas de nivelación para alumnos de incorporación tardía",
+      "etiquetas": [
+        "educación",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibición del burka y el niqab en todos los espacios públicos y lugares donde se presten servicios públicos, con particular atención a centros educativos o entornos donde se vea comprometida la seguridad.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "71",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir burka y nicab en espacios y servicios públicos",
+      "etiquetas": [
+        "religión",
+        "educación",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fin de los menús halal en los comedores escolares.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "72",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Retirar los menús halal de los comedores escolares",
+      "etiquetas": [
+        "educación",
+        "religión",
+        "alimentación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminación del programa educativo de Lengua Árabe y Cultura Marroquí.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "73",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suprimir el programa de Lengua Árabe y Cultura Marroquí",
+      "etiquetas": [
+        "educación",
+        "lenguas",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prioridad nacional para escoger centro para los hijos, en la concesión de ayudas y subvenciones educativas y para el acceso a plazas de guardería, becas comedor, becas transporte, etc.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "74",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Preferencia a españoles en centros, becas y plazas de guardería",
+      "etiquetas": [
+        "educación",
+        "inmigración",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Distrito único y libre elección de centro escolar para los padres.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "74",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Distrito escolar único y libre elección de centro",
+      "etiquetas": [
+        "educación",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apuesta decidida por la Formación Profesional.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "74",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Impulso a la Formación Profesional",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Recuperación de la vocación de la Universidad como espacio de libertad y búsqueda de la verdad y la belleza.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "75",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo de universidad como espacio de libertad",
+      "etiquetas": [
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la libertad de cátedra de los profesores en las aulas frente a las imposiciones de la corrección política.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "75",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Garantizar la libertad de cátedra del profesorado",
+      "etiquetas": [
+        "universidad",
+        "educación",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoción de la cultura nacional. Afirmación y difusión de la historia común española.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "76",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Promoción de la cultura y la historia de España",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Conservación y rehabilitación del patrimonio nacional, con especial atención al medio rural, sus iglesias y monumentos.",
+      "pagina": 36,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "76",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Rehabilitar el patrimonio, sobre todo en el medio rural",
+      "etiquetas": [
+        "cultura",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección de nuestro patrimonio histórico frente al vandalismo.",
+      "pagina": 37,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "76",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Proteger el patrimonio histórico del vandalismo",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reducción de impuestos para el arte y los espectáculos en vivo.",
+      "pagina": 37,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "76",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Menos impuestos al arte y los espectáculos en vivo",
+      "etiquetas": [
+        "cultura",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nueva Ley de Mecenazgo para elevar las deducciones del IRPF.",
+      "pagina": 37,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "76",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva ley de mecenazgo con más deducciones en el IRPF",
+      "etiquetas": [
+        "cultura",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defensa de la Tauromaquia y promoción de la difusión del arte taurino y potenciación del conjunto de actividades alrededor de esta tradición.",
+      "pagina": 37,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "77",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa y promoción de la tauromaquia",
+      "etiquetas": [
+        "tauromaquia",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomento del deporte como motor de desarrollo y cohesión nacional.",
+      "pagina": 37,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "78",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomento del deporte",
+      "etiquetas": [
+        "deporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Despolitizar el deporte y garantizar que las selecciones nacionales representen a España en las competiciones internacionales, reforzando la Unidad Nacional frente a las cesiones al separatismo.",
+      "pagina": 37,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "78",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Solo selecciones españolas en competiciones internacionales",
+      "etiquetas": [
+        "deporte",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Compromiso con la defensa del deporte femenino, que debe regirse por criterios biológicos y deportivos objetivos para garantizar la igualdad real en la competición.",
+      "pagina": 37,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "78",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Acceso a la competición femenina según el sexo biológico",
+      "etiquetas": [
+        "deporte",
+        "igualdad",
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulso de becas a deportistas, rebajas fiscales y apoyo a clubes y federaciones deportivas.",
+      "pagina": 37,
+      "apartado": [
+        "Educación, cultura y deporte"
+      ],
+      "numero": "78",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Becas, rebajas fiscales y apoyo a clubes deportivos",
+      "etiquetas": [
+        "deporte",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Instituciones de Seguridad y Defensa al servicio de los españoles y sus familias, con unas Fuerzas Armadas profesionales y unas Fuerzas y Cuerpos de Seguridad del Estado bien dimensionadas con todos los recursos necesarios para defender nuestra soberanía y garantizar nuestra seguridad y libertad.",
+      "pagina": 39,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "79",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo de Fuerzas Armadas y policías bien dotadas",
+      "etiquetas": [
+        "seguridad",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reducción de la edad de responsabilidad penal del menor y plantear la eliminación de inimputabilidad para ciertos delitos violentos como los homicidios o las agresiones sexuales.",
+      "pagina": 39,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "80",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bajar la edad de responsabilidad penal de menores",
+      "etiquetas": [
+        "justicia",
+        "infancia",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliación de la prisión permanente revisable.",
+      "pagina": 39,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "81",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliar la prisión permanente revisable",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los que cometen los peores delitos deben tener las máximas condenas.",
+      "pagina": 39,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "81",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Máximas condenas para los delitos más graves",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar que los directores generales de la Guardia Civil y del Cuerpo Nacional de Policía sean personas con amplia experiencia en el ámbito de la seguridad, y no políticos con carné del partido.",
+      "pagina": 39,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "82",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Directores de Guardia Civil y Policía con perfil profesional",
+      "etiquetas": [
+        "seguridad",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dotar de suficientes medios humanos y recursos materiales, técnicos, tecnológicos, jurídicos, organizativos y presupuestarios, así como de las infraestructuras, instalaciones y demás capacidades a las Fuerzas Armadas, Ejército de Tierra, la Armada y el Ejército del Aire; al Centro Nacional de Inteligencia (CNI); a las Fuerzas y Cuerpos de Seguridad del Estado, Guardia Civil (GC) y Cuerpo Nacional de Policía (CNP); así como al Servicio de Vigilancia Aduanera (SVA) e Instituciones Penitenciarias (IIPP).",
+      "pagina": 39,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "83",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más medios para ejércitos, CNI, policías, aduanas y prisiones",
+      "etiquetas": [
+        "defensa",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dignificación de las Fuerzas y Cuerpos de Seguridad del Estado. Aumento de la inversión, equiparación salarial y sueldos dignos, dignificación de la profesión y programas de modernización y actualización formativa y tecnológica.",
+      "pagina": 40,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "84",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Equiparación salarial y más inversión en Policía y Guardia Civil",
+      "etiquetas": [
+        "seguridad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reconocimiento de la profesión y servicio en la Guardia Civil y el Cuerpo Nacional de Policía como profesión de riesgo.",
+      "pagina": 40,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "84",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Policía y Guardia Civil como profesión de riesgo",
+      "etiquetas": [
+        "seguridad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección integral para los funcionarios de prisiones. Plantillas adecuadamente dimensionadas, equiparación salarial y sueldos dignos, medios materiales y formación frente a los módulos conflictivos y reconocimiento como profesión de riesgo.",
+      "pagina": 40,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "85",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Funcionarios de prisiones: plantillas, salario y profesión de riesgo",
+      "etiquetas": [
+        "justicia",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Combate total al narcotráfico. Refuerzo urgente de los medios humanos y recursos materiales, técnicos y operativos dedicados a la lucha contra el narcotráfico y la criminalidad organizada que operan en el territorio y costas españolas.",
+      "pagina": 40,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "86",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más medios contra el narcotráfico y el crimen organizado",
+      "etiquetas": [
+        "narcotráfico",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Restablecimiento inmediato del Organismo de Coordinación del Narcotráfico (OCON) Sur.",
+      "pagina": 40,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "86",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Restablecer el órgano antinarcotráfico OCON Sur",
+      "etiquetas": [
+        "narcotráfico",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección efectiva de las mujeres frente a la violencia y las agresiones sexuales. Reforzar la prevención, la protección policial y judicial y la asistencia integral a las víctimas, evitando que ninguna mujer quede desamparada.",
+      "pagina": 40,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "87",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Protección de las mujeres ante violencia y agresiones sexuales",
+      "etiquetas": [
+        "violencia de género",
+        "seguridad",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección y defensa de las fronteras españolas. Establecer un nuevo modelo de protección permanente de las fronteras terrestres, marítimas y aéreas, con participación de las Fuerzas Armadas, en apoyo a la Guardia Civil y el Cuerpo Nacional de Policía, reforzando la lucha contra la inmigración ilegal, las mafias de tráfico de personas y las amenazas híbridas, especialmente en Ceuta y Melilla.",
+      "pagina": 40,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "88",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fuerzas Armadas en la vigilancia permanente de fronteras",
+      "etiquetas": [
+        "inmigración",
+        "defensa",
+        "ceuta y melilla"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Lucha incesante contra el terrorismo islámico.",
+      "pagina": 41,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "88",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Lucha contra el terrorismo yihadista",
+      "etiquetas": [
+        "terrorismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumento de la inversión en Defensa, sueldos dignos y ayudas a la movilidad geográfica y a la vivienda y alojamiento.",
+      "pagina": 41,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "89",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más inversión en Defensa y ayudas al personal militar",
+      "etiquetas": [
+        "defensa",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dignificación de la vocación profesional militar.",
+      "pagina": 41,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "89",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reconocimiento de la profesión militar",
+      "etiquetas": [
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reconocimiento de la profesión y servicio en las Fuerzas Armadas como profesión de riesgo.",
+      "pagina": 41,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "89",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fuerzas Armadas como profesión de riesgo",
+      "etiquetas": [
+        "defensa",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Difusión de la Cultura de Seguridad y Defensa.",
+      "pagina": 41,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "89",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Difundir la cultura de seguridad y defensa",
+      "etiquetas": [
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo del Sistema Nacional de Protección Civil. Mejorar la prevención, preparación, coordinación y respuesta ante incendios, inundaciones, catástrofes naturales y emergencias de especial gravedad, garantizando la protección de la población y la recuperación de las zonas afectadas.",
+      "pagina": 41,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "90",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforzar Protección Civil ante catástrofes y emergencias",
+      "etiquetas": [
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo de la ciberseguridad y protección de las infraestructuras críticas. Mejorar las capacidades nacionales de prevención y respuesta frente a ciberataques, espionaje, sabotajes y amenazas contra los servicios esenciales, las redes de comunicaciones y las infraestructuras estratégicas.",
+      "pagina": 41,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "91",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ciberseguridad y protección de infraestructuras críticas",
+      "etiquetas": [
+        "seguridad",
+        "telecomunicaciones",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defender nuestra soberanía ante injerencias extranjeras y recuperar una posición internacional que priorice la defensa de los intereses reales de los españoles y de la Unidad Nacional.",
+      "pagina": 41,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "92",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Política exterior centrada en soberanía e intereses nacionales",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aplicación de toda la presión internacional necesaria para la recuperación de la soberanía española sobre el Peñón de Gibraltar. Desmantelamiento de las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se originan en la colonia y afectan a España. Recuperación del control de las aguas españolas.",
+      "pagina": 42,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "93",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Presión para recuperar Gibraltar, contra redes ilícitas y por control de aguas",
+      "etiquetas": [
+        "política exterior",
+        "narcotráfico"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan de inversiones para recuperar la prosperidad del Campo de Gibraltar.",
+      "pagina": 42,
+      "apartado": [
+        "Seguridad y defensa"
+      ],
+      "numero": "93",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de inversiones para el Campo de Gibraltar",
+      "etiquetas": [
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan nacional de natalidad y apoyo a las familias españolas. Las familias españolas, en el centro de las políticas públicas.",
+      "pagina": 44,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "94",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan nacional de natalidad y apoyo a las familias",
+      "etiquetas": [
+        "familia",
+        "población"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todos los beneficios que ahora existen para las familias numerosas se aumentarán y se extenderán a todas las familias de manera progresiva desde el primer hijo, intensificando las ayudas y bonificaciones en función del número de hijos.",
+      "pagina": 44,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "94",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Extender ventajas de familia numerosa desde el primer hijo",
+      "etiquetas": [
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Bonificaciones fiscales a empresas que fomenten la conciliación y hagan descuentos a las familias.",
+      "pagina": 44,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "94",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bonificaciones fiscales a empresas que faciliten la conciliación",
+      "etiquetas": [
+        "familia",
+        "conciliación",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Bonificación del 100% de la ayuda en el hogar.",
+      "pagina": 44,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "94",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bonificación completa de la ayuda en el hogar",
+      "etiquetas": [
+        "familia",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulso de los servicios de apoyo a las familias en los centros educativos.",
+      "pagina": 44,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "94",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Servicios de apoyo a las familias en los colegios",
+      "etiquetas": [
+        "familia",
+        "conciliación",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cotización a la Seguridad Social financiada por el Estado para los españoles dedicados al cuidado de sus hijos. Formar una familia y criar a los hijos es una contribución esencial al futuro de España y no puede ser motivo de penalización en la jubilación.",
+      "pagina": 44,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "94",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "El Estado cotiza por quienes cuidan a sus hijos",
+      "etiquetas": [
+        "familia",
+        "pensiones",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El plan incluirá todo tipo medidas en apoyo a la familia: para facilitar el acceso a la vivienda, la compra de vehículos por necesidades familiares, la reducción de la carga fiscal de los productos de primera necesidad infantil, deducciones por material escolar o clases extraescolares. y la gratuidad real de la educación infantil de 0 a 3 años.",
+      "pagina": 44,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "94",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas familiares y educación de 0 a 3 años gratuita",
+      "etiquetas": [
+        "familia",
+        "educación",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cuidado de nuestros mayores y dependientes. Reforzar el presupuesto en dependencia, las ayudas para el cuidado en el hogar, el apoyo a familiares a cargo.",
+      "pagina": 45,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "95",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más presupuesto para dependencia y cuidado en el hogar",
+      "etiquetas": [
+        "dependencia",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumento de los programas de atención a la soledad no deseada y de las plazas en residencias.",
+      "pagina": 45,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "95",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más programas contra la soledad y plazas en residencias",
+      "etiquetas": [
+        "soledad no deseada",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo de las bonificaciones y deducciones para personas con discapacidad, poner fin a las barreras arquitectónicas que dificultan su movilidad y desburocratizar los procedimientos de reconocimiento de la discapacidad o dependencia, así como otros trámites relacionados.",
+      "pagina": 45,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "95",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Deducciones, accesibilidad y trámites para personas con discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "dependencia",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminar todas aquellas trabas que impiden que las ayudas a la dependencia lleguen de manera rápida e íntegra a los beneficiarios.",
+      "pagina": 45,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "96",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Agilizar el cobro de las ayudas a la dependencia",
+      "etiquetas": [
+        "dependencia",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección de los menores y la infancia. Preservar la inocencia de los menores y protegerlos frente a los riesgos presentes en los entornos digitales, tales como la adicción al juego o la pornografía o la mayor vulnerabilidad ante ciertos delitos.",
+      "pagina": 45,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "97",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Proteger a los menores de riesgos en internet",
+      "etiquetas": [
+        "infancia",
+        "derechos digitales",
+        "juego"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defensa del derecho a la vida desde su concepción hasta la muerte natural y fin de la cultura de la muerte.",
+      "pagina": 45,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "98",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Postura contraria al aborto y a la eutanasia",
+      "etiquetas": [
+        "derechos y libertades",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la objeción de conciencia de los profesionales sanitarios y farmacéuticos y potenciar los cuidados paliativos.",
+      "pagina": 45,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "98",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Objeción de conciencia sanitaria y más cuidados paliativos",
+      "etiquetas": [
+        "sanidad",
+        "cuidados paliativos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Combatir la brecha maternal facilitando la formación, permanencia, promoción y reincorporación al trabajo de las madres que han interrumpido sus carreras por la maternidad o cuidado de familiares y desean retomarla.",
+      "pagina": 45,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "99",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo laboral a madres que retoman su carrera",
+      "etiquetas": [
+        "empleo",
+        "conciliación",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar los derechos de conciliación de la vida personal, familiar y profesional de todos los trabajadores y la asunción equilibrada de las responsabilidades familiares.",
+      "pagina": 46,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "99",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforzar los derechos de conciliación de los trabajadores",
+      "etiquetas": [
+        "conciliación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incentivos para las empresas que favorezcan la conciliación familiar y laboral.",
+      "pagina": 46,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "99",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Incentivos a empresas que faciliten la conciliación",
+      "etiquetas": [
+        "conciliación",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumento del presupuesto en conciliación familiar con ampliación de los servicios complementarios de aula en los centros educativos.",
+      "pagina": 46,
+      "apartado": [
+        "Familia y vida"
+      ],
+      "numero": "99",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más presupuesto de conciliación y servicios escolares complementarios",
+      "etiquetas": [
+        "conciliación",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Independencia y despolitización de la Justicia. Modificar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo General del Poder Judicial sean elegidos mediante voto personal, directo y secreto por y entre los propios jueces y magistrados, terminando con el sistema de cuotas partidistas.",
+      "pagina": 48,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "100",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Jueces eligen a los doce vocales judiciales del CGPJ",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acabar con la colonización partidista de cualquier institución judicial.",
+      "pagina": 48,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "100",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducir la influencia de los partidos en la justicia",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la idoneidad, imparcialidad, competencia profesional e independencia del Fiscal General del Estado.",
+      "pagina": 48,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "100",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Requisitos de independencia para el Fiscal General",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Liberar el Tribunal Constitucional de las manos de los políticos. El control de la constitucionalidad de las leyes no puede depender de un órgano político.",
+      "pagina": 48,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "101",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Tribunal Constitucional sin control de los partidos",
+      "etiquetas": [
+        "instituciones",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Velar por el respeto del papel funcional del Tribunal Supremo y evitar que el Tribunal Constitucional actúe como un tribunal extraordinario por encima del mismo.",
+      "pagina": 48,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "101",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Delimitar funciones entre Supremo y Constitucional",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Administración de Justicia rápida, eficiente para los españoles. Reforma integral del sistema judicial que deje atrás los desvaríos ideológicos de este Gobierno y permita que los españoles puedan contar con una Administración de Justicia rápida y eficiente.",
+      "pagina": 48,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "102",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforma integral del sistema judicial para agilizarlo",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumento de las inversiones en sedes judiciales y profesionales de la justicia.",
+      "pagina": 48,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "102",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más inversión en sedes y personal judicial",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Respuesta contundente frente a los ataques contra la Unidad Nacional. Recuperar el delito de sedición, agravar el tipo delictivo de la malversación de caudales públicos y prohibir los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial.",
+      "pagina": 48,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "103",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Recuperar la sedición, endurecer la malversación y limitar indultos",
+      "etiquetas": [
+        "justicia",
+        "corrupción",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ilegalización de los partidos políticos, asociaciones u organizaciones de cualquier tipo que atenten contra la soberanía e independencia de España, su unidad e integridad territorial.",
+      "pagina": 49,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "103",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ilegalizar partidos y entidades contrarios a la unidad de España",
+      "etiquetas": [
+        "partidos políticos",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defensa y protección de nuestra identidad, tradiciones, usos y costumbres. España es el quehacer común de los españoles de ayer, hoy y mañana y nuestra Nación merece que se garantice la promoción, conservación y transmisión de nuestro rico patrimonio material y espiritual.",
+      "pagina": 49,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "104",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de la identidad y las tradiciones españolas",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección de nuestros usos y costumbres y de las tradiciones religiosas y populares de España, frente a cualquier intento de imposición ideológica o de oposición extranjera.",
+      "pagina": 49,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "104",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Proteger tradiciones religiosas y populares",
+      "etiquetas": [
+        "cultura",
+        "religión"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dotar de la máxima protección jurídica a los símbolos de la Nación, especialmente la Bandera, el Escudo y el Himno o la Corona.",
+      "pagina": 49,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "105",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Máxima protección legal a bandera, escudo, himno y Corona",
+      "etiquetas": [
+        "símbolos nacionales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las penas por las ofensas y ultrajes a España y sus símbolos o emblemas deben agravarse para que ninguna afrenta a ellos quede impune.",
+      "pagina": 49,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "105",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Endurecer penas por ultrajes a España y sus símbolos",
+      "etiquetas": [
+        "símbolos nacionales",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revertir y poner fin a la gravísima degradación institucional promovida desde el Gobierno de Sánchez, la cual amenaza con romper la unidad y la igualdad de los españoles y quebrar nuestro Estado de Derecho.",
+      "pagina": 49,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "106",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Revertir los cambios institucionales del actual Gobierno",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Máximo respeto por la actuación de todos los servidores públicos en su lucha contra la corrupción.",
+      "pagina": 49,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "106",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Respaldo a funcionarios que investigan la corrupción",
+      "etiquetas": [
+        "corrupción"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mayores medios y recursos a los juzgados y las unidades de la Guardia Civil y del Cuerpo Nacional de Policía especializadas en la lucha contra la corrupción.",
+      "pagina": 49,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "106",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más medios a juzgados y unidades policiales anticorrupción",
+      "etiquetas": [
+        "corrupción",
+        "justicia",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Lucha contra la corrupción. Auditoría integral de todas las Administraciones con el fin destapar cualquier indicio de corrupción y llevarlo ante la Justicia.",
+      "pagina": 50,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "107",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Auditoría integral de todas las administraciones",
+      "etiquetas": [
+        "corrupción",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos la responsabilidad patrimonial personal de los cargos públicos condenados por delitos de corrupción, garantizando que respondan con todos sus bienes presentes y futuros por la totalidad del perjuicio económico causado a las arcas públicas, hasta su completa recuperación de los fondos públicos desviados.",
+      "pagina": 50,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "107",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Condenados por corrupción devuelven todo lo desviado con sus bienes",
+      "etiquetas": [
+        "corrupción",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Auditoría del patrimonio inmobiliario del Estado. Los bienes inmuebles del Estado han de estar al servicio de las necesidades de la vivienda o de la mejor y más eficiente prestación de los servicios públicos de los españoles. No se ha de permitir por más tiempo que se conviertan en saunas de corrupción, se cedan gratuitamente para la ubicación de inmigrantes ilegales o se mantengan en estado de ruina.",
+      "pagina": 50,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "108",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Auditar inmuebles estatales para vivienda o servicios, no para alojar migrantes irregulares",
+      "etiquetas": [
+        "vivienda",
+        "administración pública",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan Nacional de Rehabilitación del Patrimonio Inmobiliario para la revitalización y creación de empleo.",
+      "pagina": 50,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "108",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan para rehabilitar inmuebles públicos y crear empleo",
+      "etiquetas": [
+        "vivienda",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Memoria, dignidad y justicia para las víctimas del terrorismo. Aprobación de una ley que impida de forma efectiva el enaltecimiento del terrorismo, homenajes a terroristas, actos de humillación de las víctimas o ataques a instituciones y símbolos de España.",
+      "pagina": 50,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "109",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley contra el enaltecimiento del terrorismo y homenajes",
+      "etiquetas": [
+        "terrorismo",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la investigación de todos los crímenes de ETA aún no resueltos e impulsar la consideración de todos y cada uno de los delitos cometidos por la organización terrorista ETA como crímenes de lesa humanidad, para que no prescriban nunca.",
+      "pagina": 50,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "109",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Investigar crímenes de ETA y tratarlos como lesa humanidad",
+      "etiquetas": [
+        "terrorismo",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la efectiva imprescriptibilidad de todos los delitos de terrorismo.",
+      "pagina": 50,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "109",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Delitos de terrorismo imprescriptibles",
+      "etiquetas": [
+        "terrorismo",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fin de los privilegios penitenciarios de los condenados por terrorismo.",
+      "pagina": 50,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "109",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suprimir beneficios penitenciarios a condenados por terrorismo",
+      "etiquetas": [
+        "terrorismo",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Limpiar RTVE de comisarios políticos, acabar con el despilfarro y ponerla al servicio de los españoles. Reforma integral de la Radio y la Televisión pública para que preste un verdadero servicio público informando con objetividad y pluralidad.",
+      "pagina": 51,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "110",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma integral de RTVE",
+      "etiquetas": [
+        "medios de comunicación",
+        "empresas públicas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar el derecho a comunicar o recibir libremente información veraz.",
+      "pagina": 51,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "110",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Garantizar el derecho a la información",
+      "etiquetas": [
+        "medios de comunicación",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la libertad de expresión de todos los españoles frente a la deriva censora del Gobierno de Sánchez.",
+      "pagina": 51,
+      "apartado": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "numero": "111",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Garantizar la libertad de expresión",
+      "etiquetas": [
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan nacional de infraestructuras.",
+      "pagina": 53,
+      "apartado": [
+        "Infraestructuras y transportes"
+      ],
+      "numero": "112",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan nacional de infraestructuras",
+      "etiquetas": [
+        "infraestructuras",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todas las inversiones en infraestructuras deben diseñarse pensando en el interés del conjunto de los españoles y con el fin de conectar los distintos territorios que conforman España.",
+      "pagina": 53,
+      "apartado": [
+        "Infraestructuras y transportes"
+      ],
+      "numero": "112",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Inversión en infraestructuras para conectar todo el territorio",
+      "etiquetas": [
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumento de la inversión en infraestructuras que incluya, al menos, red de carreteras, red ferroviaria, infraestructuras hidráulicas y de contención de inundaciones, telecomunicaciones, nodos logísticos, transporte y puertos.",
+      "pagina": 53,
+      "apartado": [
+        "Infraestructuras y transportes"
+      ],
+      "numero": "112",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más inversión en carreteras, tren, obras hidráulicas, puertos y telecomunicaciones",
+      "etiquetas": [
+        "infraestructuras",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Trenes rápidos, seguros y una España rural conectada. Prioridad a la seguridad ferroviaria, al mantenimiento de una red abandonada e infradotada y a los servicios de Cercanías y Media Distancia.",
+      "pagina": 53,
+      "apartado": [
+        "Infraestructuras y transportes"
+      ],
+      "numero": "113",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prioridad a seguridad ferroviaria, Cercanías y Media Distancia",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Auditoría del estado de la red. Modernización y electrificación de las líneas convencionales para conectar también las ciudades pequeñas y la España rural.",
+      "pagina": 53,
+      "apartado": [
+        "Infraestructuras y transportes"
+      ],
+      "numero": "113",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Auditar la red ferroviaria y electrificar líneas convencionales",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Obras contra las inundaciones para proteger vidas y hogares. Poner fin al planeamiento y abandono ideológico de las infraestructuras esenciales contra las inundaciones.",
+      "pagina": 53,
+      "apartado": [
+        "Infraestructuras y transportes"
+      ],
+      "numero": "114",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Obras de prevención de inundaciones",
+      "etiquetas": [
+        "infraestructuras",
+        "emergencias",
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Conclusión de las obras pendientes, conservación de cauces, adecuación de barrancos y desarrollo de las infraestructuras hidráulicas necesarias para garantizar la seguridad y el bienestar de los españoles.",
+      "pagina": 53,
+      "apartado": [
+        "Infraestructuras y transportes"
+      ],
+      "numero": "114",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Terminar obras hidráulicas y conservar cauces y barrancos",
+      "etiquetas": [
+        "agua",
+        "infraestructuras",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan Nacional del Agua. Interconexión de todas las cuencas que permita una gestión más eficiente del agua y pueda servir para reactivar económicamente a nuestro sector primario, así como para impulsar y modernizar los regadíos y la producción de energía.",
+      "pagina": 53,
+      "apartado": [
+        "Infraestructuras y transportes"
+      ],
+      "numero": "115",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan Nacional del Agua con interconexión de cuencas",
+      "etiquetas": [
+        "agua",
+        "agricultura y pesca",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Al mismo tiempo, conclusión de las obras pendientes y desarrollo de las infraestructuras hidráulicas necesarias para garantizar la seguridad de los españoles ante las inundaciones.",
+      "pagina": 54,
+      "apartado": [
+        "Infraestructuras y transportes"
+      ],
+      "numero": "115",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Terminar obras hidráulicas contra inundaciones",
+      "etiquetas": [
+        "agua",
+        "infraestructuras",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

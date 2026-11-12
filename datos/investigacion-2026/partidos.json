@@ -1,6 +1,6 @@
 {
   "nota": "Mapa de candidaturas al Congreso para el 29 de noviembre de 2026. Archivo mantenido a mano: se edita aquí. Las circunscripciones y los votos de 2023 no se escriben en este archivo: los calcula scripts/investigacion/resumen-partidos.mjs a partir de candidaturas-boe.json y resultados-2023.json, y escribe partidos.md.",
-  "actualizado": "2026-11-11",
+  "actualizado": "2026-11-12",
   "seleccion": {
     "decidido": "2026-11-10",
     "criterio": "Las 15 candidaturas con más votos de 2023 (contando para las que proceden de Sumar los votos de aquella coalición), más Se Acabó La Fiesta, Democracia para el Siglo 21 y Frente Obrero, elegidas por el responsable del proyecto.",
@@ -91,7 +91,7 @@
       "representacion_actual": "Congreso saliente: 137 diputados (Grupo Popular). Parlamento Europeo: 22 escaños obtenidos en 2024.",
       "programa": {
         "estado": "publicado",
-        "comprobado": "2026-11-11",
+        "comprobado": "2026-11-12",
         "documentos": [
           {
             "clase": "programa",
@@ -192,7 +192,7 @@
       "representacion_actual": "UPN: 1 diputado (Grupo Mixto) y 1 senador en la legislatura saliente. PP: 1 diputado por Navarra elegido en 2023, incluido en los 137 del Grupo Popular.",
       "programa": {
         "estado": "no_publicado",
-        "comprobado": "2026-11-11",
+        "comprobado": "2026-11-12",
         "documentos": [
           {
             "clase": "nota_de_prensa",
@@ -201,7 +201,7 @@
             "fecha": "2026-10-13"
           }
         ],
-        "nota": "No es un programa electoral: es la nota oficial de UPN que resume los compromisos del acuerdo de coalición (respetar el Régimen Foral y el Convenio Económico, apoyo al Amejoramiento del Fuero, eliminar la disposición transitoria cuarta de la Constitución en una eventual reforma, e inversiones del Estado en la segunda fase del Canal de Navarra, el tren de alta velocidad y su conexión con la Y vasca, el aeropuerto de Pamplona y la red eléctrica). En castellano, sin PDF. La agenda del PP anuncia en Pamplona la presentación del \"lema y compromisos de la coalición UPN-PP\"; no se ha localizado todavía documento ni crónica. El programa nacional del PP, partido miembro, está publicado (ver ficha pp). Comprobado el 10/11/2026; volver a mirar en https://www.upn.org/actualidad/."
+        "nota": "No es un programa electoral: es la nota oficial de UPN que resume los compromisos del acuerdo de coalición (respetar el Régimen Foral y el Convenio Económico, apoyo al Amejoramiento del Fuero, eliminar la disposición transitoria cuarta de la Constitución en una eventual reforma, e inversiones del Estado en la segunda fase del Canal de Navarra, el tren de alta velocidad y su conexión con la Y vasca, el aeropuerto de Pamplona y la red eléctrica). En castellano, sin PDF. La agenda del PP anuncia en Pamplona la presentación del \"lema y compromisos de la coalición UPN-PP\"; no se ha localizado todavía documento ni crónica. El programa nacional del PP, partido miembro, está publicado (ver ficha pp). Comprobado el 10/11/2026; volver a mirar en https://www.upn.org/actualidad/. Comprobado el 12-11-2026: sin cambios en upn.org (portada y noticias). Prensa a 12-11-2026: la coalición presentó el 10-11-2026 su lema, «Por España, por Navarra, por fin» (Navarra.com; Noticias de Navarra); el acuerdo prevé que una comisión conjunta redacte el programa (Moncloa.com, 13-10-2026) y no consta que se haya publicado."
       },
       "pendiente": [],
       "dudas": [
@@ -327,9 +327,9 @@
       "representacion_actual": "Congreso saliente: 121 diputados (102 del PSOE y 19 del PSC). Parlamento Europeo: 20 escaños obtenidos en 2024.",
       "programa": {
         "estado": "no_publicado",
-        "comprobado": "2026-11-11",
+        "comprobado": "2026-11-12",
         "documentos": [],
-        "nota": "Comprobado a mano por el responsable del proyecto el 10-11-2026: aún no ha publicado programa. Su web bloquea el acceso automático."
+        "nota": "Comprobado a mano por el responsable del proyecto el 10-11-2026: aún no ha publicado programa. Su web bloquea el acceso automático. Comprobado el 12-11-2026: la prensa no recoge que haya publicado programa (búsqueda del día); su web bloquea el acceso automático y tiene que mirarla una persona. Prensa a 12-11-2026: ninguna noticia recoge la presentación del programa; el comité electoral encargó el programa a Cristina Narbona (The Objective y Libertad Digital, 5-10-2026) y Artículo 14 (10-11-2026) decía que no había fecha."
       },
       "pendiente": [],
       "dudas": [
@@ -450,9 +450,16 @@
       },
       "representacion_actual": "Congreso: 33 escaños obtenidos en 2023; 32 en su grupo desde julio de 2026, tras el paso de Javier Ortega Smith al Grupo Mixto. Parlamento Europeo: 6 escaños obtenidos en 2024.",
       "programa": {
-        "estado": "documento_parcial",
-        "comprobado": "2026-11-11",
+        "estado": "publicado",
+        "comprobado": "2026-11-12",
         "documentos": [
+          {
+            "clase": "programa",
+            "url": "https://www.democrata.es/uploads/s1/35/26/90/2/programa-elecct-vox.pdf",
+            "titulo": "Es sentido común. Programa electoral, 29 de noviembre de 2026",
+            "fecha": "2026-11-12",
+            "via": "copia publicada por Demócrata"
+          },
           {
             "clase": "documento_parcial",
             "url": "https://www.elindependiente.com/wp-content/uploads/2026/06/Programa-de-desregularizacio%CC%81n-de-Vox.pdf",
@@ -461,7 +468,7 @@
             "via": "copia publicada por El Independiente"
           }
         ],
-        "nota": "No ha publicado programa para las generales del 29N (comprobado a mano por el responsable del proyecto el 10-11-2026; su web bloquea el acceso automático). Desde el 11-11-2026 se usa su «Programa de desregulación», documento sectorial de 81 páginas con fecha interna 27-6-2026, anterior a la convocatoria. Se descargó de la copia que publica El Independiente porque voxespana.es bloquea el acceso automático; el texto se identifica como de VOX («Propuestas de VOX»). Decisión del responsable (11-11-2026): extraerlo entero. El resto de temas se cubre con declaraciones."
+        "nota": "Programa electoral para el 29N presentado el 12-11-2026 (The Objective, Infobae y Demócrata, 12-11-2026): lema «Es sentido común», 115 medidas numeradas en 13 bloques, 55 páginas. La web del partido (voxespana.es) bloquea el acceso automático: se descargó de la copia que publica el diario Demócrata (https://www.democrata.es/elecciones-generales-espana/programa-electoral-vox-2026-propuestas-pdf/). Se siguen usando su «Programa de desregulación» (documento sectorial de junio de 2026, copia de El Independiente) y las declaraciones recogidas antes de que hubiera programa (decisión del responsable, 12-11-2026: no se retiran)."
       },
       "pendiente": [],
       "dudas": [
@@ -576,7 +583,7 @@
       "representacion_actual": "Sin escaños en el Congreso, el Senado ni los parlamentos autonómicos. Parlamento Europeo: 3 escaños obtenidos en 2024; dos eurodiputados dejaron el partido en 2025 y Alvise Pérez sigue como eurodiputado.",
       "programa": {
         "estado": "publicado",
-        "comprobado": "2026-11-11",
+        "comprobado": "2026-11-12",
         "documentos": [
           {
             "clase": "programa",
@@ -654,7 +661,7 @@
       "representacion_actual": "Sin representación en el Congreso, el Senado ni el Parlamento Europeo. Ciudadanos, miembro de la coalición, conserva cargos municipales (entre 400 y 500, según su secretaria de Organización).",
       "programa": {
         "estado": "documento_parcial",
-        "comprobado": "2026-11-10",
+        "comprobado": "2026-11-12",
         "documentos": [
           {
             "clase": "documento_parcial",
@@ -663,7 +670,7 @@
             "fecha": ""
           }
         ],
-        "nota": "No hay un documento llamado programa electoral. La web del partido Democracia 21 tiene un \"Tablón de Soluciones\" con 19 propuestas en tres bloques (limpieza política, modernización del país y lo que de verdad importa) y tres documentos temáticos en PDF, en castellano: \"España Limpia\" (13 páginas, https://democracia21.es/docs/espana-limpia-democracia21.pdf), \"Vivienda, Prioridad Nº1\" (9 páginas, https://democracia21.es/docs/vivienda-prioridad-1-democracia21.pdf) y \"La educación en el centro\" (8 páginas, https://democracia21.es/docs/educacion-en-el-centro-democracia21.pdf); un cuarto aparece como \"Próximamente\". La página no lleva fecha; los PDF tienen fecha interna de entre el 15 de octubre y el 5 de noviembre de 2026. La web no menciona el 29N ni la coalición con Ciudadanos y UCIN. Comprobado el 10/11/2026."
+        "nota": "No hay un documento llamado programa electoral. La web del partido Democracia 21 tiene un \"Tablón de Soluciones\" con 19 propuestas en tres bloques (limpieza política, modernización del país y lo que de verdad importa) y tres documentos temáticos en PDF, en castellano: \"España Limpia\" (13 páginas, https://democracia21.es/docs/espana-limpia-democracia21.pdf), \"Vivienda, Prioridad Nº1\" (9 páginas, https://democracia21.es/docs/vivienda-prioridad-1-democracia21.pdf) y \"La educación en el centro\" (8 páginas, https://democracia21.es/docs/educacion-en-el-centro-democracia21.pdf); un cuarto aparece como \"Próximamente\". La página no lleva fecha; los PDF tienen fecha interna de entre el 15 de octubre y el 5 de noviembre de 2026. La web no menciona el 29N ni la coalición con Ciudadanos y UCIN. Comprobado el 10/11/2026. Comprobado el 12-11-2026: los tres documentos no han cambiado (misma huella) y el cuarto sigue como «Próximamente»."
       },
       "pendiente": [],
       "dudas": [
@@ -815,7 +822,7 @@
       "representacion_actual": "El Grupo Parlamentario Plurinacional SUMAR, en el que se integraban sus partidos, tenía 26 miembros al disolverse las Cortes (6-10-2026), según los datos abiertos del Congreso; la coalición Sumar obtuvo 31 escaños en 2023. Dos de esos 26 diputados son de partidos que en 2026 van en otras candidaturas (Compromís y MÉS per Mallorca).",
       "programa": {
         "estado": "no_publicado",
-        "comprobado": "2026-11-11",
+        "comprobado": "2026-11-12",
         "documentos": [
           {
             "clase": "nota_de_prensa",
@@ -824,7 +831,7 @@
             "fecha": "2026-11-06"
           }
         ],
-        "nota": "No hay documento de programa. La web oficial solo tiene portada, textos legales y notas de prensa; su sitemap no contiene ninguna página de programa y /programa/ devuelve 404 (comprobado el 10-11-2026). Las notas, en castellano, recogen medidas sueltas: impuesto a grandes fortunas y empresas (5-11), aplicación web sobre el destino de un impuesto a las 50 mayores fortunas (6-11), ley para expropiar vivienda a grandes fondos (6-11), impuesto a la acumulación de vivienda (28-10), pensión mínima igual al SMI y jubilación a los 65 (24-10), Pacto de Estado por el Tren (2-11). Artículo 14 (10-11-2026) indica que no ha publicado programa íntegro ni ha comunicado fecha. Para actualizar: revisar https://frenteamplio.info/sitemap.xml."
+        "nota": "No hay documento de programa. La web oficial solo tiene portada, textos legales y notas de prensa; su sitemap no contiene ninguna página de programa y /programa/ devuelve 404 (comprobado el 10-11-2026). Las notas, en castellano, recogen medidas sueltas: impuesto a grandes fortunas y empresas (5-11), aplicación web sobre el destino de un impuesto a las 50 mayores fortunas (6-11), ley para expropiar vivienda a grandes fondos (6-11), impuesto a la acumulación de vivienda (28-10), pensión mínima igual al SMI y jubilación a los 65 (24-10), Pacto de Estado por el Tren (2-11). Artículo 14 (10-11-2026) indica que no ha publicado programa íntegro ni ha comunicado fecha. Para actualizar: revisar https://frenteamplio.info/sitemap.xml. Comprobado el 12-11-2026: sin cambios; frenteamplio.info/programa/ sigue devolviendo 404 y la portada no enlaza ningún documento. Prensa a 12-11-2026: sin programa publicado (Diario en Positivo, 12-11-2026; Artículo 14, 8-11-2026); solo medidas anunciadas por Ada Colau y la coalición (ley para expropiar vivienda a grandes fondos, impuesto al patrimonio, pensión mínima igual al SMI) y el lema «Un voto como una casa»."
       },
       "pendiente": [
         "Los once miembros solo están contrastados con un medio; la web de la coalición y Recortes Cero hablan de 15 fuerzas."
@@ -1113,7 +1120,7 @@
       "representacion_actual": "4 diputados en el Grupo Mixto del Congreso saliente, elegidos en 2023 en las listas de Sumar, y 2 eurodiputadas elegidas en 2024 (una de ellas, Irene Montero).",
       "programa": {
         "estado": "programa_general",
-        "comprobado": "2026-11-11",
+        "comprobado": "2026-11-12",
         "documentos": [
           {
             "clase": "programa_general",
@@ -1122,7 +1129,7 @@
             "fecha": "2025-04-07"
           }
         ],
-        "nota": "No ha publicado programa para las generales del 29N. Desde el 11-11-2026 se usa su «Documento Político de la V Asamblea Ciudadana Estatal» (podemos.info, 42 páginas, PDF creado el 7-4-2025): documento político general, no programa electoral. Decisión del responsable (11-11-2026): extraerlo entero. El resto de temas se cubre con declaraciones. Nota anterior: No es un documento de programa: es una publicación de la cuenta oficial de Podemos en X, con vídeo, que enumera cinco puntos (vivienda; coste de la vida; 'ni un euro para guerras'; SMI de 1.800 euros y jornada de 30 horas; servicios públicos y clima). En castellano. En podemos.info no hay programa de 2026: la página /programa/ sigue mostrando el de las generales de noviembre de 2019 y las últimas páginas modificadas no incluyen ninguna de programa (comprobado el 10-11-2026). Artículo 14 (10-11-2026) indica que el programa completo no está publicado. Para actualizar: revisar https://podemos.info/programa/ y https://podemos.info/documentos/."
+        "nota": "No ha publicado programa para las generales del 29N. Desde el 11-11-2026 se usa su «Documento Político de la V Asamblea Ciudadana Estatal» (podemos.info, 42 páginas, PDF creado el 7-4-2025): documento político general, no programa electoral. Decisión del responsable (11-11-2026): extraerlo entero. El resto de temas se cubre con declaraciones. Nota anterior: No es un documento de programa: es una publicación de la cuenta oficial de Podemos en X, con vídeo, que enumera cinco puntos (vivienda; coste de la vida; 'ni un euro para guerras'; SMI de 1.800 euros y jornada de 30 horas; servicios públicos y clima). En castellano. En podemos.info no hay programa de 2026: la página /programa/ sigue mostrando el de las generales de noviembre de 2019 y las últimas páginas modificadas no incluyen ninguna de programa (comprobado el 10-11-2026). Artículo 14 (10-11-2026) indica que el programa completo no está publicado. Para actualizar: revisar https://podemos.info/programa/ y https://podemos.info/documentos/. Comprobado el 12-11-2026: sin cambios; podemos.info/programa/ sigue mostrando los programas de 2019. Prensa a 12-11-2026: sin programa publicado (Infobae/Europa Press, 12-11-2026); la candidatura de Irene Montero tiene una web de campaña con cinco medidas y el lema «Paz, casa y trabajo»."
       },
       "pendiente": [],
       "dudas": [
@@ -1220,7 +1227,7 @@
       "representacion_actual": "Compromís tiene 2 diputados en el Congreso saliente, elegidos en 2023 por Valencia (una en el Grupo Mixto desde 2025 y otro en el grupo Sumar), y 15 escaños en las Corts Valencianes (elecciones de 2023).",
       "programa": {
         "estado": "no_publicado",
-        "comprobado": "2026-11-11",
+        "comprobado": "2026-11-12",
         "documentos": [
           {
             "clase": "web_sin_confirmar",
@@ -1229,7 +1236,7 @@
             "fecha": ""
           }
         ],
-        "nota": "Página web sin fecha visible (consultada el 10-11-2026), en valenciano y castellano, con seis ejes y 21 propuestas breves: vivienda, trabajo y pensiones, financiación y deuda, energía y territorio, ferrocarril y transporte, igualdad. No hay PDF: el botón 'Programa sencer' está oculto con la nota 'Enllaç pendent'. La web del partido (compromis.net/info/programes) no lista programa para el 29N; sí publica notas con propuestas sueltas (5 y 6-11-2026). Para actualizar: comprobar si se activa el enlace 'Programa sencer' en frontvalencia.org."
+        "nota": "Página web sin fecha visible (consultada el 10-11-2026), en valenciano y castellano, con seis ejes y 21 propuestas breves: vivienda, trabajo y pensiones, financiación y deuda, energía y territorio, ferrocarril y transporte, igualdad. No hay PDF: el botón 'Programa sencer' está oculto con la nota 'Enllaç pendent'. La web del partido (compromis.net/info/programes) no lista programa para el 29N; sí publica notas con propuestas sueltas (5 y 6-11-2026). Para actualizar: comprobar si se activa el enlace 'Programa sencer' en frontvalencia.org. Comprobado el 12-11-2026: sin cambios; en frontvalencia.org el botón «Programa sencer» sigue sin enlace («Enllaç pendent») y compromis.net/info/programes no lista programa del 29N. Prensa a 12-11-2026: Alberto Ibáñez presentó los ejes programáticos (vivienda, trabajo, territorio, movilidad, igualdad y trato justo) según Valencia Plaza y Actualidad Valencia; no consta documento de programa publicado."
       },
       "pendiente": [
         "Confirmar con Compromís que https://frontvalencia.org es su web de campaña: no está enlazada desde compromis.net y tiene contenido de plantilla sin terminar."
@@ -1376,18 +1383,19 @@
       "representacion_actual": "NC-BC no tiene escaño en el Congreso saliente y tiene diputados en el Parlamento de Canarias; el escaño de Sumar por Las Palmas en 2023 correspondió a una diputada de Podemos.",
       "programa": {
         "estado": "no_publicado",
-        "comprobado": "2026-11-11",
+        "comprobado": "2026-11-12",
         "documentos": [],
-        "nota": "No se ha localizado programa conjunto. RTVC (15-10-2026) indicaba que aún no se había dado a conocer. La página de programas de NC-BC (https://www.nuevacanariasbc.org/programa/) solo llega a las generales de 2023 y las europeas de 2024. No se ha encontrado web propia de la coalición (unidaddelpueblocanario.com y .es son dominios en venta). Para actualizar: revisar la página de programas de NC-BC."
+        "nota": "No se ha localizado programa conjunto. RTVC (15-10-2026) indicaba que aún no se había dado a conocer. La página de programas de NC-BC (https://www.nuevacanariasbc.org/programa/) solo llega a las generales de 2023 y las europeas de 2024. No se ha encontrado web propia de la coalición (unidaddelpueblocanario.com y .es son dominios en venta). Para actualizar: revisar la página de programas de NC-BC. Comprobado el 12-11-2026: sin cambios en la página de programas de NC-BC. Prensa a 12-11-2026: la coalición presentó el 3-11-2026 en La Laguna un manifiesto electoral, «Una sola papeleta. Todo un pueblo», de seis páginas y 16 ejes (El Tambor y Canal 11 La Palma, 3-11-2026; Valsequillo Actualidad, 4-11-2026, que dice haberlo recibido de la coalición). Los medios lo resumen pero no enlazan el texto, y no se ha localizado en ninguna web de la coalición ni de sus partidos."
       },
       "pendiente": [
-        "Drago Canarias presentó el 9-11-2026 recursos de amparo electoral ante el Tribunal Constitucional contra la denominación «UPC». Revisar el 12 o 13 de noviembre: el nombre de la papeleta podría cambiar."
+        "Conseguir el texto del manifiesto electoral del 3-11-2026 («Una sola papeleta. Todo un pueblo», 6 páginas, 16 ejes). Si se consigue, registrarlo como documento parcial y extraerlo entero. Mientras tanto la ficha se cubre con declaraciones."
       ],
       "dudas": [
         "Clasificación de 2023: se ha puesto 'no_existia' con los dos encabezados de sus componentes; también cabría 'se_presento_solo_en_parte' (solo NC-BC concurrió con lista propia) o 'dudoso'.",
         "No se ha localizado web oficial de la coalición; la del partido que encabeza es https://www.nuevacanariasbc.org/ (nuevacanarias.org no se actualiza desde julio de 2025).",
         "No se ha verificado el número actual de diputados de NC-BC en el Parlamento de Canarias. Que el escaño de Sumar por Las Palmas en 2023 fue para Podemos procede de conocimiento previo, no de una fuente abierta hoy.",
-        "Algún medio la llama 'Unión del Pueblo Canario'; el nombre del BOE es 'Unidad del Pueblo Canario UPC'."
+        "Algún medio la llama 'Unión del Pueblo Canario'; el nombre del BOE es 'Unidad del Pueblo Canario UPC'.",
+        "El Tribunal Constitucional no admitió a trámite (12-11-2026) los dos recursos de amparo de Drago Canarias contra el uso de las siglas UPC (Canarias Ahora/elDiario.es y Demócrata, 12-11-2026): el nombre de la papeleta no cambia. No se ha localizado el texto de las providencias."
       ],
       "fuentes": [
         {
@@ -1606,9 +1614,9 @@
       "representacion_actual": "7 diputados en el Congreso saliente (elecciones de 2023), 35 escaños en el Parlament de Catalunya (2024, como Junts+Carles Puigdemont per Catalunya) y 1 escaño obtenido en las europeas de 2024 (Junts UE).",
       "programa": {
         "estado": "no_publicado",
-        "comprobado": "2026-11-11",
+        "comprobado": "2026-11-12",
         "documentos": [],
-        "nota": "Comprobado el 10-11-2026 en junts.cat (portada, últimas noticias y páginas modificadas recientemente): no hay documento de programa para el 29-N. La web tiene una sección permanente de propuestas por temas (https://junts.cat/propostes/: nació, finançament, impostos, habitatge, immigració, llengua, seguretat, sanitat, educació, benestar social, Rodalies i mobilitat), que no se presenta como programa electoral ni lleva fecha. Dónde volver a mirar: https://junts.cat/actualitat/noticies/ y https://junts.cat/propostes/."
+        "nota": "Comprobado el 10-11-2026 en junts.cat (portada, últimas noticias y páginas modificadas recientemente): no hay documento de programa para el 29-N. La web tiene una sección permanente de propuestas por temas (https://junts.cat/propostes/: nació, finançament, impostos, habitatge, immigració, llengua, seguretat, sanitat, educació, benestar social, Rodalies i mobilitat), que no se presenta como programa electoral ni lleva fecha. Dónde volver a mirar: https://junts.cat/actualitat/noticies/ y https://junts.cat/propostes/. Comprobado el 12-11-2026: sin cambios en junts.cat (portada y noticias). Prensa a 12-11-2026: campaña bajo el lema «Catalunya al centre» (Público; TorrijosToday); ninguna noticia recoge la presentación de un programa para el 29N."
       },
       "pendiente": [],
       "dudas": [
@@ -1819,9 +1827,9 @@
       "representacion_actual": "6 diputados en el Congreso saliente (elecciones de 2023), 27 escaños en el Parlamento Vasco (2024), 9 en el Parlamento de Navarra (2023) y 1 eurodiputado dentro de Ahora Repúblicas (2024).",
       "programa": {
         "estado": "no_publicado",
-        "comprobado": "2026-11-11",
+        "comprobado": "2026-11-12",
         "documentos": [],
-        "nota": "Comprobado el 10-11-2026 en ehbildu.eus: portada, buscador de noticias («programa») y las dos páginas de la sección de documentos (34 documentos). No hay programa para el 29-N; solo documentos temáticos (vivienda, política lingüística, sanidad, etc.) y noticias con medidas sueltas (por ejemplo, sobre alquiler). La web anuncia un acto central de campaña el 14-11-2026 en Bilbao. Dónde volver a mirar: https://ehbildu.eus/es/documentos y https://ehbildu.eus/es."
+        "nota": "Comprobado el 10-11-2026 en ehbildu.eus: portada, buscador de noticias («programa») y las dos páginas de la sección de documentos (34 documentos). No hay programa para el 29-N; solo documentos temáticos (vivienda, política lingüística, sanidad, etc.) y noticias con medidas sueltas (por ejemplo, sobre alquiler). La web anuncia un acto central de campaña el 14-11-2026 en Bilbao. Dónde volver a mirar: https://ehbildu.eus/es/documentos y https://ehbildu.eus/es. Comprobado el 12-11-2026: sin cambios; el documento más reciente de ehbildu.eus/es/documentos es de mayo de 2026. Prensa a 12-11-2026: los comparadores de programas actualizados el 11 y el 12-11-2026 (tupapeleta.es, politicheck.es, politicaelectoral.com) lo dan como no publicado; ninguna noticia recoge su presentación."
       },
       "pendiente": [],
       "dudas": [
@@ -1928,7 +1936,7 @@
       "representacion_actual": "5 diputados en el Congreso saliente (elecciones de 2023), 27 escaños en el Parlamento Vasco (2024) y 1 eurodiputado dentro de la coalición CEUS (2024).",
       "programa": {
         "estado": "publicado",
-        "comprobado": "2026-11-10",
+        "comprobado": "2026-11-12",
         "documentos": [
           {
             "clase": "programa",
@@ -2145,7 +2153,7 @@
       "representacion_actual": "1 diputado en el Congreso saliente (elecciones de 2023) y 1 senadora según el propio partido; 25 escaños en el Parlamento de Galicia (2024) y 1 eurodiputado dentro de Ahora Repúblicas (2024).",
       "programa": {
         "estado": "publicado",
-        "comprobado": "2026-11-10",
+        "comprobado": "2026-11-12",
         "documentos": [
           {
             "clase": "programa",
@@ -2224,7 +2232,7 @@
       "representacion_actual": "Coalición Canaria: 1 diputada en el Congreso saliente (elecciones de 2023), 19 escaños en el Parlamento de Canarias (2023) y la Presidencia del Gobierno de Canarias. No he verificado la representación institucional de Primero Canarias.",
       "programa": {
         "estado": "publicado",
-        "comprobado": "2026-11-10",
+        "comprobado": "2026-11-12",
         "documentos": [
           {
             "clase": "programa",
@@ -2710,7 +2718,7 @@
       "representacion_actual": "Sin escaños en el Congreso saliente, el Parlamento Europeo ni parlamentos autonómicos; Wikipedia le atribuye un concejal (Mandayona, municipales de 2023).",
       "programa": {
         "estado": "programa_general",
-        "comprobado": "2026-11-10",
+        "comprobado": "2026-11-12",
         "documentos": [
           {
             "clase": "programa_general",
@@ -2719,7 +2727,7 @@
             "fecha": "2026-10-07"
           }
         ],
-        "nota": "Comprobado el 10-11-2026. PDF en castellano de 64 páginas (recuento sacado de la estructura del archivo; no se pudo abrir el texto), subido el 7-10-2026, dos días después de la convocatoria. Se descarga desde https://frenteobrero.es/nuestro-programa-2/ (botón «Descarga nuestro programa político»), página que resume 10 apartados y que fue modificada el mismo 7-10-2026 (la página existe desde junio de 2023). La portada de la web lo enlaza como «Descarga nuestro programa completo» junto a la campaña «generales 2026». El partido lo llama «programa político» / «nuestro programa», no «programa electoral del 29N»."
+        "nota": "Comprobado el 10-11-2026. PDF en castellano de 64 páginas (recuento sacado de la estructura del archivo; no se pudo abrir el texto), subido el 7-10-2026, dos días después de la convocatoria. Se descarga desde https://frenteobrero.es/nuestro-programa-2/ (botón «Descarga nuestro programa político»), página que resume 10 apartados y que fue modificada el mismo 7-10-2026 (la página existe desde junio de 2023). La portada de la web lo enlaza como «Descarga nuestro programa completo» junto a la campaña «generales 2026». El partido lo llama «programa político» / «nuestro programa», no «programa electoral del 29N». Comprobado el 12-11-2026: el PDF no ha cambiado (misma huella)."
       },
       "pendiente": [],
       "dudas": [
@@ -2922,16 +2930,13 @@
       "representacion_actual": "Sin representación en el Congreso saliente, el Senado, el Parlamento Europeo ni parlamentos autonómicos.",
       "programa": {
         "estado": "no_publicado",
-        "comprobado": "2026-11-11",
+        "comprobado": "2026-11-12",
         "documentos": [],
-        "nota": "Comprobado el 10-11-2026: la página de programas https://pacma.es/programa-electoral/ (última modificación el 1-5-2026) no incluye programa para las generales del 29N. El más reciente es el de Andalucía 2026 y el último de generales es el del 23J de 2023 (https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf). Las notas de prensa de octubre y noviembre no anuncian fecha de publicación. Vigilar: https://pacma.es/programa-electoral/ ."
+        "nota": "Comprobado el 10-11-2026: la página de programas https://pacma.es/programa-electoral/ (última modificación el 1-5-2026) no incluye programa para las generales del 29N. El más reciente es el de Andalucía 2026 y el último de generales es el del 23J de 2023 (https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf). Las notas de prensa de octubre y noviembre no anuncian fecha de publicación. Vigilar: https://pacma.es/programa-electoral/ . Comprobado el 12-11-2026: sin cambios en pacma.es/programa-electoral/. Prensa a 12-11-2026: ninguna noticia recoge un programa para el 29N; las crónicas siguen citando el de 2023. Decisión del responsable (12-11-2026): se incorporan las 16 citas de la segunda ronda aunque 13 salgan de su programa para las elecciones andaluzas de mayo de 2026, una de la presentación de su programa de Extremadura y otra de una propuesta local para Almería; cada cita dice de dónde sale y los resúmenes lo indican."
       },
-      "pendiente": [
-        "Pidió el 9-11-2026 al Tribunal Constitucional que incluya su lista de Barcelona, no proclamada. Revisar el 12 o 13 de noviembre.",
-        "Decidir (11-11-2026): la segunda ronda de declaraciones encontró 16 citas verificadas para empleo, educación, organización territorial, transporte e igualdad, pero 13 salen de su programa para las autonómicas andaluzas del 17-5-2026 y una es una propuesta local para Almería. Están sin incorporar en _trabajo/declaraciones-ronda2/pacma.*.json hasta decidir si valen para unas generales. De pensiones no se encontró nada."
-      ],
+      "pendiente": [],
       "dudas": [
-        "La lista de Barcelona está pendiente de un recurso de amparo ante el Tribunal Constitucional (nota del partido del 9-11-2026): si prospera, el número de circunscripciones pasaría a 31.",
+        "La lista de Barcelona queda fuera: según la nota del partido del 12-11-2026 (https://pacma.es/notas-de-prensa/la-papeleta-de-pacma-no-estara-en-los-colegios-electorales-de-barcelona-el-29n/), el Tribunal Constitucional no admitió su recurso de amparo. Se mantiene en 30 circunscripciones. No se ha localizado la resolución del Tribunal ni una crónica independiente.",
         "La prensa previa a la proclamación (Demócrata, 28-10-2026) hablaba de 36 circunscripciones; el BOE recoge 30 proclamadas."
       ],
       "fuentes": [

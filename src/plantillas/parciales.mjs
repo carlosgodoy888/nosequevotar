@@ -47,6 +47,12 @@ ${nota ? `<p class="pie__nota">${esc(nota)}</p>\n` : ''}<p class="pie__lema"><sp
 </footer>`;
 }
 
+// Botón fijo, abajo a la derecha, para volver al principio de la página. Sale oculto:
+// /sitio.js lo muestra al pasar la primera pantalla.
+export function botonArriba() {
+  return '<a class="arriba" href="#contenido" aria-label="Volver arriba" data-arriba hidden><span aria-hidden="true">↑</span></a>';
+}
+
 // miga: [{ texto, ruta }]; el último elemento es la página actual.
 export function miga(items) {
   const lis = items.map((m, i) => i === items.length - 1
@@ -59,7 +65,7 @@ export function llamadaTest() {
   return `<section class="llamada" aria-labelledby="llamada-titulo">
 <h2 id="llamada-titulo">¿Y tú con qué propuestas coincides?</h2>
 <p>Lee propuestas reales sin saber de qué partido son y descubre al final quién firmaba cada una.</p>
-<a class="boton" href="/test/" data-evento="clic_hacer_test">Haz el test sin siglas</a>
+<a class="boton" href="/test/" data-evento="clic_hacer_test">Test de afinidad</a>
 </section>`;
 }
 

@@ -4,9 +4,9 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** coalicion. Miembros: Nueva Canarias-Bloque Canarista; Podemos; Izquierda Unida Canaria; Movimiento Sumar
 - **Cabeza de cartel:** Luis Campos (Nueva Canarias-Bloque Canarista), número 1 por Las Palmas; por Santa Cruz de Tenerife encabeza Marisol Collado (Movimiento Sumar).
-- **Programa para el 29 de noviembre:** no publicado (comprobado el 11 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** no publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 54 vigentes: 26 medidas, de ellas 15 concretas, y 28 posiciones. Declaraciones verificadas abriendo su fuente: 54.
-- **Pendiente:** Drago Canarias presentó el 9-11-2026 recursos de amparo electoral ante el Tribunal Constitucional contra la denominación «UPC». Revisar el 12 o 13 de noviembre: el nombre de la papeleta podría cambiar.
+- **Pendiente:** Conseguir el texto del manifiesto electoral del 3-11-2026 («Una sola papeleta. Todo un pueblo», 6 páginas, 16 ejes). Si se consigue, registrarlo como documento parcial y extraerlo entero. Mientras tanto la ficha se cubre con declaraciones.
 
 ## Lo que han dicho sus portavoces
 

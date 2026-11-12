@@ -1,20 +1,6020 @@
 {
   "partido": "vox",
-  "actualizado": "2026-11-11",
+  "actualizado": "2026-11-12",
   "fuentes": [
+    "vox-programa-2026",
     "vox-programa-desregulacion-2026",
     null
   ],
   "resumen": {
-    "vigentes": 184,
-    "medidas": 119,
-    "medidas_concretas": 96,
-    "posiciones": 65,
-    "exactas": 116,
+    "vigentes": 413,
+    "medidas": 333,
+    "medidas_concretas": 221,
+    "posiciones": 80,
+    "exactas": 345,
     "normalizadas": 1,
     "sustituidas": 0
   },
   "citas": [
+    {
+      "id": "c-3a7d3a4273",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Recuperar Ceuta para los ceutíes",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 5,
+      "numero": "1",
+      "apartado_original": [
+        "Ceuta y Melilla"
+      ],
+      "nota": "Objetivo general sobre la situación de Ceuta",
+      "etiquetas": [
+        "ceuta y melilla"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3a3a1e36da",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Expulsión de todos los invasores con carácter inmediato. Defender la españolidad de Ceuta y Melilla, y a los trabajadores, familias y empresas de estas dos ciudades españolas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 5,
+      "numero": "1",
+      "apartado_original": [
+        "Ceuta y Melilla"
+      ],
+      "nota": "Expulsión inmediata de quienes entraron irregularmente y defensa de ambas ciudades",
+      "etiquetas": [
+        "ceuta y melilla",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-610a185737",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Militarización de la frontera para repeler cualquier intento futuro de invasión o ataque híbrido. Refuerzo de la protección de las fronteras terrestres de Ceuta y Melilla, sus aguas bajo soberanía española y su espacio aéreo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 5,
+      "numero": "1",
+      "apartado_original": [
+        "Ceuta y Melilla"
+      ],
+      "nota": "Militarización y refuerzo de las fronteras de Ceuta y Melilla",
+      "etiquetas": [
+        "ceuta y melilla",
+        "defensa",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-826370a35a",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Realizar un plan de inversiones que garantice el futuro y la prosperidad de ambas ciudades y su protección. Garantizar la libertad y seguridad de las familias españolas residentes en territorio nacional atacado y establecer medidas para evitar futuras invasiones así como reparar las consecuencias sociales, económicas y psicológicas de la producida en Ceuta.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 5,
+      "numero": "1",
+      "apartado_original": [
+        "Ceuta y Melilla"
+      ],
+      "nota": "Plan de inversiones y reparación de daños en Ceuta y Melilla",
+      "etiquetas": [
+        "ceuta y melilla",
+        "gasto público",
+        "seguridad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-ea1db3b2cc",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Promover ante la Justicia el procesamiento a Pedro Sánchez y su gobierno por traición y delitos contra la seguridad del Estado por su actuación durante la invasión sufrida en Ceuta.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 5,
+      "numero": "1",
+      "apartado_original": [
+        "Ceuta y Melilla"
+      ],
+      "nota": "Acción judicial contra el Gobierno por su gestión en Ceuta",
+      "etiquetas": [
+        "ceuta y melilla",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-a577d1022a",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Impulsar sanciones, suspender acuerdos internacionales y revisar las relaciones diplomáticas hasta que Marruecos respete las fronteras y la soberanía de España.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 5,
+      "numero": "1",
+      "apartado_original": [
+        "Ceuta y Melilla"
+      ],
+      "nota": "Sanciones y revisión de relaciones con Marruecos",
+      "etiquetas": [
+        "ceuta y melilla",
+        "política exterior"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c9e9ac899b",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Rebaja masiva de impuestos para proteger a los españoles del infierno fiscal y burocrático que impide la prosperidad de los españoles.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 7,
+      "numero": "2",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Rebaja general de impuestos y cargas burocráticas",
+      "etiquetas": [
+        "impuestos",
+        "burocracia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-1db81ce0d4",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Reforma del sistema de tributación sobre la renta (IRPF). Simplificación y bajada del IRPF. Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 7,
+      "numero": "2",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Reforma y bajada del IRPF según el número de hijos",
+      "etiquetas": [
+        "impuestos",
+        "familia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-5486f73c97",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Rebaja del tipo reducido y del tipo general del IVA atendiendo prioritariamente a productos esenciales y de primera necesidad.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 7,
+      "numero": "2",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Rebaja de los tipos general y reducido del IVA",
+      "etiquetas": [
+        "impuestos",
+        "coste de la vida"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c30745e601",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Reducir el tipo del Impuesto de Sociedades con el fin de promover la dinamización de nuestra economía, el crecimiento de nuestras empresas y la creación efectiva de empleo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 7,
+      "numero": "2",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Rebaja del tipo del Impuesto de Sociedades",
+      "etiquetas": [
+        "impuestos",
+        "empresas"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-d42cbb4bd3",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Apoyo a los trabajadores autónomos. Cuota de cero euros si los ingresos no llegan al Salario Mínimo Interprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros en función de sus ingresos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 7,
+      "numero": "2",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Cuota cero para autónomos con ingresos inferiores al SMI",
+      "etiquetas": [
+        "autónomos",
+        "seguridad social"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-7925c77712",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Revisión y reducción sistemática de todos los impuestos y tasas que lastran la prosperidad de los trabajadores, familias y empresas españolas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 7,
+      "numero": "2",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Revisión y reducción general de impuestos y tasas",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-fa8e44b328",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Reducción de la deuda pública. Compatibilizar la rebaja de impuestos con la financiación de los servicios públicos esenciales, mediante el control del déficit, la eliminación del gasto superfluo e ideológico y el impulso del crecimiento económico.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 7,
+      "numero": "3",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Reducir deuda y déficit compatibilizándolo con bajar impuestos",
+      "etiquetas": [
+        "deuda pública",
+        "gasto público",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e8e3604797",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Alivio del esfuerzo fiscal extra soportado en las Islas Baleares y las Islas Canarias. Actualizar el complemento de insularidad para el personal en activo del sector público estatal en los territorios insulares con el fin de adaptarlo al coste de vida real.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 8,
+      "numero": "4",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Actualizar el complemento de insularidad de empleados públicos estatales",
+      "etiquetas": [
+        "insularidad",
+        "empleo público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-168880a153",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Rebaja general del Impuesto General Indirecto Canario y supresión del Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 8,
+      "numero": "4",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Bajada del IGIC y supresión del AIEM en Canarias",
+      "etiquetas": [
+        "insularidad",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-eec33fb458",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Mejora de las ayudas al transporte a la Península.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 8,
+      "numero": "4",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Mejores ayudas al transporte entre las islas y la Península",
+      "etiquetas": [
+        "insularidad",
+        "transporte"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-73e2a1e9c0",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Impulso nacional de la investigación, el desarrollo y la innovación. Reforzar la inversión en I+D+i, los incentivos fiscales a la innovación empresarial, la colaboración entre centros de investigación y empresas e industrias y la transferencia de conocimiento a nuestro tejido productivo, especialmente a las pymes.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 8,
+      "numero": "5",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Más inversión e incentivos fiscales para la I+D+i",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empresas"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3e1914425f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Plan para recuperar el talento que se ha tenido que marchar ante la falta de oportunidades.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 8,
+      "numero": "5",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Plan de retorno de profesionales emigrados",
+      "etiquetas": [
+        "emigración",
+        "ciencia y tecnología"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-9655bdbe78",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fiscalidad mínima y diferenciada en las zonas en riesgo de despoblación. Tipos mínimos y bonificaciones y deducciones reforzadas para los residentes españoles de estas zonas y para todos aquellos españoles que decidan trasladar su residencia a las mismas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 8,
+      "numero": "6",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Rebajas fiscales para residentes en zonas en riesgo de despoblación",
+      "etiquetas": [
+        "despoblación",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-aab2a2817f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Garantizar la sostenibilidad del sistema de pensiones. Revitalizar la economía, impulsar el empleo, mejorar los salarios y aumentar la riqueza. Una economía más productiva es la garantía de sostenibilidad de las pensiones y de mejores servicios públicos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 8,
+      "numero": "7",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Sostener las pensiones mediante crecimiento económico y empleo",
+      "etiquetas": [
+        "pensiones",
+        "economía",
+        "empleo"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-57f693c5cb",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Además, es necesario impulsar medidas de apoyo a las familias, fomento de la natalidad y ayuda a la crianza, contribuyendo a revertir el envejecimiento demográfico y el descenso de la natalidad en España.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 9,
+      "numero": "7",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Apoyo a las familias y a la natalidad",
+      "etiquetas": [
+        "familia",
+        "población",
+        "pensiones"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-d8138876fa",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Reindustrialización radical de la economía española. Revolucionar la política energética: segura, cierta y asequible. Un futuro para la España Abandonada.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 9,
+      "numero": "8",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Objetivo de reindustrialización y cambio de política energética",
+      "etiquetas": [
+        "industria",
+        "energía"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-48a4f28458",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Bajada masiva de los impuestos de la energía eléctrica a familias, empresas e industrias españolas. Fin de la doble imposición. Aprovechamiento de nuestros recursos energéticos, la mejora de las redes y la reducción de cargas fiscales y regulatorias. Plan Nacional de Soberanía Energética.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 9,
+      "numero": "8",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Bajada de impuestos a la electricidad y plan energético nacional",
+      "etiquetas": [
+        "energía",
+        "impuestos",
+        "coste de la vida"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e8927a9956",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fin del tope regulatorio a la inversión en redes eléctricas. Eliminar el tope a la inversión en redes para que España tenga la red eléctrica que necesita para crecer, contratar y construir vivienda. Además, las autorizaciones para construir líneas, subestaciones y puntos de conexión a la red se resolverán en plazos máximos cerrados y con silencio administrativo positivo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 9,
+      "numero": "8",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Eliminar el límite a la inversión en redes eléctricas",
+      "etiquetas": [
+        "energía",
+        "infraestructuras",
+        "burocracia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-bfcf859792",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Suspender la aplicación en España de acuerdos internacionales que impiden nuestro desarrollo productivo y la prosperidad de trabajadores, familias, empresas e industrias españolas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 9,
+      "numero": "8",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Suspender acuerdos internacionales que limiten la producción",
+      "etiquetas": [
+        "política exterior",
+        "industria"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c192135111",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Revertir las normativas que atacan frontalmente a la industria nacional (prohibición de motores de combustión, impuestos a las emisiones de CO2) inspiradas en el Pacto Verde Europeo, la Agenda 2030 y otros acuerdos no sometidos a votación por los españoles.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 9,
+      "numero": "8",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Revertir la prohibición de motores de combustión e impuestos al CO2",
+      "etiquetas": [
+        "industria",
+        "medio ambiente",
+        "unión europea"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e77a5d72a0",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fin a las restricciones para poder explorar, investigar y explotar nuestros recursos naturales y yacimientos minerales. Protección de España frente a la dependencia excesiva de materias primas, componentes y tecnologías críticas. Mayor peso a consideraciones sobre seguridad económica, soberanía industrial y seguridad nacional.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 10,
+      "numero": "8",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Levantar restricciones a la exploración y explotación minera",
+      "etiquetas": [
+        "minería",
+        "industria"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-8235ec5611",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Recuperar urgentemente el plan nuclear nacional. Se garantizará la supervivencia de las centrales nucleares actuales, derogando el calendario de cierre. Se promoverán estudios urgentes para instalar centrales nucleares en los emplazamientos disponibles adyacentes a las actuales. Se llevarán a cabo aquellos proyectos que sean viables con la mayor brevedad posible.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 10,
+      "numero": "8",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Derogar el calendario de cierre nuclear y estudiar nuevas centrales",
+      "etiquetas": [
+        "energía"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-ae6aa1f691",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Aprobación de un Plan Nacional de Reindustrialización enfocado a contrarrestar las deslocalizaciones, la competencia desleal, la pérdida de empleo industrial y la baja participación de la industria en el PIB. Atracción de inversiones estratégicas que favorezcan la economía nacional y el empleo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 10,
+      "numero": "8",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Plan Nacional de Reindustrialización y atracción de inversiones",
+      "etiquetas": [
+        "industria",
+        "empleo"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-51aec5b505",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Trabajo estable y salarios dignos para los españoles. Poner fin a la situación de desempleo, precariedad laboral y bajos salarios provocada por el Gobierno de Sánchez, que hacen prácticamente imposible que los jóvenes españoles puedan acceder a un empleo estable, desarrollar un proyecto de vida independiente, emanciparse y formar una familia.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 10,
+      "numero": "8",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Empleo estable y mejores salarios, en especial para jóvenes",
+      "etiquetas": [
+        "empleo",
+        "juventud"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-634f7b5f1d",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Derogar la legislación laboral de Sánchez que ha agravado la precariedad, desincentivado la contratación y empeorado una situación ya de por sí insostenible, que ha maquillado las cifras de temporalidad y que beneficia al duopolio sindical que ha traicionado a los trabajadores.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 11,
+      "numero": "8",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Derogación de la legislación laboral aprobada por el Gobierno actual",
+      "etiquetas": [
+        "empleo",
+        "sindicatos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-984d4537eb",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Fomentar la industria turística mediante empleos de calidad y garantizando la convivencia y la preservación de la identidad de nuestros barrios. Adoptar medidas fiscales y de promoción interior y exterior de esta industria para crear empleo y riqueza, y para vertebrar esa España abandonada por los sucesivos gobiernos. Fomento del turismo rural, de montaña o interior, y apoyo a la conservación y difusión de nuestro patrimonio natural, cultural y artístico.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 11,
+      "numero": "8",
+      "apartado_original": [
+        "Economía, industria y energía"
+      ],
+      "nota": "Fomento del turismo, en especial rural e interior",
+      "etiquetas": [
+        "turismo",
+        "medio rural",
+        "cultura"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f44189d398",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Ni uno más. Después de recibir a 5 millones de personas en 5 años España no puede acoger a más inmigrantes.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 13,
+      "numero": "9",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Rechazo a la llegada de más inmigrantes",
+      "etiquetas": [
+        "inmigración",
+        "población"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e4b34e50ca",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Prohibición de las regularizaciones masivas. Quien entra de forma ilegal jamás podrá regularizar su situación.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 13,
+      "numero": "9",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Prohibir regularizaciones de inmigrantes en situación irregular",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f32b27a8bb",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Endurecimiento de los requisitos de adquisición de la nacionalidad española. Revisión de las concesiones fraudulentas de la nacionalidad.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 13,
+      "numero": "10",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Requisitos más estrictos para obtener la nacionalidad",
+      "etiquetas": [
+        "nacionalidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-188131850b",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Aumento de los supuestos de pérdida de nacionalidad española para los españoles no de origen en casos de delitos graves o reiterados.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 13,
+      "numero": "10",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Pérdida de la nacionalidad adquirida por delitos graves",
+      "etiquetas": [
+        "nacionalidad",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-cfabae9b7d",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Supresión de la institución del arraigo como forma de atajar la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 13,
+      "numero": "11",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Suprimir el arraigo y las vías rápidas a la nacionalidad",
+      "etiquetas": [
+        "inmigración",
+        "nacionalidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-97f995434f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Repatriación de quienes permanezcan en situación ilegal en nuestra nación.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 13,
+      "numero": "12",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Repatriación de inmigrantes en situación irregular",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e7c5cff54c",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Remigración. Plan para facilitar el retorno a sus países de los extranjeros que no contribuyan o vivan de subsidios públicos que no alcanzan a los españoles.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 13,
+      "numero": "13",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Plan de retorno de extranjeros que no cotizan o reciben subsidios",
+      "etiquetas": [
+        "inmigración",
+        "servicios sociales"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-2ab62bc611",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Deportación de quienes cometan delitos graves o hagan del delito leve su forma de vida, así como de quienes traten de imponer costumbres, hábitos o culturas ajenas a nuestro modo de vida o incompatibles con el respeto a la dignidad de las mujeres.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 13,
+      "numero": "14",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Expulsión de extranjeros por delitos o por imponer otras costumbres",
+      "etiquetas": [
+        "inmigración",
+        "seguridad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-d93a1bfac5",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Los MENAS, con sus familias. Devolución de menores extranjeros no acompañados a sus padres o a las instituciones de tutela de sus países de origen, atendiendo al interés superior del menor.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 13,
+      "numero": "15",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Devolución de menores extranjeros no acompañados a su país",
+      "etiquetas": [
+        "inmigración",
+        "infancia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-6dee03b572",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Persecución de ONG’s o redes criminales que participen o colaboren en la sustracción o secuestro de menores.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 14,
+      "numero": "15",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Persecución de organizaciones implicadas en sustracción de menores",
+      "etiquetas": [
+        "inmigración",
+        "justicia",
+        "infancia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-eba06f8bba",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Ni un euro a ONGs que colaboren con el efecto llamada. Eliminación de todas las subvenciones, ayudas, convenios y conciertos con ONG u otras entidades que participen directa o indirectamente en la promoción, facilitación o sostenimiento de la inmigración ilegal, o que actúen como cooperadores necesarios de las mafias de tráfico de personas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 14,
+      "numero": "16",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Retirar subvenciones a ONG que faciliten la inmigración irregular",
+      "etiquetas": [
+        "subvenciones",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-5379fabca8",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fin de la cooperación al desarrollo con los países que no colaboren en la gestión de los flujos migratorios. Retirar ayudas y fondos de cooperación y promover sanciones a aquellos Estados que fomenten la inmigración ilegal o la utilicen como arma de presión política.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 14,
+      "numero": "17",
+      "apartado_original": [
+        "Inmigración"
+      ],
+      "nota": "Condicionar la cooperación al desarrollo al control migratorio",
+      "etiquetas": [
+        "cooperación al desarrollo",
+        "inmigración",
+        "política exterior"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3e9f22ef84",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "En España, los españoles primero. Acceso preferente de los españoles a vivienda pública, plazas de guardería, bonos de comedor o transporte, ayudas, prestaciones y servicios sociales. Modificación o derogación de cuantas normativas pudieran dificultar la consecución plena y efectiva del principio de prioridad nacional.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 16,
+      "numero": "18",
+      "apartado_original": [
+        "Prioridad nacional"
+      ],
+      "nota": "Acceso preferente de españoles a ayudas y servicios, con cambios normativos",
+      "etiquetas": [
+        "servicios sociales",
+        "vivienda",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-4ea180c611",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Suprimir toda ayuda y beneficio social a los inmigrantes ilegales.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 16,
+      "numero": "19",
+      "apartado_original": [
+        "Prioridad nacional"
+      ],
+      "nota": "Suprimir ayudas sociales a inmigrantes en situación irregular",
+      "etiquetas": [
+        "inmigración",
+        "servicios sociales"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-43badd9b5b",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Garantizar la sostenibilidad del sistema sanitario dotándolo de los medios necesarios para atender las necesidades de los españoles, excluyendo a los extranjeros en situación ilegal salvo casos de urgencia grave.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 16,
+      "numero": "20",
+      "apartado_original": [
+        "Prioridad nacional"
+      ],
+      "nota": "Excluir de la sanidad a inmigrantes irregulares salvo urgencias",
+      "etiquetas": [
+        "sanidad",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e858682233",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Auditoría del coste de la inmigración masiva en la sanidad pública.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 16,
+      "numero": "20",
+      "apartado_original": [
+        "Prioridad nacional"
+      ],
+      "nota": "Auditoría del coste sanitario de la inmigración",
+      "etiquetas": [
+        "sanidad",
+        "inmigración",
+        "gasto público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-2ff6f9c3e0",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Gravamen sobre las remesas al extranjero. El dinero generado aquí ha de mejorar la economía y los servicios de quienes viven en España.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 16,
+      "numero": "21",
+      "apartado_original": [
+        "Prioridad nacional"
+      ],
+      "nota": "Impuesto sobre los envíos de dinero al extranjero",
+      "etiquetas": [
+        "impuestos",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-fc0128b9be",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "El Ingreso Mínimo Vital atenderá únicamente las necesidades de los españoles con menos recursos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 16,
+      "numero": "22",
+      "apartado_original": [
+        "Prioridad nacional"
+      ],
+      "nota": "Limitar el Ingreso Mínimo Vital a ciudadanos españoles",
+      "etiquetas": [
+        "servicios sociales",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-57362facfd",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Se promoverá el retorno de aquellos inmigrantes que estén cobrando el IMV o sus complementos autonómicos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 16,
+      "numero": "22",
+      "apartado_original": [
+        "Prioridad nacional"
+      ],
+      "nota": "Fomentar el retorno de inmigrantes que cobran el IMV",
+      "etiquetas": [
+        "inmigración",
+        "servicios sociales"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-179e2adcbc",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Plan de retorno a nuestra Nación para los españoles que tuvieron que abandonar España en los últimos años por falta de oportunidades y deseen volver.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 16,
+      "numero": "23",
+      "apartado_original": [
+        "Prioridad nacional"
+      ],
+      "nota": "Plan de retorno para españoles emigrados",
+      "etiquetas": [
+        "emigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-2c16c9bc7f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Garantizar la atención a los españoles más desfavorecidos. Plan de inversiones para recuperar y revitalizar barrios, municipios y provincias abandonadas durante décadas por los poderes públicos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 17,
+      "numero": "24",
+      "apartado_original": [
+        "Prioridad nacional"
+      ],
+      "nota": "Plan de inversiones en barrios y municipios desatendidos",
+      "etiquetas": [
+        "servicios sociales",
+        "municipios",
+        "despoblación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-0fb2045cd5",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Poner en marcha todas las medidas necesarias para garantizar la calidad de los servicios públicos, la igualdad y los derechos de todos los españoles con independencia del lugar de España en el que residan, especialmente en los ámbitos de Educación, Sanidad, Seguridad y Justicia.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 17,
+      "numero": "25",
+      "apartado_original": [
+        "Prioridad nacional"
+      ],
+      "nota": "Igualdad de servicios públicos en todo el territorio",
+      "etiquetas": [
+        "servicios públicos",
+        "organización territorial"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-dffd693282",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada para satisfacer sus necesidades y las de su familia. El punto de partida de todo programa de vivienda es el control férreo de las fronteras.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 19,
+      "numero": "26",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Derecho a la vivienda vinculado al control de fronteras",
+      "etiquetas": [
+        "vivienda",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-72da371848",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Las casas, en España, para los españoles. Prioridad nacional para acceder a una vivienda protegida, social o a una ayuda al alquiler. Modificación o derogación de cuantas normativas pudieran dificultar la consecución plena y efectiva del principio de prioridad nacional.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 19,
+      "numero": "27",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Preferencia de españoles en vivienda protegida y ayudas, con cambios normativos",
+      "etiquetas": [
+        "vivienda",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-a7720ec799",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Reforma de la Ley del Suelo. Volver a ver grúas en los cielos. Incrementar de manera sustancial y sostenida en el tiempo la construcción de vivienda nueva: ampliación de suelo disponible, agilización de procedimientos, supresión de trabas regulatorias innecesarias, simplificación administrativa.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 19,
+      "numero": "28",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Reforma de la Ley del Suelo para construir más vivienda",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c365481e19",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Ampliación de la inversión pública en vivienda por habitante. Aumentar con urgencia la construcción de vivienda protegida para las familias españolas mediante su promoción y colaboración público-privada: cesiones de suelo, subvenciones, descuentos, avales a financiación y créditos blandos. Ningún español vulnerable quedará sin hogar.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 19,
+      "numero": "29",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Más inversión pública y construcción de vivienda protegida",
+      "etiquetas": [
+        "vivienda",
+        "gasto público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-0e4fb0d41b",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Recuperar la seguridad jurídica y una oferta de alquileres estable, abundante y asequible. Derogación de la Ley de Vivienda.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 19,
+      "numero": "30",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Derogación de la Ley de Vivienda",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-7bfc45c188",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Incentivos fiscales al alquiler de larga duración y deducciones para inquilinos españoles.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 19,
+      "numero": "30",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Incentivos fiscales al alquiler de larga duración",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-d93d8d3a58",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Regulación de la proliferación masiva de VUT y refuerzo del servicio de inspección de pisos turísticos ilegales.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 20,
+      "numero": "30",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Regular las viviendas de uso turístico y su inspección",
+      "etiquetas": [
+        "vivienda",
+        "turismo"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-ed89c845d9",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Mano dura contra la okupación y la inquiocupación. Desalojo de la vivienda okupada en menos de 24 horas y recuperación inmediata de la posesión por su legítimo titular, el propietario.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 20,
+      "numero": "31",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Desalojo de viviendas ocupadas en menos de 24 horas",
+      "etiquetas": [
+        "vivienda",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-7b2b59e367",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Asistencia jurídica gratuita para los afectados y exención de impuestos y de las cargas fiscales y de suministros del inmueble mientras dure la okupación.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 20,
+      "numero": "31",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Asistencia jurídica y exención fiscal a propietarios afectados",
+      "etiquetas": [
+        "vivienda",
+        "justicia",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-2b6e90b5b5",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Endurecimiento del Código penal. Tipificación de la inquiocupación como delito de estafa.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 20,
+      "numero": "31",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Tipificar el impago de inquilinos como delito de estafa",
+      "etiquetas": [
+        "justicia",
+        "vivienda"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-2b60099eec",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Prohibición del arrendamiento a inmigrantes ilegales. Exigir la verificación previa de la residencia legal como requisito obligatorio para la formalización de contratos de alquiler, control del fraude en el empadronamiento por parte de okupas e inmigrantes ilegales, impidiendo que disfruten de los derechos que ello concede y fin de los pisos patera, domicilios ficticios y alojamientos ilegales.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 20,
+      "numero": "32",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Exigir residencia legal para firmar contratos de alquiler",
+      "etiquetas": [
+        "vivienda",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-76fa39f08e",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Reducción drástica de los impuestos que gravan todo el proceso edificatorio y mejora de los instrumentos de financiación para promotores y constructores.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 20,
+      "numero": "33",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Bajada de impuestos a la construcción de vivienda",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f7b6cb46e8",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "La primera vivienda habitual de una familia española no paga impuestos. Tipo 0% de IVA para la compra de tu primera vivienda habitual -de nueva construcción- y bonificación 100% del ITP para la compra de tu primera vivienda habitual -de segunda mano-. Recuperación de la deducción por inversión en vivienda habitual.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 20,
+      "numero": "34",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "IVA del 0% e ITP bonificado en la primera vivienda",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-67c2554333",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fiscalidad diferenciada para el resto de adquisiciones. Fiscalidad media para operaciones de personas físicas o jurídicas destinadas a incrementar la oferta en alquiler residencial de larga duración. Fiscalidad agravada y disuasoria para compradores no comunitarios y operaciones especulativas de fondos o sociedades. La recaudación resultante se destinará a bonificaciones para la compra de vivienda y a la construcción de vivienda protegida.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 21,
+      "numero": "35",
+      "apartado_original": [
+        "Vivienda"
+      ],
+      "nota": "Más impuestos a compradores extracomunitarios y fondos",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-51e7e68058",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Simplificar al mínimo la burocracia que soporta el ciudadano. Toda actuación administrativa deberá justificar su existencia, su utilidad y su proporcionalidad. Lo que no sea estrictamente necesario, se suprime. Lo que sea necesario, se simplifica al máximo. Esta revisión será permanente, transversal y afectará a todos los niveles administrativos, sin excepción y sin sectores blindados.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 23,
+      "numero": "36",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Revisión permanente para reducir trámites administrativos",
+      "etiquetas": [
+        "burocracia",
+        "administración pública"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-93a67495e7",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Sumar a España a la carrera de la Inteligencia Artificial. Impulsar la investigación, el desarrollo y la aplicación de la inteligencia artificial como motor de desarrollo de la economía nacional, que aumente la productividad, contribuya a crear empleos de calidad y a mejorar la vida de los españoles. Facilitar su implantación en nuestras empresas, especialmente pymes y autónomos, y promover la formación de trabajadores y jóvenes para aprovechar las nuevas oportunidades presentes y futuras. Implantarla en las administraciones para reducir la burocracia y mejorar los servicios públicos, garantizando siempre la atención presencial.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 23,
+      "numero": "37",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Impulso de la inteligencia artificial en empresas y administraciones",
+      "etiquetas": [
+        "inteligencia artificial",
+        "empresas",
+        "administración pública"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-4c2900a517",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Instauración de la ventanilla y dato único en la Administración. Creación de un expediente digital único y centralizado que unifique la gestión de trámites para ciudadanos y empresas, obligando a las diferentes administraciones a compartir los datos entre sí.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 23,
+      "numero": "38",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Ventanilla única y expediente digital compartido entre administraciones",
+      "etiquetas": [
+        "administración pública",
+        "burocracia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-4602cae7b5",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fin de la cita previa. Derecho a ser atendido presencialmente en cualquier oficina pública de forma inmediata sin necesidad de solicitar turno por internet.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 23,
+      "numero": "39",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Atención presencial sin cita previa en oficinas públicas",
+      "etiquetas": [
+        "administración pública",
+        "servicios públicos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-0def1234eb",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Derogar tres normas por cada una que se apruebe. Cada ley nueva tendrá que identificar, en su propio texto, qué tres normas vigentes deroga. Sin esa identificación, no se tramita ni se aprueba.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 24,
+      "numero": "40",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Derogar tres normas por cada norma nueva aprobada",
+      "etiquetas": [
+        "burocracia",
+        "instituciones"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-11",
+      "tambien_en": [
+        {
+          "fuente": "vox-programa-desregulacion-2026",
+          "pagina": 60
+        }
+      ]
+    },
+    {
+      "id": "c-80436fcd1b",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Silencio administrativo positivo y declaración responsable como regla general. Si la Administración no contesta en plazo, el ciudadano ha de poder seguir adelante con su proyecto. Y si una actividad no entraña riesgo, basta con declararla para empezar a ejercerla. Quedan fuera, como excepción tasada, algunas materias que afectan a la soberanía nacional y al control de quién entra y se queda en España: nacionalidad, residencia, permisos de trabajo a extranjeros y, en general, inmigración. Ahí el silencio jamás jugará a favor de quien pretenda burlar nuestras leyes.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 24,
+      "numero": "41",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Silencio positivo general salvo en extranjería y nacionalidad",
+      "etiquetas": [
+        "burocracia",
+        "administración pública",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f7225bfccf",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "España es un solo mercado y una sola Nación. Ley de Unidad de Mercado. Lo que es legal en una región de España, lo es en toda España. Una misma actividad económica no debe quedar sometida a requisitos administrativos diferentes e injustificados por razón del territorio en el que se ejerza. Cualquier empresa, profesional o producto que ya opere legalmente en una Comunidad Autónoma podrá hacerlo en el resto del territorio nacional sin trámites, licencias ni registros adicionales.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 24,
+      "numero": "42",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Ley de Unidad de Mercado con validez nacional de licencias",
+      "etiquetas": [
+        "empresas",
+        "burocracia",
+        "organización territorial"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-897f55d6d7",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Garantizar la unidad del mercado nacional mediante la eliminación de trabas administrativas y duplicidades regulatorias: no puede ser que un autónomo, un comerciante o un fabricante tenga que pedir diecisiete permisos distintos para vender lo mismo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 24,
+      "numero": "42",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Eliminar trabas y duplicidades normativas entre comunidades autónomas",
+      "etiquetas": [
+        "burocracia",
+        "comercio",
+        "autónomos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-43aed18a33",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Auditoría integral de las administraciones y reducción radical de los gastos de la Administración Pública. Para compensar la bajada masiva de impuestos, se recortarán todos los gastos superfluos de la Administración hasta el mínimo imprescindible.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 25,
+      "numero": "43",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Auditoría y recorte del gasto de las administraciones",
+      "etiquetas": [
+        "gasto público",
+        "administración pública"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3768113399",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Promover una auditoría sistemática de todos los gastos no imprescindibles de las administraciones públicas que serán susceptibles de supresión. Los análisis de esta auditoría se irán haciendo públicos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 25,
+      "numero": "43",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Auditoría pública de los gastos administrativos prescindibles",
+      "etiquetas": [
+        "gasto público",
+        "transparencia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-78d008f082",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Reducir al mínimo estrictamente necesario el tamaño de la Administración Pública.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 25,
+      "numero": "43",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Reducción del tamaño de la Administración",
+      "etiquetas": [
+        "administración pública",
+        "gasto público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-10b786684e",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Reducir progresivamente hasta su eliminación total las subvenciones a partidos, sindicatos, patronales, ONGs, observatorios y otros organismos ideológicos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 25,
+      "numero": "43",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Eliminar subvenciones a partidos, sindicatos, patronales y ONG",
+      "etiquetas": [
+        "subvenciones",
+        "partidos políticos",
+        "sindicatos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3ebcae7d5c",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Derogación o modificación de todas las leyes que dificultan la prosperidad y la libertad de trabajadores, familias y empresas españolas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 25,
+      "numero": "44",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Revisión de leyes que dificulten la actividad económica",
+      "etiquetas": [
+        "economía",
+        "empresas"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-cee2109f7d",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Acabar con todas las imposiciones climáticas como el Pacto Verde que castigan nuestra industria, nuestro campo o que coartan la libertad de circulación de los españoles, como la imposición de ZBE.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 25,
+      "numero": "44",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Eliminar normas climáticas y zonas de bajas emisiones",
+      "etiquetas": [
+        "medio ambiente",
+        "unión europea",
+        "transporte"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-02639dd8ad",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Limitar el importe de las multas de tráfico y estacionamiento por infracciones que no comprometan gravemente la seguridad vial. Revisar y reducir las sanciones económicas desproporcionadas, garantizando que su cuantía responda a la gravedad de la infracción y no a criterios recaudatorios.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 25,
+      "numero": "45",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Limitar el importe de multas de tráfico leves",
+      "etiquetas": [
+        "seguridad vial"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-0a0be1bdc4",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Superación de las divisivas leyes ideológicas que enfrentan a los españoles, tales como la de Memoria Democrática, que dañan la convivencia y dividen y enfrentan a los españoles tratando de imponer una verdad oficial.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 26,
+      "numero": "46",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Dejar sin efecto la Ley de Memoria Democrática",
+      "etiquetas": [
+        "memoria democrática",
+        "ideología"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-69f5d7e000",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Derogar las leyes que han criminalizado a los hombres y desprotegido a las mujeres.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 26,
+      "numero": "47",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Derogación de las leyes de violencia de género vigentes",
+      "etiquetas": [
+        "violencia de género",
+        "igualdad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-2be026de66",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Hay que revertir las consecuencias nefastas de todas las normas que han abandonado a las verdaderas víctimas, y añadido otras nuevas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 26,
+      "numero": "47",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Revertir los efectos de la normativa de género vigente",
+      "etiquetas": [
+        "violencia de género",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-1358905df7",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Poner fin a la criminalización de la mitad de la población y al desamparo que sufren familias enteras expuestas a ser perjudicadas por el fenómeno creciente de denuncias falsas. En su lugar, impulsar la aprobación de leyes y normas que protejan de verdad a las mujeres víctimas de violencia, en especial a aquellas que sufran maltrato, y que no dejen a ninguna víctima desamparada.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 26,
+      "numero": "47",
+      "apartado_original": [
+        "Desregulación"
+      ],
+      "nota": "Sustituir la normativa actual por otra de protección a víctimas",
+      "etiquetas": [
+        "violencia de género",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-1ae9f25eff",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Blindaje del sector primario frente a la Agenda 2030 y lucha contra la competencia desleal. VOX en el Gobierno será el representante del sector primario en Bruselas, y no el representante de Bruselas ante los españoles.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 28,
+      "numero": "48",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Defensa del sector primario ante la Unión Europea",
+      "etiquetas": [
+        "agricultura y pesca",
+        "unión europea"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-d80eb6607b",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Oposición a todas las medidas que perjudiquen objetivamente al sector primario y proteger a los nuestros activamente -económica, política y jurídicamente- de las imposiciones de Bruselas y del Pacto Verde.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 28,
+      "numero": "48",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Oposición a normas europeas que afecten al sector primario",
+      "etiquetas": [
+        "agricultura y pesca",
+        "unión europea",
+        "medio ambiente"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-95c689fbe5",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Rechazo explícito al acuerdo UE-Mercosur y de todo acuerdo comercial que obligue a nuestros productores a competir en desigualdad de condiciones.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 28,
+      "numero": "48",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Rechazo al acuerdo comercial UE-Mercosur",
+      "etiquetas": [
+        "comercio exterior",
+        "agricultura y pesca",
+        "unión europea"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3b8cbcbd0b",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Inclusión de cláusulas espejo. Recuperación del principio de preferencia comunitaria. Aumento de los controles en frontera y lucha contra el fraude en el etiquetado.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 28,
+      "numero": "48",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Cláusulas espejo, controles fronterizos y control del etiquetado",
+      "etiquetas": [
+        "comercio exterior",
+        "agricultura y pesca",
+        "alimentación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-89b6b56c04",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Protección total de nuestros agricultores, ganaderos y pescadores. Será derogada cualquier normativa que perjudique, imponga cargas o sobrecostes que perjudiquen estos oficios que garantizan nuestra soberanía alimentaria y llevan a los hogares productos de una calidad insuperable.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 28,
+      "numero": "49",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Derogar normas que impongan cargas a agricultores y pescadores",
+      "etiquetas": [
+        "agricultura y pesca"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-751b5e3e0c",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fondo de compensación frente a imposiciones de Bruselas. Creación de un fondo de compensación destinado a mitigar el impacto negativo de las imposiciones normativas de Bruselas, desastres naturales o circunstancias adversas sobrevenidas, para proteger a nuestros sectores productivos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 28,
+      "numero": "50",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Fondo de compensación por normativa europea y desastres",
+      "etiquetas": [
+        "agricultura y pesca",
+        "unión europea",
+        "emergencias"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-a9420658a4",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Ni un euro más para financiar el sector primario de fuera. Fin de cualquier transferencia de fondos públicos destinados a financiar proyectos en cualquier país extracomunitario que haga competencia desleal a nuestros productos y a nuestra industria agroalimentaria.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 29,
+      "numero": "51",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Fin de fondos públicos a proyectos agrarios extracomunitarios",
+      "etiquetas": [
+        "agricultura y pesca",
+        "cooperación al desarrollo"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-837a3c34ba",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Rechazo frontal a la propuesta de reducción del presupuesto de la PAC. Vinculación del reparto de fondos de la PAC a una nueva variable que prime la despoblación. Garantizar su autonomía presupuestaria y el fin de las exigencias burocráticas y medioambientales derivadas del fanatismo climático.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 29,
+      "numero": "52",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Mantener el presupuesto de la PAC y repartirlo según despoblación",
+      "etiquetas": [
+        "agricultura y pesca",
+        "unión europea",
+        "despoblación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-ded245f459",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Defensa del sector pesquero español. Promover la revisión de la Política Pesquera Común y de las cuotas y restricciones que perjudican injustificadamente a nuestros pescadores, reforzando la competitividad, la modernización de la flota, el relevo generacional y la continuidad de las explotaciones pesqueras familiares y la rentabilidad de la pesca española.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 29,
+      "numero": "53",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Revisión de la Política Pesquera Común y sus cuotas",
+      "etiquetas": [
+        "agricultura y pesca",
+        "unión europea"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3a85232ab0",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Impedir la destrucción de la riqueza agrícola y el patrimonio natural para la instalación descontrolada de macro plantas de energías renovables, solar y eólica.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 29,
+      "numero": "54",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Limitar grandes plantas solares y eólicas en suelo agrícola",
+      "etiquetas": [
+        "energía",
+        "medio rural",
+        "medio ambiente"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e8a5781340",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Lucha contra los incendios. Limpieza y aprovechamiento de los montes. Revisión de las restricciones ambientales que obstaculizan las labores de prevención y aprovechamiento forestal.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 29,
+      "numero": "55",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Limpieza de montes y revisión de restricciones forestales",
+      "etiquetas": [
+        "montes",
+        "emergencias"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-8429230ab4",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Prevención y lucha contra los incendios: protocolos comunes, coordinación de bomberos y protección civil de distintas administraciones y aumento de los medios humanos, materiales y tecnológicos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 29,
+      "numero": "55",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Protocolos comunes y más medios contra incendios",
+      "etiquetas": [
+        "emergencias",
+        "montes"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-5b685923be",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Endurecimiento de las penas a los incendiarios.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 29,
+      "numero": "55",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Penas más duras para los autores de incendios",
+      "etiquetas": [
+        "justicia",
+        "montes"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-45ea212475",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fin a las trabas interminables que arruinan nuestro campo y nuestro mar. Aplicación, con carácter general, del principio de declaración responsable y el silencio administrativo positivo en todos aquellos procedimientos administrativos vinculados al medio rural, con el objetivo de simplificar trámites, reducir cargas burocráticas y agilizar la actividad económica en el entorno rural, asegurando el relevo generacional.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 30,
+      "numero": "56",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Silencio positivo y declaración responsable en trámites rurales",
+      "etiquetas": [
+        "medio rural",
+        "burocracia",
+        "agricultura y pesca"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-b82fbf9e35",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Revisión y refuerzo del Sistema Español de Seguros Agrarios ante las necesidades del campo español.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 30,
+      "numero": "56",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Reforma del sistema de seguros agrarios",
+      "etiquetas": [
+        "agricultura y pesca"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-4938cac9d8",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Aumentar la inversión destinada a situaciones sobrevenidas, como inundaciones o granizadas, así como plagas que afecten a la sanidad animal y vegetal.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 30,
+      "numero": "57",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Más inversión ante inundaciones, granizo y plagas",
+      "etiquetas": [
+        "agricultura y pesca",
+        "emergencias"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-a3d3069449",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Favorecer el relevo generacional y la continuidad de las explotaciones familiares en el mundo rural apoyando la incorporación de los jóvenes al sector primario y a las cooperativas agroalimentarias.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 30,
+      "numero": "58",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Apoyo a la incorporación de jóvenes al sector primario",
+      "etiquetas": [
+        "agricultura y pesca",
+        "juventud",
+        "medio rural"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-04276f6e7a",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Impulso de la Formación Profesional en el sector primario a través de programas públicos y concertados.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 30,
+      "numero": "58",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Formación Profesional para el sector primario",
+      "etiquetas": [
+        "educación",
+        "agricultura y pesca"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-bb8bd1bc0d",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las explotaciones agrícolas y ganaderas, así como por su valor medioambiental y económico.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 30,
+      "numero": "59",
+      "apartado_original": [
+        "Sector primario y mundo rural"
+      ],
+      "nota": "Apoyo a la caza como actividad de control y económica",
+      "etiquetas": [
+        "caza"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-5f83bf1820",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Misma atención de calidad para todos los españoles: tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 32,
+      "numero": "60",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Tarjeta sanitaria única con historia clínica compartida estatal",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-df3d3b2c2f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Garantizar que el desconocimiento de las lenguas regionales no sea en ningún caso impedimento para el acceso por oposición a plazas de personal sanitario ni un perjuicio para los pacientes.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 32,
+      "numero": "60",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Lenguas cooficiales no exigibles en oposiciones sanitarias",
+      "etiquetas": [
+        "sanidad",
+        "lenguas",
+        "empleo público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-6414d28ad6",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Refuerzo de la atención primaria y pediátrica en todo el territorio nacional. Mejorar su accesibilidad y capacidad asistencial, con especial atención a las zonas rurales y de difícil cobertura y a la continuidad de la atención entre centros de salud, especialistas y hospitales.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 32,
+      "numero": "61",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Refuerzo de atención primaria y pediatría, también en zonas rurales",
+      "etiquetas": [
+        "sanidad",
+        "medio rural"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-b549938775",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Plan nacional de reducción de listas de espera y mejora de la atención sanitaria. Reorganizar circuitos asistenciales, mejorar la capacidad diagnóstica y la actividad quirúrgica y facilitar derivaciones entre centros y territorios.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 32,
+      "numero": "62",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Plan nacional para reducir listas de espera",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-4518ce72e5",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras, con transparencia, evaluación de calidad y control del gasto.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 32,
+      "numero": "62",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Colaboración público-privada para reducir demoras sanitarias",
+      "etiquetas": [
+        "sanidad",
+        "gasto público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-2c062d3ba2",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Publicación de indicadores comparables y periódicos de listas de espera, actividad y resultados.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 32,
+      "numero": "62",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Publicar indicadores periódicos de listas de espera",
+      "etiquetas": [
+        "sanidad",
+        "transparencia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-20d1e20de2",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Mejorar las condiciones laborales y retributivas de todos los profesionales. Mejora progresiva de retribuciones, reconocimiento de guardias y turnos, conciliación efectiva y carrera profesional basada en formación, experiencia y méritos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 32,
+      "numero": "63",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Mejoras salariales y de carrera para profesionales sanitarios",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-dc8181427c",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Incentivos económicos y profesionales para plazas rurales o de difícil cobertura; impulso de contratos estables y contratos puente tras la residencia, y un programa de retorno de sanitarios españoles que trabajan en el extranjero.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 32,
+      "numero": "63",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Incentivos a plazas rurales, contratos tras la residencia y retorno",
+      "etiquetas": [
+        "sanidad",
+        "medio rural",
+        "emigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-62946306cb",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Refuerzo de plantillas médicas, de enfermería y personal administrativo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 33,
+      "numero": "63",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Más personal médico, de enfermería y administrativo",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-a5331f9ff2",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Plan para promover el retorno de los profesionales sanitarios que se han marchado al extranjero en busca de las oportunidades que no han tenido en España.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 33,
+      "numero": "63",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Plan de retorno de sanitarios emigrados",
+      "etiquetas": [
+        "sanidad",
+        "emigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-18e6df2e45",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fin del turismo sanitario.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 33,
+      "numero": "63",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Acabar con el llamado turismo sanitario",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-de3b53a910",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Atención específica a la salud de las mujeres. Reforzar la prevención y el diagnóstico precoz del cáncer de mama y de los cánceres ginecológicos, mejorar el diagnóstico y tratamiento de las enfermedades que afectan especialmente a las mujeres y garantizar una atención adecuada durante el embarazo, parto y posparto, con especial atención a las necesidades de las madres que afrontan la maternidad a edades más avanzadas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 33,
+      "numero": "64",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Prevención del cáncer femenino y atención al embarazo",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e45dc302a9",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Mapa de infraestructuras sanitarias urgentes y refuerzo de la cartera de servicios sanitarios. Impulso de un mapa de infraestructuras sanitarias urgentes y necesarias y establecimiento de un plan de inversiones directas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 33,
+      "numero": "65",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Mapa de infraestructuras sanitarias y plan de inversiones",
+      "etiquetas": [
+        "sanidad",
+        "infraestructuras"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-df64f39958",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Promover la investigación médica con independencia de la rentabilidad comercial (enfermedades raras, enfermedades crónicas, y neurodegenerativas).",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 33,
+      "numero": "65",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Investigación en enfermedades raras, crónicas y neurodegenerativas",
+      "etiquetas": [
+        "sanidad",
+        "ciencia y tecnología"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-bb56c7a874",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Refuerzo de la Estrategia Nacional del Cáncer y creación de una Red de Centros Nacionales de Oncología.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 33,
+      "numero": "65",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Red de Centros Nacionales de Oncología",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-8221000294",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Refuerzo de la Estrategia Nacional de Salud Mental.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 33,
+      "numero": "65",
+      "apartado_original": [
+        "Sanidad"
+      ],
+      "nota": "Reforzar la Estrategia Nacional de Salud Mental",
+      "etiquetas": [
+        "sanidad",
+        "salud mental"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-baf6eb20f8",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Igualar las oportunidades para todos los alumnos españoles: unificar currículo, evaluaciones nacionales e inspección.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 35,
+      "numero": "66",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Currículo, evaluaciones e inspección comunes en toda España",
+      "etiquetas": [
+        "educación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-b6a9b656d0",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Reválidas y EVAU única.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 35,
+      "numero": "66",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Exámenes de reválida y prueba de acceso universitario única",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c0293068b9",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Se garantizará la educación en español en todo el territorio nacional.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 35,
+      "numero": "66",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Enseñanza en castellano en todas las comunidades",
+      "etiquetas": [
+        "educación",
+        "lenguas"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-7e204536fb",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Fin a las diferencias en los contenidos curriculares e impulso de la exigencia académica.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 35,
+      "numero": "66",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Contenidos curriculares iguales y más exigencia académica",
+      "etiquetas": [
+        "educación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-13d086178f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Revisión de las homologaciones de títulos extranjeros.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 35,
+      "numero": "66",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Revisar la homologación de títulos extranjeros",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3634e652f6",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Garantizar los derechos de las familias en la educación de sus hijos. Garantizar la libre elección de centro educativo en todos los niveles para que las familias elijan libremente el modelo educativo que desean, sin que su situación económica o social sea un impedimento para ello.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 35,
+      "numero": "67",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Libre elección de centro educativo en todos los niveles",
+      "etiquetas": [
+        "educación",
+        "familia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3e041ab774",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Ningún español debe quedarse sin poder estudiar por falta de recursos económicos. Mejorar el sistema de becas en las etapas universitaria y preuniversitaria para que la educación sea un verdadero ascensor social en el que la situación económica no sea un obstáculo para el esfuerzo, el mérito y la capacidad.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 35,
+      "numero": "68",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Mejorar las becas universitarias y preuniversitarias",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-2476363524",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Eliminación de contenidos ideológicos ajenos a las materias académicas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 35,
+      "numero": "69",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Retirar de la enseñanza contenidos considerados ideológicos",
+      "etiquetas": [
+        "educación",
+        "ideología"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f093b04245",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Derogación de la LOMLOE y recuperación de una enseñanza basada en el esfuerzo, el saber, el mérito, la exigencia, la disciplina y la responsabilidad personal.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 35,
+      "numero": "69",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Derogar la ley educativa LOMLOE",
+      "etiquetas": [
+        "educación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-acb2e4c209",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Potenciación de las matemáticas, la lectura, las humanidades y las ciencias.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 35,
+      "numero": "69",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Más peso a matemáticas, lectura, humanidades y ciencias",
+      "etiquetas": [
+        "educación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-194da99a45",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Respeto en las aulas. Fin de los móviles en clase, refuerzo de la autoridad del profesor y plan nacional contra el acoso escolar y el ciberacoso.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 35,
+      "numero": "69",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Sin móviles en clase y plan contra el acoso escolar",
+      "etiquetas": [
+        "educación",
+        "infancia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-b31ab339d7",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Establecimiento de un número máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "70",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Límite por aula de alumnado extranjero o sin dominio del castellano",
+      "etiquetas": [
+        "educación",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-bbeb261b25",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Creación de aulas específicas de nivelación, donde los alumnos que se incorporen tarde al sistema español alcancen el nivel requerido antes de integrarse en su clase, sin ralentizar a sus compañeros y con más posibilidades de éxito para ellos mismos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "70",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Aulas de nivelación para alumnos de incorporación tardía",
+      "etiquetas": [
+        "educación",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-133f0de770",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Prohibición del burka y el niqab en todos los espacios públicos y lugares donde se presten servicios públicos, con particular atención a centros educativos o entornos donde se vea comprometida la seguridad.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "71",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Prohibir burka y nicab en espacios y servicios públicos",
+      "etiquetas": [
+        "religión",
+        "educación",
+        "seguridad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-0b1dd424df",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fin de los menús halal en los comedores escolares.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "72",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Retirar los menús halal de los comedores escolares",
+      "etiquetas": [
+        "educación",
+        "religión",
+        "alimentación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-4538d892da",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Eliminación del programa educativo de Lengua Árabe y Cultura Marroquí.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "73",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Suprimir el programa de Lengua Árabe y Cultura Marroquí",
+      "etiquetas": [
+        "educación",
+        "lenguas",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-9ebb2d9e8e",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Prioridad nacional para escoger centro para los hijos, en la concesión de ayudas y subvenciones educativas y para el acceso a plazas de guardería, becas comedor, becas transporte, etc.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "74",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Preferencia a españoles en centros, becas y plazas de guardería",
+      "etiquetas": [
+        "educación",
+        "inmigración",
+        "subvenciones"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-938e39c9bd",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Distrito único y libre elección de centro escolar para los padres.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "74",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Distrito escolar único y libre elección de centro",
+      "etiquetas": [
+        "educación",
+        "familia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-6067a85262",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Apuesta decidida por la Formación Profesional.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "74",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Impulso a la Formación Profesional",
+      "etiquetas": [
+        "educación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3477c8b826",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Recuperación de la vocación de la Universidad como espacio de libertad y búsqueda de la verdad y la belleza.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "75",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Modelo de universidad como espacio de libertad",
+      "etiquetas": [
+        "universidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3c7e5a6b1d",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Garantizar la libertad de cátedra de los profesores en las aulas frente a las imposiciones de la corrección política.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "75",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Garantizar la libertad de cátedra del profesorado",
+      "etiquetas": [
+        "universidad",
+        "educación",
+        "derechos y libertades"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-0331c72779",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Promoción de la cultura nacional. Afirmación y difusión de la historia común española.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "76",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Promoción de la cultura y la historia de España",
+      "etiquetas": [
+        "cultura"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-a2d4d779a3",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Conservación y rehabilitación del patrimonio nacional, con especial atención al medio rural, sus iglesias y monumentos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 36,
+      "numero": "76",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Rehabilitar el patrimonio, sobre todo en el medio rural",
+      "etiquetas": [
+        "cultura",
+        "medio rural"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-6d02bb8f85",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Protección de nuestro patrimonio histórico frente al vandalismo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 37,
+      "numero": "76",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Proteger el patrimonio histórico del vandalismo",
+      "etiquetas": [
+        "cultura"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-69964c851f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Reducción de impuestos para el arte y los espectáculos en vivo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 37,
+      "numero": "76",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Menos impuestos al arte y los espectáculos en vivo",
+      "etiquetas": [
+        "cultura",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-dba4689874",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Nueva Ley de Mecenazgo para elevar las deducciones del IRPF.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 37,
+      "numero": "76",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Nueva ley de mecenazgo con más deducciones en el IRPF",
+      "etiquetas": [
+        "cultura",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-0e0ba8f387",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Defensa de la Tauromaquia y promoción de la difusión del arte taurino y potenciación del conjunto de actividades alrededor de esta tradición.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 37,
+      "numero": "77",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Defensa y promoción de la tauromaquia",
+      "etiquetas": [
+        "tauromaquia",
+        "cultura"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-65e2d7a57b",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Fomento del deporte como motor de desarrollo y cohesión nacional.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 37,
+      "numero": "78",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Fomento del deporte",
+      "etiquetas": [
+        "deporte"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-8d21f1abea",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Despolitizar el deporte y garantizar que las selecciones nacionales representen a España en las competiciones internacionales, reforzando la Unidad Nacional frente a las cesiones al separatismo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 37,
+      "numero": "78",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Solo selecciones españolas en competiciones internacionales",
+      "etiquetas": [
+        "deporte",
+        "organización territorial"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-d71836e9a8",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Compromiso con la defensa del deporte femenino, que debe regirse por criterios biológicos y deportivos objetivos para garantizar la igualdad real en la competición.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 37,
+      "numero": "78",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Acceso a la competición femenina según el sexo biológico",
+      "etiquetas": [
+        "deporte",
+        "igualdad",
+        "lgtbi"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c02f60bd13",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Impulso de becas a deportistas, rebajas fiscales y apoyo a clubes y federaciones deportivas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 37,
+      "numero": "78",
+      "apartado_original": [
+        "Educación, cultura y deporte"
+      ],
+      "nota": "Becas, rebajas fiscales y apoyo a clubes deportivos",
+      "etiquetas": [
+        "deporte",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-22f9673c30",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Instituciones de Seguridad y Defensa al servicio de los españoles y sus familias, con unas Fuerzas Armadas profesionales y unas Fuerzas y Cuerpos de Seguridad del Estado bien dimensionadas con todos los recursos necesarios para defender nuestra soberanía y garantizar nuestra seguridad y libertad.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 39,
+      "numero": "79",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Modelo de Fuerzas Armadas y policías bien dotadas",
+      "etiquetas": [
+        "seguridad",
+        "defensa"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-eb8b520b13",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Reducción de la edad de responsabilidad penal del menor y plantear la eliminación de inimputabilidad para ciertos delitos violentos como los homicidios o las agresiones sexuales.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 39,
+      "numero": "80",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Bajar la edad de responsabilidad penal de menores",
+      "etiquetas": [
+        "justicia",
+        "infancia",
+        "seguridad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-14a227569f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Ampliación de la prisión permanente revisable.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 39,
+      "numero": "81",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Ampliar la prisión permanente revisable",
+      "etiquetas": [
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-fda237ae5a",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Los que cometen los peores delitos deben tener las máximas condenas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 39,
+      "numero": "81",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Máximas condenas para los delitos más graves",
+      "etiquetas": [
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-6e38ea2679",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Asegurar que los directores generales de la Guardia Civil y del Cuerpo Nacional de Policía sean personas con amplia experiencia en el ámbito de la seguridad, y no políticos con carné del partido.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 39,
+      "numero": "82",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Directores de Guardia Civil y Policía con perfil profesional",
+      "etiquetas": [
+        "seguridad",
+        "instituciones"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-9904bc6820",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Dotar de suficientes medios humanos y recursos materiales, técnicos, tecnológicos, jurídicos, organizativos y presupuestarios, así como de las infraestructuras, instalaciones y demás capacidades a las Fuerzas Armadas, Ejército de Tierra, la Armada y el Ejército del Aire; al Centro Nacional de Inteligencia (CNI); a las Fuerzas y Cuerpos de Seguridad del Estado, Guardia Civil (GC) y Cuerpo Nacional de Policía (CNP); así como al Servicio de Vigilancia Aduanera (SVA) e Instituciones Penitenciarias (IIPP).",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 39,
+      "numero": "83",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Más medios para ejércitos, CNI, policías, aduanas y prisiones",
+      "etiquetas": [
+        "defensa",
+        "seguridad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f55d8a54b5",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Dignificación de las Fuerzas y Cuerpos de Seguridad del Estado. Aumento de la inversión, equiparación salarial y sueldos dignos, dignificación de la profesión y programas de modernización y actualización formativa y tecnológica.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 40,
+      "numero": "84",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Equiparación salarial y más inversión en Policía y Guardia Civil",
+      "etiquetas": [
+        "seguridad",
+        "empleo público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-1220e481eb",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Reconocimiento de la profesión y servicio en la Guardia Civil y el Cuerpo Nacional de Policía como profesión de riesgo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 40,
+      "numero": "84",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Policía y Guardia Civil como profesión de riesgo",
+      "etiquetas": [
+        "seguridad",
+        "empleo público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-942452ab6d",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Protección integral para los funcionarios de prisiones. Plantillas adecuadamente dimensionadas, equiparación salarial y sueldos dignos, medios materiales y formación frente a los módulos conflictivos y reconocimiento como profesión de riesgo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 40,
+      "numero": "85",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Funcionarios de prisiones: plantillas, salario y profesión de riesgo",
+      "etiquetas": [
+        "justicia",
+        "empleo público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-4a2753c89f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Combate total al narcotráfico. Refuerzo urgente de los medios humanos y recursos materiales, técnicos y operativos dedicados a la lucha contra el narcotráfico y la criminalidad organizada que operan en el territorio y costas españolas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 40,
+      "numero": "86",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Más medios contra el narcotráfico y el crimen organizado",
+      "etiquetas": [
+        "narcotráfico",
+        "seguridad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-35896f9aa1",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Restablecimiento inmediato del Organismo de Coordinación del Narcotráfico (OCON) Sur.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 40,
+      "numero": "86",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Restablecer el órgano antinarcotráfico OCON Sur",
+      "etiquetas": [
+        "narcotráfico",
+        "seguridad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-64b31bef76",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Protección efectiva de las mujeres frente a la violencia y las agresiones sexuales. Reforzar la prevención, la protección policial y judicial y la asistencia integral a las víctimas, evitando que ninguna mujer quede desamparada.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 40,
+      "numero": "87",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Protección de las mujeres ante violencia y agresiones sexuales",
+      "etiquetas": [
+        "violencia de género",
+        "seguridad",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-82f13ab1f1",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Protección y defensa de las fronteras españolas. Establecer un nuevo modelo de protección permanente de las fronteras terrestres, marítimas y aéreas, con participación de las Fuerzas Armadas, en apoyo a la Guardia Civil y el Cuerpo Nacional de Policía, reforzando la lucha contra la inmigración ilegal, las mafias de tráfico de personas y las amenazas híbridas, especialmente en Ceuta y Melilla.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 40,
+      "numero": "88",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Fuerzas Armadas en la vigilancia permanente de fronteras",
+      "etiquetas": [
+        "inmigración",
+        "defensa",
+        "ceuta y melilla"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-290130c3e7",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Lucha incesante contra el terrorismo islámico.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 41,
+      "numero": "88",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Lucha contra el terrorismo yihadista",
+      "etiquetas": [
+        "terrorismo"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e30afa996f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Aumento de la inversión en Defensa, sueldos dignos y ayudas a la movilidad geográfica y a la vivienda y alojamiento.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 41,
+      "numero": "89",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Más inversión en Defensa y ayudas al personal militar",
+      "etiquetas": [
+        "defensa",
+        "empleo público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-84f77ba5aa",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Dignificación de la vocación profesional militar.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 41,
+      "numero": "89",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Reconocimiento de la profesión militar",
+      "etiquetas": [
+        "defensa"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-29014530c9",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Reconocimiento de la profesión y servicio en las Fuerzas Armadas como profesión de riesgo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 41,
+      "numero": "89",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Fuerzas Armadas como profesión de riesgo",
+      "etiquetas": [
+        "defensa",
+        "empleo público"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c3d2c82d29",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Difusión de la Cultura de Seguridad y Defensa.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 41,
+      "numero": "89",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Difundir la cultura de seguridad y defensa",
+      "etiquetas": [
+        "defensa"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-6fef1ebe5f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Refuerzo del Sistema Nacional de Protección Civil. Mejorar la prevención, preparación, coordinación y respuesta ante incendios, inundaciones, catástrofes naturales y emergencias de especial gravedad, garantizando la protección de la población y la recuperación de las zonas afectadas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 41,
+      "numero": "90",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Reforzar Protección Civil ante catástrofes y emergencias",
+      "etiquetas": [
+        "emergencias"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-fbf1cc0a1e",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Refuerzo de la ciberseguridad y protección de las infraestructuras críticas. Mejorar las capacidades nacionales de prevención y respuesta frente a ciberataques, espionaje, sabotajes y amenazas contra los servicios esenciales, las redes de comunicaciones y las infraestructuras estratégicas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 41,
+      "numero": "91",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Ciberseguridad y protección de infraestructuras críticas",
+      "etiquetas": [
+        "seguridad",
+        "telecomunicaciones",
+        "defensa"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c740a60b2b",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Defender nuestra soberanía ante injerencias extranjeras y recuperar una posición internacional que priorice la defensa de los intereses reales de los españoles y de la Unidad Nacional.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 41,
+      "numero": "92",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Política exterior centrada en soberanía e intereses nacionales",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-cee847a5d4",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Aplicación de toda la presión internacional necesaria para la recuperación de la soberanía española sobre el Peñón de Gibraltar. Desmantelamiento de las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se originan en la colonia y afectan a España. Recuperación del control de las aguas españolas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 42,
+      "numero": "93",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Presión para recuperar Gibraltar, contra redes ilícitas y por control de aguas",
+      "etiquetas": [
+        "política exterior",
+        "narcotráfico"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-7d8cfabcb4",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Plan de inversiones para recuperar la prosperidad del Campo de Gibraltar.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 42,
+      "numero": "93",
+      "apartado_original": [
+        "Seguridad y defensa"
+      ],
+      "nota": "Plan de inversiones para el Campo de Gibraltar",
+      "etiquetas": [
+        "economía"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-66b9dd975f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Plan nacional de natalidad y apoyo a las familias españolas. Las familias españolas, en el centro de las políticas públicas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 44,
+      "numero": "94",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Plan nacional de natalidad y apoyo a las familias",
+      "etiquetas": [
+        "familia",
+        "población"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-34b576da66",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Todos los beneficios que ahora existen para las familias numerosas se aumentarán y se extenderán a todas las familias de manera progresiva desde el primer hijo, intensificando las ayudas y bonificaciones en función del número de hijos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 44,
+      "numero": "94",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Extender ventajas de familia numerosa desde el primer hijo",
+      "etiquetas": [
+        "familia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-1f2100c945",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Bonificaciones fiscales a empresas que fomenten la conciliación y hagan descuentos a las familias.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 44,
+      "numero": "94",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Bonificaciones fiscales a empresas que faciliten la conciliación",
+      "etiquetas": [
+        "familia",
+        "conciliación",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-7d822c95d5",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Bonificación del 100% de la ayuda en el hogar.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 44,
+      "numero": "94",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Bonificación completa de la ayuda en el hogar",
+      "etiquetas": [
+        "familia",
+        "conciliación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-2cee8e0317",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Impulso de los servicios de apoyo a las familias en los centros educativos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 44,
+      "numero": "94",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Servicios de apoyo a las familias en los colegios",
+      "etiquetas": [
+        "familia",
+        "conciliación",
+        "educación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-d0ff0c9f91",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Cotización a la Seguridad Social financiada por el Estado para los españoles dedicados al cuidado de sus hijos. Formar una familia y criar a los hijos es una contribución esencial al futuro de España y no puede ser motivo de penalización en la jubilación.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 44,
+      "numero": "94",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "El Estado cotiza por quienes cuidan a sus hijos",
+      "etiquetas": [
+        "familia",
+        "pensiones",
+        "seguridad social"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-fda794f8b2",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "El plan incluirá todo tipo medidas en apoyo a la familia: para facilitar el acceso a la vivienda, la compra de vehículos por necesidades familiares, la reducción de la carga fiscal de los productos de primera necesidad infantil, deducciones por material escolar o clases extraescolares. y la gratuidad real de la educación infantil de 0 a 3 años.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 44,
+      "numero": "94",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Ayudas familiares y educación de 0 a 3 años gratuita",
+      "etiquetas": [
+        "familia",
+        "educación",
+        "impuestos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c0f9037d2a",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Cuidado de nuestros mayores y dependientes. Reforzar el presupuesto en dependencia, las ayudas para el cuidado en el hogar, el apoyo a familiares a cargo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 45,
+      "numero": "95",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Más presupuesto para dependencia y cuidado en el hogar",
+      "etiquetas": [
+        "dependencia",
+        "mayores"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e425ae2c9a",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Aumento de los programas de atención a la soledad no deseada y de las plazas en residencias.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 45,
+      "numero": "95",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Más programas contra la soledad y plazas en residencias",
+      "etiquetas": [
+        "soledad no deseada",
+        "mayores"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-38aa02ef34",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Refuerzo de las bonificaciones y deducciones para personas con discapacidad, poner fin a las barreras arquitectónicas que dificultan su movilidad y desburocratizar los procedimientos de reconocimiento de la discapacidad o dependencia, así como otros trámites relacionados.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 45,
+      "numero": "95",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Deducciones, accesibilidad y trámites para personas con discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "dependencia",
+        "burocracia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f850f337ff",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Eliminar todas aquellas trabas que impiden que las ayudas a la dependencia lleguen de manera rápida e íntegra a los beneficiarios.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 45,
+      "numero": "96",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Agilizar el cobro de las ayudas a la dependencia",
+      "etiquetas": [
+        "dependencia",
+        "burocracia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-18eb06128d",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Protección de los menores y la infancia. Preservar la inocencia de los menores y protegerlos frente a los riesgos presentes en los entornos digitales, tales como la adicción al juego o la pornografía o la mayor vulnerabilidad ante ciertos delitos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 45,
+      "numero": "97",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Proteger a los menores de riesgos en internet",
+      "etiquetas": [
+        "infancia",
+        "derechos digitales",
+        "juego"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e2db9c18a9",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Defensa del derecho a la vida desde su concepción hasta la muerte natural y fin de la cultura de la muerte.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 45,
+      "numero": "98",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Postura contraria al aborto y a la eutanasia",
+      "etiquetas": [
+        "derechos y libertades",
+        "sanidad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-01a7658b14",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Garantizar la objeción de conciencia de los profesionales sanitarios y farmacéuticos y potenciar los cuidados paliativos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 45,
+      "numero": "98",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Objeción de conciencia sanitaria y más cuidados paliativos",
+      "etiquetas": [
+        "sanidad",
+        "cuidados paliativos"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-828c940cdd",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Combatir la brecha maternal facilitando la formación, permanencia, promoción y reincorporación al trabajo de las madres que han interrumpido sus carreras por la maternidad o cuidado de familiares y desean retomarla.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 45,
+      "numero": "99",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Apoyo laboral a madres que retoman su carrera",
+      "etiquetas": [
+        "empleo",
+        "conciliación",
+        "familia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-82602767ba",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Reforzar los derechos de conciliación de la vida personal, familiar y profesional de todos los trabajadores y la asunción equilibrada de las responsabilidades familiares.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 46,
+      "numero": "99",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Reforzar los derechos de conciliación de los trabajadores",
+      "etiquetas": [
+        "conciliación",
+        "empleo"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-84c4620ac8",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Incentivos para las empresas que favorezcan la conciliación familiar y laboral.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 46,
+      "numero": "99",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Incentivos a empresas que faciliten la conciliación",
+      "etiquetas": [
+        "conciliación",
+        "empresas"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-d7a6b91b7f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Aumento del presupuesto en conciliación familiar con ampliación de los servicios complementarios de aula en los centros educativos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 46,
+      "numero": "99",
+      "apartado_original": [
+        "Familia y vida"
+      ],
+      "nota": "Más presupuesto de conciliación y servicios escolares complementarios",
+      "etiquetas": [
+        "conciliación",
+        "educación"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f0ab87a703",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Independencia y despolitización de la Justicia. Modificar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo General del Poder Judicial sean elegidos mediante voto personal, directo y secreto por y entre los propios jueces y magistrados, terminando con el sistema de cuotas partidistas.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 48,
+      "numero": "100",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Jueces eligen a los doce vocales judiciales del CGPJ",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f735fceadb",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Acabar con la colonización partidista de cualquier institución judicial.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 48,
+      "numero": "100",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Reducir la influencia de los partidos en la justicia",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-fe34e52989",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Garantizar la idoneidad, imparcialidad, competencia profesional e independencia del Fiscal General del Estado.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 48,
+      "numero": "100",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Requisitos de independencia para el Fiscal General",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-360124ffda",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Liberar el Tribunal Constitucional de las manos de los políticos. El control de la constitucionalidad de las leyes no puede depender de un órgano político.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 48,
+      "numero": "101",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Tribunal Constitucional sin control de los partidos",
+      "etiquetas": [
+        "instituciones",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-670724cfb5",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Velar por el respeto del papel funcional del Tribunal Supremo y evitar que el Tribunal Constitucional actúe como un tribunal extraordinario por encima del mismo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 48,
+      "numero": "101",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Delimitar funciones entre Supremo y Constitucional",
+      "etiquetas": [
+        "justicia",
+        "instituciones"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f1461bd1c9",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Administración de Justicia rápida, eficiente para los españoles. Reforma integral del sistema judicial que deje atrás los desvaríos ideológicos de este Gobierno y permita que los españoles puedan contar con una Administración de Justicia rápida y eficiente.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 48,
+      "numero": "102",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Reforma integral del sistema judicial para agilizarlo",
+      "etiquetas": [
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-1d86e36e23",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Aumento de las inversiones en sedes judiciales y profesionales de la justicia.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 48,
+      "numero": "102",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Más inversión en sedes y personal judicial",
+      "etiquetas": [
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-748dbec777",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Respuesta contundente frente a los ataques contra la Unidad Nacional. Recuperar el delito de sedición, agravar el tipo delictivo de la malversación de caudales públicos y prohibir los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 48,
+      "numero": "103",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Recuperar la sedición, endurecer la malversación y limitar indultos",
+      "etiquetas": [
+        "justicia",
+        "corrupción",
+        "organización territorial"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-0a51bf6519",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Ilegalización de los partidos políticos, asociaciones u organizaciones de cualquier tipo que atenten contra la soberanía e independencia de España, su unidad e integridad territorial.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 49,
+      "numero": "103",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Ilegalizar partidos y entidades contrarios a la unidad de España",
+      "etiquetas": [
+        "partidos políticos",
+        "organización territorial"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-84d55d4326",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Defensa y protección de nuestra identidad, tradiciones, usos y costumbres. España es el quehacer común de los españoles de ayer, hoy y mañana y nuestra Nación merece que se garantice la promoción, conservación y transmisión de nuestro rico patrimonio material y espiritual.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 49,
+      "numero": "104",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Defensa de la identidad y las tradiciones españolas",
+      "etiquetas": [
+        "cultura"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-ed5574b67b",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Protección de nuestros usos y costumbres y de las tradiciones religiosas y populares de España, frente a cualquier intento de imposición ideológica o de oposición extranjera.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 49,
+      "numero": "104",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Proteger tradiciones religiosas y populares",
+      "etiquetas": [
+        "cultura",
+        "religión"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-3b2bde6ffd",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Dotar de la máxima protección jurídica a los símbolos de la Nación, especialmente la Bandera, el Escudo y el Himno o la Corona.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 49,
+      "numero": "105",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Máxima protección legal a bandera, escudo, himno y Corona",
+      "etiquetas": [
+        "símbolos nacionales"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-59fea11041",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Las penas por las ofensas y ultrajes a España y sus símbolos o emblemas deben agravarse para que ninguna afrenta a ellos quede impune.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 49,
+      "numero": "105",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Endurecer penas por ultrajes a España y sus símbolos",
+      "etiquetas": [
+        "símbolos nacionales",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-95e70f2024",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Revertir y poner fin a la gravísima degradación institucional promovida desde el Gobierno de Sánchez, la cual amenaza con romper la unidad y la igualdad de los españoles y quebrar nuestro Estado de Derecho.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 49,
+      "numero": "106",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Revertir los cambios institucionales del actual Gobierno",
+      "etiquetas": [
+        "instituciones"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f629cdb508",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Máximo respeto por la actuación de todos los servidores públicos en su lucha contra la corrupción.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 49,
+      "numero": "106",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Respaldo a funcionarios que investigan la corrupción",
+      "etiquetas": [
+        "corrupción"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e399eb27c9",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Mayores medios y recursos a los juzgados y las unidades de la Guardia Civil y del Cuerpo Nacional de Policía especializadas en la lucha contra la corrupción.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 49,
+      "numero": "106",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Más medios a juzgados y unidades policiales anticorrupción",
+      "etiquetas": [
+        "corrupción",
+        "justicia",
+        "seguridad"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-e8fccff865",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Lucha contra la corrupción. Auditoría integral de todas las Administraciones con el fin destapar cualquier indicio de corrupción y llevarlo ante la Justicia.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 50,
+      "numero": "107",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Auditoría integral de todas las administraciones",
+      "etiquetas": [
+        "corrupción",
+        "administración pública"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c6db5d473f",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Reforzaremos la responsabilidad patrimonial personal de los cargos públicos condenados por delitos de corrupción, garantizando que respondan con todos sus bienes presentes y futuros por la totalidad del perjuicio económico causado a las arcas públicas, hasta su completa recuperación de los fondos públicos desviados.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 50,
+      "numero": "107",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Condenados por corrupción devuelven todo lo desviado con sus bienes",
+      "etiquetas": [
+        "corrupción",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c1449dc3bb",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Auditoría del patrimonio inmobiliario del Estado. Los bienes inmuebles del Estado han de estar al servicio de las necesidades de la vivienda o de la mejor y más eficiente prestación de los servicios públicos de los españoles. No se ha de permitir por más tiempo que se conviertan en saunas de corrupción, se cedan gratuitamente para la ubicación de inmigrantes ilegales o se mantengan en estado de ruina.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 50,
+      "numero": "108",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Auditar inmuebles estatales para vivienda o servicios, no para alojar migrantes irregulares",
+      "etiquetas": [
+        "vivienda",
+        "administración pública",
+        "inmigración"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-04940e01ef",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Plan Nacional de Rehabilitación del Patrimonio Inmobiliario para la revitalización y creación de empleo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 50,
+      "numero": "108",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Plan para rehabilitar inmuebles públicos y crear empleo",
+      "etiquetas": [
+        "vivienda",
+        "empleo"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-a16edcdcdf",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Memoria, dignidad y justicia para las víctimas del terrorismo. Aprobación de una ley que impida de forma efectiva el enaltecimiento del terrorismo, homenajes a terroristas, actos de humillación de las víctimas o ataques a instituciones y símbolos de España.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 50,
+      "numero": "109",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Ley contra el enaltecimiento del terrorismo y homenajes",
+      "etiquetas": [
+        "terrorismo",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-12e38bd71d",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Promover la investigación de todos los crímenes de ETA aún no resueltos e impulsar la consideración de todos y cada uno de los delitos cometidos por la organización terrorista ETA como crímenes de lesa humanidad, para que no prescriban nunca.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 50,
+      "numero": "109",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Investigar crímenes de ETA y tratarlos como lesa humanidad",
+      "etiquetas": [
+        "terrorismo",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-dbb1e4a963",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Garantizar la efectiva imprescriptibilidad de todos los delitos de terrorismo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 50,
+      "numero": "109",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Delitos de terrorismo imprescriptibles",
+      "etiquetas": [
+        "terrorismo",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-64c8cead68",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fin de los privilegios penitenciarios de los condenados por terrorismo.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 50,
+      "numero": "109",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Suprimir beneficios penitenciarios a condenados por terrorismo",
+      "etiquetas": [
+        "terrorismo",
+        "justicia"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-8fd62c65a7",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Limpiar RTVE de comisarios políticos, acabar con el despilfarro y ponerla al servicio de los españoles. Reforma integral de la Radio y la Televisión pública para que preste un verdadero servicio público informando con objetividad y pluralidad.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 51,
+      "numero": "110",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Reforma integral de RTVE",
+      "etiquetas": [
+        "medios de comunicación",
+        "empresas públicas"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-818b2327ef",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Garantizar el derecho a comunicar o recibir libremente información veraz.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 51,
+      "numero": "110",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Garantizar el derecho a la información",
+      "etiquetas": [
+        "medios de comunicación",
+        "derechos y libertades"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-9c66e67ba2",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Garantizar la libertad de expresión de todos los españoles frente a la deriva censora del Gobierno de Sánchez.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 51,
+      "numero": "111",
+      "apartado_original": [
+        "Independencia de la justicia y lucha contra la corrupción"
+      ],
+      "nota": "Garantizar la libertad de expresión",
+      "etiquetas": [
+        "derechos y libertades"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-342b098dd5",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Plan nacional de infraestructuras.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 53,
+      "numero": "112",
+      "apartado_original": [
+        "Infraestructuras y transportes"
+      ],
+      "nota": "Plan nacional de infraestructuras",
+      "etiquetas": [
+        "infraestructuras",
+        "transporte"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-c549af3f30",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Todas las inversiones en infraestructuras deben diseñarse pensando en el interés del conjunto de los españoles y con el fin de conectar los distintos territorios que conforman España.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 53,
+      "numero": "112",
+      "apartado_original": [
+        "Infraestructuras y transportes"
+      ],
+      "nota": "Inversión en infraestructuras para conectar todo el territorio",
+      "etiquetas": [
+        "infraestructuras"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-b8f3d9bd56",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Aumento de la inversión en infraestructuras que incluya, al menos, red de carreteras, red ferroviaria, infraestructuras hidráulicas y de contención de inundaciones, telecomunicaciones, nodos logísticos, transporte y puertos.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 53,
+      "numero": "112",
+      "apartado_original": [
+        "Infraestructuras y transportes"
+      ],
+      "nota": "Más inversión en carreteras, tren, obras hidráulicas, puertos y telecomunicaciones",
+      "etiquetas": [
+        "infraestructuras",
+        "transporte"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-dea5e3f5f6",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Trenes rápidos, seguros y una España rural conectada. Prioridad a la seguridad ferroviaria, al mantenimiento de una red abandonada e infradotada y a los servicios de Cercanías y Media Distancia.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 53,
+      "numero": "113",
+      "apartado_original": [
+        "Infraestructuras y transportes"
+      ],
+      "nota": "Prioridad a seguridad ferroviaria, Cercanías y Media Distancia",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-077dc8dc01",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Auditoría del estado de la red. Modernización y electrificación de las líneas convencionales para conectar también las ciudades pequeñas y la España rural.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 53,
+      "numero": "113",
+      "apartado_original": [
+        "Infraestructuras y transportes"
+      ],
+      "nota": "Auditar la red ferroviaria y electrificar líneas convencionales",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras",
+        "medio rural"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-13c8bcf0ee",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Obras contra las inundaciones para proteger vidas y hogares. Poner fin al planeamiento y abandono ideológico de las infraestructuras esenciales contra las inundaciones.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 53,
+      "numero": "114",
+      "apartado_original": [
+        "Infraestructuras y transportes"
+      ],
+      "nota": "Obras de prevención de inundaciones",
+      "etiquetas": [
+        "infraestructuras",
+        "emergencias",
+        "agua"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-9506217c72",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Conclusión de las obras pendientes, conservación de cauces, adecuación de barrancos y desarrollo de las infraestructuras hidráulicas necesarias para garantizar la seguridad y el bienestar de los españoles.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 53,
+      "numero": "114",
+      "apartado_original": [
+        "Infraestructuras y transportes"
+      ],
+      "nota": "Terminar obras hidráulicas y conservar cauces y barrancos",
+      "etiquetas": [
+        "agua",
+        "infraestructuras",
+        "emergencias"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-f5140a9b79",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Plan Nacional del Agua. Interconexión de todas las cuencas que permita una gestión más eficiente del agua y pueda servir para reactivar económicamente a nuestro sector primario, así como para impulsar y modernizar los regadíos y la producción de energía.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 53,
+      "numero": "115",
+      "apartado_original": [
+        "Infraestructuras y transportes"
+      ],
+      "nota": "Plan Nacional del Agua con interconexión de cuencas",
+      "etiquetas": [
+        "agua",
+        "agricultura y pesca",
+        "infraestructuras"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
+    {
+      "id": "c-b57248a2a8",
+      "partido": "vox",
+      "tipo": "programa",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Al mismo tiempo, conclusión de las obras pendientes y desarrollo de las infraestructuras hidráulicas necesarias para garantizar la seguridad de los españoles ante las inundaciones.",
+      "idioma": "es",
+      "fuente": "vox-programa-2026",
+      "pagina": 54,
+      "numero": "115",
+      "apartado_original": [
+        "Infraestructuras y transportes"
+      ],
+      "nota": "Terminar obras hidráulicas contra inundaciones",
+      "etiquetas": [
+        "agua",
+        "infraestructuras",
+        "emergencias"
+      ],
+      "temas": [],
+      "fecha": "2026-11-12",
+      "quien": null,
+      "verificacion": "exacta",
+      "estado": "vigente",
+      "recogida": "2026-11-12"
+    },
     {
       "id": "c-3a41447edb",
       "partido": "vox",
@@ -929,33 +6929,6 @@
       "etiquetas": [
         "burocracia",
         "empresas"
-      ],
-      "temas": [],
-      "fecha": "2026-06-27",
-      "quien": null,
-      "verificacion": "exacta",
-      "estado": "vigente",
-      "recogida": "2026-11-11"
-    },
-    {
-      "id": "c-0def1234eb",
-      "partido": "vox",
-      "tipo": "programa",
-      "clase": "medida",
-      "medida_concreta": true,
-      "cita": "Derogar tres normas por cada una que se apruebe. Cada ley nueva tendrá que identificar, en su propio texto, qué tres normas vigentes deroga. Sin esa identificación, no se tramita ni se aprueba.",
-      "idioma": "es",
-      "fuente": "vox-programa-desregulacion-2026",
-      "pagina": 60,
-      "numero": null,
-      "apartado_original": [
-        "Propuestas de VOX",
-        "Primeras medidas en materia de desregulación"
-      ],
-      "nota": "Derogar tres normas por cada norma nueva aprobada",
-      "etiquetas": [
-        "burocracia",
-        "instituciones"
       ],
       "temas": [],
       "fecha": "2026-06-27",

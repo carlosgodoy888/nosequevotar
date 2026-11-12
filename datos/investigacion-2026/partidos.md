@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/resumen-partidos.mjs` a partir de `part
 
 - **55 candidaturas** agrupan los 555 nombres de lista del BOE: 49 tienen alguna lista proclamada y 6 no tienen ninguna.
 - **Listas:** 534 proclamadas y 21 no proclamadas, en 52 circunscripciones.
-- **Estado de los programas** comprobado el 2026-11-11.
+- **Estado de los programas** comprobado el 2026-11-12.
 
 ## Con antecedente en 2023, por votos de entonces
 
@@ -12,7 +12,7 @@ Generado con `node scripts/investigacion/resumen-partidos.mjs` a partir de `part
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Partido Popular (PP) | 51 | 8.160.837 \* | misma candidatura Partido Popular (PP) | [Publicado](https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf) | Confirmada |
 | 2 | Partido Socialista Obrero Español (PSOE) | 52 | 7.821.718 | misma candidatura Partido Socialista Obrero Español (PSOE); misma candidatura Partit dels Socialistes de Catalunya (PSC-PSOE) (PSC) | No publicado | Con dudas |
-| 3 | Vox | 52 | 3.057.000 | misma candidatura VOX (VOX) | [Documento parcial](https://www.elindependiente.com/wp-content/uploads/2026/06/Programa-de-desregularizacio%CC%81n-de-Vox.pdf) | Con dudas |
+| 3 | Vox | 52 | 3.057.000 | misma candidatura VOX (VOX) | [Publicado](https://www.democrata.es/uploads/s1/35/26/90/2/programa-elecct-vox.pdf) | Con dudas |
 | 4 | Frente Amplio | 43 | 2.444.921 \* | iba dentro de Sumar (SUMAR) (43 circ.) | No publicado | Con correcciones |
 | 5 | Podemos | 41 | 1.952.251 \* | iba dentro de Sumar (SUMAR) (41 circ.) | [Solo programa general](https://podemos.info/wp-content/uploads/2025/04/Documento-Politico-V-ACE.pdf) | Confirmada |
 | 6 | Esquerra Republicana de Catalunya (ERC) | 4 | 466.020 | misma candidatura Esquerra Republicana de Catalunya (ERC) | [Publicado](https://esquerrarepublicana.cat/documents/e2026-programa.pdf) | Confirmada |
@@ -109,10 +109,10 @@ No estarán en ninguna papeleta salvo que un tribunal reponga la lista y el BOE 
 - **Partido Popular (PP):** El programa deja sin texto ocho medidas numeradas (83, 109, 132, 164, 167, 173, 200 y 210), con el aviso «Permanezca atento a la campaña para conocer esta nueva medida» (pp. 34, 43, 48, 57, 58, 59, 65 y 67). Cuando las publique habrá que descargar la versión nueva y volver a extraer.
 - **Frente Amplio:** Los once miembros solo están contrastados con un medio; la web de la coalición y Recortes Cero hablan de 15 fuerzas.
 - **Compromís: Front Valencià:** Confirmar con Compromís que https://frontvalencia.org es su web de campaña: no está enlazada desde compromis.net y tiene contenido de plantilla sin terminar.
-- **Unidad del Pueblo Canario (UPC):** Drago Canarias presentó el 9-11-2026 recursos de amparo electoral ante el Tribunal Constitucional contra la denominación «UPC». Revisar el 12 o 13 de noviembre: el nombre de la papeleta podría cambiar.
+- **Unidad del Pueblo Canario (UPC):** Conseguir el texto del manifiesto electoral del 3-11-2026 («Una sola papeleta. Todo un pueblo», 6 páginas, 16 ejes). Si se consigue, registrarlo como documento parcial y extraerlo entero. Mientras tanto la ficha se cubre con declaraciones.
 - **Eguzkilore:** Solo se conocen los datos del BOE: sin web, sin programa y sin identificar qué organización es.
 - **Coalición Canaria-Primero Canarias:** La medida 11 (p. 9) está cortada en el propio PDF («…desplazamientos interinsulares por»); comprobado con la imagen de la página. La cita se conserva tal cual.
 - **Drago Canarias:** Presentó el 9-11-2026 recursos de amparo electoral contra la denominación de Unidad del Pueblo Canario. Revisar el 12 o 13 de noviembre.
 - **Teruel Existe:** Sin cerrar si la lista la presenta la coalición Existe (Teruel Existe y Aragón Existe, registrada el 16-10-2026 según la prensa) o solo el partido, que es lo que dice el nombre de la papeleta. De ello dependen el tipo, los miembros y el enlace con 2023.
-- **PACMA - Partido Animalista con el Medio Ambiente:** Pidió el 9-11-2026 al Tribunal Constitucional que incluya su lista de Barcelona, no proclamada. Revisar el 12 o 13 de noviembre. Decidir (11-11-2026): la segunda ronda de declaraciones encontró 16 citas verificadas para empleo, educación, organización territorial, transporte e igualdad, pero 13 salen de su programa para las autonómicas andaluzas del 17-5-2026 y una es una propuesta local para Almería. Están sin incorporar en _trabajo/declaraciones-ronda2/pacma.*.json hasta decidir si valen para unas generales. De pensiones no se encontró nada.
+- **PACMA - Partido Animalista con el Medio Ambiente:** Decidir (11-11-2026): la segunda ronda de declaraciones encontró 16 citas verificadas para empleo, educación, organización territorial, transporte e igualdad, pero 13 salen de su programa para las autonómicas andaluzas del 17-5-2026 y una es una propuesta local para Almería. Están sin incorporar en _trabajo/declaraciones-ronda2/pacma.*.json hasta decidir si valen para unas generales. De pensiones no se encontró nada.
 - **Partido Nacionalista de Castilla y León - Unión Reformista Ciudadana (PANCAL-URCI):** El único documento de su página del 29N es un escrito administrativo a la Junta Electoral Central que contiene datos personales: no copiarlo ni citarlo.

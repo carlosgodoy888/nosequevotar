@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** federacion. Miembros: Sortu; Eusko Alkartasuna; Alternatiba
 - **Cabeza de cartel:** Oskar Matute (Bizkaia), propuesto como portavoz en el Congreso. Otros cabezas de lista: Mikel Otero (Álava), Oihana Etxebarrieta (Gipuzkoa) y Eneka Maiz (Navarra).
-- **Programa para el 29 de noviembre:** no publicado (comprobado el 11 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** no publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 65 vigentes: 27 medidas, de ellas 13 concretas, y 38 posiciones. Declaraciones verificadas abriendo su fuente: 65.
 
 ## Lo que han dicho sus portavoces

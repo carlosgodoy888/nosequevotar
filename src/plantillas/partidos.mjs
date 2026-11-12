@@ -56,7 +56,7 @@ const conDeclaraciones = (d, p) => (d.citas[p.id] ?? []).some(c => c.tipo !== 'p
 function situacionPrograma(d, p) {
   const yDeclaraciones = conDeclaraciones(d, p);
   switch (p.programa.estado) {
-    case 'publicado': return { breve: 'Con programa.', aviso: null };
+    case 'publicado': return { breve: `Con programa.${yDeclaraciones ? ' También recogemos sus declaraciones.' : ''}`, aviso: null };
     case 'documento_parcial': return {
       breve: `Sin programa completo: usamos sus documentos${yDeclaraciones ? ' y sus declaraciones' : ''}.`,
       aviso: ['No hay programa completo publicado', `Usamos los documentos que ha publicado el partido${yDeclaraciones ? ' y, en los temas que no tratan, lo que han dicho sus portavoces' : ''}. Cada cita indica de dónde sale.`],
@@ -158,17 +158,27 @@ ${listaCitas(d, resto, p.nombre)}
 </div>`;
 }
 
-function textoPrograma(p) {
-  const doc = p.programa.documentos[0];
-  // «via»: de dónde sale la copia cuando no es la web del partido (por ejemplo, un medio que publica el PDF).
-  const detalle = doc ? [doc.fecha ? fecha(doc.fecha) : '', doc.via ? esc(doc.via) : ''].filter(Boolean).join('; ') : '';
-  const enlace = doc ? ` <a href="${esc(doc.url)}" data-evento="clic_fuente">${esc(doc.titulo)}</a>${detalle ? ` (${detalle})` : ''}.` : '';
-  switch (p.programa.estado) {
-    case 'publicado': return `Programa para estas elecciones:${enlace}`;
-    case 'documento_parcial': return `No ha publicado un programa completo. Usamos este documento del partido:${enlace}`;
-    case 'programa_general': return `No ha publicado programa para estas elecciones. Usamos un documento general del partido:${enlace}`;
-    default: return `No ha publicado programa (comprobado el ${fecha(p.programa.comprobado)}).`;
-  }
+// Enlace a un documento del partido. «via»: de dónde sale la copia cuando no es la web del partido
+// (por ejemplo, un medio que publica el PDF).
+function enlaceAlDocumento(doc) {
+  const detalle = [doc.fecha ? fecha(doc.fecha) : '', doc.via ? esc(doc.via) : ''].filter(Boolean).join('; ');
+  return `<a href="${esc(doc.url)}" data-evento="clic_fuente">${esc(doc.titulo)}</a>${detalle ? ` (${detalle})` : ''}`;
+}
+
+// Líneas de la ficha sobre el programa: el documento principal, los demás documentos que usamos y,
+// si el partido publicó el programa después de que recogiéramos sus declaraciones, que se mantienen.
+function lineasPrograma(d, p) {
+  const [doc, ...otros] = p.programa.documentos;
+  const enlace = doc ? ` ${enlaceAlDocumento(doc)}.` : '';
+  const principal = {
+    publicado: `Programa para estas elecciones:${enlace}`,
+    documento_parcial: `No ha publicado un programa completo. Usamos este documento del partido:${enlace}`,
+    programa_general: `No ha publicado programa para estas elecciones. Usamos un documento general del partido:${enlace}`,
+  }[p.programa.estado] ?? `No ha publicado programa (comprobado el ${fecha(p.programa.comprobado)}).`;
+  const lineas = [principal];
+  if (otros.length) lineas.push(`También usamos ${otros.length === 1 ? 'otro documento' : 'otros documentos'} del partido: ${otros.map(enlaceAlDocumento).join('; ')}.`);
+  if (p.programa.estado === 'publicado' && conDeclaraciones(d, p)) lineas.push('Mantenemos además lo que dijeron sus portavoces antes de que hubiera programa. Cada cita indica de dónde sale.');
+  return lineas.map(l => `<li>${l}</li>`).join('\n');
 }
 
 const notaOrden = '<p class="nota-orden">Ordenados por los votos que obtuvo en 2023 la candidatura de la que proceden; las que no se presentaron en 2023 van al final.</p>';
@@ -204,14 +214,18 @@ ${partidos.map(p => `<li><label class="elegir__opcion"><input type="checkbox" va
 </div>`;
 }
 
-// Barra fija para saltar de sección: anterior, lista de secciones, siguiente y volver arriba.
+// Barra fija para saltar de sección: anterior, menú de secciones y siguiente.
+// El menú no es un <select>: es un botón con la sección actual que despliega una lista de enlaces con
+// el estilo de la web. /partidos.js rellena la lista y la abre. La lista va justo detrás del botón
+// para que el tabulador entre en ella antes de llegar a «siguiente».
+// Para volver arriba está el botón fijo de abajo a la derecha (arriba: true en la página).
 function barraSaltos(cosa) {
+  const Cosa = cosa === 'tema' ? 'Tema' : 'Partido';
   return `<div class="saltos" data-saltos hidden>
-<button type="button" class="saltos__boton" data-saltos-anterior aria-label="${cosa === 'tema' ? 'Tema' : 'Partido'} anterior"><span aria-hidden="true">‹</span></button>
-<label class="solo-lector" for="saltos-lista">Ir a un ${cosa}</label>
-<select class="saltos__lista" id="saltos-lista" data-saltos-lista></select>
-<button type="button" class="saltos__boton" data-saltos-siguiente aria-label="${cosa === 'tema' ? 'Tema' : 'Partido'} siguiente"><span aria-hidden="true">›</span></button>
-<a class="saltos__boton" href="#indice" aria-label="Volver al índice"><span aria-hidden="true">↑</span></a>
+<button type="button" class="saltos__boton" data-saltos-anterior aria-label="${Cosa} anterior"><span aria-hidden="true">‹</span></button>
+<button type="button" class="saltos__actual" data-saltos-abrir aria-expanded="false" aria-controls="saltos-lista"><span class="solo-lector">Ir a un ${cosa}: </span><span class="saltos__nombre" data-saltos-nombre></span><span class="saltos__orden" data-saltos-orden aria-hidden="true"></span><span class="solo-lector" data-saltos-orden-lector></span><span class="saltos__flecha" aria-hidden="true"></span></button>
+<ul class="saltos__lista" id="saltos-lista" data-saltos-lista hidden></ul>
+<button type="button" class="saltos__boton" data-saltos-siguiente aria-label="${Cosa} siguiente"><span aria-hidden="true">›</span></button>
 </div>`;
 }
 
@@ -231,9 +245,11 @@ function notaMetodo(d) {
 <li>Cada cita está copiada tal cual de su programa (comprobada contra la página del PDF) o de sus portavoces (comprobada abriendo la fuente).</li>
 <li>Si un partido no ha publicado programa, recogemos lo que han dicho su líder, sus cabezas de lista y sus portavoces desde julio de 2023, y lo marcamos como «declaraciones, no programa».</li>
 <li>Si lo que ha publicado es un documento parcial o un documento general que no es de estas elecciones, lo usamos y lo decimos en su ficha.</li>
+<li>Si un partido publica su programa más tarde, lo añadimos y mantenemos sus declaraciones anteriores, cada una con su fecha.</li>
 <li>Los resúmenes los escribimos nosotros a partir de esas citas, sin valoraciones. Cada frase se apoya en citas concretas.</li>
 <li>Las citas en catalán y en gallego llevan nuestra traducción, con el original debajo.</li>
 </ul>
+<p class="mas"><a href="/metodo/">Cómo recogemos y comprobamos la información</a></p>
 <p class="fuentes__fecha">Datos actualizados el <time datetime="${d.actualizado}">${fecha(d.actualizado)}</time>. ¿Ves un error? Escríbenos.</p>
 </section>`;
 }
@@ -249,6 +265,7 @@ export function indicePartidos(d) {
     miga: [INICIO, PARTIDOS],
     actualizado: d.actualizado,
     pieNota: PIE,
+    arriba: true,
     contenido: `<div class="envoltorio texto">
 ${miga([INICIO, PARTIDOS])}
 <h1>Partidos</h1>
@@ -282,6 +299,7 @@ export function paginaPartido(p, d) {
     miga: [INICIO, PARTIDOS, { texto: p.nombre, ruta }],
     actualizado: d.actualizado,
     pieNota: PIE,
+    arriba: true,
     modulos: MODULOS,
     contenido: `<article class="envoltorio texto ficha" data-ficha="partido">
 ${miga([INICIO, PARTIDOS, { texto: p.nombre, ruta }])}
@@ -292,7 +310,7 @@ ${p.nombreCompleto !== p.nombre ? `<p class="ficha__oficial">${esc(p.nombreCompl
 <li>${esc(p.ambito)}</li>
 ${p.cabeza ? `<li>${esc(p.cabeza)}</li>` : ''}
 ${p.miembros?.length ? `<li>Coalición de ${esc(p.miembros.join(', '))}.</li>` : ''}
-<li>${textoPrograma(p)}</li>
+${lineasPrograma(d, p)}
 </ul>
 ${aviso ? `<div class="aviso-caja"><h3><span class="aviso-caja__signo" aria-hidden="true">!</span>${aviso[0]}</h3><p>${aviso[1]}</p></div>` : ''}
 <p class="ficha__cuenta">${plural(n, 'cita recogida', 'citas recogidas')} en ${plural(conMaterial.length, 'tema', 'temas')}.</p>
@@ -322,6 +340,7 @@ export function indiceTemas(d) {
     miga: [INICIO, TEMAS],
     actualizado: d.actualizado,
     pieNota: PIE,
+    arriba: true,
     contenido: `<div class="envoltorio texto">
 ${miga([INICIO, TEMAS])}
 <h1>Temas</h1>
@@ -357,6 +376,7 @@ export function paginaTema(t, d) {
     miga: [INICIO, TEMAS, { texto: t.nombre, ruta }],
     actualizado: d.actualizado,
     pieNota: PIE,
+    arriba: true,
     modulos: MODULOS,
     contenido: `<article class="envoltorio texto ficha" data-ficha="tema">
 ${miga([INICIO, TEMAS, { texto: t.nombre, ruta }])}

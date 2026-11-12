@@ -68,7 +68,9 @@ if (!porPartido.size) { console.error('No hay citas de trabajo que unir.'); proc
 await mkdir(join(DIR, 'citas'), { recursive: true });
 const cambios = [];
 for (const [partido, documentos] of porPartido) {
-  documentos.sort((a, b) => ordenFuente.get(a.fuente.id) - ordenFuente.get(b.fuente.id));
+  // Primero el programa de estas elecciones; después los documentos parciales y los generales. Dentro de cada clase, el orden del registro.
+  const rango = f => ({ programa: 0, documento_parcial: 1, programa_general: 2 }[f.clase] ?? 3);
+  documentos.sort((a, b) => rango(a.fuente) - rango(b.fuente) || ordenFuente.get(a.fuente.id) - ordenFuente.get(b.fuente.id));
   const ruta = join(DIR, 'citas', `${partido}.json`);
   const anterior = await leer(ruta).catch(() => ({ citas: [] }));
   const antes = new Map(anterior.citas.map(c => [c.id, c]));

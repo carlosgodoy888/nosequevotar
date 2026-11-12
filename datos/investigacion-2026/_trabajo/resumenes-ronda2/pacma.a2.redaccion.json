@@ -1,0 +1,94 @@
+{
+  "resumenes": [
+    {
+      "tema": "empleo",
+      "base": "escasa",
+      "frases": [
+        { "texto": "En su programa para las elecciones andaluzas de 2026, propone un pacto con los agentes sociales contra la discriminación laboral y salarial de las mujeres.", "apoyos": ["c-ef2e1d71ff"] },
+        { "texto": "También plantea fomentar guarderías en los centros de trabajo para niños y animales de compañía, y permisos retribuidos por enfermedad grave o muerte de familiares, incluidos los animales.", "apoyos": ["c-ed530d227f"] }
+      ],
+      "nota": "Todas las citas proceden del programa para las elecciones andaluzas de mayo de 2026; no hay material estatal. Se dejan fuera la formación para el empleo en la construcción y los coworking públicos."
+    },
+    {
+      "tema": "educacion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende la educación en bienestar animal como herramienta para prevenir la violencia.", "apoyos": ["c-e61b9745d0"] },
+        { "texto": "En sus programas autonómicos para Extremadura y Andalucía, pide una red pública con ratios más bajas, libros de texto gratuitos e impulso a la formación profesional.", "apoyos": ["c-d458d0be75", "c-fa8677e0aa", "c-d63da984d9"] },
+        { "texto": "El programa andaluz propone además libros de texto de licencia libre hechos entre comunidades, revisar los conciertos educativos para evitar la segregación y una escuela pública laica.", "apoyos": ["c-d63da984d9", "c-8b9e209f5f", "c-eade588f17"] }
+      ],
+      "nota": "Solo una cita es de ámbito estatal (nota de prensa sobre educación en bienestar animal); el resto viene de los programas autonómicos de Extremadura (2025) y Andalucía (2026), y así se indica en las frases. Podría considerarse base escasa si se exige material estatal para las medidas."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "base": "escasa",
+      "frases": [
+        { "texto": "En su programa para las elecciones andaluzas de 2026, propone un proyecto de colaboración entre comunidades autónomas para elaborar libros de texto de licencia libre.", "apoyos": ["c-d63da984d9"] },
+        { "texto": "También plantea que las Escuelas Oficiales de Idiomas de Andalucía amplíen su oferta a las lenguas cooficiales.", "apoyos": ["c-df3824f111"] }
+      ],
+      "nota": "Las dos citas son del programa andaluz y tocan el tema de forma lateral; no hay ninguna postura sobre el reparto de poder, la financiación autonómica o el autogobierno."
+    },
+    {
+      "tema": "transporte",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide una norma estatal que obligue a proteger la fauna frente a las infraestructuras, con pasos de fauna en carreteras y medidas para las aves en tendidos eléctricos.", "apoyos": ["c-01cc0348e7", "c-e2e93096fc"] },
+        { "texto": "En su programa para las elecciones andaluzas de 2026, apuesta por reducir la demanda de transporte urbano y fomentar los desplazamientos a pie, en bicicleta y en transporte público.", "apoyos": ["c-ffef16aca7"] },
+        { "texto": "En una propuesta local para el área metropolitana de Almería, plantea más líneas de autobús y frecuencias de 15 minutos en las de mayor demanda.", "apoyos": ["c-297fa31695"] }
+      ],
+      "nota": "Se omite la cita sobre Renfe (c-a330e35711) porque no dice qué postura se le pide reconsiderar y no puede resumirse sin añadir datos. El material estatal se limita a la protección de la fauna frente a infraestructuras."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "base": "escasa",
+      "frases": [
+        { "texto": "En su programa para las elecciones andaluzas de 2026, propone unidades policiales permanentes contra la violencia machista y que las casas de acogida admitan los animales de las víctimas.", "apoyos": ["c-de3ff7ab29", "c-9f14be254c"] },
+        { "texto": "También plantea un pacto contra la discriminación laboral de las mujeres y apoyo psicológico y social a las personas LGTBI+, incluidas las personas trans en su transición.", "apoyos": ["c-ef2e1d71ff", "c-b4036ab472"] }
+      ],
+      "nota": "Todas las citas proceden del programa andaluz de mayo de 2026; no hay material estatal. «Permanentes» resume «disponibles las 24 horas, los 365 días del año». Se deja fuera la escuela laica, recogida en educación."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide que la reforma de la LOPIVI, la ley de protección de la infancia, prohíba a los menores de 18 años asistir o participar en actividades taurinas.", "apoyos": ["c-78053e864c"] },
+        { "texto": "Para los menores de 16 años, plantea que Cultura impida ya su entrada.", "apoyos": ["c-78053e864c", "c-1d83c2b933"] },
+        { "texto": "Pide también que las políticas de vivienda y los alojamientos de emergencia contemplen a las familias con animales para evitar separaciones.", "apoyos": ["c-c17fc64937"] },
+        { "texto": "En su programa para las elecciones andaluzas de 2026, propone fomentar guarderías en el trabajo para niños y animales de compañía, y permisos retribuidos que incluyan a los animales.", "apoyos": ["c-ed530d227f"] }
+      ],
+      "nota": "Tres citas estatales (notas de prensa) y una del programa andaluz, que va al final y se atribuye."
+    },
+    {
+      "tema": "vivienda",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone reconocer en los alquileres de vivienda habitual el derecho a convivir con animales de compañía, con las obligaciones de cuidado y reparación de daños.", "apoyos": ["c-303a220e36"] },
+        { "texto": "Plantea deducciones en el IRPF o bonificaciones en impuestos locales a propietarios cuyos contratos no excluyan animales, y que la vivienda pública contemple a las familias con animales.", "apoyos": ["c-fb15c323ad", "c-c17fc64937"] },
+        { "texto": "En la campaña andaluza de 2026, su presidente defendió ampliar con urgencia el parque público de vivienda para ofrecer alternativas de emancipación a los jóvenes.", "apoyos": ["c-a61ed54bb4"] }
+      ],
+      "nota": "La cita sobre el parque público es de Javier Luna como candidato a la Junta de Andalucía, por eso se sitúa en la campaña andaluza. Se deja fuera la rehabilitación energética del programa andaluz (c-9b9577e21c)."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Rechaza la ganadería intensiva por su impacto en acuíferos, suelos y bienestar animal, y defiende una transición hacia la producción de proteína vegetal.", "apoyos": ["c-6c500ed6df", "c-16f014176c"] },
+        { "texto": "Pide a los gobiernos autonómicos prohibir la caza para recuperar las poblaciones de herbívoros.", "apoyos": ["c-55dfbd1eb7", "c-4c99b08048"] },
+        { "texto": "Reclama también una ley estatal contra la pirotecnia sonora y una norma que obligue a proteger la fauna frente a carreteras, balsas o tendidos eléctricos.", "apoyos": ["c-53e3245f5a", "c-01cc0348e7", "c-e2e93096fc"] },
+        { "texto": "En energía, propone comunidades energéticas locales con placas solares en los edificios públicos municipales.", "apoyos": ["c-2f13586712"] }
+      ],
+      "nota": "Todo el resumen se apoya en notas de prensa estatales; c-16f014176c es de la campaña andaluza pero solo refuerza la frase sobre ganadería intensiva. Quedan fuera por espacio los cetáceos en cautividad, los refugios climáticos y la cita sobre una especie no identificada (c-730328e514)."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide cárcel para quienes maltratan animales y reforzar la ley para que estos delitos no dependan solo de la voluntad de las partes particulares.", "apoyos": ["c-fb76d4e6e5", "c-5d5c7586be"] },
+        { "texto": "Su candidato pide que los perros de caza vuelvan a la ley de protección animal, de la que fueron excluidos.", "apoyos": ["c-2f063f6188", "c-ba0efccf87"] },
+        { "texto": "También propone eliminar los aforamientos, limitar los cargos y combatir el clientelismo institucional.", "apoyos": ["c-89704f1314"] },
+        { "texto": "En su programa para las elecciones andaluzas de 2026, propone unidades policiales especializadas en violencia machista disponibles las 24 horas.", "apoyos": ["c-de3ff7ab29"] }
+      ],
+      "nota": "Se deja fuera c-e26b063a50 (condena de la violencia contra animales sin distinguir nacionalidad), que es una posición sin medida."
+    }
+  ]
+}

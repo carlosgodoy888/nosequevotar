@@ -30,3 +30,5 @@ Lo escribe `scripts/investigacion/unir-citas.mjs` cada vez que cambian las citas
 - 2026-11-11 · upn-pp · declaraciones: 4 citas nuevas. Quedan 78 vigentes.
 - 2026-11-11 · vox · vox-programa-desregulacion-2026: 113 citas nuevas y 0 sustituidas. Quedan 184 vigentes.
 - 2026-11-11 · podemos · podemos-documento-politico-2025: 99 citas nuevas y 0 sustituidas. Quedan 160 vigentes.
+- 2026-11-12 · vox · vox-programa-2026, vox-programa-desregulacion-2026: 229 citas nuevas y 0 sustituidas. Quedan 413 vigentes.
+- 2026-11-12 · pacma · declaraciones: 16 citas nuevas. Quedan 59 vigentes.
