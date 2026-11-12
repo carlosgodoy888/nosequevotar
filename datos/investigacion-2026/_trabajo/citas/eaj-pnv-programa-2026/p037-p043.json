@@ -1,0 +1,867 @@
+{
+  "fuente": "eaj-pnv-programa-2026",
+  "partido": "eaj-pnv",
+  "paginas": [
+    37,
+    43
+  ],
+  "citas": [
+    {
+      "cita": "Queremos decidir en Euskadi sobre lo que afecta a nuestra vida cotidiana. Más capacidad de gestión significa poder responder mejor en vivienda, empleo, sanidad, seguridad y servicios públicos, sin depender de decisiones tomadas lejos de nuestra realidad.",
+      "pagina": 37,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí."
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Más capacidad de decisión y gestión en Euskadi",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En Madrid defenderemos el cumplimiento íntegro del Estatuto de Gernika, el Concierto Económico y las inversiones comprometidas.",
+      "pagina": 37,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí."
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa del Estatuto, el Concierto Económico y las inversiones comprometidas",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada transferencia pendiente y cada acuerdo incumplido tiene consecuencias concretas para Euskadi. Exigiremos calendarios y resultados verificables.",
+      "pagina": 37,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí."
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Exigencia de calendarios verificables para transferencias y acuerdos pendientes",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y defenderemos nuestra voz en Europa y el respeto a nuestras instituciones.",
+      "pagina": 37,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí."
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa de la voz vasca en Europa y de sus instituciones",
+      "etiquetas": [
+        "unión europea",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Negociar es útil cuando sirve para conseguir avances; exigir es imprescindible cuando los compromisos no se cumplen. Esa será nuestra forma de trabajar, gobierne quien gobierne.",
+      "pagina": 37,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí."
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Forma de trabajar en Madrid: negociar y exigir",
+      "etiquetas": [
+        "instituciones",
+        "pactos de gobierno"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por eso exigiremos el cumplimiento íntegro del Estatuto de Gernika y protegeremos las competencias que ya ejercemos. No aceptaremos que los acuerdos se retrasen indefinidamente ni que las leyes estatales vacíen de contenido las decisiones que corresponden a Euskadi.",
+      "pagina": 37,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí."
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Exigir el cumplimiento del Estatuto y proteger las competencias",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aspiramos a una nueva relación política con el Estado, basada en el reconocimiento de Euskadi como nación, el pacto, la bilateralidad y el respeto a la voluntad democrática de la sociedad vasca. Una relación en la que los acuerdos tengan garantías efectivas de cumplimiento y ninguna de las partes pueda modificarlos unilateralmente.",
+      "pagina": 37,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí."
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Nueva relación política con el Estado y reconocimiento nacional",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exigiremos conocer la verdad sobre las vulneraciones de derechos humanos que siguen pendientes de esclarecimiento, garantizar la reparación de todas las víctimas y acabar con una legislación de secretos oficiales que permite mantener ocultos documentos durante décadas.",
+      "pagina": 37,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí."
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Esclarecer vulneraciones de derechos humanos y cambiar la legislación de secretos oficiales",
+      "etiquetas": [
+        "memoria democrática",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Estatuto de Gernika es un acuerdo que debe cumplirse.",
+      "pagina": 38,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.1 Lo pactado se cumple. Más capacidad para decidir aquí"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "El Estatuto de Gernika como acuerdo que debe cumplirse",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exigiremos todas las competencias pendientes y defenderemos las que ya ejercemos frente a cualquier intento de recentralización.",
+      "pagina": 38,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.1 Lo pactado se cumple. Más capacidad para decidir aquí"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Exigir las competencias pendientes y defender las ejercidas",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar el cumplimiento íntegro del Estatuto de Gernika y la culminación de todas las transferencias pendientes, garantizando que las competencias reconocidas puedan ejercerse de forma efectiva y con los recursos correspondientes.",
+      "pagina": 38,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+        "Cumplimiento del Estatuto y defensa de competencias"
+      ],
+      "numero": "01",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cumplimiento íntegro del Estatuto y culminación de las transferencias pendientes",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Rechazar cualquier intento de recentralización, invasión o vaciamiento de las competencias vascas, tanto mediante reformas legislativas como a través de decisiones administrativas o presupuestarias.",
+      "pagina": 38,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+        "Cumplimiento del Estatuto y defensa de competencias"
+      ],
+      "numero": "02",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Rechazo a la recentralización o vaciamiento de competencias vascas",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos entre Euskadi y el Estado, que permitan verificar su cumplimiento y resolver las diferencias institucionales.",
+      "pagina": 38,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+        "Relación bilateral y Derechos Históricos"
+      ],
+      "numero": "03",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mecanismos bilaterales de negociación y seguimiento de acuerdos con el Estado",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proteger los Derechos Históricos del Pueblo Vasco y el reconocimiento nacional de Euskadi, como fundamento de una relación política basada en el pacto, la bilateralidad y el respeto mutuo.",
+      "pagina": 38,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+        "Relación bilateral y Derechos Históricos"
+      ],
+      "numero": "04",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Protección de los Derechos Históricos y reconocimiento nacional de Euskadi",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defender, junto a Geroa Bai, el Amejoramiento del Fuero, el Convenio Económico y las instituciones propias de Navarra, respetando su capacidad de decisión y el desarrollo de su autogobierno.",
+      "pagina": 38,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+        "Realidades territoriales y derechos democráticos"
+      ],
+      "numero": "05",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa del Amejoramiento del Fuero y el Convenio Económico de Navarra",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyar el derecho de la ciudadanía de Trebiño y Villaverde Turtzioz a pronunciarse democráticamente sobre su futuro, incluida, en su caso, la incorporación al territorio histórico correspondiente de Euskadi, mediante los procedimientos legales y el diálogo institucional necesarios.",
+      "pagina": 38,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.1 Lo pactado se cumple. Más capacidad para decidir aquí",
+        "Realidades territoriales y derechos democráticos"
+      ],
+      "numero": "06",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derecho de Trebiño y Villaverde Turtzioz a pronunciarse sobre su futuro",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Concierto Económico nos permite gestionar nuestros recursos y desarrollar políticas propias. Lo defenderemos frente a cualquier ataque y, asimismo, queremos extender los principios del pacto y la bilateralidad en los que se basa a nuestra relación política con el Estado.",
+      "pagina": 38,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa del Concierto Económico y extensión de la bilateralidad a lo político",
+      "etiquetas": [
+        "organización territorial",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentar nuestras capacidades financiero-fiscales promoviendo la modificación de la Ley del Concierto económico y el convenio económico.",
+      "pagina": 39,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político",
+        "Concierto Económico"
+      ],
+      "numero": "01",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Modificar la Ley del Concierto y el Convenio para ampliar capacidades fiscales",
+      "etiquetas": [
+        "organización territorial",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar que las reformas fiscales y presupuestarias estatales respeten el Concierto Económico, la autonomía financiera de Euskadi y los mecanismos propios de relación y coordinación con el Estado.",
+      "pagina": 39,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político",
+        "Concierto Económico"
+      ],
+      "numero": "02",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Respeto del Concierto Económico en las reformas fiscales estatales",
+      "etiquetas": [
+        "organización territorial",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Favorecer una nueva relación política entre Euskadi y el Estado basada en el reconocimiento de la realidad nacional vasca, el respeto a la voluntad democrática de la sociedad vasca y la capacidad de decisión de sus instituciones.",
+      "pagina": 39,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político",
+        "Concierto Político: reconocimiento nacional, bilateralidad y garantías"
+      ],
+      "numero": "03",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Nueva relación política Euskadi-Estado con reconocimiento nacional vasco",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar hacia un Concierto Político que traslade los principios de pacto y bilateralidad al ámbito institucional.",
+      "pagina": 39,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político",
+        "Concierto Político: reconocimiento nacional, bilateralidad y garantías"
+      ],
+      "numero": "04",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Concierto Político basado en el pacto y la bilateralidad",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer mecanismos de prevención y resolución de conflictos entre Euskadi y el Estado, con garantías imparciales que impidan el incumplimiento, el vaciamiento o la modificación unilateral de los acuerdos.",
+      "pagina": 39,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.2 Defender el Concierto Económico. Avanzar hacia un nuevo pacto político",
+        "Concierto Político: reconocimiento nacional, bilateralidad y garantías"
+      ],
+      "numero": "05",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mecanismos de resolución de conflictos entre Euskadi y el Estado",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Queremos una justicia eficaz, cercana y adaptada a nuestra realidad. Euskadi debe disponer de mayores capacidades para organizar su sistema judicial y garantizar un mejor servicio a la ciudadanía.",
+      "pagina": 39,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Más capacidades de Euskadi para organizar su sistema judicial",
+      "etiquetas": [
+        "justicia",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Favorecer las reformas necesarias para que la organización judicial culmine en el Tribunal Superior de Justicia del País Vasco, ante el que se agoten las sucesivas instancias procesales, incluidos los recursos de casación o la última instancia que proceda, con la única excepción de la jurisdicción reservada al Tribunal Supremo.",
+      "pagina": 39,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi",
+        "Organización y gobierno judicial"
+      ],
+      "numero": "01",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tribunal Superior de Justicia del País Vasco como última instancia judicial",
+      "etiquetas": [
+        "justicia",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la creación de un Consejo Vasco de Justicia, con capacidad para ejercer las funciones de gobierno del Poder Judicial en Euskadi que le atribuya el nuevo marco jurídico.",
+      "pagina": 39,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi",
+        "Organización y gobierno judicial"
+      ],
+      "numero": "02",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Creación de un Consejo Vasco de Justicia",
+      "etiquetas": [
+        "justicia",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover el reconocimiento de la Ertzaintza como Policía judicial en el ámbito vasco, con capacidad plena para ejercer las funciones correspondientes.",
+      "pagina": 39,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.3 Una justicia más cercana y con capacidad de decisión desde Euskadi",
+        "Policía judicial"
+      ],
+      "numero": "03",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reconocimiento de la Ertzaintza como policía judicial",
+      "etiquetas": [
+        "justicia",
+        "seguridad",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No puede haber una democracia plenamente responsable mientras existan hechos graves sin esclarecer y documentos oficiales que permanecen ocultos durante décadas. Queremos conocer la verdad y garantizar los derechos de todas las víctimas.",
+      "pagina": 40,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Esclarecimiento de hechos graves y derechos de las víctimas",
+      "etiquetas": [
+        "memoria democrática",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar la aprobación de una nueva Ley de Secretos Oficiales, que sustituya la legislación vigente, establezca criterios objetivos de clasificación y fije plazos concretos de desclasificación automática.",
+      "pagina": 40,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+        "Ley de Secretos Oficiales"
+      ],
+      "numero": "01",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva Ley de Secretos Oficiales con plazos de desclasificación automática",
+      "etiquetas": [
+        "transparencia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la desclasificación de los documentos oficiales relacionados con los sucesos del 3 de marzo de 1976 en Vitoria-Gasteiz, para contribuir al esclarecimiento de los hechos y al reconocimiento y reparación de las víctimas.",
+      "pagina": 40,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+        "Desclasificación y esclarecimiento de hechos"
+      ],
+      "numero": "02",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desclasificación de documentos del 3 de marzo de 1976 en Vitoria-Gasteiz",
+      "etiquetas": [
+        "memoria democrática",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar el esclarecimiento de las circunstancias de la muerte de Mikel Zabalza, facilitando el acceso a la documentación oficial que pueda contribuir a conocer la verdad.",
+      "pagina": 40,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+        "Desclasificación y esclarecimiento de hechos"
+      ],
+      "numero": "03",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Esclarecimiento de la muerte de Mikel Zabalza y acceso a documentación",
+      "etiquetas": [
+        "memoria democrática",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la desclasificación de la documentación relacionada con el atentado del bar Aldana de Alonsotegi, ocurrido el 20 de enero de 1980, y el esclarecimiento de los hechos y las responsabilidades correspondientes.",
+      "pagina": 40,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+        "Desclasificación y esclarecimiento de hechos"
+      ],
+      "numero": "04",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desclasificación de documentos del atentado del bar Aldana de 1980",
+      "etiquetas": [
+        "memoria democrática",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar el acceso a la documentación oficial sobre la actuación policial durante los Sanfermines de 1978, para avanzar en el conocimiento de la verdad y la reparación de las víctimas.",
+      "pagina": 40,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+        "Desclasificación y esclarecimiento de hechos"
+      ],
+      "numero": "05",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acceso a documentación sobre la actuación policial en Sanfermines de 1978",
+      "etiquetas": [
+        "memoria democrática",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la aplicación íntegra de la legislación de Memoria Histórica y Memoria Democrática, garantizando los derechos a la verdad, la justicia y la reparación de las víctimas de la Guerra Civil y la dictadura franquista.",
+      "pagina": 40,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+        "Memoria democrática y rendición de cuentas"
+      ],
+      "numero": "06",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aplicación íntegra de la legislación de Memoria Histórica y Democrática",
+      "etiquetas": [
+        "memoria democrática"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la transparencia y la rendición de cuentas de las administraciones públicas, garantizando el acceso de la ciudadanía a información comprensible sobre sus decisiones, presupuestos y resultados.",
+      "pagina": 40,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.4 Verdad, justicia y reparación. Una democracia que rinde cuentas",
+        "Memoria democrática y rendición de cuentas"
+      ],
+      "numero": "07",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Transparencia y rendición de cuentas de las administraciones públicas",
+      "etiquetas": [
+        "transparencia",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Euskadi necesita estar donde se decide su futuro. Queremos participar directamente en las decisiones europeas que afectan a nuestras competencias, nuestra economía y nuestra sociedad.",
+      "pagina": 40,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.5 Euskadi con voz propia en Europa"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Participación directa de Euskadi en las decisiones europeas",
+      "etiquetas": [
+        "unión europea",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar la participación directa y efectiva de Euskadi en las instituciones de la Unión Europea, especialmente en aquellas decisiones relacionadas con sus competencias.",
+      "pagina": 41,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.5 Euskadi con voz propia en Europa",
+        "Participación institucional y reconocimiento europeo"
+      ],
+      "numero": "01",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación directa de Euskadi en las instituciones de la Unión Europea",
+      "etiquetas": [
+        "unión europea",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la presencia con voz propia de Euskadi en las distintas formaciones del Consejo de la Unión Europea, particularmente en el Consejo ECOFIN y en el Consejo de Justicia y Asuntos de Interior, cuando se aborden materias vinculadas a nuestras competencias.",
+      "pagina": 41,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.5 Euskadi con voz propia en Europa",
+        "Participación institucional y reconocimiento europeo"
+      ],
+      "numero": "02",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Presencia de Euskadi con voz propia en el Consejo de la UE",
+      "etiquetas": [
+        "unión europea",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Favorecer el reconocimiento y la representación de las realidades nacionales en las instituciones europeas, incluido el Parlamento Europeo.",
+      "pagina": 41,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.5 Euskadi con voz propia en Europa",
+        "Participación institucional y reconocimiento europeo"
+      ],
+      "numero": "03",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reconocimiento de las realidades nacionales en las instituciones europeas",
+      "etiquetas": [
+        "unión europea",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la oficialidad del euskera, el catalán y el gallego en la Unión Europea, garantizando su presencia y utilización efectiva en las instituciones comunitarias.",
+      "pagina": 41,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.5 Euskadi con voz propia en Europa",
+        "Participación institucional y reconocimiento europeo"
+      ],
+      "numero": "04",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Oficialidad del euskera, catalán y gallego en la Unión Europea",
+      "etiquetas": [
+        "lenguas",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyar una Europa más democrática, competitiva y social, capaz de reforzar su autonomía estratégica, proteger su industria y responder a los desafíos tecnológicos, energéticos y climáticos.",
+      "pagina": 41,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.5 Euskadi con voz propia en Europa",
+        "Prioridades económicas y cooperación atlántica"
+      ],
+      "numero": "05",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a una Europa con autonomía estratégica e industria protegida",
+      "etiquetas": [
+        "unión europea",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Favorecer la creación de una Macrorregión Atlántica Europea, para reforzar la cooperación en infraestructuras ferroviarias y energéticas, industria, digitalización, pesca, economía azul, sostenibilidad y relaciones con el Reino Unido.",
+      "pagina": 41,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.5 Euskadi con voz propia en Europa",
+        "Prioridades económicas y cooperación atlántica"
+      ],
+      "numero": "06",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Creación de una Macrorregión Atlántica Europea",
+      "etiquetas": [
+        "unión europea",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar el cumplimiento de los plazos de las redes transeuropeas de transporte, especialmente en las conexiones ferroviarias transfronterizas que unen Euskadi con el resto de Europa.",
+      "pagina": 41,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.5 Euskadi con voz propia en Europa",
+        "Prioridades económicas y cooperación atlántica"
+      ],
+      "numero": "07",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cumplimiento de plazos de las redes transeuropeas de transporte",
+      "etiquetas": [
+        "transporte",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los recursos europeos deben responder a las necesidades reales de nuestros territorios. No aceptaremos que la gestión de los fondos sirva para recentralizar competencias o alejar las decisiones de quienes conocen mejor las necesidades de Euskadi.",
+      "pagina": 41,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a la recentralización en la gestión de fondos europeos",
+      "etiquetas": [
+        "unión europea",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar la participación efectiva de Euskadi en la elaboración y gestión del Marco Financiero Plurianual europeo 2028-2034, interviniendo en la definición de prioridades, el reparto de recursos y la toma de decisiones.",
+      "pagina": 41,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi",
+        "Programación de fondos europeos"
+      ],
+      "numero": "01",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Participación de Euskadi en el Marco Financiero Plurianual europeo 2028-2034",
+      "etiquetas": [
+        "unión europea",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la gestión descentralizada de los fondos europeos, respetando las competencias de las instituciones vascas y evitando su recentralización por parte del Estado.",
+      "pagina": 41,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi",
+        "Programación de fondos europeos"
+      ],
+      "numero": "02",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Gestión descentralizada de los fondos europeos",
+      "etiquetas": [
+        "unión europea",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar que Euskadi participe directamente en los mecanismos de programación, ejecución y seguimiento de los fondos europeos que afecten a sus ámbitos competenciales.",
+      "pagina": 42,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi",
+        "Gestión, seguimiento y financiación"
+      ],
+      "numero": "03",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación de Euskadi en programación, ejecución y seguimiento de fondos europeos",
+      "etiquetas": [
+        "unión europea",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover una financiación europea adecuada para las prioridades industriales, energéticas, tecnológicas, sociales y territoriales de Euskadi, garantizando que las decisiones sobre los recursos respondan a las necesidades de nuestro país.",
+      "pagina": 42,
+      "apartado": [
+        "Decidir aquí. Hacernos escuchar allí.",
+        "5.6 Los fondos europeos deben llegar a Euskadi y gestionarse desde Euskadi",
+        "Gestión, seguimiento y financiación"
+      ],
+      "numero": "04",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Financiación europea adecuada para las prioridades de Euskadi",
+      "etiquetas": [
+        "unión europea",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

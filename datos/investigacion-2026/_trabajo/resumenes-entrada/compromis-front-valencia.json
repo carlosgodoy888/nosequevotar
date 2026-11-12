@@ -1,0 +1,1256 @@
+{
+ "partido": "compromis-front-valencia",
+ "nombre": "Compromís: Front Valencià",
+ "programa": "no_publicado",
+ "temas": [
+  {
+   "tema": "vivienda",
+   "nombre": "Vivienda",
+   "definicion": "Acceso a la vivienda en compra y alquiler, vivienda pública, suelo y urbanismo.",
+   "citas": [
+    {
+     "id": "c-9f1a9b7b51",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se debería limitar la compra de vivienda en general. Empezando por los fondos buitre y grandes especuladores, pero la vivienda no puede ser el espacio en el que poner el dinero.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-b540f875e9",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La primera urgencia es acabar con los desahucios. No podemos permitir que se expulse de su casa a personas que están pagando el alquiler religiosamente, hemos de acabar con los desahucios como medida radial. Hay que regular los alquileres en las zonas tensionadas y reducirlos, no limitarse a impedir que sigan subiendo.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-30aa6cd0b6",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibir la compra de vivienda por parte de no residentes y prohibir que los fondos buitre se queden con pisos residenciales.",
+     "quien": "María Teresa Pérez, Cabeza de lista por Alicante; secretaria general de Podem PV",
+     "fecha": "2026-11-07"
+    },
+    {
+     "id": "c-e588904873",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Al mismo tiempo, Compromís reclama poner límites claros a la especulación mediante un registro obligatorio de grandes tenedores, recargos progresivos del IBI a partir de la tercera casa vacía, inspecciones fiscales reforzadas y una regulación estricta de los apartamentos turísticos, ya que —han señalado— la proliferación de pisos turísticos ilegales y la acumulación de viviendas no responden a una ley del mercado, sino a una decisión política.",
+     "original": "Alhora, Compromís reclama posar límits clars a l’especulació mitjançant un registre obligatori de grans tenidors, recàrrecs progressius de l’IBI a partir de la tercera casa buida, inspeccions fiscals reforçades i una regulació estricta dels apartaments turístics, ja que —han assenyalat— la proliferació de pisos turístics il·legals i l’acumulació de llars no responen a una llei del mercat, sinó a una decisió política.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-02-04"
+    },
+    {
+     "id": "c-85f3064a40",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso propone la creación de un Fondo Rural de Vivienda para rehabilitar viviendas vacías y convertirlas en alquiler asequible, ayudas a fondo perdido en municipios en riesgo de despoblación, un Bono Reforma Rural y la vinculación de la vivienda a servicios básicos como la fibra óptica, el transporte público y la eficiencia energética.",
+     "original": "Per això proposa la creació d’un Fons Rural d’Habitatge per rehabilitar vivendes buides i convertir-les en lloguer assequible, ajudes a fons perdut en municipis en risc de despoblament, un Bo Reforma Rural i la vinculació de l’habitatge a serveis bàsics com la fibra òptica, el transport públic i l’eficiència energètica.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-02-04"
+    },
+    {
+     "id": "c-c6f7f3c2bb",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La vivienda es el ejemplo más claro: necesitamos políticas que garanticen que las casas sean para vivir y no para especular.",
+     "original": "L’habitatge és l’exemple més clar: necessitem polítiques que garantisquen que les cases siguen per a viure i no per a especular.",
+     "quien": "Joan Baldoví, Síndic de Compromís en las Corts Valencianes",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-c85a3e5526",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha exigido un plan fiscal de lucha contra la evasión fiscal por parte de los rentistas con más inspectores y medios.",
+     "original": "Compromís ha exigit un pla fiscal de lluita contra l’evasió fiscal per part dels rendistes amb més inspectors i mitjans.",
+     "quien": "el partido, Nota de prensa oficial (PNL en el Congreso)",
+     "fecha": "2026-01-29"
+    },
+    {
+     "id": "c-d27e344d8a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "aprobar un nuevo escudo social, como se ha hecho en anteriores conflictos internacionales, que se base en la vivienda, la cesta de la compra, el transporte y la energía",
+     "original": "aprovar un nou escut social, com s’ha fet en anteriors conflictes internacionals, que es base en l’habitatge, la cistella de la compra, el transport i l’energia",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-03-04"
+    },
+    {
+     "id": "c-9c76b84618",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "no tomar decisiones valientes supone enfrentar a turistas y residentes. Medidas que no pueden recaer en la conciencia individual del turista, porque todos aspiramos a serlo, sino medidas estructurales planificadas de decrecimiento, cohesión y reindustrialización de nuestro país",
+     "original": "no prendre decisions valentes suposa enfrontar turistes i residents. Mesures que no poden recaure en la consciència individual del turista, perquè tots aspirem a ser-ho, sinó de mesures estructurals planificades de decreixement, cohesió i reindustrialització del nostre país",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-03-19"
+    },
+    {
+     "id": "c-d0040ca94e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La igualdad de trato no es opcional y los derechos no pueden convertirse en moneda de cambio para alimentar un discurso discriminatorio",
+     "original": "La igualtat de tracte no és opcional i els drets no poden convertir-se en moneda de canvi per a alimentar un discurs discriminatori",
+     "quien": "Vicent Marzà, Eurodiputado de Compromís (Verdes/ALE)",
+     "fecha": "2026-10-13"
+    },
+    {
+     "id": "c-726e0ddae2",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay que reconstruir sabiendo que el cambio climático actúa con virulencia, atendiendo al curso del agua y las zonas inundables",
+     "original": "Cal reconstruir sabent que el canvi climàtic actua amb virulència, atenent el curs de l’aigua i les zones inundables",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-db56ced0ba",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Más pasajeros sin ampliar los servicios que usan son más colapso de Metrovalencia, más atascos en las carreteras, más tensión en nuestros servicios públicos y, por supuesto, más ruido y más efectos no deseados del turismo: más vivienda turística y menos para las familias",
+     "original": "Més passatgers sense ampliar els serveis que usen són més col·lapse de Metrovalencia, més embossos en les carreteres, més tensió en els nostres serveis públics i, per descomptat, més soroll i més efectes no desitjats del turisme: més habitatge turístic i menys per a les famílies",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-09-09"
+    },
+    {
+     "id": "c-e644d0a22a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si tienen mecanismos para volver a llevar los decretos de vivienda a la Diputación Permanente, que aprovechen también para hacer lo que llevan años aplazando: derogar la Ley Mordaza.",
+     "original": "Si tenen mecanismes per tornar a portar els decrets de vivenda a la Diputació Permanent, que aprofiten també per fer allò que porten anys ajornant: derogar la Llei Mordassa.",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "nombre": "Empleo y salarios",
+   "definicion": "Trabajo, salarios, jornada, contratos, autónomos, sindicatos y salud laboral.",
+   "citas": [
+    {
+     "id": "c-9770de4d41",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Siempre hemos forzado al PSOE a hacer políticas para subir el salario mínimo interprofesional, para subir las pensiones, para mejorar la situación de la gente, para frenar también los beneficios extraordinarios de las energéticas, de los bancos, de las multinacionales...",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-21c85521be",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "También hacemos huelga para reclamar salarios dignos y la dignidad de las personas",
+     "quien": "Ignasi Garcia, Candidato al Congreso por Castellón",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-99aed75cd9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Durante esta legislatura, el PP y Vox han utilizado su mayoría para intentar tumbar medidas aprobadas en el Congreso, como la revalorización de las pensiones, la subida del salario mínimo, iniciativas para limitar los beneficios de grandes empresas y normas relacionadas con la sanidad pública o los derechos sociales. Una mayoría progresista en el Senado puede proteger esas medidas y permitir que sigan adelante.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-7186c1ba78",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay que diversificar la economía para tener sectores de alto valor añadido que permitan un trabajo de calidad, porque además está ocurriendo que está subiendo el precio de todo, pero no suben los salarios: sube la luz, la gasolina, el alquiler, las hipotecas, la compra de alimentos.",
+     "quien": "María Teresa Pérez, Cabeza de lista por Alicante; secretaria general de Podem PV",
+     "fecha": "2026-11-07"
+    },
+    {
+     "id": "c-44a81237e0",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Si exigimos derechos laborales, transición justa y verde, tenemos que proteger de la deslealtad de terceros",
+     "original": "Si exigim drets laborals, transició justa i verd hem de protegir de la deslleialtat de tercers",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso, miembro de la Comisión de Industria",
+     "fecha": "2026-01-15"
+    },
+    {
+     "id": "c-9c76b84618",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "no tomar decisiones valientes supone enfrentar a turistas y residentes. Medidas que no pueden recaer en la conciencia individual del turista, porque todos aspiramos a serlo, sino medidas estructurales planificadas de decrecimiento, cohesión y reindustrialización de nuestro país",
+     "original": "no prendre decisions valentes suposa enfrontar turistes i residents. Mesures que no poden recaure en la consciència individual del turista, perquè tots aspirem a ser-ho, sinó de mesures estructurals planificades de decreixement, cohesió i reindustrialització del nostre país",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-03-19"
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "nombre": "Pensiones",
+   "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
+   "citas": [
+    {
+     "id": "c-9770de4d41",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Siempre hemos forzado al PSOE a hacer políticas para subir el salario mínimo interprofesional, para subir las pensiones, para mejorar la situación de la gente, para frenar también los beneficios extraordinarios de las energéticas, de los bancos, de las multinacionales...",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-f3baf7d696",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y siguiendo con el programa: hemos de proteger cuestiones tan básicas como el blindaje constitucional de las pensiones, del derecho al aborto, los derechos de las mujeres y de la comunidad LGTBI.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-99aed75cd9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Durante esta legislatura, el PP y Vox han utilizado su mayoría para intentar tumbar medidas aprobadas en el Congreso, como la revalorización de las pensiones, la subida del salario mínimo, iniciativas para limitar los beneficios de grandes empresas y normas relacionadas con la sanidad pública o los derechos sociales. Una mayoría progresista en el Senado puede proteger esas medidas y permitir que sigan adelante.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "tema": "impuestos",
+   "nombre": "Impuestos",
+   "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
+   "citas": [
+    {
+     "id": "c-e588904873",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Al mismo tiempo, Compromís reclama poner límites claros a la especulación mediante un registro obligatorio de grandes tenedores, recargos progresivos del IBI a partir de la tercera casa vacía, inspecciones fiscales reforzadas y una regulación estricta de los apartamentos turísticos, ya que —han señalado— la proliferación de pisos turísticos ilegales y la acumulación de viviendas no responden a una ley del mercado, sino a una decisión política.",
+     "original": "Alhora, Compromís reclama posar límits clars a l’especulació mitjançant un registre obligatori de grans tenidors, recàrrecs progressius de l’IBI a partir de la tercera casa buida, inspeccions fiscals reforçades i una regulació estricta dels apartaments turístics, ja que —han assenyalat— la proliferació de pisos turístics il·legals i l’acumulació de llars no responen a una llei del mercat, sinó a una decisió política.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-02-04"
+    },
+    {
+     "id": "c-9770de4d41",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Siempre hemos forzado al PSOE a hacer políticas para subir el salario mínimo interprofesional, para subir las pensiones, para mejorar la situación de la gente, para frenar también los beneficios extraordinarios de las energéticas, de los bancos, de las multinacionales...",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-c85a3e5526",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha exigido un plan fiscal de lucha contra la evasión fiscal por parte de los rentistas con más inspectores y medios.",
+     "original": "Compromís ha exigit un pla fiscal de lluita contra l’evasió fiscal per part dels rendistes amb més inspectors i mitjans.",
+     "quien": "el partido, Nota de prensa oficial (PNL en el Congreso)",
+     "fecha": "2026-01-29"
+    },
+    {
+     "id": "c-6c30619bf8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Deberíamos poder aplicar una tasa turística como se aplica en muchos países de Europa: funciona, y es una recaudación que permite tener un turismo de calidad y sostenible, y también mejores inversiones para los servicios públicos que pueden disfrutar tanto los alicantinos como los visitantes.",
+     "quien": "María Teresa Pérez, Cabeza de lista por Alicante; secretaria general de Podem PV",
+     "fecha": "2026-11-07"
+    },
+    {
+     "id": "c-68c6ae233e",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha exigido al Ministerio de Hacienda incorporar la bajada del IVA del veterinario al 10% en los Presupuestos Generales del Estado.",
+     "original": "Compromís ha exigit al Ministeri d’Hisenda incorporar la baixada de l’IVA del veterinari al 10% en els Pressupostos Generals de l’Estat.",
+     "quien": "el partido, Nota de prensa oficial (PNL de Alberto Ibáñez)",
+     "fecha": "2026-08-06"
+    },
+    {
+     "id": "c-62e766fa97",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hemos registrado tanto preguntas parlamentarias como una proposición para garantizar que estas ayudas, las ayudas de la dana, no tributen en impuestos como, por ejemplo, el IRPF o que se pueda mantener el Ingreso Mínimo Vital u otras prestaciones sociales aunque se vea incrementado el patrimonio por estas ayudas",
+     "original": "Hem registrat tant preguntes parlamentàries com una proposició per a garantir que estes ajudes, les ajudes a la Dana, no tributen en impostos com, per exemple, l’IRPF o que es puga mantindre l’Ingrés Mínim Vital o altres prestacions socials encara que es veja incrementat el patrimoni per estes ajudes",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2025-12-23"
+    },
+    {
+     "id": "c-fc18391787",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Bajada de ratios, mejora de salarios, aulas climatizadas, más personal de apoyo, el profesorado valenciano está al límite y no puede más. El gobierno valenciano en lugar de bajar impuestos a los ricos debería apostar por la educación, usar todos los recursos en mejorar las condiciones de la pública",
+     "original": "Baixada de ràtios, millora de salaris, aules climatitzades, més personal de suport, el professorat valencià està al límit i no pot més. El govern valencià en comptes de baixar impostos als rics hauria d’apostar per l’educació usar tots els recursos a millorar les condicions de la pública",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-05-13"
+    },
+    {
+     "id": "c-dc0c9b4c2d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "España debe liderar tanto la derogación legislativa de las Directivas europeas 797 y 798 de 2016, que empujan a la liberalización del sector ferroviario, como acabar con los privilegios fiscales al sector de la aviación, lo que permitiría invertir más de 5.000 millones anuales en el sistema ferroviario",
+     "original": "Espanya ha de liderar tant la derogació legislativa de les Directives europees 797 i 798 de 2016 que espenten a l’alliberament del sector ferroviari com acabar amb els privilegis fiscals al sector de l’aviació el que permetria invertir més de 5.000 milions anuals en l’el sistema ferroviari",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso y número 2 por Valencia",
+     "fecha": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "tema": "economia",
+   "nombre": "Economía y empresas",
+   "definicion": "Industria, empresas, comercio, turismo, cuentas públicas y coste de la vida. Los impuestos y el empleo van aparte.",
+   "citas": [
+    {
+     "id": "c-6c30619bf8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Deberíamos poder aplicar una tasa turística como se aplica en muchos países de Europa: funciona, y es una recaudación que permite tener un turismo de calidad y sostenible, y también mejores inversiones para los servicios públicos que pueden disfrutar tanto los alicantinos como los visitantes.",
+     "quien": "María Teresa Pérez, Cabeza de lista por Alicante; secretaria general de Podem PV",
+     "fecha": "2026-11-07"
+    },
+    {
+     "id": "c-e675e4a0c7",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "topar el precio de la energía y los alimentos básicos",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-11-06"
+    },
+    {
+     "id": "c-d27e344d8a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "aprobar un nuevo escudo social, como se ha hecho en anteriores conflictos internacionales, que se base en la vivienda, la cesta de la compra, el transporte y la energía",
+     "original": "aprovar un nou escut social, com s’ha fet en anteriors conflictes internacionals, que es base en l’habitatge, la cistella de la compra, el transport i l’energia",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-03-04"
+    },
+    {
+     "id": "c-7186c1ba78",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay que diversificar la economía para tener sectores de alto valor añadido que permitan un trabajo de calidad, porque además está ocurriendo que está subiendo el precio de todo, pero no suben los salarios: sube la luz, la gasolina, el alquiler, las hipotecas, la compra de alimentos.",
+     "quien": "María Teresa Pérez, Cabeza de lista por Alicante; secretaria general de Podem PV",
+     "fecha": "2026-11-07"
+    },
+    {
+     "id": "c-44a81237e0",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Si exigimos derechos laborales, transición justa y verde, tenemos que proteger de la deslealtad de terceros",
+     "original": "Si exigim drets laborals, transició justa i verd hem de protegir de la deslleialtat de tercers",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso, miembro de la Comisión de Industria",
+     "fecha": "2026-01-15"
+    },
+    {
+     "id": "c-9c76b84618",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "no tomar decisiones valientes supone enfrentar a turistas y residentes. Medidas que no pueden recaer en la conciencia individual del turista, porque todos aspiramos a serlo, sino medidas estructurales planificadas de decrecimiento, cohesión y reindustrialización de nuestro país",
+     "original": "no prendre decisions valentes suposa enfrontar turistes i residents. Mesures que no poden recaure en la consciència individual del turista, perquè tots aspirem a ser-ho, sinó de mesures estructurals planificades de decreixement, cohesió i reindustrialització del nostre país",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-03-19"
+    },
+    {
+     "id": "c-251e5ef7da",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Nuestra propuesta era que, de media, alrededor del 60% del endeudamiento correspondiera a las comunidades autónomas. En el caso de los territorios infrafinanciados, como el País Valencià, reclamábamos que este porcentaje llegara al 90%.",
+     "original": "La nostra proposta era que, de mitjana, al voltant del 60% de l’endeutament corresponguera a les comunitats autònomes. En el cas dels territoris infrafinançats, com el País Valencià, reclamàvem que aquest percentatge arribara al 90%.",
+     "quien": "Àgueda Micó, Portavoz de Compromís en el Congreso",
+     "fecha": "2025-12-05"
+    },
+    {
+     "id": "c-08ae58a466",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hemos de pasar de una economía productiva con el turismo como clave, dejar de especular con el territorio y hacer una transición energética que vaya de la mano de la protección del territorio y de la vida en los pueblos...",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "nombre": "Sanidad",
+   "definicion": "Sanidad pública, listas de espera, atención primaria, salud mental y adicciones.",
+   "citas": [
+    {
+     "id": "c-a83340c723",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Aquí en Elche todavía queda Ribera Salud gestionando el hospital de Vinalopó, y creo que dimos un ejemplo con la reversión del hospital de Alzira que tiene que llegar más lejos: tenemos que conseguir una gestión directa pública de los hospitales de toda la Comunitat Valenciana.",
+     "quien": "María Teresa Pérez, Cabeza de lista por Alicante; secretaria general de Podem PV",
+     "fecha": "2026-11-07"
+    },
+    {
+     "id": "c-af27868140",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha exigido al Gobierno de España poner en marcha de forma urgente un mecanismo de compensación de la deuda sanitaria, cifrada en 1.117 millones de euros, que se le debe a la Generalitat Valenciana por parte de otras comunidades autónomas y otros países.",
+     "original": "Compromís ha exigit al Govern d’Espanya posar en marxa de forma urgent mecanisme de compensació del deute sanitari, xifrada en 1.117 milions d’euros, que se li deu a la Generalitat Valenciana per part d’altres comunitats autònomes i altres països.",
+     "quien": "el partido, Nota de prensa oficial (iniciativa de Alberto Ibáñez)",
+     "fecha": "2026-09-11"
+    },
+    {
+     "id": "c-2f59f17ddf",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Para llegar, por ponerte un ejemplo, a la media nacional de enfermeros haría falta meter 2.000 enfermeros en los centros de salud y en los hospitales.",
+     "quien": "María Teresa Pérez, Cabeza de lista por Alicante; secretaria general de Podem PV",
+     "fecha": "2026-11-07"
+    },
+    {
+     "id": "c-fafe3fa836",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Necesitamos que los servicios públicos sean de calidad, que no haya que pagar 30.000 euros por una operación, hemos visto la lucha del profesorado...",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-27694ff3a2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha exigido al Gobierno tener en cuenta la situación de infrafinanciación que sufren los valencianos, así como la alta incidencia de la emergencia climática en el País Valencià a la hora de repartir el fondo extraordinario de 368 millones de euros para climatizar colegios, institutos y centros sanitarios.",
+     "original": "Compromís ha exigit al Govern tindre en compte la situació d’infrafinançament que pateixen els valencians, així com l’alta incidència de l’emergència climàtica al País Valencià a l’hora de repartir el fons extraordinari de 368 milions d’euros per a climatitzar col·legis, instituts i centres sanitaris.",
+     "quien": "el partido, Nota de prensa oficial (iniciativa de Alberto Ibáñez)",
+     "fecha": "2026-06-10"
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "nombre": "Educación",
+   "definicion": "Escuela, formación profesional, universidad y becas.",
+   "citas": [
+    {
+     "id": "c-fafe3fa836",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Necesitamos que los servicios públicos sean de calidad, que no haya que pagar 30.000 euros por una operación, hemos visto la lucha del profesorado...",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-fc18391787",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Bajada de ratios, mejora de salarios, aulas climatizadas, más personal de apoyo, el profesorado valenciano está al límite y no puede más. El gobierno valenciano en lugar de bajar impuestos a los ricos debería apostar por la educación, usar todos los recursos en mejorar las condiciones de la pública",
+     "original": "Baixada de ràtios, millora de salaris, aules climatitzades, més personal de suport, el professorat valencià està al límit i no pot més. El govern valencià en comptes de baixar impostos als rics hauria d’apostar per l’educació usar tots els recursos a millorar les condicions de la pública",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-05-13"
+    },
+    {
+     "id": "c-27694ff3a2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha exigido al Gobierno tener en cuenta la situación de infrafinanciación que sufren los valencianos, así como la alta incidencia de la emergencia climática en el País Valencià a la hora de repartir el fondo extraordinario de 368 millones de euros para climatizar colegios, institutos y centros sanitarios.",
+     "original": "Compromís ha exigit al Govern tindre en compte la situació d’infrafinançament que pateixen els valencians, així com l’alta incidència de l’emergència climàtica al País Valencià a l’hora de repartir el fons extraordinari de 368 milions d’euros per a climatitzar col·legis, instituts i centres sanitaris.",
+     "quien": "el partido, Nota de prensa oficial (iniciativa de Alberto Ibáñez)",
+     "fecha": "2026-06-10"
+    }
+   ]
+  },
+  {
+   "tema": "familias-y-cuidados",
+   "nombre": "Familias y servicios sociales",
+   "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
+   "citas": [
+    {
+     "id": "c-62e766fa97",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hemos registrado tanto preguntas parlamentarias como una proposición para garantizar que estas ayudas, las ayudas de la dana, no tributen en impuestos como, por ejemplo, el IRPF o que se pueda mantener el Ingreso Mínimo Vital u otras prestaciones sociales aunque se vea incrementado el patrimonio por estas ayudas",
+     "original": "Hem registrat tant preguntes parlamentàries com una proposició per a garantir que estes ajudes, les ajudes a la Dana, no tributen en impostos com, per exemple, l’IRPF o que es puga mantindre l’Ingrés Mínim Vital o altres prestacions socials encara que es veja incrementat el patrimoni per estes ajudes",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2025-12-23"
+    },
+    {
+     "id": "c-e675e4a0c7",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "topar el precio de la energía y los alimentos básicos",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-11-06"
+    },
+    {
+     "id": "c-d1bba64db6",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Compromís ha conseguido que el Estado aporte el 50% de la financiación de la ley de dependencia para 2027.",
+     "original": "Compromís ha aconseguit que l’Estat aporte el 50% del finançament de la llei de dependència per al 2027.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-06-26"
+    },
+    {
+     "id": "c-ff8c0a0620",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Cuando más familias necesitan ayuda para llenar la nevera o pagar los recibos, lo que toca es reforzar los servicios sociales",
+     "quien": "Ignasi Garcia, Candidato al Congreso por Castellón",
+     "fecha": "2026-11-10"
+    },
+    {
+     "id": "c-68095707d6",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Pero el objetivo principal es ser útiles: defender los derechos sociales, de las mujeres, de la comunidad LGTBI, de las personas dependientes, de las personas vulnerables y de la clase trabajadora.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "nombre": "Inmigración",
+   "definicion": "Entrada y control de fronteras, regularización, integración, asilo, nacionalidad y emigración.",
+   "citas": [
+    {
+     "id": "c-dfb2f63ebc",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha exigido al Gobierno de España ampliar el plazo de regularización de personas migrantes, que acaba hoy mismo, ante el aviso del Tribunal Supremo de paralizar todo el proceso por colisionar contra la Unión Europea.",
+     "original": "Compromís ha exigit al Govern d’Espanya ampliar el termini de regularització de persones migrants, que acaba hui mateix, davant l’advertiment del Tribunal Suprem de paralitzar tot el procés per col·lidir contra la Unió Europea.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-06-30"
+    },
+    {
+     "id": "c-ddfd7b3c75",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay que ampliar derechos a la gente migrante de nuestro país, proteger a nuestros vecinos y tratarlos con el respeto que merecen",
+     "original": "Cal ampliar drets a la gent migrant del nostre país, protegir els nostres veïns i tractar-los amb el respecte que mereixen",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-06-30"
+    },
+    {
+     "id": "c-d0040ca94e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La igualdad de trato no es opcional y los derechos no pueden convertirse en moneda de cambio para alimentar un discurso discriminatorio",
+     "original": "La igualtat de tracte no és opcional i els drets no poden convertir-se en moneda de canvi per a alimentar un discurs discriminatori",
+     "quien": "Vicent Marzà, Eurodiputado de Compromís (Verdes/ALE)",
+     "fecha": "2026-10-13"
+    }
+   ]
+  },
+  {
+   "tema": "seguridad-y-justicia",
+   "nombre": "Seguridad y justicia",
+   "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
+   "citas": [
+    {
+     "id": "c-62e766fa97",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hemos registrado tanto preguntas parlamentarias como una proposición para garantizar que estas ayudas, las ayudas de la dana, no tributen en impuestos como, por ejemplo, el IRPF o que se pueda mantener el Ingreso Mínimo Vital u otras prestaciones sociales aunque se vea incrementado el patrimonio por estas ayudas",
+     "original": "Hem registrat tant preguntes parlamentàries com una proposició per a garantir que estes ajudes, les ajudes a la Dana, no tributen en impostos com, per exemple, l’IRPF o que es puga mantindre l’Ingrés Mínim Vital o altres prestacions socials encara que es veja incrementat el patrimoni per estes ajudes",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2025-12-23"
+    },
+    {
+     "id": "c-727ef16d15",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La propuesta de Compromís pide al Gobierno que reconozca de manera expresa que la violencia de extrema derecha puede constituir terrorismo cuando cumpla los requisitos establecidos en la Ley 29/2011, y que garantice que estas víctimas tengan acceso al mismo sistema de reconocimiento, protección y reparación que el resto.",
+     "original": "La proposta de Compromís demana al Govern que reconega de manera expressa que la violència d’extrema dreta pot constituir terrorisme quan complisca els requisits establits en la Llei 29/2011, i que garantisca que estes víctimes tinguen accés al mateix sistema de reconeixement, protecció i reparació que la resta.",
+     "quien": "el partido, Nota de prensa oficial (PNL de Àgueda Micó)",
+     "fecha": "2026-04-10"
+    },
+    {
+     "id": "c-a73ed5d27f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Queremos saber quién dio las órdenes, con qué criterios se produjeron las cargas y si se respetó el principio de proporcionalidad. Investigar la actuación policial no significa cuestionar la tarea de los agentes, sino exigir que también las actuaciones de los poderes públicos estén sometidas a garantías y controles",
+     "original": "Volem saber qui va donar les ordres, amb quins criteris es van produir les càrregues i si es va respectar el principi de proporcionalitat. Investigar l’actuació policial no significa qüestionar la tasca dels agents, sinó exigir que també les actuacions dels poders públics estiguen sotmeses a garanties i controls",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-10-05"
+    },
+    {
+     "id": "c-7232608fb4",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Hasta ahora hemos abordado la parte de las responsabilidades, las víctimas y sus familias necesitan verdad, justicia y reparación, y también que se adopten medidas para que no vuelva a suceder. Para ello necesitamos inversión y una política estatal de prevención y protección del territorio, una mirada para que no suceda lo mismo en próximas danas, como en La Safor y la Marina Alta de esta semana, que hemos visto protocolos.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-542bf3516d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para nosotros hay una cuestión clave en la agenda valenciana: que la comisión de investigación de la dana acabe su trabajo.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-726e0ddae2",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay que reconstruir sabiendo que el cambio climático actúa con virulencia, atendiendo al curso del agua y las zonas inundables",
+     "original": "Cal reconstruir sabent que el canvi climàtic actua amb virulència, atenent el curs de l’aigua i les zones inundables",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-e644d0a22a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si tienen mecanismos para volver a llevar los decretos de vivienda a la Diputación Permanente, que aprovechen también para hacer lo que llevan años aplazando: derogar la Ley Mordaza.",
+     "original": "Si tenen mecanismes per tornar a portar els decrets de vivenda a la Diputació Permanent, que aprofiten també per fer allò que porten anys ajornant: derogar la Llei Mordassa.",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-10-05"
+    },
+    {
+     "id": "c-61c4b84f5a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Reconocer casos como el de Guillem Agulló no es solo una cuestión de justicia individual, sino una necesidad democrática. No puede haber víctimas de primera y de segunda según la ideología del agresor",
+     "original": "Reconéixer casos com el de Guillem Agulló no és només una qüestió de justícia individual, sinó una necessitat democràtica. No pot haver víctimes de primera i de segona segons la ideologia de l’agressor",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-04-10"
+    }
+   ]
+  },
+  {
+   "tema": "democracia-e-instituciones",
+   "nombre": "Democracia e instituciones",
+   "definicion": "Funcionamiento de las instituciones, corrupción, transparencia, sistema electoral, administración pública y medios de comunicación.",
+   "citas": [
+    {
+     "id": "c-99aed75cd9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Durante esta legislatura, el PP y Vox han utilizado su mayoría para intentar tumbar medidas aprobadas en el Congreso, como la revalorización de las pensiones, la subida del salario mínimo, iniciativas para limitar los beneficios de grandes empresas y normas relacionadas con la sanidad pública o los derechos sociales. Una mayoría progresista en el Senado puede proteger esas medidas y permitir que sigan adelante.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-542bf3516d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para nosotros hay una cuestión clave en la agenda valenciana: que la comisión de investigación de la dana acabe su trabajo.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-60d44f953f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "RTVE, más que una televisión, es un servicio público y tiene la obligación de reflejar el pluralismo territorial y cultural en su programación",
+     "original": "RTVE, més que una televisió, és un servei públic i té l’obligació de reflectir el pluralisme territorial i cultural en la seua programació",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-04-07"
+    },
+    {
+     "id": "c-486abbfa45",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Se trata de asegurar que los medios públicos representen de manera equilibrada la diversidad cultural del Estado, sin sesgos ni desequilibrios territoriales",
+     "original": "Es tracta d’assegurar que els mitjans públics representen de manera equilibrada la diversitat cultural de l’Estat, sense biaixos ni desequilibris territorials",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-04-07"
+    }
+   ]
+  },
+  {
+   "tema": "organizacion-territorial",
+   "nombre": "Organización territorial",
+   "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+   "citas": [
+    {
+     "id": "c-af27868140",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha exigido al Gobierno de España poner en marcha de forma urgente un mecanismo de compensación de la deuda sanitaria, cifrada en 1.117 millones de euros, que se le debe a la Generalitat Valenciana por parte de otras comunidades autónomas y otros países.",
+     "original": "Compromís ha exigit al Govern d’Espanya posar en marxa de forma urgent mecanisme de compensació del deute sanitari, xifrada en 1.117 milions d’euros, que se li deu a la Generalitat Valenciana per part d’altres comunitats autònomes i altres països.",
+     "quien": "el partido, Nota de prensa oficial (iniciativa de Alberto Ibáñez)",
+     "fecha": "2026-09-11"
+    },
+    {
+     "id": "c-d1bba64db6",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Compromís ha conseguido que el Estado aporte el 50% de la financiación de la ley de dependencia para 2027.",
+     "original": "Compromís ha aconseguit que l’Estat aporte el 50% del finançament de la llei de dependència per al 2027.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-06-26"
+    },
+    {
+     "id": "c-fadc008e44",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Diputados y diputadas valencianos del Partido Socialista y también del Partido Popular, es una hoja de ruta que quiere acabar con esa infrainversión, con esa infraejecución y abrir formalmente el procedimiento para que la transferencia de Cercanías se haga a la Generalitat Valenciana, con un calendario cerrado y con el 100 % del coste garantizado.",
+     "original": "Diputats i diputades valencianes del Partit Socialista i també del Partit Popular, és un full de ruta que vol acabar amb eixa infrainversió, amb eixa infraexecució i obrir formalment el procediment per a que la transferència de Rodalies es faça a la Generalitat Valenciana, amb un calendari tancat i amb el 100 % del cost garantit.",
+     "quien": "Àgueda Micó, Diputada en el Congreso (Grupo Mixto)",
+     "fecha": "2026-02-25"
+    },
+    {
+     "id": "c-251e5ef7da",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Nuestra propuesta era que, de media, alrededor del 60% del endeudamiento correspondiera a las comunidades autónomas. En el caso de los territorios infrafinanciados, como el País Valencià, reclamábamos que este porcentaje llegara al 90%.",
+     "original": "La nostra proposta era que, de mitjana, al voltant del 60% de l’endeutament corresponguera a les comunitats autònomes. En el cas dels territoris infrafinançats, com el País Valencià, reclamàvem que aquest percentatge arribara al 90%.",
+     "quien": "Àgueda Micó, Portavoz de Compromís en el Congreso",
+     "fecha": "2025-12-05"
+    },
+    {
+     "id": "c-2e146f71b1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Necesitamos concretar ya el nuevo modelo de financiación, tenemos una buena base con el incremento anual de 3.669 millones de euros para los servicios públicos, reindustrialización y lucha contra el cambio climático, ahora falta mejorar la condonación de la deuda actual de 11.000 millones",
+     "original": "Necessitem concretar ja el nou model de finançament, tenim una bona base amb l’increment anual de 3.669 milions d’euros per als serveis públics, reindustrialització i lluita contra el canvi climàtic, ara falta millorar la condonació del deute actual de 11.000 milions",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-07-06"
+    },
+    {
+     "id": "c-31e8008870",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Tiene que tener voz propia y capacidad para defender los intereses del pueblo valenciano: una financiación justa, unas infraestructuras dignas, nuestra lengua y cultura y unos servicios públicos de calidad.",
+     "original": "Ha de tindre veu pròpia i capacitat per a defensar els interessos del poble valencià: un finançament just, unes infraestructures dignes, la nostra llengua i cultura i uns serveis públics de qualitat.",
+     "quien": "el partido, Declaración de la Ejecutiva de Compromís",
+     "fecha": "2026-10-06"
+    },
+    {
+     "id": "c-a1e134adcd",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El traspaso de competencias supone una manera de continuar avanzando y protegiendo a los valencianos y valencianas",
+     "original": "El traspàs de competències suposa una manera de continuar avançant i protegint els valencians i valencianes",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-03-27"
+    }
+   ]
+  },
+  {
+   "tema": "medio-ambiente-y-energia",
+   "nombre": "Medio ambiente y energía",
+   "definicion": "Clima, energía, agua, contaminación, costas, montes, protección de la naturaleza y bienestar animal.",
+   "citas": [
+    {
+     "id": "c-27694ff3a2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha exigido al Gobierno tener en cuenta la situación de infrafinanciación que sufren los valencianos, así como la alta incidencia de la emergencia climática en el País Valencià a la hora de repartir el fondo extraordinario de 368 millones de euros para climatizar colegios, institutos y centros sanitarios.",
+     "original": "Compromís ha exigit al Govern tindre en compte la situació d’infrafinançament que pateixen els valencians, així com l’alta incidència de l’emergència climàtica al País Valencià a l’hora de repartir el fons extraordinari de 368 milions d’euros per a climatitzar col·legis, instituts i centres sanitaris.",
+     "quien": "el partido, Nota de prensa oficial (iniciativa de Alberto Ibáñez)",
+     "fecha": "2026-06-10"
+    },
+    {
+     "id": "c-7232608fb4",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Hasta ahora hemos abordado la parte de las responsabilidades, las víctimas y sus familias necesitan verdad, justicia y reparación, y también que se adopten medidas para que no vuelva a suceder. Para ello necesitamos inversión y una política estatal de prevención y protección del territorio, una mirada para que no suceda lo mismo en próximas danas, como en La Safor y la Marina Alta de esta semana, que hemos visto protocolos.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-08ae58a466",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hemos de pasar de una economía productiva con el turismo como clave, dejar de especular con el territorio y hacer una transición energética que vaya de la mano de la protección del territorio y de la vida en los pueblos...",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-dcd7f729b5",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Tenemos que aprovechar al máximo tejados y cubiertas, pero también el autoconsumo compartido en suelo, para así disminuir la dependencia de las pymes y los pequeños productores de la red, eliminando barreras a su instalación y facilitar su vertido al mercado",
+     "original": "Hem d’aprofitar al màxim teulades i cobertes, però també l’autoconsum compartit en sòl, per a així disminuir la dependència de les Pimes i els xicotets productors de la xarxa, eliminant barreres a la seua instal·lació i facilitar el seu abocament al mercat",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-03-11"
+    },
+    {
+     "id": "c-9be47168a1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha instado a cumplir con el cierre en 2030 de la central nuclear de Cofrents “sin alargar su vida un día más” y ha hecho un llamamiento al fomento de las energías renovables dentro de una batería de medidas que el diputado de la coalición valencianista en el Congreso, Alberto Ibáñez, anunció ayer.",
+     "original": "Compromís ha instat a complir amb el tancament en 2030 de la central nuclear de Cofrents “sense allargar la seua vida un dia més” i ha fet una crida al foment de les energies renovables dins d’una bateria de mesures que el diputat de la coalició valencianista en el Congrés, Alberto Ibáñez, va anunciar ahir.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-03-11"
+    },
+    {
+     "id": "c-1eaed8c04a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Compromís reitera que comparte plenamente la necesidad de acelerar el despliegue de las energías renovables para hacer frente a la emergencia climática, pero defiende que este proceso debe planificarse con criterios de equilibrio territorial, participación de los municipios y protección del suelo agrario de alto valor productivo, priorizando espacios ya degradados, cubiertas industriales y otras zonas antropizadas antes que terrenos agrícolas en explotación.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-07-02"
+    },
+    {
+     "id": "c-726e0ddae2",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay que reconstruir sabiendo que el cambio climático actúa con virulencia, atendiendo al curso del agua y las zonas inundables",
+     "original": "Cal reconstruir sabent que el canvi climàtic actua amb virulència, atenent el curs de l’aigua i les zones inundables",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-10-21"
+    },
+    {
+     "id": "c-2436d3ff61",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "desde Compromís Front Valencià se incluirá la modificación de la ley de bienestar animal para que los perros de caza estén igual de protegidos que el resto de animales",
+     "original": "des de Compromís Front Valencià s’inclourà la modificació de la llei de benestar animal per als gossos de caça estiguen igual de protegits que la resta d’animals",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso y número 2 por Valencia",
+     "fecha": "2026-11-06"
+    },
+    {
+     "id": "c-cfaf4bda08",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Este billete único permite que las personas jóvenes con 30 euros puedan acceder a cercanías, metro, autobús o alquiler de bicicleta para desplazarse. Las personas adultas por 60 euros",
+     "original": "Aquest bitllet únic permet que les persones joves amb 30 euros puguen accedir al rodalia, al metro, a l’autobús o al lloguer de bicicleta per a traslladar-se. Les persones adultes per 60 euros",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-09-18"
+    },
+    {
+     "id": "c-db56ced0ba",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Más pasajeros sin ampliar los servicios que usan son más colapso de Metrovalencia, más atascos en las carreteras, más tensión en nuestros servicios públicos y, por supuesto, más ruido y más efectos no deseados del turismo: más vivienda turística y menos para las familias",
+     "original": "Més passatgers sense ampliar els serveis que usen són més col·lapse de Metrovalencia, més embossos en les carreteres, més tensió en els nostres serveis públics i, per descomptat, més soroll i més efectes no desitjats del turisme: més habitatge turístic i menys per a les famílies",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-09-09"
+    },
+    {
+     "id": "c-4b47947170",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha exigido al Ministerio de Transportes un plan de climatización para las estaciones de tren con una dotación de 650 millones de euros.",
+     "original": "Compromís ha exigit al Ministeri de Transports un pla de climatització per a les estacions de tren amb una dotació de 650 milions d’euros.",
+     "quien": "el partido, Nota de prensa oficial (iniciativa de Alberto Ibáñez)",
+     "fecha": "2026-07-02"
+    }
+   ]
+  },
+  {
+   "tema": "campo-y-medio-rural",
+   "nombre": "Campo y medio rural",
+   "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+   "citas": [
+    {
+     "id": "c-85f3064a40",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso propone la creación de un Fondo Rural de Vivienda para rehabilitar viviendas vacías y convertirlas en alquiler asequible, ayudas a fondo perdido en municipios en riesgo de despoblación, un Bono Reforma Rural y la vinculación de la vivienda a servicios básicos como la fibra óptica, el transporte público y la eficiencia energética.",
+     "original": "Per això proposa la creació d’un Fons Rural d’Habitatge per rehabilitar vivendes buides i convertir-les en lloguer assequible, ajudes a fons perdut en municipis en risc de despoblament, un Bo Reforma Rural i la vinculació de l’habitatge a serveis bàsics com la fibra òptica, el transport públic i l’eficiència energètica.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-02-04"
+    },
+    {
+     "id": "c-08ae58a466",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hemos de pasar de una economía productiva con el turismo como clave, dejar de especular con el territorio y hacer una transición energética que vaya de la mano de la protección del territorio y de la vida en los pueblos...",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-1eaed8c04a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Compromís reitera que comparte plenamente la necesidad de acelerar el despliegue de las energías renovables para hacer frente a la emergencia climática, pero defiende que este proceso debe planificarse con criterios de equilibrio territorial, participación de los municipios y protección del suelo agrario de alto valor productivo, priorizando espacios ya degradados, cubiertas industriales y otras zonas antropizadas antes que terrenos agrícolas en explotación.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-07-02"
+    },
+    {
+     "id": "c-f308fc28f0",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tenemos que cuidar la cadena alimentaria, que por ley no se pueda vender a pérdidas, que se garantice siempre un mínimo para que puedan continuar trabajando, que tengan en cuenta la idiosincrasia valenciana de pequeños productores y mejorar nuestra situación en la PAC, para acabar con la competencia desleal de otros productos que vienen de otras partes del mundo",
+     "original": "Hem de cuidar la cadena alimentària, que per llei no es puga vendre a pèrdues, que es garantisca sempre un mínim perquè puguen continuar treballant, que tinguen en compte la idiosincràsia valenciana de xicotets productors i millorar la nostra situació en la PAC, per a acabar amb la competència deslleial d’altres productes que venen d’altres parts del món",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-90e0ab551d",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Para nosotros, el campo es una cuestión de país, de justicia social, de futuro y de soberanía alimentaria",
+     "original": "Per a nosaltres, el camp és una qüestió de país, de justícia social, de futur i de sobirania alimentària",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-7b7b5f3870",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay una ley de cadena alimentaria que dice que los agricultores tienen que recibir al menos lo que les cuesta producir esos cultivos, y eso no se está cumpliendo.",
+     "quien": "María Teresa Pérez, Cabeza de lista por Alicante; secretaria general de Podem PV",
+     "fecha": "2026-11-07"
+    },
+    {
+     "id": "c-2436d3ff61",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "desde Compromís Front Valencià se incluirá la modificación de la ley de bienestar animal para que los perros de caza estén igual de protegidos que el resto de animales",
+     "original": "des de Compromís Front Valencià s’inclourà la modificació de la llei de benestar animal per als gossos de caça estiguen igual de protegits que la resta d’animals",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso y número 2 por Valencia",
+     "fecha": "2026-11-06"
+    },
+    {
+     "id": "c-83e72a16f7",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por ello, Compromís y CHA reclaman que el Gobierno rehaga el Estudio Informativo incorporando como condición irrenunciable la doble vía electrificada y de uso mixto para viajeros y mercancías y una verdadera modernización del trazado.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-09-16"
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "nombre": "Transporte e infraestructuras",
+   "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+   "citas": [
+    {
+     "id": "c-d27e344d8a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "aprobar un nuevo escudo social, como se ha hecho en anteriores conflictos internacionales, que se base en la vivienda, la cesta de la compra, el transporte y la energía",
+     "original": "aprovar un nou escut social, com s’ha fet en anteriors conflictes internacionals, que es base en l’habitatge, la cistella de la compra, el transport i l’energia",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-03-04"
+    },
+    {
+     "id": "c-fadc008e44",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Diputados y diputadas valencianos del Partido Socialista y también del Partido Popular, es una hoja de ruta que quiere acabar con esa infrainversión, con esa infraejecución y abrir formalmente el procedimiento para que la transferencia de Cercanías se haga a la Generalitat Valenciana, con un calendario cerrado y con el 100 % del coste garantizado.",
+     "original": "Diputats i diputades valencianes del Partit Socialista i també del Partit Popular, és un full de ruta que vol acabar amb eixa infrainversió, amb eixa infraexecució i obrir formalment el procediment per a que la transferència de Rodalies es faça a la Generalitat Valenciana, amb un calendari tancat i amb el 100 % del cost garantit.",
+     "quien": "Àgueda Micó, Diputada en el Congreso (Grupo Mixto)",
+     "fecha": "2026-02-25"
+    },
+    {
+     "id": "c-dbd5be03c1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para ello, urge renacionalizar el sistema ferroviario como en Inglaterra y dejar atrás la liberalización fallida del sistema de alta velocidad",
+     "original": "Per a això, urgeix renacionalitzar el sistema ferroviari com a Anglaterra i deixar arrere la liberalització fallida del sistema d’alta velocitat",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso y número 2 por Valencia",
+     "fecha": "2026-10-31"
+    },
+    {
+     "id": "c-dc0c9b4c2d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "España debe liderar tanto la derogación legislativa de las Directivas europeas 797 y 798 de 2016, que empujan a la liberalización del sector ferroviario, como acabar con los privilegios fiscales al sector de la aviación, lo que permitiría invertir más de 5.000 millones anuales en el sistema ferroviario",
+     "original": "Espanya ha de liderar tant la derogació legislativa de les Directives europees 797 i 798 de 2016 que espenten a l’alliberament del sector ferroviari com acabar amb els privilegis fiscals al sector de l’aviació el que permetria invertir més de 5.000 milions anuals en l’el sistema ferroviari",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso y número 2 por Valencia",
+     "fecha": "2026-10-31"
+    },
+    {
+     "id": "c-83e72a16f7",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por ello, Compromís y CHA reclaman que el Gobierno rehaga el Estudio Informativo incorporando como condición irrenunciable la doble vía electrificada y de uso mixto para viajeros y mercancías y una verdadera modernización del trazado.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-09-16"
+    },
+    {
+     "id": "c-cfaf4bda08",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Este billete único permite que las personas jóvenes con 30 euros puedan acceder a cercanías, metro, autobús o alquiler de bicicleta para desplazarse. Las personas adultas por 60 euros",
+     "original": "Aquest bitllet únic permet que les persones joves amb 30 euros puguen accedir al rodalia, al metro, a l’autobús o al lloguer de bicicleta per a traslladar-se. Les persones adultes per 60 euros",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-09-18"
+    },
+    {
+     "id": "c-db56ced0ba",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Más pasajeros sin ampliar los servicios que usan son más colapso de Metrovalencia, más atascos en las carreteras, más tensión en nuestros servicios públicos y, por supuesto, más ruido y más efectos no deseados del turismo: más vivienda turística y menos para las familias",
+     "original": "Més passatgers sense ampliar els serveis que usen són més col·lapse de Metrovalencia, més embossos en les carreteres, més tensió en els nostres serveis públics i, per descomptat, més soroll i més efectes no desitjats del turisme: més habitatge turístic i menys per a les famílies",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-09-09"
+    },
+    {
+     "id": "c-4b47947170",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Compromís ha exigido al Ministerio de Transportes un plan de climatización para las estaciones de tren con una dotación de 650 millones de euros.",
+     "original": "Compromís ha exigit al Ministeri de Transports un pla de climatització per a les estacions de tren amb una dotació de 650 milions d’euros.",
+     "quien": "el partido, Nota de prensa oficial (iniciativa de Alberto Ibáñez)",
+     "fecha": "2026-07-02"
+    }
+   ]
+  },
+  {
+   "tema": "igualdad-y-derechos",
+   "nombre": "Igualdad y derechos",
+   "definicion": "Igualdad entre mujeres y hombres, violencia machista, derechos LGTBI, libertades civiles, memoria democrática y relación con las religiones.",
+   "citas": [
+    {
+     "id": "c-f3baf7d696",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y siguiendo con el programa: hemos de proteger cuestiones tan básicas como el blindaje constitucional de las pensiones, del derecho al aborto, los derechos de las mujeres y de la comunidad LGTBI.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-727ef16d15",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La propuesta de Compromís pide al Gobierno que reconozca de manera expresa que la violencia de extrema derecha puede constituir terrorismo cuando cumpla los requisitos establecidos en la Ley 29/2011, y que garantice que estas víctimas tengan acceso al mismo sistema de reconocimiento, protección y reparación que el resto.",
+     "original": "La proposta de Compromís demana al Govern que reconega de manera expressa que la violència d’extrema dreta pot constituir terrorisme quan complisca els requisits establits en la Llei 29/2011, i que garantisca que estes víctimes tinguen accés al mateix sistema de reconeixement, protecció i reparació que la resta.",
+     "quien": "el partido, Nota de prensa oficial (PNL de Àgueda Micó)",
+     "fecha": "2026-04-10"
+    },
+    {
+     "id": "c-a73ed5d27f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Queremos saber quién dio las órdenes, con qué criterios se produjeron las cargas y si se respetó el principio de proporcionalidad. Investigar la actuación policial no significa cuestionar la tarea de los agentes, sino exigir que también las actuaciones de los poderes públicos estén sometidas a garantías y controles",
+     "original": "Volem saber qui va donar les ordres, amb quins criteris es van produir les càrregues i si es va respectar el principi de proporcionalitat. Investigar l’actuació policial no significa qüestionar la tasca dels agents, sinó exigir que també les actuacions dels poders públics estiguen sotmeses a garanties i controls",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-10-05"
+    },
+    {
+     "id": "c-e644d0a22a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si tienen mecanismos para volver a llevar los decretos de vivienda a la Diputación Permanente, que aprovechen también para hacer lo que llevan años aplazando: derogar la Ley Mordaza.",
+     "original": "Si tenen mecanismes per tornar a portar els decrets de vivenda a la Diputació Permanent, que aprofiten també per fer allò que porten anys ajornant: derogar la Llei Mordassa.",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-10-05"
+    },
+    {
+     "id": "c-68095707d6",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Pero el objetivo principal es ser útiles: defender los derechos sociales, de las mujeres, de la comunidad LGTBI, de las personas dependientes, de las personas vulnerables y de la clase trabajadora.",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-10-25"
+    },
+    {
+     "id": "c-61c4b84f5a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Reconocer casos como el de Guillem Agulló no es solo una cuestión de justicia individual, sino una necesidad democrática. No puede haber víctimas de primera y de segunda según la ideología del agresor",
+     "original": "Reconéixer casos com el de Guillem Agulló no és només una qüestió de justícia individual, sinó una necessitat democràtica. No pot haver víctimes de primera i de segona segons la ideologia de l’agressor",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-04-10"
+    }
+   ]
+  },
+  {
+   "tema": "politica-exterior-y-defensa",
+   "nombre": "Política exterior y defensa",
+   "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
+   "citas": [
+    {
+     "id": "c-f308fc28f0",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tenemos que cuidar la cadena alimentaria, que por ley no se pueda vender a pérdidas, que se garantice siempre un mínimo para que puedan continuar trabajando, que tengan en cuenta la idiosincrasia valenciana de pequeños productores y mejorar nuestra situación en la PAC, para acabar con la competencia desleal de otros productos que vienen de otras partes del mundo",
+     "original": "Hem de cuidar la cadena alimentària, que per llei no es puga vendre a pèrdues, que es garantisca sempre un mínim perquè puguen continuar treballant, que tinguen en compte la idiosincràsia valenciana de xicotets productors i millorar la nostra situació en la PAC, per a acabar amb la competència deslleial d’altres productes que venen d’altres parts del món",
+     "quien": "Àgueda Micó, Diputada en el Congreso y cabeza de lista por Valencia",
+     "fecha": "2026-11-05"
+    },
+    {
+     "id": "c-dc0c9b4c2d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "España debe liderar tanto la derogación legislativa de las Directivas europeas 797 y 798 de 2016, que empujan a la liberalización del sector ferroviario, como acabar con los privilegios fiscales al sector de la aviación, lo que permitiría invertir más de 5.000 millones anuales en el sistema ferroviario",
+     "original": "Espanya ha de liderar tant la derogació legislativa de les Directives europees 797 i 798 de 2016 que espenten a l’alliberament del sector ferroviari com acabar amb els privilegis fiscals al sector de l’aviació el que permetria invertir més de 5.000 milions anuals en l’el sistema ferroviari",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso y número 2 por Valencia",
+     "fecha": "2026-10-31"
+    },
+    {
+     "id": "c-e0573e224d",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "orgullosos del no a la guerra, orgullosos de defender los valores europeos y no entrar en una guerra ilegal que vulnera el derecho internacional",
+     "original": "orgullosos del no a la guerra, orgullosos de defensar els valors europeus i no entrar en una guerra il·legal que vulnera el dret internacional",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2026-03-04"
+    },
+    {
+     "id": "c-0a85a71c7c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Hay que salir a la calle para reclamar justicia y presionar a nuestros gobiernos para que tomen medidas concretas, como el corte de toda relación comercial y militar con Israel, y que el reconocimiento del Estado palestino sea realmente efectivo y no solo una mera declaración.",
+     "original": "Cal eixir al carrer per reclamar justícia i pressionar els nostres governs perquè prenguen mesures concretes, com el tall de tota relació comercials i militar amb Israel, i que el reconeixement de l’Estat palestí siga realment efectiu i no només una mera declaració.",
+     "quien": "el partido, Nota de prensa oficial (portavoces de la coalición)",
+     "fecha": "2025-10-04"
+    },
+    {
+     "id": "c-efd4649eed",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los siguientes pasos deben ser romper cualquier tipo de relación comercial, política y diplomática con un estado genocida.",
+     "original": "Els següents pasos han de ser trencar qualsevol tipus de relació comercial, política i diplomática amb un estat genocida.",
+     "quien": "Alberto Ibáñez, Diputado en el Congreso (Grupo Plurinacional Sumar)",
+     "fecha": "2025-05-21"
+    },
+    {
+     "id": "c-dc9bc37bb2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si el ministerio no quiere transferir ahora mismo la propiedad, como mínimo tiene que ceder su uso. Lo que no puede hacer es mantener un espacio público prácticamente cerrado a la ciudadanía por inercia",
+     "original": "Si el ministeri no vol transferir ara mateix la propietat, com a mínim ha de cedir-ne l’ús. El que no pot fer és mantindre un espai públic pràcticament tancat a la ciutadania per inèrcia",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-08-24"
+    }
+   ]
+  },
+  {
+   "tema": "ciencia-cultura-y-digital",
+   "nombre": "Ciencia, cultura y digital",
+   "definicion": "Investigación, tecnología e inteligencia artificial, cultura y deporte.",
+   "citas": [
+    {
+     "id": "c-60d44f953f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "RTVE, más que una televisión, es un servicio público y tiene la obligación de reflejar el pluralismo territorial y cultural en su programación",
+     "original": "RTVE, més que una televisió, és un servei públic i té l’obligació de reflectir el pluralisme territorial i cultural en la seua programació",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-04-07"
+    },
+    {
+     "id": "c-31e8008870",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Tiene que tener voz propia y capacidad para defender los intereses del pueblo valenciano: una financiación justa, unas infraestructuras dignas, nuestra lengua y cultura y unos servicios públicos de calidad.",
+     "original": "Ha de tindre veu pròpia i capacitat per a defensar els interessos del poble valencià: un finançament just, unes infraestructures dignes, la nostra llengua i cultura i uns serveis públics de qualitat.",
+     "quien": "el partido, Declaración de la Ejecutiva de Compromís",
+     "fecha": "2026-10-06"
+    },
+    {
+     "id": "c-f6ec519534",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los diputados de Compromís en el Congreso, Àgueda Micó y Alberto Ibáñez, junto con el diputado de Esquerra Unida-Sumar, Nahuel González, han registrado una Proposición No de Ley para impulsar la candidatura de las festividades valencianas del Corpus Christi a la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad de la UNESCO.",
+     "original": "Els diputats de Compromís al Congrés, Àgueda Micó i Alberto Ibáñez, juntament amb el diputat d’Esquerra Unida-Sumar, Nahuel González, han registrat una Proposició No de Llei per a impulsar la candidatura de les festivitats valencianes del Corpus Christi al Llistat Representatiu del Patrimoni Cultural Immaterial de la Humanitat de la UNESCO.",
+     "quien": "el partido, Nota de prensa oficial",
+     "fecha": "2026-06-06"
+    },
+    {
+     "id": "c-486abbfa45",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Se trata de asegurar que los medios públicos representen de manera equilibrada la diversidad cultural del Estado, sin sesgos ni desequilibrios territoriales",
+     "original": "Es tracta d’assegurar que els mitjans públics representen de manera equilibrada la diversitat cultural de l’Estat, sense biaixos ni desequilibris territorials",
+     "quien": "Àgueda Micó, Diputada en el Congreso",
+     "fecha": "2026-04-07"
+    }
+   ]
+  }
+ ]
+}

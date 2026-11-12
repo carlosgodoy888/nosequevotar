@@ -1,0 +1,33 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Frase literal de la nota oficial de pp.es del 13-10-2026 (entrevista de Feijóo en Esradio). Es texto del propio partido en tercera persona y expresa el compromiso de su presidente: revalorizar las pensiones con el IPC. partido_de_quien PP es correcto.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la nota oficial de pp.es del 15-10-2026, atribuido a Carmen Fúnez, vicesecretaria de Sanidad y Política Social del PP (dirección nacional, área de la que dependen las pensiones). partido_de_quien PP es correcto.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "corregida",
+      "motivo": "Texto literal en el DS núm. 170 (sesión del 26-02-2026), en el turno de fijación de posiciones del Grupo Mixto. Alberto Catalán Higueras, diputado por Navarra, habla en nombre de UPN. En su intervención no dice explícitamente cómo votará la convalidación: la nota se ajusta a lo que dice.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Apoyo a la revalorización de las pensiones, en el debate de convalidación del Real Decreto-ley 3/2026"
+    },
+    {
+      "n": 4,
+      "veredicto": "corregida",
+      "motivo": "Texto literal en el DS núm. 170 (26-02-2026). Según los datos abiertos del Congreso, es Miguel Ángel Paniagua Núñez, diputado del PP por Palencia. Intervino como portavoz del Grupo Popular en el debate de convalidación del Real Decreto-ley 3/2026 de revalorización de las pensiones («Por el Grupo Parlamentario Popular, tiene la palabra el señor Paniagua Núñez»). La frase citada expresa una postura sobre el Pacto de Toledo y no es el ataque que la precede.",
+      "cita_corregida": "",
+      "campos_corregidos": "quien: Miguel Ángel Paniagua Núñez; cargo: Diputado del PP por Palencia y portavoz del Grupo Parlamentario Popular en el debate de convalidación del Real Decreto-ley 3/2026; nota: Defensa del Pacto de Toledo en el debate de convalidación del Real Decreto-ley 3/2026 de revalorización de las pensiones"
+    }
+  ],
+  "notas": "Abiertas todas las fuentes. robots.txt de pp.es y congreso.es sin restricciones para estas rutas ni para agentes de IA. Las citas 1, 2 y 4 son del PP nacional, socio de la coalición UPN-PP, y su partido_de_quien es PP. Nombres comprobados en los datos abiertos del Congreso (11-11-2026)."
+}

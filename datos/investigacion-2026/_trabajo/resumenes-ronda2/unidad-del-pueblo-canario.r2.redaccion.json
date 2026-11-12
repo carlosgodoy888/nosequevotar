@@ -1,0 +1,14 @@
+{ "resumenes": [
+  { "tema": "seguridad-y-justicia", "base": "escasa", "frases": [
+    { "texto": "En Canarias, pide acelerar la creación de una agencia canaria de emergencias y construir un nuevo edificio judicial en Tenerife en lugar de soluciones provisionales.", "apoyos": ["c-30033714f9", "c-8485ec0906"] },
+    { "texto": "Plantea protocolos específicos en los centros de menores ante agresiones y explotación sexual y trata.", "apoyos": ["c-414cc78334"] }
+  ], "nota": "Base escasa: solo declaraciones sobre asuntos canarios o muy concretos. Se omite c-ebcec082e6 (prevención de incendios mediante ordenación del territorio) por ser genérica y encajar mejor en medio ambiente." },
+  { "tema": "medio-ambiente-y-energia", "base": "escasa", "frases": [
+    { "texto": "Para Canarias, defiende poner límites al crecimiento turístico, al que atribuye el aumento de población, la ocupación del territorio y el consumo de agua y energía.", "apoyos": ["c-22744e9141", "c-17042aa43e"] },
+    { "texto": "Rechaza una gran granja en la costa de La Aldea y pide abandonar definitivamente un proyecto que, según recuerda, rechazaron 400.000 firmantes.", "apoyos": ["c-50918d55e4", "c-4661c802d9"] }
+  ], "nota": "Base escasa: solo declaraciones sobre asuntos canarios. La cita c-4661c802d9 no nombra el proyecto, por eso no se identifica. Se usa «crecimiento turístico» en lugar de «desarrollismo», término de la propia candidatura. Se omite c-ebcec082e6 por genérica." },
+  { "tema": "ciencia-cultura-y-digital", "base": "escasa", "frases": [
+    { "texto": "Propone que la ley canaria de la ciencia blinde una financiación de la I+D+i del 3,2 % del gasto público en 2030, con las universidades públicas en el centro.", "apoyos": ["c-6c2c2b5d7e", "c-3b60254d0f", "c-ce784f2b78"] },
+    { "texto": "También pide más financiación y residencias universitarias, recuperar la inversión en cultura previa a 2024, revertir recortes en I+D+i y reimpulsar la Selección Canaria de fútbol.", "apoyos": ["c-841df55882", "c-651553e2a5"] }
+  ], "nota": "Base escasa: medidas concretas, pero todas de ámbito canario y procedentes de declaraciones." }
+] }

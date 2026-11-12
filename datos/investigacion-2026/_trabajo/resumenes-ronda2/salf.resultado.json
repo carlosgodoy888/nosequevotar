@@ -1,0 +1,1362 @@
+{
+  "resultados": [
+    {
+      "p": "salf",
+      "g": [
+        "vivienda",
+        "empleo",
+        "pensiones",
+        "impuestos",
+        "economia",
+        "sanidad",
+        "educacion",
+        "familias-y-cuidados",
+        "inmigracion"
+      ],
+      "i": 0,
+      "redaccion": {
+        "resumenes": [
+          {
+            "tema": "vivienda",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone suprimir el IBI y los impuestos sobre la primera vivienda, con un abaratamiento mínimo del 35 % garantizado por ley.",
+                "apoyos": [
+                  "c-bf7738d806",
+                  "c-53a0c848b4",
+                  "c-12e296f38e"
+                ]
+              },
+              {
+                "texto": "Plantea sacar a concurso el suelo del Estado y de la Sareb para vivienda protegida en propiedad y conceder la licencia automáticamente si vence el plazo.",
+                "apoyos": [
+                  "c-9ebd1eae2e",
+                  "c-4a5de566d7",
+                  "c-7c7372c35c"
+                ]
+              },
+              {
+                "texto": "Incluye un aval público del 20 % de la entrada para menores de 40 años y un seguro público de impago del alquiler.",
+                "apoyos": [
+                  "c-c99138966d",
+                  "c-2b27224f75"
+                ]
+              },
+              {
+                "texto": "Pide desalojos policiales de viviendas ocupadas en 48 horas y lanzamiento en 30 días por impago.",
+                "apoyos": [
+                  "c-127deaeed4",
+                  "c-bf7738d806"
+                ]
+              }
+            ],
+            "nota": "Se evita el término «okupa» de las citas y se describe la medida con palabras corrientes."
+          },
+          {
+            "tema": "empleo",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un contrato indefinido único, con indemnización de 12 a 33 días y una «mochila» del 1,53 % del salario pagada por la empresa.",
+                "apoyos": [
+                  "c-2d7c53c853",
+                  "c-df82aef463",
+                  "c-3e1b3821ad"
+                ]
+              },
+              {
+                "texto": "Plantea bajar la cuña fiscal del 41 al 29 % y eliminar por completo la cuota de autónomos.",
+                "apoyos": [
+                  "c-3e1b3821ad",
+                  "c-23f40cbb73",
+                  "c-b688bf398e",
+                  "c-bc3c27b3dd"
+                ]
+              },
+              {
+                "texto": "Quiere que la Seguridad Social pague las bajas desde el primer día y que las mutuas den el alta en 15 días.",
+                "apoyos": [
+                  "c-d9c83fd209",
+                  "c-c8f0ceefef"
+                ]
+              },
+              {
+                "texto": "Pide retirar la prestación tras rechazar dos ofertas adecuadas y eximir de cotizar dos años por contratar a menores de 30 o mayores de 50.",
+                "apoyos": [
+                  "c-d53993dd54",
+                  "c-7a88631178"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "pensiones",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone revalorizar las pensiones con el IPC, prohibir sus recortes en la Constitución y garantizar 1.000 euros en 14 pagas con 35 años cotizados.",
+                "apoyos": [
+                  "c-2d36b1029e",
+                  "c-04dfdf8a55"
+                ]
+              },
+              {
+                "texto": "Plantea un sistema mixto con una cuenta individual heredable, a la que los menores de 45 años aportarían el 2 % del salario.",
+                "apoyos": [
+                  "c-c70c93d93d",
+                  "c-868fb19720"
+                ]
+              },
+              {
+                "texto": "Defiende cobrar la pensión completa mientras se trabaja y jubilarse sin penalización con 40 años cotizados.",
+                "apoyos": [
+                  "c-3c5755d51d"
+                ]
+              },
+              {
+                "texto": "También quiere sacar el Fondo de Reserva del control del Gobierno y suprimir el complemento de pensión de los parlamentarios.",
+                "apoyos": [
+                  "c-50ff48b919",
+                  "c-15faa57bda"
+                ]
+              }
+            ],
+            "nota": "La cita c-8ae02001bb habla de «sistema fraudulento»; no se adopta el término."
+          },
+          {
+            "tema": "impuestos",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone que nadie pague IRPF por los primeros 35.000 euros, de forma gradual hasta 2030, y 5.000 euros más exentos por cada hijo.",
+                "apoyos": [
+                  "c-5c74148169",
+                  "c-3febe013c8",
+                  "c-b6944cb73f",
+                  "c-c2a6cf9527"
+                ]
+              },
+              {
+                "texto": "Plantea suprimir Sucesiones, Donaciones, Patrimonio e IBI, bajar Sociedades al 20 % y aplicar un IVA del 4 % a la luz y el agua.",
+                "apoyos": [
+                  "c-e6ce371258",
+                  "c-12e296f38e",
+                  "c-1003c7ed45",
+                  "c-66258f81fa",
+                  "c-fa45c0dd41"
+                ]
+              },
+              {
+                "texto": "Exigiría tres quintos del Congreso para subir impuestos y un ahorro certificado por la AIReF antes de cada bajada.",
+                "apoyos": [
+                  "c-cec6c2daa8",
+                  "c-fc1bd25ed6",
+                  "c-1cb9407621"
+                ]
+              },
+              {
+                "texto": "Pide que las entidades herederas de las cajas rescatadas paguen 4.700 millones anuales durante 15 años.",
+                "apoyos": [
+                  "c-181734f838",
+                  "c-2fa472505e"
+                ]
+              }
+            ],
+            "nota": "La declaración c-6ac29065cb habla de IRPF al 0 % por debajo de 30.000 euros y medio punto menos por hijo; el programa fija 35.000 euros y 5.000 por hijo. El resumen sigue el programa."
+          },
+          {
+            "tema": "economia",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone alcanzar el déficit cero en 2030 con un techo de gasto y fijar en la Constitución límites a la presión fiscal y al endeudamiento.",
+                "apoyos": [
+                  "c-fc1bd25ed6",
+                  "c-a18912f038"
+                ]
+              },
+              {
+                "texto": "Para financiar su rebaja fiscal plantea suprimir 12 ministerios, entes públicos sin función y duplicidades autonómicas, y cobrar la devolución del rescate bancario.",
+                "apoyos": [
+                  "c-eada1d7e7a",
+                  "c-d0d5412ea8",
+                  "c-a35f299b7b",
+                  "c-bbcf2b4679",
+                  "c-2fa472505e"
+                ]
+              },
+              {
+                "texto": "Para las empresas quiere Sociedades al 20 %, derogar dos regulaciones por cada una nueva y unidad de mercado entre comunidades.",
+                "apoyos": [
+                  "c-66258f81fa",
+                  "c-1003c7ed45",
+                  "c-839d78d9fc"
+                ]
+              },
+              {
+                "texto": "Defiende el derecho constitucional a pagar en efectivo sin límite de importe.",
+                "apoyos": [
+                  "c-664ff9a967",
+                  "c-507578555c"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "sanidad",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone plazos máximos de 60 días para cirugía, 30 para especialista y 48 horas para ver al médico.",
+                "apoyos": [
+                  "c-34121901c5",
+                  "c-ac2f3300e1",
+                  "c-89073008a2"
+                ]
+              },
+              {
+                "texto": "Si se superan, el paciente podría elegir centro público o privado a cargo de la sanidad pública.",
+                "apoyos": [
+                  "c-ac2f3300e1",
+                  "c-89073008a2"
+                ]
+              },
+              {
+                "texto": "Plantea una central de compras única, subir un 20 % el sueldo de los médicos y un 10 % el de enfermería, y 10.000 camas más.",
+                "apoyos": [
+                  "c-1f51b2c392",
+                  "c-34121901c5",
+                  "c-728c912384",
+                  "c-c48553c822"
+                ]
+              },
+              {
+                "texto": "Limitaría la tarjeta sanitaria a españoles y residentes legales con cotización o cobertura, con urgencias para todos.",
+                "apoyos": [
+                  "c-fd46d2f713",
+                  "c-6464b06f17"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "educacion",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone una ley educativa aprobada por dos tercios, con contenidos mínimos comunes, evaluaciones externas y selectividad única en castellano en toda España.",
+                "apoyos": [
+                  "c-07f11c3ad5",
+                  "c-a4b90f1e7e"
+                ]
+              },
+              {
+                "texto": "Defiende el derecho a estudiar en castellano en toda España y un cheque escolar del mismo importe para centros públicos, concertados y privados.",
+                "apoyos": [
+                  "c-05dd2d04b6",
+                  "c-07f11c3ad5",
+                  "c-42ba4e4e0e"
+                ]
+              },
+              {
+                "texto": "Plantea que un consejo académico independiente fije los contenidos, con neutralidad ideológica obligatoria en el aula.",
+                "apoyos": [
+                  "c-ba13a70367",
+                  "c-4e439e5afc"
+                ]
+              },
+              {
+                "texto": "Incluye FP desde los 15 años, el fin del aprobado automático y un 10 % más de sueldo para el profesorado.",
+                "apoyos": [
+                  "c-5032b21988",
+                  "c-aed0d15f0c"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "familias-y-cuidados",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone que cada hijo sume 5.000 euros al mínimo exento de IRPF de cada progenitor, y defiende que el Estado no grave tener hijos.",
+                "apoyos": [
+                  "c-c2a6cf9527",
+                  "c-49b1691922"
+                ]
+              },
+              {
+                "texto": "Plantea copago farmacéutico cero para los menores de 3 años y prioridad para las familias con hijos en el acceso al alquiler.",
+                "apoyos": [
+                  "c-6288d3d882",
+                  "c-b0583171e4"
+                ]
+              },
+              {
+                "texto": "Quiere que el Ingreso Mínimo baje 50 céntimos por cada euro ganado y exigir cinco años de residencia legal y cotización para las prestaciones no contributivas.",
+                "apoyos": [
+                  "c-d53993dd54",
+                  "c-974c8f9f16"
+                ]
+              },
+              {
+                "texto": "También propone una prueba de paternidad gratuita al nacer, salvo renuncia de ambos progenitores.",
+                "apoyos": [
+                  "c-e36c29e46e"
+                ]
+              }
+            ],
+            "nota": "No hay citas sobre dependencia, discapacidad ni servicios sociales; el resumen se limita a natalidad, infancia y prestaciones."
+          },
+          {
+            "tema": "inmigracion",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone admitir solo inmigración legal, con visados ligados a un contrato previo y un cupo anual votado en el Congreso.",
+                "apoyos": [
+                  "c-db137fbaf9",
+                  "c-787ce19ec3"
+                ]
+              },
+              {
+                "texto": "Plantea expulsiones en 48 horas con internamiento hasta la salida, derogar la regularización de 2026 y prohibir por ley las regularizaciones masivas.",
+                "apoyos": [
+                  "c-bbe61f5e67",
+                  "c-db137fbaf9",
+                  "c-da279e13af",
+                  "c-532119fbb4"
+                ]
+              },
+              {
+                "texto": "Suspendería la inmigración y la ayuda al desarrollo a los países que no readmitan a sus nacionales o no cooperen contra las redes de trata.",
+                "apoyos": [
+                  "c-787ce19ec3",
+                  "c-0efbf6f9b7",
+                  "c-f62f4b37c8"
+                ]
+              },
+              {
+                "texto": "Defiende cupos preferentes para Hispanoamérica y exigir diez años de residencia legal y un examen para obtener la nacionalidad.",
+                "apoyos": [
+                  "c-35a0bf6a29",
+                  "c-c36c437d10"
+                ]
+              }
+            ],
+            "nota": "No se recoge la expresión «deportación masiva» de la declaración c-e07b324cba; las expulsiones se describen con los datos del programa."
+          }
+        ]
+      },
+      "verificacion": {
+        "revisiones": [
+          {
+            "tema": "vivienda",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 1: «suprimir el IBI y los impuestos sobre la primera vivienda» se puede leer como si el IBI solo se suprimiera en la primera vivienda; la cita c-12e296f38e dice que se elimina «para todos». Se aclara el alcance.",
+              "Resto de frases fieles a sus citas y con ids del tema; el término «okupa» no se adopta."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone suprimir los impuestos a la primera vivienda y el IBI para todos, con un abaratamiento mínimo del 35 % garantizado por ley.",
+                "apoyos": [
+                  "c-bf7738d806",
+                  "c-53a0c848b4",
+                  "c-12e296f38e"
+                ]
+              },
+              {
+                "texto": "Plantea sacar a concurso el suelo del Estado y de la Sareb para vivienda protegida en propiedad y conceder la licencia automáticamente si vence el plazo.",
+                "apoyos": [
+                  "c-9ebd1eae2e",
+                  "c-4a5de566d7",
+                  "c-7c7372c35c"
+                ]
+              },
+              {
+                "texto": "Incluye un aval público del 20 % de la entrada para menores de 40 años y un seguro público de impago del alquiler.",
+                "apoyos": [
+                  "c-c99138966d",
+                  "c-2b27224f75"
+                ]
+              },
+              {
+                "texto": "Pide desalojos policiales de viviendas ocupadas en 48 horas y lanzamiento en 30 días por impago.",
+                "apoyos": [
+                  "c-127deaeed4",
+                  "c-bf7738d806"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "empleo",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 3: omite que el alta de las mutuas a los 15 días va «con revisión del INSS en 72 horas» (c-c8f0ceefef); sin esa salvaguarda la medida parece más tajante de lo que dice la cita. Se añade la revisión del INSS (se acortan las frases 2 y 3 para no pasar de 90 palabras).",
+              "Resto de frases fieles; la «mili voluntaria» y las medidas de vigilantes son sectoriales y es razonable dejarlas fuera."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un contrato indefinido único, con indemnización de 12 a 33 días y una «mochila» del 1,53 % del salario pagada por la empresa.",
+                "apoyos": [
+                  "c-2d7c53c853",
+                  "c-df82aef463",
+                  "c-3e1b3821ad"
+                ]
+              },
+              {
+                "texto": "Plantea bajar la cuña fiscal del 41 al 29 % y suprimir la cuota de autónomos.",
+                "apoyos": [
+                  "c-3e1b3821ad",
+                  "c-23f40cbb73",
+                  "c-b688bf398e",
+                  "c-bc3c27b3dd"
+                ]
+              },
+              {
+                "texto": "Quiere que la Seguridad Social pague las bajas desde el primer día y las mutuas den el alta a los 15 días, revisable por el INSS.",
+                "apoyos": [
+                  "c-d9c83fd209",
+                  "c-c8f0ceefef"
+                ]
+              },
+              {
+                "texto": "Pide retirar la prestación tras rechazar dos ofertas adecuadas y dos años sin cotizar por contratar a menores de 30 o mayores de 50.",
+                "apoyos": [
+                  "c-d53993dd54",
+                  "c-7a88631178"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "pensiones",
+            "veredicto": "corregido",
+            "problemas": [
+              "Representatividad: omite la línea de transparencia, que reúne cinco citas (c-04794aaabe, c-b6ad350036, c-f017b3e3b6, c-758c65755b, c-d909c564a4: informe anual de la pensión estimada, cuentas separadas de cotizaciones y transferencias), y en cambio destaca el complemento de los parlamentarios, que tiene una sola cita. Se sustituye.",
+              "Frase 2: omite que la cuenta individual del 2 % es «obligatoria» (c-868fb19720); se rebaja su alcance. Se añade.",
+              "Frase 3: omite «cuando quieras» (c-3c5755d51d): con 40 años cotizados la jubilación sin penalización es a la edad que se elija. Se añade."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone revalorizar las pensiones con el IPC, prohibir sus recortes en la Constitución y garantizar 1.000 euros en 14 pagas con 35 años cotizados.",
+                "apoyos": [
+                  "c-2d36b1029e",
+                  "c-04dfdf8a55"
+                ]
+              },
+              {
+                "texto": "Plantea un sistema mixto con una cuenta individual obligatoria y heredable donde los menores de 45 años aporten el 2 % del salario.",
+                "apoyos": [
+                  "c-c70c93d93d",
+                  "c-868fb19720"
+                ]
+              },
+              {
+                "texto": "Defiende cobrar la pensión completa trabajando y, con 40 años cotizados, jubilarse cuando se quiera sin penalización.",
+                "apoyos": [
+                  "c-3c5755d51d"
+                ]
+              },
+              {
+                "texto": "Pide informar cada año de la pensión estimada, separar en las cuentas cotizaciones y transferencias, y sacar el Fondo de Reserva del Gobierno.",
+                "apoyos": [
+                  "c-04794aaabe",
+                  "c-b6ad350036",
+                  "c-758c65755b",
+                  "c-50ff48b919"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "impuestos",
+            "veredicto": "correcto",
+            "problemas": [],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone que nadie pague IRPF por los primeros 35.000 euros, de forma gradual hasta 2030, y 5.000 euros más exentos por cada hijo.",
+                "apoyos": [
+                  "c-5c74148169",
+                  "c-3febe013c8",
+                  "c-b6944cb73f",
+                  "c-c2a6cf9527"
+                ]
+              },
+              {
+                "texto": "Plantea suprimir Sucesiones, Donaciones, Patrimonio e IBI, bajar Sociedades al 20 % y aplicar un IVA del 4 % a la luz y el agua.",
+                "apoyos": [
+                  "c-e6ce371258",
+                  "c-12e296f38e",
+                  "c-1003c7ed45",
+                  "c-66258f81fa",
+                  "c-fa45c0dd41"
+                ]
+              },
+              {
+                "texto": "Exigiría tres quintos del Congreso para subir impuestos y un ahorro certificado por la AIReF antes de cada bajada.",
+                "apoyos": [
+                  "c-cec6c2daa8",
+                  "c-fc1bd25ed6",
+                  "c-1cb9407621"
+                ]
+              },
+              {
+                "texto": "Pide que las entidades herederas de las cajas rescatadas paguen 4.700 millones anuales durante 15 años.",
+                "apoyos": [
+                  "c-181734f838",
+                  "c-2fa472505e"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "economia",
+            "veredicto": "correcto",
+            "problemas": [],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone alcanzar el déficit cero en 2030 con un techo de gasto y fijar en la Constitución límites a la presión fiscal y al endeudamiento.",
+                "apoyos": [
+                  "c-fc1bd25ed6",
+                  "c-a18912f038"
+                ]
+              },
+              {
+                "texto": "Para financiar su rebaja fiscal plantea suprimir 12 ministerios, entes públicos sin función y duplicidades autonómicas, y cobrar la devolución del rescate bancario.",
+                "apoyos": [
+                  "c-eada1d7e7a",
+                  "c-d0d5412ea8",
+                  "c-a35f299b7b",
+                  "c-bbcf2b4679",
+                  "c-2fa472505e"
+                ]
+              },
+              {
+                "texto": "Para las empresas quiere Sociedades al 20 %, derogar dos regulaciones por cada una nueva y unidad de mercado entre comunidades.",
+                "apoyos": [
+                  "c-66258f81fa",
+                  "c-1003c7ed45",
+                  "c-839d78d9fc"
+                ]
+              },
+              {
+                "texto": "Defiende el derecho constitucional a pagar en efectivo sin límite de importe.",
+                "apoyos": [
+                  "c-664ff9a967",
+                  "c-507578555c"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "sanidad",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 3: omite que las subidas salariales son «en cuatro años» y reduce el 10 % a enfermería, cuando la cita c-728c912384 lo extiende «al resto de profesionales sanitarios». Se corrige el alcance."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone plazos máximos de 60 días para cirugía, 30 para especialista y 48 horas para ver al médico.",
+                "apoyos": [
+                  "c-34121901c5",
+                  "c-ac2f3300e1",
+                  "c-89073008a2"
+                ]
+              },
+              {
+                "texto": "Si se superan, el paciente podría elegir centro público o privado a cargo de la sanidad pública.",
+                "apoyos": [
+                  "c-ac2f3300e1",
+                  "c-89073008a2"
+                ]
+              },
+              {
+                "texto": "Plantea una central de compras única, 10.000 camas más y subir en cuatro años los sueldos sanitarios: un 20 % a médicos y un 10 % al resto.",
+                "apoyos": [
+                  "c-1f51b2c392",
+                  "c-34121901c5",
+                  "c-728c912384",
+                  "c-c48553c822"
+                ]
+              },
+              {
+                "texto": "Limitaría la tarjeta sanitaria a españoles y residentes legales con cotización o cobertura, con urgencias para todos.",
+                "apoyos": [
+                  "c-fd46d2f713",
+                  "c-6464b06f17"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "educacion",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 4: omite que el 10 % más de sueldo para el profesorado es «en la legislatura» (c-aed0d15f0c). Se añade el plazo."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone una ley educativa aprobada por dos tercios, con contenidos mínimos comunes, evaluaciones externas y selectividad única en castellano en toda España.",
+                "apoyos": [
+                  "c-07f11c3ad5",
+                  "c-a4b90f1e7e"
+                ]
+              },
+              {
+                "texto": "Defiende el derecho a estudiar en castellano en toda España y un cheque escolar del mismo importe para centros públicos, concertados y privados.",
+                "apoyos": [
+                  "c-05dd2d04b6",
+                  "c-07f11c3ad5",
+                  "c-42ba4e4e0e"
+                ]
+              },
+              {
+                "texto": "Plantea que un consejo académico independiente fije los contenidos, con neutralidad ideológica obligatoria en el aula.",
+                "apoyos": [
+                  "c-ba13a70367",
+                  "c-4e439e5afc"
+                ]
+              },
+              {
+                "texto": "Incluye FP desde los 15 años, el fin del aprobado automático y un 10 % más de sueldo para el profesorado en la legislatura.",
+                "apoyos": [
+                  "c-5032b21988",
+                  "c-aed0d15f0c"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "familias-y-cuidados",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 3, fidelidad: «Quiere que el Ingreso Mínimo baje 50 céntimos por cada euro ganado» se lee como un recorte del Ingreso Mínimo. La cita c-d53993dd54 dice lo contrario: un complemento salarial para que se reduzca solo 50 céntimos por euro ganado, «no uno a uno». Se reescribe.",
+              "Frase 3 además mezclaba dos medidas sin relación y quedaba larga; el requisito de cinco años se separa y se completa con las ayudas al alquiler y la vivienda pública que menciona c-974c8f9f16.",
+              "Frase 2: la «prioridad para las familias con hijos en el acceso al alquiler» interpreta una cita sin contexto (c-b0583171e4 se refiere al alquiler con seguro público de impago). Se retira y la prueba de paternidad pasa a esa frase."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone que cada hijo sume 5.000 euros al mínimo exento de IRPF de cada progenitor, y defiende que el Estado no grave tener hijos.",
+                "apoyos": [
+                  "c-c2a6cf9527",
+                  "c-49b1691922"
+                ]
+              },
+              {
+                "texto": "Plantea copago farmacéutico cero para los menores de 3 años y una prueba de paternidad gratuita al nacer, salvo renuncia de ambos progenitores.",
+                "apoyos": [
+                  "c-6288d3d882",
+                  "c-e36c29e46e"
+                ]
+              },
+              {
+                "texto": "Quiere un complemento salarial para que el Ingreso Mínimo se reduzca solo 50 céntimos por cada euro ganado, no uno a uno.",
+                "apoyos": [
+                  "c-d53993dd54"
+                ]
+              },
+              {
+                "texto": "Exigiría cinco años de residencia legal y cotización para prestaciones no contributivas, ayudas al alquiler o vivienda pública.",
+                "apoyos": [
+                  "c-974c8f9f16"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "inmigracion",
+            "veredicto": "corregido",
+            "problemas": [
+              "Representatividad: omite por completo las medidas sobre extranjeros condenados, que reúnen cinco citas (c-225fb06b66, c-5cd5d13863, c-83eea6d9dc, c-a8e78fece5, c-5eabb982ce: cumplir la pena fuera, pérdida de la residencia con condenas de más de un año). Se añade una frase.",
+              "Para no pasar de cuatro frases ni de 90 palabras, los cupos preferentes para Hispanoamérica se integran en la frase 1 y se retira el requisito de diez años para la nacionalidad (una sola cita).",
+              "Frase 3: se añade c-db137fbaf9 a sus apoyos, porque es la cita que paraliza la inmigración de los países que no cooperan contra las redes de trata (la «o» de la frase se apoya en ella)."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone solo inmigración legal, con visados ligados a un contrato previo, un cupo anual votado en el Congreso y preferencia para Hispanoamérica.",
+                "apoyos": [
+                  "c-db137fbaf9",
+                  "c-787ce19ec3",
+                  "c-35a0bf6a29",
+                  "c-c36c437d10"
+                ]
+              },
+              {
+                "texto": "Plantea expulsiones en 48 horas con internamiento hasta la salida, derogar la regularización de 2026 y prohibir por ley las regularizaciones masivas.",
+                "apoyos": [
+                  "c-bbe61f5e67",
+                  "c-db137fbaf9",
+                  "c-da279e13af",
+                  "c-532119fbb4"
+                ]
+              },
+              {
+                "texto": "Suspendería la inmigración y la ayuda al desarrollo a los países que no readmitan a sus nacionales o no cooperen contra la trata.",
+                "apoyos": [
+                  "c-787ce19ec3",
+                  "c-db137fbaf9",
+                  "c-0efbf6f9b7",
+                  "c-f62f4b37c8"
+                ]
+              },
+              {
+                "texto": "Quiere que los extranjeros condenados cumplan la pena fuera de España y pierdan la residencia si la condena supera un año.",
+                "apoyos": [
+                  "c-225fb06b66",
+                  "c-5cd5d13863",
+                  "c-a8e78fece5"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "p": "salf",
+      "g": [
+        "seguridad-y-justicia",
+        "democracia-e-instituciones",
+        "organizacion-territorial",
+        "medio-ambiente-y-energia",
+        "campo-y-medio-rural",
+        "transporte",
+        "igualdad-y-derechos",
+        "politica-exterior-y-defensa",
+        "ciencia-cultura-y-digital"
+      ],
+      "i": 1,
+      "redaccion": {
+        "resumenes": [
+          {
+            "tema": "seguridad-y-justicia",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone cárceles de máxima seguridad sin permisos ni tercer grado para asesinos, agresores sexuales, narcotraficantes y corruptos, con cumplimiento íntegro de la pena.",
+                "apoyos": [
+                  "c-7a4199a082",
+                  "c-d911910550",
+                  "c-c338463075",
+                  "c-046bd36a8b",
+                  "c-376cc82c58"
+                ]
+              },
+              {
+                "texto": "Plantea 2.000 jueces y 1.500 fiscales más, juicios rápidos en 72 horas para multirreincidentes y ampliar la UCO de 580 a 1.800 agentes.",
+                "apoyos": [
+                  "c-56a4cb9aa4",
+                  "c-9dde9b1f60"
+                ]
+              },
+              {
+                "texto": "Pide igualar el sueldo de policías y guardias civiles con el de los Mossos y presumir la legítima defensa en la vivienda o el negocio.",
+                "apoyos": [
+                  "c-82bf82e235",
+                  "c-f548d201db",
+                  "c-25a9332887"
+                ]
+              },
+              {
+                "texto": "Quiere que los extranjeros condenados cumplan la pena en otros países.",
+                "apoyos": [
+                  "c-225fb06b66",
+                  "c-5cd5d13863"
+                ]
+              }
+            ],
+            "nota": "Se omite por espacio el registro público de agresores sexuales y la castración química (c-33258fac6a, c-de243e9fb2); según c-de243e9fb2 sería voluntaria como condición de beneficios penitenciarios."
+          },
+          {
+            "tema": "democracia-e-instituciones",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone suprimir 12 ministerios, la mitad de los altos cargos, el Senado y el Consejo de Estado, y reducir los asesores a 400.",
+                "apoyos": [
+                  "c-d41acc4ca4",
+                  "c-d0d5412ea8",
+                  "c-b309c71eaf",
+                  "c-53b2486a79"
+                ]
+              },
+              {
+                "texto": "Plantea que la corrupción de cargos públicos no prescriba, que el condenado devuelva el triple y que el denunciante cobre el 15 % de lo recuperado.",
+                "apoyos": [
+                  "c-1a885dd6f5",
+                  "c-84ebf31df1",
+                  "c-68f3cebae7",
+                  "c-0ff364dc2d"
+                ]
+              },
+              {
+                "texto": "Pide reformar la Constitución para prohibir las amnistías, acabar con los aforamientos y sustituir el Constitucional por una sala del Supremo.",
+                "apoyos": [
+                  "c-7118889e8d",
+                  "c-227a4bd785",
+                  "c-bda52236cf"
+                ]
+              },
+              {
+                "texto": "Quiere un CGPJ elegido por jueces, antigüedad o sorteo y publicar en 24 horas todo gasto superior a 1.000 euros.",
+                "apoyos": [
+                  "c-8f71fe7ed7",
+                  "c-65eb5e3830"
+                ]
+              }
+            ],
+            "nota": "No se recoge la cláusula de penalización sobre el sueldo del líder (c-ee427c1179) para no nombrarlo."
+          },
+          {
+            "tema": "organizacion-territorial",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Defiende una financiación autonómica con criterios objetivos e iguales para todas las comunidades y se opone a condonar deuda entre administraciones salvo catástrofe.",
+                "apoyos": [
+                  "c-299054df20",
+                  "c-a12da61014",
+                  "c-d6688a447d"
+                ]
+              },
+              {
+                "texto": "Propone suprimir las diputaciones, imponer la gestión mancomunada en municipios de menos de 5.000 habitantes y eliminar el IBI sin compensar a los ayuntamientos.",
+                "apoyos": [
+                  "c-782ef58093",
+                  "c-b56f13c47c",
+                  "c-12e296f38e",
+                  "c-5a2a6a663d"
+                ]
+              },
+              {
+                "texto": "Pide garantizar la enseñanza en castellano en toda España, con sanciones de la Alta Inspección, y un mismo temario de Historia.",
+                "apoyos": [
+                  "c-05dd2d04b6",
+                  "c-07f11c3ad5",
+                  "c-77973b9e6c"
+                ]
+              }
+            ],
+            "nota": "Se evita el lenguaje de c-299054df20 («sanchismo», «socios separatistas»). Se omiten las ventajas fiscales para Canarias y otros territorios (c-f629992ed3, c-5a68cef9b9)."
+          },
+          {
+            "tema": "medio-ambiente-y-energia",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone bajar el IVA de la luz del 21 % al 4 % y el del agua del 10 % al 4 %, y suprimir el impuesto a la producción eléctrica.",
+                "apoyos": [
+                  "c-ec6b2ed3f8",
+                  "c-fa45c0dd41"
+                ]
+              },
+              {
+                "texto": "Pide vetar el Pacto Verde y la Ley de Restauración, que según el partido deja improductiva hasta el 40 % de la Red Natura.",
+                "apoyos": [
+                  "c-abe72767ef",
+                  "c-c5cffdf762",
+                  "c-08e4c5ae04"
+                ]
+              },
+              {
+                "texto": "Plantea contratos de gas a largo plazo con Argelia, origen del 38,5 % del gas importado.",
+                "apoyos": [
+                  "c-0a23f1415c"
+                ]
+              }
+            ],
+            "nota": "Las citas no tratan clima, agua como recurso, contaminación ni bienestar animal."
+          },
+          {
+            "tema": "campo-y-medio-rural",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Pide que España vete el acuerdo con Mercosur, el recorte de la PAC y el Pacto Verde, y defiende que lo que se come aquí se produzca aquí.",
+                "apoyos": [
+                  "c-abe72767ef",
+                  "c-c5cffdf762",
+                  "c-08e4c5ae04"
+                ]
+              },
+              {
+                "texto": "Sostiene que el recorte del 20 % de la PAC quita 877 millones al año al campo español.",
+                "apoyos": [
+                  "c-c5cffdf762"
+                ]
+              },
+              {
+                "texto": "Cita la defensa del sector primario entre los motivos para un referéndum de renegociación con la UE.",
+                "apoyos": [
+                  "c-cc7f5de4c6",
+                  "c-9e742ecf25"
+                ]
+              },
+              {
+                "texto": "Propone un complemento de 30.000 euros para sanitarios en plazas rurales.",
+                "apoyos": [
+                  "c-728c912384"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "transporte",
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Propone pagar a las compañías en 30 días el descuento del 75 % para residentes en avión y barco, y afirma que el Estado les debe 810 millones.",
+                "apoyos": [
+                  "c-5b43b3cce4"
+                ]
+              },
+              {
+                "texto": "Plantea agrupar Transportes con Energía e Industria en un solo ministerio.",
+                "apoyos": [
+                  "c-b320fa89af"
+                ]
+              }
+            ],
+            "nota": "Solo dos citas; la del 75 % aparece en el apartado de Canarias, Ceuta y Melilla, pero el texto no nombra el territorio."
+          },
+          {
+            "tema": "igualdad-y-derechos",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone prohibir el burka y el niqab en el espacio público y la financiación extranjera del culto, con cierre de quien no cumpla.",
+                "apoyos": [
+                  "c-3c27511acb",
+                  "c-30e546abf2",
+                  "c-87cebc2fdb"
+                ]
+              },
+              {
+                "texto": "Plantea ilegalizar a los Hermanos Musulmanes y expulsar a los imanes que prediquen contra la Constitución.",
+                "apoyos": [
+                  "c-87cebc2fdb",
+                  "c-30e546abf2",
+                  "c-60a5ced53f"
+                ]
+              },
+              {
+                "texto": "Quiere hacer del pago en efectivo un derecho constitucional, sin límite de importe y de aceptación obligatoria para comercios, bancos y administraciones.",
+                "apoyos": [
+                  "c-664ff9a967",
+                  "c-507578555c",
+                  "c-0d566c782f",
+                  "c-dba7e011f3"
+                ]
+              },
+              {
+                "texto": "Pide también blindar en la Constitución la acción popular.",
+                "apoyos": [
+                  "c-28299379ad"
+                ]
+              }
+            ],
+            "nota": "Ninguna cita trata igualdad entre mujeres y hombres, violencia machista, derechos LGTBI ni memoria democrática; el resumen cubre solo libertades civiles y religiones."
+          },
+          {
+            "tema": "politica-exterior-y-defensa",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un referéndum para renegociar la relación con la UE y, si Bruselas no acepta, otro sobre la salida.",
+                "apoyos": [
+                  "c-cc7f5de4c6",
+                  "c-c009f97bc0"
+                ]
+              },
+              {
+                "texto": "Plantea un bloqueo comercial a Marruecos si bloquea un puerto español y volver a la posición de la ONU sobre el Sáhara.",
+                "apoyos": [
+                  "c-5d7e981e05",
+                  "c-c009f97bc0",
+                  "c-40bfefbab8",
+                  "c-0a23f1415c"
+                ]
+              },
+              {
+                "texto": "Quiere cortar la ayuda al desarrollo, salvo emergencias y programas con retorno, y condicionar ayudas y visados a la readmisión de inmigrantes en 72 horas.",
+                "apoyos": [
+                  "c-f62f4b37c8",
+                  "c-0efbf6f9b7"
+                ]
+              },
+              {
+                "texto": "Pide 5.000 militares más en Ceuta y Melilla y un servicio voluntario de 6 a 12 meses pagado con 1.600 euros.",
+                "apoyos": [
+                  "c-bb37e69c15",
+                  "c-410099cc42",
+                  "c-ed5ff3c063"
+                ]
+              }
+            ],
+            "nota": "Se describe la «mili voluntaria» como servicio voluntario (c-410099cc42 dice que puede ser militar o civil). Se omiten Gibraltar, Hispanoamérica y el gasto en defensa por espacio."
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Plantea agrupar Universidades y Ciencia, Cultura y Deportes, Educación y Juventud en un único ministerio.",
+                "apoyos": [
+                  "c-dd35bc36b1"
+                ]
+              }
+            ],
+            "nota": "Una sola cita, sobre la estructura del Gobierno; no hay propuestas de investigación, tecnología ni cultura."
+          }
+        ]
+      },
+      "verificacion": {
+        "revisiones": [
+          {
+            "tema": "seguridad-y-justicia",
+            "veredicto": "corregido",
+            "problemas": [
+              "Representatividad: omitía la línea de corrupción en el ámbito penal, la de más peso en las citas del tema (imprescriptibilidad, devolver el triple, prohibir los indultos a corruptos y las amnistías: c-0ff364dc2d, c-1a885dd6f5, c-84ebf31df1, c-75ac993fd6, c-8e6e6abfa5, c-7118889e8d, c-7f31e0b1c1). Además es uno de los 10 compromisos del programa. Se añade una frase.",
+              "Para dejar sitio, la frase de los extranjeros condenados se une a la de jueces y fiscales y se quita la ampliación de la UCO.",
+              "Siguen fuera por falta de espacio: la protección penal y las condiciones laborales de los vigilantes de seguridad privada (6 citas), el plan contra el narcotráfico con la Armada, el registro público de agresores sexuales y la castración química voluntaria, y el desalojo en 48 horas."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone cárceles de máxima seguridad sin permisos ni tercer grado y cumplimiento íntegro para asesinos, agresores sexuales, narcotraficantes y corruptos.",
+                "apoyos": [
+                  "c-7a4199a082",
+                  "c-d911910550",
+                  "c-c338463075",
+                  "c-046bd36a8b",
+                  "c-376cc82c58"
+                ]
+              },
+              {
+                "texto": "Plantea que la corrupción de cargos públicos no prescriba ni pueda indultarse, que se devuelva el triple y que se prohíban las amnistías.",
+                "apoyos": [
+                  "c-1a885dd6f5",
+                  "c-0ff364dc2d",
+                  "c-84ebf31df1",
+                  "c-75ac993fd6",
+                  "c-8e6e6abfa5",
+                  "c-7118889e8d"
+                ]
+              },
+              {
+                "texto": "Pide 2.000 jueces y 1.500 fiscales más, juicios rápidos en 72 horas para multirreincidentes y que los extranjeros condenados cumplan la pena fuera.",
+                "apoyos": [
+                  "c-56a4cb9aa4",
+                  "c-225fb06b66",
+                  "c-5cd5d13863"
+                ]
+              },
+              {
+                "texto": "Quiere equiparar el sueldo de policías y guardias civiles al de los Mossos y presumir la legítima defensa en la vivienda o el negocio.",
+                "apoyos": [
+                  "c-82bf82e235",
+                  "c-f548d201db",
+                  "c-25a9332887"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "democracia-e-instituciones",
+            "veredicto": "correcto",
+            "problemas": [
+              "Sin fallos de fidelidad ni de neutralidad. Ids comprobados. Recoge las líneas principales: recorte del Gobierno y de órganos, corrupción, reforma constitucional del poder judicial y transparencia. Quedan fuera, aceptablemente, el límite de 15 años en cargos públicos, las puertas giratorias, las pensiones de políticos y la cláusula de penalización sobre el sueldo del líder."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone suprimir 12 ministerios, la mitad de los altos cargos, el Senado y el Consejo de Estado, y reducir los asesores a 400.",
+                "apoyos": [
+                  "c-d41acc4ca4",
+                  "c-d0d5412ea8",
+                  "c-b309c71eaf",
+                  "c-53b2486a79"
+                ]
+              },
+              {
+                "texto": "Plantea que la corrupción de cargos públicos no prescriba, que el condenado devuelva el triple y que el denunciante cobre el 15 % de lo recuperado.",
+                "apoyos": [
+                  "c-1a885dd6f5",
+                  "c-84ebf31df1",
+                  "c-68f3cebae7",
+                  "c-0ff364dc2d"
+                ]
+              },
+              {
+                "texto": "Pide reformar la Constitución para prohibir las amnistías, acabar con los aforamientos y sustituir el Constitucional por una sala del Supremo.",
+                "apoyos": [
+                  "c-7118889e8d",
+                  "c-227a4bd785",
+                  "c-bda52236cf"
+                ]
+              },
+              {
+                "texto": "Quiere un CGPJ elegido por jueces, antigüedad o sorteo y publicar en 24 horas todo gasto superior a 1.000 euros.",
+                "apoyos": [
+                  "c-8f71fe7ed7",
+                  "c-65eb5e3830"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "organizacion-territorial",
+            "veredicto": "corregido",
+            "problemas": [
+              "Representatividad: omitía las ventajas fiscales para territorios concretos (c-f629992ed3, c-5a68cef9b9). Pesan en las citas del tema tanto como la línea del castellano. Se añade una cuarta frase solo con la medida cuyo territorio consta en la cita (Canarias).",
+              "Forma: «imponer la gestión mancomunada» se cambia por «hacer obligatoria», que es la palabra de la cita."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Defiende una financiación autonómica con criterios objetivos e iguales para todas las comunidades y se opone a condonar deuda entre administraciones salvo catástrofe.",
+                "apoyos": [
+                  "c-299054df20",
+                  "c-a12da61014",
+                  "c-d6688a447d"
+                ]
+              },
+              {
+                "texto": "Propone suprimir las diputaciones, hacer obligatoria la gestión mancomunada en municipios de menos de 5.000 habitantes y eliminar el IBI sin compensar a los ayuntamientos.",
+                "apoyos": [
+                  "c-782ef58093",
+                  "c-b56f13c47c",
+                  "c-12e296f38e",
+                  "c-5a2a6a663d"
+                ]
+              },
+              {
+                "texto": "Pide garantizar la enseñanza en castellano en toda España, con sanciones de la Alta Inspección, y un mismo temario de Historia.",
+                "apoyos": [
+                  "c-05dd2d04b6",
+                  "c-07f11c3ad5",
+                  "c-77973b9e6c"
+                ]
+              },
+              {
+                "texto": "Plantea además ventajas fiscales territoriales, como deducir 1.000 euros del IRPF a cada residente en Canarias.",
+                "apoyos": [
+                  "c-f629992ed3",
+                  "c-5a68cef9b9"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "medio-ambiente-y-energia",
+            "veredicto": "correcto",
+            "problemas": [
+              "Sin fallos. La afirmación sobre la Red Natura está bien atribuida («según el partido»). Recoge las tres líneas de las citas: IVA e impuesto eléctrico, vetos europeos y gas argelino."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone bajar el IVA de la luz del 21 % al 4 % y el del agua del 10 % al 4 %, y suprimir el impuesto a la producción eléctrica.",
+                "apoyos": [
+                  "c-ec6b2ed3f8",
+                  "c-fa45c0dd41"
+                ]
+              },
+              {
+                "texto": "Pide vetar el Pacto Verde y la Ley de Restauración, que según el partido deja improductiva hasta el 40 % de la Red Natura.",
+                "apoyos": [
+                  "c-abe72767ef",
+                  "c-c5cffdf762",
+                  "c-08e4c5ae04"
+                ]
+              },
+              {
+                "texto": "Plantea contratos de gas a largo plazo con Argelia, origen del 38,5 % del gas importado.",
+                "apoyos": [
+                  "c-0a23f1415c"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "campo-y-medio-rural",
+            "veredicto": "correcto",
+            "problemas": [
+              "Sin fallos de fidelidad ni de neutralidad. La segunda frase solo desarrolla la primera con la cifra de la PAC, bien atribuida («sostiene»). Queda fuera la gestión mancomunada obligatoria en municipios pequeños (c-b56f13c47c), de peso menor."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Pide que España vete el acuerdo con Mercosur, el recorte de la PAC y el Pacto Verde, y defiende que lo que se come aquí se produzca aquí.",
+                "apoyos": [
+                  "c-abe72767ef",
+                  "c-c5cffdf762",
+                  "c-08e4c5ae04"
+                ]
+              },
+              {
+                "texto": "Sostiene que el recorte del 20 % de la PAC quita 877 millones al año al campo español.",
+                "apoyos": [
+                  "c-c5cffdf762"
+                ]
+              },
+              {
+                "texto": "Cita la defensa del sector primario entre los motivos para un referéndum de renegociación con la UE.",
+                "apoyos": [
+                  "c-cc7f5de4c6",
+                  "c-9e742ecf25"
+                ]
+              },
+              {
+                "texto": "Propone un complemento de 30.000 euros para sanitarios en plazas rurales.",
+                "apoyos": [
+                  "c-728c912384"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "transporte",
+            "veredicto": "correcto",
+            "problemas": [
+              "Sin fallos. La base escasa es correcta: solo hay dos citas, y las dos frases dicen únicamente lo que dicen las citas."
+            ],
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Propone pagar a las compañías en 30 días el descuento del 75 % para residentes en avión y barco, y afirma que el Estado les debe 810 millones.",
+                "apoyos": [
+                  "c-5b43b3cce4"
+                ]
+              },
+              {
+                "texto": "Plantea agrupar Transportes con Energía e Industria en un solo ministerio.",
+                "apoyos": [
+                  "c-b320fa89af"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "igualdad-y-derechos",
+            "veredicto": "correcto",
+            "problemas": [
+              "Sin fallos. Recoge las dos líneas con más citas: medidas sobre el islam y el efectivo como derecho. No adopta la frase valorativa de c-3c27511acb («es sumisión»). Quedan fuera, aceptablemente, la licencia de armas y los derechos de los militares."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone prohibir el burka y el niqab en el espacio público y la financiación extranjera del culto, con cierre de quien no cumpla.",
+                "apoyos": [
+                  "c-3c27511acb",
+                  "c-30e546abf2",
+                  "c-87cebc2fdb"
+                ]
+              },
+              {
+                "texto": "Plantea ilegalizar a los Hermanos Musulmanes y expulsar a los imanes que prediquen contra la Constitución.",
+                "apoyos": [
+                  "c-87cebc2fdb",
+                  "c-30e546abf2",
+                  "c-60a5ced53f"
+                ]
+              },
+              {
+                "texto": "Quiere hacer del pago en efectivo un derecho constitucional, sin límite de importe y de aceptación obligatoria para comercios, bancos y administraciones.",
+                "apoyos": [
+                  "c-664ff9a967",
+                  "c-507578555c",
+                  "c-0d566c782f",
+                  "c-dba7e011f3"
+                ]
+              },
+              {
+                "texto": "Pide también blindar en la Constitución la acción popular.",
+                "apoyos": [
+                  "c-28299379ad"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "politica-exterior-y-defensa",
+            "veredicto": "corregido",
+            "problemas": [
+              "Fidelidad: «pagado con 1.600 euros» no decía que la cantidad es mensual (c-ed5ff3c063: «1.600 euros al mes») y podía leerse como pago único. Se añade «mensuales» y que el servicio puede ser militar o civil (c-410099cc42).",
+              "Fidelidad: «la readmisión de inmigrantes» no es exacto: la cita habla de que los países readmitan «a sus nacionales». Se corrige y, para no pasar de 90 palabras, se quita el plazo de 72 horas.",
+              "Siguen fuera por espacio: Gibraltar, Hispanoamérica, el gasto en defensa, la reivindicación del Rif y la doctrina de respuesta a agresiones a Ceuta, Melilla y Canarias."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un referéndum para renegociar la relación con la UE y, si Bruselas no acepta, otro sobre la salida.",
+                "apoyos": [
+                  "c-cc7f5de4c6",
+                  "c-c009f97bc0"
+                ]
+              },
+              {
+                "texto": "Plantea un bloqueo comercial a Marruecos si bloquea un puerto español y volver a la posición de la ONU sobre el Sáhara.",
+                "apoyos": [
+                  "c-5d7e981e05",
+                  "c-c009f97bc0",
+                  "c-40bfefbab8",
+                  "c-0a23f1415c"
+                ]
+              },
+              {
+                "texto": "Quiere cortar la ayuda al desarrollo salvo emergencias y programas con retorno, y negar ayudas y visados a quien no readmita a sus nacionales.",
+                "apoyos": [
+                  "c-f62f4b37c8",
+                  "c-0efbf6f9b7"
+                ]
+              },
+              {
+                "texto": "Pide 5.000 militares más en Ceuta y Melilla y un servicio voluntario de 6 a 12 meses, militar o civil, con 1.600 euros mensuales.",
+                "apoyos": [
+                  "c-bb37e69c15",
+                  "c-410099cc42",
+                  "c-ed5ff3c063"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "veredicto": "correcto",
+            "problemas": [
+              "Fiel a la única cita. Tiene 15 palabras, menos de las 30 mínimas, pero con una sola cita sobre la estructura del Gobierno no se puede alargar sin añadir datos. La base escasa es correcta."
+            ],
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Plantea agrupar Universidades y Ciencia, Cultura y Deportes, Educación y Juventud en un único ministerio.",
+                "apoyos": [
+                  "c-dd35bc36b1"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+[
+ {
+  "id": "c-53a0c848b4",
+  "cita": "Cero impuestos (ITP y AJD al 0 %; IVA al 4 % devuelto íntegro en la renta), licencia en plazo y suelo público sin coste. Resultado garantizado por ley: el comprador de primera vivienda paga, como mínimo, un 35 % menos que hoy.",
+  "temas": [
+   "vivienda",
+   "impuestos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Primera vivienda sin impuestos y un 35 % más barata"
+ },
+ {
+  "id": "c-9ebd1eae2e",
+  "cita": "Todo el suelo de la Sareb y del Estado, en 12 meses, a concurso para construir vivienda protegida en propiedad a precio tasado. El joven que compra es dueño, no inquilino del Ayuntamiento.",
+  "temas": [
+   "vivienda"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Suelo de Sareb y Estado para vivienda protegida en propiedad"
+ },
+ {
+  "id": "c-127deaeed4",
+  "cita": "Con denuncia y título de propiedad, la Policía desaloja en 48 horas. Al que deja de pagar, juicio verbal y lanzamiento en 30 días, sin excusas de 'vulnerabilidad': a los vulnerables los atiende el Estado, no tu casa.",
+  "temas": [
+   "vivienda",
+   "seguridad-y-justicia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Desalojo de okupas en 48 horas e inquiokupas en 30 días"
+ },
+ {
+  "id": "c-c99138966d",
+  "cita": "Aval público del 20 % de entrada para menores de 40 en su primera vivienda. Con un 35 % de ahorro y la entrada avalada, comprar vuelve a ser posible con un sueldo normal.",
+  "temas": [
+   "vivienda"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Aval público de la entrada para jóvenes compradores"
+ },
+ {
+  "id": "c-4a5de566d7",
+  "cita": "Un mes obra menor, dos obra mayor, tres grandes desarrollos. Pasado el plazo, licencia concedida y el ayuntamiento paga el retraso.",
+  "temas": [
+   "vivienda"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Plazos máximos de licencia con silencio positivo"
+ },
+ {
+  "id": "c-a27eb6e36f",
+  "cita": "Las SOCIMI con más de 100 viviendas en alquiler tributan al 25 %, como cualquier empresa. Y el Estado deja de contratar a los fondos que dice combatir.",
+  "temas": [
+   "vivienda",
+   "impuestos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Fin del régimen fiscal especial de las grandes SOCIMI"
+ },
+ {
+  "id": "c-2d7c53c853",
+  "cita": "Un solo contrato indefinido con indemnización creciente de 12 a 33 días, más la mochila del 1,53 %. Fin de la dualidad y del miedo a cambiar de trabajo.",
+  "temas": [
+   "empleo"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Contrato único indefinido con mochila austriaca"
+ },
+ {
+  "id": "c-b688bf398e",
+  "cita": "Cuota cero, total y para siempre: ningún autónomo vuelve a pagar cuota. IVA de caja: si no cobras, no adelantas.",
+  "temas": [
+   "empleo",
+   "impuestos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Eliminación de la cuota de autónomos e IVA de caja"
+ },
+ {
+  "id": "c-23f40cbb73",
+  "cita": "Mínimo exento de 35.000, deflactación, el 0,9 % a tu cuenta y cero cotización del trabajador en el salario mínimo. La diferencia entre lo que cuestas y lo que cobras, doce puntos menos.",
+  "temas": [
+   "empleo",
+   "impuestos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Reducir la cuña fiscal del 41 al 29 %"
+ },
+ {
+  "id": "c-c8f0ceefef",
+  "cita": "Las mutuas dan el alta en contingencias comunes a los 15 días, con revisión del INSS en 72 horas.",
+  "temas": [
+   "empleo",
+   "sanidad"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Control del absentismo por las mutuas"
+ },
+ {
+  "id": "c-d53993dd54",
+  "cita": "Rechazar dos ofertas adecuadas: fin de la prestación. Y complemento salarial para que el Ingreso Mínimo baje 50 céntimos por cada euro ganado, no uno a uno.",
+  "temas": [
+   "empleo",
+   "familias-y-cuidados"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Prestaciones condicionadas y compatibles con el empleo"
+ },
+ {
+  "id": "c-7a88631178",
+  "cita": "FP dual con contrato y salario del 50 % del convenio, pagado a medias por empresa y Estado. Cotización cero durante dos años por contratar a menores de 30 y mayores de 50.",
+  "temas": [
+   "empleo",
+   "educacion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Aprendices pagados y bonificación a jóvenes y mayores de 50"
+ },
+ {
+  "id": "c-2d36b1029e",
+  "cita": "Revalorización con el IPC y prohibición de recortes, con rango constitucional. A quien ya cobra no se le toca un euro.",
+  "temas": [
+   "pensiones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Revalorización con el IPC blindada en la Constitución"
+ },
+ {
+  "id": "c-868fb19720",
+  "cita": "Menores de 45 años: el 2 % del salario a una cuenta individual obligatoria, tuya, heredable, con comisión máxima del 0,3 %.",
+  "temas": [
+   "pensiones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Sistema mixto con cuenta individual de capitalización"
+ },
+ {
+  "id": "c-04dfdf8a55",
+  "cita": "Nadie que haya cotizado 35 años cobrará menos de 1.000 euros en 14 pagas.",
+  "temas": [
+   "pensiones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Pensión mínima de 1.000 euros con 35 años cotizados"
+ },
+ {
+  "id": "c-3c5755d51d",
+  "cita": "Cobra el 100 % de la pensión y sigue trabajando sin recortes ni cotizaciones extra. Con 40 años cotizados te jubilas cuando quieras, sin penalización.",
+  "temas": [
+   "pensiones",
+   "empleo"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Jubilación activa total y jubilación libre con 40 años"
+ },
+ {
+  "id": "c-b6944cb73f",
+  "cita": "Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero. Calendario: 15.000 en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030.",
+  "temas": [
+   "impuestos",
+   "empleo"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "IRPF cero para los primeros 35.000 euros en 2030"
+ },
+ {
+  "id": "c-12e296f38e",
+  "cita": "El IBI se elimina por completo, para todos. Sin compensaciones a nadie: el impuesto desaparece y punto.",
+  "temas": [
+   "impuestos",
+   "vivienda",
+   "organizacion-territorial"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Supresión total del IBI"
+ },
+ {
+  "id": "c-bf0fc606a3",
+  "cita": "Heredar la casa de tus padres no es un hecho imponible. Es un duelo. Fuera también el impuesto a las grandes fortunas.",
+  "temas": [
+   "impuestos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Supresión de Sucesiones, Donaciones, Patrimonio y grandes fortunas"
+ },
+ {
+  "id": "c-1003c7ed45",
+  "cita": "Del 25 al 20 % en dos años; 15 % sobre el beneficio reinvertido; 10 % los tres primeros años de una empresa nueva.",
+  "temas": [
+   "impuestos",
+   "economia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Rebaja del impuesto de Sociedades"
+ },
+ {
+  "id": "c-cec6c2daa8",
+  "cita": "Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional). Cada contribuyente recibirá cada año cuánto pagó en total y en qué se gastó, euro a euro.",
+  "temas": [
+   "impuestos",
+   "democracia-e-instituciones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Mayoría de tres quintos para subir impuestos"
+ },
+ {
+  "id": "c-446fa9c50b",
+  "cita": "Eliminación inmediata de incentivos a la persecución fiscal; el 50 % de los inspectores fiscales se dedicarán en exclusiva a la investigación de políticos, cargos públicos y empresas subvencionadas directa o indirectamente.",
+  "temas": [
+   "impuestos",
+   "democracia-e-instituciones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Reorientación de la inspección fiscal hacia cargos públicos"
+ },
+ {
+  "id": "c-fc1bd25ed6",
+  "cita": "Ninguna bajada entra en vigor sin ahorro estructural certificado por la AIReF. Techo de gasto real. Déficit cero en 2030.",
+  "temas": [
+   "economia",
+   "impuestos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Regla de oro fiscal y déficit cero en 2030"
+ },
+ {
+  "id": "c-181734f838",
+  "cita": "Ley de Devolución del Rescate: las entidades que se quedaron con las cajas rescatadas (CaixaBank, BBVA, Sabadell, Unicaja y Abanca) pagan 4.700 millones al año durante 15 años, en proporción a las ayudas que absorbieron, con tope del 40 % de su beneficio anual y el exceso aplazado con interés.",
+  "temas": [
+   "economia",
+   "impuestos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Pago anual de la banca por el rescate de las cajas"
+ },
+ {
+  "id": "c-507578555c",
+  "cita": "Derecho a pagar y cobrar en efectivo sin límite de importe: se deroga el tope de 1.000 euros y España vetará el de 10.000 que impone Bruselas desde 2027.",
+  "temas": [
+   "economia",
+   "igualdad-y-derechos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Pago en efectivo sin límite como derecho constitucional"
+ },
+ {
+  "id": "c-839d78d9fc",
+  "cita": "Por cada regulación nueva que afecte a empresas, dos derogadas. Unidad de mercado real: lo que vale en una comunidad vale en todas.",
+  "temas": [
+   "economia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Simplificación normativa y unidad de mercado"
+ },
+ {
+  "id": "c-5a68cef9b9",
+  "cita": "Con SALF, el residente no paga IRPF, la empresa que crea empleo allí no paga Sociedades durante diez años y la cotización empresarial queda al 0 %.",
+  "temas": [
+   "economia",
+   "impuestos",
+   "organizacion-territorial"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Ceuta y Melilla como plaza franca fiscal"
+ },
+ {
+  "id": "c-ac2f3300e1",
+  "cita": "60 días para cirugía, 30 para especialista, 7 para pruebas prioritarias. Superado el plazo, eliges centro, público o privado, y lo paga la sanidad pública.",
+  "temas": [
+   "sanidad"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Plazos máximos garantizados en listas de espera"
+ },
+ {
+  "id": "c-1f51b2c392",
+  "cita": "Central única obligatoria con precios netos públicos: 15 % de ahorro, íntegro para sueldos y plazas.",
+  "temas": [
+   "sanidad"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Central de compras sanitaria única"
+ },
+ {
+  "id": "c-728c912384",
+  "cita": "Subida del 20 % a médicos y del 10 % a enfermería y al resto de profesionales sanitarios en cuatro años, 30.000 euros de complemento en plazas rurales y contratos estables desde el primer día.",
+  "temas": [
+   "sanidad",
+   "empleo",
+   "campo-y-medio-rural"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Subida salarial a médicos y personal sanitario"
+ },
+ {
+  "id": "c-fd46d2f713",
+  "cita": "Tarjeta para españoles y residentes legales con cotización o cobertura. Urgencias para todos, siempre. Facturación real a los países y aseguradoras de terceros.",
+  "temas": [
+   "sanidad",
+   "inmigracion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Tarjeta sanitaria limitada a españoles y residentes legales"
+ },
+ {
+  "id": "c-1437b68383",
+  "cita": "Un psicólogo clínico por cada 10.000 habitantes en los centros de salud y atención en 15 días.",
+  "temas": [
+   "sanidad"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Salud mental en atención primaria"
+ },
+ {
+  "id": "c-a4b90f1e7e",
+  "cita": "Aprobada por dos tercios y blindada: no se cambia sin la misma mayoría. Contenidos mínimos comunes al 100 %, evaluaciones externas al final de cada etapa y selectividad única y en castellano en toda España.",
+  "temas": [
+   "educacion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Ley educativa estable y selectividad única"
+ },
+ {
+  "id": "c-05dd2d04b6",
+  "cita": "Derecho a la enseñanza en castellano en toda España, exigible por la familia, con Alta Inspección estatal que sanciona.",
+  "temas": [
+   "educacion",
+   "organizacion-territorial"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Enseñanza en castellano exigible en toda España"
+ },
+ {
+  "id": "c-42ba4e4e0e",
+  "cita": "Cheque escolar válido en pública, concertada y privada, con el mismo importe por alumno y resultados públicos de cada centro. Elegir colegio no puede ser un lujo.",
+  "temas": [
+   "educacion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Cheque escolar para cualquier tipo de centro"
+ },
+ {
+  "id": "c-400fa831fe",
+  "cita": "Dos años de prácticas remuneradas con tutor y examen nacional de acceso. El mejor profesor de España enseña donde quiera.",
+  "temas": [
+   "educacion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "MIR docente para el acceso al profesorado"
+ },
+ {
+  "id": "c-ba13a70367",
+  "cita": "Los contenidos los fija un Consejo Académico independiente, no el Gobierno de turno. Neutralidad ideológica obligatoria en el aula, prohibición de propaganda de partidos y sindicatos en horario lectivo, libros de texto revisados por académicos, inspección y sanción.",
+  "temas": [
+   "educacion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Consejo Académico independiente y neutralidad en el aula"
+ },
+ {
+  "id": "c-c2a6cf9527",
+  "cita": "Cada hijo suma 5.000 euros al mínimo exento de cada progenitor: ni el padre ni la madre pagan IRPF por esa parte. Una pareja con dos hijos no paga hasta 45.000 euros cada uno.",
+  "temas": [
+   "familias-y-cuidados",
+   "impuestos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Deducción fiscal por hijo para fomentar la natalidad"
+ },
+ {
+  "id": "c-6288d3d882",
+  "cita": "Copago cero en farmacia para todos los menores de 3 años, en toda España.",
+  "temas": [
+   "familias-y-cuidados",
+   "sanidad"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Medicamentos gratis para menores de tres años"
+ },
+ {
+  "id": "c-e36c29e46e",
+  "cita": "Derecho a una prueba de paternidad gratuita e inmediata en el propio hospital, al nacer, salvo renuncia expresa de ambos progenitores.",
+  "temas": [
+   "familias-y-cuidados",
+   "sanidad"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Test de paternidad gratuito al nacer"
+ },
+ {
+  "id": "c-bbe61f5e67",
+  "cita": "Identificación, orden y salida en 48 horas. El 100 % de las órdenes ejecutadas en 90 días. Internamiento hasta la expulsión.",
+  "temas": [
+   "inmigracion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Ejecución de órdenes de expulsión en 48 horas"
+ },
+ {
+  "id": "c-da279e13af",
+  "cita": "Derogación de la regularización de 2026, revisión una por una de las concesiones y prohibición por ley orgánica de cualquier regularización masiva. Cada regularización es una invitación.",
+  "temas": [
+   "inmigracion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Derogar la regularización de 2026 y prohibir otras"
+ },
+ {
+  "id": "c-787ce19ec3",
+  "cita": "Moratoria total, durante toda la legislatura, a la inmigración procedente de países que no colaboran contra las mafias de trata de personas ni readmiten a sus nacionales. Para el resto, solo visados con contrato previo y cupo anual votado en el Congreso.",
+  "temas": [
+   "inmigracion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Moratoria migratoria y cupos con contrato previo"
+ },
+ {
+  "id": "c-35a0bf6a29",
+  "cita": "Cupos preferentes para Hispanoamérica. Nacionalidad: diez años de residencia legal, examen de cultura y Constitución, sin antecedentes y sin depender de ayudas. Revisión de todas las obtenidas con fraude.",
+  "temas": [
+   "inmigracion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Requisitos más duros para la nacionalidad"
+ },
+ {
+  "id": "c-974c8f9f16",
+  "cita": "Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal y cotización. Tasa del 2 % a las remesas hacia países que no readmiten.",
+  "temas": [
+   "inmigracion",
+   "familias-y-cuidados"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Ayudas sociales condicionadas a cinco años de residencia"
+ },
+ {
+  "id": "c-e0984bd81a",
+  "cita": "Prueba radiológica y dental obligatoria antes de entrar en un centro de menores. Repatriación con la familia como primera opción. Ni un adulto en un centro con niños.",
+  "temas": [
+   "inmigracion",
+   "familias-y-cuidados"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Menores migrantes: prueba de edad y repatriación"
+ },
+ {
+  "id": "c-7a4199a082",
+  "cita": "Máxima seguridad para asesinos, agresores sexuales, narcotraficantes, crimen organizado, terroristas, multirreincidentes violentos y políticos corruptos. Sin permisos, sin tercer grado, sin teléfono.",
+  "temas": [
+   "seguridad-y-justicia",
+   "democracia-e-instituciones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Macrocárcel de máxima seguridad de unos 3.000 millones"
+ },
+ {
+  "id": "c-d911910550",
+  "cita": "Violadores, asesinos, narcos y corruptos: cumplimiento íntegro, sin reducción ninguna ni permisos. Prisión permanente revisable por violación a menores o con lesiones graves. Tres condenas: prisión sin suspensión.",
+  "temas": [
+   "seguridad-y-justicia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Cumplimiento íntegro de penas y ampliación de la prisión permanente"
+ },
+ {
+  "id": "c-de243e9fb2",
+  "cita": "Registro público de reincidentes, pulsera telemática de por vida y castración química voluntaria como condición de cualquier beneficio penitenciario.",
+  "temas": [
+   "seguridad-y-justicia",
+   "igualdad-y-derechos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Medidas contra agresores sexuales reincidentes"
+ },
+ {
+  "id": "c-56a4cb9aa4",
+  "cita": "2.000 jueces y 1.500 fiscales más. Juicios rápidos en 72 horas para multirreincidentes y delitos flagrantes. Expediente digital único en toda España.",
+  "temas": [
+   "seguridad-y-justicia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Más jueces y fiscales y juicios rápidos"
+ },
+ {
+  "id": "c-f548d201db",
+  "cita": "Equiparación salarial real en dos años, jubilación a los 60 sin penalización y reconocimiento de profesión de riesgo.",
+  "temas": [
+   "seguridad-y-justicia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Equiparación salarial de Guardia Civil y Policía Nacional"
+ },
+ {
+  "id": "c-25a9332887",
+  "cita": "Presunción legal de legítima defensa en tu vivienda o negocio, incluido el uso de armas de fuego legalmente tenidas: quien irrumpe por la fuerza o de noche asume las consecuencias. La acusación tiene que probar el exceso, no la víctima.",
+  "temas": [
+   "seguridad-y-justicia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Presunción de legítima defensa en el domicilio"
+ },
+ {
+  "id": "c-700b8a12dd",
+  "cita": "Apoyo permanente de la Armada y el Ejército del Aire, 180 millones en lanchas, drones y medios aéreos, y decomiso civil de todo bien del narcotráfico.",
+  "temas": [
+   "seguridad-y-justicia",
+   "politica-exterior-y-defensa"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Plan Estrecho contra el narcotráfico"
+ },
+ {
+  "id": "c-9dde9b1f60",
+  "cita": "Plan 2027-2029: UCO de 580 a 1.800 agentes, UDEF de 320 a 1.000, 1.200 más en UDYCO y Vigilancia Aduanera, peritos contables y laboratorio forense propio.",
+  "temas": [
+   "seguridad-y-justicia",
+   "democracia-e-instituciones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Triplicar los investigadores de UCO, UDEF y UDYCO"
+ },
+ {
+  "id": "c-60a5ced53f",
+  "cita": "Persecución total contra sus miembros, bloqueo económico total y aplicación de la ley del terrorismo, con sus penas máximas, por la mera pertenencia a esta y otras redes de radicalización islámica.",
+  "temas": [
+   "seguridad-y-justicia",
+   "politica-exterior-y-defensa",
+   "igualdad-y-derechos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Ley antiterrorista contra los Hermanos Musulmanes"
+ },
+ {
+  "id": "c-1a885dd6f5",
+  "cita": "Cohecho, malversación, prevaricación, tráfico de influencias y financiación ilegal cometidos por cargos públicos: imprescriptibles. Hoy prescriben entre 5 y 15 años: el ladrón solo tiene que esperar.",
+  "temas": [
+   "democracia-e-instituciones",
+   "seguridad-y-justicia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Delitos de corrupción imprescriptibles"
+ },
+ {
+  "id": "c-d41acc4ca4",
+  "cita": "La mitad de los altos cargos y 400 asesores. Doce ministerios desaparecen el primer día; sus funciones útiles pasan a los diez que quedan.",
+  "temas": [
+   "democracia-e-instituciones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Gobierno de diez ministerios y una vicepresidencia"
+ },
+ {
+  "id": "c-b309c71eaf",
+  "cita": "Límite de 15 años en cargos públicos remunerados. Fuera el Senado, el Consejo de Estado, los Consejos Económicos y Sociales, la publicidad institucional y las subvenciones a sindicatos y patronal. Partidos: 50 % menos. Asesores: de 1.255 a 400.",
+  "temas": [
+   "democracia-e-instituciones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Supresión del Senado y límite de mandatos"
+ },
+ {
+  "id": "c-bda52236cf",
+  "cita": "Reforma de la Constitución para suprimir el Tribunal Constitucional y atribuir la potestad de control de constitucionalidad de las leyes y de las actuaciones de los poderes públicos a una sala especial del Tribunal Supremo.",
+  "temas": [
+   "democracia-e-instituciones",
+   "seguridad-y-justicia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Supresión del Tribunal Constitucional"
+ },
+ {
+  "id": "c-26e1228bfc",
+  "cita": "Elegido por tres quintos del Congreso entre fiscales con 25 años de carrera, mandato de seis años no coincidente con la legislatura.",
+  "temas": [
+   "democracia-e-instituciones",
+   "seguridad-y-justicia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Fiscal General elegido por el Congreso"
+ },
+ {
+  "id": "c-7118889e8d",
+  "cita": "Reforma de la Constitución para prohibir expresamente las amnistías y condicionar los indultos a requisitos que impidan su utilización política: solicitud por el órgano jurisdiccional en la misma sentencia condenatoria e informe favorable del CGPJ o de un órgano ad hoc sin influencia política en su composición.",
+  "temas": [
+   "democracia-e-instituciones",
+   "seguridad-y-justicia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Prohibir amnistías y limitar los indultos"
+ },
+ {
+  "id": "c-227a4bd785",
+  "cita": "Los 17.621 aforados, juzgados por el mismo juez que tú. Reforma constitucional presentada el primer día.",
+  "temas": [
+   "democracia-e-instituciones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Fin de los aforamientos"
+ },
+ {
+  "id": "c-f5e3d2e9b7",
+  "cita": "Portal único de todas las administraciones: pagos, contratos, subvenciones, nóminas de altos cargos y asesores, agendas y regalos.",
+  "temas": [
+   "democracia-e-instituciones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Publicar en 24 horas todo gasto de más de 1.000 euros"
+ },
+ {
+  "id": "c-ee427c1179",
+  "cita": "Desde el 1.º día, el 100 % del sueldo público de Alvise Pérez queda bloqueado en una cuenta del Banco de España. En junio de 2030, se comparan las 119 medidas de este contrato electoral con los votos de Alvise en el Congreso de los Diputados: si no llegan al 100 %, ese dinero acumulado se lo queda España.",
+  "temas": [
+   "democracia-e-instituciones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Cláusula de penalización sobre el sueldo del candidato"
+ },
+ {
+  "id": "c-299054df20",
+  "cita": "Frente a modelos de financiación improvisados ad hoc por el sanchismo para contentar a sus socios separatistas y mantenerse un día más en el poder, defenderemos un sistema justo, solidario y responsable, regido por criterios objetivos y transparentes, iguales para todas las Comunidades Autónomas.",
+  "temas": [
+   "organizacion-territorial",
+   "economia"
+  ],
+  "clase": "posicion",
+  "medida_concreta": false,
+  "nota": "Financiación autonómica con criterios iguales para todas"
+ },
+ {
+  "id": "c-d6688a447d",
+  "cita": "Nos opondremos a las condonaciones de deuda entre administraciones, salvo en caso de catástrofe.",
+  "temas": [
+   "organizacion-territorial",
+   "economia"
+  ],
+  "clase": "posicion",
+  "medida_concreta": false,
+  "nota": "Rechazo a condonar deuda autonómica"
+ },
+ {
+  "id": "c-782ef58093",
+  "cita": "Supresión de las diputaciones provinciales",
+  "temas": [
+   "organizacion-territorial",
+   "democracia-e-instituciones"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Suprimir las diputaciones, ahorro estimado de 1.500 millones anuales"
+ },
+ {
+  "id": "c-b56f13c47c",
+  "cita": "Gestión mancomunada obligatoria en municipios de menos de 5.000 habitantes",
+  "temas": [
+   "organizacion-territorial",
+   "campo-y-medio-rural"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Servicios mancomunados obligatorios en municipios de menos de 5.000 habitantes"
+ },
+ {
+  "id": "c-fa45c0dd41",
+  "cita": "La luz, del 21 al 4 %; el agua, del 10 al 4 %. Y fuera el impuesto a la producción eléctrica que va directo a tu factura.",
+  "temas": [
+   "medio-ambiente-y-energia",
+   "impuestos"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "IVA del 4 % en luz y agua"
+ },
+ {
+  "id": "c-c5cffdf762",
+  "cita": "Mercosur se aplica desde mayo de 2026 contra el voto de Francia; el recorte del 20 % de la PAC quita 877 millones al año al campo español; la Ley de Restauración deja improductivo hasta el 40 % de la Red Natura. España lo veta en el Consejo: lo que se come en España se produce en España.",
+  "temas": [
+   "campo-y-medio-rural",
+   "politica-exterior-y-defensa",
+   "medio-ambiente-y-energia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Veto a Mercosur, recorte de la PAC y Ley de Restauración"
+ },
+ {
+  "id": "c-5b43b3cce4",
+  "cita": "Y el 75 % de residente en avión y barco, pagado a las compañías en 30 días: el Estado debe hoy 810 millones y pone en riesgo las rutas.",
+  "temas": [
+   "transporte",
+   "organizacion-territorial"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Pago en plazo del descuento de residente canario"
+ },
+ {
+  "id": "c-3c27511acb",
+  "cita": "Burka y niqab fuera del espacio público, como en Francia, Bélgica, Austria, Dinamarca, Países Bajos y Suiza. Una mujer sin rostro no es diversidad: es sumisión.",
+  "temas": [
+   "igualdad-y-derechos",
+   "inmigracion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Prohibición del velo integral en espacios públicos"
+ },
+ {
+  "id": "c-30e546abf2",
+  "cita": "Prohibición de la financiación extranjera del culto, registro público de donaciones y cierre de quien no cumpla. Imanes que prediquen contra la Constitución, expulsados.",
+  "temas": [
+   "igualdad-y-derechos",
+   "inmigracion",
+   "seguridad-y-justicia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Control de la financiación de mezquitas"
+ },
+ {
+  "id": "c-cc7f5de4c6",
+  "cita": "Que el eje franco-alemán quiera arruinar nuestro sector primario, bloquear medidas contra la inmigración ilegal, use el endeudamiento español para extorsionar el legítimo interés nacional o coarte derechos fundamentales como la libertad de expresión o la no injerencia política extranjera justifica un referéndum de renegociación. Si Bruselas rechaza renegociar, segundo referéndum: la salida.",
+  "temas": [
+   "politica-exterior-y-defensa",
+   "campo-y-medio-rural",
+   "inmigracion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Referéndum de renegociación con la UE y de salida"
+ },
+ {
+  "id": "c-5d7e981e05",
+  "cita": "Bloqueo comercial total a todo puerto marroquí si el país alauí sigue bloqueando un solo puerto español.",
+  "temas": [
+   "politica-exterior-y-defensa",
+   "economia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Represalia comercial a Marruecos"
+ },
+ {
+  "id": "c-0a23f1415c",
+  "cita": "Vuelta a la posición de la ONU, tratado de amistad con Argelia y contratos de gas a largo plazo: Argelia aporta el 38,5 % del gas que importamos.",
+  "temas": [
+   "politica-exterior-y-defensa",
+   "medio-ambiente-y-energia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Sáhara: retirar el giro de 2022 y acercarse a Argelia"
+ },
+ {
+  "id": "c-bb37e69c15",
+  "cita": "Se acabó: brigada completa en cada ciudad, con la V Bandera de la Legión recuperada, 5.000 militares y 1.000 guardias civiles más en las dos plazas; baterías NASAMS y red antidrón en Ceuta, Melilla y cada isla canaria (hoy, una sola batería en Gran Canaria); dos buques más en Las Palmas y escuadrón de drones en Lanzarote.",
+  "temas": [
+   "politica-exterior-y-defensa",
+   "seguridad-y-justicia"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Refuerzo militar en Ceuta, Melilla y Canarias"
+ },
+ {
+  "id": "c-410099cc42",
+  "cita": "De seis a doce meses, militar o civil, entre 18 y 30 años: 1.600 euros netos, formación oficial, puntos en todas las oposiciones, vivienda protegida preferente y 5.000 euros al terminar.",
+  "temas": [
+   "politica-exterior-y-defensa",
+   "empleo",
+   "educacion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Servicio militar o civil voluntario remunerado"
+ },
+ {
+  "id": "c-f62f4b37c8",
+  "cita": "4.550 millones al año de ayuda oficial al desarrollo. Se cortan salvo emergencias humanitarias y programas con retorno para España: readmisión de nacionales en 72 horas, respeto a la soberanía (quien reclame Ceuta, Melilla o Canarias no cobra) y cooperación contra el narcotráfico y el yihadismo.",
+  "temas": [
+   "politica-exterior-y-defensa",
+   "inmigracion"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Recorte y condicionamiento de la ayuda al desarrollo"
+ },
+ {
+  "id": "c-7e51037593",
+  "cita": "Negociación bilateral con Londres con la cosoberanía como primer paso y fin del paraíso fiscal, como pide la ONU desde 1965.",
+  "temas": [
+   "politica-exterior-y-defensa"
+  ],
+  "clase": "medida",
+  "medida_concreta": true,
+  "nota": "Gibraltar: cosoberanía y fin del régimen fiscal"
+ }
+]

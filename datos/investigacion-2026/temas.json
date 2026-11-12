@@ -1,0 +1,256 @@
+{
+  "nota": "Temas aprobados por el responsable del proyecto el 10 de noviembre de 2026 para las páginas de partidos y de temas. Los del test se elegirán cuando lleguen los programas que faltan. Cada etiqueta que pusieron los agentes al extraer las citas se asigna a un tema; una cita cae en todos los temas de sus etiquetas. Las etiquetas transversales (juventud, mayores) no tienen tema propio: sus citas van al tema de sus otras etiquetas y, si no tienen otra, al indicado aquí. Se edita a mano; los recuentos los calcula scripts/investigacion/temas.mjs.",
+  "estado": "aprobado",
+  "temas": [
+    {
+      "id": "vivienda",
+      "nombre": "Vivienda",
+      "definicion": "Acceso a la vivienda en compra y alquiler, vivienda pública, suelo y urbanismo.",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ]
+    },
+    {
+      "id": "empleo",
+      "nombre": "Empleo y salarios",
+      "definicion": "Trabajo, salarios, jornada, contratos, autónomos, sindicatos y salud laboral.",
+      "etiquetas": [
+        "empleo",
+        "autónomos",
+        "sindicatos",
+        "salud laboral",
+        "conciliación",
+        "economía social",
+        "empleo público"
+      ]
+    },
+    {
+      "id": "pensiones",
+      "nombre": "Pensiones",
+      "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
+      "etiquetas": [
+        "pensiones",
+        "seguridad social"
+      ]
+    },
+    {
+      "id": "impuestos",
+      "nombre": "Impuestos",
+      "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
+      "etiquetas": [
+        "impuestos",
+        "ahorro"
+      ]
+    },
+    {
+      "id": "economia",
+      "nombre": "Economía y empresas",
+      "definicion": "Industria, empresas, comercio, turismo, cuentas públicas y coste de la vida. Los impuestos y el empleo van aparte.",
+      "etiquetas": [
+        "economía",
+        "industria",
+        "empresas",
+        "comercio exterior",
+        "comercio",
+        "turismo",
+        "gasto público",
+        "deuda pública",
+        "subvenciones",
+        "empresas públicas",
+        "consumo",
+        "coste de la vida",
+        "minería",
+        "publicidad",
+        "juego"
+      ]
+    },
+    {
+      "id": "sanidad",
+      "nombre": "Sanidad",
+      "definicion": "Sanidad pública, listas de espera, atención primaria, salud mental y adicciones.",
+      "etiquetas": [
+        "sanidad",
+        "salud mental",
+        "adicciones",
+        "drogas",
+        "cuidados paliativos",
+        "amianto"
+      ]
+    },
+    {
+      "id": "educacion",
+      "nombre": "Educación",
+      "definicion": "Escuela, formación profesional, universidad y becas.",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ]
+    },
+    {
+      "id": "familias-y-cuidados",
+      "nombre": "Familias y servicios sociales",
+      "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
+      "etiquetas": [
+        "servicios sociales",
+        "familia",
+        "infancia",
+        "dependencia",
+        "discapacidad",
+        "soledad no deseada",
+        "población",
+        "familias"
+      ]
+    },
+    {
+      "id": "inmigracion",
+      "nombre": "Inmigración",
+      "definicion": "Entrada y control de fronteras, regularización, integración, asilo, nacionalidad y emigración.",
+      "etiquetas": [
+        "inmigración",
+        "asilo",
+        "nacionalidad",
+        "emigración"
+      ]
+    },
+    {
+      "id": "seguridad-y-justicia",
+      "nombre": "Seguridad y justicia",
+      "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
+      "etiquetas": [
+        "seguridad",
+        "justicia",
+        "terrorismo",
+        "narcotráfico",
+        "emergencias",
+        "seguridad vial",
+        "prostitución"
+      ]
+    },
+    {
+      "id": "democracia-e-instituciones",
+      "nombre": "Democracia e instituciones",
+      "definicion": "Funcionamiento de las instituciones, corrupción, transparencia, sistema electoral, administración pública y medios de comunicación.",
+      "etiquetas": [
+        "instituciones",
+        "transparencia",
+        "corrupción",
+        "administración pública",
+        "función pública",
+        "burocracia",
+        "contratación pública",
+        "sistema electoral",
+        "elecciones",
+        "partidos políticos",
+        "participación ciudadana",
+        "pactos de gobierno",
+        "reforma constitucional",
+        "medios de comunicación",
+        "servicios públicos",
+        "ideología",
+        "símbolos nacionales"
+      ]
+    },
+    {
+      "id": "organizacion-territorial",
+      "nombre": "Organización territorial",
+      "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+      "etiquetas": [
+        "organización territorial",
+        "financiación autonómica",
+        "municipios",
+        "financiación local",
+        "lenguas",
+        "insularidad",
+        "ceuta y melilla"
+      ]
+    },
+    {
+      "id": "medio-ambiente-y-energia",
+      "nombre": "Medio ambiente y energía",
+      "definicion": "Clima, energía, agua, contaminación, costas, montes, protección de la naturaleza y bienestar animal.",
+      "etiquetas": [
+        "medio ambiente",
+        "energía",
+        "agua",
+        "costas",
+        "montes",
+        "caza",
+        "bienestar animal"
+      ]
+    },
+    {
+      "id": "campo-y-medio-rural",
+      "nombre": "Campo y medio rural",
+      "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio rural",
+        "despoblación",
+        "alimentación"
+      ]
+    },
+    {
+      "id": "transporte",
+      "nombre": "Transporte e infraestructuras",
+      "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras",
+        "telecomunicaciones"
+      ]
+    },
+    {
+      "id": "igualdad-y-derechos",
+      "nombre": "Igualdad y derechos",
+      "definicion": "Igualdad entre mujeres y hombres, violencia machista, derechos LGTBI, libertades civiles, memoria democrática y relación con las religiones.",
+      "etiquetas": [
+        "igualdad",
+        "violencia machista",
+        "violencia de género",
+        "lgtbi",
+        "derechos y libertades",
+        "derechos humanos",
+        "memoria democrática",
+        "gestación subrogada",
+        "laicidad",
+        "religión"
+      ]
+    },
+    {
+      "id": "politica-exterior-y-defensa",
+      "nombre": "Política exterior y defensa",
+      "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
+      "etiquetas": [
+        "política exterior",
+        "defensa",
+        "unión europea",
+        "cooperación al desarrollo"
+      ]
+    },
+    {
+      "id": "ciencia-cultura-y-digital",
+      "nombre": "Ciencia, cultura y digital",
+      "definicion": "Investigación, tecnología e inteligencia artificial, cultura y deporte.",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "inteligencia artificial",
+        "cultura",
+        "deporte",
+        "tauromaquia",
+        "derechos digitales"
+      ]
+    }
+  ],
+  "transversales": {
+    "juventud": {
+      "si_no_hay_otra": "educacion",
+      "motivo": "Sus citas tratan de vivienda, empleo o formación de jóvenes: van al tema de su otra etiqueta."
+    },
+    "mayores": {
+      "si_no_hay_otra": "familias-y-cuidados",
+      "motivo": "Igual que juventud."
+    }
+  },
+  "aprobado": "2026-11-10"
+}

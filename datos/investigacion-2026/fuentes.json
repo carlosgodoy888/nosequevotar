@@ -1,0 +1,302 @@
+{
+  "nota": "Registro de fuentes de la investigación de 2026. Cada documento descargado lleva la fecha de consulta y su huella SHA-256; el archivo está fuera del repositorio, en DATOS_DIR (por defecto ../datos-nosequevotar). Cuando una fuente se sustituye por una versión nueva, la anterior no se borra: pasa a \"estado\": \"sustituida\" y apunta a la nueva en \"sustituida_por\".",
+  "fuentes": [
+    {
+      "id": "boe-a-2026-23103",
+      "tipo": "boe",
+      "titulo": "Candidaturas proclamadas para las elecciones al Congreso de los Diputados y al Senado, convocadas por Real Decreto 806/2026, de 5 de octubre",
+      "autor": "Juntas Electorales Provinciales",
+      "publicado": "2026-11-03",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103",
+      "url_pdf": "https://www.boe.es/boe/dias/2026/11/03/pdfs/BOE-A-2026-23103.pdf",
+      "consultado": "2026-11-10T12:41:46Z",
+      "archivo": "fuentes/descargas/boe/BOE-A-2026-23103.txt.html",
+      "sha256": "23ec5acc704563fdbaccf1e95ef319d485cfcf45e1cdf460817998b9ff907c27",
+      "estado": "vigente",
+      "usado_en": [
+        "candidaturas-boe.json"
+      ]
+    },
+    {
+      "id": "boe-a-2026-23383",
+      "tipo": "boe",
+      "titulo": "Corrección de errores de las candidaturas proclamadas para las elecciones al Congreso de los Diputados y al Senado, convocadas por Real Decreto 806/2026, de 5 de octubre",
+      "autor": "Juntas Electorales Provinciales",
+      "publicado": "2026-11-07",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23383",
+      "url_pdf": "https://www.boe.es/boe/dias/2026/11/07/pdfs/BOE-A-2026-23383.pdf",
+      "consultado": "2026-11-10T12:43:30Z",
+      "archivo": "fuentes/descargas/boe/BOE-A-2026-23383.txt.html",
+      "sha256": "30f3bc9ea40534556465920437e5fe23df0c314eedcffe37eb3c1219e1212150",
+      "estado": "vigente",
+      "usado_en": [
+        "candidaturas-boe.json"
+      ]
+    },
+    {
+      "id": "boe-a-2023-18907",
+      "tipo": "boe",
+      "titulo": "Resolución de 30 de agosto de 2023, de la Presidencia de la Junta Electoral Central, por la que se publican los resultados de las elecciones al Congreso de los Diputados y al Senado convocadas por Real Decreto 400/2023",
+      "autor": "Junta Electoral Central",
+      "publicado": "2023-09-01",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-18907",
+      "url_pdf": "https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf",
+      "consultado": "2026-11-10T12:46:23Z",
+      "archivo": "fuentes/descargas/boe/BOE-A-2023-18907.txt.html",
+      "sha256": "ee46741c741a71dc0f5aedcf129d058e777de09b607e98c7116a5669cfaa695a",
+      "estado": "vigente",
+      "usado_en": [
+        "resultados-2023.json"
+      ]
+    },
+    {
+      "id": "pp-programa-2026",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "pp",
+      "titulo": "La Reconstrucción Nacional. Programa electoral 2026",
+      "idioma": "es",
+      "publicado": "2026-11-10",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+      "consultado": "2026-11-10T15:19:02Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-10-2026-pp.pdf",
+      "sha256": "cea8f2a052278e51ad682d19444eb0e9089997adbde8df76babf7f236bb5ffbe",
+      "estado": "sustituida",
+      "usado_en": [
+        "citas/pp.json"
+      ],
+      "enlazado_desde": "https://www.pp.es/actualidad/documentos/",
+      "paginas": 82,
+      "sustituida_por": "pp-programa-2026-v2",
+      "sustituida_el": "2026-11-11"
+    },
+    {
+      "id": "eaj-pnv-programa-2026",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "eaj-pnv",
+      "titulo": "Programa Electoral 29N",
+      "idioma": "es",
+      "publicado": "2026-11-09",
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+      "consultado": "2026-11-10T15:19:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-10-2026-eaj-pnv.pdf",
+      "sha256": "5af7a5b6f67c26bad87ef6c3ca01ae38aa1f1d7d9029efb32fc52482de0c1314",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/eaj-pnv.json"
+      ],
+      "paginas": 43
+    },
+    {
+      "id": "bng-programa-2026",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "bng",
+      "titulo": "29N. Xerais 2026. Programa electoral",
+      "idioma": "gl",
+      "publicado": "2026-11-03",
+      "url": "https://www.bng.gal/media/bnggaliza/files/2026/11/03/26_bng_xerais_documentos_programa_electoral.pdf",
+      "consultado": "2026-11-10T15:19:12Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-10-2026-bng.pdf",
+      "sha256": "fd5aef260b9c66d030b57b7b0e18914c8ad79384e2c46b2346d9fb4f6514a97d",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/bng.json"
+      ],
+      "paginas": 91
+    },
+    {
+      "id": "cc-primero-canarias-programa-2026",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "cc-primero-canarias",
+      "titulo": "Defiende Canarias. Bases del programa electoral de Coalición Canaria y Municipalistas Primero Canarias para las elecciones generales. 29N",
+      "idioma": "es",
+      "publicado": "2026-11-09",
+      "url": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf",
+      "consultado": "2026-11-10T15:19:17Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-10-2026-cc-primero-canarias.pdf",
+      "sha256": "3c40c0a6e38d8dd80ae1061d94b614f4e3f1b6492ec8c801834fb497f337044e",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/cc-primero-canarias.json"
+      ],
+      "paginas": 23
+    },
+    {
+      "id": "frente-obrero-programa-general",
+      "tipo": "programa",
+      "clase": "programa_general",
+      "partido": "frente-obrero",
+      "titulo": "Un programa para recuperar España (programa político del partido)",
+      "idioma": "es",
+      "publicado": "2026-10-07",
+      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "consultado": "2026-11-10T15:19:20Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-10-2026-frente-obrero.pdf",
+      "sha256": "7b9f423f2c1ada187b6f42ed8dbf4e025356254d7a6b81830e114b818ef2e282",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/frente-obrero.json"
+      ],
+      "paginas": 64
+    },
+    {
+      "id": "d21-espana-limpia",
+      "tipo": "programa",
+      "clase": "documento_parcial",
+      "partido": "d21",
+      "titulo": "España Limpia",
+      "idioma": "es",
+      "publicado": "2026-10-15",
+      "url": "https://democracia21.es/docs/espana-limpia-democracia21.pdf",
+      "consultado": "2026-11-10T15:19:24Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-10-2026-d21-espana-limpia.pdf",
+      "sha256": "bfa89b7218cd6a76d0eff86a1f6aad0a2e8c7c14a5d88f18ea002658bab4e1de",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "enlazado_desde": "https://democracia21.es/#soluciones",
+      "paginas": 13
+    },
+    {
+      "id": "d21-vivienda",
+      "tipo": "programa",
+      "clase": "documento_parcial",
+      "partido": "d21",
+      "titulo": "Vivienda, Prioridad Nº1",
+      "idioma": "es",
+      "publicado": "2026-10-20",
+      "url": "https://democracia21.es/docs/vivienda-prioridad-1-democracia21.pdf",
+      "consultado": "2026-11-10T15:19:27Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-10-2026-d21-vivienda.pdf",
+      "sha256": "2ef0d6c15c661a8f1dda1c2576c8566098e0f53a358aa139721e342b9de7a38f",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "enlazado_desde": "https://democracia21.es/#soluciones",
+      "paginas": 9
+    },
+    {
+      "id": "d21-educacion",
+      "tipo": "programa",
+      "clase": "documento_parcial",
+      "partido": "d21",
+      "titulo": "La educación en el centro",
+      "idioma": "es",
+      "publicado": "2026-11-05",
+      "url": "https://democracia21.es/docs/educacion-en-el-centro-democracia21.pdf",
+      "consultado": "2026-11-10T15:19:30Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-10-2026-d21-educacion.pdf",
+      "sha256": "64c94cad2baa7af13f3be0edbbceb08bf026057f0a17fdb812d483f38e800ab4",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "enlazado_desde": "https://democracia21.es/#soluciones",
+      "paginas": 8
+    },
+    {
+      "id": "erc-programa-2026",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "erc",
+      "titulo": "Eleccions al Congrés 2026. Programa electoral. Pel país. Per la gent. Pel futur.",
+      "idioma": "ca",
+      "publicado": "2026-11-10",
+      "url": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
+      "consultado": "2026-11-10",
+      "descargado_por": "el responsable del proyecto (el robots.txt del sitio prohíbe el acceso a agentes de IA)",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-10-2026-erc.pdf",
+      "sha256": "61728d162a6e88d492d44a0b0994effb31f9e4abb85ebf8aea715d870a9b2e04",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/erc.json"
+      ],
+      "paginas": 48
+    },
+    {
+      "id": "pp-programa-2026-v2",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "pp",
+      "titulo": "La Reconstrucción Nacional. Programa electoral 2026",
+      "idioma": "es",
+      "publicado": "2026-11-10",
+      "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf",
+      "enlazado_desde": "https://www.pp.es/actualidad/documentos/",
+      "consultado": "2026-11-11",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-11-2026-pp.pdf",
+      "nota": "Segunda edición, subida a pp.es el 11-11-2026: el mismo texto que la primera (23.598 palabras, comparadas una a una), maquetado en 64 páginas en lugar de 82. Las ocho medidas sin texto siguen sin texto.",
+      "usado_en": [
+        "citas/pp.json"
+      ],
+      "sha256": "ae0c35d7ef3faf540acaa79d47abbe3ae2bf56a3a755c4e78a8f5bf3ea49789c",
+      "estado": "vigente",
+      "paginas": 64
+    },
+    {
+      "id": "salf-contrato-electoral-29n",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "salf",
+      "titulo": "Contrato electoral 29N",
+      "idioma": "es",
+      "publicado": "2026-11-10",
+      "url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+      "enlazado_desde": "https://www.seacabolafiesta.com/",
+      "consultado": "2026-11-11",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-11-2026-salf.pdf",
+      "nota": "La web del partido lo presenta en el apartado «El programa», como los diez compromisos de SALF para el 29N.",
+      "usado_en": [
+        "citas/salf.json"
+      ],
+      "sha256": "073425b9522da77608a0399923c2e0d3b9153776e8a0436ac8f0aea794b7893b",
+      "estado": "vigente",
+      "paginas": 40
+    },
+    {
+      "id": "vox-programa-desregulacion-2026",
+      "tipo": "programa",
+      "clase": "documento_parcial",
+      "partido": "vox",
+      "titulo": "Programa de desregulación",
+      "idioma": "es",
+      "publicado": "2026-06-27",
+      "url": "https://www.elindependiente.com/wp-content/uploads/2026/06/Programa-de-desregularizacio%CC%81n-de-Vox.pdf",
+      "consultado": "2026-11-11T19:32:42Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-11-2026-vox-desregulacion.pdf",
+      "sha256": "f103666a8e54856574b4c5a733eea238e82dbbe8c7d1a7ab268c3cb42be16d61",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/vox.json"
+      ],
+      "nota": "Documento sectorial de Vox, no es el programa de las generales. La web del partido (voxespana.es) bloquea el acceso automático: se usa la copia que publica El Independiente. La fecha es la de creación del PDF.",
+      "paginas": 81,
+      "rotulo": "Programa de desregulación"
+    },
+    {
+      "id": "podemos-documento-politico-2025",
+      "tipo": "programa",
+      "clase": "programa_general",
+      "partido": "podemos",
+      "titulo": "Documento Político de la V Asamblea Ciudadana Estatal",
+      "idioma": "es",
+      "publicado": "2025-04-07",
+      "url": "https://podemos.info/wp-content/uploads/2025/04/Documento-Politico-V-ACE.pdf",
+      "consultado": "2026-11-11T19:32:42Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-11-2025-podemos-documento-politico.pdf",
+      "sha256": "01f0a07fffd89f1f2b520a71d0d86052d2b47c44bb0eabe66316e589dd1f6e03",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/podemos.json"
+      ],
+      "nota": "Documento político general del partido, no es un programa electoral. La fecha es la de creación del PDF; el documento no trae otra.",
+      "paginas": 42,
+      "rotulo": "Documento político"
+    }
+  ]
+}

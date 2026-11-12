@@ -1,0 +1,100 @@
+{
+  "resumenes": [
+    {
+      "tema": "seguridad-y-justicia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide derogar ya la que llama «Ley Mordaza», prohibir las balas de goma y las devoluciones en caliente y suprimir la falta de respeto a la autoridad como infracción.", "apoyos": ["c-279912dd6e", "c-93aaa6e437"] },
+        { "texto": "Defiende «democratizar» el poder judicial y poner bajo control democrático a los cuerpos de seguridad, y denuncia lo que considera más violencia policial.", "apoyos": ["c-0b93a2fa2b", "c-8fa6e7fb70", "c-3f83977f88", "c-a69fdea240", "c-ffb02731f9", "c-ea9acf3c9f"] },
+        { "texto": "Propone formar en igualdad a los operadores jurídicos, dejar de usar el llamado síndrome de alienación parental y prohibir que terceros se lucren con la prostitución.", "apoyos": ["c-64704f1246", "c-86dda43206", "c-e6c84c1484", "c-72566a67c1"] },
+        { "texto": "Plantea además disolver grupos como Desokupa, a los que llama «comandos neonazis».", "apoyos": ["c-885b494f20"] }
+      ],
+      "nota": "Las citas de programa sobre el poder judicial y la policía son generales; las medidas concretas (derogación, balas de goma, devoluciones en caliente) proceden de declaraciones. No incluyo la petición de expulsar a un agente concreto (c-abce5e103d) por ser un caso puntual."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea avanzar hacia una república plurinacional, acompañada de reformas profundas del sistema político e institucional.", "apoyos": ["c-4634b8497b", "c-3f83977f88", "c-55cf246119"] },
+        { "texto": "Defiende «democratizar» el poder judicial, los medios de comunicación y las fuerzas de seguridad, y limitar de forma drástica lo que llama «control oligárquico» de los medios.", "apoyos": ["c-3f83977f88", "c-a69fdea240", "c-f11be70a75", "c-8fa6e7fb70"] },
+        { "texto": "Propone hacer habituales los referéndums y los presupuestos participativos, y que quien vive y trabaja en España tenga DNI español y derecho al voto.", "apoyos": ["c-6c6af2f86c", "c-392de48155", "c-7ba1d11800"] },
+        { "texto": "Sobre la corrupción, pide que quienes la cometan devuelvan «hasta el último euro robado».", "apoyos": ["c-5346967975"] }
+      ],
+      "nota": "Dejo fuera las citas sobre servicios públicos y fiscalidad (c-a981b08ed1, c-2d36e44a7b, c-0d7f8e9334, c-c27806ca29, c-83f0ee235c, c-7b7e23e695, c-91bbd22c2f), que encajan mejor en otros temas, y las críticas a otros partidos (c-8c7aa11136, c-cfb193bb16)."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende una república plurinacional y un modelo confederal de lo que llama «soberanías compartidas».", "apoyos": ["c-4634b8497b", "c-fc214e826d", "c-3f83977f88"] },
+        { "texto": "Pide reconocer el derecho a decidir de todos los pueblos de España y dice seguir defendiéndolo en las negociaciones parlamentarias.", "apoyos": ["c-201d0d978b", "c-3f83977f88", "c-1468c7843e"] },
+        { "texto": "Sobre el reparto de competencias, sostiene que antes hay que hablar de derechos y rechaza textos con contenido que considera racista.", "apoyos": ["c-b2911182bb"] }
+      ],
+      "nota": "No hay medidas concretas: las citas son de principios. La tercera frase procede de una declaración sobre una negociación de traspaso de competencias; la cita no dice cuáles, así que no las nombro."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea una transición ecológica en la que paguen más quienes más contaminan, con impuestos extraordinarios a los beneficios de las grandes energéticas para financiarla.", "apoyos": ["c-55fb716ba4", "c-229ad7e3a6", "c-62efb8a614", "c-71cddcd1f1"] },
+        { "texto": "Propone pagar cada megavatio-hora según su coste de producción en lugar del precio marginalista, crear una empresa pública de energía y nacionalizar Repsol.", "apoyos": ["c-bd5ff8f755", "c-6798ce5b44", "c-66556f1a7b", "c-97180cf5d5", "c-15cf513b08", "c-b7e38526d2"] },
+        { "texto": "Pide gravar actividades de lujo con alta huella de carbono, como yates, aviones privados o campos de golf, y ampliar la protección animal a los perros de caza.", "apoyos": ["c-85cc7b0772", "c-de1adf8548"] }
+      ],
+      "nota": "Hay más medidas que no caben (derechos de riego de los fondos, ayudas al coche eléctrico, prohibir cortes de suministro, veterinaria pública); las de transporte y riego aparecen en sus temas."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende proteger las pequeñas y medianas explotaciones agrícolas y ganaderas y avanzar hacia un modelo agroecológico basado en la soberanía alimentaria.", "apoyos": ["c-4ff93229c3", "c-42533b2142", "c-762de69c78"] },
+        { "texto": "Propone leyes que frenen la compra de tierras por grandes fondos internacionales y quitar a los fondos especulativos los derechos de riego que, según dice, acaparan.", "apoyos": ["c-9fcecf3f86", "c-4911c51cf0"] },
+        { "texto": "Quiere intervenir los márgenes de beneficio de la alimentación, garantizando la viabilidad de pequeños comercios y productores.", "apoyos": ["c-46bc6498db", "c-cdb17708dc", "c-cabbe04761"] },
+        { "texto": "Contra la despoblación, pide incluir la perspectiva rural en todas las políticas y reforzar los servicios públicos y la atención sanitaria en estas zonas.", "apoyos": ["c-7b7e23e695", "c-04038290da"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "transporte",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone mantener y ampliar los descuentos al transporte público urbano e interurbano, e incluso volver a hacerlo completamente gratuito.", "apoyos": ["c-15ddc9ec43", "c-16bea66940"] },
+        { "texto": "Pide renacionalizar el ferrocarril, invertir lo suficiente en él y garantizar el derecho a la movilidad desde lo público.", "apoyos": ["c-2d41189143", "c-ece31c7ce6"] },
+        { "texto": "Quiere ampliar las zonas de bajas emisiones y ayudas para que las familias con menos recursos accedan a un coche eléctrico al precio de uno de gasolina o diésel.", "apoyos": ["c-7e6489e2f3"] }
+      ],
+      "nota": "Las medidas sobre ferrocarril y gratuidad proceden de declaraciones. No uso c-5a8b6403f0 (pide una dimisión y aplicar el artículo 128 de la Constitución) porque la cita no dice de quién ni para qué en concreto."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pone el feminismo en el centro y pide aplicar íntegramente la ley del «solo sí es sí» y el Pacto de Estado contra la Violencia de Género.", "apoyos": ["c-10c1148dfd", "c-ecb093bfa6", "c-d4817a4f34", "c-6b5de50699"] },
+        { "texto": "Defiende garantizar el aborto en la sanidad pública, perseguir los vientres de alquiler y avanzar hacia abolir la prostitución.", "apoyos": ["c-5ac935f195", "c-b8c69e7dcc", "c-3aa67c9cec", "c-72566a67c1"] },
+        { "texto": "Sostiene que migrar es un derecho y propone derogar la ley de extranjería y cerrar los Centros de Internamiento de Extranjeros.", "apoyos": ["c-42f1235bae", "c-16f289564d", "c-acaf170cdc", "c-a99263fb26"] },
+        { "texto": "Pide además ampliar los derechos LGTBIQ+, impulsar la memoria democrática y acabar con el concordato y los privilegios fiscales de la Iglesia.", "apoyos": ["c-381a4d6bc5", "c-23c4ab7bb5", "c-c5e5b1a81b", "c-cd91a60343", "c-1a10c32093"] }
+      ],
+      "nota": "Omito por espacio la cifra de 1.000 millones contra la violencia machista (c-6b5de50699, declaración); queda como apoyo de la primera frase."
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Rechaza el aumento del gasto militar, que considera dinero restado a los servicios públicos y las pensiones, y pide no acatar la exigencia de Donald Trump de elevarlo.", "apoyos": ["c-3e7cab8ab9", "c-eb21de4331", "c-a107807ed1", "c-c25752eab1", "c-0a7a10ee78"] },
+        { "texto": "Propone salir de la OTAN cuanto antes.", "apoyos": ["c-c25752eab1", "c-23ce3c244f", "c-11ff4fccb4"] },
+        { "texto": "Pide romper las relaciones diplomáticas y comerciales con Israel e imponerle un embargo de armas.", "apoyos": ["c-2104d71785", "c-d752e95474"] },
+        { "texto": "Quiere priorizar las alianzas con América Latina, relaciones de igual a igual con África y derogar el Pacto Europeo de Migración y Asilo.", "apoyos": ["c-3f09e6e5d6", "c-99a4a9a4e8", "c-1bbff85df1"] }
+      ],
+      "nota": "No adopto el término «genocida» de c-2104d71785. c-300a687adf (Repsol) y c-4ff1f94619 (educación infantil) no tratan de política exterior; no las uso."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone subir mucho los impuestos a las plataformas a las que acusa de difundir odio y destinar lo recaudado a educación sexual obligatoria.", "apoyos": ["c-606afceb5b", "c-f0cd94d28b"] },
+        { "texto": "Plantea crear una red social pública con un algoritmo transparente y trabajar para que las redes estén libres de odio machista, LGTBIfóbico y racista.", "apoyos": ["c-23d41c820a", "c-f58bb8eaf7"] },
+        { "texto": "Defiende regular la inteligencia artificial teniendo en cuenta su impacto en el medio ambiente, el empleo y los trabajos creativos.", "apoyos": ["c-290ac297b8"] },
+        { "texto": "En cultura, pide un plan plurianual para bajar la temporalidad de la plantilla del INAEM del 30 % a menos del 8 %.", "apoyos": ["c-1ff21ad51b"] }
+      ],
+      "nota": "Las medidas concretas de este tema proceden de declaraciones; el programa solo trae dos líneas generales (IA y redes sociales)."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "revisiones": [
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: omitía la línea de corrupción en el ámbito penal, la de más peso en las citas del tema (imprescriptibilidad, devolver el triple, prohibir los indultos a corruptos y las amnistías: c-0ff364dc2d, c-1a885dd6f5, c-84ebf31df1, c-75ac993fd6, c-8e6e6abfa5, c-7118889e8d, c-7f31e0b1c1). Además es uno de los 10 compromisos del programa. Se añade una frase.",
+        "Para dejar sitio, la frase de los extranjeros condenados se une a la de jueces y fiscales y se quita la ampliación de la UCO.",
+        "Siguen fuera por falta de espacio: la protección penal y las condiciones laborales de los vigilantes de seguridad privada (6 citas), el plan contra el narcotráfico con la Armada, el registro público de agresores sexuales y la castración química voluntaria, y el desalojo en 48 horas."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone cárceles de máxima seguridad sin permisos ni tercer grado y cumplimiento íntegro para asesinos, agresores sexuales, narcotraficantes y corruptos.", "apoyos": ["c-7a4199a082", "c-d911910550", "c-c338463075", "c-046bd36a8b", "c-376cc82c58"] },
+        { "texto": "Plantea que la corrupción de cargos públicos no prescriba ni pueda indultarse, que se devuelva el triple y que se prohíban las amnistías.", "apoyos": ["c-1a885dd6f5", "c-0ff364dc2d", "c-84ebf31df1", "c-75ac993fd6", "c-8e6e6abfa5", "c-7118889e8d"] },
+        { "texto": "Pide 2.000 jueces y 1.500 fiscales más, juicios rápidos en 72 horas para multirreincidentes y que los extranjeros condenados cumplan la pena fuera.", "apoyos": ["c-56a4cb9aa4", "c-225fb06b66", "c-5cd5d13863"] },
+        { "texto": "Quiere equiparar el sueldo de policías y guardias civiles al de los Mossos y presumir la legítima defensa en la vivienda o el negocio.", "apoyos": ["c-82bf82e235", "c-f548d201db", "c-25a9332887"] }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [
+        "Sin fallos de fidelidad ni de neutralidad. Ids comprobados. Recoge las líneas principales: recorte del Gobierno y de órganos, corrupción, reforma constitucional del poder judicial y transparencia. Quedan fuera, aceptablemente, el límite de 15 años en cargos públicos, las puertas giratorias, las pensiones de políticos y la cláusula de penalización sobre el sueldo del líder."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone suprimir 12 ministerios, la mitad de los altos cargos, el Senado y el Consejo de Estado, y reducir los asesores a 400.", "apoyos": ["c-d41acc4ca4", "c-d0d5412ea8", "c-b309c71eaf", "c-53b2486a79"] },
+        { "texto": "Plantea que la corrupción de cargos públicos no prescriba, que el condenado devuelva el triple y que el denunciante cobre el 15 % de lo recuperado.", "apoyos": ["c-1a885dd6f5", "c-84ebf31df1", "c-68f3cebae7", "c-0ff364dc2d"] },
+        { "texto": "Pide reformar la Constitución para prohibir las amnistías, acabar con los aforamientos y sustituir el Constitucional por una sala del Supremo.", "apoyos": ["c-7118889e8d", "c-227a4bd785", "c-bda52236cf"] },
+        { "texto": "Quiere un CGPJ elegido por jueces, antigüedad o sorteo y publicar en 24 horas todo gasto superior a 1.000 euros.", "apoyos": ["c-8f71fe7ed7", "c-65eb5e3830"] }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: omitía las ventajas fiscales para territorios concretos (c-f629992ed3, c-5a68cef9b9). Pesan en las citas del tema tanto como la línea del castellano. Se añade una cuarta frase solo con la medida cuyo territorio consta en la cita (Canarias).",
+        "Forma: «imponer la gestión mancomunada» se cambia por «hacer obligatoria», que es la palabra de la cita."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende una financiación autonómica con criterios objetivos e iguales para todas las comunidades y se opone a condonar deuda entre administraciones salvo catástrofe.", "apoyos": ["c-299054df20", "c-a12da61014", "c-d6688a447d"] },
+        { "texto": "Propone suprimir las diputaciones, hacer obligatoria la gestión mancomunada en municipios de menos de 5.000 habitantes y eliminar el IBI sin compensar a los ayuntamientos.", "apoyos": ["c-782ef58093", "c-b56f13c47c", "c-12e296f38e", "c-5a2a6a663d"] },
+        { "texto": "Pide garantizar la enseñanza en castellano en toda España, con sanciones de la Alta Inspección, y un mismo temario de Historia.", "apoyos": ["c-05dd2d04b6", "c-07f11c3ad5", "c-77973b9e6c"] },
+        { "texto": "Plantea además ventajas fiscales territoriales, como deducir 1.000 euros del IRPF a cada residente en Canarias.", "apoyos": ["c-f629992ed3", "c-5a68cef9b9"] }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [
+        "Sin fallos. La afirmación sobre la Red Natura está bien atribuida («según el partido»). Recoge las tres líneas de las citas: IVA e impuesto eléctrico, vetos europeos y gas argelino."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone bajar el IVA de la luz del 21 % al 4 % y el del agua del 10 % al 4 %, y suprimir el impuesto a la producción eléctrica.", "apoyos": ["c-ec6b2ed3f8", "c-fa45c0dd41"] },
+        { "texto": "Pide vetar el Pacto Verde y la Ley de Restauración, que según el partido deja improductiva hasta el 40 % de la Red Natura.", "apoyos": ["c-abe72767ef", "c-c5cffdf762", "c-08e4c5ae04"] },
+        { "texto": "Plantea contratos de gas a largo plazo con Argelia, origen del 38,5 % del gas importado.", "apoyos": ["c-0a23f1415c"] }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [
+        "Sin fallos de fidelidad ni de neutralidad. La segunda frase solo desarrolla la primera con la cifra de la PAC, bien atribuida («sostiene»). Queda fuera la gestión mancomunada obligatoria en municipios pequeños (c-b56f13c47c), de peso menor."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide que España vete el acuerdo con Mercosur, el recorte de la PAC y el Pacto Verde, y defiende que lo que se come aquí se produzca aquí.", "apoyos": ["c-abe72767ef", "c-c5cffdf762", "c-08e4c5ae04"] },
+        { "texto": "Sostiene que el recorte del 20 % de la PAC quita 877 millones al año al campo español.", "apoyos": ["c-c5cffdf762"] },
+        { "texto": "Cita la defensa del sector primario entre los motivos para un referéndum de renegociación con la UE.", "apoyos": ["c-cc7f5de4c6", "c-9e742ecf25"] },
+        { "texto": "Propone un complemento de 30.000 euros para sanitarios en plazas rurales.", "apoyos": ["c-728c912384"] }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [
+        "Sin fallos. La base escasa es correcta: solo hay dos citas, y las dos frases dicen únicamente lo que dicen las citas."
+      ],
+      "base": "escasa",
+      "frases": [
+        { "texto": "Propone pagar a las compañías en 30 días el descuento del 75 % para residentes en avión y barco, y afirma que el Estado les debe 810 millones.", "apoyos": ["c-5b43b3cce4"] },
+        { "texto": "Plantea agrupar Transportes con Energía e Industria en un solo ministerio.", "apoyos": ["c-b320fa89af"] }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [
+        "Sin fallos. Recoge las dos líneas con más citas: medidas sobre el islam y el efectivo como derecho. No adopta la frase valorativa de c-3c27511acb («es sumisión»). Quedan fuera, aceptablemente, la licencia de armas y los derechos de los militares."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone prohibir el burka y el niqab en el espacio público y la financiación extranjera del culto, con cierre de quien no cumpla.", "apoyos": ["c-3c27511acb", "c-30e546abf2", "c-87cebc2fdb"] },
+        { "texto": "Plantea ilegalizar a los Hermanos Musulmanes y expulsar a los imanes que prediquen contra la Constitución.", "apoyos": ["c-87cebc2fdb", "c-30e546abf2", "c-60a5ced53f"] },
+        { "texto": "Quiere hacer del pago en efectivo un derecho constitucional, sin límite de importe y de aceptación obligatoria para comercios, bancos y administraciones.", "apoyos": ["c-664ff9a967", "c-507578555c", "c-0d566c782f", "c-dba7e011f3"] },
+        { "texto": "Pide también blindar en la Constitución la acción popular.", "apoyos": ["c-28299379ad"] }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad: «pagado con 1.600 euros» no decía que la cantidad es mensual (c-ed5ff3c063: «1.600 euros al mes») y podía leerse como pago único. Se añade «mensuales» y que el servicio puede ser militar o civil (c-410099cc42).",
+        "Fidelidad: «la readmisión de inmigrantes» no es exacto: la cita habla de que los países readmitan «a sus nacionales». Se corrige y, para no pasar de 90 palabras, se quita el plazo de 72 horas.",
+        "Siguen fuera por espacio: Gibraltar, Hispanoamérica, el gasto en defensa, la reivindicación del Rif y la doctrina de respuesta a agresiones a Ceuta, Melilla y Canarias."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone un referéndum para renegociar la relación con la UE y, si Bruselas no acepta, otro sobre la salida.", "apoyos": ["c-cc7f5de4c6", "c-c009f97bc0"] },
+        { "texto": "Plantea un bloqueo comercial a Marruecos si bloquea un puerto español y volver a la posición de la ONU sobre el Sáhara.", "apoyos": ["c-5d7e981e05", "c-c009f97bc0", "c-40bfefbab8", "c-0a23f1415c"] },
+        { "texto": "Quiere cortar la ayuda al desarrollo salvo emergencias y programas con retorno, y negar ayudas y visados a quien no readmita a sus nacionales.", "apoyos": ["c-f62f4b37c8", "c-0efbf6f9b7"] },
+        { "texto": "Pide 5.000 militares más en Ceuta y Melilla y un servicio voluntario de 6 a 12 meses, militar o civil, con 1.600 euros mensuales.", "apoyos": ["c-bb37e69c15", "c-410099cc42", "c-ed5ff3c063"] }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [
+        "Fiel a la única cita. Tiene 15 palabras, menos de las 30 mínimas, pero con una sola cita sobre la estructura del Gobierno no se puede alargar sin añadir datos. La base escasa es correcta."
+      ],
+      "base": "escasa",
+      "frases": [
+        { "texto": "Plantea agrupar Universidades y Ciencia, Cultura y Deportes, Educación y Juventud en un único ministerio.", "apoyos": ["c-dd35bc36b1"] }
+      ]
+    }
+  ]
+}

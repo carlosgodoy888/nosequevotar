@@ -1,0 +1,1374 @@
+{
+  "nota": "Generado por resumen-partidos.mjs. No se edita a mano.",
+  "partidos": {
+    "pp": {
+      "proclamada": [
+        "a-coruna",
+        "alava",
+        "albacete",
+        "alicante",
+        "almeria",
+        "asturias",
+        "avila",
+        "badajoz",
+        "baleares",
+        "barcelona",
+        "bizkaia",
+        "burgos",
+        "caceres",
+        "cadiz",
+        "cantabria",
+        "castellon",
+        "ceuta",
+        "ciudad-real",
+        "cordoba",
+        "cuenca",
+        "gipuzkoa",
+        "girona",
+        "granada",
+        "guadalajara",
+        "huelva",
+        "huesca",
+        "jaen",
+        "la-rioja",
+        "las-palmas",
+        "leon",
+        "lleida",
+        "lugo",
+        "madrid",
+        "malaga",
+        "melilla",
+        "murcia",
+        "ourense",
+        "palencia",
+        "pontevedra",
+        "salamanca",
+        "santa-cruz-de-tenerife",
+        "segovia",
+        "sevilla",
+        "soria",
+        "tarragona",
+        "teruel",
+        "toledo",
+        "valencia",
+        "valladolid",
+        "zamora",
+        "zaragoza"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 8160837,
+      "escanos_2023": 137,
+      "comparte_votos_2023_con": [
+        "upn-pp"
+      ],
+      "relaciones_2023": [
+        {
+          "encabezado": "Partido Popular (PP)",
+          "relacion": "misma",
+          "circunscripciones": 52,
+          "votos": 8160837,
+          "escanos": 137
+        }
+      ]
+    },
+    "upn-pp": {
+      "proclamada": [
+        "navarra"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 109322,
+      "escanos_2023": 2,
+      "comparte_votos_2023_con": [
+        "pp"
+      ],
+      "relaciones_2023": [
+        {
+          "encabezado": "Unión del Pueblo Navarro (UPN)",
+          "relacion": "incluye_a",
+          "circunscripciones": 1,
+          "votos": 52188,
+          "escanos": 1
+        },
+        {
+          "encabezado": "Partido Popular (PP)",
+          "relacion": "incluye_a",
+          "circunscripciones": 1,
+          "votos": 57134,
+          "escanos": 1
+        }
+      ]
+    },
+    "psoe": {
+      "proclamada": [
+        "a-coruna",
+        "alava",
+        "albacete",
+        "alicante",
+        "almeria",
+        "asturias",
+        "avila",
+        "badajoz",
+        "baleares",
+        "barcelona",
+        "bizkaia",
+        "burgos",
+        "caceres",
+        "cadiz",
+        "cantabria",
+        "castellon",
+        "ceuta",
+        "ciudad-real",
+        "cordoba",
+        "cuenca",
+        "gipuzkoa",
+        "girona",
+        "granada",
+        "guadalajara",
+        "huelva",
+        "huesca",
+        "jaen",
+        "la-rioja",
+        "las-palmas",
+        "leon",
+        "lleida",
+        "lugo",
+        "madrid",
+        "malaga",
+        "melilla",
+        "murcia",
+        "navarra",
+        "ourense",
+        "palencia",
+        "pontevedra",
+        "salamanca",
+        "santa-cruz-de-tenerife",
+        "segovia",
+        "sevilla",
+        "soria",
+        "tarragona",
+        "teruel",
+        "toledo",
+        "valencia",
+        "valladolid",
+        "zamora",
+        "zaragoza"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 7821718,
+      "escanos_2023": 121,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Partido Socialista Obrero Español (PSOE)",
+          "relacion": "misma",
+          "circunscripciones": 48,
+          "votos": 6600383,
+          "escanos": 102
+        },
+        {
+          "encabezado": "Partit dels Socialistes de Catalunya (PSC-PSOE) (PSC)",
+          "relacion": "misma",
+          "circunscripciones": 4,
+          "votos": 1221335,
+          "escanos": 19
+        }
+      ]
+    },
+    "vox": {
+      "proclamada": [
+        "a-coruna",
+        "alava",
+        "albacete",
+        "alicante",
+        "almeria",
+        "asturias",
+        "avila",
+        "badajoz",
+        "baleares",
+        "barcelona",
+        "bizkaia",
+        "burgos",
+        "caceres",
+        "cadiz",
+        "cantabria",
+        "castellon",
+        "ceuta",
+        "ciudad-real",
+        "cordoba",
+        "cuenca",
+        "gipuzkoa",
+        "girona",
+        "granada",
+        "guadalajara",
+        "huelva",
+        "huesca",
+        "jaen",
+        "la-rioja",
+        "las-palmas",
+        "leon",
+        "lleida",
+        "lugo",
+        "madrid",
+        "malaga",
+        "melilla",
+        "murcia",
+        "navarra",
+        "ourense",
+        "palencia",
+        "pontevedra",
+        "salamanca",
+        "santa-cruz-de-tenerife",
+        "segovia",
+        "sevilla",
+        "soria",
+        "tarragona",
+        "teruel",
+        "toledo",
+        "valencia",
+        "valladolid",
+        "zamora",
+        "zaragoza"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 3057000,
+      "escanos_2023": 33,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "VOX (VOX)",
+          "relacion": "misma",
+          "circunscripciones": 51,
+          "votos": 3057000,
+          "escanos": 33
+        }
+      ]
+    },
+    "salf": {
+      "proclamada": [
+        "a-coruna",
+        "alava",
+        "albacete",
+        "alicante",
+        "almeria",
+        "asturias",
+        "avila",
+        "badajoz",
+        "baleares",
+        "barcelona",
+        "burgos",
+        "caceres",
+        "cadiz",
+        "castellon",
+        "ceuta",
+        "cordoba",
+        "cuenca",
+        "granada",
+        "guadalajara",
+        "huelva",
+        "huesca",
+        "jaen",
+        "la-rioja",
+        "las-palmas",
+        "leon",
+        "lugo",
+        "madrid",
+        "malaga",
+        "melilla",
+        "murcia",
+        "navarra",
+        "ourense",
+        "palencia",
+        "pontevedra",
+        "salamanca",
+        "santa-cruz-de-tenerife",
+        "segovia",
+        "sevilla",
+        "soria",
+        "tarragona",
+        "teruel",
+        "toledo",
+        "valencia",
+        "valladolid",
+        "zamora",
+        "zaragoza"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "d21": {
+      "proclamada": [
+        "barcelona",
+        "madrid"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "frente-amplio": {
+      "proclamada": [
+        "a-coruna",
+        "alava",
+        "albacete",
+        "almeria",
+        "asturias",
+        "avila",
+        "badajoz",
+        "barcelona",
+        "bizkaia",
+        "burgos",
+        "caceres",
+        "cadiz",
+        "cantabria",
+        "ciudad-real",
+        "cordoba",
+        "cuenca",
+        "gipuzkoa",
+        "girona",
+        "granada",
+        "guadalajara",
+        "huelva",
+        "huesca",
+        "jaen",
+        "la-rioja",
+        "leon",
+        "lleida",
+        "lugo",
+        "madrid",
+        "malaga",
+        "murcia",
+        "navarra",
+        "ourense",
+        "palencia",
+        "pontevedra",
+        "salamanca",
+        "segovia",
+        "sevilla",
+        "soria",
+        "tarragona",
+        "toledo",
+        "valladolid",
+        "zamora",
+        "zaragoza"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 2444921,
+      "escanos_2023": 25,
+      "comparte_votos_2023_con": [
+        "podemos"
+      ],
+      "relaciones_2023": [
+        {
+          "encabezado": "Sumar (SUMAR)",
+          "relacion": "era_parte_de",
+          "circunscripciones": 43,
+          "votos": 2444921,
+          "escanos": 25
+        }
+      ]
+    },
+    "arames-front-ampli": {
+      "proclamada": [
+        "baleares"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 83487,
+      "escanos_2023": 1,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Sumar (SUMAR)",
+          "relacion": "era_parte_de",
+          "circunscripciones": 1,
+          "votos": 83487,
+          "escanos": 1
+        }
+      ]
+    },
+    "podemos": {
+      "proclamada": [
+        "a-coruna",
+        "alava",
+        "albacete",
+        "almeria",
+        "asturias",
+        "avila",
+        "badajoz",
+        "bizkaia",
+        "burgos",
+        "caceres",
+        "cadiz",
+        "cantabria",
+        "ceuta",
+        "ciudad-real",
+        "cordoba",
+        "cuenca",
+        "gipuzkoa",
+        "granada",
+        "guadalajara",
+        "huelva",
+        "huesca",
+        "jaen",
+        "la-rioja",
+        "leon",
+        "lugo",
+        "madrid",
+        "malaga",
+        "murcia",
+        "navarra",
+        "ourense",
+        "palencia",
+        "pontevedra",
+        "salamanca",
+        "segovia",
+        "sevilla",
+        "soria",
+        "teruel",
+        "toledo",
+        "valladolid",
+        "zamora",
+        "zaragoza"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 1952251,
+      "escanos_2023": 18,
+      "comparte_votos_2023_con": [
+        "frente-amplio"
+      ],
+      "relaciones_2023": [
+        {
+          "encabezado": "Sumar (SUMAR)",
+          "relacion": "era_parte_de",
+          "circunscripciones": 41,
+          "votos": 1952251,
+          "escanos": 18
+        }
+      ]
+    },
+    "compromis-front-valencia": {
+      "proclamada": [
+        "alicante",
+        "castellon",
+        "valencia"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 402813,
+      "escanos_2023": 4,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Sumar (SUMAR)",
+          "relacion": "era_parte_de",
+          "circunscripciones": 3,
+          "votos": 402813,
+          "escanos": 4
+        }
+      ]
+    },
+    "unidad-del-pueblo-canario": {
+      "proclamada": [
+        "las-palmas",
+        "santa-cruz-de-tenerife"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 153596,
+      "escanos_2023": 1,
+      "comparte_votos_2023_con": [
+        "drago-canarias"
+      ],
+      "relaciones_2023": [
+        {
+          "encabezado": "Nueva Canarias-Bloque Canarista (NC-bc)",
+          "relacion": "incluye_a",
+          "circunscripciones": 2,
+          "votos": 45595,
+          "escanos": 0
+        },
+        {
+          "encabezado": "Sumar (SUMAR)",
+          "relacion": "era_parte_de",
+          "circunscripciones": 2,
+          "votos": 108001,
+          "escanos": 1
+        }
+      ]
+    },
+    "adelante-andalucia": {
+      "proclamada": [
+        "almeria",
+        "cadiz",
+        "cordoba",
+        "granada",
+        "huelva",
+        "jaen",
+        "malaga",
+        "sevilla"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 9191,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Adelante Andalucía (ADELANTE ANDALUCÍA)",
+          "relacion": "misma",
+          "circunscripciones": 1,
+          "votos": 9191,
+          "escanos": 0
+        }
+      ]
+    },
+    "erc": {
+      "proclamada": [
+        "barcelona",
+        "girona",
+        "lleida",
+        "tarragona"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 466020,
+      "escanos_2023": 7,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Esquerra Republicana de Catalunya (ERC)",
+          "relacion": "misma",
+          "circunscripciones": 4,
+          "votos": 466020,
+          "escanos": 7
+        }
+      ]
+    },
+    "junts": {
+      "proclamada": [
+        "barcelona",
+        "girona",
+        "lleida",
+        "tarragona"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 395429,
+      "escanos_2023": 7,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Junts (JUNTS)",
+          "relacion": "misma",
+          "circunscripciones": 4,
+          "votos": 395429,
+          "escanos": 7
+        }
+      ]
+    },
+    "alhora": {
+      "proclamada": [
+        "barcelona",
+        "girona",
+        "lleida",
+        "tarragona"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "convergents": {
+      "proclamada": [
+        "tarragona"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 2311,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Partit Demòcrata Europeu Català-Espai CIU (PDeCAT-E-CiU)",
+          "relacion": "era_parte_de",
+          "circunscripciones": 1,
+          "votos": 2311,
+          "escanos": 0
+        }
+      ]
+    },
+    "eh-bildu": {
+      "proclamada": [
+        "alava",
+        "bizkaia",
+        "gipuzkoa",
+        "navarra"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 335129,
+      "escanos_2023": 6,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Euskal Herria Bildu (EH Bildu)",
+          "relacion": "misma",
+          "circunscripciones": 4,
+          "votos": 335129,
+          "escanos": 6
+        }
+      ]
+    },
+    "eaj-pnv": {
+      "proclamada": [
+        "alava",
+        "bizkaia",
+        "gipuzkoa"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 277289,
+      "escanos_2023": 5,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco (EAJ-PNV)",
+          "relacion": "misma",
+          "circunscripciones": 3,
+          "votos": 277289,
+          "escanos": 5
+        }
+      ]
+    },
+    "geroa-bai": {
+      "proclamada": [
+        "navarra"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 9938,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Geroa Bai (GBAI).",
+          "relacion": "misma",
+          "circunscripciones": 1,
+          "votos": 9938,
+          "escanos": 0
+        }
+      ]
+    },
+    "eguzkilore": {
+      "proclamada": [
+        "navarra"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "bng": {
+      "proclamada": [
+        "a-coruna",
+        "lugo",
+        "ourense",
+        "pontevedra"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 153995,
+      "escanos_2023": 1,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Bloque Nacionalista Galego (BNG)",
+          "relacion": "misma",
+          "circunscripciones": 4,
+          "votos": 153995,
+          "escanos": 1
+        }
+      ]
+    },
+    "cc-primero-canarias": {
+      "proclamada": [
+        "las-palmas",
+        "santa-cruz-de-tenerife"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 116363,
+      "escanos_2023": 1,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Coalición Canaria (CCa)",
+          "relacion": "incluye_a",
+          "circunscripciones": 2,
+          "votos": 116363,
+          "escanos": 1
+        }
+      ]
+    },
+    "drago-canarias": {
+      "proclamada": [
+        "las-palmas",
+        "santa-cruz-de-tenerife"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 108001,
+      "escanos_2023": 1,
+      "comparte_votos_2023_con": [
+        "unidad-del-pueblo-canario"
+      ],
+      "relaciones_2023": [
+        {
+          "encabezado": "Sumar (SUMAR)",
+          "relacion": "era_parte_de",
+          "circunscripciones": 2,
+          "votos": 108001,
+          "escanos": 1
+        }
+      ]
+    },
+    "liberacion-canaria": {
+      "proclamada": [
+        "las-palmas",
+        "santa-cruz-de-tenerife"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "pcpc": {
+      "proclamada": [
+        "las-palmas"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 1674,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Ahora Canarias-Partido Comunista del Pueblo Canario (AHORA CANARIAS-PCPC)",
+          "relacion": "era_parte_de",
+          "circunscripciones": 2,
+          "votos": 1674,
+          "escanos": 0
+        }
+      ]
+    },
+    "teruel-existe": {
+      "proclamada": [
+        "teruel"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 20440,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Coalición Existe (EXISTE)",
+          "relacion": "era_parte_de",
+          "circunscripciones": 3,
+          "votos": 20440,
+          "escanos": 0
+        }
+      ]
+    },
+    "soria-ya": {
+      "proclamada": [
+        "soria"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 9697,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Soria ¡Ya! (SY)",
+          "relacion": "misma",
+          "circunscripciones": 1,
+          "votos": 9697,
+          "escanos": 0
+        }
+      ]
+    },
+    "frente-obrero": {
+      "proclamada": [
+        "a-coruna",
+        "alava",
+        "albacete",
+        "alicante",
+        "almeria",
+        "asturias",
+        "avila",
+        "badajoz",
+        "baleares",
+        "barcelona",
+        "bizkaia",
+        "burgos",
+        "caceres",
+        "cadiz",
+        "cantabria",
+        "castellon",
+        "ceuta",
+        "ciudad-real",
+        "cordoba",
+        "cuenca",
+        "gipuzkoa",
+        "girona",
+        "granada",
+        "guadalajara",
+        "huelva",
+        "huesca",
+        "jaen",
+        "la-rioja",
+        "las-palmas",
+        "leon",
+        "lleida",
+        "lugo",
+        "madrid",
+        "malaga",
+        "melilla",
+        "murcia",
+        "navarra",
+        "ourense",
+        "palencia",
+        "pontevedra",
+        "salamanca",
+        "santa-cruz-de-tenerife",
+        "segovia",
+        "sevilla",
+        "soria",
+        "tarragona",
+        "teruel",
+        "toledo",
+        "valencia",
+        "valladolid",
+        "zamora",
+        "zaragoza"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 46274,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Frente Obrero (FO)",
+          "relacion": "misma",
+          "circunscripciones": 50,
+          "votos": 46274,
+          "escanos": 0
+        }
+      ]
+    },
+    "pcte": {
+      "proclamada": [
+        "a-coruna",
+        "alava",
+        "alicante",
+        "almeria",
+        "asturias",
+        "avila",
+        "baleares",
+        "barcelona",
+        "bizkaia",
+        "burgos",
+        "caceres",
+        "cadiz",
+        "cantabria",
+        "castellon",
+        "cordoba",
+        "cuenca",
+        "gipuzkoa",
+        "girona",
+        "granada",
+        "guadalajara",
+        "huelva",
+        "huesca",
+        "jaen",
+        "la-rioja",
+        "las-palmas",
+        "leon",
+        "lleida",
+        "madrid",
+        "malaga",
+        "murcia",
+        "navarra",
+        "ourense",
+        "palencia",
+        "pontevedra",
+        "salamanca",
+        "santa-cruz-de-tenerife",
+        "segovia",
+        "sevilla",
+        "soria",
+        "tarragona",
+        "teruel",
+        "toledo",
+        "valencia",
+        "valladolid",
+        "zamora",
+        "zaragoza"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 18218,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Partido Comunista de los Trabajadores de España (PCTE)",
+          "relacion": "misma",
+          "circunscripciones": 33,
+          "votos": 18218,
+          "escanos": 0
+        }
+      ]
+    },
+    "pacma": {
+      "proclamada": [
+        "alava",
+        "albacete",
+        "alicante",
+        "almeria",
+        "asturias",
+        "bizkaia",
+        "cadiz",
+        "castellon",
+        "cordoba",
+        "cuenca",
+        "gipuzkoa",
+        "girona",
+        "granada",
+        "huelva",
+        "huesca",
+        "jaen",
+        "la-rioja",
+        "las-palmas",
+        "leon",
+        "lleida",
+        "madrid",
+        "malaga",
+        "navarra",
+        "santa-cruz-de-tenerife",
+        "segovia",
+        "sevilla",
+        "tarragona",
+        "teruel",
+        "valencia",
+        "valladolid"
+      ],
+      "no_proclamada": [
+        "a-coruna",
+        "baleares",
+        "barcelona",
+        "murcia",
+        "ourense",
+        "salamanca",
+        "zaragoza"
+      ],
+      "votos_2023": 169237,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Partido Animalista con el Medio Ambiente (PACMA)",
+          "relacion": "misma",
+          "circunscripciones": 51,
+          "votos": 169237,
+          "escanos": 0
+        }
+      ]
+    },
+    "mundo-mas-justo": {
+      "proclamada": [
+        "alava",
+        "albacete",
+        "almeria",
+        "asturias",
+        "avila",
+        "badajoz",
+        "bizkaia",
+        "burgos",
+        "cadiz",
+        "cuenca",
+        "granada",
+        "guadalajara",
+        "huesca",
+        "jaen",
+        "las-palmas",
+        "madrid",
+        "navarra",
+        "ourense",
+        "palencia",
+        "segovia",
+        "sevilla",
+        "soria",
+        "tarragona",
+        "valencia",
+        "valladolid",
+        "zaragoza"
+      ],
+      "no_proclamada": [
+        "barcelona",
+        "leon"
+      ],
+      "votos_2023": 23290,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Por un Mundo más Justo (PUM+J)",
+          "relacion": "misma",
+          "circunscripciones": 40,
+          "votos": 23290,
+          "escanos": 0
+        }
+      ]
+    },
+    "escanos-en-blanco": {
+      "proclamada": [
+        "alava",
+        "almeria",
+        "cordoba",
+        "gipuzkoa",
+        "la-rioja",
+        "las-palmas",
+        "leon",
+        "murcia",
+        "palencia",
+        "pontevedra",
+        "soria",
+        "valladolid"
+      ],
+      "no_proclamada": [
+        "melilla"
+      ],
+      "votos_2023": 8448,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Escaños en Blanco para dejar Escaños Vacíos (ESCAÑOS EN BLANCO)",
+          "relacion": "misma",
+          "circunscripciones": 11,
+          "votos": 8448,
+          "escanos": 0
+        }
+      ]
+    },
+    "falange-jons": {
+      "proclamada": [
+        "castellon",
+        "cordoba",
+        "guadalajara",
+        "madrid",
+        "palencia",
+        "teruel",
+        "toledo",
+        "valencia",
+        "valladolid"
+      ],
+      "no_proclamada": [
+        "alicante",
+        "zaragoza"
+      ],
+      "votos_2023": 4683,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Falange Española de las JONS (FE de las JONS)",
+          "relacion": "misma",
+          "circunscripciones": 11,
+          "votos": 4683,
+          "escanos": 0
+        }
+      ]
+    },
+    "partido-autonomos": {
+      "proclamada": [
+        "alicante",
+        "castellon",
+        "santa-cruz-de-tenerife"
+      ],
+      "no_proclamada": [
+        "valencia"
+      ],
+      "votos_2023": 1446,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Partido Autónomos (PARTIDO AUTÓNOMOS)",
+          "relacion": "misma",
+          "circunscripciones": 1,
+          "votos": 1446,
+          "escanos": 0
+        }
+      ]
+    },
+    "partido-humanista": {
+      "proclamada": [
+        "madrid"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 2902,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Partido Humanista (PH)",
+          "relacion": "misma",
+          "circunscripciones": 1,
+          "votos": 2902,
+          "escanos": 0
+        }
+      ]
+    },
+    "iustitia-europa": {
+      "proclamada": [
+        "madrid"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "feministas-al-congreso": {
+      "proclamada": [
+        "alava"
+      ],
+      "no_proclamada": [
+        "bizkaia"
+      ],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "feminism8": {
+      "proclamada": [],
+      "no_proclamada": [
+        "santa-cruz-de-tenerife"
+      ],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "prepal": {
+      "proclamada": [
+        "leon",
+        "salamanca",
+        "zamora"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 964,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Partido Regionalista del País Leonés (PREPAL)",
+          "relacion": "misma",
+          "circunscripciones": 3,
+          "votos": 964,
+          "escanos": 0
+        }
+      ]
+    },
+    "alantre": {
+      "proclamada": [
+        "leon"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "pancal-urci": {
+      "proclamada": [
+        "valladolid"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "pdsje": {
+      "proclamada": [
+        "avila"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "nex": {
+      "proclamada": [
+        "badajoz",
+        "caceres"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "juex": {
+      "proclamada": [],
+      "no_proclamada": [
+        "badajoz",
+        "caceres"
+      ],
+      "votos_2023": 5807,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Bloque Extremeño (BQEX)",
+          "relacion": "era_parte_de",
+          "circunscripciones": 2,
+          "votos": 5807,
+          "escanos": 0
+        }
+      ]
+    },
+    "fia": {
+      "proclamada": [
+        "huesca",
+        "zaragoza"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 506,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Federación de los Independientes de Aragón (FIA)",
+          "relacion": "misma",
+          "circunscripciones": 3,
+          "votos": 506,
+          "escanos": 0
+        }
+      ]
+    },
+    "agenda-valenciana": {
+      "proclamada": [
+        "valencia"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "valencia-unida": {
+      "proclamada": [
+        "valencia"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "renacer-renaixer": {
+      "proclamada": [
+        "valencia"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "alternativa-malaguena": {
+      "proclamada": [
+        "malaga"
+      ],
+      "no_proclamada": [],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "ipal": {
+      "proclamada": [],
+      "no_proclamada": [
+        "almeria"
+      ],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "calvo-guerra": {
+      "proclamada": [],
+      "no_proclamada": [
+        "malaga"
+      ],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "puede": {
+      "proclamada": [
+        "asturias"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 269,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Partido Unionista Estado de España (PUEDE)",
+          "relacion": "misma",
+          "circunscripciones": 1,
+          "votos": 269,
+          "escanos": 0
+        }
+      ]
+    },
+    "tercera-edad-en-accion": {
+      "proclamada": [
+        "murcia"
+      ],
+      "no_proclamada": [],
+      "votos_2023": 484,
+      "escanos_2023": 0,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": [
+        {
+          "encabezado": "Tercera Edad en Acción (3e)",
+          "relacion": "misma",
+          "circunscripciones": 2,
+          "votos": 484,
+          "escanos": 0
+        }
+      ]
+    },
+    "union-cartaginense": {
+      "proclamada": [],
+      "no_proclamada": [
+        "murcia"
+      ],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    },
+    "justicia-y-ley": {
+      "proclamada": [],
+      "no_proclamada": [
+        "alava"
+      ],
+      "votos_2023": null,
+      "escanos_2023": null,
+      "comparte_votos_2023_con": [],
+      "relaciones_2023": []
+    }
+  }
+}

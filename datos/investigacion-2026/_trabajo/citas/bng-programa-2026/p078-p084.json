@@ -1,0 +1,946 @@
+{
+  "fuente": "bng-programa-2026",
+  "partido": "bng",
+  "paginas": [
+    78,
+    84
+  ],
+  "citas": [
+    {
+      "cita": "Cooperación galego-portuguesa. Aproveitar o espazo lingüístico galego-portugués para compartir recursos tecnolóxicos e corpus.",
+      "pagina": 78,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.3. Lingua galega, patrimonio cultural e intelixencia artificial soberana"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Compartir recursos tecnológicos y corpus en el espacio gallego-portugués",
+      "etiquetas": [
+        "lenguas",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Cooperación gallego-portuguesa. Aprovechar el espacio lingüístico gallego-portugués para compartir recursos tecnológicos y corpus.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En cumprimento da Lei Paz-Andrade, garantir o acceso algorítmico por defecto aos contidos e medios de comunicación de Portugal e do Brasil, e viceversa.",
+      "pagina": 78,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.3. Lingua galega, patrimonio cultural e intelixencia artificial soberana"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acceso algorítmico por defecto a contenidos de Portugal y Brasil",
+      "etiquetas": [
+        "lenguas",
+        "medios de comunicación",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "En cumplimiento de la Ley Paz-Andrade, garantizar el acceso algorítmico por defecto a los contenidos y medios de comunicación de Portugal y de Brasil, y viceversa.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dereito a modelos adaptados á nosa cultura. Promover o dereito dos pobos a exixiren versións dos grandes modelos de IA adaptadas á súa propia cultura, adestradas cos seus propios corpus e aliñadas cos seus consensos democráticos.",
+      "pagina": 78,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.3. Lingua galega, patrimonio cultural e intelixencia artificial soberana"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Derecho de los pueblos a modelos de IA adaptados culturalmente",
+      "etiquetas": [
+        "inteligencia artificial",
+        "cultura",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Derecho a modelos adaptados a nuestra cultura. Promover el derecho de los pueblos a exigir versiones de los grandes modelos de IA adaptadas a su propia cultura, entrenadas con sus propios corpus y alineadas con sus consensos democráticos.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ciencia aberta e retorno social. Modificar a Lei da Ciencia para que o software, algoritmos, patentes e propiedade intelectual derivados de proxectos financiados con fondos públicos ou desenvolvidos nas universidades públicas galegas e empresas se liberen baixo licenzas abertas, evitando a súa captura por parte de monopolios privados.",
+      "pagina": 78,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.3. Lingua galega, patrimonio cultural e intelixencia artificial soberana"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la Ley de la Ciencia para licencias abiertas",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Ciencia abierta y retorno social. Modificar la Ley de la Ciencia para que el software, algoritmos, patentes y propiedad intelectual derivados de proyectos financiados con fondos públicos o desarrollados en las universidades públicas gallegas y empresas se liberen bajo licencias abiertas, evitando su captura por parte de monopolios privados.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Os datos xerados colectivamente pola cidadanía, polas Pemes e polas comunidades constitúen unha fonte de valor económico e social que non pode quedar sometida en exclusiva aos intereses das corporacións transnacionais.",
+      "pagina": 78,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.4. Datos e coñecemento en man común"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Los datos colectivos no deben quedar sometidos a corporaciones transnacionales",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "economía"
+      ],
+      "traduccion": "Los datos generados colectivamente por la ciudadanía, por las pymes y por las comunidades constituyen una fuente de valor económico y social que no puede quedar sometida en exclusiva a los intereses de las corporaciones transnacionales.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defendemos modelos que manteñan a propiedade, o control e o valor dos datos no territorio onde se producen.",
+      "pagina": 78,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.4. Datos e coñecemento en man común"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Propiedad y control de los datos en el territorio de origen",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Defendemos modelos que mantengan la propiedad, el control y el valor de los datos en el territorio donde se producen.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desenvolvemento de cooperativas de datos. Impulsar no Estado a lexislación europea sobre goberno de datos —Regulamento (UE) 2022/868— mediante normativa e financiamento específicos para fórmulas de xestión colectiva.",
+      "pagina": 78,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.4. Datos e coñecemento en man común"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desarrollo del Reglamento europeo de datos para cooperativas de datos",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "unión europea"
+      ],
+      "traduccion": "Desarrollo de cooperativas de datos. Impulsar en el Estado la legislación europea sobre gobierno de datos —Reglamento (UE) 2022/868— mediante normativa y financiación específicas para fórmulas de gestión colectiva.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Datos colectivos como ben común. Promover unha xestión democrática da información xerada por comunidades e Pemes, co obxectivo de preservar os dereitos das comunidades produtoras e evitar a apropiación unilateral do seu valor por parte de terceiros.",
+      "pagina": 78,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.4. Datos e coñecemento en man común"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Gestión democrática de los datos de comunidades y pymes",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Datos colectivos como bien común. Promover una gestión democrática de la información generada por comunidades y pymes, con el objetivo de preservar los derechos de las comunidades productoras y evitar la apropiación unilateral de su valor por parte de terceros.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acceso común ao coñecemento. Instar o Goberno do Estado a defender ante a Unión Europea e os organismos internacionais a declaración do coñecemento xeral da humanidade como un ben en man común.",
+      "pagina": 78,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.4. Datos e coñecemento en man común"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Declaración internacional del conocimiento como bien común",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "política exterior",
+        "unión europea"
+      ],
+      "traduccion": "Acceso común al conocimiento. Instar al Gobierno del Estado a defender ante la Unión Europea y los organismos internacionales la declaración del conocimiento general de la humanidad como un bien en mano común.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Modelos de IA e coñecemento universal. Promover que os modelos de IA de risco sistémico adestrados con coñecemento de interese común se poidan liberar de xeito seguro para o uso das distintas culturas, impedindo que a carreira pola hexemonía tecnolóxica bloquee o acceso compartido.",
+      "pagina": 78,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.4. Datos e coñecemento en man común"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Liberación segura de modelos de IA de riesgo sistémico",
+      "etiquetas": [
+        "inteligencia artificial",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Modelos de IA y conocimiento universal. Promover que los modelos de IA de riesgo sistémico entrenados con conocimiento de interés común se puedan liberar de forma segura para el uso de las distintas culturas, impidiendo que la carrera por la hegemonía tecnológica bloquee el acceso compartido.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Goberno democrático dos datos. Desenvolver instrumentos que garantan a participación das comunidades nas decisións sobre o uso e a reutilización dos datos colectivos, asegurando que os beneficios e o valor revertan no propio territorio.",
+      "pagina": 79,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.4. Datos e coñecemento en man común"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación de las comunidades en el uso de datos colectivos",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Gobierno democrático de los datos. Desarrollar instrumentos que garanticen la participación de las comunidades en las decisiones sobre el uso y la reutilización de los datos colectivos, asegurando que los beneficios y el valor reviertan en el propio territorio.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Galiza precisa infraestruturas públicas propias para decidir sobre a custodia e o tratamento da súa información estratéxica.",
+      "pagina": 79,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.5. Infraestruturas públicas, nube soberana e autonomía tecnolóxica"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Infraestructuras digitales públicas propias para Galicia",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "infraestructuras"
+      ],
+      "traduccion": "Galicia necesita infraestructuras públicas propias para decidir sobre la custodia y el tratamiento de su información estratégica.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Rede pública de almacenamento e computación. Impulsar unha lei de infraestruturas dixitais de propiedade pública e crear unha rede estatal de almacenamento e computación como alternativa soberana ás nubes privadas transnacionais.",
+      "pagina": 79,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.5. Infraestruturas públicas, nube soberana e autonomía tecnolóxica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de infraestructuras digitales públicas y red estatal de computación",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "infraestructuras"
+      ],
+      "traduccion": "Red pública de almacenamiento y computación. Impulsar una ley de infraestructuras digitales de propiedad pública y crear una red estatal de almacenamiento y computación como alternativa soberana a las nubes privadas transnacionales.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nube pública galega. Reclamar a transferencia directa de fondos europeos e estatais de dixitalización para que Galiza desenvolva a súa propia infraestrutura pública de servidores, adaptada ás necesidades das administracións, universidades, servizos públicos e do noso tecido produtivo.",
+      "pagina": 79,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.5. Infraestruturas públicas, nube soberana e autonomía tecnolóxica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transferencia de fondos de digitalización para una nube pública gallega",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "infraestructuras",
+        "organización territorial"
+      ],
+      "traduccion": "Nube pública gallega. Reclamar la transferencia directa de fondos europeos y estatales de digitalización para que Galicia desarrolle su propia infraestructura pública de servidores, adaptada a las necesidades de las administraciones, universidades, servicios públicos y de nuestro tejido productivo.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Custodia pública de datos estratéxicos. Garantir por lei que os datos sanitarios do SERGAS, educativos e expedientes administrativos se custodien e procesen baixo estrito control público, seguridade e protección de dereitos.",
+      "pagina": 79,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.5. Infraestruturas públicas, nube soberana e autonomía tecnolóxica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Custodia pública por ley de datos sanitarios, educativos y administrativos",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "administración pública"
+      ],
+      "traduccion": "Custodia pública de datos estratégicos. Garantizar por ley que los datos sanitarios del SERGAS, educativos y expedientes administrativos se custodien y procesen bajo estricto control público, seguridad y protección de derechos.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforma da contratación pública. Modificar a Lei de Contratos do Sector Público e o Esquema Nacional de Seguridade para reducir a dependencia de software privativo extraeuropeo, favorecendo o código aberto, as nubes públicas certificadas e a capacidade de auditoría.",
+      "pagina": 79,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.5. Infraestruturas públicas, nube soberana e autonomía tecnolóxica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la contratación pública para reducir software privativo extraeuropeo",
+      "etiquetas": [
+        "contratación pública",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Reforma de la contratación pública. Modificar la Ley de Contratos del Sector Público y el Esquema Nacional de Seguridad para reducir la dependencia de software privativo extraeuropeo, favoreciendo el código abierto, las nubes públicas certificadas y la capacidad de auditoría.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección fronte á lexislación extraterritorial. Avaliar e limitar os riscos de contratar provedores tecnolóxicos sometidos a leis de terceiros Estados —como a CLOUD Act estadounidense— que os obriguen a entregar información ao seu goberno, blindando a normativa europea de protección de datos.",
+      "pagina": 79,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.5. Infraestruturas públicas, nube soberana e autonomía tecnolóxica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Limitar riesgos de proveedores sujetos a leyes de terceros Estados",
+      "etiquetas": [
+        "contratación pública",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Protección frente a la legislación extraterritorial. Evaluar y limitar los riesgos de contratar proveedores tecnológicos sometidos a leyes de terceros Estados —como la CLOUD Act estadounidense— que los obliguen a entregar información a su gobierno, blindando la normativa europea de protección de datos.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Lingua e cultura na contratación tecnolóxica. Esixir en cada contrato público de software a presenza adecuada do galego e da nosa cultura, garantindo financiamento para nubes públicas federadas que permitan compartir capacidades entre administracións sen perder identidade.",
+      "pagina": 80,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.5. Infraestruturas públicas, nube soberana e autonomía tecnolóxica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Presencia del gallego en los contratos públicos de software",
+      "etiquetas": [
+        "lenguas",
+        "contratación pública",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Lengua y cultura en la contratación tecnológica. Exigir en cada contrato público de software la presencia adecuada del gallego y de nuestra cultura, garantizando financiación para nubes públicas federadas que permitan compartir capacidades entre administraciones sin perder identidad.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Compra pública para a soberanía dixital. Orientar os investimentos cara a solucións que fortalezan as capacidades tecnolóxicas propias, favorezan a participación das Pemes locais e eviten dependencias estruturais dun oligopolio de provedores.",
+      "pagina": 80,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.5. Infraestruturas públicas, nube soberana e autonomía tecnolóxica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Orientar la compra pública hacia capacidades tecnológicas propias",
+      "etiquetas": [
+        "contratación pública",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Compra pública para la soberanía digital. Orientar las inversiones hacia soluciones que fortalezcan las capacidades tecnológicas propias, favorezcan la participación de las pymes locales y eviten dependencias estructurales de un oligopolio de proveedores.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "As plataformas dixitais non deben organizarse para maximizar o tempo de uso, captar datos de comportamento ou condicionar condutas.",
+      "pagina": 80,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.6 . Redes sociais ao servizo das persoas e liberdade de elección dixital"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a plataformas diseñadas para maximizar el tiempo de uso",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Las plataformas digitales no deben organizarse para maximizar el tiempo de uso, captar datos de comportamiento o condicionar conductas.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fronte a un negocio baseado na explotación da atención, defendemos servizos dixitais transparentes, interoperábeis e sometidos a garantías democráticas.",
+      "pagina": 80,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.6 . Redes sociais ao servizo das persoas e liberdade de elección dixital"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de servicios digitales transparentes e interoperables",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Frente a un negocio basado en la explotación de la atención, defendemos servicios digitales transparentes, interoperables y sometidos a garantías democráticas.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Limitación de algoritmos manipulativos. Esixir ao Goberno do Estado un papel pioneiro na Unión Europea para limitar os algoritmos e os deseños que maximizan de forma deliberada o tempo de uso mediante condutas adictivas.",
+      "pagina": 80,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.6 . Redes sociais ao servizo das persoas e liberdade de elección dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Limitar en la UE algoritmos y diseños adictivos",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "unión europea"
+      ],
+      "traduccion": "Limitación de algoritmos manipulativos. Exigir al Gobierno del Estado un papel pionero en la Unión Europea para limitar los algoritmos y los diseños que maximizan de forma deliberada el tiempo de uso mediante conductas adictivas.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Economía da intención. Favorecer a transición cara a un modelo dixital no que as persoas decidan libremente a información que reciben, evitando que os seus intereses sexan delegados en algoritmos comerciais.",
+      "pagina": 80,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.6 . Redes sociais ao servizo das persoas e liberdade de elección dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Modelo digital en que las personas eligen la información recibida",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Economía de la intención. Favorecer la transición hacia un modelo digital en el que las personas decidan libremente la información que reciben, evitando que sus intereses sean delegados en algoritmos comerciales.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Interoperabilidade de redes sociais. Impor a interoperabilidade das redes sociais e servizos de mensaxería mediante protocolos abertos e federados, permitindo comunicarse con usuarios doutras plataformas e mudar de servizo sen cancelas tecnolóxicas.",
+      "pagina": 80,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.6 . Redes sociais ao servizo das persoas e liberdade de elección dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Interoperabilidad obligatoria de redes sociales y mensajería",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Interoperabilidad de redes sociales. Imponer la interoperabilidad de las redes sociales y servicios de mensajería mediante protocolos abiertos y federados, permitiendo comunicarse con usuarios de otras plataformas y cambiar de servicio sin cancelas tecnológicas.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Alternativas abertas e descentralizadas. Favorecer o desenvolvemento de servizos dixitais abertos, federados e comunitarios para reducir a dependencia das grandes corporacións e potenciar a capacidade de decisión cidadá.",
+      "pagina": 80,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.6 . Redes sociais ao servizo das persoas e liberdade de elección dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomento de servicios digitales abiertos, federados y comunitarios",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Alternativas abiertas y descentralizadas. Favorecer el desarrollo de servicios digitales abiertos, federados y comunitarios para reducir la dependencia de las grandes corporaciones y potenciar la capacidad de decisión ciudadana.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transparencia e pluralismo. Reforzar as garantías e auditorías sobre o funcionamento dos sistemas de recomendación para coñecer os criterios que condicionan a visibilidade e a circulación dos contidos en Internet.",
+      "pagina": 80,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.6 . Redes sociais ao servizo das persoas e liberdade de elección dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Garantías y auditorías de los sistemas de recomendación",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "transparencia"
+      ],
+      "traduccion": "Transparencia y pluralismo. Reforzar las garantías y auditorías sobre el funcionamiento de los sistemas de recomendación para conocer los criterios que condicionan la visibilidad y la circulación de los contenidos en Internet.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "O modelo de negocio das multinacionais tecnolóxicas xera inxentes beneficios privados a partir de recursos e información que proceden do conxunto da sociedade. Cómpre estabelecer mecanismos fiscais e de control que garantan unha xusta redistribución de devandito valor e axuden a financiar as nosas propias infraestruturas públicas.",
+      "pagina": 81,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.7. Fiscalidade e retorno social do valor dixital"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Mecanismos fiscales para redistribuir el valor generado por las tecnológicas",
+      "etiquetas": [
+        "impuestos",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "El modelo de negocio de las multinacionales tecnológicas genera ingentes beneficios privados a partir de recursos e información que proceden del conjunto de la sociedad. Es preciso establecer mecanismos fiscales y de control que garanticen una justa redistribución de dicho valor y ayuden a financiar nuestras propias infraestructuras públicas.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fiscalidade do capitalismo de vixilancia. Promover no marco estatal e europeo a tributación do negocio baseado na extracción masiva de datos, gravando esta actividade segundo o volume real de persoas usuarias en cada territorio.",
+      "pagina": 81,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.7. Fiscalidade e retorno social do valor dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tributación de la extracción masiva de datos según usuarios",
+      "etiquetas": [
+        "impuestos",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Fiscalidad del capitalismo de vigilancia. Promover en el marco estatal y europeo la tributación del negocio basado en la extracción masiva de datos, gravando esta actividad según el volumen real de personas usuarias en cada territorio.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Retorno fiscal ás comunidades. Reclamar que a recadación derivada destes impostos tecnolóxicos se transfira ás comunidades para financiar infraestruturas dixitais públicas, servizos de interese xeral e espazos de datos en man común.",
+      "pagina": 81,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.7. Fiscalidade e retorno social do valor dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transferir a las comunidades la recaudación de impuestos tecnológicos",
+      "etiquetas": [
+        "impuestos",
+        "financiación autonómica",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Retorno fiscal a las comunidades. Reclamar que la recaudación derivada de estos impuestos tecnológicos se transfiera a las comunidades para financiar infraestructuras digitales públicas, servicios de interés general y espacios de datos en mano común.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tributación efectiva contra a elusión. Defender medidas estritas contra a enxeñaría fiscal e a concentración de beneficios das grandes plataformas, obrigándoas a contribuír de forma xusta aos servizos públicos dos territorios onde operan.",
+      "pagina": 81,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.7. Fiscalidade e retorno social do valor dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Medidas contra la ingeniería fiscal de las grandes plataformas",
+      "etiquetas": [
+        "impuestos",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Tributación efectiva contra la elusión. Defender medidas estrictas contra la ingeniería fiscal y la concentración de beneficios de las grandes plataformas, obligándolas a contribuir de forma justa a los servicios públicos de los territorios donde operan.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Financiamento de capacidades propias. Vincular as políticas fiscais e de investimento público ao desenvolvemento dunha economía dixital soberana que apoie a innovación, o software libre e o tecido de pequenas e medianas empresas galegas.",
+      "pagina": 81,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.7. Fiscalidade e retorno social do valor dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Vincular fiscalidad e inversión pública a la economía digital propia",
+      "etiquetas": [
+        "impuestos",
+        "ciencia y tecnología",
+        "economía"
+      ],
+      "traduccion": "Financiación de capacidades propias. Vincular las políticas fiscales y de inversión pública al desarrollo de una economía digital soberana que apoye la innovación, el software libre y el tejido de pequeñas y medianas empresas gallegas.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "A expansión das infraestruturas dixitais non pode xustificar a sobreexplotación dos recursos naturais nin o consumo insostíbel de auga e enerxía.",
+      "pagina": 81,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.8. Sustentabilidade ambiental e loita contra o extractivismo dixital"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Límites ambientales a la expansión de infraestructuras digitales",
+      "etiquetas": [
+        "medio ambiente",
+        "ciencia y tecnología",
+        "energía"
+      ],
+      "traduccion": "La expansión de las infraestructuras digitales no puede justificar la sobreexplotación de los recursos naturales ni el consumo insostenible de agua y energía.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "A implantación de centros de datos e a extracción de minerais críticos deben estar subordinadas á planificación pública, á sustentabilidade e ao retorno social e industrial do noso país.",
+      "pagina": 81,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.8. Sustentabilidade ambiental e loita contra o extractivismo dixital"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Centros de datos y minería crítica subordinados a planificación pública",
+      "etiquetas": [
+        "medio ambiente",
+        "ciencia y tecnología",
+        "industria"
+      ],
+      "traduccion": "La implantación de centros de datos y la extracción de minerales críticos deben estar subordinadas a la planificación pública, a la sostenibilidad y al retorno social e industrial de nuestro país.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforma da Lei de Telecomunicacións e do Sector Eléctrico. Impulsar cambios normativos estatais para estabelecer límites estritos e vinculantes á implantación de macrocentros de datos privados, garantindo a súa compatibilidade coas necesidades do territorio.",
+      "pagina": 81,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.8. Sustentabilidade ambiental e loita contra o extractivismo dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Límites legales vinculantes a los macrocentros de datos privados",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "energía",
+        "medio ambiente"
+      ],
+      "traduccion": "Reforma de la Ley de Telecomunicaciones y del Sector Eléctrico. Impulsar cambios normativos estatales para establecer límites estrictos y vinculantes a la implantación de macrocentros de datos privados, garantizando su compatibilidad con las necesidades del territorio.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Auditorías hídricas e ambientais. Condicionar calquera proxecto tecnolóxico a unha avaliación rigorosa que garanta que o seu consumo de auga non sature os acuíferos nin prexudique o abastecemento da poboación e dos ecosistemas.",
+      "pagina": 82,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.8. Sustentabilidade ambiental e loita contra o extractivismo dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Evaluación del consumo de agua de proyectos tecnológicos",
+      "etiquetas": [
+        "medio ambiente",
+        "agua",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Auditorías hídricas y ambientales. Condicionar cualquier proyecto tecnológico a una evaluación rigurosa que garantice que su consumo de agua no sature los acuíferos ni perjudique el abastecimiento de la población y de los ecosistemas.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Enerxía renovábel e capacidade da rede. Esixir que estas grandes infraestruturas se abastezan ao 100% con enerxías renovábeis de nova xeración propias, impedindo que saturen a rede pública ou despracen outros usos prioritarios.",
+      "pagina": 82,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.8. Sustentabilidade ambiental e loita contra o extractivismo dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Abastecimiento 100% renovable propio de los centros de datos",
+      "etiquetas": [
+        "energía",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Energía renovable y capacidad de la red. Exigir que estas grandes infraestructuras se abastezcan al 100% con energías renovables de nueva generación propias, impidiendo que saturen la red pública o desplacen otros usos prioritarios.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aproveitamento obrigatorio de calor residual. Promover o uso obrigatorio da calor xerada polos centros de datos para abastecer industrias, servizos públicos ou redes de calefacción locais, revertendo de xeito produtivo no territorio.",
+      "pagina": 82,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.8. Sustentabilidade ambiental e loita contra o extractivismo dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Uso obligatorio del calor residual de centros de datos",
+      "etiquetas": [
+        "energía",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Aprovechamiento obligatorio de calor residual. Promover el uso obligatorio del calor generado por los centros de datos para abastecer industrias, servicios públicos o redes de calefacción locales, revirtiendo de forma productiva en el territorio.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Participación, canon e retorno territorial. Estabelecer plans industriais vinculantes e un canon específico por capacidade instalada que vaia destinado integramente a financiar a transición dixital e o desenvolvemento local das comunidades afectadas.",
+      "pagina": 82,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.8. Sustentabilidade ambiental e loita contra o extractivismo dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Planes industriales vinculantes y canon por capacidad instalada",
+      "etiquetas": [
+        "impuestos",
+        "industria",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Participación, canon y retorno territorial. Establecer planes industriales vinculantes y un canon específico por capacidad instalada que vaya destinado íntegramente a financiar la transición digital y el desarrollo local de las comunidades afectadas.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fin dos enclaves extractivos dixitais. Opoñerse ao sovereignty washing de multinacionais que usan os recursos galegos sen xerar valor engadido real. Baixo estes criterios de control e sustentabilidade examinaranse proxectos como o centro de datos de Curtis vinculado a Microsoft.",
+      "pagina": 82,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.8. Sustentabilidade ambiental e loita contra o extractivismo dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Oposición al «sovereignty washing» y examen del centro de datos de Curtis",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "industria"
+      ],
+      "traduccion": "Fin de los enclaves extractivos digitales. Oponerse al sovereignty washing de multinacionales que usan los recursos gallegos sin generar valor añadido real. Bajo estos criterios de control y sostenibilidad se examinarán proyectos como el centro de datos de Curtis vinculado a Microsoft.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Minerais críticos e transformación industrial. Promover normativa para que os proxectos de minería estratéxica de transición dixital (como o litio ou o cobre) estean condicionados por lei á súa transformación industrial e á creación de valor tecnolóxico en Galiza.",
+      "pagina": 82,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.8. Sustentabilidade ambiental e loita contra o extractivismo dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Condicionar por ley la minería estratégica a transformación industrial local",
+      "etiquetas": [
+        "industria",
+        "minería"
+      ],
+      "traduccion": "Minerales críticos y transformación industrial. Promover normativa para que los proyectos de minería estratégica de transición digital (como el litio o el cobre) estén condicionados por ley a su transformación industrial y a la creación de valor tecnológico en Galicia.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cohesión contra os custos ambientais. Impor criterios de proximidade enerxética e compatibilidade ambiental para evitar un modelo asimétrico onde os custos ecolóxicos queden en Galiza mentres os beneficios económicos fuxen fóra.",
+      "pagina": 82,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.8. Sustentabilidade ambiental e loita contra o extractivismo dixital"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Criterios de proximidad energética y compatibilidad ambiental",
+      "etiquetas": [
+        "medio ambiente",
+        "energía"
+      ],
+      "traduccion": "Cohesión contra los costes ambientales. Imponer criterios de proximidad energética y compatibilidad ambiental para evitar un modelo asimétrico donde los costes ecológicos queden en Galicia mientras los beneficios económicos huyen fuera.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Galiza dispón dunha posición estratéxica na fachada atlántica ideal para coliderar un ecosistema dixital propio, cooperar co norte de Portugal e crear actividade tecnolóxica de alto valor. Esta oportunidade debe aproveitarse cun modelo de infraestruturas ao servizo do desenvolvemento económico do noso país, rexeitando que sexamos unha mera zona de paso ou de consumo asimétrico de recursos.",
+      "pagina": 82,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.9. Galiza como nodo de interconexión dixital atlántico"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Galicia como nodo digital atlántico y no mera zona de paso",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "infraestructuras"
+      ],
+      "traduccion": "Galicia dispone de una posición estratégica en la fachada atlántica ideal para coliderar un ecosistema digital propio, cooperar con el norte de Portugal y crear actividad tecnológica de alto valor. Esta oportunidad debe aprovecharse con un modelo de infraestructuras al servicio del desarrollo económico de nuestro país, rechazando que seamos una mera zona de paso o de consumo asimétrico de recursos.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Amarre de cables submarinos internacionais. Impulsar desde o Estado a posición xeoestratéxica de Galiza como nodo de interconexión atlántico, promovendo activamente o amarre de cables submarinos internacionais na costa galega baixo estritos criterios de sustentabilidade ambiental.",
+      "pagina": 83,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.9. Galiza como nodo de interconexión dixital atlántico"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Promover el amarre de cables submarinos en la costa gallega",
+      "etiquetas": [
+        "infraestructuras",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Amarre de cables submarinos internacionales. Impulsar desde el Estado la posición geoestratégica de Galicia como nodo de interconexión atlántico, promoviendo activamente el amarre de cables submarinos internacionales en la costa gallega bajo estrictos criterios de sostenibilidad ambiental.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Corredor dixital atlántico. Promover un corredor de conectividade e alta tecnoloxía co norte de Portugal e a cornixa cantábrica que favoreza o intercambio científico, a cooperación en innovación e o pulo a un tecido de Pemes de alto valor engadido.",
+      "pagina": 83,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.9. Galiza como nodo de interconexión dixital atlántico"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Corredor de conectividad con el norte de Portugal y la cornisa cantábrica",
+      "etiquetas": [
+        "infraestructuras",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Corredor digital atlántico. Promover un corredor de conectividad y alta tecnología con el norte de Portugal y la cornisa cantábrica que favorezca el intercambio científico, la cooperación en innovación y el impulso a un tejido de pymes de alto valor añadido.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Planificación territorial de infraestruturas. Reclamar que a lexislación estatal subordine os centros de datos á planificación e control das administracións territoriais competentes, garantindo que sirvan para potenciar os ecosistemas produtivos locais.",
+      "pagina": 83,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.9. Galiza como nodo de interconexión dixital atlántico"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Centros de datos subordinados por ley a las administraciones territoriales",
+      "etiquetas": [
+        "organización territorial",
+        "infraestructuras",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Planificación territorial de infraestructuras. Reclamar que la legislación estatal subordine los centros de datos a la planificación y control de las administraciones territoriales competentes, garantizando que sirvan para potenciar los ecosistemas productivos locales.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Retorno industrial e valor engadido. Orientar todas as novas redes e infraestruturas atlánticas cara á creación de actividade industrial real, o fortalecemento da investigación pública e a innovación, asegurando que a nosa xeografía se traduza en capacidade efectiva de decisión.",
+      "pagina": 83,
+      "apartado": [
+        "8. Democracia e soberanía dixital: infraestruturas públicas propias e dereitos garantidos",
+        "8.9. Galiza como nodo de interconexión dixital atlántico"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Orientar las infraestructuras atlánticas a actividad industrial e investigación",
+      "etiquetas": [
+        "industria",
+        "infraestructuras",
+        "ciencia y tecnología"
+      ],
+      "traduccion": "Retorno industrial y valor añadido. Orientar todas las nuevas redes e infraestructuras atlánticas hacia la creación de actividad industrial real, el fortalecimiento de la investigación pública y la innovación, asegurando que nuestra geografía se traduzca en capacidad efectiva de decisión.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fronte a esta realidade, defendemos a soberanía nacional como ferramenta para garantir os dereitos da mocidade.",
+      "pagina": 84,
+      "apartado": [
+        "9. Políticas para a mocidade"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Soberanía nacional como herramienta para los derechos de la juventud",
+      "etiquetas": [
+        "juventud",
+        "organización territorial"
+      ],
+      "traduccion": "Frente a esta realidad, defendemos la soberanía nacional como herramienta para garantizar los derechos de la juventud.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Queremos construír unha Galiza máis xusta e igualitaria, na que poidamos xestionar todalas políticas públicas do noso país tendo en conta as problemáticas concretas da nosa mocidade, que requiren de solucións específicas, como forma de asegurar un futuro onde poder vivir, traballar e desenvolver o noso proxecto de vida na nosa terra.",
+      "pagina": 84,
+      "apartado": [
+        "9. Políticas para a mocidade"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Gestión propia de las políticas públicas atendiendo a la juventud",
+      "etiquetas": [
+        "juventud",
+        "organización territorial"
+      ],
+      "traduccion": "Queremos construir una Galicia más justa e igualitaria, en la que podamos gestionar todas las políticas públicas de nuestro país teniendo en cuenta las problemáticas concretas de nuestra juventud, que requieren de soluciones específicas, como forma de asegurar un futuro donde poder vivir, trabajar y desarrollar nuestro proyecto de vida en nuestra tierra.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Deseñar políticas de fomento do emprego xuvenil coa finalidade de crear emprego estábel e unhas condicións laborais dignas, tendo como obxectivo prioritario a igualdade de condicións e oportunidades das mozas e dos mozos galegos.",
+      "pagina": 84,
+      "apartado": [
+        "9. Políticas para a mocidade"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Políticas de fomento del empleo juvenil estable",
+      "etiquetas": [
+        "juventud",
+        "empleo"
+      ],
+      "traduccion": "Diseñar políticas de fomento del empleo juvenil con la finalidad de crear empleo estable y unas condiciones laborales dignas, teniendo como objetivo prioritario la igualdad de condiciones y oportunidades de las jóvenes y de los jóvenes gallegos.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentar axudas directas para a incorporación da mocidade no sector primario e medidas complementarias para as que continúan a súa actividade, así como un apoio eficaz e un reforzo nas axudas e no asesoramento para tomar a remuda nas explotacións.",
+      "pagina": 84,
+      "apartado": [
+        "9. Políticas para a mocidade"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ayudas a la incorporación de jóvenes al sector primario",
+      "etiquetas": [
+        "juventud",
+        "agricultura y pesca"
+      ],
+      "traduccion": "Fomentar ayudas directas para la incorporación de la juventud en el sector primario y medidas complementarias para las que continúan su actividad, así como un apoyo eficaz y un refuerzo en las ayudas y en el asesoramiento para tomar el relevo en las explotaciones.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantir o respecto aos tempos de descanso, evitando comunicacións e esixencias laborais fóra da xornada de traballo.",
+      "pagina": 84,
+      "apartado": [
+        "9. Políticas para a mocidade"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Respeto a los tiempos de descanso y desconexión laboral",
+      "etiquetas": [
+        "empleo",
+        "juventud"
+      ],
+      "traduccion": "Garantizar el respeto a los tiempos de descanso, evitando comunicaciones y exigencias laborales fuera de la jornada de trabajo.",
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover o emprego xuvenil vinculado á transición enerxética xusta, á conservacación ambiental e á recuperación dos ecosistemas, garantindo que Galiza poida decidir sobre os seus recursos naturais.",
+      "pagina": 84,
+      "apartado": [
+        "9. Políticas para a mocidade"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Empleo juvenil ligado a transición energética y conservación ambiental",
+      "etiquetas": [
+        "juventud",
+        "empleo",
+        "medio ambiente"
+      ],
+      "traduccion": "Promover el empleo juvenil vinculado a la transición energética justa, a la conservación ambiental y a la recuperación de los ecosistemas, garantizando que Galicia pueda decidir sobre sus recursos naturales.",
+      "verificacion": "exacta"
+    }
+  ]
+}

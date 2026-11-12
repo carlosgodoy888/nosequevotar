@@ -1,0 +1,88 @@
+{
+  "resumenes": [
+    {
+      "tema": "sanidad",
+      "base": "escasa",
+      "frases": [
+        { "texto": "Defiende la salud como derecho y una sanidad pública sin demoras, garantizada en el medio rural y sin prejuicios hacia las personas trans, no binarias e intersexuales.", "apoyos": ["c-0ddd2481bb", "c-34c598a016", "c-0aea354bbe"] },
+        { "texto": "Pide que la protección constitucional del aborto lo incluya también en el artículo 15, entre los derechos fundamentales, y no solo en el 43.", "apoyos": ["c-8cdcc9fcbe"] }
+      ],
+      "nota": "Pocas citas y casi todas genéricas; ninguna sobre listas de espera, atención primaria o salud mental. Todo procede de declaraciones."
+    },
+    {
+      "tema": "educacion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende la educación como un derecho y quiere garantizar su acceso en el medio rural.", "apoyos": ["c-0ddd2481bb", "c-34c598a016"] },
+        { "texto": "Propone un máximo de 20 alumnos por aula en Primaria y Secundaria obligatoria, y de 25 en Bachillerato.", "apoyos": ["c-df2e015457"] },
+        { "texto": "Pide que el alumnado con necesidades específicas de apoyo educativo cuente doble a efectos de ratio, o más según la gravedad del caso.", "apoyos": ["c-4ef471146b"] },
+        { "texto": "Plantea reforzar la organización y financiación de las universidades públicas y un plan estatal de formación del profesorado en memoria democrática, derechos humanos y cultura de paz.", "apoyos": ["c-685ce1069b", "c-97448c0b91"] }
+      ],
+      "nota": "Todo procede de declaraciones."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Quiere dar derechos y protección específica a las familias con un solo progenitor.", "apoyos": ["c-bfde659d27"] },
+        { "texto": "Pide modificar la ley de protección integral a la infancia frente a la violencia (LOPIVI) para que ningún niño o niña quede desprotegido.", "apoyos": ["c-b70141fe15"] },
+        { "texto": "Sobre la situación en Ceuta, sostiene que la prioridad es dar la máxima protección a los niños y niñas.", "apoyos": ["c-6b5b2c56f1"] },
+        { "texto": "Pide que el alumnado con necesidades específicas de apoyo educativo cuente doble en la ratio de aula.", "apoyos": ["c-4ef471146b"] }
+      ],
+      "nota": "La cita c-d76e700b66 (supervisión de plataformas por la CNMC) no se usa aquí porque no habla de familias; se recoge en ciencia-cultura-y-digital. La cita sobre familias monoparentales no concreta la medida. Todo procede de declaraciones."
+    },
+    {
+      "tema": "inmigracion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Considera un fracaso la estrategia europea de externalizar las fronteras y gestionarlas con países que no respetan los derechos humanos.", "apoyos": ["c-cba97f1c2c"] },
+        { "texto": "Pide el traslado urgente a la Península de las personas, menores y adultas, que esperan en Ceuta la resolución de su expediente.", "apoyos": ["c-2357524fcf", "c-6b5b2c56f1"] },
+        { "texto": "Relaciona la delincuencia con la desigualdad y rechaza señalar a los migrantes como responsables.", "apoyos": ["c-7f149c403a"] },
+        { "texto": "Advierte del riesgo de discriminación racial y violencia contra migrantes que suponen los grupos que se atribuyen tareas de vigilancia o retención de personas.", "apoyos": ["c-1fe433d8f9"] }
+      ],
+      "nota": "No se adopta la expresión «grupos de ideología fascista» de la cita c-1fe433d8f9; se describe la conducta. Todo procede de declaraciones."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea la seguridad como resultado de reforzar los barrios y garantizar vivienda, salario digno, pensiones y servicios públicos.", "apoyos": ["c-d60c5ee3c4"] },
+        { "texto": "Relaciona la delincuencia con la desigualdad y rechaza atribuirla a los migrantes.", "apoyos": ["c-7f149c403a"] },
+        { "texto": "Muestra preocupación por lo que llama «elementos reaccionarios» en las fuerzas de seguridad y por grupos que se atribuyen la vigilancia o retención de personas.", "apoyos": ["c-7857bf59f9", "c-1fe433d8f9"] },
+        { "texto": "Pide reformar la LOPIVI para que ningún niño o niña quede desprotegido.", "apoyos": ["c-b70141fe15"] }
+      ],
+      "nota": "Citas sobre todo de posición, con una sola medida concreta (LOPIVI); nada sobre juzgados, penas o narcotráfico. Todo procede de declaraciones."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Rechaza el acuerdo comercial entre la UE y Mercosur por considerarlo una amenaza para el sector primario, el empleo rural y la ganadería extensiva.", "apoyos": ["c-ca7be6a4ef", "c-d2e485c625"] },
+        { "texto": "También rechaza recortar la PAC en el presupuesto europeo para destinar más recursos al rearme.", "apoyos": ["c-d2e485c625"] },
+        { "texto": "Defiende la agricultura y la ganadería familiar y de pequeña escala, y el futuro de las nuevas generaciones en sectores como el aceite de oliva.", "apoyos": ["c-ca7be6a4ef", "c-205b96fb6e"] },
+        { "texto": "Quiere garantizar en el medio rural servicios públicos como la sanidad, la educación y la vivienda.", "apoyos": ["c-34c598a016"] }
+      ],
+      "nota": "Solo citas de posición, sin medidas concretas; la cita del aceite de oliva no dice qué medida propone. Todo procede de declaraciones."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Vincula el feminismo con la vivienda, el salario digno y la reducción de jornada, y subraya que las mujeres cobran las pensiones más bajas.", "apoyos": ["c-a2df07cef4", "c-a8b62055f2"] },
+        { "texto": "Pide aplicar plenamente la ley LGTBI y trans y una sanidad pública sin demoras ni prejuicios para las personas trans, no binarias e intersexuales.", "apoyos": ["c-3648618863", "c-0aea354bbe"] },
+        { "texto": "Pide que la protección constitucional del aborto lo incluya también en el artículo 15, entre los derechos fundamentales, y no solo en el 43.", "apoyos": ["c-8cdcc9fcbe"] },
+        { "texto": "Propone un plan estatal de formación del profesorado en memoria democrática, derechos humanos y cultura de paz.", "apoyos": ["c-97448c0b91"] }
+      ],
+      "nota": "La cita c-a8b62055f2 habla de «una medida de igualdad» sobre pensiones sin decir cuál; por eso solo se recoge el diagnóstico. Todo procede de declaraciones."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "base": "escasa",
+      "frases": [
+        { "texto": "Defiende usar la tecnología para trabajar menos y vivir mejor, y que la CNMC supervise las grandes plataformas digitales en lugar de dejar que se autorregulen.", "apoyos": ["c-a2df3bbf1e", "c-d76e700b66"] },
+        { "texto": "Defiende una televisión pública crítica y sin censura, y se compromete a no usar la inteligencia artificial para atacar a sus adversarios.", "apoyos": ["c-7529b90e69", "c-2f7ce165f4"] }
+      ],
+      "nota": "Citas genéricas; dos (c-0c2e3ad573 y c-2f7ce165f4) tratan de conducta en campaña más que de política digital. No se usa c-0c2e3ad573. Nada sobre investigación ni deporte. Todo procede de declaraciones."
+    }
+  ]
+}

@@ -1,0 +1,1042 @@
+{
+ "partido": "psoe",
+ "nombre": "Partido Socialista Obrero Español (PSOE)",
+ "programa": "no_publicado",
+ "temas": [
+  {
+   "tema": "vivienda",
+   "nombre": "Vivienda",
+   "definicion": "Acceso a la vivienda en compra y alquiler, vivienda pública, suelo y urbanismo.",
+   "citas": [
+    {
+     "id": "c-4bdd616d37",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para mantener el uso prioritario residencial de la vivienda, 8) aprobaremos nuevos marcos regulatorios que prohibirán la conversión de viviendas residenciales en viviendas turísticas y de temporada en aquellas zonas de alta demanda, 9) posibilitaremos legalmente que sean los ayuntamientos los que establezcan la definición de zona tensionadas, 10) desarrollaremos un impuesto especial progresivo a la propiedad a partir de la tercera vivienda",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-7eea781b87",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Al mismo tiempo, 6) crearemos nuevos incentivos fiscales para quienes rehabiliten y pongan sus viviendas vacías en alquiler a un precio asequible, especialmente en zonas de alta demanda. Y, 7) implantaremos un seguro público contra impagos y desahucios que aumentará las garantías de los propietarios y la seguridad de los inquilinos.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-b1603d849e",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Hay también compromiso y la firme determinación de poner freno a la especulación. De ayudar a quienes necesitan acceder a un alquiler asequible o comprar una primera vivienda, de proteger a inquilinos, por supuesto que sí, y también a los pequeños propietarios frente a los abusos de los grandes tenedores y los llamados fondos buitre.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-02"
+    },
+    {
+     "id": "c-b6ee3b293b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La prioridad mayor probablemente es garantizar el acceso a la vivienda y hacer frente, por tanto, a la emergencia habitacional.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "nombre": "Empleo y salarios",
+   "definicion": "Trabajo, salarios, jornada, contratos, autónomos, sindicatos y salud laboral.",
+   "citas": [
+    {
+     "id": "c-4bf4f39c4c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para combatir la polarización salarial y garantizar una distribución más equitativa de las ganancias derivadas de la transformación tecnológica 5) incluiremos en la Constitución la obligatoriedad de revalorizar el SMI para que siempre esté por encima del 60% del salario medio, tal y como recomienda la Carta Social Europea; y 6) obligaremos por ley a las grandes empresas a repartir una parte de sus beneficios entre sus empleados, como ya hacen en Francia.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-8f7de3a15a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La reducción de la semana laboral a 37,5 horas es un paso enorme, pero debemos ir más allá. Hay que: 1) continuar las reformas estructurales en el tejido productivo y las negociaciones con los agentes sociales para reducir la jornada a las 36 horas semanales, que es la media que hoy tienen ya los países más avanzados de Europa.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-de9f28d5ea",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Lo que es un disparate es poner en cuestión el derecho de los trabajadores y trabajadoras",
+     "quien": "Pedro Sánchez, Secretario general y candidato del PSOE a la Presidencia",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-4f3353b213",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Para ello, proponemos 11) continuar reforzando los incentivos para la compatibilización del trabajo y la pensión; y 12) desarrollar, en el marco de la negociación colectiva, programas integrales de retención y reincorporación de trabajadores sénior, adecuando las jornadas y los espacios laborales.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-dd3e6614b8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En la LOMLOE impulsamos una recomendación sobre las horas lectivas, y ahora vamos a impulsar una ley para que no sea una recomendación, sino una obligación",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2025-09-17"
+    },
+    {
+     "id": "c-30e9d1e183",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "También 9) mejoraremos la Ley de Discapacidad para asegurar la igualdad, libertad efectiva y autonomía de las personas con discapacidad, conforme al nuevo artículo 49 de la Constitución",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-bc526d5712",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por eso pondremos en marcha una estrategia de movilidad laboral para abrir vías legales, seguras, ordenadas, para responder a las necesidades de nuestro tejido productivo, de nuestras empresas, y facilitar, por tanto, la integración desde el primer día.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-06-30"
+    },
+    {
+     "id": "c-fea21f3b4b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En paralelo, 33) trabajaremos en el marco del diálogo social para que las grandes empresas de más de 250 trabajadores y trabajadoras costeen el 50% del transporte público a sus empleados en los días laborables.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "nombre": "Pensiones",
+   "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
+   "citas": [
+    {
+     "id": "c-72114d0823",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Nadie os regaló nada y el 29 de noviembre nos jugamos que las pensiones sigan subiendo de acuerdo al IPC. Así que adquiero el compromiso: la próxima legislatura reformaremos la Constitución para blindar las pensiones y su revalorización conforme al IPC",
+     "quien": "Pedro Sánchez, Secretario general y candidato del PSOE a la Presidencia",
+     "fecha": "2026-10-26"
+    },
+    {
+     "id": "c-8c9f903cb5",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Las pensiones no son un cheque regalado, es una conquista social lograda. Así que un poco más de respeto a los mayores y un poco más de compromiso también con nuestros mayores.",
+     "quien": "Pedro Sánchez, Secretario general y candidato del PSOE a la Presidencia",
+     "fecha": "2026-10-17"
+    },
+    {
+     "id": "c-4f3353b213",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Para ello, proponemos 11) continuar reforzando los incentivos para la compatibilización del trabajo y la pensión; y 12) desarrollar, en el marco de la negociación colectiva, programas integrales de retención y reincorporación de trabajadores sénior, adecuando las jornadas y los espacios laborales.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    }
+   ]
+  },
+  {
+   "tema": "impuestos",
+   "nombre": "Impuestos",
+   "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
+   "citas": [
+    {
+     "id": "c-4bdd616d37",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para mantener el uso prioritario residencial de la vivienda, 8) aprobaremos nuevos marcos regulatorios que prohibirán la conversión de viviendas residenciales en viviendas turísticas y de temporada en aquellas zonas de alta demanda, 9) posibilitaremos legalmente que sean los ayuntamientos los que establezcan la definición de zona tensionadas, 10) desarrollaremos un impuesto especial progresivo a la propiedad a partir de la tercera vivienda",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-2097d74976",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para ello, proponemos: 2) aumentar el actual tipo impositivo del impuesto sobre el patrimonio de los megarricos hasta un 5%, 3) establecer una tributación mínima del 50% en la tarifa general del IRPF para las rentas superiores a 300.000 euros anuales, 4) acercar la tributación del capital a la tributación del trabajo aumentando el tipo marginal máximo hasta el 30%, en línea con la mayoría de economías europeas",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-e8ffc17f0d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "y 5) establecer un impuesto estatal sobre las grandes herencias y donaciones que actúe como impuesto mínimo e impida que algunas comunidades autónomas dejen sin efecto el actual Impuesto sobre Sucesiones y Donaciones.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-e9d07d8f44",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Vamos a seguir avanzando hacia una fiscalidad más progresiva, con impuestos que graven más a quienes más tienen y orienten el modelo productivo. Pondremos en marcha nuevas acciones destinadas a acotar los privilegios desproporcionados de ciertas élites y a gravar fiscalmente a quienes ya tienen en el banco suficiente dinero para vivir 100 vidas.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2024-09-04"
+    },
+    {
+     "id": "c-9e73e07364",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por eso 6) impulsaremos un Acuerdo Global de Impuestos Justos que permita compartir soberanía fiscal, haga efectivo el impuesto del 15% a todas las multinacionales, instaure impuestos globales a las transacciones financieras y a los grandes patrimonios, y un impuesto a las emisiones de la aviación y el transporte marítimo internacionales para compensar a los territorios y colectivos más afectados por la transición ecológica.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    }
+   ]
+  },
+  {
+   "tema": "economia",
+   "nombre": "Economía y empresas",
+   "definicion": "Industria, empresas, comercio, turismo, cuentas públicas y coste de la vida. Los impuestos y el empleo van aparte.",
+   "citas": [
+    {
+     "id": "c-b6ee3b293b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La prioridad mayor probablemente es garantizar el acceso a la vivienda y hacer frente, por tanto, a la emergencia habitacional.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-4bf4f39c4c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para combatir la polarización salarial y garantizar una distribución más equitativa de las ganancias derivadas de la transformación tecnológica 5) incluiremos en la Constitución la obligatoriedad de revalorizar el SMI para que siempre esté por encima del 60% del salario medio, tal y como recomienda la Carta Social Europea; y 6) obligaremos por ley a las grandes empresas a repartir una parte de sus beneficios entre sus empleados, como ya hacen en Francia.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-12f295eb6f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por eso, acabamos de prolongar hasta finales de año la protección a familias, a empresas, a industrias frente a la subida de precios provocada por la guerra en Irán. Lo hicimos durante la pandemia, lo hemos hecho también durante la invasión de Ucrania y lo vamos a volver a hacer en todas y cada una de las crisis.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-7fddd38c28",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En definitiva, frente al proteccionismo de algunos, más acuerdos, más socios y más regiones también aliadas de Europa, con equilibrio, con sentido común, eso también es orden frente al desorden, reglas claras y predecibles.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-c6738a5883",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Para avanzar en esta dirección, necesitamos 4) establecer una red de hubs de innovación en sectores económicos con alto potencial de crecimiento e internacionalización (tecnologías de almacenamiento energético, biotecnología, salud o ciberseguridad), que canalicen las ayudas públicas a la I+D, armonicen los instrumentos de apoyo a la innovación (como la compra pública, la regulación o el acompañamiento empresarial) y articulen la ejecución de la política industrial.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-63029ab720",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso, 13) seguiremos usando los Fondos Europeos para generar industria y redinamizar el tejido productivo en todos los territorios más allá de la capital; 14) duplicaremos la cuantía del Fondo de Compensación Interterritorial; y 15) lo convertiremos en un verdadero Fondo de Desarrollo Autonómico, tan ambicioso como los PERTE, que compense la pérdida de fondos estructurales europeos por las Comunidades Autónomas menos desarrolladas",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-b8755a3bab",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España, evidentemente, lo tiene claro: Hay que depender cada vez menos de las decisiones que otros toman por nosotros y esa es la base de nuestra apuesta por las energías limpias. Eso es soberanía, eso es autonomía estratégica y, por cierto, es una apuesta inteligente porque está ahorrando mucho dinero a los bolsillos de los hogares de nuestras industrias y de nuestras empresas.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-6854d9a1bf",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "tiene que ser mucha más inversión y más cuidado de lo que es de todos, porque cada recorte en lo público es un recorte en nuestra capacidad para poder protegernos unos a otros en los momentos más difíciles",
+     "quien": "Pedro Sánchez, Secretario general y candidato del PSOE a la Presidencia",
+     "fecha": "2026-11-02"
+    },
+    {
+     "id": "c-b9d431cecd",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Y nos hemos negado a sacrificar nuestro Estado del Bienestar en el altar del 5%.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-05"
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "nombre": "Sanidad",
+   "definicion": "Sanidad pública, listas de espera, atención primaria, salud mental y adicciones.",
+   "citas": [
+    {
+     "id": "c-f8b372360c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "También 2) situaremos el acceso a la sanidad pública universal al mismo nivel jurídico que el derecho a la educación, bloqueando cualquier intento de privatización del Sistema Nacional de Salud y de los diversos sistemas autonómicos",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-8f6b2b31a8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Debemos hacerlo 1) revalorizando la atención primaria e incrementando los incentivos para que los profesionales médicos opten por trabajar en ella en lugar de hacerlo en atención hospitalaria; 2) aumentando el número de profesionales de salud mental en los centros de salud e insertando los servicios de psicología clínica adicionales en Atención Primaria",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-6737148542",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reforzar la atención a la salud mental en el sistema público hasta aproximar el número de profesionales en psicología clínica y psiquiatría a 18 por cada 100.000 habitantes.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-146dc1bfe0",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso, además de agilizar las ayudas y eliminar las listas de espera, vamos a 5) incrementar prestaciones como la teleasistencia o la atención domiciliaria para que los mayores permanezcan el mayor tiempo posible en su entorno; 6) garantizar un servicio gratuito de teleasistencia a mayores de 67 años que vivan solos",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "nombre": "Educación",
+   "definicion": "Escuela, formación profesional, universidad y becas.",
+   "citas": [
+    {
+     "id": "c-dd3e6614b8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En la LOMLOE impulsamos una recomendación sobre las horas lectivas, y ahora vamos a impulsar una ley para que no sea una recomendación, sino una obligación",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2025-09-17"
+    },
+    {
+     "id": "c-679b7005d8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "¿Cómo? 14) Universalizando la educación pública gratuita de 0 a 3 años, 15) generalizando la presencia de un segundo o segunda docente en cada aula para avanzar en la personalización del aprendizaje, 16) agilizando y reforzando aún más el sistema de becas (de estudio, movilidad y comedores) con umbrales de renta más elevados y nuevos colectivos de beneficiarios",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-5d44a182cf",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Adicionalmente, 22) crearemos un programa estatal de becas similar al de la FPU, que permitirá a las y los jóvenes con mejores expedientes y rentas familiares medias y bajas dedicar un tiempo a preparar una oposición a los grandes cuerpos funcionariales del Estado.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-91a62cc5a2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para ello, 13) crearemos un mecanismo único de Ayuda Universal para la Ciudadanía que incorporará todas las prestaciones no contributivas del sistema (IMV, CAPI, desempleo, becas, ayudas a familias, etc.) y permitirá a hogares y administraciones tramitarlas todas a la vez, en una ventanilla única, con más agilidad y menos tiempos, ahorrando costes de gestión y logrando que las prestaciones lleguen a todos sus beneficiarios.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-c8b8125b4b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Además, tendremos que 5) potenciar la investigación científico-tecnológica y su transferencia al tejido productivo, aumentando los recursos dedicados a la investigación en las universidades, valorando más la participación en proyectos de I+D dentro de la carrera académica, y fomentando la creación de consorcios entre centros de investigación, sector privado y administraciones públicas, otorgándoles personalidad jurídica propia.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    }
+   ]
+  },
+  {
+   "tema": "familias-y-cuidados",
+   "nombre": "Familias y servicios sociales",
+   "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
+   "citas": [
+    {
+     "id": "c-679b7005d8",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "¿Cómo? 14) Universalizando la educación pública gratuita de 0 a 3 años, 15) generalizando la presencia de un segundo o segunda docente en cada aula para avanzar en la personalización del aprendizaje, 16) agilizando y reforzando aún más el sistema de becas (de estudio, movilidad y comedores) con umbrales de renta más elevados y nuevos colectivos de beneficiarios",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-91a62cc5a2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para ello, 13) crearemos un mecanismo único de Ayuda Universal para la Ciudadanía que incorporará todas las prestaciones no contributivas del sistema (IMV, CAPI, desempleo, becas, ayudas a familias, etc.) y permitirá a hogares y administraciones tramitarlas todas a la vez, en una ventanilla única, con más agilidad y menos tiempos, ahorrando costes de gestión y logrando que las prestaciones lleguen a todos sus beneficiarios.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-146dc1bfe0",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso, además de agilizar las ayudas y eliminar las listas de espera, vamos a 5) incrementar prestaciones como la teleasistencia o la atención domiciliaria para que los mayores permanezcan el mayor tiempo posible en su entorno; 6) garantizar un servicio gratuito de teleasistencia a mayores de 67 años que vivan solos",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-96e4284434",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Además, 10) pondremos en marcha una Estrategia Nacional contra la soledad no deseada, que reconozca la gravedad de este problema social y habilite programas de acompañamiento, ayuda psicológica, y actividades para combatirlo.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-30e9d1e183",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "También 9) mejoraremos la Ley de Discapacidad para asegurar la igualdad, libertad efectiva y autonomía de las personas con discapacidad, conforme al nuevo artículo 49 de la Constitución",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-c90a01bc39",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Y si tenemos que suspender una red social, no le quepa duda de que lo vamos a hacer porque antes que nada están los derechos de los menores",
+     "quien": "Pedro Sánchez, Secretario general y candidato del PSOE a la Presidencia",
+     "fecha": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "nombre": "Inmigración",
+   "definicion": "Entrada y control de fronteras, regularización, integración, asilo, nacionalidad y emigración.",
+   "citas": [
+    {
+     "id": "c-dcae1d1abc",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La exclusión, por tanto, no protege a nadie. No protege, por supuesto, a las personas que la padecen, ni tampoco a la sociedad que no la reconoce. No da prioridad nacional a nadie. La exclusión lo que hace es más vulnerable a quien llega y más difícil la tarea a la sociedad que la acoge. Y es que no hay integración posible sin regularidad.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-06-30"
+    },
+    {
+     "id": "c-099815f3e1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso me gustaría también anunciar que dentro de este plan de integración lo que vamos a hacer es poner en marcha el proceso para la creación de una Agencia, una agencia que será estatal, de carácter, por tanto, nacional, de Movilidad Humana, que reunirá funciones y recursos hoy desgraciadamente dispersos, para ofrecer una gestión mucho más sencilla, mucho más coordinada y también, en consecuencia, más eficaz.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-06-30"
+    },
+    {
+     "id": "c-bc526d5712",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por eso pondremos en marcha una estrategia de movilidad laboral para abrir vías legales, seguras, ordenadas, para responder a las necesidades de nuestro tejido productivo, de nuestras empresas, y facilitar, por tanto, la integración desde el primer día.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-06-30"
+    },
+    {
+     "id": "c-f99dd9274a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y también vamos a pedir que se establezca una presencia permanente de Frontex en el puerto y en el espigón. Vamos a solicitar Europol la creación de una misión específica precisamente para monitorizar la migración irregular en la ciudad autónoma de Ceuta y en definitiva para que esta frontera europea cuente con el apoyo europeo que se merece.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-28cc485906",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Decirlo es contar la verdad, es reconocer la excepcionalidad de lo vivido los días 30 y 31 de julio. Es señalar, evidentemente, que tenemos que mejorar, reforzar nuestras capacidades, porque es evidente que las nuevas tecnologías y las redes sociales están trayendo nuevas amenazas híbridas que los Estados aún debemos aprender a detectar y a neutralizar.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-04cc1b9c2d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Este gobierno por supuesto que va a garantizar llegar al final de esta década al 0,7% de nuestra red bruta disponible, precisamente porque necesitamos ayudar también a estos países a mejorar sus posibilidades de crecimiento económico.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-09-03"
+    }
+   ]
+  },
+  {
+   "tema": "seguridad-y-justicia",
+   "nombre": "Seguridad y justicia",
+   "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
+   "citas": [
+    {
+     "id": "c-f99dd9274a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y también vamos a pedir que se establezca una presencia permanente de Frontex en el puerto y en el espigón. Vamos a solicitar Europol la creación de una misión específica precisamente para monitorizar la migración irregular en la ciudad autónoma de Ceuta y en definitiva para que esta frontera europea cuente con el apoyo europeo que se merece.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-53f63acd3f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "29) Se prohibirá la práctica de perfiles raciales por parte de las Fuerzas y Cuerpos de Seguridad, promoviendo programas de formación y sensibilización",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-28cc485906",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Decirlo es contar la verdad, es reconocer la excepcionalidad de lo vivido los días 30 y 31 de julio. Es señalar, evidentemente, que tenemos que mejorar, reforzar nuestras capacidades, porque es evidente que las nuevas tecnologías y las redes sociales están trayendo nuevas amenazas híbridas que los Estados aún debemos aprender a detectar y a neutralizar.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-2b570b0bae",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Además, 20) aprobaremos una Ley Abolicionista para erradicar la prostitución; 21) terminaremos de impulsar la Ley Integral contra la Trata, a fin de mejorar la detección, investigación, protección de las víctimas durante el proceso y asistencia sanitaria, psicológica y social desde las instituciones",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-c90a01bc39",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Y si tenemos que suspender una red social, no le quepa duda de que lo vamos a hacer porque antes que nada están los derechos de los menores",
+     "quien": "Pedro Sánchez, Secretario general y candidato del PSOE a la Presidencia",
+     "fecha": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "tema": "democracia-e-instituciones",
+   "nombre": "Democracia e instituciones",
+   "definicion": "Funcionamiento de las instituciones, corrupción, transparencia, sistema electoral, administración pública y medios de comunicación.",
+   "citas": [
+    {
+     "id": "c-f8b372360c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "También 2) situaremos el acceso a la sanidad pública universal al mismo nivel jurídico que el derecho a la educación, bloqueando cualquier intento de privatización del Sistema Nacional de Salud y de los diversos sistemas autonómicos",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-5d44a182cf",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Adicionalmente, 22) crearemos un programa estatal de becas similar al de la FPU, que permitirá a las y los jóvenes con mejores expedientes y rentas familiares medias y bajas dedicar un tiempo a preparar una oposición a los grandes cuerpos funcionariales del Estado.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-099815f3e1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso me gustaría también anunciar que dentro de este plan de integración lo que vamos a hacer es poner en marcha el proceso para la creación de una Agencia, una agencia que será estatal, de carácter, por tanto, nacional, de Movilidad Humana, que reunirá funciones y recursos hoy desgraciadamente dispersos, para ofrecer una gestión mucho más sencilla, mucho más coordinada y también, en consecuencia, más eficaz.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-06-30"
+    },
+    {
+     "id": "c-cda823856e",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "6) Modificaremos la LOREG para que los y las menores de edad mayores de 16 años disfruten del derecho al voto, 7) fortaleceremos el uso de las iniciativas legislativas populares, reduciendo el número mínimo de firmas para presentarlas, y 8) habilitaremos un \"escaño ciudadano\" en el Congreso de los Diputados y en el Senado como espacio de participación directa de la ciudadanía.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-fbb799de68",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por último, 16) regularemos la actividad de los grupos de interés o lobbies, dando traslado de la legislación europea en materia de transparencia, registro, código de conducta, huella legislativa y transparencia de las agendas de los miembros de la Cortes Generales",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-136e5acf50",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso, apoyaremos 19) una reforma legislativa que obligue a todos los medios de comunicación a hacer públicas sus fuentes de financiación, especialmente cuando estas provengan del extranjero o de Administraciones públicas",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-b65e6f71f2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "También 17) apostaremos por reformar el Senado y convertirlo en una Cámara de representación territorial que refleje de forma equilibrada la voluntad de las Comunidades Autónomas; 18) continuaremos transfiriendo competencias a aquellos gobiernos autonómicos que lo soliciten; 19) trabajaremos para actualizar los Estatutos de Autonomía pendientes de reformar; y 20) seguiremos apostando por la protección, el estudio y el uso de las lenguas co-oficiales en todos los ámbitos, dentro y fuera de nuestro territorio.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-4c731b01a1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "4) incluiremos en la Constitución el derecho a la seguridad climática y al agua potable, y el derecho de las generaciones futuras a heredar un planeta saludable y sostenible.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-d5f0538cec",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso, 1) incluiremos en la Constitución el derecho al matrimonio entre cónyuges del mismo género, el derecho a la interrupción voluntaria del embarazo, y la paridad de género como principio rector en las instituciones.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-f2d2819788",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Eso no va de pactos voluntarios entre tecno oligarcas y de autorregulación, esto va de obligaciones legales, de escrutinio público, de control social, de supervisión gubernamental y también, por qué no decirlo, de asunción de responsabilidades, incluso penales, en caso de que estén jugando con el algoritmo precisamente para hacer algo que nada tiene que ver con la convivencia democrática",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-89520714be",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "21) estableceremos un sistema de auditoría algorítmica para las plataformas digitales que ofrezca información sobre cómo funcionan los algoritmos de estas plataformas y denuncie malas prácticas;",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    }
+   ]
+  },
+  {
+   "tema": "organizacion-territorial",
+   "nombre": "Organización territorial",
+   "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+   "citas": [
+    {
+     "id": "c-e8ffc17f0d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "y 5) establecer un impuesto estatal sobre las grandes herencias y donaciones que actúe como impuesto mínimo e impida que algunas comunidades autónomas dejen sin efecto el actual Impuesto sobre Sucesiones y Donaciones.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-63029ab720",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso, 13) seguiremos usando los Fondos Europeos para generar industria y redinamizar el tejido productivo en todos los territorios más allá de la capital; 14) duplicaremos la cuantía del Fondo de Compensación Interterritorial; y 15) lo convertiremos en un verdadero Fondo de Desarrollo Autonómico, tan ambicioso como los PERTE, que compense la pérdida de fondos estructurales europeos por las Comunidades Autónomas menos desarrolladas",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-b65e6f71f2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "También 17) apostaremos por reformar el Senado y convertirlo en una Cámara de representación territorial que refleje de forma equilibrada la voluntad de las Comunidades Autónomas; 18) continuaremos transfiriendo competencias a aquellos gobiernos autonómicos que lo soliciten; 19) trabajaremos para actualizar los Estatutos de Autonomía pendientes de reformar; y 20) seguiremos apostando por la protección, el estudio y el uso de las lenguas co-oficiales en todos los ámbitos, dentro y fuera de nuestro territorio.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-c50c487b38",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "No solamente vamos a ofrecer a sus gobiernos una silla permanente en el Comité de las Regiones, sino que vamos a proponerles su integración en la Unión Aduanera buscando un régimen fiscal favorable, como por ejemplo se logró, ministro Ángel Víctor Torres, en Canarias. Y vamos a pedir a Bruselas que le reconozca el estatus de región ultraperiférica, algo que creo conlleva numerosas ventajas y que es importante para los ciudadanos.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-09-03"
+    }
+   ]
+  },
+  {
+   "tema": "medio-ambiente-y-energia",
+   "nombre": "Medio ambiente y energía",
+   "definicion": "Clima, energía, agua, contaminación, costas, montes, protección de la naturaleza y bienestar animal.",
+   "citas": [
+    {
+     "id": "c-5e7aec1d31",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para conseguirlo, 34) crearemos un banco público de agua en las Confederaciones Hidrográficas que permita una mejor gestión de los recursos hídricos, 35) construiremos nuevas desaladoras y centros de reutilización de agua alimentados con energías renovables, 36) digitalizaremos las canalizaciones y sistemas de riego para evitar pérdidas",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-4c731b01a1",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "4) incluiremos en la Constitución el derecho a la seguridad climática y al agua potable, y el derecho de las generaciones futuras a heredar un planeta saludable y sostenible.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-b8755a3bab",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España, evidentemente, lo tiene claro: Hay que depender cada vez menos de las decisiones que otros toman por nosotros y esa es la base de nuestra apuesta por las energías limpias. Eso es soberanía, eso es autonomía estratégica y, por cierto, es una apuesta inteligente porque está ahorrando mucho dinero a los bolsillos de los hogares de nuestras industrias y de nuestras empresas.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-2e186a3c7b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "38) concederemos nuevas ayudas al sector agrícola para facilitar la adopción de prácticas y cultivos sostenibles, 39) pondremos límites y revertiremos la sobreexplotación y contaminación de nuestros ríos y acuíferos",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    }
+   ]
+  },
+  {
+   "tema": "campo-y-medio-rural",
+   "nombre": "Campo y medio rural",
+   "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+   "citas": [
+    {
+     "id": "c-5e7aec1d31",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para conseguirlo, 34) crearemos un banco público de agua en las Confederaciones Hidrográficas que permita una mejor gestión de los recursos hídricos, 35) construiremos nuevas desaladoras y centros de reutilización de agua alimentados con energías renovables, 36) digitalizaremos las canalizaciones y sistemas de riego para evitar pérdidas",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-2e186a3c7b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "38) concederemos nuevas ayudas al sector agrícola para facilitar la adopción de prácticas y cultivos sostenibles, 39) pondremos límites y revertiremos la sobreexplotación y contaminación de nuestros ríos y acuíferos",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-344657c783",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La nueva PAC tiene que ser la del relevo generacional",
+     "quien": "Luis Planas, Ministro de Agricultura, Pesca y Alimentación",
+     "fecha": "2026-11-07"
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "nombre": "Transporte e infraestructuras",
+   "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+   "citas": [
+    {
+     "id": "c-0235a581c3",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vamos a garantizar unas tasas de reposición no inferiores al 115% en los Presupuestos Generales del Estado y vamos a fortalecer la Agencia Estatal de Seguridad Ferroviaria con 50 profesionales adicionales para que pueda ejercer mejor sus tareas de inspección en la red.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-02-11"
+    },
+    {
+     "id": "c-23e5cda304",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Al mismo tiempo, vamos a 29) instaurar un billete único de transporte público que incentivará y permitirá la movilidad nacional a un precio asequible, 30) a seguir mejorando la red ferroviaria, ampliando las conexiones con los grandes puntos de distribución de cada región",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-fea21f3b4b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En paralelo, 33) trabajaremos en el marco del diálogo social para que las grandes empresas de más de 250 trabajadores y trabajadoras costeen el 50% del transporte público a sus empleados en los días laborables.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    }
+   ]
+  },
+  {
+   "tema": "igualdad-y-derechos",
+   "nombre": "Igualdad y derechos",
+   "definicion": "Igualdad entre mujeres y hombres, violencia machista, derechos LGTBI, libertades civiles, memoria democrática y relación con las religiones.",
+   "citas": [
+    {
+     "id": "c-53f63acd3f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "29) Se prohibirá la práctica de perfiles raciales por parte de las Fuerzas y Cuerpos de Seguridad, promoviendo programas de formación y sensibilización",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-d5f0538cec",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso, 1) incluiremos en la Constitución el derecho al matrimonio entre cónyuges del mismo género, el derecho a la interrupción voluntaria del embarazo, y la paridad de género como principio rector en las instituciones.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-7119e064a3",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Sobre el derecho y el cuerpo de las mujeres ningún hombre jamás va a volver a opinar y a controlarlos",
+     "quien": "Pedro Sánchez, Secretario general y candidato del PSOE a la Presidencia",
+     "fecha": "2026-10-24"
+    },
+    {
+     "id": "c-2b570b0bae",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Además, 20) aprobaremos una Ley Abolicionista para erradicar la prostitución; 21) terminaremos de impulsar la Ley Integral contra la Trata, a fin de mejorar la detección, investigación, protección de las víctimas durante el proceso y asistencia sanitaria, psicológica y social desde las instituciones",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-dde5a5a427",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "24) crearemos una red de acogida para jóvenes que hayan sido expulsados de sus familias por su identidad o sexualidad; 25) tipificaremos las terapias de conversión como delito;",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    }
+   ]
+  },
+  {
+   "tema": "politica-exterior-y-defensa",
+   "nombre": "Política exterior y defensa",
+   "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
+   "citas": [
+    {
+     "id": "c-9e73e07364",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por eso 6) impulsaremos un Acuerdo Global de Impuestos Justos que permita compartir soberanía fiscal, haga efectivo el impuesto del 15% a todas las multinacionales, instaure impuestos globales a las transacciones financieras y a los grandes patrimonios, y un impuesto a las emisiones de la aviación y el transporte marítimo internacionales para compensar a los territorios y colectivos más afectados por la transición ecológica.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-7fddd38c28",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En definitiva, frente al proteccionismo de algunos, más acuerdos, más socios y más regiones también aliadas de Europa, con equilibrio, con sentido común, eso también es orden frente al desorden, reglas claras y predecibles.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-f99dd9274a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y también vamos a pedir que se establezca una presencia permanente de Frontex en el puerto y en el espigón. Vamos a solicitar Europol la creación de una misión específica precisamente para monitorizar la migración irregular en la ciudad autónoma de Ceuta y en definitiva para que esta frontera europea cuente con el apoyo europeo que se merece.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-c50c487b38",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "No solamente vamos a ofrecer a sus gobiernos una silla permanente en el Comité de las Regiones, sino que vamos a proponerles su integración en la Unión Aduanera buscando un régimen fiscal favorable, como por ejemplo se logró, ministro Ángel Víctor Torres, en Canarias. Y vamos a pedir a Bruselas que le reconozca el estatus de región ultraperiférica, algo que creo conlleva numerosas ventajas y que es importante para los ciudadanos.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-09-03"
+    },
+    {
+     "id": "c-de8e4f6be2",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En este momento nuestro país lidera misiones en Irak y en el Atlántico Norte. Presta un apoyo esencial en los flancos sur y este de Europa y quiero también anunciar a los medios de comunicación y también a la sociedad española que nos vamos a sumar a la misión de las fuerzas terrestres avanzadas en Finlandia, que se ha puesto en marcha por parte de la Alianza Atlántica para proteger la región ártica.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-07-08"
+    },
+    {
+     "id": "c-b9d431cecd",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Y nos hemos negado a sacrificar nuestro Estado del Bienestar en el altar del 5%.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-05"
+    },
+    {
+     "id": "c-f4932b8757",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Vamos a decirle al que se cree el'sheriff' del mundo que lo que pasa en España no se decide ni en Whashington ni el Tel Aviv no en Buenos Aires ni en Moscú. Que España es un país soberano y que no va a ser el patio trasero de ninguna internacional ultraderechista",
+     "quien": "Pedro Sánchez, Secretario general y candidato del PSOE a la Presidencia",
+     "fecha": "2026-11-08"
+    },
+    {
+     "id": "c-f250f07ce5",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "8) Aprobaremos una ley que prohíba el envío de armas y la cooperación militar con cualquier Estado que viole el derecho internacional y ataque a civiles inocentes y 9) perseguiremos a quienes lo hagan a través de una Corte Penal Internacional y una Corte Internacional de Justicia reforzadas.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-04cc1b9c2d",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Este gobierno por supuesto que va a garantizar llegar al final de esta década al 0,7% de nuestra red bruta disponible, precisamente porque necesitamos ayudar también a estos países a mejorar sus posibilidades de crecimiento económico.",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-09-03"
+    }
+   ]
+  },
+  {
+   "tema": "ciencia-cultura-y-digital",
+   "nombre": "Ciencia, cultura y digital",
+   "definicion": "Investigación, tecnología e inteligencia artificial, cultura y deporte.",
+   "citas": [
+    {
+     "id": "c-c6738a5883",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Para avanzar en esta dirección, necesitamos 4) establecer una red de hubs de innovación en sectores económicos con alto potencial de crecimiento e internacionalización (tecnologías de almacenamiento energético, biotecnología, salud o ciberseguridad), que canalicen las ayudas públicas a la I+D, armonicen los instrumentos de apoyo a la innovación (como la compra pública, la regulación o el acompañamiento empresarial) y articulen la ejecución de la política industrial.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-136e5acf50",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso, apoyaremos 19) una reforma legislativa que obligue a todos los medios de comunicación a hacer públicas sus fuentes de financiación, especialmente cuando estas provengan del extranjero o de Administraciones públicas",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-c90a01bc39",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Y si tenemos que suspender una red social, no le quepa duda de que lo vamos a hacer porque antes que nada están los derechos de los menores",
+     "quien": "Pedro Sánchez, Secretario general y candidato del PSOE a la Presidencia",
+     "fecha": "2026-11-09"
+    },
+    {
+     "id": "c-f2d2819788",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Eso no va de pactos voluntarios entre tecno oligarcas y de autorregulación, esto va de obligaciones legales, de escrutinio público, de control social, de supervisión gubernamental y también, por qué no decirlo, de asunción de responsabilidades, incluso penales, en caso de que estén jugando con el algoritmo precisamente para hacer algo que nada tiene que ver con la convivencia democrática",
+     "quien": "Pedro Sánchez, Secretario general del PSOE y presidente del Gobierno",
+     "fecha": "2026-10-01"
+    },
+    {
+     "id": "c-89520714be",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "21) estableceremos un sistema de auditoría algorítmica para las plataformas digitales que ofrezca información sobre cómo funcionan los algoritmos de estas plataformas y denuncie malas prácticas;",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-c8b8125b4b",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Además, tendremos que 5) potenciar la investigación científico-tecnológica y su transferencia al tejido productivo, aumentando los recursos dedicados a la investigación en las universidades, valorando más la participación en proyectos de I+D dentro de la carrera académica, y fomentando la creación de consorcios entre centros de investigación, sector privado y administraciones públicas, otorgándoles personalidad jurídica propia.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    },
+    {
+     "id": "c-977f6facdd",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "11) La cultura es una herramienta crucial para promover la democracia y fortalecer una sociedad crítica en la que la libertad de expresión sea un valor fundamental. La promoveremos con mas intensidad que nunca tanto con incentivos para su consumo ciudadano como con nuevas medidas que incentiven la producción cultural y artística.",
+     "quien": "el partido, Ponencia marco del 41 Congreso Federal (dirección federal)",
+     "fecha": "2024-11-05"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3108 @@
+{
+ "partido": "frente-obrero",
+ "nombre": "Frente Obrero (FO)",
+ "programa": "programa_general",
+ "temas": [
+  {
+   "tema": "vivienda",
+   "nombre": "Vivienda",
+   "definicion": "Acceso a la vivienda en compra y alquiler, vivienda pública, suelo y urbanismo.",
+   "citas": [
+    {
+     "id": "c-9dea7ef014",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Crear parques de vivienda juveniles.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-0a09b9c76f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ayudas económicas para jóvenes estudiantes y trabajadores en el proceso de emanciparse.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-8e6252405a",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Sin una construcción de vivienda pública numerosa, este problema no se va a solucionar, más teniendo en cuenta los millones de inmigrantes que han venido de forma masiva a nuestro país y que se concentran en dichas zonas.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-77df5aabec",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Reducir la inmigración es necesario, y no solo por la cuestión de la vivienda.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-78edd9c9d4",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El derecho a una vivienda es incompatible con el mercado y la especulación de esta. Solo una verdadera supervisión por parte del Estado sobre este recurso puede garantizar un acceso a una vivienda digna a los trabajadores de España.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-fbabc27dcf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Construir vivienda pública de calidad para aumentar el número de inmuebles existentes y lograr que los trabajadores puedan acceder a una vivienda digna y asequible económicamente.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-0a6ededbd8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Luchar contra la especulación de bancos, fondos buitre y grandes rentistas; la vivienda no es una mercancía con la que hacer negocio.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-163be3eb17",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Aplicar medidas que detengan la gentrificación, el auge de los pisos turísticos y las consecuencias negativas del turismo destructivo.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-73489104e9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Paralizar inmediatamente todos los procesos de desahucio de las familias trabajadoras en situación de vulnerabilidad que no pueden hacer frente al pago del alquiler/ hipoteca hasta encontrar una alternativa habitacional.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-0f02eeae23",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se deben conceder segundas oportunidades para deudas hipotecarias y garantizar la posibilidad de dación en pago en todas las situaciones.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-50f8c117fd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Luchar por terminar con las mafias de la ocupación y de la delincuencia relacionada con el uso indebido de inmuebles, acabando con la lacra de los narcopisos.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-09ace5bde0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Se actuará a su vez contra la ocupación de viviendas de particulares, que no debe ser permitida en ningún caso.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-b57b8a644f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "También se actuará contra los inquiokupas, que han hecho de la estafa su modo de vida.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-d893c61ffd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Enfocar el acceso a la vivienda pública hacia los españoles autóctonos. No permitir que suceda como con las ayudas, que, como se ha visto en el programa, también deben cambiar, pues se suele priorizar al extranjero.",
+     "apartado": "15 Vivienda"
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "nombre": "Empleo y salarios",
+   "definicion": "Trabajo, salarios, jornada, contratos, autónomos, sindicatos y salud laboral.",
+   "citas": [
+    {
+     "id": "c-3b3bc155e0",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Debemos recuperar un movimiento obrero que ponga contra las cuerdas al Gobierno y garantice, no solo los derechos, sino los intereses de los trabajadores, que pueda paralizar el país.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-1fd3d0be3c",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Necesitamos un nuevo movimiento en defensa de los trabajadores, combativo y, por supuesto, patriota.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-1163ff5a01",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Aumento general de los salarios en relación al coste de la vida.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-4cb42ef3ef",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Fortalecer la negociación colectiva a través de la implementación de un sistema obligatorio de representación de los trabajadores en todos las empresas con diez trabajadores o más, sin excepciones.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-cd96f82877",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Endurecer las penas por la contratación de extranjeros no regulados, especialmente en el campo.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-9e37522096",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación de las leyes que permiten la contratación colectiva de trabajadores en sectores precarizados, que buscan abaratar los costes salariales.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-e8343ff4e7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Fomentar la lucha contra la temporalidad.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-e23afc7117",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Restricción de las condiciones que permiten a las empresas acogerse a contratos temporales o fijos-discontinuos.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-b860847f05",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición de las empresas de trabajo temporal (ETTS).",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-a97ce9c006",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Eliminación de la cuota para los autónomos que no llegan al SMI e implementación de una bonificación total por baja.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-721a08ac09",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cuotas más reducidas para los autónomos.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-43895c484e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Garantizar la jubilación a los autónomos.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-6e8ce736b7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Acabar con los falsos autónomos.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-f06f7dad67",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación de las sucesivas reformas laborales que han fortalecido el despido libre y barato para las empresas y que posibilitan la primacía del convenio de empresa sobre los convenios sectoriales aun cuando perjudica al trabajador.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-41a60cb2ee",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación inmediata del Real Decreto 17/1977 sobre relaciones de trabajo, que limita el ejercicio pleno del derecho a huelga sobre todo en los sectores estratégicos.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-ce1d47114a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Reforzar el control sobre el cumplimiento de las condiciones de trabajo, especialmente en trabajos de alta peligrosidad, siendo la prevención de riesgos una prioridad ineludible.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-21feb5c8bd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Reforzar el control sobre el registro de horas extra y garantizar que solo se realicen las previstas por ley para cada trabajador.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-5eb3a1df9d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Garantizar condiciones dignas de trabajo a todos los empleados de la educación pública que han visto deteriorado su nivel de vida y sus condiciones laborales con las sucesivas externalizaciones.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-7e7f116eb8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ofrecer prácticas de formación profesional y universidad remuneradas en base al trabajo desarrollado, sin excepciones.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-e120c1529a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Evitar la llamada “fuga de cerebros” de trabajadores altamente cualificados hacia otros países, que nos deja con carencias importantes en investigación y desarrollo y afecta negativamente a nuestro crecimiento y progreso.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-64a0195d8b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Acabar con las altas tasas de paro juvenil, empezando por combinar el final de los estudios académicos con prácticas laborales que permitan salidas reales y beneficiosas para el conjunto del país.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-95324c2595",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Impulso de planes de apoyo económico para fomentar la natalidad sin que la maternidad suponga un retroceso para las mujeres en sus carreras laborales ni en el acceso y continuidad de sus estudios. La mujer no debe estar discriminada en ningún ámbito.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-4ad3809bfe",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se alargarán las bajas por paternidad y maternidad y se obligará a las empresas a ser flexibles parcialmente en cuanto al teletrabajo, reducción de jornada y modificación de horarios, para poder conciliar trabajo y el cuidado de los hijos.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-12ebb762ff",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Controlar exhaustivamente la normativa laboral y las leyes de prevención de riesgos para minimizar al máximo posible los accidentes frecuentes en el sector. Perseguir sin tregua a los explotadores en el campo y en el resto del sector primario.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-f7b368c14b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Promover la creación de nuevos empleos de calidad en el medio rural que incentivarán la reactivación del sector y la revitalización del campo español.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-f90d083163",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Mayor control sobre la actuación de las mutuas y protección de los trabajadores frente a las reclamaciones contra estas.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-76e07ff5d5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Mejorar las condiciones laborales y salariales de todo el personal vinculado con el sector sanitario, en especial a los trabajadores perjudicados por los procesos de externalización y privatización, cómo las trabajadoras de la limpieza.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-de18e4cf0a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Incrementar las tasas de actividad y empleo mediante la conciliación laboral, la incorporación de los jóvenes a la actividad productiva y la lucha contra la economía sumergida.",
+     "apartado": "16 Pensiones"
+    },
+    {
+     "id": "c-585c14d617",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Además, hay que acabar con la creación de población dependiente, clientelar de ciertos grupos políticos que les compran con ventajas. Las pagas deben ser eliminadas y se debe fomentar el trabajo, personas en edad de trabajar no pueden estar ociosas y haciendo gasto a los españoles.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-22ed5e9133",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Si no tienen trabajo y no quieren encontrarlo deben retornar a sus países, no tiene sentido que permanezcan eternamente viviendo del estado español.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-82ed8bc97d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Supervisión constante de las empresas que contratan a los inmigrantes para acabar con las condiciones laborales leoninas que suelen sufrir.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-57ddd4cd82",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Mejora de las condiciones de trabajo y seguridad de los cuerpos policiales.",
+     "apartado": "18 Estructura territorial y administración"
+    },
+    {
+     "id": "c-b7862fdf3d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Democratización de las estructuras del cuerpo. Incluyendo la posibilidad de sindicarse en la Guardia Civil.",
+     "apartado": "20 Fuerzas y Cuerpos de Seguridad del Estado"
+    },
+    {
+     "id": "c-858ad01447",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Equiparación de sueldos entre los diferentes cuerpos policiales y la Guardia Civil.",
+     "apartado": "20 Fuerzas y Cuerpos de Seguridad del Estado"
+    },
+    {
+     "id": "c-b942cede86",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Dignificación de la vida del soldado. Mejorarán las atribuciones y tendrán libertad de reunión, sindicación y afiliación política.",
+     "apartado": "21 Ejército"
+    },
+    {
+     "id": "c-736188fcf9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se acabará con el cese de contrato a los 45 años sin dar alternativas laborales para su vuelta al mundo civil.",
+     "apartado": "21 Ejército"
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "nombre": "Pensiones",
+   "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
+   "citas": [
+    {
+     "id": "c-43895c484e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Garantizar la jubilación a los autónomos.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-f9ba4e6928",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Los políticos quieren hacernos creer que esto se solucionará aumentando el número de inmigrantes que llegan a España, como una especie de solución mágica. Esto no soluciona nada, sino que traerá aún más problemas mucho más graves, como los que ya se están viviendo en muchas ciudades respecto a esta cuestión.",
+     "apartado": "16 Pensiones"
+    },
+    {
+     "id": "c-616a45fbca",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Para garantizar la sostenibilidad de las pensiones es necesario incorporar medidas drásticas que permitan dirigir los recursos que se generen en España a financiar las mismas.",
+     "apartado": "16 Pensiones"
+    },
+    {
+     "id": "c-69ef057999",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Para transformar nuestra estructura económica es necesaria una reindustrialización que favorezca unos niveles de productividad, empleo y salarios más altos, y centrarnos en elevar las tasas de natalidad para ampliar la población en edad de trabajar.",
+     "apartado": "16 Pensiones"
+    },
+    {
+     "id": "c-9ec2f56b83",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Revertir el incremento de la edad de jubilación y establecer una edad de retiro adecuada al puesto laboral desempeñado.",
+     "apartado": "16 Pensiones"
+    },
+    {
+     "id": "c-0cf90307cc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Incrementar las pensiones no contributivas y mínimas asegurando una correcta suficiencia de recursos de todos los pensionistas.",
+     "apartado": "16 Pensiones"
+    },
+    {
+     "id": "c-944a1d6c2d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Introducir el cálculo de la pensión mediante la media de los mejores años cotizados, para evitar que los trabajadores que han sido despedidos o han obtenido un salario menor en los últimos años de su vida laboral obtengan una pensión menor.",
+     "apartado": "16 Pensiones"
+    },
+    {
+     "id": "c-de18e4cf0a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Incrementar las tasas de actividad y empleo mediante la conciliación laboral, la incorporación de los jóvenes a la actividad productiva y la lucha contra la economía sumergida.",
+     "apartado": "16 Pensiones"
+    }
+   ]
+  },
+  {
+   "tema": "impuestos",
+   "nombre": "Impuestos",
+   "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
+   "citas": [
+    {
+     "id": "c-30beb09f8b",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es necesario renovar el sistema fiscal desde la raíz, sin medias tintas. Desde el Frente Obrero apostamos por una intervención del Estado fuerte, que proteja y priorice a los trabajadores y al pequeño comercio, frente a las empresas multimillonarias que hacen uso del fraude y la evasión de impuestos.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-0d57651f10",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El Estado debe castigar a las empresas que se aprovechan de nuestro país, si una empresa se va, otra ocupará su lugar; y no puede basar su economía en el expolio de los que menos tienen.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-bccc34ca2f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reducir el impuesto sobre la renta a los trabajadores con menos recursos, a la par que incrementarlo para las rentas más altas con la ampliación de los tramos de renta y aumento de los tipos impositivos.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-130c36ac20",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Disminuir la carga fiscal del IVA e incorporar de forma progresiva todas las mercancías de primera necesidad en el tipo superreducido.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-7320c13b5f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Perseguir con multas y, si es necesaria, la expropiación a empresas que hacen uso del fraude fiscal y tributan fuera. Quien produce en nuestro país debe responder por su actividad.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-3b549932b1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Aumentar el impuesto de sociedades y de patrimonio para las grandes empresas que no contribuyen lo suficiente a la riqueza nacional.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-4acf3d8758",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El impuesto de sucesiones y de patrimonio se centralizará y se suprimirán las bonificaciones que benefician sobre todo a los más ricos.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-689c5346f9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Eliminación del impuesto de sucesiones para las rentas bajas.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-5ff6906e96",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Apostar por una reducción de los impuestos sobre productos culturales como libros o material artístico.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-1bce72e9a2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se facilitará que las familias tengan más hijos, convirtiéndose en familias numerosas, concediéndoles ventajas fiscales y ayudas económicas sobre las familias con menos hijos o con ninguno.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-012ea8a56b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Implantar medidas para que todas las Comunidades Autónomas tengan las mismas competencias y el mismo régimen fiscal. Se acabaron las desigualdades entre regiones.",
+     "apartado": "18 Estructura territorial y administración"
+    }
+   ]
+  },
+  {
+   "tema": "economia",
+   "nombre": "Economía y empresas",
+   "definicion": "Industria, empresas, comercio, turismo, cuentas públicas y coste de la vida. Los impuestos y el empleo van aparte.",
+   "citas": [
+    {
+     "id": "c-6dc13e353b",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El capitalismo no se puede reformar, es un sistema basado en la explotación de la gran mayoría de la población al servicio de unos pocos.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-9da69f1ac5",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ningún país puede tener un mínimo de soberanía si no tiene una capacidad industrial avanzada.",
+     "apartado": "04 Recuperemos la industria española"
+    },
+    {
+     "id": "c-b5d77889d3",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ahora la UE quiere que sigamos la estela de la “transición ecológica”, mermando aún más nuestra independencia productiva. Hoy más que nunca es necesaria una reindustrialización que garantice el desarrollo y la soberanía de España, que sea respetuosa con su riqueza natural, pero priorice las necesidades del país.",
+     "apartado": "04 Recuperemos la industria española"
+    },
+    {
+     "id": "c-1b38bc26b0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Reindustrialización del país, priorizando el desarrollo de industrias estratégicas y que exploten los recursos con los que cuenta España.",
+     "apartado": "04 Recuperemos la industria española"
+    },
+    {
+     "id": "c-8abebf48f7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desarrollar una estrategia independiente de desarrollo industrial, que ponga fin a las imposiciones de Bruselas en beneficio de otras potencias.",
+     "apartado": "04 Recuperemos la industria española"
+    },
+    {
+     "id": "c-3810f215b1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Nacionalización de los sectores estratégicos de la economía.",
+     "apartado": "04 Recuperemos la industria española"
+    },
+    {
+     "id": "c-563ba39335",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Fuerte intervención para priorizar los intereses de los españoles.",
+     "apartado": "04 Recuperemos la industria española"
+    },
+    {
+     "id": "c-11afe2c78e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Modernizar y cambiar el sector turístico, basado en el ocio destructivo, para fomentar el turismo de alta calidad y el turismo rural, respetuoso con el medio y la población local.",
+     "apartado": "04 Recuperemos la industria española"
+    },
+    {
+     "id": "c-f2b6e89aee",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El sector energético es un sector estratégico para cualquier país que aspire a garantizar una soberanía plena y una economía sólida. Debe dejar de ser un mercado que solo beneficia a unos pocos.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-30beb09f8b",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es necesario renovar el sistema fiscal desde la raíz, sin medias tintas. Desde el Frente Obrero apostamos por una intervención del Estado fuerte, que proteja y priorice a los trabajadores y al pequeño comercio, frente a las empresas multimillonarias que hacen uso del fraude y la evasión de impuestos.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-0d57651f10",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El Estado debe castigar a las empresas que se aprovechan de nuestro país, si una empresa se va, otra ocupará su lugar; y no puede basar su economía en el expolio de los que menos tienen.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-a8b34f45c7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Revisión exhaustiva y supresión de todas las subvenciones de carácter ideológico, así como de entidades públicas o asociaciones ineficaces que sirven a intereses políticos y no tienen utilidad alguna para los españoles.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-7320c13b5f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Perseguir con multas y, si es necesaria, la expropiación a empresas que hacen uso del fraude fiscal y tributan fuera. Quien produce en nuestro país debe responder por su actividad.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-661b444d2c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Combatir la usura y las prácticas abusivas respecto al cobro dela deuda.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-49ee04e88a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Facilitar el pago de la deuda a todas aquellas personas con probada incapacidad para hacerla frente.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-f086a781d9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tender a acabar con la publicidad sobre apuestas, bebidas alcohólicas y pornografía o prostitución.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-33611723ad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Expropiar las tierras sin usar en propiedad de grandes terratenientes y reparto entre los agricultores y cooperativas para el aprovechamiento colectivo.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-e93e7119e4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Incrementar el gasto e inversión sanitaria con el objetivo de afrontar los cambios, mejoras y modernización del sistema sanitario para:",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-d2c9330587",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desarrollar una industria farmacéutica nacional que permita romper con la dependencia de grandes corporaciones privadas.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-163be3eb17",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Aplicar medidas que detengan la gentrificación, el auge de los pisos turísticos y las consecuencias negativas del turismo destructivo.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-69ef057999",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Para transformar nuestra estructura económica es necesaria una reindustrialización que favorezca unos niveles de productividad, empleo y salarios más altos, y centrarnos en elevar las tasas de natalidad para ampliar la población en edad de trabajar.",
+     "apartado": "16 Pensiones"
+    },
+    {
+     "id": "c-d160e47c7d",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El culpable de este modelo migratorio es el sistema capitalista, que promueve este tipo de migración para explotarles y bajar los salarios en España.",
+     "apartado": "17 Inmigración"
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "nombre": "Sanidad",
+   "definicion": "Sanidad pública, listas de espera, atención primaria, salud mental y adicciones.",
+   "citas": [
+    {
+     "id": "c-25ff2dd20b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Asimismo, es necesario fomentar un deporte de base alejado de los negocios y las apuestas que les dé a las personas la fortaleza necesaria para afrontar sus problemas en lugar de recurrir a las drogas y otras adicciones para evadirse.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-f086a781d9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Tender a acabar con la publicidad sobre apuestas, bebidas alcohólicas y pornografía o prostitución.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-bbf5b787cd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Luchar obstinadamente contra las mafias de narcotráfico. Persecución y condena a altas penas de cárcel a aquellos que juegan con la vida de miles de jóvenes.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-258a426673",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Integrar los centros de desintoxicación a la sanidad pública y dotarlos de más recursos.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-70cb1aedbf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Asimismo, se deben aumentar los mecanismos de detección en las escuelas y universidades.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-8e6c032fb1",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es necesario garantizar un sistema de prestaciones sanitarias adecuadas para cuidar y sanar a los trabajadores cuando caigan enfermos y con independencia de donde vivan, e implantar medidas que nos ayuden a afrontar el incremento del gasto por el envejecimiento de la población.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-4d34a5ae9b",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "A su vez, es importante establecer unos marcos de actuación y dotar de recursos al sistema sanitario para poder afrontar futuras contingencias que no impliquen un debilitamiento de nuestro sistema de salud.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-92edcd361d",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Para ello, es necesario organizar los recursos de nuestra patria para asegurar unos servicios sanitarios totalmente gratuitos y de igual acceso y calidad para todos los españoles, con independencia de su lugar de nacimiento.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-0597851bd7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Centralizar, unificar y homogeneizar el sistema nacional de salud.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-beb167dcb8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Acabar con el proceso de externalización y privatización de la sanidad.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-f90d083163",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Mayor control sobre la actuación de las mutuas y protección de los trabajadores frente a las reclamaciones contra estas.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-e93e7119e4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Incrementar el gasto e inversión sanitaria con el objetivo de afrontar los cambios, mejoras y modernización del sistema sanitario para:",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-4e7c3c05cf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Mejorar y dispensar de los medios precisos a toda la infraestructura sanitaria ya establecida.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-4cc73b7a33",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Dotar al sistema nacional de salud de más centros de atención primaria con los recursos y medios necesarios, en especial en las zonas rurales y barrios obreros.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-8dcb46f4a0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Proporcionar los recursos necesarios para reducir las listas de espera.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-c31417c50f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Implantar la estructura adecuada para asegurar el cuidado y tratamiento bucodental, fisioterapéutico y oftalmológico gratuito.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-4432e53cbd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Aumentar la dotación del personal y recursos del sistema sanitario vinculado al ámbito de la salud mental para garantizar un tratamiento efectivo de los trabajadores.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-58cd603f35",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Llevar a cabo programas y medidas que garanticen la prevención como eje vertebrador de nuestro sistema de salud. Con ello se pretende detectar las enfermedades con antelación y, fundamentalmente, combatir futuras enfermedades derivadas de un mal estilo de vida.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-76e07ff5d5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Mejorar las condiciones laborales y salariales de todo el personal vinculado con el sector sanitario, en especial a los trabajadores perjudicados por los procesos de externalización y privatización, cómo las trabajadoras de la limpieza.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-e603fb7ca4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Abaratar el acceso a medicamentos con receta y tender a su gratuidad en casos de especial necesidad.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-d2c9330587",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desarrollar una industria farmacéutica nacional que permita romper con la dependencia de grandes corporaciones privadas.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-bf9d284289",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Centralizar determinadas competencias como sanidad, educación y los servicios de emergencia.",
+     "apartado": "18 Estructura territorial y administración"
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "nombre": "Educación",
+   "definicion": "Escuela, formación profesional, universidad y becas.",
+   "citas": [
+    {
+     "id": "c-482e08d0ea",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es necesario dar marcha atrás a la digitalización de la enseñanza como ya han hecho países que fueron promotores de la misma, como por ejemplo Suecia.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-d4ac14d456",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El acceso a determinadas tecnologías debe estar limitado para los menores de dieciséis años para garantizar su formación y que no sean adictos a las tecnologías dando de lado su capacitación y estableciendo dependencias.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-bdf708556e",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nosotros consideramos la educación el eje vertebrador de la cultura del trabajo. Es necesario motivar e inculcar a los jóvenes una cultura del esfuerzo y el trabajo colectivo que repercuta en el beneficio de todos, no solo en el propio, y una mentalidad crítica, rompiendo así con la enseñanza competitiva e individualista actual, y atacando frontalmente a la imposición por parte del sistema de lo “políticamente correcto” y del pensamiento único.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-78e6a31b7e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ofrecer una educación gratuita en todos los niveles académicos, incluidos los superiores para las rentas más bajas.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-b638fe80d9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Implementación de un sistema de becas que sirva de apoyo para compaginar la formación con la vida laboral o condiciones de especial necesidad.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-445adf1899",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ofrecer comedor escolar gratuito para facilitar la conciliación familiar y fomentar hábitos alimenticios saludables.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-32511420be",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Frenar el experimento de la educación digital, que ya ha fracasado en varios países, y apostar por una educación integral que fomente el desarrollo personal.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-9f75f7d14d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Eliminar las subvenciones a la escuela privada con el fin de fortalecer el sistema público de educación.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-5eb3a1df9d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Garantizar condiciones dignas de trabajo a todos los empleados de la educación pública que han visto deteriorado su nivel de vida y sus condiciones laborales con las sucesivas externalizaciones.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-7e7f116eb8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ofrecer prácticas de formación profesional y universidad remuneradas en base al trabajo desarrollado, sin excepciones.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-78a79c7423",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Expulsar a las empresas privadas de la universidad y de los centros de formación profesional.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-0a52f6d1bb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se reestructurará el Consejo Social en las universidades.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-eaddb85303",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Garantizar el derecho a todo el mundo de estudiar en castellano o en las lenguas cooficiales del Estado.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-ad1e76e657",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Se promoverá que los alumnos conozcan la riqueza lingüística en nuestro país y se acabará con el uso político de las lenguas por parte de nacionalistas de un bando u otro.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-3efffe69e2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Dejar al islam y las teorías anticientíficas fuera de los centros de estudio públicos.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-a311252f1e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Fomentar, desde las escuelas públicas, el deporte como complemento esencial de los hábitos de estudio para garantizar unos buenos hábitos de vida y de ocio saludables.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-aaa46a01af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desarrollar y mejorar la educación de los niños con discapacidad dentro del sistema educativo.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-60f882e13b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por ello, hay que asegurar a los trabajadores los medios necesarios para que puedan tener su propia producción cultural y un acceso a conocimientos científicos, sin olvidar tampoco la necesidad de reformar el sistema educativo.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-2aa8e2f7e1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Posibilitar la creación en los colegios e institutos de programas educativos y culturales que acerquen a los estudiantes la cultura y un estilo de vida saludable.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-3b749f87e8",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es tarea nuestra fomentar el surgimiento de una generación radical, intransigente y disciplinada.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-031533073a",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No se puede entender la lucha por una España mejor, de progreso y soberana, sin una juventud combativa.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-64a0195d8b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Acabar con las altas tasas de paro juvenil, empezando por combinar el final de los estudios académicos con prácticas laborales que permitan salidas reales y beneficiosas para el conjunto del país.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-70cb1aedbf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Asimismo, se deben aumentar los mecanismos de detección en las escuelas y universidades.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-7bc99be4b8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se construirán guarderías y jardines de infancia públicos y gratuitos para facilitar la compatibilidad del trabajo y la maternidad.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-e1692326a6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El islam debe ser sacado de las escuelas públicas y no se debe subvencionar ninguna actividad islámica.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-bf9d284289",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Centralizar determinadas competencias como sanidad, educación y los servicios de emergencia.",
+     "apartado": "18 Estructura territorial y administración"
+    }
+   ]
+  },
+  {
+   "tema": "familias-y-cuidados",
+   "nombre": "Familias y servicios sociales",
+   "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
+   "citas": [
+    {
+     "id": "c-49ee04e88a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Facilitar el pago de la deuda a todas aquellas personas con probada incapacidad para hacerla frente.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-445adf1899",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ofrecer comedor escolar gratuito para facilitar la conciliación familiar y fomentar hábitos alimenticios saludables.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-aaa46a01af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desarrollar y mejorar la educación de los niños con discapacidad dentro del sistema educativo.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-b6db6645bf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El presupuesto del ministerio será destinado en su totalidad a cuestiones sociales.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-95324c2595",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Impulso de planes de apoyo económico para fomentar la natalidad sin que la maternidad suponga un retroceso para las mujeres en sus carreras laborales ni en el acceso y continuidad de sus estudios. La mujer no debe estar discriminada en ningún ámbito.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-b4df8159de",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición y persecución de los vientres de alquiler a nivel nacional e internacional.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-051924d1a2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se perseguirá la compra de vientres de alquiler que se realicen fuera de España, para ser criados posteriormente en nuestro país",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-ebf573e4dd",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España necesita españoles para resurgir, no fomentar el multiculturalismo y la desaparición paulatina de lo que somos.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-2d83b4b5fc",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Tener descendencia, formar una familia debería ser fomentado desde el Estado y la propia sociedad.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-d4bf3d91af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Creación de planes estatales para el aumento de la natalidad nacional.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-1bce72e9a2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se facilitará que las familias tengan más hijos, convirtiéndose en familias numerosas, concediéndoles ventajas fiscales y ayudas económicas sobre las familias con menos hijos o con ninguno.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-9103a6cbaa",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El objetivo principal de estos planes debe ser aumentar la media de hijos por mujer a más de dos.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-7bc99be4b8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se construirán guarderías y jardines de infancia públicos y gratuitos para facilitar la compatibilidad del trabajo y la maternidad.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-4ad3809bfe",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se alargarán las bajas por paternidad y maternidad y se obligará a las empresas a ser flexibles parcialmente en cuanto al teletrabajo, reducción de jornada y modificación de horarios, para poder conciliar trabajo y el cuidado de los hijos.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-591a8382b4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Creación de estructuras para la protección del núcleo familiar y la infancia. Otorgando psicólogos, terapeutas y trabajadores sociales para la facilitación de la correcta vida en familia.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-a04475a547",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición en todos los organismos públicos de la propaganda contraria a la familia y la natalidad. Bastante daño hacen las modas del sistema y las grandes empresas que las promueven para encima estar llevando a cabo estas actividades con dinero del Estado.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-ce8934aef3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Asegurar plazas públicas en residencias de la tercera edad.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-69ef057999",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Para transformar nuestra estructura económica es necesaria una reindustrialización que favorezca unos niveles de productividad, empleo y salarios más altos, y centrarnos en elevar las tasas de natalidad para ampliar la población en edad de trabajar.",
+     "apartado": "16 Pensiones"
+    },
+    {
+     "id": "c-585c14d617",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Además, hay que acabar con la creación de población dependiente, clientelar de ciertos grupos políticos que les compran con ventajas. Las pagas deben ser eliminadas y se debe fomentar el trabajo, personas en edad de trabajar no pueden estar ociosas y haciendo gasto a los españoles.",
+     "apartado": "17 Inmigración"
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "nombre": "Inmigración",
+   "definicion": "Entrada y control de fronteras, regularización, integración, asilo, nacionalidad y emigración.",
+   "citas": [
+    {
+     "id": "c-cd96f82877",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Endurecer las penas por la contratación de extranjeros no regulados, especialmente en el campo.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-9e37522096",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación de las leyes que permiten la contratación colectiva de trabajadores en sectores precarizados, que buscan abaratar los costes salariales.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-ebf573e4dd",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España necesita españoles para resurgir, no fomentar el multiculturalismo y la desaparición paulatina de lo que somos.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-087e61a3c9",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La inmigración controlada es sostenible para un país, pero en un número asumible por el país receptor; en España ya hemos rebasado el límite del volumen migratorio que el país puede soportar con creces.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-8e6252405a",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Sin una construcción de vivienda pública numerosa, este problema no se va a solucionar, más teniendo en cuenta los millones de inmigrantes que han venido de forma masiva a nuestro país y que se concentran en dichas zonas.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-77df5aabec",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Reducir la inmigración es necesario, y no solo por la cuestión de la vivienda.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-d893c61ffd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Enfocar el acceso a la vivienda pública hacia los españoles autóctonos. No permitir que suceda como con las ayudas, que, como se ha visto en el programa, también deben cambiar, pues se suele priorizar al extranjero.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-f9ba4e6928",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Los políticos quieren hacernos creer que esto se solucionará aumentando el número de inmigrantes que llegan a España, como una especie de solución mágica. Esto no soluciona nada, sino que traerá aún más problemas mucho más graves, como los que ya se están viviendo en muchas ciudades respecto a esta cuestión.",
+     "apartado": "16 Pensiones"
+    },
+    {
+     "id": "c-1d69c2b666",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las fronteras deben ser defendidas, y aquellos que quieran traspasarlas sin permiso deben ser expulsados.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-efa101e4e7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los inmigrantes que llegan al país deben de hacerlo de forma legal, todo aquel que incumpla nuestras leyes debe de ser deportado de inmediato.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-8d21200e17",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Aquellos que quieran imponer costumbres bárbaras, atenten contra los derechos de las mujeres o contra nuestra cultura también deben ser deportados. Si caen en estas conductas significará que Europa no es su sitio y deberán remigrar, retornar a sus países de origen.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-d160e47c7d",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El culpable de este modelo migratorio es el sistema capitalista, que promueve este tipo de migración para explotarles y bajar los salarios en España.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-9e40979b41",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es necesario señalar que el mayor choque cultural se produce con aquellos inmigrantes provenientes de contextos islámicos. Siendo más lógico que los inmigrantes que deban de venir por las necesidades del país hasta que se resuelva la situación sean de contexto europeo o hispanoamericano. Teniendo claro que la capacidad de acoger inmigrantes está rebosada desde hace tiempo y que muchos tendrán que marcharse antes de otros puedan venir.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-9c6cacf57f",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El problema no es solo la inmigración ilegal, también la legal. El problema es la masividad de la inmigración.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-fcfdbede56",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "A las personas inmigrantes que hay en el país hay que asimilarlas, integrarlas o favorecer que retornen a sus países.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-585c14d617",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Además, hay que acabar con la creación de población dependiente, clientelar de ciertos grupos políticos que les compran con ventajas. Las pagas deben ser eliminadas y se debe fomentar el trabajo, personas en edad de trabajar no pueden estar ociosas y haciendo gasto a los españoles.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-22ed5e9133",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Si no tienen trabajo y no quieren encontrarlo deben retornar a sus países, no tiene sentido que permanezcan eternamente viviendo del estado español.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-524749f266",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Además, es necesario promover estudios étnicos que aporten datos exactos y permitan conocer la gravedad del problema.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-7d1732093a",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El que ha querido venir a trabajar y aportar al país respetando nuestra cultura ha sido bienvenido, pero las laxas condiciones para regular y nacionalizar han hecho que se haya creado un grave problema. Ante el cual solo queda llevar a la práctica medidas drásticas para hacer retornar a aquellos que no cumplen las características anteriores.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-b569bfbfbe",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Una persona puede vivir en España con un visado sin ningún problema sin que se le de la nacionalidad, es necesario hacer valer la nacionalidad y nuestra cultura.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-a87578690e",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumplimiento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-aafa392244",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Control absoluto de las fronteras tanto de las terrestres como del mar circundante. Un país que no es capaz de controlar sus fronteras es un Estado fallido.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-e2338c0faf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Lucha obstinada contra las mafias de tráfico de inmigrantes. Persiguiendo y condenando a altas penas de cárcel a aquellos que juegan con las vidas de los inmigrantes.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-d7b991cb0e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Expulsión inmediata de todos aquellos inmigrantes que delinquen de forma reiterada o que están de forma irregular en el país.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-8a24aa4a2f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Imposibilidad de regularse si han intentado entrar de forma ilegal.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-f62bf02344",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Revisión de los permisos de residencia a aquellos que hayan entrado de forma ilegal y lo hayan conseguido en los últimos años.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-cce18f2cd4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Expulsión de los radicales islámicos y de las estructuras religiosas que actúan como lobby para países extranjeros.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-97e85e2341",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Sancionar y poner bajo el peso de la ley a aquellas organizaciones que promuevan acciones para evitar la legalidad al respecto. Con especial atención a las ONG.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-d6c1e4d162",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cese de entrega de nacionalidades hasta que se pueda realizar una revisión exhaustiva de las que se han entregado en los últimos veinte años.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-56779c3f29",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Elevación de las condiciones para la obtención futura de la nacionalidad, primando de verdad el Ius Sanguinis. La entrega de la nacionalidad a personas que no cumplan este requisito deben ser meritorias de ello, siendo algo anecdótico y no cientos de miles al año como pasa en la actualidad.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-097ad0e48d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Retirada de la nacionalidad a todos aquellos nacionalizados que cometan un delito grave.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-0928b5aeb0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Se deben establecer medidas para fomentar el retorno de los españoles que han tenido que emigrar debido a la situación económica y política del país. España necesita a los españoles para volver a levantarse.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-820fc03fc8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Operatividad de los CIE o sustitución de estos por otro tipo de centro más efectivo para la deportación.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-a66ee8ee7d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las órdenes de expulsión deben ser ejecutadas sin excepción alguna.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-923309609c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Dotación moderna para la policía y la Guardia Civil. Las Fuerzas de Seguridad del Estado deben poder actuar con contundencia para implantar las medidas de resolución.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-3ee8739b34",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Búsqueda de acuerdos con países cercanos para instalar puertos y centros para la clasificación y deportación de inmigrantes desde suelo extranjero de aquellos que intenten entrar en España de forma ilegal.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-ce37207c57",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Promoción y apoyo para promover la cultura española y facilitar la asimilación e integración de los inmigrantes que han venido a aportar al país.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-82ed8bc97d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Supervisión constante de las empresas que contratan a los inmigrantes para acabar con las condiciones laborales leoninas que suelen sufrir.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-6a0ddfcb02",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Restringir el uso de la figura del “asilo político” únicamente para aquellos que realmente cumplan dicha situación, elevando las condiciones exigidas, acabando con la abusiva utilización actual como manera de prolongar la estancia en suelo nacional para obtener la regularización de inmigración ilegal.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-95b6cea3dc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se acabará con la actual concesión de libertad de movimiento desde su solicitud, regulando únicamente para el caso de que finalmente sea concedido dicho asilo político, expulsándose a los inmigrantes que sea denegada su solicitud",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-3623e4b5cd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Las medidas propuestas si no son suficientes para la resolución del problema deben endurecerse más, teniendo en cuenta los avances y experiencias de otros países europeos.",
+     "apartado": "17 Inmigración"
+    }
+   ]
+  },
+  {
+   "tema": "seguridad-y-justicia",
+   "nombre": "Seguridad y justicia",
+   "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
+   "citas": [
+    {
+     "id": "c-bbf5b787cd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Luchar obstinadamente contra las mafias de narcotráfico. Persecución y condena a altas penas de cárcel a aquellos que juegan con la vida de miles de jóvenes.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-af9b96f561",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Implantación de planes contra la trata y la explotación sexual. La prostitución es una industria que se basa en el sufrimiento humano y, como tal, debemos luchar contra ella.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-b4df8159de",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición y persecución de los vientres de alquiler a nivel nacional e internacional.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-051924d1a2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se perseguirá la compra de vientres de alquiler que se realicen fuera de España, para ser criados posteriormente en nuestro país",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-544950eedf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Derogación de toda normativa que ataque nuestras libertades bajo la persecución ideológica.",
+     "apartado": "13 Contra la censura"
+    },
+    {
+     "id": "c-50f8c117fd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Luchar por terminar con las mafias de la ocupación y de la delincuencia relacionada con el uso indebido de inmuebles, acabando con la lacra de los narcopisos.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-09ace5bde0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Se actuará a su vez contra la ocupación de viviendas de particulares, que no debe ser permitida en ningún caso.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-b57b8a644f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "También se actuará contra los inquiokupas, que han hecho de la estafa su modo de vida.",
+     "apartado": "15 Vivienda"
+    },
+    {
+     "id": "c-1d69c2b666",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las fronteras deben ser defendidas, y aquellos que quieran traspasarlas sin permiso deben ser expulsados.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-efa101e4e7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los inmigrantes que llegan al país deben de hacerlo de forma legal, todo aquel que incumpla nuestras leyes debe de ser deportado de inmediato.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-aafa392244",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Control absoluto de las fronteras tanto de las terrestres como del mar circundante. Un país que no es capaz de controlar sus fronteras es un Estado fallido.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-e2338c0faf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Lucha obstinada contra las mafias de tráfico de inmigrantes. Persiguiendo y condenando a altas penas de cárcel a aquellos que juegan con las vidas de los inmigrantes.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-d7b991cb0e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Expulsión inmediata de todos aquellos inmigrantes que delinquen de forma reiterada o que están de forma irregular en el país.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-cce18f2cd4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Expulsión de los radicales islámicos y de las estructuras religiosas que actúan como lobby para países extranjeros.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-97e85e2341",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Sancionar y poner bajo el peso de la ley a aquellas organizaciones que promuevan acciones para evitar la legalidad al respecto. Con especial atención a las ONG.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-097ad0e48d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Retirada de la nacionalidad a todos aquellos nacionalizados que cometan un delito grave.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-923309609c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Dotación moderna para la policía y la Guardia Civil. Las Fuerzas de Seguridad del Estado deben poder actuar con contundencia para implantar las medidas de resolución.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-57ddd4cd82",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Mejora de las condiciones de trabajo y seguridad de los cuerpos policiales.",
+     "apartado": "18 Estructura territorial y administración"
+    },
+    {
+     "id": "c-62040d2092",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Todos somos iguales ante la ley, y tener más o menos ingresos no puede determinar la verdad.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-0b523304b5",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Por esta razón, apostamos por una transformación radical del sistema judicial, que nos permita tener una verdadera justicia para la gente, independiente, y que sea implacable con el poder político cuando sea necesario. Jugar con el dinero y las instituciones de los españoles debe tener un alto precio a pagar.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-eb3f84c40a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Garantizar la independencia judicial respecto al poder político, priorizando la membresía por carrera judicial en los órganos superiores.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-8b1e3c7e21",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión de la elección por parte del Gobierno de miembros para cualquier órgano judicial.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-b198e455f2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Justicia de calidad al alcance de todos. La justicia gratuita actualmente es lenta y de mala calidad; nadie merece ser condenado por el mero hecho de no tener ingresos.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-855aa4a2d7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Aumento de las penas por corrupción, que deben extenderse también a los partidos políticos como personas jurídicas.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-85d8208fbd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Garantizar la devolución completa de los fondos públicos objeto del delito.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-d572c5af30",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición del indulto en casos de corrupción política y delitos relacionados con esta.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-4e4f3954ec",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La policía debe dejar de estar al servicio de los poderosos para ejercer funciones de protección y servicio al pueblo.",
+     "apartado": "20 Fuerzas y Cuerpos de Seguridad del Estado"
+    },
+    {
+     "id": "c-b5cc672714",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Entendemos que mientras no caiga el régimen, este proceso es irrealizable, pero, mientras tanto, apostamos por la democratización de las fuerzas de seguridad y su adecuación a la realidad existente del país.",
+     "apartado": "20 Fuerzas y Cuerpos de Seguridad del Estado"
+    },
+    {
+     "id": "c-23673ac4c2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Depuración de mandos policiales corruptos al servicio de los intereses de la partitocracia y a aquellos al servicio de la reacción más rancia.",
+     "apartado": "20 Fuerzas y Cuerpos de Seguridad del Estado"
+    },
+    {
+     "id": "c-b7862fdf3d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Democratización de las estructuras del cuerpo. Incluyendo la posibilidad de sindicarse en la Guardia Civil.",
+     "apartado": "20 Fuerzas y Cuerpos de Seguridad del Estado"
+    },
+    {
+     "id": "c-858ad01447",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Equiparación de sueldos entre los diferentes cuerpos policiales y la Guardia Civil.",
+     "apartado": "20 Fuerzas y Cuerpos de Seguridad del Estado"
+    },
+    {
+     "id": "c-cd2f1a5c94",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión de las policías autonómicas. Deben ser integradas en la Policía Nacional, ya no tiene ningún sentido práctico que haya un desdoblamiento",
+     "apartado": "20 Fuerzas y Cuerpos de Seguridad del Estado"
+    }
+   ]
+  },
+  {
+   "tema": "democracia-e-instituciones",
+   "nombre": "Democracia e instituciones",
+   "definicion": "Funcionamiento de las instituciones, corrupción, transparencia, sistema electoral, administración pública y medios de comunicación.",
+   "citas": [
+    {
+     "id": "c-10556aa619",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La dicotomía izquierda y derecha ya no sirve para comprender la realidad existente, mucho menos para determinar las alianzas y la orientación práctica.",
+     "apartado": "01 La España que debemos ser"
+    },
+    {
+     "id": "c-535587b954",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El Frente Obrero es un movimiento patriota y revolucionario, que lucha por y para los trabajadores, por y para España. No somos reformistas, nuestro objetivo es la transformación de la sociedad, no parchear lo que tenemos.",
+     "apartado": "01 La España que debemos ser"
+    },
+    {
+     "id": "c-89cfdf2997",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Nuestro objetivo sigue siendo acabar con el régimen actual y dar solución a los grandes problemas que afectan a nuestro país. Por ello apostamos por la realización de un proceso constituyente.",
+     "apartado": "01 La España que debemos ser"
+    },
+    {
+     "id": "c-767c4bdae6",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La democracia representativa española es una estafa para favorecer a la partitocracia que defiende los intereses del gran capital.",
+     "apartado": "01 La España que debemos ser"
+    },
+    {
+     "id": "c-6dc13e353b",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El capitalismo no se puede reformar, es un sistema basado en la explotación de la gran mayoría de la población al servicio de unos pocos.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-7e3aefcc0b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Establecer medidas para poner fin a los abusos de los oligopolios de la energía y a la práctica de las puertas giratorias.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-a8b34f45c7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Revisión exhaustiva y supresión de todas las subvenciones de carácter ideológico, así como de entidades públicas o asociaciones ineficaces que sirven a intereses políticos y no tienen utilidad alguna para los españoles.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-b7b72d4dfc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión del Ministerio de Igualdad.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-a04475a547",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición en todos los organismos públicos de la propaganda contraria a la familia y la natalidad. Bastante daño hacen las modas del sistema y las grandes empresas que las promueven para encima estar llevando a cabo estas actividades con dinero del Estado.",
+     "apartado": "11 Natalidad y familia"
+    },
+    {
+     "id": "c-e9e349ec53",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desarrollo de una política de control del Estado sobre las grandes plataformas digitales, que garanticen que no se privilegian unos discursos de opinión sobre otros, o un sesgo informativo determinado.",
+     "apartado": "13 Contra la censura"
+    },
+    {
+     "id": "c-4dccd271d9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Garantizar la objetividad y la neutralidad en medios de comunicación públicos, que deben tener una independencia real respecto al gobierno de turno.",
+     "apartado": "13 Contra la censura"
+    },
+    {
+     "id": "c-5fa542ba27",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Blindar la protección del derecho a informar de cualquier medio o perfil, sin censura de por medio.",
+     "apartado": "13 Contra la censura"
+    },
+    {
+     "id": "c-a87578690e",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumplimiento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-b88c219a7a",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nosotros somos contrarios a la monarquía, somos partidarios de una República encaminada al socialismo, pero hasta que llegue el momento de decidir la nueva forma de Estado pensamos que es necesario igualar las competencias y regímenes fiscales de todas las autonomías.",
+     "apartado": "18 Estructura territorial y administración"
+    },
+    {
+     "id": "c-709b47707a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Eliminación de puestos y cargos inoperantes o duplicados.",
+     "apartado": "18 Estructura territorial y administración"
+    },
+    {
+     "id": "c-02f36ec796",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Promoción de la fusión de ayuntamientos para reducir el volumen de la administración.",
+     "apartado": "18 Estructura territorial y administración"
+    },
+    {
+     "id": "c-0b523304b5",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Por esta razón, apostamos por una transformación radical del sistema judicial, que nos permita tener una verdadera justicia para la gente, independiente, y que sea implacable con el poder político cuando sea necesario. Jugar con el dinero y las instituciones de los españoles debe tener un alto precio a pagar.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-eb3f84c40a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Garantizar la independencia judicial respecto al poder político, priorizando la membresía por carrera judicial en los órganos superiores.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-8b1e3c7e21",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión de la elección por parte del Gobierno de miembros para cualquier órgano judicial.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-855aa4a2d7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Aumento de las penas por corrupción, que deben extenderse también a los partidos políticos como personas jurídicas.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-85d8208fbd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Garantizar la devolución completa de los fondos públicos objeto del delito.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-d572c5af30",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición del indulto en casos de corrupción política y delitos relacionados con esta.",
+     "apartado": "19 Justicia"
+    },
+    {
+     "id": "c-6669e45814",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Debemos tener propuestas claras para la resolución de todos estos conflictos, independientemente de que cuando se dé el proceso constituyente, aboguemos por una refundación del ejército actual, en un Ejército al servicio del pueblo.",
+     "apartado": "21 Ejército"
+    }
+   ]
+  },
+  {
+   "tema": "organizacion-territorial",
+   "nombre": "Organización territorial",
+   "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+   "citas": [
+    {
+     "id": "c-4acf3d8758",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El impuesto de sucesiones y de patrimonio se centralizará y se suprimirán las bonificaciones que benefician sobre todo a los más ricos.",
+     "apartado": "06 Fiscalidad"
+    },
+    {
+     "id": "c-eaddb85303",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Garantizar el derecho a todo el mundo de estudiar en castellano o en las lenguas cooficiales del Estado.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-ad1e76e657",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Se promoverá que los alumnos conozcan la riqueza lingüística en nuestro país y se acabará con el uso político de las lenguas por parte de nacionalistas de un bando u otro.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-d5218ce949",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Determinar la caza y el control poblacional de la fauna como competencia del Estado.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-0597851bd7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Centralizar, unificar y homogeneizar el sistema nacional de salud.",
+     "apartado": "14 Sanidad"
+    },
+    {
+     "id": "c-d7bc4ef60f",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La propuesta del Frente Obrero es iniciar un proceso inmediato en el que se consiga que las comunidades autónomas sean simétricas, es decir, que todas tengan los mismos derechos y obligaciones. A su vez, creemos que hay que reforzar el gobierno central, haciendo que recupere algunas competencias que jamás deberían de haber sido suyas, respetando las diferentes culturas de todas las regiones de España.",
+     "apartado": "18 Estructura territorial y administración"
+    },
+    {
+     "id": "c-bc212d0470",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Defendemos la unidad del país, posicionándonos contra todos los procesos de independencia existentes, los cuales son contrarios a los intereses de los trabajadores.",
+     "apartado": "18 Estructura territorial y administración"
+    },
+    {
+     "id": "c-b88c219a7a",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nosotros somos contrarios a la monarquía, somos partidarios de una República encaminada al socialismo, pero hasta que llegue el momento de decidir la nueva forma de Estado pensamos que es necesario igualar las competencias y regímenes fiscales de todas las autonomías.",
+     "apartado": "18 Estructura territorial y administración"
+    },
+    {
+     "id": "c-012ea8a56b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Implantar medidas para que todas las Comunidades Autónomas tengan las mismas competencias y el mismo régimen fiscal. Se acabaron las desigualdades entre regiones.",
+     "apartado": "18 Estructura territorial y administración"
+    },
+    {
+     "id": "c-bf9d284289",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Centralizar determinadas competencias como sanidad, educación y los servicios de emergencia.",
+     "apartado": "18 Estructura territorial y administración"
+    },
+    {
+     "id": "c-02f36ec796",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Promoción de la fusión de ayuntamientos para reducir el volumen de la administración.",
+     "apartado": "18 Estructura territorial y administración"
+    },
+    {
+     "id": "c-cd2f1a5c94",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión de las policías autonómicas. Deben ser integradas en la Policía Nacional, ya no tiene ningún sentido práctico que haya un desdoblamiento",
+     "apartado": "20 Fuerzas y Cuerpos de Seguridad del Estado"
+    }
+   ]
+  },
+  {
+   "tema": "medio-ambiente-y-energia",
+   "nombre": "Medio ambiente y energía",
+   "definicion": "Clima, energía, agua, contaminación, costas, montes, protección de la naturaleza y bienestar animal.",
+   "citas": [
+    {
+     "id": "c-b5d77889d3",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ahora la UE quiere que sigamos la estela de la “transición ecológica”, mermando aún más nuestra independencia productiva. Hoy más que nunca es necesaria una reindustrialización que garantice el desarrollo y la soberanía de España, que sea respetuosa con su riqueza natural, pero priorice las necesidades del país.",
+     "apartado": "04 Recuperemos la industria española"
+    },
+    {
+     "id": "c-55c6158729",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España debe caminar hacia la independencia energética. Necesitamos un modelo energético planificado, que deje de depender del capital extranjero y que esté basado en fuentes que garanticen un abastecimiento estable.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-de0182dab0",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La energía nuclear, además de ser una fuente controlable y fiable, puede garantizar, gracias a su estabilidad, la planificación del abastecimiento de la demanda. Asimismo, España posee unas condiciones muy favorables para el desarrollo de las energías renovables, que deben compaginarse con la energía nuclear.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-f2b6e89aee",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El sector energético es un sector estratégico para cualquier país que aspire a garantizar una soberanía plena y una economía sólida. Debe dejar de ser un mercado que solo beneficia a unos pocos.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-419af4f526",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Poner fin a la llamada “transición ecológica”, la cual permite el desmantelamiento de la capacidad productiva del país y el sometimiento a las políticas restrictivas de la Unión Europea.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-bfe1373b62",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La regulación inmediata de la factura de la luz y de los combustibles. Las familias españolas no pueden seguir pagando los precios abusivos impuestos por empresas que especulan con la energía, así como con el precio de los combustibles, inflados por los costosos impuestos que los regulan.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-7e3aefcc0b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Establecer medidas para poner fin a los abusos de los oligopolios de la energía y a la práctica de las puertas giratorias.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-4fec754a00",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Frenar el cierre paulatino de las centrales energéticas que se encuentran en plenas capacidades productivas.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-088d6a4790",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Apuesta por la energía nuclear, como fuente de energía fiable, estable y controlable.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-0db2a114a4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Aumentar la inversión para la puesta en marcha y modernización de las plantas nucleares del país.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-de3c28a730",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ampliación del parque nuclear e igualmente se explotarán los recursos nacionales de uranio.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-40a381f06b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Apoyar la producción basada en fuentes de energías renovables como complemento a la nuclear.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-ab7c3db5fc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Aumentar la inversión en la investigación y desarrollo de las nuevas y también existentes tecnologías para la producción con fuentes renovables.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-680149c3d3",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La caza, una actividad esencial para la sostenibilidad y regulación de los ecosistemas, en el que la ausencia de planificación y control real pone en peligro la seguridad y biodiversidad de la fauna de nuestros bosques y montañas, es necesario defender la caza como un actividad regulada y esencial, frente al “lobby ecologista” que la criminaliza.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-2f6f8e6852",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición de la construcción de parques solares en tierras aptas para el cultivo.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-4d03e0167c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Fomentar la práctica de la pesca sostenible asegurando la reproducción y conservación de las especies y la creación de piscifactorías para asegurar el control y suministro de especies marinas.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-c6c71f1c8a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Invertir en estudios y planes hidrográficos para repartir de forma eficiente el agua y terminar con la sequía de algunos territorios del país.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-3a3d7da1ca",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Poner fin al derribo de presas.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-5d3ee878eb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Priorizar la limpieza y mantenimiento de los ríos, lagos y embalses para garantizar fuentes de agua potable y de riego saludables y duraderos.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-3d839acaa9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Elaborar planes de recuperación de la biodiversidad y del patrimonio natural. Proteger incansablemente especies en peligro de extinción y luchar por prevenir y reducir el impacto de las especies invasoras.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-d5218ce949",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Determinar la caza y el control poblacional de la fauna como competencia del Estado.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-322e45307a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Se reforzarán los cuerpos rurales especializados en la sostenibilidad de los ecosistemas, que se apoyarán en los cazadores locales para el control de poblaciones y la protección de las explotaciones agrícolas y ganaderas.",
+     "apartado": "12 En defensa del campo español"
+    }
+   ]
+  },
+  {
+   "tema": "campo-y-medio-rural",
+   "nombre": "Campo y medio rural",
+   "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+   "citas": [
+    {
+     "id": "c-cd96f82877",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Endurecer las penas por la contratación de extranjeros no regulados, especialmente en el campo.",
+     "apartado": "02 Los trabajadores primero"
+    },
+    {
+     "id": "c-20e5686eb7",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "L a situación actual del medio rural en España es insostenible, totalmente sofocado por la Agenda 2030 y las decisiones de la UE y su Política Agrícola Común (PAC), quienes determinan qué, cuándo y cuánto producir en el campo español.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-080429edf2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Romper con las políticas agrarias de la UE (PAC) y los Tratados Internacionales que merman nuestra capacidad productiva, derogación de las leyes que contribuyan a la desaparición del campo español.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-33611723ad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Expropiar las tierras sin usar en propiedad de grandes terratenientes y reparto entre los agricultores y cooperativas para el aprovechamiento colectivo.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-2f6f8e6852",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición de la construcción de parques solares en tierras aptas para el cultivo.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-df4c98136a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Fomentar la creación de cooperativas agrarias, facilitando la concentración parcelaria, que permitan a los pequeños productores dar salida a sus productos, compartiendo de forma eficiente los recursos.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-12ebb762ff",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Controlar exhaustivamente la normativa laboral y las leyes de prevención de riesgos para minimizar al máximo posible los accidentes frecuentes en el sector. Perseguir sin tregua a los explotadores en el campo y en el resto del sector primario.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-5bb8b7a5f6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Reivindicar nuestro derecho de explotación de las aguas españolas sin ceder ante otros países.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-4d03e0167c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Fomentar la práctica de la pesca sostenible asegurando la reproducción y conservación de las especies y la creación de piscifactorías para asegurar el control y suministro de especies marinas.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-c6c71f1c8a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Invertir en estudios y planes hidrográficos para repartir de forma eficiente el agua y terminar con la sequía de algunos territorios del país.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-322e45307a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Se reforzarán los cuerpos rurales especializados en la sostenibilidad de los ecosistemas, que se apoyarán en los cazadores locales para el control de poblaciones y la protección de las explotaciones agrícolas y ganaderas.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-f7b368c14b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Promover la creación de nuevos empleos de calidad en el medio rural que incentivarán la reactivación del sector y la revitalización del campo español.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-4cc73b7a33",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Dotar al sistema nacional de salud de más centros de atención primaria con los recursos y medios necesarios, en especial en las zonas rurales y barrios obreros.",
+     "apartado": "14 Sanidad"
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "nombre": "Transporte e infraestructuras",
+   "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+   "citas": []
+  },
+  {
+   "tema": "igualdad-y-derechos",
+   "nombre": "Igualdad y derechos",
+   "definicion": "Igualdad entre mujeres y hombres, violencia machista, derechos LGTBI, libertades civiles, memoria democrática y relación con las religiones.",
+   "citas": [
+    {
+     "id": "c-3efffe69e2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Dejar al islam y las teorías anticientíficas fuera de los centros de estudio públicos.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-816a041749",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es necesario acabar con dicha quema de brujas contra los cristianos, los españoles, guste o no, somos culturalmente cristianos.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-3bbef986fa",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No se puede luchar por la igualdad, por la igualdad real, discriminando. La discriminación engendra más discriminación, nunca justicia ni igualdad. Estamos en contra de todo tipo de cupos.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-a68e0e496c",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La realidad es que la violencia de género no existe. No existe una violencia estructural contra las mujeres, sino que esta es multifactorial y se da en ambas direcciones.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-a29eaca097",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Somos firmes defensores de la igualdad real y la lucha por conseguirla. Precisamente por ello, somos contrarios al feminismo en todas sus formas y variantes.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-36bcdc75a2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación parcial o total de todas las leyes basadas en la discriminación positiva. Supresión de los cupos.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-70b6221971",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Derogación de la Ley Trans. Es necesario proteger a los niños y adolescentes del adoctrinamiento queer, que solo crea y agrava problemas.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-b7b72d4dfc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión del Ministerio de Igualdad.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-b6db6645bf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El presupuesto del ministerio será destinado en su totalidad a cuestiones sociales.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-95324c2595",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Impulso de planes de apoyo económico para fomentar la natalidad sin que la maternidad suponga un retroceso para las mujeres en sus carreras laborales ni en el acceso y continuidad de sus estudios. La mujer no debe estar discriminada en ningún ámbito.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-af9b96f561",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Implantación de planes contra la trata y la explotación sexual. La prostitución es una industria que se basa en el sufrimiento humano y, como tal, debemos luchar contra ella.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-b4df8159de",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición y persecución de los vientres de alquiler a nivel nacional e internacional.",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-051924d1a2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se perseguirá la compra de vientres de alquiler que se realicen fuera de España, para ser criados posteriormente en nuestro país",
+     "apartado": "10 Mujer e igualdad real"
+    },
+    {
+     "id": "c-f6ee5a77ea",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Nosotros creemos en una sociedad donde no haya miedo a la opinión y, mucho menos, al debate. La censura y la persecución política solo sirven para fomentar una visión acrítica de las cosas y para proteger los intereses de quienes ostentan el poder.",
+     "apartado": "13 Contra la censura"
+    },
+    {
+     "id": "c-aca5c5b96d",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "No puede ser que grandes corporaciones privadas, con la colaboración del Estado, nos digan de qué se puede opinar o no.",
+     "apartado": "13 Contra la censura"
+    },
+    {
+     "id": "c-d4cae38d19",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Debemos condenar todos los casos de censura y recortes de libertades básicas, y defender el derecho de la población a poder expresarse y estar informada sin manipulación de por medio.",
+     "apartado": "13 Contra la censura"
+    },
+    {
+     "id": "c-544950eedf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Derogación de toda normativa que ataque nuestras libertades bajo la persecución ideológica.",
+     "apartado": "13 Contra la censura"
+    },
+    {
+     "id": "c-e9e349ec53",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desarrollo de una política de control del Estado sobre las grandes plataformas digitales, que garanticen que no se privilegian unos discursos de opinión sobre otros, o un sesgo informativo determinado.",
+     "apartado": "13 Contra la censura"
+    },
+    {
+     "id": "c-5fa542ba27",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Blindar la protección del derecho a informar de cualquier medio o perfil, sin censura de por medio.",
+     "apartado": "13 Contra la censura"
+    },
+    {
+     "id": "c-8d21200e17",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Aquellos que quieran imponer costumbres bárbaras, atenten contra los derechos de las mujeres o contra nuestra cultura también deben ser deportados. Si caen en estas conductas significará que Europa no es su sitio y deberán remigrar, retornar a sus países de origen.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-cce18f2cd4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Expulsión de los radicales islámicos y de las estructuras religiosas que actúan como lobby para países extranjeros.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-e1692326a6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El islam debe ser sacado de las escuelas públicas y no se debe subvencionar ninguna actividad islámica.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-12485b7545",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Prohibición del hijab en lugares y puestos de trabajo públicos.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-6bd25fadff",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Además, se ofrecerán ayudas a las mujeres que quieran dejar el uso de la vestimenta islámica y se vean amenazadas en el proceso.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-b942cede86",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Dignificación de la vida del soldado. Mejorarán las atribuciones y tendrán libertad de reunión, sindicación y afiliación política.",
+     "apartado": "21 Ejército"
+    }
+   ]
+  },
+  {
+   "tema": "politica-exterior-y-defensa",
+   "nombre": "Política exterior y defensa",
+   "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
+   "citas": [
+    {
+     "id": "c-28f024c26d",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es necesario que España abandone la Unión Europea, se reindustrialice, se tecnifique y modernice la producción en el campo. Mientras permanezcamos en la UE, nuestra soberanía estará secuestrada y las medidas que han de tomarse para hacer avanzar el país no podrán ser realizadas.",
+     "apartado": "03 Soberanía nacional"
+    },
+    {
+     "id": "c-10cca9bb12",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La OTAN no aporta nada a España, pero sí supone un gasto. Nos arrastra a conflictos que nada tienen que ver con nuestros intereses como país y no nos apoya en el conflicto que mantenemos con Marruecos, por mucho que a nivel oficial puedan parecer nuestros aliados.",
+     "apartado": "03 Soberanía nacional"
+    },
+    {
+     "id": "c-76f8211c13",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Salida de la Unión Europea para recuperar nuestra soberanía nacional.",
+     "apartado": "03 Soberanía nacional"
+    },
+    {
+     "id": "c-2d0ec88b5a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Salida inmediata de la OTAN y reforzamiento de nuestro ejército.",
+     "apartado": "03 Soberanía nacional"
+    },
+    {
+     "id": "c-b9b985c155",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Expulsión de toda base militar extranjera, empezando con la presencia del ejército inglés en Gibraltar, cuyo control debe ser recuperado. No podemos aspirar a ser un país soberano con ejércitos extranjeros en nuestro territorio.",
+     "apartado": "03 Soberanía nacional"
+    },
+    {
+     "id": "c-47e2d6da49",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "España asumirá su deuda histórica y defenderá sin reservas el derecho del pueblo saharaui a la autodeterminación.",
+     "apartado": "03 Soberanía nacional"
+    },
+    {
+     "id": "c-e3be4d260c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Delimitación de las aguas archipelágicas.",
+     "apartado": "03 Soberanía nacional"
+    },
+    {
+     "id": "c-b5d77889d3",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ahora la UE quiere que sigamos la estela de la “transición ecológica”, mermando aún más nuestra independencia productiva. Hoy más que nunca es necesaria una reindustrialización que garantice el desarrollo y la soberanía de España, que sea respetuosa con su riqueza natural, pero priorice las necesidades del país.",
+     "apartado": "04 Recuperemos la industria española"
+    },
+    {
+     "id": "c-8abebf48f7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desarrollar una estrategia independiente de desarrollo industrial, que ponga fin a las imposiciones de Bruselas en beneficio de otras potencias.",
+     "apartado": "04 Recuperemos la industria española"
+    },
+    {
+     "id": "c-20e5686eb7",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "L a situación actual del medio rural en España es insostenible, totalmente sofocado por la Agenda 2030 y las decisiones de la UE y su Política Agrícola Común (PAC), quienes determinan qué, cuándo y cuánto producir en el campo español.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-080429edf2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Romper con las políticas agrarias de la UE (PAC) y los Tratados Internacionales que merman nuestra capacidad productiva, derogación de las leyes que contribuyan a la desaparición del campo español.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-5bb8b7a5f6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Reivindicar nuestro derecho de explotación de las aguas españolas sin ceder ante otros países.",
+     "apartado": "12 En defensa del campo español"
+    },
+    {
+     "id": "c-3ee8739b34",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Búsqueda de acuerdos con países cercanos para instalar puertos y centros para la clasificación y deportación de inmigrantes desde suelo extranjero de aquellos que intenten entrar en España de forma ilegal.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-865f54ae00",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es necesario concienciar a los militares de que en este país se necesitan muchos cambios, comenzando por la democratización del propio ejército, la depuración de los mandos reaccionarios y la mejora de sus propias condiciones de trabajo.",
+     "apartado": "21 Ejército"
+    },
+    {
+     "id": "c-6669e45814",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Debemos tener propuestas claras para la resolución de todos estos conflictos, independientemente de que cuando se dé el proceso constituyente, aboguemos por una refundación del ejército actual, en un Ejército al servicio del pueblo.",
+     "apartado": "21 Ejército"
+    },
+    {
+     "id": "c-7452b1ad7d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Modernización y democratización de las estructuras del ejército. Incluyendo la depuración de los mandos al servicio de la reacción.",
+     "apartado": "21 Ejército"
+    },
+    {
+     "id": "c-b942cede86",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Dignificación de la vida del soldado. Mejorarán las atribuciones y tendrán libertad de reunión, sindicación y afiliación política.",
+     "apartado": "21 Ejército"
+    },
+    {
+     "id": "c-736188fcf9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se acabará con el cese de contrato a los 45 años sin dar alternativas laborales para su vuelta al mundo civil.",
+     "apartado": "21 Ejército"
+    },
+    {
+     "id": "c-4d0cb4fc1c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Todas estas medidas contribuirán en el futuro a refundar al ejército en uno diferente al actual, en un Ejército al servicio del pueblo, dejando lo reaccionario y represivo en el pasado.",
+     "apartado": "21 Ejército"
+    },
+    {
+     "id": "c-0b08909ec0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los soldados españoles dejarán de poner en riesgo sus vidas en misiones en el extranjero que solo buscan defender intereses extranjeros ajenos a nuestros intereses.",
+     "apartado": "21 Ejército"
+    }
+   ]
+  },
+  {
+   "tema": "ciencia-cultura-y-digital",
+   "nombre": "Ciencia, cultura y digital",
+   "definicion": "Investigación, tecnología e inteligencia artificial, cultura y deporte.",
+   "citas": [
+    {
+     "id": "c-ab7c3db5fc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Aumentar la inversión en la investigación y desarrollo de las nuevas y también existentes tecnologías para la producción con fuentes renovables.",
+     "apartado": "05 Soberanía energética"
+    },
+    {
+     "id": "c-482e08d0ea",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es necesario dar marcha atrás a la digitalización de la enseñanza como ya han hecho países que fueron promotores de la misma, como por ejemplo Suecia.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-d4ac14d456",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El acceso a determinadas tecnologías debe estar limitado para los menores de dieciséis años para garantizar su formación y que no sean adictos a las tecnologías dando de lado su capacitación y estableciendo dependencias.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-bf81cc09a9",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La tecnología debe estar al servicio del hombre, ser una herramienta útil, no ser sustitutivo del mismo ni algo que idiotiza, genera adictos y dependencias de todo tipo.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-9743b029de",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "El desarrollo y uso de la IA debe de estar regulado y controlado para un uso responsable.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-32511420be",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Frenar el experimento de la educación digital, que ya ha fracasado en varios países, y apostar por una educación integral que fomente el desarrollo personal.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-e120c1529a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Evitar la llamada “fuga de cerebros” de trabajadores altamente cualificados hacia otros países, que nos deja con carencias importantes en investigación y desarrollo y afecta negativamente a nuestro crecimiento y progreso.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-a311252f1e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Fomentar, desde las escuelas públicas, el deporte como complemento esencial de los hábitos de estudio para garantizar unos buenos hábitos de vida y de ocio saludables.",
+     "apartado": "07 Educación"
+    },
+    {
+     "id": "c-fb0d1777f7",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La cultura debe ser una herramienta para el desarrollo del país, que nos permita avanzar como sociedad. Los revolucionarios no podemos caer en el nihilismo y el individualismo dominante; debemos recoger todos los aspectos positivos de nuestra cultura, de nuestra historia y de nuestras tradiciones y defenderlas de aquellos que quieren privarnos de ellas, pues son patrimonio de todo el pueblo.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-e161f44e4e",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Apostamos por una cultura que contribuya a la realización de las personas, que cumpla con un papel transformador de la sociedad. La cultura no puede estar reservada a estos sectores de intelectuales, sino que ha de estar en manos de la población.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-60f882e13b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por ello, hay que asegurar a los trabajadores los medios necesarios para que puedan tener su propia producción cultural y un acceso a conocimientos científicos, sin olvidar tampoco la necesidad de reformar el sistema educativo.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-25ff2dd20b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Asimismo, es necesario fomentar un deporte de base alejado de los negocios y las apuestas que les dé a las personas la fortaleza necesaria para afrontar sus problemas en lugar de recurrir a las drogas y otras adicciones para evadirse.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-816a041749",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es necesario acabar con dicha quema de brujas contra los cristianos, los españoles, guste o no, somos culturalmente cristianos.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-a3ac784479",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Defender y proteger la cultura española de los intentos de sustitución cultural. Apostando por impulsar una producción cultural propia, que ponga en valor lo nuestro y ponga freno a la cultura dominante, y a otras más minoritarias, exportada desde fuera.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-2aa8e2f7e1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Posibilitar la creación en los colegios e institutos de programas educativos y culturales que acerquen a los estudiantes la cultura y un estilo de vida saludable.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-e7270ae727",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Acceso libre y gratuito para todos los españoles a todos los museos y al patrimonio arquitectónico y cultural; a las bibliotecas públicas y a las filmotecas.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-8db10ac0b5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Fomentar la construcción y rehabilitación de espacios culturales, priorizando los barrios de trabajadores y zonas rurales.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-5ff6906e96",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Apostar por una reducción de los impuestos sobre productos culturales como libros o material artístico.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-bfeae9f8ef",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Creación de clubes deportivos de diversa índole y promoción del deporte en todos los sectores de la población.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-87c55fcb07",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Construcción de instalaciones deportivas y habilitación de parques y espacios naturales para las prácticas deportivas.",
+     "apartado": "08 Cultura"
+    },
+    {
+     "id": "c-3a1e012a03",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Debemos luchar contra la implantación de esta cultura del consumo que promueve la drogadicción, la prostitución y una vida de excesos que arruina la vida de miles de nuestros jóvenes y que promueve el sistema actual, rompiendo con la imagen de que los jóvenes solo quieren divertirse.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-b35c8eae6a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Fomentar la creación de asociaciones juveniles que promuevan la participación social y actividades culturales.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-790c2bf3af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Rehabilitación de locales abandonados y su cesión de uso a las organizaciones juveniles.",
+     "apartado": "09 Juventud"
+    },
+    {
+     "id": "c-e9e349ec53",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desarrollo de una política de control del Estado sobre las grandes plataformas digitales, que garanticen que no se privilegian unos discursos de opinión sobre otros, o un sesgo informativo determinado.",
+     "apartado": "13 Contra la censura"
+    },
+    {
+     "id": "c-8d21200e17",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Aquellos que quieran imponer costumbres bárbaras, atenten contra los derechos de las mujeres o contra nuestra cultura también deben ser deportados. Si caen en estas conductas significará que Europa no es su sitio y deberán remigrar, retornar a sus países de origen.",
+     "apartado": "17 Inmigración"
+    },
+    {
+     "id": "c-ce37207c57",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Promoción y apoyo para promover la cultura española y facilitar la asimilación e integración de los inmigrantes que han venido a aportar al país.",
+     "apartado": "17 Inmigración"
+    }
+   ]
+  }
+ ]
+}

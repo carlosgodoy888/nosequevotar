@@ -1,0 +1,103 @@
+{
+  "resumenes": [
+    {
+      "tema": "vivienda",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone suprimir el IBI y los impuestos sobre la primera vivienda, con un abaratamiento mínimo del 35 % garantizado por ley.", "apoyos": ["c-bf7738d806", "c-53a0c848b4", "c-12e296f38e"] },
+        { "texto": "Plantea sacar a concurso el suelo del Estado y de la Sareb para vivienda protegida en propiedad y conceder la licencia automáticamente si vence el plazo.", "apoyos": ["c-9ebd1eae2e", "c-4a5de566d7", "c-7c7372c35c"] },
+        { "texto": "Incluye un aval público del 20 % de la entrada para menores de 40 años y un seguro público de impago del alquiler.", "apoyos": ["c-c99138966d", "c-2b27224f75"] },
+        { "texto": "Pide desalojos policiales de viviendas ocupadas en 48 horas y lanzamiento en 30 días por impago.", "apoyos": ["c-127deaeed4", "c-bf7738d806"] }
+      ],
+      "nota": "Se evita el término «okupa» de las citas y se describe la medida con palabras corrientes."
+    },
+    {
+      "tema": "empleo",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone un contrato indefinido único, con indemnización de 12 a 33 días y una «mochila» del 1,53 % del salario pagada por la empresa.", "apoyos": ["c-2d7c53c853", "c-df82aef463", "c-3e1b3821ad"] },
+        { "texto": "Plantea bajar la cuña fiscal del 41 al 29 % y eliminar por completo la cuota de autónomos.", "apoyos": ["c-3e1b3821ad", "c-23f40cbb73", "c-b688bf398e", "c-bc3c27b3dd"] },
+        { "texto": "Quiere que la Seguridad Social pague las bajas desde el primer día y que las mutuas den el alta en 15 días.", "apoyos": ["c-d9c83fd209", "c-c8f0ceefef"] },
+        { "texto": "Pide retirar la prestación tras rechazar dos ofertas adecuadas y eximir de cotizar dos años por contratar a menores de 30 o mayores de 50.", "apoyos": ["c-d53993dd54", "c-7a88631178"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "pensiones",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone revalorizar las pensiones con el IPC, prohibir sus recortes en la Constitución y garantizar 1.000 euros en 14 pagas con 35 años cotizados.", "apoyos": ["c-2d36b1029e", "c-04dfdf8a55"] },
+        { "texto": "Plantea un sistema mixto con una cuenta individual heredable, a la que los menores de 45 años aportarían el 2 % del salario.", "apoyos": ["c-c70c93d93d", "c-868fb19720"] },
+        { "texto": "Defiende cobrar la pensión completa mientras se trabaja y jubilarse sin penalización con 40 años cotizados.", "apoyos": ["c-3c5755d51d"] },
+        { "texto": "También quiere sacar el Fondo de Reserva del control del Gobierno y suprimir el complemento de pensión de los parlamentarios.", "apoyos": ["c-50ff48b919", "c-15faa57bda"] }
+      ],
+      "nota": "La cita c-8ae02001bb habla de «sistema fraudulento»; no se adopta el término."
+    },
+    {
+      "tema": "impuestos",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone que nadie pague IRPF por los primeros 35.000 euros, de forma gradual hasta 2030, y 5.000 euros más exentos por cada hijo.", "apoyos": ["c-5c74148169", "c-3febe013c8", "c-b6944cb73f", "c-c2a6cf9527"] },
+        { "texto": "Plantea suprimir Sucesiones, Donaciones, Patrimonio e IBI, bajar Sociedades al 20 % y aplicar un IVA del 4 % a la luz y el agua.", "apoyos": ["c-e6ce371258", "c-12e296f38e", "c-1003c7ed45", "c-66258f81fa", "c-fa45c0dd41"] },
+        { "texto": "Exigiría tres quintos del Congreso para subir impuestos y un ahorro certificado por la AIReF antes de cada bajada.", "apoyos": ["c-cec6c2daa8", "c-fc1bd25ed6", "c-1cb9407621"] },
+        { "texto": "Pide que las entidades herederas de las cajas rescatadas paguen 4.700 millones anuales durante 15 años.", "apoyos": ["c-181734f838", "c-2fa472505e"] }
+      ],
+      "nota": "La declaración c-6ac29065cb habla de IRPF al 0 % por debajo de 30.000 euros y medio punto menos por hijo; el programa fija 35.000 euros y 5.000 por hijo. El resumen sigue el programa."
+    },
+    {
+      "tema": "economia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone alcanzar el déficit cero en 2030 con un techo de gasto y fijar en la Constitución límites a la presión fiscal y al endeudamiento.", "apoyos": ["c-fc1bd25ed6", "c-a18912f038"] },
+        { "texto": "Para financiar su rebaja fiscal plantea suprimir 12 ministerios, entes públicos sin función y duplicidades autonómicas, y cobrar la devolución del rescate bancario.", "apoyos": ["c-eada1d7e7a", "c-d0d5412ea8", "c-a35f299b7b", "c-bbcf2b4679", "c-2fa472505e"] },
+        { "texto": "Para las empresas quiere Sociedades al 20 %, derogar dos regulaciones por cada una nueva y unidad de mercado entre comunidades.", "apoyos": ["c-66258f81fa", "c-1003c7ed45", "c-839d78d9fc"] },
+        { "texto": "Defiende el derecho constitucional a pagar en efectivo sin límite de importe.", "apoyos": ["c-664ff9a967", "c-507578555c"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "sanidad",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone plazos máximos de 60 días para cirugía, 30 para especialista y 48 horas para ver al médico.", "apoyos": ["c-34121901c5", "c-ac2f3300e1", "c-89073008a2"] },
+        { "texto": "Si se superan, el paciente podría elegir centro público o privado a cargo de la sanidad pública.", "apoyos": ["c-ac2f3300e1", "c-89073008a2"] },
+        { "texto": "Plantea una central de compras única, subir un 20 % el sueldo de los médicos y un 10 % el de enfermería, y 10.000 camas más.", "apoyos": ["c-1f51b2c392", "c-34121901c5", "c-728c912384", "c-c48553c822"] },
+        { "texto": "Limitaría la tarjeta sanitaria a españoles y residentes legales con cotización o cobertura, con urgencias para todos.", "apoyos": ["c-fd46d2f713", "c-6464b06f17"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "educacion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una ley educativa aprobada por dos tercios, con contenidos mínimos comunes, evaluaciones externas y selectividad única en castellano en toda España.", "apoyos": ["c-07f11c3ad5", "c-a4b90f1e7e"] },
+        { "texto": "Defiende el derecho a estudiar en castellano en toda España y un cheque escolar del mismo importe para centros públicos, concertados y privados.", "apoyos": ["c-05dd2d04b6", "c-07f11c3ad5", "c-42ba4e4e0e"] },
+        { "texto": "Plantea que un consejo académico independiente fije los contenidos, con neutralidad ideológica obligatoria en el aula.", "apoyos": ["c-ba13a70367", "c-4e439e5afc"] },
+        { "texto": "Incluye FP desde los 15 años, el fin del aprobado automático y un 10 % más de sueldo para el profesorado.", "apoyos": ["c-5032b21988", "c-aed0d15f0c"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone que cada hijo sume 5.000 euros al mínimo exento de IRPF de cada progenitor, y defiende que el Estado no grave tener hijos.", "apoyos": ["c-c2a6cf9527", "c-49b1691922"] },
+        { "texto": "Plantea copago farmacéutico cero para los menores de 3 años y prioridad para las familias con hijos en el acceso al alquiler.", "apoyos": ["c-6288d3d882", "c-b0583171e4"] },
+        { "texto": "Quiere que el Ingreso Mínimo baje 50 céntimos por cada euro ganado y exigir cinco años de residencia legal y cotización para las prestaciones no contributivas.", "apoyos": ["c-d53993dd54", "c-974c8f9f16"] },
+        { "texto": "También propone una prueba de paternidad gratuita al nacer, salvo renuncia de ambos progenitores.", "apoyos": ["c-e36c29e46e"] }
+      ],
+      "nota": "No hay citas sobre dependencia, discapacidad ni servicios sociales; el resumen se limita a natalidad, infancia y prestaciones."
+    },
+    {
+      "tema": "inmigracion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone admitir solo inmigración legal, con visados ligados a un contrato previo y un cupo anual votado en el Congreso.", "apoyos": ["c-db137fbaf9", "c-787ce19ec3"] },
+        { "texto": "Plantea expulsiones en 48 horas con internamiento hasta la salida, derogar la regularización de 2026 y prohibir por ley las regularizaciones masivas.", "apoyos": ["c-bbe61f5e67", "c-db137fbaf9", "c-da279e13af", "c-532119fbb4"] },
+        { "texto": "Suspendería la inmigración y la ayuda al desarrollo a los países que no readmitan a sus nacionales o no cooperen contra las redes de trata.", "apoyos": ["c-787ce19ec3", "c-0efbf6f9b7", "c-f62f4b37c8"] },
+        { "texto": "Defiende cupos preferentes para Hispanoamérica y exigir diez años de residencia legal y un examen para obtener la nacionalidad.", "apoyos": ["c-35a0bf6a29", "c-c36c437d10"] }
+      ],
+      "nota": "No se recoge la expresión «deportación masiva» de la declaración c-e07b324cba; las expulsiones se describen con los datos del programa."
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "resultados": [
+    {
+      "p": "eh-bildu",
+      "g": [
+        "transporte",
+        "ciencia-cultura-y-digital"
+      ],
+      "i": 0,
+      "redaccion": {
+        "resumenes": [
+          {
+            "tema": "transporte",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Plantea dejar atrás las grandes inversiones en una red exclusiva de alta velocidad y renovar a fondo el trazado ferroviario existente.",
+                "apoyos": [
+                  "c-da486be4d5",
+                  "c-eb57101b08",
+                  "c-7e5981bf53"
+                ]
+              },
+              {
+                "texto": "Defiende un tren que combine largo recorrido competitivo, cercanías de calidad, mercancías y servicio a pueblos intermedios para combatir la despoblación.",
+                "apoyos": [
+                  "c-7e5981bf53",
+                  "c-eb57101b08"
+                ]
+              },
+              {
+                "texto": "Pide revisar a fondo la política ferroviaria tras varios accidentes graves y reclama completar la transferencia de Cercanías prevista en el Estatuto de 1979.",
+                "apoyos": [
+                  "c-2404466ffd",
+                  "c-3f1ebe9ef6"
+                ]
+              },
+              {
+                "texto": "Considera que reducir el número de vuelos es una de las soluciones al impacto climático de la aviación.",
+                "apoyos": [
+                  "c-7e9baa726c"
+                ]
+              }
+            ],
+            "nota": "Todo procede de declaraciones. La cita sobre Cercanías no nombra la comunidad; se menciona solo el Estatuto de 1979, como hace la cita."
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Propone un estatuto para proteger las expresiones culturales de base frente a megaproyectos y macroeventos, y garantizar condiciones laborales dignas a los profesionales de la cultura.",
+                "apoyos": [
+                  "c-8b29cdc40e"
+                ]
+              },
+              {
+                "texto": "Defiende que los trámites electrónicos con la Administración del Estado puedan hacerse en todas las lenguas oficiales y que deportistas puedan representar a Euskal Herria internacionalmente.",
+                "apoyos": [
+                  "c-8e45ac3872",
+                  "c-c792f6a8ea"
+                ]
+              }
+            ],
+            "nota": "Base escasa: solo declaraciones dispersas, varias de ámbito vasco. Se omite c-34239ea38f porque la cita no dice qué se quiere evaluar, y c-e6def701ca (agenda pública de IA) porque procede del Parlamento Vasco y su ámbito («nuestro país») no queda claro."
+          }
+        ]
+      },
+      "verificacion": {
+        "revisiones": [
+          {
+            "tema": "transporte",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 3: la cita c-3f1ebe9ef6 no dice a qué comunidad se refiere la transferencia ni que esté «prevista en» el Estatuto; solo critica que la transferencia de los trenes de Cercanías se alargue y que eso impida cumplir «un Estatuto aprobado en 1979». «Reclama completar la transferencia prevista en el Estatuto de 1979» le atribuye más de lo que dice; se reescribe como crítica a que siga pendiente, ligada a un Estatuto de 1979, sin inventar el ámbito.",
+              "Frase 3: c-2404466ffd pide «una profunda e integral reflexión sobre el modelo y sobre las políticas ferroviarias»; «revisar a fondo» sube un poco la fuerza. Se cambia por «reflexionar a fondo sobre el modelo ferroviario»."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Plantea dejar atrás las grandes inversiones en una red exclusiva de alta velocidad y renovar a fondo el trazado ferroviario existente.",
+                "apoyos": [
+                  "c-da486be4d5",
+                  "c-eb57101b08",
+                  "c-7e5981bf53"
+                ]
+              },
+              {
+                "texto": "Defiende un tren que combine largo recorrido competitivo, cercanías de calidad, mercancías y servicio a pueblos intermedios para combatir la despoblación.",
+                "apoyos": [
+                  "c-7e5981bf53",
+                  "c-eb57101b08"
+                ]
+              },
+              {
+                "texto": "Tras varios accidentes graves, pide reflexionar a fondo sobre el modelo ferroviario y critica que la transferencia de Cercanías, ligada a un Estatuto de 1979, siga pendiente.",
+                "apoyos": [
+                  "c-2404466ffd",
+                  "c-3f1ebe9ef6"
+                ]
+              },
+              {
+                "texto": "Considera que reducir el número de vuelos es una de las soluciones al impacto climático de la aviación.",
+                "apoyos": [
+                  "c-7e9baa726c"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 1: la cita c-8b29cdc40e contrapone las expresiones culturales de base a «un modelo de megaproyectos y macroeventos»; «proteger … frente a megaproyectos y macroeventos» lo convierte en protección contra esos eventos. Se recoge como contraposición de modelos. La cita no dice el ámbito del estatuto («las competencias que tenemos»), así que no se añade.",
+              "Se mantiene la base escasa (cinco declaraciones dispersas, ninguna sobre investigación) y la omisión de c-34239ea38f, que no dice qué se evalúa. La de IA (c-e6def701ca) se hizo en el Parlamento Vasco y habla de «nuestro país»; dejarla fuera de un resumen de dos frases para unas generales es defendible."
+            ],
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Propone un estatuto que proteja las expresiones culturales de base, frente a un modelo de megaproyectos y macroeventos, y garantice condiciones dignas a los profesionales de la cultura.",
+                "apoyos": [
+                  "c-8b29cdc40e"
+                ]
+              },
+              {
+                "texto": "Defiende que los trámites electrónicos con la Administración del Estado puedan hacerse en todas las lenguas oficiales y que deportistas puedan representar a Euskal Herria internacionalmente.",
+                "apoyos": [
+                  "c-8e45ac3872",
+                  "c-c792f6a8ea"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "p": "unidad-del-pueblo-canario",
+      "g": [
+        "seguridad-y-justicia",
+        "medio-ambiente-y-energia",
+        "ciencia-cultura-y-digital"
+      ],
+      "i": 1,
+      "redaccion": {
+        "resumenes": [
+          {
+            "tema": "seguridad-y-justicia",
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "En Canarias, pide acelerar la creación de una agencia canaria de emergencias y construir un nuevo edificio judicial en Tenerife en lugar de soluciones provisionales.",
+                "apoyos": [
+                  "c-30033714f9",
+                  "c-8485ec0906"
+                ]
+              },
+              {
+                "texto": "Plantea protocolos específicos en los centros de menores ante agresiones y explotación sexual y trata.",
+                "apoyos": [
+                  "c-414cc78334"
+                ]
+              }
+            ],
+            "nota": "Base escasa: solo declaraciones sobre asuntos canarios o muy concretos. Se omite c-ebcec082e6 (prevención de incendios mediante ordenación del territorio) por ser genérica y encajar mejor en medio ambiente."
+          },
+          {
+            "tema": "medio-ambiente-y-energia",
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Para Canarias, defiende poner límites al crecimiento turístico, al que atribuye el aumento de población, la ocupación del territorio y el consumo de agua y energía.",
+                "apoyos": [
+                  "c-22744e9141",
+                  "c-17042aa43e"
+                ]
+              },
+              {
+                "texto": "Rechaza una gran granja en la costa de La Aldea y pide abandonar definitivamente un proyecto que, según recuerda, rechazaron 400.000 firmantes.",
+                "apoyos": [
+                  "c-50918d55e4",
+                  "c-4661c802d9"
+                ]
+              }
+            ],
+            "nota": "Base escasa: solo declaraciones sobre asuntos canarios. La cita c-4661c802d9 no nombra el proyecto, por eso no se identifica. Se usa «crecimiento turístico» en lugar de «desarrollismo», término de la propia candidatura. Se omite c-ebcec082e6 por genérica."
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Propone que la ley canaria de la ciencia blinde una financiación de la I+D+i del 3,2 % del gasto público en 2030, con las universidades públicas en el centro.",
+                "apoyos": [
+                  "c-6c2c2b5d7e",
+                  "c-3b60254d0f",
+                  "c-ce784f2b78"
+                ]
+              },
+              {
+                "texto": "También pide más financiación y residencias universitarias, recuperar la inversión en cultura previa a 2024, revertir recortes en I+D+i y reimpulsar la Selección Canaria de fútbol.",
+                "apoyos": [
+                  "c-841df55882",
+                  "c-651553e2a5"
+                ]
+              }
+            ],
+            "nota": "Base escasa: medidas concretas, pero todas de ámbito canario y procedentes de declaraciones."
+          }
+        ]
+      },
+      "verificacion": {
+        "revisiones": [
+          {
+            "tema": "seguridad-y-justicia",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 1: c-8485ec0906 no rechaza el uso del auditorio de Tenerife; lo acepta como «medida transitoria» que «no puede sustituir» un nuevo edificio judicial. «En lugar de soluciones provisionales» presenta como rechazo lo que es un matiz. Tampoco dice que el nuevo edificio vaya en Tenerife: solo el auditorio está allí. Se reescribe con esos límites.",
+              "Frase 1: «En Canarias» y «agencia canaria» se repetían. El ámbito queda claro con «agencia canaria» y «auditorio de Tenerife». Frase 2: no se añade ámbito porque c-414cc78334 no lo dice. Pequeño ajuste de redacción («agresiones, explotación sexual y trata») y se añade el motivo que da la cita."
+            ],
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Pide acelerar la creación de la agencia canaria de emergencias y sostiene que el uso transitorio del auditorio de Tenerife como sede judicial no sustituye un nuevo edificio judicial.",
+                "apoyos": [
+                  "c-30033714f9",
+                  "c-8485ec0906"
+                ]
+              },
+              {
+                "texto": "Plantea protocolos específicos en los centros de menores ante agresiones, explotación sexual y trata, por considerar insuficientes las herramientas actuales.",
+                "apoyos": [
+                  "c-414cc78334"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "medio-ambiente-y-energia",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 1: sustituir «desarrollismo» por «crecimiento turístico» cambia el sentido. c-22744e9141 pide límites «al crecimiento» y culpa al «desarrollismo turístico» del aumento demográfico. c-17042aa43e atribuye la ocupación del territorio y el consumo de agua y energía al «desarrollismo» sin calificarlo de turístico. El resumen le colgaba a un «crecimiento turístico» efectos que la cita atribuye a otra cosa. Se usa el término de la candidatura entre comillas y se separa lo que dice cada cita.",
+              "Frase 1: «Para Canarias … consumo de agua y energía» extendía a c-17042aa43e un ámbito que esa cita no dice; el ámbito canario sale de c-22744e9141 («las Islas»). Se reescribe para que solo el crecimiento y el aumento de población vayan ligados a Canarias.",
+              "Frase 2: es correcta. No identifica el proyecto que c-4661c802d9 no nombra y no lo mezcla con la macrogranja."
+            ],
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Pide poner límites al crecimiento en Canarias, cuyo aumento de población atribuye al «desarrollismo turístico», y critica que el «desarrollismo» ocupe territorio y consuma agua y energía.",
+                "apoyos": [
+                  "c-22744e9141",
+                  "c-17042aa43e"
+                ]
+              },
+              {
+                "texto": "Rechaza una gran granja en la costa de La Aldea y pide abandonar definitivamente un proyecto que, según recuerda, rechazaron 400.000 firmantes.",
+                "apoyos": [
+                  "c-50918d55e4",
+                  "c-4661c802d9"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "veredicto": "correcto",
+            "problemas": [
+              "Sin problemas de fidelidad, neutralidad ni forma. No aparece el nombre de la coalición ni de sus partidos. La frase 2 no le atribuye ámbito a c-841df55882, que no lo dice, y está bien así. La base escasa vale por el número de citas (cinco), no por que vengan de declaraciones o sean de ámbito canario, que no son criterios de base."
+            ],
+            "base": "escasa",
+            "frases": [
+              {
+                "texto": "Propone que la ley canaria de la ciencia blinde una financiación de la I+D+i del 3,2 % del gasto público en 2030, con las universidades públicas en el centro.",
+                "apoyos": [
+                  "c-6c2c2b5d7e",
+                  "c-3b60254d0f",
+                  "c-ce784f2b78"
+                ]
+              },
+              {
+                "texto": "También pide más financiación y residencias universitarias, recuperar la inversión en cultura previa a 2024, revertir recortes en I+D+i y reimpulsar la Selección Canaria de fútbol.",
+                "apoyos": [
+                  "c-841df55882",
+                  "c-651553e2a5"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "p": "upn-pp",
+      "g": [
+        "pensiones"
+      ],
+      "i": 2,
+      "redaccion": {
+        "resumenes": [
+          {
+            "tema": "pensiones",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Se compromete a revalorizar las pensiones con el IPC y a garantizar la viabilidad del sistema público para quienes todavía no las cobran.",
+                "apoyos": [
+                  "c-d8691f65af",
+                  "c-ad0a72a3d7"
+                ]
+              },
+              {
+                "texto": "Defiende que la mejor manera de asegurar las pensiones futuras es crear más empleo con sueldos más altos.",
+                "apoyos": [
+                  "c-498e2af05e"
+                ]
+              },
+              {
+                "texto": "Respalda el Pacto de Toledo y los acuerdos de diálogo social entre patronal y sindicatos, y pide que la revalorización se vote por separado de otras medidas.",
+                "apoyos": [
+                  "c-d42f017988",
+                  "c-78a3f099da",
+                  "c-931aa5591a"
+                ]
+              }
+            ],
+            "nota": "Todo procede de declaraciones. Se omite la acusación de c-931aa5591a sobre «pagos a sus socios» por ser un término cargado; se resume como petición de votar la revalorización por separado."
+          }
+        ]
+      },
+      "verificacion": {
+        "revisiones": [
+          {
+            "tema": "pensiones",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 3: c-78a3f099da justifica el apoyo a algo concreto que «se pactó entre patronal y sindicatos», pero no dice qué. «Respalda los acuerdos de diálogo social entre patronal y sindicatos», en plural y en general, le atribuye más de lo que dice. Se cambia por «defiende el diálogo social», que la cita sí respalda («siempre hemos creído en la concertación y el diálogo social»).",
+              "Frase 3: c-d42f017988 dice que el Pacto de Toledo «es importante»; «respalda» sube un poco la fuerza y se cambia por «considera importante». c-931aa5591a pide que «traigan» la revalorización por separado, es decir, que se presente aparte, no habla de la votación. Se ajusta el verbo y se mantiene fuera la acusación de «pagos a sus socios».",
+              "Frases 1 y 2 correctas, sin nombres de partidos y sin atribuir ámbito navarro a medidas que no lo tienen. La base suficiente vale: seis citas con una medida concreta (revalorización con el IPC) y posiciones claras."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Se compromete a revalorizar las pensiones con el IPC y a garantizar la viabilidad del sistema público para quienes todavía no las cobran.",
+                "apoyos": [
+                  "c-d8691f65af",
+                  "c-ad0a72a3d7"
+                ]
+              },
+              {
+                "texto": "Defiende que la mejor manera de asegurar las pensiones futuras es crear más empleo con sueldos más altos.",
+                "apoyos": [
+                  "c-498e2af05e"
+                ]
+              },
+              {
+                "texto": "Considera importante el Pacto de Toledo, defiende el diálogo social entre patronal y sindicatos y pide que la revalorización se presente por separado de otras medidas.",
+                "apoyos": [
+                  "c-d42f017988",
+                  "c-78a3f099da",
+                  "c-931aa5591a"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

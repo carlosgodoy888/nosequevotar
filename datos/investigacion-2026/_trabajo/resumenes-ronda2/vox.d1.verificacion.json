@@ -1,0 +1,135 @@
+{
+  "revisiones": [
+    {
+      "tema": "vivienda",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3 (fidelidad, fuerza): «suprimir los impuestos a la compra de la primera vivienda» se apoya solo en una candidata por Baleares (c-f11d344652, «que la primera vivienda esté libre de carga impositiva», que además no habla solo de la compra); el diputado que interviene sobre el asunto (c-bbf634f840) pide «que bajen los impuestos… que los bajen», y el programa solo pone la ley del impuesto de transmisiones en «revisión y reforma». Se cambia a «bajar» y se atribuye la exención a una candidata.",
+        "Frase 2: «promoverá reformar» se ajusta a «revisar y reformar», que es lo que dice el apartado del programa; derogar (Ley 12/2023 y decretos-ley) y reformar (Ley de Suelo, Ley de Ordenación de la Edificación) quedan bien separados.",
+        "Frase 4: la cita pide «garantizar… la restitución inmediata del inmueble al propietario»; se ajusta la redacción («vencimiento del plazo», no «del contrato»). Se evita el término «okupación».",
+        "Forma: el total pasaba de 90 palabras (100); queda en 88."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar la Ley 12/2023 por el derecho a la vivienda y los cambios en vivienda de los decretos-ley 7/2019 y 11/2020.", "apoyos": ["c-35a4ee139a", "c-be65ec5d90", "c-100f7ccf8e"] },
+        { "texto": "Pide más suelo y plazos cerrados para construir, y promoverá revisar y reformar la Ley de Suelo y la de Ordenación de la Edificación.", "apoyos": ["c-f11d344652", "c-d6891aafdb", "c-9bcdb679d6", "c-1b06137366"] },
+        { "texto": "Pide bajar los impuestos a la compra de la primera vivienda (una candidata propone eximirla) y subirlos a las fortunas extranjeras que compren vivienda.", "apoyos": ["c-bbf634f840", "c-f11d344652", "c-05f4bed9b8"] },
+        { "texto": "Pide que el propietario recupere de inmediato la vivienda ante impago, incumplimiento del contrato o vencimiento del plazo.", "apoyos": ["c-efe073293a"] }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1 correcta: el Real Decreto-ley 32/2021 está en «Primeras leyes que derogaremos» y el Estatuto de los Trabajadores en «revisión y reforma».",
+        "Frase 4 (fidelidad, equilibrio): omitía que el programa mantiene la prevención «con todas las garantías» en los sectores de riesgo serio (c-2da4078a2f), lo que podía leerse como una rebaja general de la prevención; se añade.",
+        "Frase 3: «obligatorio para todos» se ajusta a «obligatorio universal», que es el término de la cita; el verbo pasa a «propone» porque el programa lo plantea como medida cerrada («Se deroga»).",
+        "Forma: total de 94 palabras y una frase de 30; queda en 88."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar la reforma laboral de 2021 y promoverá revisar y reformar el Estatuto de los Trabajadores.", "apoyos": ["c-4af95b7725", "c-a914bcdad1"] },
+        { "texto": "Quiere eliminar las obligaciones que se activan cuando una empresa llega a 50 empleados, como el plan de igualdad o el plan LGTBI.", "apoyos": ["c-6542e85e79", "c-c772333f84"] },
+        { "texto": "Propone acabar con el registro horario obligatorio universal y con el protocolo obligatorio de desconexión digital, y que lo acuerden empresa y trabajador.", "apoyos": ["c-df19fab2b2", "c-b488904980", "c-cf6f5e523f", "c-8b07ff9764", "c-d5607f1d94"] },
+        { "texto": "Quiere ajustar la prevención de riesgos laborales al riesgo real: plenas garantías en sectores de riesgo serio y régimen simplificado para microempresas sin riesgo significativo.", "apoyos": ["c-780f8bedb2", "c-2da4078a2f", "c-e12db46f3e"] }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Base «escasa» correcta: seis citas, las tres del programa son diagnósticos generales sobre cotizaciones y coste de la vida; las medidas salen de tres declaraciones sueltas.",
+        "Frase 1: «se pagarán las pensiones con derechos adquiridos» es confuso; la cita dice que «pueden estar tranquilos los pensionistas que tienen derechos adquiridos». Se reescribe.",
+        "Frase 2 (alcance): «reconocer mejor a quien sigue trabajando» omitía «después de la edad ordinaria» (c-019ba64b8a); se añade. Además pasaba de 30 palabras."
+      ],
+      "base": "escasa",
+      "frases": [
+        { "texto": "Plantea una reforma hacia un modelo mixto que combine el reparto con la capitalización individual, y asegura que los pensionistas con derechos adquiridos cobrarán sus pensiones.", "apoyos": ["c-e862624276", "c-da4eeed7de"] },
+        { "texto": "Se compromete a atender las carreras largas de cotización, sobre todo de jubilados anticipados por despido o ERE, y a reconocer mejor a quien trabaja tras la edad ordinaria.", "apoyos": ["c-019ba64b8a"] }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad (tensión IRPF): las dos citas son declaraciones, no programa. c-eae93dd328 (portavoz económico, 4-10-2026) describe la reforma del IRPF «sin deducciones ni bonificaciones»; c-b9f3106f31 (otro diputado, 15-9-2026) dice «Hemos propuesto importantes reducciones y deducciones por hijo en el IRPF». El redactor omitió la segunda, con lo que resolvía la tensión por su cuenta. Se recogen las dos y se atribuye la segunda, sin decidir cuál prevalece.",
+        "Frase 2 original: «Lo financiaría suprimiendo las subvenciones de más de 100.000 euros» presentaba como plan cerrado lo que la cita formula como cálculo del partido («se obtendrían los fondos»); se retira por espacio para dar cabida a la cita anterior.",
+        "Frase 4 original (fuerza): «suprimir los impuestos a la compra de la primera vivienda» sobrepasa lo que dice el diputado (c-bbf634f840, «que los bajen»); la exención total solo la menciona una candidata. Se cambia a «menos impuestos».",
+        "Derogar y reformar: las leyes del IRPF, Sociedades, Transmisiones Patrimoniales y la 15/2012 están en «revisión y reforma», no en derogación; el texto lo respeta.",
+        "Forma: total de 100 palabras; queda en 90."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone un IRPF con mínimo exento de 22.000 euros y dos tramos, del 15 % hasta 70.000 euros y del 25 % por encima, sin deducciones ni bonificaciones.", "apoyos": ["c-eae93dd328"] },
+        { "texto": "Un diputado afirmó también que el partido había propuesto reducciones y deducciones por hijo en el IRPF.", "apoyos": ["c-b9f3106f31"] },
+        { "texto": "Pide rebajar permanentemente los impuestos a la energía, IVA superreducido o nulo para bienes esenciales y menos impuestos a la compra de primera vivienda.", "apoyos": ["c-88fa5aefde", "c-d37fa0da85", "c-15290fb4ec", "c-8cba169e63", "c-bbf634f840", "c-f11d344652"] },
+        { "texto": "Quiere gravar más a las fortunas extranjeras que compren vivienda y promoverá reformar las leyes del IRPF, Sociedades y Transmisiones Patrimoniales.", "apoyos": ["c-05f4bed9b8", "c-bbf634f840", "c-f23f396c0d", "c-a0c623a1e1", "c-001ea56e02"] }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 4 (fuerza): «pide revertir el acuerdo con Mercosur» sobrepasa la cita, que pide «revertir la aplicación provisional del acuerdo comercial UE-Mercosur y frenar su aprobación» (c-cedd6788f4), y además figura en «Principal normativa europea cuya reforma exigiremos»: es una exigencia ante la UE. Se corrige.",
+        "Frase 3 correcta: los planes de igualdad (c-6076b4197c, c-4d80cc11a9 en «leyes que derogaremos»), LGTBI y movilidad sostenible se presentan como derogaciones; ETS, CBAM, taxonomía y CSRD/CS3D como reformas que exigirá a la UE, sin confundirlas.",
+        "Forma: total de 91 palabras; queda en 89."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea revisar toda la normativa para quitar trámites y cargas a las empresas, y que cada nueva ley derogue tres normas vigentes.", "apoyos": ["c-55fd7756af", "c-90aa4c12ff", "c-3a1555f8f1", "c-dba5c43b07", "c-72bc5133bc"] },
+        { "texto": "Propone una Ley de Mercado Abierto: lo legal en una comunidad autónoma lo será en toda España, sin licencias adicionales.", "apoyos": ["c-655ab462e9", "c-d8327982f3", "c-80b9be548d"] },
+        { "texto": "Quiere derogar los planes de igualdad, LGTBI y de movilidad sostenible obligatorios para las empresas, y las cargas que llegan con 50 empleados.", "apoyos": ["c-6076b4197c", "c-dc35c93f2a", "c-f69cb7aa1c", "c-4d80cc11a9", "c-6542e85e79"] },
+        { "texto": "Exigirá a la UE reformar el comercio de emisiones y las normas de sostenibilidad empresarial, y revertir la aplicación provisional del acuerdo con Mercosur.", "apoyos": ["c-03509955f7", "c-dab8a20228", "c-f6adb0c869", "c-cedd6788f4", "c-2e309bbc66"] }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "corregido",
+      "problemas": [
+        "Base «escasa» correcta: nueve citas, dos diagnósticos del programa y declaraciones sueltas, casi ninguna con medida concreta.",
+        "Frase 1 (fuerza): la cita está en pasado («Hemos propuesto»); «Defiende» la presentaba como propuesta vigente sin matiz, cuando otra declaración del portavoz económico describe un IRPF «sin deducciones ni bonificaciones» (tema impuestos). Se pasa a «Afirma haber propuesto».",
+        "Representatividad: se omitían las dos citas del programa (c-71ff472849, c-3115fcbb86), que son lo único del programa en el tema y sostienen que las familias y los españoles quedan relegados en las ayudas sociales; se recoge atribuido («sostiene»). Para que quepa, se resume la cita de materiales educativos sin la mención al derecho de los padres."
+      ],
+      "base": "escasa",
+      "frases": [
+        { "texto": "Afirma haber propuesto reducciones y deducciones por hijo en el IRPF y considera que el gasto público en natalidad es una inversión, no un gasto.", "apoyos": ["c-b9f3106f31", "c-50f30bd0b9"] },
+        { "texto": "Sostiene que las familias españolas quedan relegadas en las ayudas sociales, defiende una única definición de familia y pide neutralidad ideológica en los materiales educativos pagados con dinero público.", "apoyos": ["c-71ff472849", "c-3115fcbb86", "c-684987f34f", "c-140592624f"] }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3 (neutralidad): «remigración» iba entre comillas pero sin atribuir; pasa a «lo que llama «remigración»». «Prioridad nacional» (c-5e53de2a26) e «inmigración masiva» (c-fa508b39c6, c-25592424ad) están literalmente en las citas y ya iban atribuidos.",
+        "Frase 3 (fidelidad): omitía uno de los cuatro grupos de la cita, «los que se nieguen a integrarse imponiendo su cultura» (c-7b63a6e168); se añade. «Con delitos» pasa a «que hayan delinquido».",
+        "Frase 1: la relación causal es opinión del partido; «Presenta… como origen» se cambia a «Atribuye a…», y se añade la criminalidad, que figura en la misma cita del programa.",
+        "Frase 2 (precisión): «derogar la atención sanitaria pública» se ajusta a lo que dice la cita: derogar el decreto que la reconoce a extranjeros sin residencia legal.",
+        "Frase 4: la pérdida de nacionalidad se aplicaría por condena firme por «cualquier delito» (c-1dfc14ad44), alcance que se añade; el refuerzo es de efectivos desplegados en Ceuta y Melilla. Se retira la directiva 2024/1233 (solo un nombre en «normativa europea cuya reforma exigiremos») para no pasar de 90 palabras.",
+        "Ningún término cargado («invasión», «invasores») adoptado como propio."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Atribuye a lo que llama «inmigración masiva» la precariedad laboral, la escasez de vivienda, la criminalidad y la saturación de servicios públicos.", "apoyos": ["c-fa508b39c6", "c-25592424ad", "c-3115fcbb86"] },
+        { "texto": "Propone lo que llama «prioridad nacional» en la sanidad y derogar el decreto que da atención sanitaria pública a extranjeros sin residencia legal.", "apoyos": ["c-5e53de2a26", "c-d54d17cc86", "c-8d87e33693"] },
+        { "texto": "Plantea lo que llama una «remigración» rápida de inmigrantes en situación irregular, que hayan delinquido, que se nieguen a integrarse o que vivan de subsidios.", "apoyos": ["c-7b63a6e168", "c-1d7b810eae"] },
+        { "texto": "Quiere retirar la nacionalidad adquirida a condenados en firme por cualquier delito y reforzar efectivos en Ceuta y Melilla.", "apoyos": ["c-1dfc14ad44", "c-843623564f", "c-014ace0c1c"] }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Contenido fiel y representativo: el material es casi todo de simplificación administrativa del programa y el resumen lo refleja; base suficiente.",
+        "Frase 4 (forma): «Pide mismas reglas» es incorrecto; pasa a «Pide las mismas reglas». «Critica la regulación autonómica» es una descripción neutra de c-53be8b2e9c, sin adoptar «hiperregulación».",
+        "Sin términos cargados adoptados («hiperregulación», «bipartidismo»)."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone revisar toda la Administración para suprimir trámites innecesarios y que cada nueva ley identifique tres normas vigentes que deroga.", "apoyos": ["c-810443cd1c", "c-0def1234eb", "c-dba5c43b07", "c-72bc5133bc"] },
+        { "texto": "Plantea una base de datos común a todas las administraciones, acabar con la cita previa obligatoria y aplicar como regla general el silencio administrativo positivo.", "apoyos": ["c-31ce181b8f", "c-a7da1f12ce", "c-3f785edd1b", "c-2b12362144"] },
+        { "texto": "Quiere un buzón ciudadano y mesas sectoriales para señalar qué normas sobran, y un uso amplio de la inteligencia artificial en la Administración.", "apoyos": ["c-8a85b400b2", "c-8ecf468d08", "c-acb26bc6dc"] },
+        { "texto": "Pide las mismas reglas en todo el país, critica la regulación autonómica y quiere transponer las directivas europeas sin añadidos.", "apoyos": ["c-feb87f85fd", "c-53be8b2e9c", "c-6ff56361cf", "c-ae50310767", "c-186b2aacad"] }
+      ]
+    }
+  ]
+}

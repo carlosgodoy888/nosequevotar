@@ -1,0 +1,2309 @@
+{
+  "fuente": "pp-programa-2026",
+  "partido": "pp",
+  "paginas": [
+    68,
+    82
+  ],
+  "citas": [
+    {
+      "cita": "TRABAJAREMOS PARA QUE NINGÚN ALUMNO TENGA MIEDO A IR A CLASE. Acordaremos con las Comunidades Autónomas un protocolo nacional contra el acoso escolar que obligue a detectarlo a tiempo, también en la red, y a responder a la vez desde el centro, la sanidad y los servicios sociales.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "214",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Protocolo nacional contra el acoso escolar",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Acabaremos con las expulsiones vacías. Quien acose tendrá una sanción con contenido educativo y reparador, y la víctima no tendrá que cambiar de centro por haber sido acosada.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "214",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sanción educativa al acosador sin trasladar a la víctima",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "RECUPERAREMOS LA EXIGENCIA PARA PASAR DE ETAPA, Y QUIEN TENGA DIFICULTADES TENDRÁ APOYO. En la ESO volverá a pasarse de curso con las asignaturas aprobadas.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "215",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pasar de curso en la ESO con asignaturas aprobadas",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El alumno que vaya mal tendrá refuerzo obligatorio antes de tener que repetir.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "215",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Refuerzo obligatorio antes de repetir curso",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA FP SERÁ UNA PRIMERA OPCIÓN, CON PLAZAS DONDE HAY DE VERDAD EMPLEO. Ampliaremos con las Comunidades Autónomas las plazas de FP en los ciclos que más empleo generan, guiados por un Mapa Nacional de la FP, también en los oficios que hoy faltan, como los de la construcción.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "216",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más plazas de FP guiadas por un Mapa Nacional",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La FP dual tendrá las mismas reglas en toda España y llegará a todo el tejido empresarial, con independencia del tamaño de cada empresa; la formación se diseñará con cada sector y las empresas que formen alumnos tendrán incentivos fiscales.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "216",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "FP dual con reglas comunes e incentivos fiscales",
+      "etiquetas": [
+        "educación",
+        "empleo",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La oferta será modular y flexible, para formarse a lo largo de toda la vida con un itinerario de formación continuada.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "216",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Oferta de FP modular y formación continuada",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LAS UNIVERSIDADES TENDRÁN AUTONOMÍA Y RESPONSABILIDAD. Las universidades tendrán libertad para organizarse a cambio de rendir cuentas ante la sociedad, sobre la empleabilidad de sus titulados, la calidad de su investigación y su proyección internacional.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "217",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Autonomía universitaria a cambio de rendición de cuentas",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Sustituiremos la burocracia de la acreditación por criterios sencillos y transparentes.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "217",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Simplificar la acreditación universitaria",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "ESTUDIAR DEPENDERÁ DEL TALENTO Y EL ESFUERZO, NO DE LA RENTA. La beca será un derecho por ley para quien la necesite y apruebe, con los mismos umbrales en la universidad que en la FP.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "218",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Beca como derecho por ley con umbrales comunes",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Quien elija un ciclo de FP de alta demanda de empleo no pagará matrícula.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "218",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Matrícula gratuita en FP de alta demanda de empleo",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los mejores expedientes tendrán una beca de excelencia, y los jóvenes con más talento tendrán facilidades para estudiar en la universidad que deseen.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.7 España tendrá su mejor resultado en PISA en cuatro años"
+      ],
+      "numero": "218",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Becas de excelencia para los mejores expedientes",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "REDUCIREMOS LAS LISTAS DE ESPERA Y ASEGURAREMOS LA FINANCIACIÓN SANITARIA.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "219",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducir listas de espera y asegurar la financiación sanitaria",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos un gran Pacto de Estado por la Sanidad Pública con las Comunidades Autónomas.",
+      "pagina": 68,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "219",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pacto de Estado por la Sanidad Pública",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El Estado ejercerá sus competencias de coordinación sanitaria para garantizar la cohesión del sistema y la igualdad de acceso a sus prestaciones.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "219",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Coordinación sanitaria estatal para la cohesión del sistema",
+      "etiquetas": [
+        "sanidad",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Con ese objetivo, pondremos en marcha, de acuerdo con las Comunidades Autónomas y respetando sus competencias de gestión, un plan urgente de reducción de listas de espera para asegurar una atención ágil y de calidad.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "219",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan urgente de reducción de listas de espera",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El nuevo sistema de financiación autonómica tendrá en la sanidad uno de sus pilares y garantizará recursos suficientes para asegurar la sostenibilidad de la sanidad pública y una atención de calidad en condiciones de igualdad.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "219",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "La sanidad como pilar de la financiación autonómica",
+      "etiquetas": [
+        "sanidad",
+        "financiación autonómica"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "MEJORAREMOS LAS CONDICIONES DE LOS PROFESIONALES SANITARIOS Y REFORZAREMOS LAS PLANTILLAS. Incorporaremos, en coordinación con las Comunidades Autónomas, más profesionales al Sistema Nacional de Salud —médicos, enfermeras y resto de profesionales sanitarios— para contar con las plantillas que se necesitan hoy y en el futuro.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "220",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Incorporar más profesionales al Sistema Nacional de Salud",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "En Atención Primaria, al menos 4.500 médicos más.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "220",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Al menos 4.500 médicos más en Atención Primaria",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentaremos la oferta de formación sanitaria especializada para cubrir las necesidades asistenciales de los españoles, mejoraremos las condiciones de trabajo, la conciliación y la retribución de los médicos y demás profesionales, y aprobaremos una clasificación profesional que reconozca su formación, su capacitación y su responsabilidad.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "220",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más formación especializada, mejores condiciones y clasificación profesional sanitaria",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Atenderemos la singularidad de los médicos reconociendo un ámbito de negociación propio sobre sus condiciones laborales, sin menoscabo de los derechos del resto de profesionales sanitarios.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "220",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ámbito de negociación propio para los médicos",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Abordaremos la reducción de la duración de las guardias médicas mediante una planificación adecuada de los recursos humanos y en coordinación con las Comunidades Autónomas.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "220",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducción de la duración de las guardias médicas",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LOS PACIENTES TENDRÁN VOZ. Garantizaremos la participación de las organizaciones de pacientes en la elaboración y evaluación de las políticas sanitarias.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "221",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación de las organizaciones de pacientes en políticas sanitarias",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Aseguraremos la igualdad en el acceso a la prevención, al diagnóstico, a la atención y a los tratamientos innovadores en toda España.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "221",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Igualdad de acceso a tratamientos en toda España",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Coordinaremos los servicios sanitarios y sociales para dar continuidad a los cuidados y respetaremos el derecho de cada paciente a decidir sobre su salud con información clara y suficiente.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "221",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Coordinación sociosanitaria y derecho del paciente a decidir",
+      "etiquetas": [
+        "sanidad",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentaremos la protección laboral de las personas con enfermedades graves, especialmente de los pacientes oncológicos, durante y después del tratamiento.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "221",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Protección laboral de personas con enfermedades graves",
+      "etiquetas": [
+        "sanidad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Combatiremos la discriminación por razón de enfermedad, impulsaremos la adaptación de los puestos de trabajo y facilitaremos una reincorporación compatible con la recuperación.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "221",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Contra la discriminación por enfermedad y reincorporación laboral",
+      "etiquetas": [
+        "sanidad",
+        "empleo",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "REFORZAREMOS LA PREVENCIÓN Y LA SALUD PÚBLICA.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "222",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforzar la prevención y la salud pública",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vivir más años es una conquista que exige planificar la sanidad a largo plazo. Invertir a tiempo en prevención nos puede permitir ganar años de vida con salud, ahorrando sufrimiento y gasto en el futuro.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "222",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Planificar la sanidad e invertir en prevención",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por eso, acordaremos con las Comunidades Autónomas una estrategia que garantice servicios preventivos comunes en toda España y refuerce la vacunación, los cribados, el diagnóstico precoz, los hábitos saludables y el envejecimiento activo.",
+      "pagina": 69,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "222",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia de servicios preventivos comunes con las comunidades",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fortaleceremos la Agencia Estatal de Salud Pública para anticipar amenazas sanitarias y responder con rapidez.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "222",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fortalecer la Agencia Estatal de Salud Pública",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "TAMBIÉN HABRÁ MÁS PROFESIONALES Y MÁS ATENCIÓN A LA SALUD MENTAL. Aprobaremos un Plan Nacional de Salud Mental 2027-2037, con financiación garantizada, para que deje de ser una asignatura pendiente de nuestro Estado del bienestar.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "223",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan Nacional de Salud Mental 2027-2037 con financiación",
+      "etiquetas": [
+        "sanidad",
+        "salud mental"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentaremos el número de profesionales dedicados a la salud mental y mejoraremos la prevención, la detección precoz y el acceso a la atención psicológica y psiquiátrica desde Atención Primaria, con especial prioridad para la infancia y la adolescencia, la prevención del suicidio y los trastornos mentales graves.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "223",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más profesionales y acceso a la atención en salud mental",
+      "etiquetas": [
+        "sanidad",
+        "salud mental"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos una estrategia integral frente a las adicciones, con especial atención a los jóvenes, y aseguraremos la coordinación entre sanidad, educación y servicios sociales.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "223",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia integral frente a las adicciones",
+      "etiquetas": [
+        "sanidad",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "IMPULSAREMOS LA INVESTIGACIÓN Y ACELERAREMOS EL ACCESO A LOS NUEVOS TRATAMIENTOS.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "224",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Impulsar la investigación y el acceso a nuevos tratamientos",
+      "etiquetas": [
+        "sanidad",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos el modelo farmacéutico español y nuestra red de farmacias comunitarias, que garantizan el acceso a los medicamentos en condiciones de igualdad en todo el territorio nacional.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "224",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa del modelo farmacéutico y las farmacias comunitarias",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos un modelo de Investigación, Desarrollo, Innovación y Acceso (I+D+i+A), porque de nada sirve liderar la investigación si los nuevos tratamientos no llegan a los pacientes.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "224",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Modelo de investigación, desarrollo, innovación y acceso a tratamientos",
+      "etiquetas": [
+        "sanidad",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Agilizaremos la evaluación de los nuevos medicamentos y acortaremos los plazos para decidir su financiación y precio, acercándolos a los de los países de nuestro entorno.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "224",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Acortar plazos de evaluación y financiación de medicamentos",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos un Fondo Estatal de Innovación en Enfermedades Raras y Terapias Avanzadas.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "224",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondo estatal para enfermedades raras y terapias avanzadas",
+      "etiquetas": [
+        "sanidad",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "ALIVIAREMOS EL COSTE DE LA ENFERMEDAD PARA LOS PACIENTES Y SUS FAMILIAS. Las familias con un enfermo de cáncer, ELA u otra enfermedad grave se deducirán en el IRPF los gastos acreditados derivados del tratamiento y los cuidados.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "225",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Deducción en el IRPF de gastos por enfermedad grave",
+      "etiquetas": [
+        "sanidad",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mantendremos la prestación CUME para el cuidado de hijos con cáncer u otra enfermedad grave y su continuidad más allá de los 26 años en los supuestos previstos. Extenderemos a los funcionarios las mejoras de protección.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "225",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mantener la prestación CUME y extender mejoras a funcionarios",
+      "etiquetas": [
+        "sanidad",
+        "servicios sociales",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ley, las personas celíacas tendrán una deducción en el IRPF.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "225",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Deducción en el IRPF para personas celíacas",
+      "etiquetas": [
+        "sanidad",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "GARANTIZAREMOS LOS CUIDADOS PALIATIVOS Y UNA VIDA DIGNA HASTA EL FINAL. Aseguraremos el acceso a los cuidados paliativos para que ninguna persona se quede sin la atención y el acompañamiento que necesita hasta el último momento.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "226",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Garantizar el acceso a los cuidados paliativos",
+      "etiquetas": [
+        "sanidad",
+        "cuidados paliativos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos los equipos especializados y garantizaremos el tratamiento del dolor, los cuidados paliativos pediátricos, la atención domiciliaria y el apoyo psicológico, respetando siempre la voluntad del paciente.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "226",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de equipos de cuidados paliativos y atención domiciliaria",
+      "etiquetas": [
+        "sanidad",
+        "cuidados paliativos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "También acompañaremos a las familias, tanto durante la enfermedad como en el duelo.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "226",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Acompañamiento a las familias en la enfermedad y el duelo",
+      "etiquetas": [
+        "sanidad",
+        "cuidados paliativos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para ello, aprobaremos una ley nacional de cuidados paliativos con el fin de que nadie se vea empujado a la aceleración de la muerte por falta de alternativas ni tenga que afrontarla en soledad.",
+      "pagina": 70,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "226",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley nacional de cuidados paliativos",
+      "etiquetas": [
+        "sanidad",
+        "cuidados paliativos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Porque hablar de una muerte digna exige garantizar primero los cuidados y los apoyos necesarios para vivir con dignidad hasta el final.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "226",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Los cuidados como condición previa de la muerte digna",
+      "etiquetas": [
+        "sanidad",
+        "cuidados paliativos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "CEUTA Y MELILLA TENDRÁN UN PLAN SANITARIO PROPIO. Aprobaremos un Plan Estratégico de Sanidad para Ceuta y Melilla, con financiación específica y plurianual, para garantizar una atención sanitaria de calidad y acabar con las desigualdades respecto al resto de España.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "227",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan Estratégico de Sanidad para Ceuta y Melilla",
+      "etiquetas": [
+        "sanidad",
+        "ceuta y melilla"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentaremos las plantillas sanitarias con incentivos económicos y laborales por su condición de zonas de difícil cobertura, ampliaremos los servicios hospitalarios y pondremos en funcionamiento una UCI pediátrica, nuevas unidades de radioterapia y tecnología avanzada.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "227",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más plantillas y servicios hospitalarios en Ceuta y Melilla",
+      "etiquetas": [
+        "sanidad",
+        "ceuta y melilla"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejoraremos la Atención Primaria, las urgencias, la salud mental y las condiciones de traslado de los pacientes a la Península, con un plan específico para reducir las listas de espera.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.8 Seremos referente mundial en sanidad y cuidados"
+      ],
+      "numero": "227",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mejora de la atención sanitaria y traslados en Ceuta y Melilla",
+      "etiquetas": [
+        "sanidad",
+        "ceuta y melilla"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "ELIMINAREMOS EL CALENDARIO DE CIERRE DE ALMARAZ, ASCÓ, VANDELLÓS, COFRENTES Y TRILLO. En los primeros cien días de Gobierno tramitaremos la extensión de su vida útil con el visto bueno del Consejo de Seguridad Nuclear, garantizando la seguridad de las instalaciones.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "228",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar el calendario de cierre de las centrales nucleares",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reformularemos con realismo el Plan Nacional Integrado de Energía y Clima.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "228",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reformular el Plan Nacional Integrado de Energía y Clima",
+      "etiquetas": [
+        "energía",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuclear, renovables, almacenamiento y respaldo suficiente se complementarán, y todas las tecnologías competirán en igualdad en subastas, ayudas y regulación.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "228",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Competencia en igualdad entre todas las tecnologías energéticas",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos una estrategia nacional de energía nuclear y participaremos en las iniciativas europeas de reactores avanzados y de pequeños reactores modulares.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "228",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia nacional de energía nuclear y reactores modulares",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Facilitaremos contratos de electricidad a largo plazo, que dan precios estables a la industria y a los hogares.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "228",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Contratos de electricidad a largo plazo",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La neutralidad tecnológica y la seguridad de suministro guiarán cada decisión. No será el Gobierno quien decida qué tecnología debe ganar, sino su capacidad para ofrecer energía segura, limpia y competitiva.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "228",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Neutralidad tecnológica y seguridad de suministro en energía",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "REDUCIREMOS LA CARGA FISCAL DEL RECIBO DE LA LUZ Y CREAREMOS UNA TARIFA SOCIAL ÚNICA. Eliminaremos de inmediato el impuesto del 7% a la producción eléctrica y reduciremos la carga fiscal del recibo.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "229",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar el impuesto del 7% a la producción eléctrica",
+      "etiquetas": [
+        "energía",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aplicaremos un plan de choque para abaratar los servicios que ajustan la producción al consumo y mantienen estable el sistema eléctrico, cuyos costes se han multiplicado por ocho en los últimos años.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "229",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de choque para abaratar los servicios de ajuste eléctrico",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los hogares más vulnerables tendrán una Tarifa Social Única que sustituirá y mejorará los actuales bonos eléctrico y térmico. La ayuda llegará a quienes la necesitan y será compatible con cualquier contrato de luz y gas.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "229",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tarifa Social Única en sustitución de los bonos eléctrico y térmico",
+      "etiquetas": [
+        "energía",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para el conjunto de los consumidores, aprobaremos un Estatuto del Consumidor Energético que refuerce sus derechos de información, transparencia y reclamación.",
+      "pagina": 71,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "229",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estatuto del Consumidor Energético",
+      "etiquetas": [
+        "energía",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "También implantaremos modelos de contrato para electricidad, agua y gas, con condiciones comprensibles y un formato común que permita comparar ofertas.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "229",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Modelos comunes de contrato de electricidad, agua y gas",
+      "etiquetas": [
+        "energía",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Quien se quede sin luz por un fallo del sistema recibirá una compensación automática, sin tener que reclamarla.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "229",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Compensación automática por cortes de luz",
+      "etiquetas": [
+        "energía",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "DESBLOQUEAREMOS EL ACCESO A LA RED ELÉCTRICA. Prepararemos la red antes de que haga falta, con una planificación que se adapte a las nuevas necesidades. Anticiparemos la capacidad eléctrica necesaria en zonas industriales, logísticas y tecnológicas, y para viviendas y centros de datos.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "230",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Planificación anticipada de la red eléctrica",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En 18 meses resolveremos, con un plan de choque, los problemas que frenan la conexión de estos proyectos.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "230",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de choque de 18 meses para conexiones a la red",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisaremos si la capacidad de conexión reservada corresponde a proyectos viables.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "230",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión de la capacidad de conexión reservada",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprovecharemos mejor las redes existentes y daremos prioridad a las infraestructuras esenciales para transportar y distribuir electricidad.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "230",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mejor uso de redes y prioridad a infraestructuras esenciales",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejoraremos las conexiones eléctricas con el resto de Europa.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "230",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mejorar las interconexiones eléctricas con Europa",
+      "etiquetas": [
+        "energía",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "REFORZAREMOS EL SISTEMA ELÉCTRICO PARA EVITAR OTRO APAGÓN. En seis meses actualizaremos las reglas de funcionamiento del sistema eléctrico.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "231",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Actualizar en seis meses las reglas del sistema eléctrico",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos un plan nacional para reforzar su seguridad y controlar las variaciones de tensión que puedan poner en riesgo el suministro.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "231",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan nacional de seguridad del sistema eléctrico",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Supervisaremos la red en tiempo real, con alertas tempranas para detectar problemas y actuar a tiempo.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "231",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supervisión de la red en tiempo real con alertas",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ninguna central de gas o hidroeléctrica que permita disponer de electricidad cuando se necesita cerrará sin una alternativa cuya capacidad para sustituirla esté técnicamente acreditada.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "231",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Condiciones para el cierre de centrales de gas e hidroeléctricas",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Facilitaremos el almacenamiento de energía con baterías, centrales hidroeléctricas reversibles —que elevan agua a un embalse para generar electricidad después— y otras tecnologías competitivas.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "231",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Facilitar el almacenamiento de energía",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Modernizaremos la gestión de la red para reducir los costes de mantener estable el sistema.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "231",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Modernizar la gestión de la red eléctrica",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada incidente grave tendrá un informe público que explique sus causas y qué debe mejorarse para evitar que se repita.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "231",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Informe público tras cada incidente eléctrico grave",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "AFRONTAREMOS EL CAMBIO CLIMÁTICO CON RIGOR CIENTÍFICO. Actuaremos desde la ciencia y sin dogmatismos.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "232",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Afrontar el cambio climático desde la ciencia",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "La lucha contra el cambio climático y la descarbonización son objetivos irrenunciables para Europa por razones ambientales, geoestratégicas y económicas. Pero ha llegado el momento de revisar los ritmos de cada sector atendiendo a tres factores: lo que está ocurriendo en el resto del mundo, la tecnología realmente disponible y la evolución de la demanda.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "232",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Descarbonización irrenunciable con revisión de los ritmos por sector",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Pondremos freno a la imposición de calendarios imposibles.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "232",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Freno a la imposición de calendarios climáticos",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defendemos una transición ordenada, realista y justa, que haga compatible la protección del medioambiente con el crecimiento económico y el bienestar. Los ciudadanos no deben perder oportunidades ni sufrir un encarecimiento desproporcionado de la vida por las políticas climáticas.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "232",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Transición ordenada compatible con crecimiento y bienestar",
+      "etiquetas": [
+        "medio ambiente",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No impondremos obligaciones innecesarias y retiraremos las que perjudiquen la competitividad, la industria o el empleo.",
+      "pagina": 72,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "232",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Retirar obligaciones climáticas que perjudiquen competitividad o empleo",
+      "etiquetas": [
+        "medio ambiente",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "APROVECHAREMOS LA ECONOMÍA CIRCULAR QUE YA FUNCIONA. La economía circular constituye una oportunidad para reducir residuos, aprovechar mejor los recursos y generar actividad económica.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "233",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Aprovechar la economía circular existente",
+      "etiquetas": [
+        "medio ambiente",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Creemos en la responsabilidad de los ciudadanos y en la iniciativa de las empresas para mejorar el cuidado del entorno.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "233",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Responsabilidad ciudadana e iniciativa empresarial en el cuidado del entorno",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No impondremos obligaciones adicionales, no aceleraremos los tiempos ni desaprovecharemos las inversiones, infraestructuras y capacidades que ya tiene España.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.9 España puede ser potencia energética de Europa"
+      ],
+      "numero": "233",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Sin nuevas obligaciones en economía circular",
+      "etiquetas": [
+        "medio ambiente",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA POLÍTICA EXTERIOR VOLVERÁ A SER DE ESTADO: DEFENDERÁ EL INTERÉS NACIONAL, PROTEGERÁ A LOS ESPAÑOLES Y ABRIRÁ MERCADOS A NUESTRAS EMPRESAS. Buscaremos consensos en la política exterior española y la orientaremos a proteger a los españoles, defender a nuestras empresas y abrir mercados.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "234",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Política exterior de Estado basada en consensos",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Los objetivos nacionales no cambiarán al ritmo de la conveniencia de un presidente, y la política exterior no volverá a utilizarse como instrumento electoral.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "234",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estabilidad de los objetivos de política exterior",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ningún cambio de posición sobre nuestros intereses esenciales se adoptará sin informar antes al Parlamento.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "234",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Informar al Parlamento antes de cambiar posiciones esenciales",
+      "etiquetas": [
+        "política exterior",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No firmaremos ningún acuerdo que afecte a la soberanía o a las fronteras sin la autorización de las Cortes.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "234",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Autorización de las Cortes para acuerdos sobre soberanía o fronteras",
+      "etiquetas": [
+        "política exterior",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Actuaremos con firmeza, previsibilidad y lealtad a nuestros aliados.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "234",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Firmeza, previsibilidad y lealtad a los aliados",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Al inicio de la legislatura presentaremos en las Cortes una Estrategia de Acción Exterior.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "234",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia de Acción Exterior al inicio de la legislatura",
+      "etiquetas": [
+        "política exterior",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "ESPAÑA VOLVERÁ A ESTAR DONDE SE DECIDE EUROPA.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "235",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Presencia de España en las decisiones europeas",
+      "etiquetas": [
+        "unión europea",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por eso, trabajaremos para que la Unión reúna la fuerza política, económica y militar que necesita para defender sus valores y garantizar la seguridad y la prosperidad de las próximas generaciones, con un mercado único sin barreras, interconexiones energéticas, compras conjuntas de defensa y tecnología propia.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "235",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo político, económico y militar de la Unión Europea",
+      "etiquetas": [
+        "unión europea",
+        "política exterior",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos la libertad, el Estado de derecho y la integridad territorial de cada país europeo, y apoyaremos la ampliación sólo cuando los candidatos cumplan los requisitos y su entrada haga más fuerte a la Unión.",
+      "pagina": 73,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "235",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estado de derecho y condiciones para la ampliación de la UE",
+      "etiquetas": [
+        "unión europea",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "NO NOS LEVANTAREMOS DE LA MESA SIN UN BUEN ACUERDO PARA ESPAÑA EN EL PRÓXIMO PRESUPUESTO EUROPEO.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "236",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Negociación del presupuesto europeo 2028-2034",
+      "etiquetas": [
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Defenderemos que la PAC y la cohesión sigan siendo políticas propias, con fondos propios y sin recortes para España, que el nuevo fondo de competitividad llegue a la industria y a la ciencia españolas y que la defensa europea se financie con compras conjuntas.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "236",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "PAC y cohesión como políticas propias sin recortes",
+      "etiquetas": [
+        "unión europea",
+        "agricultura y pesca",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Iremos a Bruselas a defender cada euro de los agricultores, de las regiones y de la industria españoles, y volveremos con lo que nuestro país merece.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "236",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa en Bruselas de agricultores, regiones e industria",
+      "etiquetas": [
+        "unión europea",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "ESPAÑA DEFENDERÁ SU INTEGRIDAD TERRITORIAL Y SUS INTERESES EN EL MAGREB. Ceuta, Melilla y Canarias son España, igual que el resto de territorios españoles en el norte de África y nuestras aguas, y defenderemos su españolidad siempre.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "237",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Españolidad de Ceuta, Melilla y Canarias",
+      "etiquetas": [
+        "política exterior",
+        "ceuta y melilla"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Volveremos a una política de equilibrio con Marruecos y Argelia, con una agenda que abarque lo político, lo económico, lo energético, lo migratorio y la seguridad.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "237",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Política de equilibrio con Marruecos y Argelia",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LA FRONTERA SUR SERÁ UNA PRIORIDAD DE ESPAÑA Y DE EUROPA.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "238",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "La frontera sur como prioridad española y europea",
+      "etiquetas": [
+        "política exterior",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La inmigración irregular utilizada como arma de presión contra España es un ataque híbrido.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "238",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Inmigración irregular como arma de presión, considerada ataque híbrido",
+      "etiquetas": [
+        "inmigración",
+        "política exterior",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exigiremos a Bruselas para Ceuta y Melilla el mismo trato que la Unión dio en 2025 a sus regiones fronterizas con Rusia.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "238",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Trato europeo de región fronteriza para Ceuta y Melilla",
+      "etiquetas": [
+        "unión europea",
+        "ceuta y melilla",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "UNA SOLUCIÓN PARA EL SÁHARA OCCIDENTAL. Apoyaremos los esfuerzos de Naciones Unidas en el Sáhara Occidental para alcanzar una solución política justa, duradera y mutuamente aceptable para las partes. Lo haremos desde el respeto al derecho internacional y con transparencia ante las Cortes.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "239",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a la ONU para una solución en el Sáhara Occidental",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "ESTAREMOS SIEMPRE CON UCRANIA FRENTE A RUSIA. Hoy Ucrania resiste una agresión que afecta a toda Europa.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "240",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a Ucrania frente a Rusia",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mantendremos el apoyo político, económico, militar y humanitario a Ucrania y las sanciones contra Rusia mientras dure su agresión.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "240",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mantener la ayuda a Ucrania y las sanciones a Rusia",
+      "etiquetas": [
+        "política exterior",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Respaldaremos el derecho de Ucrania a decidir su futuro y a avanzar hacia la Unión Europea conforme a los procedimientos establecidos.",
+      "pagina": 74,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "240",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Respaldo al acercamiento de Ucrania a la Unión Europea",
+      "etiquetas": [
+        "política exterior",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "GIBRALTAR ES UNA CUESTIÓN DE ESTADO. Retomaremos un diálogo responsable con el Reino Unido para revisar las consecuencias del acuerdo entre la Unión Europea y el Reino Unido, que no ha sido refrendado por el Parlamento español.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "241",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Diálogo con Reino Unido para revisar el acuerdo sobre Gibraltar",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguiremos reivindicando nuestra soberanía, nuestros intereses y la prosperidad en el Campo de Gibraltar.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "241",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reivindicación de la soberanía sobre Gibraltar",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "RECUPERAREMOS EL VÍNCULO TRANSATLÁNTICO. Alinearemos intereses y trabajaremos por una relación equilibrada y fuerte entre Estados Unidos y España en el marco de la Unión Europea, una relación que evite una guerra comercial que perjudicaría a ambas partes.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "242",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Relación equilibrada con Estados Unidos sin guerra comercial",
+      "etiquetas": [
+        "política exterior",
+        "comercio exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El atlantismo es una comunidad fundamental de valores y prosperidad compartida imprescindible para que Europa tenga un papel relevante en el mundo.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "242",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "El atlantismo como comunidad de valores",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "IBEROAMÉRICA, UNA PRIORIDAD DE ESPAÑA Y DE EUROPA. Haremos de Iberoamérica un socio prioritario de España y de la Unión Europea, con una política de Estado y no de partido, y una relación entre iguales.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "243",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Iberoamérica como socio prioritario de España y la UE",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Defenderemos los intereses de los españoles y las empresas españolas en la región y cooperaremos en cuestiones de seguridad, especialmente en la lucha contra el narcotráfico.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "243",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Intereses españoles y cooperación en seguridad en Iberoamérica",
+      "etiquetas": [
+        "política exterior",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliaremos la cooperación educativa, cultural y científica, intensificaremos la relación con las comunidades hispanas de Estados Unidos y daremos a conocer allí el legado de España.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "243",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cooperación educativa y cultural y vínculo con comunidades hispanas",
+      "etiquetas": [
+        "política exterior",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EXIGIREMOS LA LIBERTAD DE LOS PRESOS POLÍTICOS Y APOYAREMOS LA TRANSICIÓN A LA DEMOCRACIA, PARTICULARMENTE EN CUBA, NICARAGUA Y VENEZUELA. Condenamos las dictaduras de Cuba, Nicaragua y Venezuela y apoyaremos su transición a la democracia.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "244",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a la transición democrática en Cuba, Nicaragua y Venezuela",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Venezuela necesita un calendario electoral ya.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "244",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Calendario electoral para Venezuela",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exigiremos la liberación de todos los presos políticos y apoyaremos a los disidentes.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "244",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Liberación de presos políticos y apoyo a disidentes",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Respaldaremos a la líder de la oposición, María Corina Machado.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "244",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Respaldo a María Corina Machado",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "ESPAÑA REDUCIRÁ SUS DEPENDENCIAS Y DEFENDERÁ SUS INTERESES ECONÓMICOS EN EL MUNDO. Identificaremos de qué países y proveedores dependemos en tecnologías, materias primas, medicamentos, energía y componentes esenciales.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "245",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Identificar las dependencias exteriores de España",
+      "etiquetas": [
+        "economía",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Diversificaremos suministros, potenciaremos nuestra capacidad industrial y defenderemos en Europa una política comercial que abra nuevos mercados y proteja a las empresas españolas frente a la competencia desleal.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "245",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Diversificar suministros y política comercial europea",
+      "etiquetas": [
+        "política exterior",
+        "comercio exterior",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La política exterior estará también al servicio del empleo, la inversión y la seguridad económica de España.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "245",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Política exterior al servicio del empleo y la inversión",
+      "etiquetas": [
+        "política exterior",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "China es un socio, un competidor y un rival sistémico: sus políticas pueden desafiar nuestros intereses, nuestra seguridad y nuestros valores. Tenemos que utilizar todos los instrumentos para evitar distorsiones provocadas por malas prácticas, en colaboración con nuestros socios europeos.",
+      "pagina": 75,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "245",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "China como socio, competidor y rival sistémico",
+      "etiquetas": [
+        "política exterior",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "UN COMPROMISO CON LA PAZ EN ORIENTE MEDIO.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "246",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Compromiso con la paz en Oriente Medio",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La masacre es insostenible y la población civil debe ser protegida, especialmente en Gaza.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "246",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Protección de la población civil en Gaza",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos soluciones diplomáticas para la resolución de conflictos, con socios clave, como Israel y los países árabes de la región.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "246",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Soluciones diplomáticas con Israel y los países árabes",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El régimen iraní es el principal elemento desestabilizador, oprime a sus ciudadanos y amenaza la estabilidad de la región.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "246",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "El régimen iraní como elemento desestabilizador",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "VAMOS A CAMBIAR EL MODELO DE COOPERACIÓN AL DESARROLLO. Haremos una cooperación eficaz que no responda a motivos ideológicos. Es un pilar de nuestra acción exterior que debe concentrar esfuerzos geográficos y temáticos.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "247",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cambio del modelo de cooperación al desarrollo",
+      "etiquetas": [
+        "política exterior",
+        "cooperación al desarrollo"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "No tiene sentido mantener programas de cooperación ineficaces. Auditaremos y redirigiremos estos gastos para que cada euro contribuya al bienestar y desarrollo donde verdaderamente sea necesario.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "247",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Auditar y redirigir el gasto en cooperación",
+      "etiquetas": [
+        "política exterior",
+        "cooperación al desarrollo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La cooperación al desarrollo debe ser un instrumento de estabilización de los países que contribuya a disminuir la inmigración irregular.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "247",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Cooperación al desarrollo para reducir la inmigración irregular",
+      "etiquetas": [
+        "política exterior",
+        "cooperación al desarrollo",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "UNA DIPLOMACIA A LA ALTURA DE ESPAÑA. Nuestra diplomacia puede y debe ir más allá de la representación institucional para convertirse en una herramienta efectiva de influencia, prestigio y defensa de los intereses nacionales.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "248",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La diplomacia como herramienta de influencia",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Haremos una diplomacia profesionalizada y moderna, cultural y económica, capaz de proyectar una imagen ambiciosa de España, incrementar nuestra influencia geopolítica y beneficiar a las empresas españolas en el exterior.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "248",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Diplomacia profesionalizada, cultural y económica",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "LLEVAREMOS A CABO DE FORMA INMEDIATA UN PLAN DE REFUERZO CONSULAR.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "249",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan inmediato de refuerzo consular",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliaremos plantilla y mejoraremos los medios, incluyendo la digitalización del registro civil consular y el aumento de los procedimientos telemáticos.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "249",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más plantilla y digitalización del registro civil consular",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisaremos todos los contratos de externalización de servicios existentes.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "249",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión de los contratos de externalización consular",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fortaleceremos la Unidad de Emergencia Consular del Ministerio de Asuntos Exteriores, mediante la creación de una centralita operativa las 24 horas con número único para canalizar llamadas de emergencia consular desde cualquier lugar del mundo.",
+      "pagina": 76,
+      "apartado": [
+        "04 Recuperar la ambición y la autoestima",
+        "4.10 Recuperaremos el lugar que nos corresponde en el mundo"
+      ],
+      "numero": "249",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Centralita de emergencia consular 24 horas con número único",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

@@ -1,0 +1,762 @@
+{
+  "fuente": "eaj-pnv-programa-2026",
+  "partido": "eaj-pnv",
+  "paginas": [
+    1,
+    9
+  ],
+  "citas": [
+    {
+      "cita": "No vamos a Madrid a acompañar a nadie ni a poner alfombras rojas a ningún gobierno. Vamos a defender Euskadi, con una agenda propia y con la libertad de decidir en cada momento qué es lo mejor para nuestro país.",
+      "pagina": 3,
+      "apartado": [
+        "Lo que te importa. Lo que vamos a defender."
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Papel del partido en Madrid con agenda propia",
+      "etiquetas": [
+        "instituciones",
+        "pactos de gobierno"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EAJ-PNV nunca facilitará un gobierno que dependa de Vox.",
+      "pagina": 3,
+      "apartado": [
+        "Lo que te importa. Lo que vamos a defender."
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "No facilitar un gobierno que dependa de Vox",
+      "etiquetas": [
+        "pactos de gobierno",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No aceptaremos retrocesos en derechos y libertades ni renunciaremos a nuestros valores democráticos.",
+      "pagina": 3,
+      "apartado": [
+        "Lo que te importa. Lo que vamos a defender."
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a retrocesos en derechos y libertades",
+      "etiquetas": [
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ante un gobierno de ultraderecha que pretenda recortar derechos, cuestionar nuestro autogobierno o imponer decisiones contrarias a Euskadi, encontrará una oposición firme.",
+      "pagina": 3,
+      "apartado": [
+        "Lo que te importa. Lo que vamos a defender."
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Oposición a un gobierno de ultraderecha que recorte derechos o autogobierno",
+      "etiquetas": [
+        "pactos de gobierno",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos nuestras instituciones, nuestra identidad y las libertades conquistadas, utilizando todos los instrumentos democráticos y parlamentarios a nuestro alcance.",
+      "pagina": 3,
+      "apartado": [
+        "Lo que te importa. Lo que vamos a defender."
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa de instituciones, identidad y libertades por vía parlamentaria",
+      "etiquetas": [
+        "organización territorial",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y tampoco daremos cheques en blanco a ningún partido estatal. Dialogaremos, negociaremos y alcanzaremos acuerdos cuando sean buenos para Euskadi.",
+      "pagina": 3,
+      "apartado": [
+        "Lo que te importa. Lo que vamos a defender."
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Acuerdos con partidos estatales condicionados al interés de Euskadi",
+      "etiquetas": [
+        "pactos de gobierno",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por eso seguiremos reclamando el cumplimiento íntegro del Estatuto de Gernika, defendiendo el Concierto Económico y trabajando por el reconocimiento nacional de Euskadi.",
+      "pagina": 4,
+      "apartado": [
+        "Lo que te importa. Lo que vamos a defender."
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cumplimiento del Estatuto de Gernika, Concierto Económico y reconocimiento nacional",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EXIGIR que se cumpla lo acordado. Que las inversiones lleguen, que se respeten nuestras competencias y que los compromisos adquiridos con Euskadi se conviertan en hechos.",
+      "pagina": 4,
+      "apartado": [
+        "Lo que te importa. Lo que vamos a defender."
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Exigir el cumplimiento de acuerdos, inversiones y competencias",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Queremos más viviendas disponibles y asequibles, menos abusos en el alquiler y oportunidades reales para emanciparse.",
+      "pagina": 7,
+      "apartado": [
+        "Poder construir tu vida aquí"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Más vivienda asequible, menos abusos en el alquiler y emancipación",
+      "etiquetas": [
+        "vivienda",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos medidas para aumentar la construcción y rehabilitación, movilizar pisos vacíos ofreciendo seguridad a las personas propietarias y, evitar contratos que esquiven las garantías de las personas inquilinas.",
+      "pagina": 7,
+      "apartado": [
+        "Poder construir tu vida aquí"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Construcción, rehabilitación, pisos vacíos y garantías del alquiler",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos salarios adaptados al coste de vida, condiciones laborales dignas y una formación conectada con el empleo.",
+      "pagina": 7,
+      "apartado": [
+        "Poder construir tu vida aquí"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Salarios según coste de vida, condiciones laborales y formación",
+      "etiquetas": [
+        "empleo",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La educación y la Formación Profesional deben abrir puertas, no dejar a nadie esperando una oportunidad.",
+      "pagina": 7,
+      "apartado": [
+        "Poder construir tu vida aquí"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Educación y Formación Profesional como vía de oportunidades",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Emanciparse no debería depender de la ayuda permanente de la familia. Queremos que las personas jóvenes puedan elegir cuándo salir de casa y que las familias encuentren apoyos para conciliar y cuidar.",
+      "pagina": 7,
+      "apartado": [
+        "Poder construir tu vida aquí"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Emancipación juvenil y apoyos a las familias para conciliar",
+      "etiquetas": [
+        "juventud",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para lograrlo, reclamaremos en Madrid las reformas y los recursos que permitan a las instituciones vascas actuar con eficacia, respetando sus competencias.",
+      "pagina": 7,
+      "apartado": [
+        "Poder construir tu vida aquí"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reclamar reformas y recursos para las instituciones vascas",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Queremos que encontrar una vivienda sea más fácil y que el alquiler tenga reglas claras.",
+      "pagina": 7,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.1 Vivienda: acabar con los abusos y construir más viviendas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Acceso más fácil a la vivienda y reglas claras en el alquiler",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos medidas para aumentar la oferta, frenar los usos fraudulentos y proteger a quienes necesitan una casa para vivir.",
+      "pagina": 7,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.1 Vivienda: acabar con los abusos y construir más viviendas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Aumentar la oferta de vivienda y frenar usos fraudulentos",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Agilizar los trámites urbanísticos para facilitar la construcción de nuevas viviendas, con plazos razonables y garantías legales.",
+      "pagina": 7,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+        "Aumentar la oferta de viviendas"
+      ],
+      "numero": "01",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Agilizar trámites urbanísticos para construir vivienda nueva",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Movilizar viviendas vacías y rehabilitar edificios para aumentar la oferta residencial.",
+      "pagina": 7,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+        "Aumentar la oferta de viviendas"
+      ],
+      "numero": "02",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Movilizar vivienda vacía y rehabilitar edificios",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Evitar que los contratos de temporada se utilicen fraudulentamente para eludir las garantías del alquiler de vivienda habitual.",
+      "pagina": 8,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+        "Regular el alquiler y evitar abusos"
+      ],
+      "numero": "03",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Evitar el uso fraudulento de los contratos de temporada",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Regular los alquileres de temporada y turísticos para que no resten viviendas al alquiler residencial.",
+      "pagina": 8,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+        "Regular el alquiler y evitar abusos"
+      ],
+      "numero": "04",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Regular los alquileres de temporada y turísticos",
+      "etiquetas": [
+        "vivienda",
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reducir las prácticas especulativas que encarecen la vivienda y dificultan el acceso al alquiler y la compra.",
+      "pagina": 8,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+        "Regular el alquiler y evitar abusos"
+      ],
+      "numero": "05",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducir las prácticas especulativas en vivienda",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dar seguridad jurídica a las personas inquilinas y a los pequeños propietarios para favorecer el alquiler habitual.",
+      "pagina": 8,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+        "Garantías y protección residencial"
+      ],
+      "numero": "06",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Seguridad jurídica para inquilinos y pequeños propietarios",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ofrecer alternativas habitacionales a las familias vulnerables sin trasladar toda la responsabilidad a los pequeños propietarios.",
+      "pagina": 8,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.1 Vivienda: acabar con los abusos y construir más viviendas",
+        "Garantías y protección residencial"
+      ],
+      "numero": "07",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Alternativas habitacionales para familias vulnerables",
+      "etiquetas": [
+        "vivienda",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las personas jóvenes tienen derecho a desarrollar su proyecto de vida con autonomía. Queremos que puedan acceder a una vivienda, trabajar en condiciones dignas y decidir dónde y cómo vivir.",
+      "pagina": 8,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.2 Emanciparse en Euskadi debe ser posible"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Derecho de las personas jóvenes a un proyecto de vida autónomo",
+      "etiquetas": [
+        "juventud",
+        "vivienda",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover medidas específicas para facilitar el acceso de las personas jóvenes a su primera vivienda, tanto en régimen de alquiler como en propiedad.",
+      "pagina": 8,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.2 Emanciparse en Euskadi debe ser posible",
+        "Acceso a la primera vivienda"
+      ],
+      "numero": "01",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Acceso de jóvenes a la primera vivienda en alquiler o propiedad",
+      "etiquetas": [
+        "vivienda",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar que las políticas públicas de vivienda contemplen diferentes opciones de emancipación, evitando que el alquiler protegido se convierta en la única alternativa disponible para las personas jóvenes.",
+      "pagina": 8,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.2 Emanciparse en Euskadi debe ser posible",
+        "Acceso a la primera vivienda"
+      ],
+      "numero": "02",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Opciones de emancipación más allá del alquiler protegido",
+      "etiquetas": [
+        "vivienda",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Favorecer medidas que mejoren la conexión entre formación y empleo, facilitando la incorporación de las personas jóvenes a puestos de trabajo de calidad y acordes con su preparación.",
+      "pagina": 8,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.2 Emanciparse en Euskadi debe ser posible",
+        "Empleo y autonomía económica"
+      ],
+      "numero": "03",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Conexión entre formación y empleo para jóvenes",
+      "etiquetas": [
+        "empleo",
+        "juventud",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporar la emancipación juvenil como una prioridad en las reformas estatales de vivienda, empleo, salarios y protección social, evaluando cómo afectan estas decisiones a la capacidad de las personas jóvenes para vivir de forma independiente.",
+      "pagina": 8,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.2 Emanciparse en Euskadi debe ser posible",
+        "Perspectiva juvenil y financiación"
+      ],
+      "numero": "04",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Emancipación juvenil como prioridad en las reformas estatales",
+      "etiquetas": [
+        "juventud",
+        "vivienda",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover políticas de emancipación estables y con financiación suficiente, que complementen las iniciativas de las instituciones vascas y respeten sus competencias.",
+      "pagina": 8,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.2 Emanciparse en Euskadi debe ser posible",
+        "Perspectiva juvenil y financiación"
+      ],
+      "numero": "05",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Políticas de emancipación estables y con financiación suficiente",
+      "etiquetas": [
+        "juventud",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Trabajar debe permitir pagar una vivienda, afrontar los gastos cotidianos y ahorrar.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "El trabajo debe permitir pagar vivienda, gastos y ahorrar",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos salarios acordes con el coste de vida de Euskadi, empleos estables y derechos laborales que se cumplan.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Salarios según el coste de vida, empleo estable y derechos laborales",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reclamar, en el marco de un nuevo estatus político para Euskadi, la competencia plena para establecer un salario mínimo propio, adaptado al coste de vida y siempre por encima del mínimo estatal.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales",
+        "Salarios y negociación colectiva"
+      ],
+      "numero": "01",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Competencia para fijar un salario mínimo propio en Euskadi",
+      "etiquetas": [
+        "empleo",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar su definición mediante el diálogo social, con la participación de sindicatos y organizaciones empresariales.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales",
+        "Salarios y negociación colectiva"
+      ],
+      "numero": "01",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Definir el salario mínimo propio mediante el diálogo social",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proteger un marco propio de relaciones laborales y la prevalencia de los convenios colectivos vascos, en los términos previstos legalmente, cuando establezcan condiciones más favorables para las personas trabajadoras.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales",
+        "Salarios y negociación colectiva"
+      ],
+      "numero": "02",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Marco propio de relaciones laborales y prevalencia de convenios vascos",
+      "etiquetas": [
+        "empleo",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Favorecer la negociación colectiva para que las mejoras de productividad se traduzcan en mejores salarios, mayor poder adquisitivo y un reparto equilibrado del valor generado.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales",
+        "Salarios y negociación colectiva"
+      ],
+      "numero": "03",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Negociación colectiva para trasladar la productividad a los salarios",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Detectar y sancionar mejor los abusos laborales reforzando la Inspección de Trabajo para combatir el fraude laboral, la contratación irregular, las falsas personas autónomas, la economía sumergida y los incumplimientos de la normativa laboral.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales",
+        "Cumplimiento de los derechos laborales"
+      ],
+      "numero": "04",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforzar la Inspección de Trabajo contra el fraude laboral",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejorar la prevención de riesgos laborales y la protección de la salud física y mental en el trabajo, reforzando la coordinación entre servicios sanitarios, mutuas y Seguridad Social.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales",
+        "Cumplimiento de los derechos laborales"
+      ],
+      "numero": "05",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prevención de riesgos laborales y salud en el trabajo",
+      "etiquetas": [
+        "empleo",
+        "salud laboral",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar la aplicación de la normativa europea sobre transparencia retributiva, para detectar y corregir las desigualdades salariales entre mujeres y hombres.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales",
+        "Cumplimiento de los derechos laborales"
+      ],
+      "numero": "06",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aplicar la normativa europea de transparencia retributiva",
+      "etiquetas": [
+        "empleo",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la prevención y la actuación frente al acoso laboral, sexual y discriminatorio, garantizando protocolos eficaces en las empresas.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales",
+        "Cumplimiento de los derechos laborales"
+      ],
+      "numero": "07",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prevención del acoso laboral, sexual y discriminatorio en las empresas",
+      "etiquetas": [
+        "empleo",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Facilitar el acceso de las personas trabajadoras a la formación continua y la recualificación profesional para adaptarse a los cambios tecnológicos y productivos.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales",
+        "Formación y prácticas"
+      ],
+      "numero": "08",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación continua y recualificación de las personas trabajadoras",
+      "etiquetas": [
+        "empleo",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar una regulación de las prácticas formativas que garantice los derechos del alumnado y preserve su carácter educativo, respetando las competencias de Euskadi y el funcionamiento de la Formación Profesional Dual.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales",
+        "Formación y prácticas"
+      ],
+      "numero": "09",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Regulación de las prácticas formativas",
+      "etiquetas": [
+        "empleo",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliar la cobertura de la prestación por desempleo hasta un máximo de 36 meses, vinculándola a procesos de mejora de la empleabilidad y reforzando la protección de las personas con mayores dificultades para reincorporarse al mercado laboral.",
+      "pagina": 9,
+      "apartado": [
+        "Poder construir tu vida aquí",
+        "1.3 Mejores salarios, empleo digno y derechos laborales",
+        "Protección ante el desempleo"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliar la prestación por desempleo hasta 36 meses",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

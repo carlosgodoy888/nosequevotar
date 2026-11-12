@@ -1,0 +1,934 @@
+{
+  "fuente": "frente-obrero-programa-general",
+  "partido": "frente-obrero",
+  "paginas": [
+    14,
+    26
+  ],
+  "citas": [
+    {
+      "cita": "España debe caminar hacia la independencia energética. Necesitamos un modelo energético planificado, que deje de depender del capital extranjero y que esté basado en fuentes que garanticen un abastecimiento estable.",
+      "pagina": 15,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Independencia energética con un modelo planificado",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La energía nuclear, además de ser una fuente controlable y fiable, puede garantizar, gracias a su estabilidad, la planificación del abastecimiento de la demanda. Asimismo, España posee unas condiciones muy favorables para el desarrollo de las energías renovables, que deben compaginarse con la energía nuclear.",
+      "pagina": 15,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Energía nuclear compaginada con las renovables",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El sector energético es un sector estratégico para cualquier país que aspire a garantizar una soberanía plena y una economía sólida. Debe dejar de ser un mercado que solo beneficia a unos pocos.",
+      "pagina": 15,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "El sector energético como sector estratégico",
+      "etiquetas": [
+        "energía",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Poner fin a la llamada “transición ecológica”, la cual permite el desmantelamiento de la capacidad productiva del país y el sometimiento a las políticas restrictivas de la Unión Europea.",
+      "pagina": 15,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Poner fin a la transición ecológica",
+      "etiquetas": [
+        "energía",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La regulación inmediata de la factura de la luz y de los combustibles. Las familias españolas no pueden seguir pagando los precios abusivos impuestos por empresas que especulan con la energía, así como con el precio de los combustibles, inflados por los costosos impuestos que los regulan.",
+      "pagina": 16,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Regulación de la factura de la luz y los combustibles",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer medidas para poner fin a los abusos de los oligopolios de la energía y a la práctica de las puertas giratorias.",
+      "pagina": 16,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fin de abusos de oligopolios energéticos y puertas giratorias",
+      "etiquetas": [
+        "energía",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Frenar el cierre paulatino de las centrales energéticas que se encuentran en plenas capacidades productivas.",
+      "pagina": 16,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Frenar el cierre de centrales energéticas operativas",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apuesta por la energía nuclear, como fuente de energía fiable, estable y controlable.",
+      "pagina": 16,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apuesta por la energía nuclear",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentar la inversión para la puesta en marcha y modernización de las plantas nucleares del país.",
+      "pagina": 16,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más inversión en puesta en marcha y modernización de nucleares",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliación del parque nuclear e igualmente se explotarán los recursos nacionales de uranio.",
+      "pagina": 16,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliar el parque nuclear y explotar el uranio nacional",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyar la producción basada en fuentes de energías renovables como complemento a la nuclear.",
+      "pagina": 16,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a las renovables como complemento de la nuclear",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentar la inversión en la investigación y desarrollo de las nuevas y también existentes tecnologías para la producción con fuentes renovables.",
+      "pagina": 16,
+      "apartado": [
+        "05 Soberanía energética"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más inversión en investigación de tecnologías renovables",
+      "etiquetas": [
+        "energía",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario renovar el sistema fiscal desde la raíz, sin medias tintas. Desde el Frente Obrero apostamos por una intervención del Estado fuerte, que proteja y priorice a los trabajadores y al pequeño comercio, frente a las empresas multimillonarias que hacen uso del fraude y la evasión de impuestos.",
+      "pagina": 18,
+      "apartado": [
+        "06 Fiscalidad"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Renovar el sistema fiscal con fuerte intervención del Estado",
+      "etiquetas": [
+        "impuestos",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Estado debe castigar a las empresas que se aprovechan de nuestro país, si una empresa se va, otra ocupará su lugar; y no puede basar su economía en el expolio de los que menos tienen.",
+      "pagina": 18,
+      "apartado": [
+        "06 Fiscalidad"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Castigo estatal a las empresas que se aprovechan del país",
+      "etiquetas": [
+        "impuestos",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reducir el impuesto sobre la renta a los trabajadores con menos recursos, a la par que incrementarlo para las rentas más altas con la ampliación de los tramos de renta y aumento de los tipos impositivos.",
+      "pagina": 18,
+      "apartado": [
+        "06 Fiscalidad"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bajar el IRPF a rentas bajas y subirlo a las altas",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisión exhaustiva y supresión de todas las subvenciones de carácter ideológico, así como de entidades públicas o asociaciones ineficaces que sirven a intereses políticos y no tienen utilidad alguna para los españoles.",
+      "pagina": 18,
+      "apartado": [
+        "06 Fiscalidad"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de subvenciones ideológicas y entidades públicas ineficaces",
+      "etiquetas": [
+        "gasto público",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Disminuir la carga fiscal del IVA e incorporar de forma progresiva todas las mercancías de primera necesidad en el tipo superreducido.",
+      "pagina": 18,
+      "apartado": [
+        "06 Fiscalidad"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bajar el IVA y tipo superreducido para productos básicos",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Perseguir con multas y, si es necesaria, la expropiación a empresas que hacen uso del fraude fiscal y tributan fuera. Quien produce en nuestro país debe responder por su actividad.",
+      "pagina": 18,
+      "apartado": [
+        "06 Fiscalidad"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Multas y expropiación a empresas con fraude fiscal",
+      "etiquetas": [
+        "impuestos",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentar el impuesto de sociedades y de patrimonio para las grandes empresas que no contribuyen lo suficiente a la riqueza nacional.",
+      "pagina": 19,
+      "apartado": [
+        "06 Fiscalidad"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subir sociedades y patrimonio a las grandes empresas",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El impuesto de sucesiones y de patrimonio se centralizará y se suprimirán las bonificaciones que benefician sobre todo a los más ricos.",
+      "pagina": 19,
+      "apartado": [
+        "06 Fiscalidad"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Centralizar sucesiones y patrimonio y suprimir bonificaciones",
+      "etiquetas": [
+        "impuestos",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminación del impuesto de sucesiones para las rentas bajas.",
+      "pagina": 19,
+      "apartado": [
+        "06 Fiscalidad"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar el impuesto de sucesiones para rentas bajas",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Combatir la usura y las prácticas abusivas respecto al cobro dela deuda.",
+      "pagina": 19,
+      "apartado": [
+        "06 Fiscalidad"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Combatir la usura y el cobro abusivo de deudas",
+      "etiquetas": [
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Facilitar el pago de la deuda a todas aquellas personas con probada incapacidad para hacerla frente.",
+      "pagina": 19,
+      "apartado": [
+        "06 Fiscalidad"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Facilitar el pago de deudas a personas sin capacidad",
+      "etiquetas": [
+        "economía",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario dar marcha atrás a la digitalización de la enseñanza como ya han hecho países que fueron promotores de la misma, como por ejemplo Suecia.",
+      "pagina": 21,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Dar marcha atrás a la digitalización de la enseñanza",
+      "etiquetas": [
+        "educación",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El acceso a determinadas tecnologías debe estar limitado para los menores de dieciséis años para garantizar su formación y que no sean adictos a las tecnologías dando de lado su capacitación y estableciendo dependencias.",
+      "pagina": 21,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Limitar el acceso a tecnologías a menores de dieciséis años",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La tecnología debe estar al servicio del hombre, ser una herramienta útil, no ser sustitutivo del mismo ni algo que idiotiza, genera adictos y dependencias de todo tipo.",
+      "pagina": 21,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La tecnología como herramienta al servicio del hombre",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El desarrollo y uso de la IA debe de estar regulado y controlado para un uso responsable.",
+      "pagina": 21,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Regular y controlar el desarrollo y uso de la IA",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nosotros consideramos la educación el eje vertebrador de la cultura del trabajo. Es necesario motivar e inculcar a los jóvenes una cultura del esfuerzo y el trabajo colectivo que repercuta en el beneficio de todos, no solo en el propio, y una mentalidad crítica, rompiendo así con la enseñanza competitiva e individualista actual, y atacando frontalmente a la imposición por parte del sistema de lo “políticamente correcto” y del pensamiento único.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Educación basada en la cultura del esfuerzo y el trabajo colectivo",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ofrecer una educación gratuita en todos los niveles académicos, incluidos los superiores para las rentas más bajas.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Educación gratuita, incluida la superior para las rentas más bajas",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implementación de un sistema de becas que sirva de apoyo para compaginar la formación con la vida laboral o condiciones de especial necesidad.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sistema de becas para compaginar formación y trabajo o por necesidad",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ofrecer comedor escolar gratuito para facilitar la conciliación familiar y fomentar hábitos alimenticios saludables.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comedor escolar gratuito",
+      "etiquetas": [
+        "educación",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Frenar el experimento de la educación digital, que ya ha fracasado en varios países, y apostar por una educación integral que fomente el desarrollo personal.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Frenar la educación digital y apostar por educación integral",
+      "etiquetas": [
+        "educación",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminar las subvenciones a la escuela privada con el fin de fortalecer el sistema público de educación.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar las subvenciones a la escuela privada",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar condiciones dignas de trabajo a todos los empleados de la educación pública que han visto deteriorado su nivel de vida y sus condiciones laborales con las sucesivas externalizaciones.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Condiciones dignas para los empleados de la educación pública",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ofrecer prácticas de formación profesional y universidad remuneradas en base al trabajo desarrollado, sin excepciones.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prácticas de FP y universidad remuneradas",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Evitar la llamada “fuga de cerebros” de trabajadores altamente cualificados hacia otros países, que nos deja con carencias importantes en investigación y desarrollo y afecta negativamente a nuestro crecimiento y progreso.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Evitar la fuga de trabajadores altamente cualificados",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Expulsar a las empresas privadas de la universidad y de los centros de formación profesional.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sacar a las empresas privadas de universidad y FP",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se reestructurará el Consejo Social en las universidades.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reestructurar el Consejo Social de las universidades",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar el derecho a todo el mundo de estudiar en castellano o en las lenguas cooficiales del Estado.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derecho a estudiar en castellano o en lenguas cooficiales",
+      "etiquetas": [
+        "educación",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se promoverá que los alumnos conozcan la riqueza lingüística en nuestro país y se acabará con el uso político de las lenguas por parte de nacionalistas de un bando u otro.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "9",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Promover la riqueza lingüística y acabar con su uso político",
+      "etiquetas": [
+        "educación",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dejar al islam y las teorías anticientíficas fuera de los centros de estudio públicos.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Islam y teorías anticientíficas fuera de los centros públicos",
+      "etiquetas": [
+        "educación",
+        "religión"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentar, desde las escuelas públicas, el deporte como complemento esencial de los hábitos de estudio para garantizar unos buenos hábitos de vida y de ocio saludables.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "11",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomento del deporte desde las escuelas públicas",
+      "etiquetas": [
+        "educación",
+        "deporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar y mejorar la educación de los niños con discapacidad dentro del sistema educativo.",
+      "pagina": 22,
+      "apartado": [
+        "07 Educación"
+      ],
+      "numero": "12",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mejorar la educación de los niños con discapacidad",
+      "etiquetas": [
+        "educación",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La cultura debe ser una herramienta para el desarrollo del país, que nos permita avanzar como sociedad. Los revolucionarios no podemos caer en el nihilismo y el individualismo dominante; debemos recoger todos los aspectos positivos de nuestra cultura, de nuestra historia y de nuestras tradiciones y defenderlas de aquellos que quieren privarnos de ellas, pues son patrimonio de todo el pueblo.",
+      "pagina": 24,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La cultura como herramienta de desarrollo y defensa de las tradiciones",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostamos por una cultura que contribuya a la realización de las personas, que cumpla con un papel transformador de la sociedad. La cultura no puede estar reservada a estos sectores de intelectuales, sino que ha de estar en manos de la población.",
+      "pagina": 24,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Cultura transformadora en manos de la población",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, hay que asegurar a los trabajadores los medios necesarios para que puedan tener su propia producción cultural y un acceso a conocimientos científicos, sin olvidar tampoco la necesidad de reformar el sistema educativo.",
+      "pagina": 24,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Medios para la producción cultural propia de los trabajadores",
+      "etiquetas": [
+        "cultura",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asimismo, es necesario fomentar un deporte de base alejado de los negocios y las apuestas que les dé a las personas la fortaleza necesaria para afrontar sus problemas en lugar de recurrir a las drogas y otras adicciones para evadirse.",
+      "pagina": 25,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomento del deporte de base alejado de negocios y apuestas",
+      "etiquetas": [
+        "deporte",
+        "adicciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario acabar con dicha quema de brujas contra los cristianos, los españoles, guste o no, somos culturalmente cristianos.",
+      "pagina": 25,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de los cristianos y de la identidad cultural cristiana",
+      "etiquetas": [
+        "cultura",
+        "religión"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defender y proteger la cultura española de los intentos de sustitución cultural. Apostando por impulsar una producción cultural propia, que ponga en valor lo nuestro y ponga freno a la cultura dominante, y a otras más minoritarias, exportada desde fuera.",
+      "pagina": 25,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": "1",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Proteger la cultura española e impulsar producción cultural propia",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Posibilitar la creación en los colegios e institutos de programas educativos y culturales que acerquen a los estudiantes la cultura y un estilo de vida saludable.",
+      "pagina": 25,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": "2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas educativos y culturales en colegios e institutos",
+      "etiquetas": [
+        "cultura",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acceso libre y gratuito para todos los españoles a todos los museos y al patrimonio arquitectónico y cultural; a las bibliotecas públicas y a las filmotecas.",
+      "pagina": 25,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": "3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acceso gratuito a museos, patrimonio, bibliotecas y filmotecas",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentar la construcción y rehabilitación de espacios culturales, priorizando los barrios de trabajadores y zonas rurales.",
+      "pagina": 25,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": "4",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Construcción y rehabilitación de espacios culturales",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostar por una reducción de los impuestos sobre productos culturales como libros o material artístico.",
+      "pagina": 26,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": "5",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reducir impuestos a libros y material artístico",
+      "etiquetas": [
+        "cultura",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tender a acabar con la publicidad sobre apuestas, bebidas alcohólicas y pornografía o prostitución.",
+      "pagina": 26,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": "6",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acabar con la publicidad de apuestas, alcohol, pornografía y prostitución",
+      "etiquetas": [
+        "publicidad",
+        "adicciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Creación de clubes deportivos de diversa índole y promoción del deporte en todos los sectores de la población.",
+      "pagina": 26,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Creación de clubes deportivos y promoción del deporte",
+      "etiquetas": [
+        "deporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Construcción de instalaciones deportivas y habilitación de parques y espacios naturales para las prácticas deportivas.",
+      "pagina": 26,
+      "apartado": [
+        "08 Cultura"
+      ],
+      "numero": "7",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Instalaciones deportivas y espacios naturales para el deporte",
+      "etiquetas": [
+        "deporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

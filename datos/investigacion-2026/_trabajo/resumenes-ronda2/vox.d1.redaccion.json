@@ -1,0 +1,88 @@
+{
+  "resumenes": [
+    {
+      "tema": "vivienda",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar la Ley 12/2023 por el derecho a la vivienda y los cambios en materia de vivienda de los decretos-ley 7/2019 y 11/2020.", "apoyos": ["c-35a4ee139a", "c-be65ec5d90", "c-100f7ccf8e"] },
+        { "texto": "Pide más suelo y plazos cerrados para construir, y promoverá reformar la Ley de Suelo y la Ley de Ordenación de la Edificación.", "apoyos": ["c-f11d344652", "c-d6891aafdb", "c-9bcdb679d6", "c-1b06137366"] },
+        { "texto": "Quiere suprimir los impuestos a la compra de la primera vivienda y subirlos a las fortunas extranjeras que compren vivienda en España.", "apoyos": ["c-f11d344652", "c-bbf634f840", "c-05f4bed9b8"] },
+        { "texto": "Pide devolver de inmediato la vivienda al propietario en caso de impago, incumplimiento o vencimiento del contrato.", "apoyos": ["c-efe073293a"] }
+      ],
+      "nota": "La Ley 12/2023 y los decretos-ley figuran en «Primeras leyes que derogaremos»; la Ley de Suelo, la de Ordenación de la Edificación (con el Código Técnico) y la del impuesto de transmisiones patrimoniales, en «revisión y reforma». No se menciona por falta de espacio la reforma que exigirá a la UE de la directiva de eficiencia energética de los edificios (c-99a075d7e8). La frase de impuestos procede de declaraciones: una pide «bajar» y otra que la primera vivienda quede «libre de carga impositiva»; se usa «suprimir» por esta última."
+    },
+    {
+      "tema": "empleo",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar la reforma laboral de 2021 y promoverá revisar y reformar el Estatuto de los Trabajadores.", "apoyos": ["c-4af95b7725", "c-a914bcdad1"] },
+        { "texto": "Quiere eliminar las obligaciones que se activan cuando una empresa llega a 50 empleados, como el plan de igualdad o el plan LGTBI.", "apoyos": ["c-6542e85e79", "c-c772333f84"] },
+        { "texto": "Plantea acabar con el registro horario obligatorio para todos y con el protocolo obligatorio de desconexión digital, y que lo acuerden empresa y trabajador.", "apoyos": ["c-df19fab2b2", "c-b488904980", "c-cf6f5e523f", "c-8b07ff9764", "c-d5607f1d94"] },
+        { "texto": "Propone una prevención de riesgos laborales según el riesgo real de cada actividad, con un régimen simplificado para microempresas sin riesgo significativo.", "apoyos": ["c-780f8bedb2", "c-2da4078a2f", "c-e12db46f3e"] }
+      ],
+      "nota": "La reforma laboral (Real Decreto-ley 32/2021) está en «Primeras leyes que derogaremos»; el Estatuto de los Trabajadores y el Real Decreto-ley 8/2019 (registro de jornada), en «revisión y reforma». Quedan fuera por espacio declaraciones sueltas: acabar con lo que llama «saqueo a las propinas», un estatuto médico propio y que una huelga calificada de política «debería estar prohibida»."
+    },
+    {
+      "tema": "pensiones",
+      "base": "escasa",
+      "frases": [
+        { "texto": "Plantea una reforma hacia un modelo mixto que combine el reparto con la capitalización individual, y asegura que se pagarán las pensiones con derechos adquiridos.", "apoyos": ["c-e862624276", "c-da4eeed7de"] },
+        { "texto": "Se compromete a trabajar sobre las carreras de cotización largas, sobre todo de quienes se jubilaron antes por despido o ERE, y a reconocer mejor a quien sigue trabajando.", "apoyos": ["c-019ba64b8a"] }
+      ],
+      "nota": "Todo procede de declaraciones; las citas del programa de desregulación solo hablan en general de cotizaciones y del coste de la vida."
+    },
+    {
+      "tema": "impuestos",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone un IRPF con un mínimo exento de 22.000 euros y dos tramos, del 15 % hasta 70.000 euros y del 25 % por encima, sin deducciones.", "apoyos": ["c-eae93dd328"] },
+        { "texto": "Lo financiaría suprimiendo las subvenciones de más de 100.000 euros anuales y promoverá reformar las leyes del IRPF, Sociedades y Transmisiones Patrimoniales.", "apoyos": ["c-eae93dd328", "c-f23f396c0d", "c-a0c623a1e1", "c-001ea56e02"] },
+        { "texto": "Pide rebajar de forma permanente los impuestos sobre la energía y un IVA superreducido o nulo para los bienes esenciales.", "apoyos": ["c-88fa5aefde", "c-d37fa0da85", "c-15290fb4ec", "c-8cba169e63"] },
+        { "texto": "Quiere suprimir los impuestos a la compra de la primera vivienda y subirlos a las fortunas extranjeras que compren vivienda.", "apoyos": ["c-f11d344652", "c-bbf634f840", "c-05f4bed9b8"] }
+      ],
+      "nota": "Las leyes del IRPF, Sociedades, Transmisiones Patrimoniales y la Ley 15/2012 (fiscalidad energética) figuran en «revisión y reforma», no en derogación. Posible tensión: el IRPF propuesto es «sin deducciones ni bonificaciones» (c-eae93dd328), pero otra declaración habla de «reducciones y deducciones por hijo en el IRPF» (c-b9f3106f31); se ha omitido esta última."
+    },
+    {
+      "tema": "economia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea revisar toda la normativa para quitar trámites y cargas a las empresas, y que cada nueva ley derogue tres normas vigentes.", "apoyos": ["c-55fd7756af", "c-90aa4c12ff", "c-3a1555f8f1", "c-dba5c43b07", "c-72bc5133bc"] },
+        { "texto": "Propone una Ley de Mercado Abierto: lo que sea legal en una comunidad autónoma lo será en toda España, sin licencias adicionales.", "apoyos": ["c-655ab462e9", "c-d8327982f3", "c-80b9be548d"] },
+        { "texto": "Quiere derogar los planes de igualdad, LGTBI y de movilidad sostenible obligatorios para las empresas, y las cargas que llegan con 50 empleados.", "apoyos": ["c-6076b4197c", "c-dc35c93f2a", "c-f69cb7aa1c", "c-4d80cc11a9", "c-6542e85e79"] },
+        { "texto": "Exigirá a la UE reformar el comercio de emisiones y las normas de sostenibilidad empresarial, y pide revertir el acuerdo con Mercosur.", "apoyos": ["c-03509955f7", "c-dab8a20228", "c-f6adb0c869", "c-cedd6788f4", "c-2e309bbc66"] }
+      ],
+      "nota": "Se distingue entre lo que derogaría (planes de igualdad, LGTBI y movilidad; Ley 1/2005 de derechos de emisión; Ley 10/2025 de atención a la clientela) y lo que pide reformar a la UE (ETS y CBAM, taxonomía, CSRD/CS3D, igualdad retributiva), además de revertir la aplicación provisional del acuerdo UE-Mercosur y poner fin al acuerdo UE-Marruecos. El tema tiene 66 citas; quedan fuera, entre otras, el expediente único por empresa, la reforma de la Ley de Industria y de la Ley de Protección de Datos, la defensa de la energía nuclear y la reforma del IRPF (ya en impuestos)."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "base": "escasa",
+      "frases": [
+        { "texto": "Defiende reducciones y deducciones por hijo en el IRPF y considera que el gasto público en natalidad es una inversión, no un gasto.", "apoyos": ["c-b9f3106f31", "c-50f30bd0b9"] },
+        { "texto": "Defiende una única definición de familia y pide que los materiales educativos pagados con dinero público respeten la neutralidad ideológica y el derecho de los padres a decidir.", "apoyos": ["c-684987f34f", "c-140592624f"] }
+      ],
+      "nota": "Todo procede de declaraciones. Las dos citas del programa son diagnósticos generales que critican que las familias españolas queden relegadas en las ayudas sociales frente a los inmigrantes; no se incluyen por no contener medidas. Hay otras declaraciones sobre ocuparse primero «de los nuestros» y sobre protección de menores en internet."
+    },
+    {
+      "tema": "inmigracion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Presenta lo que llama «inmigración masiva» como origen de la precariedad laboral, la escasez de vivienda y la saturación de servicios públicos.", "apoyos": ["c-fa508b39c6", "c-25592424ad", "c-3115fcbb86"] },
+        { "texto": "Propone lo que llama «prioridad nacional» en la sanidad y derogar la atención sanitaria pública a extranjeros sin residencia legal.", "apoyos": ["c-5e53de2a26", "c-d54d17cc86", "c-8d87e33693"] },
+        { "texto": "Plantea una «remigración» rápida de inmigrantes en situación irregular, con delitos o que vivan de subsidios, y retirar la nacionalidad adquirida a condenados.", "apoyos": ["c-7b63a6e168", "c-1d7b810eae", "c-1dfc14ad44"] },
+        { "texto": "Pide más efectivos en las fronteras de Ceuta y Melilla y exigirá a la UE reformar la directiva del permiso único de trabajo.", "apoyos": ["c-843623564f", "c-014ace0c1c", "c-d70a0336f0"] }
+      ],
+      "nota": "La cita del programa (c-fa508b39c6) presenta la inmigración como «generador y multiplicador» de esos problemas. La directiva 2024/1233 figura en «normativa europea cuya reforma exigiremos». El programa también excluye nacionalidad, residencia e inmigración del silencio administrativo positivo (c-2b12362144); no cabe por espacio. Las medidas de sanidad, remigración, nacionalidad y Ceuta proceden de declaraciones."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone revisar toda la Administración para suprimir trámites innecesarios y que cada nueva ley identifique tres normas vigentes que deroga.", "apoyos": ["c-810443cd1c", "c-0def1234eb", "c-dba5c43b07", "c-72bc5133bc"] },
+        { "texto": "Plantea una base de datos común a todas las administraciones, acabar con la cita previa obligatoria y aplicar como regla general el silencio administrativo positivo.", "apoyos": ["c-31ce181b8f", "c-a7da1f12ce", "c-3f785edd1b", "c-2b12362144"] },
+        { "texto": "Quiere un buzón ciudadano y mesas sectoriales para señalar qué normas sobran, y un uso amplio de la inteligencia artificial en la Administración.", "apoyos": ["c-8a85b400b2", "c-8ecf468d08", "c-acb26bc6dc"] },
+        { "texto": "Pide mismas reglas en todo el país, critica la regulación autonómica y quiere transponer las directivas europeas sin añadidos.", "apoyos": ["c-feb87f85fd", "c-53be8b2e9c", "c-6ff56361cf", "c-ae50310767", "c-186b2aacad"] }
+      ],
+      "nota": "El material del tema es casi todo de simplificación administrativa; no hay citas sobre reforma electoral, constitucional o de instituciones. El silencio positivo excluye nacionalidad, residencia e inmigración. Queda fuera una declaración según la cual una huelga calificada de política «debería estar prohibida» (c-a587f312e4)."
+    }
+  ]
+}

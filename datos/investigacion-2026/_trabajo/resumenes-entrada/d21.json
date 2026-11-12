@@ -1,0 +1,2247 @@
+{
+ "partido": "d21",
+ "nombre": "Democracia para el Siglo 21 (D21)",
+ "programa": "documento_parcial",
+ "temas": [
+  {
+   "tema": "vivienda",
+   "nombre": "Vivienda",
+   "definicion": "Acceso a la vivienda en compra y alquiler, vivienda pública, suelo y urbanismo.",
+   "citas": [
+    {
+     "id": "c-ebbd57d0d2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Todo el dinero recuperado por esta vía se dedicará a vivienda.",
+     "apartado": "No más redes clientelares › Fuera cargos de carnet y delito de enchufismo"
+    },
+    {
+     "id": "c-d38f7ada2f",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "El problema de la vivienda es la prioridad nº1 de España: una bomba de relojería que amenaza con dinamitar el futuro de nuestro país.",
+     "apartado": "Vivienda, prioridad nº1"
+    },
+    {
+     "id": "c-20dcaf0f83",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La crisis de la vivienda no puede esperar a que los políticos se pongan de acuerdo dentro de una década. Pero tampoco se soluciona con parches mágicos a corto plazo.",
+     "apartado": "Alivio hoy. Solución para siempre: plan de choque en 2 fases"
+    },
+    {
+     "id": "c-d8c45f4bfc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Nuestro compromiso es doble: un Plan de Choque Inmediato con medidas excepcionales para dar un respiro urgente a los ciudadanos hoy, y un Plan Nacional de Barrios a 10 años vista para resolver este problema estructural para siempre.",
+     "apartado": "Alivio hoy. Solución para siempre: plan de choque en 2 fases"
+    },
+    {
+     "id": "c-ce7ec192d5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Pacto de Reconciliación del Alquiler - Limitar Precios y Proteger la Propiedad: acabaremos con el enfrentamiento polarizante entre inquilinos y propietarios. Aplicaremos una limitación temporal y excepcional de los alquileres para dar un respiro inmediato a las familias y los jóvenes, pero a cambio blindaremos a los pequeños propietarios: el Estado actuará de escudo ante impagos y dará seguridad frente a la inquiokupación.",
+     "apartado": "Alivio hoy. Solución para siempre: plan de choque en 2 fases › Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+    },
+    {
+     "id": "c-86707deb99",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y también será la Administración —y no el particular— quien asuma el realojo o el coste del alquiler de las personas vulnerables.",
+     "apartado": "Alivio hoy. Solución para siempre: plan de choque en 2 fases › Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+    },
+    {
+     "id": "c-e3c6d1b9b3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "10.000 Millones de Fondos Europeos - Reinversión en Vivienda: nuestros gobiernos (nacional, Comunidades Autónomas y Ayuntamientos) han sido incapaces de ejecutar todos los fondos Next Generation mientras nuestra juventud no puede emanciparse. Realizaremos una auditoría de urgencia y reasignaremos el 100% de los fondos europeos no utilizados o en riesgo de devolución para inyectarlos directamente en un Fondo Público Soberano de construcción de vivienda asequible y protegida.",
+     "apartado": "Alivio hoy. Solución para siempre: plan de choque en 2 fases › Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+    },
+    {
+     "id": "c-58d6ab03bc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cero Impuestos a Menores de 35 Años y Bajada de Impuestos para Todos: el mayor encarecedor de la vivienda es la propia Administración. Eliminaremos todos los impuestos (IVA, ITP y AJD) en la compra de vivienda habitual para los jóvenes menores de 35 años y los reduciremos para todos (hasta un máximo de 400.000€).",
+     "apartado": "Alivio hoy. Solución para siempre: plan de choque en 2 fases › Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+    },
+    {
+     "id": "c-19f38e34b6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Plan Nacional de Barrios (Horizonte - 10 Años): las medidas de choque ganan tiempo para las familias de hoy, pero el déficit de viviendas para las familias de mañana solo se arregla construyendo. En paralelo a las medidas de urgencia, pondremos en marcha una política industrial de Estado para pasar de levantar promociones aisladas de cincuenta en cincuenta, a construir barrios integrales de mil en mil. Un compromiso a una década vista para aumentar masivamente la oferta de vivienda asequible protegida y recuperar la capacidad productiva del país.",
+     "apartado": "Alivio hoy. Solución para siempre: plan de choque en 2 fases › Fase 2 - Solución para siempre: un plan a 10 años"
+    },
+    {
+     "id": "c-544c9f9792",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Objetivo: Movilizar de forma inmediata toda la vivienda que ya existe.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional"
+    },
+    {
+     "id": "c-e0858dde10",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Limitación Temporal de Alquileres: aplicaremos una limitación general y temporal de los alquileres en zonas tensionadas utilizando el Sistema Estatal de Referencia del Precio del Alquiler de Vivienda (SERPAVI). Esta tregua de precios tendrá un carácter estrictamente excepcional y transitorio: se irá levantando de forma gradual a medida que el Plan Nacional de Barrios a 10 años incremente la oferta disponible y los indicadores de precios del mercado se estabilicen, dando un respiro inmediato a las familias y jóvenes mientras la nueva vivienda asequible se construye.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+    },
+    {
+     "id": "c-82b9c70af3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Justicia Especializada en 90 Días y Fin a la Inquiokupación: la lentitud judicial es el mayor enemigo del alquiler. Crearemos un Servicio de Mediación de Arrendamientos gratuito y vinculante (resolución máxima en 30 días) y Juzgados Especializados de Arrendamientos que garanticen una resolución firme en un plazo adicional de 60 días.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+    },
+    {
+     "id": "c-bddd28d187",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En paralelo, modificaremos el Código Penal para tipificar expresamente como delito de estafa la firma de un contrato con intención premeditada de impago y el subarriendo ilegal.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+    },
+    {
+     "id": "c-7c3dc600c4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Garantía Pública de Alquiler: la política social corresponde a la Administración, no a los ciudadanos particulares. Crearemos el Servicio Social de Garantía de Arrendamientos, que asegurará el cobro íntegro e ininterrumpido del alquiler al propietario en caso de que un inquilino sea declarado vulnerable y la Administración competente no disponga de una alternativa habitacional inmediata.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+    },
+    {
+     "id": "c-2087290f58",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Vigilancia del Alquiler por Habitaciones y Falsos Contratos Temporales: acabaremos con el vacío legal que ha propiciado que el alquiler por habitaciones pueda convertirse en un modelo especulativo y de hacinamiento. Incorporaremos esta modalidad a la Ley de Arrendamientos Urbanos (LAU), exigiendo estándares estrictos de habitabilidad y cruzando digitalmente los contratos con el padrón municipal para erradicar los falsos alquileres temporales.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+    },
+    {
+     "id": "c-3a196a6b76",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "10.000 M€ de Fondos Europeos y Nuevo Fondo Público Soberano: negociaremos de urgencia con Bruselas la reasignación de todos los fondos Next Generation no ejecutados o en riesgo de devolución.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Fondo soberano de vivienda protegida y cero especulación del Estado"
+    },
+    {
+     "id": "c-1e7d3e8925",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Inyectaremos este capital en un nuevo Fondo Público Soberano de Vivienda dedicado en exclusiva a la promoción inmobiliaria, abierto a la coinversión de actores privados y capital institucional, garantizando por ley que el producto final financiado por este fondo sea siempre vivienda protegida y asequible.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Fondo soberano de vivienda protegida y cero especulación del Estado"
+    },
+    {
+     "id": "c-fcf52293f2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cero Impuestos en la Compra para Menores de 35 Años: sacaremos al Estado de la ecuación especulativa de la vivienda. Eliminaremos todos los impuestos (IVA, ITP y AJD) en la compra de vivienda habitual para los jóvenes menores de 35 años (hasta un máximo de 400.000€).",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Fondo soberano de vivienda protegida y cero especulación del Estado"
+    },
+    {
+     "id": "c-a7112f8cb5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Rebaja Excepcional de Impuestos en la Compra de Vivienda Habitual: la asfixia fiscal no termina a los 35 años. Para facilitar el acceso a la propiedad de todas las familias y fomentar la rotación del mercado, reduciremos el ITP a un tipo único del 2%, el AJD al 0% y ampliaremos la aplicación del IVA superreducido al 4% a la compra de vivienda que se destine a residencia habitual (hasta un tope de 400.000€).",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Fondo soberano de vivienda protegida y cero especulación del Estado"
+    },
+    {
+     "id": "c-cd84448ccc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Alivio Fiscal para el Alquiler Asequible: alquilar a un precio razonable debe ser siempre más rentable que mantener una casa vacía. Diseñaremos bonificaciones ambiciosas en el IRPF y reducciones en el IBI para aquellos propietarios que incorporen sus viviendas al mercado, premiando a quienes contribuyen a aumentar la oferta de viviendas en alquiler.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Movilización masiva de viviendas vacías"
+    },
+    {
+     "id": "c-6be4125109",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La garantía del cobro de rentas y las ventajas fiscales deben conseguir el objetivo de movilizar toda la vivienda existente hoy en día, única solución real de urgencia a corto plazo para incrementar el parque de vivienda.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Movilización masiva de viviendas vacías"
+    },
+    {
+     "id": "c-12c56d004c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Rehabilitación a Cambio de Usufructo Temporal: para movilizar las decenas de miles de viviendas antiguas o en mal estado cuyos dueños no pueden costear una reforma, la Administración tutelará y avalará acuerdos de usufructo temporal con plena seguridad jurídica. Bajo esta garantía pública, empresas rehabilitadoras del sector privado o empresas municipales de vivienda asumirán la reforma integral del inmueble a cambio de explotarlo en alquiler asequible por un tiempo pactado, devolviéndolo completamente renovado a su propietario al término del acuerdo.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Movilización masiva de viviendas vacías"
+    },
+    {
+     "id": "c-ca0439316f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Recargo para Compradores No Residentes: en línea con los países más avanzados de la OCDE, aplicaremos un recargo mínimo en los impuestos del 10% (que las Comunidades Autónomas podrán elevar hasta el 25%) a la compra de vivienda no habitual por parte de inversores extracomunitarios. Frenaremos así la especulación internacional que puede contribuir a inflar los precios y expulsar a los ciudadanos de sus propios barrios.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Recargo para no residentes y competencia justa en vivienda turística"
+    },
+    {
+     "id": "c-c96f16976f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Equiparación Fiscal del Alquiler Turístico: frenaremos la fuga de viviendas residenciales hacia el mercado vacacional igualando las reglas del juego. Aplicaremos el IVA general del 10% a los alquileres turísticos de corta estancia (asimilándolos a la actividad hotelera), protegiendo el modelo de barrio.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Recargo para no residentes y competencia justa en vivienda turística"
+    },
+    {
+     "id": "c-6e82548817",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Objetivo: Construir a escala industrial toda la vivienda asequible que España necesita.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años)"
+    },
+    {
+     "id": "c-ef9fb1cf85",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "España no merece más promesas de última hora: nuestro país necesita una verdadera Política de Vivienda con mayúsculas, transversal y sostenida en el tiempo.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años)"
+    },
+    {
+     "id": "c-7333578648",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Por eso vamos a impulsar un Plan Nacional de Barrios: un acuerdo a diez años vista que implica a todas las administraciones para dejar de levantar edificios aislados y empezar a construir a escala industrial los barrios completos que nuestras nuevas generaciones necesitan.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años)"
+    },
+    {
+     "id": "c-6f3e86746d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Colaboración Público-Privada a Escala Industrial: pasaremos de levantar promociones aisladas de cincuenta en cincuenta, a construir barrios integrales de mil en mil.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Construir barrios, no bloques de hormigón"
+    },
+    {
+     "id": "c-080ad8ee4e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El Estado, las Comunidades Autónomas y los Ayuntamientos aportarán el suelo público mediante concesiones o derechos de superficie a 75 años (garantizando que el suelo y las viviendas sigan siendo 100% públicas al final del periodo).",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Construir barrios, no bloques de hormigón"
+    },
+    {
+     "id": "c-fec1963629",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Sumaremos toda la capacidad productiva del país: tanto las empresas públicas de vivienda como el sector privado —respaldados por el nuevo Fondo Soberano de Vivienda y capital institucional— diseñarán, construirán y gestionarán el parque de vivienda asequible.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Construir barrios, no bloques de hormigón"
+    },
+    {
+     "id": "c-ff479ca45c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Barrios Completos y Política Industrial a 10 Años: construiremos ecosistemas urbanos completos. Los nuevos desarrollos integrarán transporte público, colegios, centros de salud, zonas verdes y actividad comercial.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Construir barrios, no bloques de hormigón"
+    },
+    {
+     "id": "c-3fe72601af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para lograr impulsar la actividad productiva, garantizaremos una demanda pública estable durante una década, lo que permitirá a las empresas constructoras invertir en prefabricación, innovación tecnológica e industrialización de los procesos, y así multiplicar la productividad, abaratar costes y generar empleo de alta cualificación.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Construir barrios, no bloques de hormigón"
+    },
+    {
+     "id": "c-14cbcfd4af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "IVA Superreducido al 4% para la Construcción de Vivienda Asequible: no podemos exigir precios asequibles si el Estado cobra impuestos de lujo por construir. Rebajaremos el IVA del 10% al tipo superreducido del 4% para todas las obras de nueva construcción o rehabilitación integral que se destinen a vivienda asequible y reduciremos otros impuestos como tasas municipales, ICIOs y plusvalías.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Construir barrios, no bloques de hormigón"
+    },
+    {
+     "id": "c-c8ef0eceee",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Obligación de Cumplimiento y Subrogación Autonómica: la ciudadanía no puede seguir esperando ni un solo día más mientras las administraciones se pasan la pelota de la crisis de la vivienda. Los Ayuntamientos, siendo la administración más cercana al ciudadano, liderarán la detección de necesidades y la ejecución del Plan en su territorio. El Estado y las Comunidades Autónomas les proporcionarán el paraguas normativo y la financiación, pero a cambio se exigirán resultados.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Responsabilidad municipal vinculante: no más excusas"
+    },
+    {
+     "id": "c-3820f2dce0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si un Ayuntamiento retiene bolsas de suelo público de forma injustificada, paraliza proyectos, bloquea licencias o incumple sus objetivos de vivienda asequible, su competencia urbanística será subrogada de forma automática e inmediata por su Comunidad Autónoma, que asumirá el control para garantizar la construcción.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Responsabilidad municipal vinculante: no más excusas"
+    },
+    {
+     "id": "c-b2a6ab6543",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Licencias de Obra Mayor en 30 Días y Oficinas Centrales de Urbanismo: los Ayuntamientos tendrán un plazo máximo e improrrogable de 30 días para revisar solicitudes de licencias de obra mayor.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Responsabilidad municipal vinculante: no más excusas"
+    },
+    {
+     "id": "c-25eca5c566",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si incumplen el plazo, el expediente pasará automáticamente a unas nuevas Oficina Centrales Autonómicas de Urbanismo, que resolverán en 30 días adicionales y cobrarán al propio Ayuntamiento una tasa de penalización por haber tenido que asumir su trabajo.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Responsabilidad municipal vinculante: no más excusas"
+    },
+    {
+     "id": "c-7e7c559df9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Supresión de Licencias para Obra Menor: para descongestionar a los técnicos municipales y que se centren en los grandes desarrollos, eliminaremos la exigencia de licencia previa para obras menores que no requieran proyecto arquitectónico. Bastará con una declaración responsable 100% digital, manteniendo la exigencia de que los trabajos especializados (electricidad, gas…) sean ejecutados siempre por profesionales certificados y sujetos a una posible comprobación posterior.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Responsabilidad municipal vinculante: no más excusas"
+    },
+    {
+     "id": "c-5b1fea6575",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ley Urgente de Desbloqueo Urbanístico y Reforma de la Ley del Suelo: modificaremos de urgencia la legislación estatal para acabar con la inseguridad jurídica que paraliza ciudades enteras.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Fin de la parálisis urbanística y desbloqueo de suelo"
+    },
+    {
+     "id": "c-667be9bf50",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Evitaremos que un simple defecto formal o subsanable provoque la nulidad de todo un Plan General de Ordenación Urbana (PGOU).",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Fin de la parálisis urbanística y desbloqueo de suelo"
+    },
+    {
+     "id": "c-76430964cd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Aprobaremos un régimen de \"Burocracia Exprés\" con silencio administrativo positivo de 3 meses para autorizaciones sectoriales (aguas, carreteras, medio ambiente) y reduciremos los plazos de litigiosidad en los tribunales para evitar que proyectos vitales queden paralizados durante años.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Fin de la parálisis urbanística y desbloqueo de suelo"
+    },
+    {
+     "id": "c-07a7febd14",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Desbloqueo de Suelo Público Retenido e Incentivos al Sector Privado: la Administración es hoy el mayor tenedor de suelo inactivo del país. Obligaremos por ley a todos los Ayuntamientos, Comunidades, Ministerios y empresas públicas (con especial foco en Defensa, Carreteras, ADIF…) a auditar y liberar de forma inmediata sus reservas de suelo público y dotacional paralizado, agilizando su recalificación y desarrollo urbanístico para cederlo en derecho de superficie al Plan Nacional de Barrios.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Fin de la parálisis urbanística y desbloqueo de suelo"
+    },
+    {
+     "id": "c-fd5f850e70",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "En paralelo, los Ayuntamientos movilizarán el suelo privado impulsando la figura del agente urbanizador para propiciar su desarrollo.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Fin de la parálisis urbanística y desbloqueo de suelo"
+    },
+    {
+     "id": "c-470919a1c6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "También aprobaremos bonificaciones en la plusvalía municipal y reducciones en el IBI para los propietarios que activen sus parcelas para vivienda asequible, y flexibilizaremos la normativa para transformar oficinas o locales vacíos en nuevos hogares.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Fin de la parálisis urbanística y desbloqueo de suelo"
+    },
+    {
+     "id": "c-4ac16d8667",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Portal Nacional de Trazabilidad Urbanística: la transparencia es el mejor escudo contra el clientelismo y la ineficacia. Crearemos una plataforma digital pública donde cualquier ciudadano, promotor o cooperativa podrá auditar en tiempo real la situación legal exacta, el estado de las licencias y los cuellos de botella de cualquier desarrollo urbanístico en España, incluyendo un canal de denuncia directa contra bloqueos injustificados o casos sospechosos de corrupción urbanística.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Fin de la parálisis urbanística y desbloqueo de suelo"
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "nombre": "Empleo y salarios",
+   "definicion": "Trabajo, salarios, jornada, contratos, autónomos, sindicatos y salud laboral.",
+   "citas": [
+    {
+     "id": "c-092c7eff24",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "proponemos que, al menos una vez al año, los negocios locales asuman el compromiso cívico de dedicar una jornada a entablar contacto directo con los jóvenes en etapa escolar mediante visitas, retos o microprácticas.",
+     "apartado": "Una educación para el siglo 21 › Aprendizaje Práctico en el Mundo Real"
+    },
+    {
+     "id": "c-ab3a1fd54a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "siguiendo el camino de otros países, fomentaremos la experiencia práctica en todas las etapas de la formación universitaria, acercando la universidad al mundo profesional para que los jóvenes obtengan no solo formación académica, sino también para la empleabilidad.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Aprendizaje Práctico"
+    },
+    {
+     "id": "c-7c27719d04",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Eliminaremos las trabas burocráticas y laborales que actualmente dificultan el acceso a prácticas.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Aprendizaje Práctico"
+    },
+    {
+     "id": "c-9e5fc3f907",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Diseñaremos un sistema de incentivos para que las empresas ofrezcan oportunidades de aprendizaje y experiencia real a los estudiantes, con garantías de calidad, remuneración, supervisión y protección frente a abusos.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Aprendizaje Práctico"
+    },
+    {
+     "id": "c-783beb9fa1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Garantizaremos que todos los títulos incorporen prácticas tutorizadas y conectadas con el mundo profesional.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Aprendizaje Práctico"
+    },
+    {
+     "id": "c-a8839ffd2f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para orientar la elección de los estudiantes y sus familias con datos reales, crearemos el primer Comparador Público de Titulaciones: una plataforma estatal que mostrará de forma transparente, grado por grado y universidad por universidad, el nivel de satisfacción estudiantil, las tasas de inserción laboral a 1, 3 y 5 años y los salarios medios de sus egresados.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Comparador Público de Titulaciones"
+    },
+    {
+     "id": "c-b2261d256f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "reformaremos el calendario de la FP para eliminar la obligatoriedad de las prácticas en primer curso y trasladarlas por defecto al segundo curso, condicionando legalmente el acceso a la empresa a que el alumno haya asimilado y demostrado todos los conocimientos exigidos.",
+     "apartado": "Apostar por la formación profesional más que nunca › Flexibilización de la FP y Tutor Compartido para las PYMES"
+    },
+    {
+     "id": "c-1bc6d71d06",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Además, para adaptar el modelo a la realidad de las PYMEs españolas, crearemos la figura del Tutor Compartido Sectorial, financiado por la administración para apoyar a las pequeñas empresas que no pueden tutorizar por sí solas.",
+     "apartado": "Apostar por la formación profesional más que nunca › Flexibilización de la FP y Tutor Compartido para las PYMES"
+    },
+    {
+     "id": "c-c416f2a695",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "reconoceremos la función social de las PYMES y autónomos que abren sus puertas al talento joven en un entorno donde la tecnología transforma rápidamente las tareas de los perfiles júnior.",
+     "apartado": "Apostar por la formación profesional más que nunca › Créditos de Retorno Empresarial - Premiar y Compensar a Quien Forma"
+    },
+    {
+     "id": "c-bfc3eb1382",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Crearemos los Créditos de Retorno Empresarial, un sistema donde las PYMES acumularán saldo por cada hora de mentoría y tutoría certificada, canjeable por deducciones fiscales directas, formación para su propia plantilla, acceso a talleres públicos de FP o puntuación extra en la contratación pública.",
+     "apartado": "Apostar por la formación profesional más que nunca › Créditos de Retorno Empresarial - Premiar y Compensar a Quien Forma"
+    },
+    {
+     "id": "c-108c764c56",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "implantaremos un modelo de presupuestación plurianual —revisable cada tres años— que fije la inversión en plazas, infraestructuras, materiales y profesorado en función de tres ejes estratégicos de demanda: el interés del alumnado, las necesidades reales de contratación del tejido empresarial y los sectores estratégicos nacionales (acabando definitivamente con las listas de espera en titulaciones con pleno empleo).",
+     "apartado": "Apostar por la formación profesional más que nunca › Financiación Plurianual Estratégica para las FP"
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "nombre": "Pensiones",
+   "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
+   "citas": []
+  },
+  {
+   "tema": "impuestos",
+   "nombre": "Impuestos",
+   "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
+   "citas": [
+    {
+     "id": "c-58d6ab03bc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cero Impuestos a Menores de 35 Años y Bajada de Impuestos para Todos: el mayor encarecedor de la vivienda es la propia Administración. Eliminaremos todos los impuestos (IVA, ITP y AJD) en la compra de vivienda habitual para los jóvenes menores de 35 años y los reduciremos para todos (hasta un máximo de 400.000€).",
+     "apartado": "Alivio hoy. Solución para siempre: plan de choque en 2 fases › Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+    },
+    {
+     "id": "c-fcf52293f2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cero Impuestos en la Compra para Menores de 35 Años: sacaremos al Estado de la ecuación especulativa de la vivienda. Eliminaremos todos los impuestos (IVA, ITP y AJD) en la compra de vivienda habitual para los jóvenes menores de 35 años (hasta un máximo de 400.000€).",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Fondo soberano de vivienda protegida y cero especulación del Estado"
+    },
+    {
+     "id": "c-a7112f8cb5",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Rebaja Excepcional de Impuestos en la Compra de Vivienda Habitual: la asfixia fiscal no termina a los 35 años. Para facilitar el acceso a la propiedad de todas las familias y fomentar la rotación del mercado, reduciremos el ITP a un tipo único del 2%, el AJD al 0% y ampliaremos la aplicación del IVA superreducido al 4% a la compra de vivienda que se destine a residencia habitual (hasta un tope de 400.000€).",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Fondo soberano de vivienda protegida y cero especulación del Estado"
+    },
+    {
+     "id": "c-cd84448ccc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Alivio Fiscal para el Alquiler Asequible: alquilar a un precio razonable debe ser siempre más rentable que mantener una casa vacía. Diseñaremos bonificaciones ambiciosas en el IRPF y reducciones en el IBI para aquellos propietarios que incorporen sus viviendas al mercado, premiando a quienes contribuyen a aumentar la oferta de viviendas en alquiler.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Movilización masiva de viviendas vacías"
+    },
+    {
+     "id": "c-ca0439316f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Recargo para Compradores No Residentes: en línea con los países más avanzados de la OCDE, aplicaremos un recargo mínimo en los impuestos del 10% (que las Comunidades Autónomas podrán elevar hasta el 25%) a la compra de vivienda no habitual por parte de inversores extracomunitarios. Frenaremos así la especulación internacional que puede contribuir a inflar los precios y expulsar a los ciudadanos de sus propios barrios.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Recargo para no residentes y competencia justa en vivienda turística"
+    },
+    {
+     "id": "c-c96f16976f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Equiparación Fiscal del Alquiler Turístico: frenaremos la fuga de viviendas residenciales hacia el mercado vacacional igualando las reglas del juego. Aplicaremos el IVA general del 10% a los alquileres turísticos de corta estancia (asimilándolos a la actividad hotelera), protegiendo el modelo de barrio.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Recargo para no residentes y competencia justa en vivienda turística"
+    },
+    {
+     "id": "c-14cbcfd4af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "IVA Superreducido al 4% para la Construcción de Vivienda Asequible: no podemos exigir precios asequibles si el Estado cobra impuestos de lujo por construir. Rebajaremos el IVA del 10% al tipo superreducido del 4% para todas las obras de nueva construcción o rehabilitación integral que se destinen a vivienda asequible y reduciremos otros impuestos como tasas municipales, ICIOs y plusvalías.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Construir barrios, no bloques de hormigón"
+    },
+    {
+     "id": "c-470919a1c6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "También aprobaremos bonificaciones en la plusvalía municipal y reducciones en el IBI para los propietarios que activen sus parcelas para vivienda asequible, y flexibilizaremos la normativa para transformar oficinas o locales vacíos en nuevos hogares.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Fin de la parálisis urbanística y desbloqueo de suelo"
+    }
+   ]
+  },
+  {
+   "tema": "economia",
+   "nombre": "Economía y empresas",
+   "definicion": "Industria, empresas, comercio, turismo, cuentas públicas y coste de la vida. Los impuestos y el empleo van aparte.",
+   "citas": [
+    {
+     "id": "c-ad35a9fdaa",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La Intervención General de la Administración del Estado (IGAE) —el órgano estatal encargado de auditar y controlar internamente las cuentas y el gasto público— contará con los mismos medios tecnológicos, capacidad de cruce masivo de datos e inteligencia artificial que la Agencia Tributaria.",
+     "apartado": "Cortar de raíz la corrupción › El mismo control para el político que para el ciudadano"
+    },
+    {
+     "id": "c-9f695a4395",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los funcionarios de la IGAE tendrán los mismos pluses de productividad vinculados a sus objetivos de control y resultados que tienen los funcionarios de la Agencia Tributaria.",
+     "apartado": "Cortar de raíz la corrupción › El mismo control para el político que para el ciudadano"
+    },
+    {
+     "id": "c-e5feace2c3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se dotará a los interventores de independencia presupuestaria y herramientas de auditoría en tiempo real para fiscalizar cada euro gestionado por los cargos públicos con el mismo nivel de exigencia y trazabilidad con el que Hacienda supervisa las cuentas de los ciudadanos.",
+     "apartado": "Cortar de raíz la corrupción › El mismo control para el político que para el ciudadano"
+    },
+    {
+     "id": "c-db5eb14007",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para reforzar la independencia de la IGAE del ciclo político, el Interventor General del Estado será nombrado por un plazo de seis años, irrevocable y no renovable, de forma similar al mecanismo utilizado para el nombramiento del Presidente de la Agencia Independiente de Responsabilidad Fiscal (AIReF).",
+     "apartado": "Cortar de raíz la corrupción › El mismo control para el político que para el ciudadano"
+    },
+    {
+     "id": "c-6573bd7082",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si el Gobierno incumple su obligación constitucional de presentar los Presupuestos Generales del Estado, se suspenderá el sueldo de todo el Gobierno hasta que se presenten.",
+     "apartado": "Devolver el poder al ciudadano › No habrá Gobierno sin presupuestos"
+    },
+    {
+     "id": "c-bd406997ad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El incumplimiento injustificado de la obligación constitucional de presentar presupuestos durante más de un año dará lugar al cese del Gobierno.",
+     "apartado": "Devolver el poder al ciudadano › No habrá Gobierno sin presupuestos"
+    },
+    {
+     "id": "c-d04788d0b3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las políticas y programas de gasto estarán sujetos a una evaluación posterior de su eficacia, impacto y coste.",
+     "apartado": "Devolver el poder al ciudadano › Menos promesas, más resultados"
+    },
+    {
+     "id": "c-eb63a0645e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los resultados serán públicos, accesibles online y se utilizarán para decidir la continuidad, modificación o eliminación de los programas evaluados.",
+     "apartado": "Devolver el poder al ciudadano › Menos promesas, más resultados"
+    },
+    {
+     "id": "c-1609da271b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cualquier ciudadano podrá consultar de forma sencilla y en un único Portal de Evaluación: los objetivos de cada Ministerio, los recursos presupuestados y efectivamente gastados, el grado de ejecución de cada programa, sus indicadores de cumplimiento, los resultados obtenidos y las evaluaciones independientes realizadas.",
+     "apartado": "Devolver el poder al ciudadano › Menos promesas, más resultados"
+    },
+    {
+     "id": "c-19f38e34b6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Plan Nacional de Barrios (Horizonte - 10 Años): las medidas de choque ganan tiempo para las familias de hoy, pero el déficit de viviendas para las familias de mañana solo se arregla construyendo. En paralelo a las medidas de urgencia, pondremos en marcha una política industrial de Estado para pasar de levantar promociones aisladas de cincuenta en cincuenta, a construir barrios integrales de mil en mil. Un compromiso a una década vista para aumentar masivamente la oferta de vivienda asequible protegida y recuperar la capacidad productiva del país.",
+     "apartado": "Alivio hoy. Solución para siempre: plan de choque en 2 fases › Fase 2 - Solución para siempre: un plan a 10 años"
+    },
+    {
+     "id": "c-c96f16976f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Equiparación Fiscal del Alquiler Turístico: frenaremos la fuga de viviendas residenciales hacia el mercado vacacional igualando las reglas del juego. Aplicaremos el IVA general del 10% a los alquileres turísticos de corta estancia (asimilándolos a la actividad hotelera), protegiendo el modelo de barrio.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Recargo para no residentes y competencia justa en vivienda turística"
+    },
+    {
+     "id": "c-3fe72601af",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para lograr impulsar la actividad productiva, garantizaremos una demanda pública estable durante una década, lo que permitirá a las empresas constructoras invertir en prefabricación, innovación tecnológica e industrialización de los procesos, y así multiplicar la productividad, abaratar costes y generar empleo de alta cualificación.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Construir barrios, no bloques de hormigón"
+    },
+    {
+     "id": "c-e3e105ced1",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "nuestros jóvenes no pueden terminar su educación obligatoria sin saber leer una nómina, entender una hipoteca o desconociendo cómo se financian los servicios públicos mediante los impuestos.",
+     "apartado": "Una educación para el siglo 21 › Educación Económica para la Vida"
+    },
+    {
+     "id": "c-f7a5790c38",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Incorporaremos una nueva materia obligatoria de Cultura Económica y Financiera en la ESO. Su currículo tendrá un enfoque práctico y se articulará en tres pilares esenciales: economía personal, economía social y economía profesional/del emprendimiento.",
+     "apartado": "Una educación para el siglo 21 › Educación Económica para la Vida"
+    },
+    {
+     "id": "c-bfc3eb1382",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Crearemos los Créditos de Retorno Empresarial, un sistema donde las PYMES acumularán saldo por cada hora de mentoría y tutoría certificada, canjeable por deducciones fiscales directas, formación para su propia plantilla, acceso a talleres públicos de FP o puntuación extra en la contratación pública.",
+     "apartado": "Apostar por la formación profesional más que nunca › Créditos de Retorno Empresarial - Premiar y Compensar a Quien Forma"
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "nombre": "Sanidad",
+   "definicion": "Sanidad pública, listas de espera, atención primaria, salud mental y adicciones.",
+   "citas": []
+  },
+  {
+   "tema": "educacion",
+   "nombre": "Educación",
+   "definicion": "Escuela, formación profesional, universidad y becas.",
+   "citas": [
+    {
+     "id": "c-1f38e28bbe",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La educación debe estar en el centro de todo. Es el principal motor de movilidad social, igualdad de oportunidades y progreso personal de cualquier sociedad: apostar por ser siempre nuestra mejor versión, formándonos desde la infancia hasta la edad adulta. Es la única vía para construir una sociedad próspera y con futuro.",
+     "apartado": "La educación en el centro"
+    },
+    {
+     "id": "c-ded11e6788",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "en la sociedad tecnológica hacia la que nos movemos, dominar la tecnología es tan vital para ser un ciudadano libre como lo fue aprender a leer y escribir el siglo pasado.",
+     "apartado": "Una educación para el siglo 21 › Incorporaremos la Tecnología como un Pilar Fundamental del Currículo Educativo"
+    },
+    {
+     "id": "c-5728730d4c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Buscaremos superar el error de limitarse a sustituir libros por pantallas, e incorporaremos el conocimiento tecnológico aplicado (fundamentos de IA, ciberseguridad, ética digital, pensamiento computacional, algoritmos y redes sociales) como una especialidad troncal y transversal en el currículo, manteniendo una convivencia adecuada entre lo analógico y lo digital.",
+     "apartado": "Una educación para el siglo 21 › Incorporaremos la Tecnología como un Pilar Fundamental del Currículo Educativo"
+    },
+    {
+     "id": "c-163f136084",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "para proteger a nuestros estudiantes de los riesgos y los sesgos de utilizar inteligencias artificiales genéricas sin control, garantizaremos un entorno de formación digital seguro.",
+     "apartado": "Una educación para el siglo 21 › Inteligencia Artificial Educativa"
+    },
+    {
+     "id": "c-dbe0111b54",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Desarrollaremos un modelo de lenguaje de Inteligencia Artificial propio de apoyo a la educación que fomente el pensamiento crítico, siguiendo el exitoso modelo educativo de Estonia (nº1 en PISA en Europa). Estará financiado y auditado por el Estado. Este sistema actuará como un tutor de refuerzo personalizado para cada estudiante, adaptándose a la diversidad del alumnado y garantizando su privacidad.",
+     "apartado": "Una educación para el siglo 21 › Inteligencia Artificial Educativa"
+    },
+    {
+     "id": "c-6a72ba6765",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "la tecnología no debe apagar nuestra capacidad de comunicación humana.",
+     "apartado": "Una educación para el siglo 21 › Saber Comunicar será una Prioridad Absoluta"
+    },
+    {
+     "id": "c-71ee58c22e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ante el retroceso de la comprensión y la expresión oral en las aulas, implementaremos un programa transversal a todas las asignaturas para enseñar a comunicar con seguridad. Saber estructurar ideas, argumentar procesos deductivos, debatir desde el respeto y hablar en público será una prioridad curricular, dotando a los estudiantes de la confianza necesaria para defender sus reflexiones en cualquier entorno personal o profesional.",
+     "apartado": "Una educación para el siglo 21 › Saber Comunicar será una Prioridad Absoluta"
+    },
+    {
+     "id": "c-e3e105ced1",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "nuestros jóvenes no pueden terminar su educación obligatoria sin saber leer una nómina, entender una hipoteca o desconociendo cómo se financian los servicios públicos mediante los impuestos.",
+     "apartado": "Una educación para el siglo 21 › Educación Económica para la Vida"
+    },
+    {
+     "id": "c-f7a5790c38",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Incorporaremos una nueva materia obligatoria de Cultura Económica y Financiera en la ESO. Su currículo tendrá un enfoque práctico y se articulará en tres pilares esenciales: economía personal, economía social y economía profesional/del emprendimiento.",
+     "apartado": "Una educación para el siglo 21 › Educación Económica para la Vida"
+    },
+    {
+     "id": "c-150d2605ba",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "estableceremos un Programa de Corresponsabilidad Educativa con representantes de Respeto Escolar entre profesores, alumnos y padres. Al inicio de cada curso escolar se acordarán compromisos claros y mutuos entre los docentes, los estudiantes y las familias.",
+     "apartado": "Una educación para el siglo 21 › Respeto, Corresponsabilidad y Convivencia Escolar"
+    },
+    {
+     "id": "c-eeb196127a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se implantará un Premio Nacional para aquellos centros que hayan destacado por su labor de fomento de la convivencia y se creará una Caja de Herramientas pública con las medidas que funcionen mejor cada año para que todos los centros puedan utilizar las mejores prácticas.",
+     "apartado": "Una educación para el siglo 21 › Respeto, Corresponsabilidad y Convivencia Escolar"
+    },
+    {
+     "id": "c-092c7eff24",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "proponemos que, al menos una vez al año, los negocios locales asuman el compromiso cívico de dedicar una jornada a entablar contacto directo con los jóvenes en etapa escolar mediante visitas, retos o microprácticas.",
+     "apartado": "Una educación para el siglo 21 › Aprendizaje Práctico en el Mundo Real"
+    },
+    {
+     "id": "c-ba9fa886f6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "pondremos en marcha un Plan Estatal Educativo para situar a España en el top 10 de países europeos en los tres ámbitos de PISA (matemáticas, comprensión lectora y ciencias) en un plazo máximo de 8 años.",
+     "apartado": "Recuperar todo el potencial educativo del país › Objetivo PISA - España al Top 10 Europeo"
+    },
+    {
+     "id": "c-51541c5ed9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para lograr una mejora inmediata en los alumnos, impulsaremos una remodelación que amplíe las horas dedicadas a las materias instrumentales.",
+     "apartado": "Recuperar todo el potencial educativo del país › Objetivo PISA - España al Top 10 Europeo"
+    },
+    {
+     "id": "c-f8989db337",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Junto con el profesorado, estableceremos metodologías avaladas por la ciencia cognitiva y la evidencia internacional: el refuerzo de la fonética, la lectura en voz alta, la escritura creativa y el fomento de la lectura de libros completos; el cálculo mental y la resolución lógica paso a paso en matemáticas; y la observación, la hipótesis y la experimentación directa para la comprensión de las ciencias.",
+     "apartado": "Recuperar todo el potencial educativo del país › Objetivo PISA - España al Top 10 Europeo"
+    },
+    {
+     "id": "c-76363cc4f9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "restableceremos las menciones y especializaciones disciplinares en el grado de Educación (Matemáticas, Lengua y Ciencias) y crearemos una nueva especialidad en Tecnología.",
+     "apartado": "Recuperar todo el potencial educativo del país › Nuevas Especialidades"
+    },
+    {
+     "id": "c-dd46ad1661",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Para facilitar la formación de los actuales docentes, impulsaremos planes de formación continua para que puedan acreditarse en estas nuevas especialidades.",
+     "apartado": "Recuperar todo el potencial educativo del país › Nuevas Especialidades"
+    },
+    {
+     "id": "c-638a947a97",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Para garantizar que todos los niños inicien su etapa escolar con la misma base de oportunidades, acabaremos con la visión asistencial de \"guardería\" para la conciliación y consolidaremos los 0-3 como la etapa pedagógica más decisiva.",
+     "apartado": "Recuperar todo el potencial educativo del país › Educación Infantil (0-3 años) como Primer Ascensor Social"
+    },
+    {
+     "id": "c-fc26f53f23",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Revalorizaremos de forma tangible a los educadores infantiles —dignificando su remuneración, revisando las ratios e incorporando progresivamente la \"pareja educativa\" de apoyo en el aula— e impulsaremos un nuevo plan de estimulación temprana enfocado en la riqueza del lenguaje, la psicomotricidad y la interacción cognitiva.",
+     "apartado": "Recuperar todo el potencial educativo del país › Educación Infantil (0-3 años) como Primer Ascensor Social"
+    },
+    {
+     "id": "c-c0aeed6cae",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "ningún estudiante ni docente puede rendir en aulas obsoletas o degradadas.",
+     "apartado": "Recuperar todo el potencial educativo del país › Plan de Renovación de Infraestructuras Educativas"
+    },
+    {
+     "id": "c-be7fa04366",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Lanzaremos un plan estatal extraordinario para la rehabilitación integral y modernización de colegios e institutos públicos, garantizando la eficiencia energética, la climatización adecuada frente a olas de calor o frío, la eliminación definitiva de barracones y la dotación de laboratorios, talleres y material tecnológico de calidad.",
+     "apartado": "Recuperar todo el potencial educativo del país › Plan de Renovación de Infraestructuras Educativas"
+    },
+    {
+     "id": "c-1c18b91dbe",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "evaluaremos periódicamente los conocimientos a nivel nacional para erradicar las brechas territoriales (no es aceptable que unas Comunidades Autónomas estén al nivel de Canadá y otras al nivel de Turquía).",
+     "apartado": "Recuperar todo el potencial educativo del país › Sistema de Medición para el Apoyo Educativo"
+    },
+    {
+     "id": "c-8ced7615ec",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se activará un programa estatal de apoyo y refuerzo para aquellas comunidades que caigan más de dos puntos por debajo de la media nacional.",
+     "apartado": "Recuperar todo el potencial educativo del país › Sistema de Medición para el Apoyo Educativo"
+    },
+    {
+     "id": "c-15556d08ca",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para contextualizar estos resultados adecuadamente, crearemos un Índice Socioeducativo que medirá el nivel socioeconómico de las familias, el número de estudiantes con necesidades específicas y los indicadores de convivencia, determinando de forma objetiva la financiación y los recursos extra que le corresponden a cada centro.",
+     "apartado": "Recuperar todo el potencial educativo del país › Sistema de Medición para el Apoyo Educativo"
+    },
+    {
+     "id": "c-2610b059cf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Utilizando los datos del Índice Socioeducativo, asignaremos a los centros Equipos Permanentes de Refuerzo (educadores sociales, orientadores psicopedagógicos y profesores de lenguas extranjeras).",
+     "apartado": "Recuperar todo el potencial educativo del país › Escudos de Apoyo Docente"
+    },
+    {
+     "id": "c-fb5c1a02c1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Promoveremos un modelo de \"docencia compartida\" intermitente, donde el docente cuente con apoyo directo para gestionar los casos de complejidad y mantener el ritmo académico del resto del grupo.",
+     "apartado": "Recuperar todo el potencial educativo del país › Escudos de Apoyo Docente"
+    },
+    {
+     "id": "c-90bbb1ae65",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "conscientes de la frustración y la sensación de estancamiento que sufren los docentes en un sistema rígido donde la única forma de avanzar profesionalmente es acumular antigüedad, abriremos un proceso de escucha activa y colaboración directa con los profesores para co-diseñar un nuevo modelo de carrera profesional.",
+     "apartado": "Fortalecer el prestigio de la docencia › Reconocer el Mérito y el Esfuerzo"
+    },
+    {
+     "id": "c-6a363aa49d",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Queremos construir juntos, desde la experiencia real de las aulas, un sistema de progresión abierto para la enseñanza en el siglo 21, que deje atrás el modelo exclusivo de antigüedad y permita por fin reconocer, valorar y recompensar el esfuerzo y la vocación de los docentes.",
+     "apartado": "Fortalecer el prestigio de la docencia › Reconocer el Mérito y el Esfuerzo"
+    },
+    {
+     "id": "c-788d4dcee3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "para poner en valor y blindar la exigencia de esta vocación como se merece, estableceremos evaluaciones específicas de ingreso para acceder a los grados universitarios de enseñanza. Se medirá la competencia comunicativa, la comprensión lectora, la expresión escrita y el perfil vocacional del aspirante, garantizando que quien quiera dedicarse a la enseñanza siempre posea una base humana y académica excelente.",
+     "apartado": "Fortalecer el prestigio de la docencia › Pruebas de Acceso a las Facultades de Educación"
+    },
+    {
+     "id": "c-f4d57fa9ee",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "transformaremos la preparación docente mediante un sistema inspirado en el modelo sanitario. Implantaremos el MIR Educativo: dos años de formación práctica remunerada e inmersión total en los colegios e institutos.",
+     "apartado": "Fortalecer el prestigio de la docencia › MIR Educativo"
+    },
+    {
+     "id": "c-f80216e989",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Nadie conoce mejor la realidad del aula que quienes imparten clase en ella cada día, por lo que esta etapa estará guiada y supervisada por nuestros actuales profesores. Ellos actuarán como mentores de las nuevas generaciones, transmitiendo su experiencia vital, respaldando a los aspirantes y garantizando una evaluación continua y de calidad sobre el terreno.",
+     "apartado": "Fortalecer el prestigio de la docencia › MIR Educativo"
+    },
+    {
+     "id": "c-e9ae965407",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "profesionalizaremos la figura del director para convertirlo en un verdadero líder pedagógico con formación específica y remuneración acorde a su responsabilidad.",
+     "apartado": "Fortalecer el prestigio de la docencia › Profesionalizar y Respaldar la Dirección Educativa"
+    },
+    {
+     "id": "c-e3cf8e689e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Asumir la dirección de un centro no puede significar estar solo frente a los problemas diarios; por ello, garantizaremos un apoyo institucional y administrativo, dotando a los equipos directivos del respaldo necesario para que puedan centrarse en lo verdaderamente importante: impulsar el proyecto educativo y cuidar de su comunidad escolar.",
+     "apartado": "Fortalecer el prestigio de la docencia › Profesionalizar y Respaldar la Dirección Educativa"
+    },
+    {
+     "id": "c-a6feb1e58f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "romperemos la rigidez de los planes de estudio para adaptarlos a una realidad laboral en la que las fronteras entre disciplinas es cada vez más difusa y los conocimientos de distintas áreas se combinan constantemente.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Grados Flexibles e Interuniversitarios"
+    },
+    {
+     "id": "c-a16d850472",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Implementaremos un primer curso optativo común por ramas de conocimiento que evite el abandono ante dudas vocacionales.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Grados Flexibles e Interuniversitarios"
+    },
+    {
+     "id": "c-81f9fb4913",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los grados permitirán combinar microcredenciales, menciones flexibles e itinerarios con otras universidades.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Grados Flexibles e Interuniversitarios"
+    },
+    {
+     "id": "c-ab3a1fd54a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "siguiendo el camino de otros países, fomentaremos la experiencia práctica en todas las etapas de la formación universitaria, acercando la universidad al mundo profesional para que los jóvenes obtengan no solo formación académica, sino también para la empleabilidad.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Aprendizaje Práctico"
+    },
+    {
+     "id": "c-7c27719d04",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Eliminaremos las trabas burocráticas y laborales que actualmente dificultan el acceso a prácticas.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Aprendizaje Práctico"
+    },
+    {
+     "id": "c-9e5fc3f907",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Diseñaremos un sistema de incentivos para que las empresas ofrezcan oportunidades de aprendizaje y experiencia real a los estudiantes, con garantías de calidad, remuneración, supervisión y protección frente a abusos.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Aprendizaje Práctico"
+    },
+    {
+     "id": "c-783beb9fa1",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Garantizaremos que todos los títulos incorporen prácticas tutorizadas y conectadas con el mundo profesional.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Aprendizaje Práctico"
+    },
+    {
+     "id": "c-9efd440c60",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "apoyaremos los acuerdos entre universidades públicas en la apertura de campus internacionales (especialmente en países de habla hispana) para multiplicar las opciones de movilidad de nuestros estudiantes y proyectar nuestro talento académico e influencia a nivel internacional.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Expansión Internacional"
+    },
+    {
+     "id": "c-7c5bbbb1e9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Garantizaremos el pago de las becas al inicio del curso unificando los calendarios académicos antes del verano, evaluando la renta fiscal de dos años antes para agilizar trámites y asignando la revisión económica al Ministerio de Hacienda, liberando así a las universidades de esta carga.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Becas Que Lleguen a Tiempo en Septiembre"
+    },
+    {
+     "id": "c-a8839ffd2f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para orientar la elección de los estudiantes y sus familias con datos reales, crearemos el primer Comparador Público de Titulaciones: una plataforma estatal que mostrará de forma transparente, grado por grado y universidad por universidad, el nivel de satisfacción estudiantil, las tasas de inserción laboral a 1, 3 y 5 años y los salarios medios de sus egresados.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Comparador Público de Titulaciones"
+    },
+    {
+     "id": "c-22a77cb25b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "abriremos la contratación de profesorado a estándares internacionales y tribunales externos independientes para retener y atraer a los mejores investigadores del mundo.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Talento Docente y Sexenio de Innovación Docente"
+    },
+    {
+     "id": "c-9c5e7fd036",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Junto a la investigación, fomentaremos el prestigio de la enseñanza creando un Sexenio específico de Innovación Docente con impacto salarial y de promoción para premiar a quienes destacan por su excelencia pedagógica y mentoría.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Talento Docente y Sexenio de Innovación Docente"
+    },
+    {
+     "id": "c-0b55210962",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "También facilitaremos la contratación ágil de profesores asociados procedentes de la sociedad civil y del tejido productivo.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Talento Docente y Sexenio de Innovación Docente"
+    },
+    {
+     "id": "c-ed84db9813",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "atajaremos la precariedad y la excesiva rotación de plantillas en la FP, que en determinados centros supera el 80% anual.",
+     "apartado": "Apostar por la formación profesional más que nunca › Atracción y Estabilidad del Talento Docente en FP"
+    },
+    {
+     "id": "c-13227d57cb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reformaremos el acceso a las bolsas docentes dando prioridad absoluta a la experiencia técnica en el sector productivo real, con oposiciones donde la prueba práctica tenga mayor peso que la teórica.",
+     "apartado": "Apostar por la formación profesional más que nunca › Atracción y Estabilidad del Talento Docente en FP"
+    },
+    {
+     "id": "c-284567a481",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para evitar la fuga de estos profesionales a la empresa privada, crearemos un complemento salarial específico que retenga el talento en especialidades críticas (robótica, informática, automoción o mantenimiento industrial), indexado a los sueldos del mercado.",
+     "apartado": "Apostar por la formación profesional más que nunca › Atracción y Estabilidad del Talento Docente en FP"
+    },
+    {
+     "id": "c-b2261d256f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "reformaremos el calendario de la FP para eliminar la obligatoriedad de las prácticas en primer curso y trasladarlas por defecto al segundo curso, condicionando legalmente el acceso a la empresa a que el alumno haya asimilado y demostrado todos los conocimientos exigidos.",
+     "apartado": "Apostar por la formación profesional más que nunca › Flexibilización de la FP y Tutor Compartido para las PYMES"
+    },
+    {
+     "id": "c-1bc6d71d06",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Además, para adaptar el modelo a la realidad de las PYMEs españolas, crearemos la figura del Tutor Compartido Sectorial, financiado por la administración para apoyar a las pequeñas empresas que no pueden tutorizar por sí solas.",
+     "apartado": "Apostar por la formación profesional más que nunca › Flexibilización de la FP y Tutor Compartido para las PYMES"
+    },
+    {
+     "id": "c-c416f2a695",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "reconoceremos la función social de las PYMES y autónomos que abren sus puertas al talento joven en un entorno donde la tecnología transforma rápidamente las tareas de los perfiles júnior.",
+     "apartado": "Apostar por la formación profesional más que nunca › Créditos de Retorno Empresarial - Premiar y Compensar a Quien Forma"
+    },
+    {
+     "id": "c-bfc3eb1382",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Crearemos los Créditos de Retorno Empresarial, un sistema donde las PYMES acumularán saldo por cada hora de mentoría y tutoría certificada, canjeable por deducciones fiscales directas, formación para su propia plantilla, acceso a talleres públicos de FP o puntuación extra en la contratación pública.",
+     "apartado": "Apostar por la formación profesional más que nunca › Créditos de Retorno Empresarial - Premiar y Compensar a Quien Forma"
+    },
+    {
+     "id": "c-108c764c56",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "implantaremos un modelo de presupuestación plurianual —revisable cada tres años— que fije la inversión en plazas, infraestructuras, materiales y profesorado en función de tres ejes estratégicos de demanda: el interés del alumnado, las necesidades reales de contratación del tejido empresarial y los sectores estratégicos nacionales (acabando definitivamente con las listas de espera en titulaciones con pleno empleo).",
+     "apartado": "Apostar por la formación profesional más que nunca › Financiación Plurianual Estratégica para las FP"
+    },
+    {
+     "id": "c-216003acf8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Integraremos el Bono Cultural Joven y el Verano Joven en una Hucha de Formación para Jóvenes, dirigida a todas las personas que cumplan 18 años en España. Los 300 millones de euros anuales actualmente destinados a ambas iniciativas se integrarán en una cuenta digital individual de aproximadamente 500 euros por joven, utilizable en matrículas universitarias o de formación profesional, formación cultural, certificados profesionales, idiomas, formación tecnológica, oposiciones, actividades artísticas y materiales de estudio.",
+     "apartado": "Hucha de formación para jóvenes"
+    },
+    {
+     "id": "c-94c905b87e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Evaluaremos también la ampliación para todas las personas residentes en España de entre 18 y 30 años.",
+     "apartado": "Hucha de formación para jóvenes"
+    }
+   ]
+  },
+  {
+   "tema": "familias-y-cuidados",
+   "nombre": "Familias y servicios sociales",
+   "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
+   "citas": [
+    {
+     "id": "c-86707deb99",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y también será la Administración —y no el particular— quien asuma el realojo o el coste del alquiler de las personas vulnerables.",
+     "apartado": "Alivio hoy. Solución para siempre: plan de choque en 2 fases › Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+    },
+    {
+     "id": "c-7c3dc600c4",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Garantía Pública de Alquiler: la política social corresponde a la Administración, no a los ciudadanos particulares. Crearemos el Servicio Social de Garantía de Arrendamientos, que asegurará el cobro íntegro e ininterrumpido del alquiler al propietario en caso de que un inquilino sea declarado vulnerable y la Administración competente no disponga de una alternativa habitacional inmediata.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "nombre": "Inmigración",
+   "definicion": "Entrada y control de fronteras, regularización, integración, asilo, nacionalidad y emigración.",
+   "citas": []
+  },
+  {
+   "tema": "seguridad-y-justicia",
+   "nombre": "Seguridad y justicia",
+   "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
+   "citas": [
+    {
+     "id": "c-20eb56934d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se tipificará el delito de enchufismo reformando y ampliando el artículo 405 del Código Penal y se inhabilitará por ley a todos los políticos que hagan nombramientos sin respetar los principios de mérito y capacidad.",
+     "apartado": "No más redes clientelares › Fuera cargos de carnet y delito de enchufismo"
+    },
+    {
+     "id": "c-ada0ff91bf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se crearán juzgados especializados en corrupción, replicando el modelo organizativo de los juzgados de violencia de género. Serán dotados de suficientes medios de personal y tecnológicos.",
+     "apartado": "Cortar de raíz la corrupción › Nuevos juzgados especializados en corrupción"
+    },
+    {
+     "id": "c-3919e41de7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Para agilizar los juicios contra la corrupción, se hará una revisión de las reglas procesales eliminando toda dilación indebida.",
+     "apartado": "Cortar de raíz la corrupción › Nuevos juzgados especializados en corrupción"
+    },
+    {
+     "id": "c-1fa2eba885",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se creará un órgano judicial especializado encargado de revisar cada dos meses todos los procedimientos impugnados por las partes para eliminar defectos procedimentales, evitando anulaciones futuras por defectos de orden menor.",
+     "apartado": "Cortar de raíz la corrupción › Nuevos juzgados especializados en corrupción"
+    },
+    {
+     "id": "c-14986cb45d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para evitar influencias indebidas en los tribunales de justicia, los casos de corrupción de políticos en una Comunidad Autónoma serán juzgados por el tribunal correspondiente en una Comunidad Autónoma adyacente.",
+     "apartado": "Cortar de raíz la corrupción › Nuevos juzgados especializados en corrupción"
+    },
+    {
+     "id": "c-6d75150b37",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se doblarán los recursos de la Fiscalía Anticorrupción para investigar delitos graves de corrupción, incluyendo equipos multidisciplinares de expertos en urbanismo, contratación pública, arquitectos, ingenieros, auditores forenses y analistas de datos.",
+     "apartado": "Cortar de raíz la corrupción › Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+    },
+    {
+     "id": "c-1f9c3b665c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La lucha contra la corrupción se financiará con el dinero de los corruptos. El 100% de los fondos, bienes y activos financieros recuperados mediante sentencias por delitos de corrupción y sanciones de la Oficina Anticorrupción se destinará directamente a la dotación de medios para los organismos de lucha contra la corrupción.",
+     "apartado": "Cortar de raíz la corrupción › Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+    },
+    {
+     "id": "c-eba829d29f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Camuflar la corrupción será delito: todo cargo público que, conociendo que se ha incurrido en corrupción por parte de terceros, no la denuncie inmediatamente, tendrá responsabilidad penal.",
+     "apartado": "Cortar de raíz la corrupción › Los corruptos no tendrán refugio"
+    },
+    {
+     "id": "c-89cc6277e8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Igualmente, se tipificará la responsabilidad penal de todo cargo público que sabiendo, o habiendo podido razonablemente saber, que ha habido manipulación de la contratación en las decisiones o adjudicación de contratos en las que participe (o bajo su responsabilidad), no la haya denunciado inmediatamente.",
+     "apartado": "Cortar de raíz la corrupción › Los corruptos no tendrán refugio"
+    },
+    {
+     "id": "c-3fce33e348",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los partidos responderán siempre -civilmente y de forma subsidiaria- por los delitos de corrupción cometidos por sus dirigentes en el ejercicio de funciones públicas o partidarias, excepto cuando se pueda probar que el partido tenía los estándares más altos de prevención de la corrupción, auditados independientemente de forma anual.",
+     "apartado": "Cortar de raíz la corrupción › Los partidos políticos no saldrán impunes"
+    },
+    {
+     "id": "c-344a789edc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los delitos relacionados con la corrupción no prescribirán.",
+     "apartado": "Cortar de raíz la corrupción › Quien robe a lo público, no volverá nunca a lo público"
+    },
+    {
+     "id": "c-d3573c41d6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cualquier político condenado por sentencia firme por delitos de corrupción, malversación, tráfico de influencias o desviación de fondos públicos será inelegible e inhabilitado de por vida para cualquier cargo público.",
+     "apartado": "Cortar de raíz la corrupción › Quien robe a lo público, no volverá nunca a lo público"
+    },
+    {
+     "id": "c-54e4615fbc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se cortará de raíz la politización del Consejo General del Poder Judicial (CGPJ): los vocales judiciales se elegirán por los jueces, sin intervención alguna de las asociaciones judiciales, como requiere el Consejo de Europa.",
+     "apartado": "No más repartos de sillones › Un Consejo General del Poder Judicial despolitizado"
+    },
+    {
+     "id": "c-05702efd2a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los vocales no judiciales tendrán que comparecer públicamente en el Congreso antes de ser votados.",
+     "apartado": "No más repartos de sillones › Un Consejo General del Poder Judicial despolitizado"
+    },
+    {
+     "id": "c-48c0bfe126",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "No se podrá nombrar a ningún vocal no judicial que tenga un conflicto de interés directo o indirecto.",
+     "apartado": "No más repartos de sillones › Un Consejo General del Poder Judicial despolitizado"
+    },
+    {
+     "id": "c-99a2daba6f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se garantizará la independencia de la Fiscalía modificando el sistema de elección del Fiscal General del Estado: el Congreso (por mayoría de 3/5) elegirá una terna y el Gobierno elegirá al Fiscal General entre esa terna, previo informe del CGPJ.",
+     "apartado": "No más repartos de sillones › Una Fiscalía independiente"
+    },
+    {
+     "id": "c-65fe7213eb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se revisará el periodo del mandato del Fiscal General para que no coincida con el mandato electoral del Gobierno.",
+     "apartado": "No más repartos de sillones › Una Fiscalía independiente"
+    },
+    {
+     "id": "c-03ee74dd4b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los fiscales y jueces no podrán haber ejercido ningún cargo político en los últimos 20 años.",
+     "apartado": "No más repartos de sillones › Unos organismos de control independientes"
+    },
+    {
+     "id": "c-a67e86a983",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y los miembros del Consejo General del Poder Judicial, el Tribunal Constitucional, el Tribunal Supremo, el Fiscal General del Estado y el Fiscal Jefe Anticorrupción no podrán haber ejercido ningún cargo político.",
+     "apartado": "No más repartos de sillones › Unos organismos de control independientes"
+    },
+    {
+     "id": "c-7224758681",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ninguna democracia europea consiente semejante red de privilegios procesales que quiebra la igualdad ante la justicia.",
+     "apartado": "Punto y final a los aforamientos"
+    },
+    {
+     "id": "c-6261b56c10",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se eliminarán todos los aforamientos que no estén expresamente contemplados en la Constitución de forma inmediata por vía de reforma de la Ley Orgánica del Poder Judicial (art 56, 57 y 73) y normativas conexas.",
+     "apartado": "Punto y final a los aforamientos › Todos fuera"
+    },
+    {
+     "id": "c-b42c1d2731",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se hará una reforma quirúrgica de la Constitución para: - eliminar todos los aforamientos de Diputados y Senadores (art 71)",
+     "apartado": "Punto y final a los aforamientos › Todos fuera"
+    },
+    {
+     "id": "c-b5e9168d61",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "limitar el aforamiento de los miembros de Gobierno (art. 102) exclusivamente para las acciones penales, en el ejercicio de las funciones propias del cargo y sin carácter retroactivo.",
+     "apartado": "Punto y final a los aforamientos › Todos fuera"
+    },
+    {
+     "id": "c-82b9c70af3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Justicia Especializada en 90 Días y Fin a la Inquiokupación: la lentitud judicial es el mayor enemigo del alquiler. Crearemos un Servicio de Mediación de Arrendamientos gratuito y vinculante (resolución máxima en 30 días) y Juzgados Especializados de Arrendamientos que garanticen una resolución firme en un plazo adicional de 60 días.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+    },
+    {
+     "id": "c-bddd28d187",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En paralelo, modificaremos el Código Penal para tipificar expresamente como delito de estafa la firma de un contrato con intención premeditada de impago y el subarriendo ilegal.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Pacto de Reconciliación del Alquiler: limitar precios condicionado a proteger la propiedad"
+    },
+    {
+     "id": "c-76430964cd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Aprobaremos un régimen de \"Burocracia Exprés\" con silencio administrativo positivo de 3 meses para autorizaciones sectoriales (aguas, carreteras, medio ambiente) y reduciremos los plazos de litigiosidad en los tribunales para evitar que proyectos vitales queden paralizados durante años.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Fin de la parálisis urbanística y desbloqueo de suelo"
+    }
+   ]
+  },
+  {
+   "tema": "democracia-e-instituciones",
+   "nombre": "Democracia e instituciones",
+   "definicion": "Funcionamiento de las instituciones, corrupción, transparencia, sistema electoral, administración pública y medios de comunicación.",
+   "citas": [
+    {
+     "id": "c-2e067126bd",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La democracia es el mejor sistema para garantizar la libertad, los derechos y la prosperidad. Precisamente por eso es necesario protegerla, modernizarla y fortalecerla.",
+     "apartado": "España Limpia"
+    },
+    {
+     "id": "c-51d15fc2db",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Creemos en una política basada en el servicio público, el mérito, la ética, la rendición de cuentas, la búsqueda de consensos, y la orientación a resultados.",
+     "apartado": "España Limpia"
+    },
+    {
+     "id": "c-14947b4aa6",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Para poder avanzar es imperativo hacer una limpieza política integral que vaya mucho más allá de un simple cambio de caras. Y que permita liberar los muchísimos recursos que los partidos políticos dedican a sí mismos y a los suyos para ponerlos al servicio de la ciudadanía.",
+     "apartado": "España Limpia"
+    },
+    {
+     "id": "c-231438b8a0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Cortando el clientelismo con despidos y normas estrictas de mérito y capacidad.",
+     "apartado": "España Limpia"
+    },
+    {
+     "id": "c-7304b29314",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Atajando la corrupción política con medidas tajantes.",
+     "apartado": "España Limpia"
+    },
+    {
+     "id": "c-937e426f82",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Con instituciones despolitizadas y organismos de control efectivos y rigurosamente independientes.",
+     "apartado": "España Limpia"
+    },
+    {
+     "id": "c-b994f578b3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Y devolviendo el control a la ciudadanía.",
+     "apartado": "España Limpia"
+    },
+    {
+     "id": "c-4dd92f2612",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La Administración pública no es propiedad de los partidos políticos: nos pertenece a los ciudadanos.",
+     "apartado": "No más redes clientelares"
+    },
+    {
+     "id": "c-b4011d9bc4",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Es hora de limpiar radicalmente nuestras instituciones de todas las redes clientelares.",
+     "apartado": "No más redes clientelares"
+    },
+    {
+     "id": "c-750eabe91d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Reducción del 90% de los asesores: los ministros/consejeros no podrán tener más de 4 asesores, los vicepresidentes no más de 7 y el gabinete del Presidente no más de 20.",
+     "apartado": "No más redes clientelares › Punto y final al tsunami de asesores"
+    },
+    {
+     "id": "c-f7ef57e16c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El Presidente del Gobierno podrá nombrar asesores temporales para proyectos o políticas específicas, pero su nombramiento requerirá un proceso competitivo completamente abierto y meritocrático.",
+     "apartado": "No más redes clientelares › Punto y final al tsunami de asesores"
+    },
+    {
+     "id": "c-5f4566fbc0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los asesores no tendrán chóferes, ni ninguna otra prebenda pública aparte de su sueldo.",
+     "apartado": "No más redes clientelares › Punto y final al tsunami de asesores"
+    },
+    {
+     "id": "c-d552821aaf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Será obligatorio publicar los nombres, funciones, currículos y salarios de todos los asesores en todas las administraciones para asegurar un control ciudadano permanente.",
+     "apartado": "No más redes clientelares › Punto y final al tsunami de asesores"
+    },
+    {
+     "id": "c-c201138db2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Los cargos políticos responderán por las acciones de su gabinete.",
+     "apartado": "No más redes clientelares › Punto y final al tsunami de asesores"
+    },
+    {
+     "id": "c-bbbcf05a54",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Desde el minuto cero, todos los cargos en la Administración y empresas públicas, sin excepciones, serán asignados por mérito y capacidad y con procedimientos abiertos, justificados por razones estrictas de competencia profesional.",
+     "apartado": "No más redes clientelares › Fuera cargos de carnet y delito de enchufismo"
+    },
+    {
+     "id": "c-20eb56934d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se tipificará el delito de enchufismo reformando y ampliando el artículo 405 del Código Penal y se inhabilitará por ley a todos los políticos que hagan nombramientos sin respetar los principios de mérito y capacidad.",
+     "apartado": "No más redes clientelares › Fuera cargos de carnet y delito de enchufismo"
+    },
+    {
+     "id": "c-489d19b405",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El único cargo en el que se permitirá la libre designación será el de Secretario de Estado.",
+     "apartado": "No más redes clientelares › Fuera cargos de carnet y delito de enchufismo"
+    },
+    {
+     "id": "c-050aefb691",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para los cargos de carnet existentes: en un plazo de 6 meses se hará una inspección pública integral de todos los nombramientos existentes de libre designación en las administraciones y empresas públicas, con criterios objetivos y transparentes, por un Tribunal Administrativo Independiente",
+     "apartado": "No más redes clientelares › Fuera cargos de carnet y delito de enchufismo"
+    },
+    {
+     "id": "c-f595c09f06",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se publicará la lista y coste de todos los nombramientos sin formación y experiencia específica para el cargo.",
+     "apartado": "No más redes clientelares › Fuera cargos de carnet y delito de enchufismo"
+    },
+    {
+     "id": "c-9725fc1828",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se iniciarán trámites de despido de todos los nombramientos de libre designación que no cumplan esos criterios dentro del respeto a la legalidad.",
+     "apartado": "No más redes clientelares › Fuera cargos de carnet y delito de enchufismo"
+    },
+    {
+     "id": "c-ebbd57d0d2",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Todo el dinero recuperado por esta vía se dedicará a vivienda.",
+     "apartado": "No más redes clientelares › Fuera cargos de carnet y delito de enchufismo"
+    },
+    {
+     "id": "c-cfcc4c3f0c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Estará terminantemente prohibido que los parlamentarios, cargos públicos y asesores paguen un porcentaje de su sueldo a los partidos políticos.",
+     "apartado": "No más redes clientelares › No más impuestos revolucionarios para los partidos políticos"
+    },
+    {
+     "id": "c-b8c87ed606",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Las comisiones, sobrecostes, amaños y corruptelas nos roban el futuro y bienestar a todos los españoles.",
+     "apartado": "Cortar de raíz la corrupción"
+    },
+    {
+     "id": "c-ada0ff91bf",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se crearán juzgados especializados en corrupción, replicando el modelo organizativo de los juzgados de violencia de género. Serán dotados de suficientes medios de personal y tecnológicos.",
+     "apartado": "Cortar de raíz la corrupción › Nuevos juzgados especializados en corrupción"
+    },
+    {
+     "id": "c-3919e41de7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Para agilizar los juicios contra la corrupción, se hará una revisión de las reglas procesales eliminando toda dilación indebida.",
+     "apartado": "Cortar de raíz la corrupción › Nuevos juzgados especializados en corrupción"
+    },
+    {
+     "id": "c-1fa2eba885",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se creará un órgano judicial especializado encargado de revisar cada dos meses todos los procedimientos impugnados por las partes para eliminar defectos procedimentales, evitando anulaciones futuras por defectos de orden menor.",
+     "apartado": "Cortar de raíz la corrupción › Nuevos juzgados especializados en corrupción"
+    },
+    {
+     "id": "c-14986cb45d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para evitar influencias indebidas en los tribunales de justicia, los casos de corrupción de políticos en una Comunidad Autónoma serán juzgados por el tribunal correspondiente en una Comunidad Autónoma adyacente.",
+     "apartado": "Cortar de raíz la corrupción › Nuevos juzgados especializados en corrupción"
+    },
+    {
+     "id": "c-ad35a9fdaa",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La Intervención General de la Administración del Estado (IGAE) —el órgano estatal encargado de auditar y controlar internamente las cuentas y el gasto público— contará con los mismos medios tecnológicos, capacidad de cruce masivo de datos e inteligencia artificial que la Agencia Tributaria.",
+     "apartado": "Cortar de raíz la corrupción › El mismo control para el político que para el ciudadano"
+    },
+    {
+     "id": "c-9f695a4395",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los funcionarios de la IGAE tendrán los mismos pluses de productividad vinculados a sus objetivos de control y resultados que tienen los funcionarios de la Agencia Tributaria.",
+     "apartado": "Cortar de raíz la corrupción › El mismo control para el político que para el ciudadano"
+    },
+    {
+     "id": "c-e5feace2c3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se dotará a los interventores de independencia presupuestaria y herramientas de auditoría en tiempo real para fiscalizar cada euro gestionado por los cargos públicos con el mismo nivel de exigencia y trazabilidad con el que Hacienda supervisa las cuentas de los ciudadanos.",
+     "apartado": "Cortar de raíz la corrupción › El mismo control para el político que para el ciudadano"
+    },
+    {
+     "id": "c-db5eb14007",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para reforzar la independencia de la IGAE del ciclo político, el Interventor General del Estado será nombrado por un plazo de seis años, irrevocable y no renovable, de forma similar al mecanismo utilizado para el nombramiento del Presidente de la Agencia Independiente de Responsabilidad Fiscal (AIReF).",
+     "apartado": "Cortar de raíz la corrupción › El mismo control para el político que para el ciudadano"
+    },
+    {
+     "id": "c-6d75150b37",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se doblarán los recursos de la Fiscalía Anticorrupción para investigar delitos graves de corrupción, incluyendo equipos multidisciplinares de expertos en urbanismo, contratación pública, arquitectos, ingenieros, auditores forenses y analistas de datos.",
+     "apartado": "Cortar de raíz la corrupción › Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+    },
+    {
+     "id": "c-7f3abd8430",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se apoyará a la Fiscalía Anticorrupción con una Oficina Anticorrupción que se centrará en la prevención de la corrupción con poder de inspección de los mecanismos anticorrupción de empresas y partidos políticos. Tendrá poder sancionador de hasta el 10% del volumen total de negocios de la empresa sancionada por corrupción y del 10% del volumen total de ingresos del partido político sancionado.",
+     "apartado": "Cortar de raíz la corrupción › Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+    },
+    {
+     "id": "c-1f9c3b665c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La lucha contra la corrupción se financiará con el dinero de los corruptos. El 100% de los fondos, bienes y activos financieros recuperados mediante sentencias por delitos de corrupción y sanciones de la Oficina Anticorrupción se destinará directamente a la dotación de medios para los organismos de lucha contra la corrupción.",
+     "apartado": "Cortar de raíz la corrupción › Fiscalía y Oficina Anticorrupción, más fuertes que nunca"
+    },
+    {
+     "id": "c-eba829d29f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Camuflar la corrupción será delito: todo cargo público que, conociendo que se ha incurrido en corrupción por parte de terceros, no la denuncie inmediatamente, tendrá responsabilidad penal.",
+     "apartado": "Cortar de raíz la corrupción › Los corruptos no tendrán refugio"
+    },
+    {
+     "id": "c-89cc6277e8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Igualmente, se tipificará la responsabilidad penal de todo cargo público que sabiendo, o habiendo podido razonablemente saber, que ha habido manipulación de la contratación en las decisiones o adjudicación de contratos en las que participe (o bajo su responsabilidad), no la haya denunciado inmediatamente.",
+     "apartado": "Cortar de raíz la corrupción › Los corruptos no tendrán refugio"
+    },
+    {
+     "id": "c-d074e45f8c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se implantará un sistema integral de control de toda la contratación pública basado en IA que garantice la objetividad, la trazabilidad y la detección de irregularidades en tiempo real.",
+     "apartado": "Cortar de raíz la corrupción › Los corruptos no tendrán refugio"
+    },
+    {
+     "id": "c-07ec9bae52",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Todos los contratos, incluidos los contratos menores, estarán sujetos a supervisión automática, publicación accesible y revisión independiente.",
+     "apartado": "Cortar de raíz la corrupción › Los corruptos no tendrán refugio"
+    },
+    {
+     "id": "c-3fce33e348",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los partidos responderán siempre -civilmente y de forma subsidiaria- por los delitos de corrupción cometidos por sus dirigentes en el ejercicio de funciones públicas o partidarias, excepto cuando se pueda probar que el partido tenía los estándares más altos de prevención de la corrupción, auditados independientemente de forma anual.",
+     "apartado": "Cortar de raíz la corrupción › Los partidos políticos no saldrán impunes"
+    },
+    {
+     "id": "c-5264ff5dcd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se suspenderá la financiación pública de un partido político cuando el partido o sus principales dirigentes (presidente, secretario general, tesorero o equivalentes) estén formalmente investigados por delitos de corrupción, malversación o financiación ilegal. Solo se reactivará si el partido implanta mecanismos de cumplimiento verificados por el Tribunal de Cuentas de forma pública y transparente.",
+     "apartado": "Cortar de raíz la corrupción › Los partidos políticos no saldrán impunes"
+    },
+    {
+     "id": "c-344a789edc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los delitos relacionados con la corrupción no prescribirán.",
+     "apartado": "Cortar de raíz la corrupción › Quien robe a lo público, no volverá nunca a lo público"
+    },
+    {
+     "id": "c-d3573c41d6",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cualquier político condenado por sentencia firme por delitos de corrupción, malversación, tráfico de influencias o desviación de fondos públicos será inelegible e inhabilitado de por vida para cualquier cargo público.",
+     "apartado": "Cortar de raíz la corrupción › Quien robe a lo público, no volverá nunca a lo público"
+    },
+    {
+     "id": "c-d09fb8b52f",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "En la democracia del siglo 21 solo caben instituciones independientes, meritocráticas e inalcanzables para la injerencia partidista.",
+     "apartado": "No más repartos de sillones"
+    },
+    {
+     "id": "c-54e4615fbc",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se cortará de raíz la politización del Consejo General del Poder Judicial (CGPJ): los vocales judiciales se elegirán por los jueces, sin intervención alguna de las asociaciones judiciales, como requiere el Consejo de Europa.",
+     "apartado": "No más repartos de sillones › Un Consejo General del Poder Judicial despolitizado"
+    },
+    {
+     "id": "c-05702efd2a",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los vocales no judiciales tendrán que comparecer públicamente en el Congreso antes de ser votados.",
+     "apartado": "No más repartos de sillones › Un Consejo General del Poder Judicial despolitizado"
+    },
+    {
+     "id": "c-48c0bfe126",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "No se podrá nombrar a ningún vocal no judicial que tenga un conflicto de interés directo o indirecto.",
+     "apartado": "No más repartos de sillones › Un Consejo General del Poder Judicial despolitizado"
+    },
+    {
+     "id": "c-99a2daba6f",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se garantizará la independencia de la Fiscalía modificando el sistema de elección del Fiscal General del Estado: el Congreso (por mayoría de 3/5) elegirá una terna y el Gobierno elegirá al Fiscal General entre esa terna, previo informe del CGPJ.",
+     "apartado": "No más repartos de sillones › Una Fiscalía independiente"
+    },
+    {
+     "id": "c-65fe7213eb",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se revisará el periodo del mandato del Fiscal General para que no coincida con el mandato electoral del Gobierno.",
+     "apartado": "No más repartos de sillones › Una Fiscalía independiente"
+    },
+    {
+     "id": "c-6ea9300b81",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Todos los representantes de todos los organismos independientes se nombrarán siguiendo procedimientos abiertos, con comparecencia pública en el Congreso y mayoría reforzada de tres quintos.",
+     "apartado": "No más repartos de sillones › Unos organismos de control independientes"
+    },
+    {
+     "id": "c-7373c19d5b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si el Congreso bloquea los nombramientos durante más de tres meses, se someterán a sorteo entre todos los elegibles.",
+     "apartado": "No más repartos de sillones › Unos organismos de control independientes"
+    },
+    {
+     "id": "c-07b84ae633",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y se reformará la duración de los mandatos de todos los organismos independientes para que no coincidan con los periodos de cambio de legislatura.",
+     "apartado": "No más repartos de sillones › Unos organismos de control independientes"
+    },
+    {
+     "id": "c-dc4d8be252",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "En los organismos independientes no habrá ningún político: se prohibirán todos los nombramientos de personas con carrera política en los 10 años anteriores a su nombramiento en todos los organismos independientes.",
+     "apartado": "No más repartos de sillones › Unos organismos de control independientes"
+    },
+    {
+     "id": "c-03ee74dd4b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los fiscales y jueces no podrán haber ejercido ningún cargo político en los últimos 20 años.",
+     "apartado": "No más repartos de sillones › Unos organismos de control independientes"
+    },
+    {
+     "id": "c-a67e86a983",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y los miembros del Consejo General del Poder Judicial, el Tribunal Constitucional, el Tribunal Supremo, el Fiscal General del Estado y el Fiscal Jefe Anticorrupción no podrán haber ejercido ningún cargo político.",
+     "apartado": "No más repartos de sillones › Unos organismos de control independientes"
+    },
+    {
+     "id": "c-7224758681",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Ninguna democracia europea consiente semejante red de privilegios procesales que quiebra la igualdad ante la justicia.",
+     "apartado": "Punto y final a los aforamientos"
+    },
+    {
+     "id": "c-6261b56c10",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se eliminarán todos los aforamientos que no estén expresamente contemplados en la Constitución de forma inmediata por vía de reforma de la Ley Orgánica del Poder Judicial (art 56, 57 y 73) y normativas conexas.",
+     "apartado": "Punto y final a los aforamientos › Todos fuera"
+    },
+    {
+     "id": "c-b42c1d2731",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se hará una reforma quirúrgica de la Constitución para: - eliminar todos los aforamientos de Diputados y Senadores (art 71)",
+     "apartado": "Punto y final a los aforamientos › Todos fuera"
+    },
+    {
+     "id": "c-b5e9168d61",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "limitar el aforamiento de los miembros de Gobierno (art. 102) exclusivamente para las acciones penales, en el ejercicio de las funciones propias del cargo y sin carácter retroactivo.",
+     "apartado": "Punto y final a los aforamientos › Todos fuera"
+    },
+    {
+     "id": "c-3543920561",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La política debe estar siempre al servicio de los ciudadanos.",
+     "apartado": "Devolver el poder al ciudadano"
+    },
+    {
+     "id": "c-7071781a63",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los Diputados y Senadores tendrán la obligación de dedicar una jornada a reuniones abiertas con ciudadanos en su circunscripción al menos una vez cada dos semanas.",
+     "apartado": "Devolver el poder al ciudadano › Escuchar será obligatorio"
+    },
+    {
+     "id": "c-3e2ecf5e36",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se creará un registro público de reuniones donde consten las fechas y asistentes, garantizando la transparencia.",
+     "apartado": "Devolver el poder al ciudadano › Escuchar será obligatorio"
+    },
+    {
+     "id": "c-c47266d715",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Y se reformarán los Reglamentos del Congreso y del Senado para incluir sanciones monetarias cada vez que falten a esa obligación.",
+     "apartado": "Devolver el poder al ciudadano › Escuchar será obligatorio"
+    },
+    {
+     "id": "c-2647ad1263",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El Presidente del Gobierno se someterá anualmente a una Asamblea de ‘Cara a Cara con la Ciudadanía’, elegida por sorteo y representativa de la sociedad, con garantías de independencia e indemnización de gastos equivalentes a las de la elección de los jurados populares.",
+     "apartado": "Devolver el poder al ciudadano › Escuchar será obligatorio"
+    },
+    {
+     "id": "c-f59d54ccd7",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El Presidente responderá a preguntas directas sobre decisiones o políticas concretas, planteadas por los propios ciudadanos.",
+     "apartado": "Devolver el poder al ciudadano › Escuchar será obligatorio"
+    },
+    {
+     "id": "c-b9df9a1a9c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cuando las decisiones políticas en asuntos de orden mayor se bloqueen reiteradamente por los partidos políticos en el Parlamento, la ciudadanía podrá activar una Asamblea Ciudadana sectorial con la recogida de firmas del 1% del censo electoral en un plazo de 12 meses.",
+     "apartado": "Devolver el poder al ciudadano › No más bloqueos"
+    },
+    {
+     "id": "c-ca4f0c2c2c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La Asamblea será convocada por la Junta Electoral Central, elegida por sorteo, representativa de la sociedad y con garantías equivalentes a la de un jurado popular. Propondrá en un plazo razonable soluciones alternativas que se someterán a referéndum popular consultivo para que toda la ciudadanía pueda pronunciarse.",
+     "apartado": "Devolver el poder al ciudadano › No más bloqueos"
+    },
+    {
+     "id": "c-f9d90c7056",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los Diputados y Senadores no cobrarán su sueldo mensual cuando no hayan asistido a las sesiones plenarias –y las de las Comisiones en las que participan– excepto si pueden acreditar que ha sido por causa de enfermedad o fuerza mayor.",
+     "apartado": "Devolver el poder al ciudadano › Si no trabajan, no cobran"
+    },
+    {
+     "id": "c-3d124d401d",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "La información sobre las ausencias se hará pública con carácter mensual.",
+     "apartado": "Devolver el poder al ciudadano › Si no trabajan, no cobran"
+    },
+    {
+     "id": "c-6573bd7082",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si el Gobierno incumple su obligación constitucional de presentar los Presupuestos Generales del Estado, se suspenderá el sueldo de todo el Gobierno hasta que se presenten.",
+     "apartado": "Devolver el poder al ciudadano › No habrá Gobierno sin presupuestos"
+    },
+    {
+     "id": "c-bd406997ad",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El incumplimiento injustificado de la obligación constitucional de presentar presupuestos durante más de un año dará lugar al cese del Gobierno.",
+     "apartado": "Devolver el poder al ciudadano › No habrá Gobierno sin presupuestos"
+    },
+    {
+     "id": "c-d04788d0b3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Las políticas y programas de gasto estarán sujetos a una evaluación posterior de su eficacia, impacto y coste.",
+     "apartado": "Devolver el poder al ciudadano › Menos promesas, más resultados"
+    },
+    {
+     "id": "c-eb63a0645e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los resultados serán públicos, accesibles online y se utilizarán para decidir la continuidad, modificación o eliminación de los programas evaluados.",
+     "apartado": "Devolver el poder al ciudadano › Menos promesas, más resultados"
+    },
+    {
+     "id": "c-ac5d339acd",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "El Presidente del Gobierno presentará cada año ante el Parlamento un balance público y verificable de cumplimiento de objetivos.",
+     "apartado": "Devolver el poder al ciudadano › Menos promesas, más resultados"
+    },
+    {
+     "id": "c-587c720897",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cada Ministerio explicará: qué prometió, qué recursos utilizó, qué resultados obtuvo y qué objetivos fueron cumplidos e incumplidos.",
+     "apartado": "Devolver el poder al ciudadano › Menos promesas, más resultados"
+    },
+    {
+     "id": "c-1609da271b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Cualquier ciudadano podrá consultar de forma sencilla y en un único Portal de Evaluación: los objetivos de cada Ministerio, los recursos presupuestados y efectivamente gastados, el grado de ejecución de cada programa, sus indicadores de cumplimiento, los resultados obtenidos y las evaluaciones independientes realizadas.",
+     "apartado": "Devolver el poder al ciudadano › Menos promesas, más resultados"
+    },
+    {
+     "id": "c-209e26cd32",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La mejor política anticorrupción es la que evita que llegue siquiera a producirse.",
+     "apartado": "Gobernar con ética"
+    },
+    {
+     "id": "c-2f1ed761d0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Los cargos políticos cumplirán con la totalidad del Código Ético del Gobierno de España Mejor y Hay Derecho que establece, entre otros, un sistema preventivo de conflictos de interés, elimina las excepciones a la reglamentación sobre las puertas giratorias, limita el uso de asesores, residencias oficiales, coches, y establece la obligación de no mentir deliberadamente en el Parlamento.",
+     "apartado": "Gobernar con ética › Código ético de Gobierno obligatorio"
+    },
+    {
+     "id": "c-bc6a98a87e",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se revisará de forma inmediata la Ley de Conflictos de Interés para ampliar los supuestos de conflicto a los requerimientos de la OCDE.",
+     "apartado": "Gobernar con ética › Código ético de Gobierno obligatorio"
+    },
+    {
+     "id": "c-5fec425901",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se pondrá en marcha una Comisión Ética y un Experto Independiente para monitorizar y asegurar el cumplimiento del Código.",
+     "apartado": "Gobernar con ética › Código ético de Gobierno obligatorio"
+    },
+    {
+     "id": "c-eeace51a84",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Dos mandatos son más que suficientes.",
+     "apartado": "Con dos mandatos basta"
+    },
+    {
+     "id": "c-1f8ab909e9",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se establecerá la obligación legal de no ejercer un mismo cargo público durante más de dos mandatos completos o un periodo acumulado superior a ocho años.",
+     "apartado": "Con dos mandatos basta › 8 años como máximo"
+    },
+    {
+     "id": "c-873d56e05e",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Una democracia del siglo 21 debe permitir a sus ciudadanos elegir con libertad a sus representantes.",
+     "apartado": "Aire fresco en nuestro sistema electoral"
+    },
+    {
+     "id": "c-125366b303",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Impulsaremos una reforma de la Ley Electoral que permita a los ciudadanos tener mayor capacidad para decidir qué personas les representan, reduciendo el peso de las listas cerradas elaboradas por los partidos políticos e introduciendo tanto listas desbloqueadas como abiertas.",
+     "apartado": "Aire fresco en nuestro sistema electoral › Adiós listas cerradas, hola listas flexibles"
+    },
+    {
+     "id": "c-4ac16d8667",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Portal Nacional de Trazabilidad Urbanística: la transparencia es el mejor escudo contra el clientelismo y la ineficacia. Crearemos una plataforma digital pública donde cualquier ciudadano, promotor o cooperativa podrá auditar en tiempo real la situación legal exacta, el estado de las licencias y los cuellos de botella de cualquier desarrollo urbanístico en España, incluyendo un canal de denuncia directa contra bloqueos injustificados o casos sospechosos de corrupción urbanística.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Fin de la parálisis urbanística y desbloqueo de suelo"
+    }
+   ]
+  },
+  {
+   "tema": "organizacion-territorial",
+   "nombre": "Organización territorial",
+   "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+   "citas": [
+    {
+     "id": "c-c8ef0eceee",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Obligación de Cumplimiento y Subrogación Autonómica: la ciudadanía no puede seguir esperando ni un solo día más mientras las administraciones se pasan la pelota de la crisis de la vivienda. Los Ayuntamientos, siendo la administración más cercana al ciudadano, liderarán la detección de necesidades y la ejecución del Plan en su territorio. El Estado y las Comunidades Autónomas les proporcionarán el paraguas normativo y la financiación, pero a cambio se exigirán resultados.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Responsabilidad municipal vinculante: no más excusas"
+    },
+    {
+     "id": "c-3820f2dce0",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si un Ayuntamiento retiene bolsas de suelo público de forma injustificada, paraliza proyectos, bloquea licencias o incumple sus objetivos de vivienda asequible, su competencia urbanística será subrogada de forma automática e inmediata por su Comunidad Autónoma, que asumirá el control para garantizar la construcción.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Responsabilidad municipal vinculante: no más excusas"
+    },
+    {
+     "id": "c-25eca5c566",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Si incumplen el plazo, el expediente pasará automáticamente a unas nuevas Oficina Centrales Autonómicas de Urbanismo, que resolverán en 30 días adicionales y cobrarán al propio Ayuntamiento una tasa de penalización por haber tenido que asumir su trabajo.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 2 – Plan Nacional de Barrios (10 años) › Responsabilidad municipal vinculante: no más excusas"
+    },
+    {
+     "id": "c-1c18b91dbe",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "evaluaremos periódicamente los conocimientos a nivel nacional para erradicar las brechas territoriales (no es aceptable que unas Comunidades Autónomas estén al nivel de Canadá y otras al nivel de Turquía).",
+     "apartado": "Recuperar todo el potencial educativo del país › Sistema de Medición para el Apoyo Educativo"
+    },
+    {
+     "id": "c-8ced7615ec",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se activará un programa estatal de apoyo y refuerzo para aquellas comunidades que caigan más de dos puntos por debajo de la media nacional.",
+     "apartado": "Recuperar todo el potencial educativo del país › Sistema de Medición para el Apoyo Educativo"
+    }
+   ]
+  },
+  {
+   "tema": "medio-ambiente-y-energia",
+   "nombre": "Medio ambiente y energía",
+   "definicion": "Clima, energía, agua, contaminación, costas, montes, protección de la naturaleza y bienestar animal.",
+   "citas": []
+  },
+  {
+   "tema": "campo-y-medio-rural",
+   "nombre": "Campo y medio rural",
+   "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+   "citas": []
+  },
+  {
+   "tema": "transporte",
+   "nombre": "Transporte e infraestructuras",
+   "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+   "citas": []
+  },
+  {
+   "tema": "igualdad-y-derechos",
+   "nombre": "Igualdad y derechos",
+   "definicion": "Igualdad entre mujeres y hombres, violencia machista, derechos LGTBI, libertades civiles, memoria democrática y relación con las religiones.",
+   "citas": [
+    {
+     "id": "c-638a947a97",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Para garantizar que todos los niños inicien su etapa escolar con la misma base de oportunidades, acabaremos con la visión asistencial de \"guardería\" para la conciliación y consolidaremos los 0-3 como la etapa pedagógica más decisiva.",
+     "apartado": "Recuperar todo el potencial educativo del país › Educación Infantil (0-3 años) como Primer Ascensor Social"
+    },
+    {
+     "id": "c-15556d08ca",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Para contextualizar estos resultados adecuadamente, crearemos un Índice Socioeducativo que medirá el nivel socioeconómico de las familias, el número de estudiantes con necesidades específicas y los indicadores de convivencia, determinando de forma objetiva la financiación y los recursos extra que le corresponden a cada centro.",
+     "apartado": "Recuperar todo el potencial educativo del país › Sistema de Medición para el Apoyo Educativo"
+    }
+   ]
+  },
+  {
+   "tema": "politica-exterior-y-defensa",
+   "nombre": "Política exterior y defensa",
+   "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
+   "citas": [
+    {
+     "id": "c-e3c6d1b9b3",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "10.000 Millones de Fondos Europeos - Reinversión en Vivienda: nuestros gobiernos (nacional, Comunidades Autónomas y Ayuntamientos) han sido incapaces de ejecutar todos los fondos Next Generation mientras nuestra juventud no puede emanciparse. Realizaremos una auditoría de urgencia y reasignaremos el 100% de los fondos europeos no utilizados o en riesgo de devolución para inyectarlos directamente en un Fondo Público Soberano de construcción de vivienda asequible y protegida.",
+     "apartado": "Alivio hoy. Solución para siempre: plan de choque en 2 fases › Fase 1 - Alivio hoy: 3 medidas excepcionales de emergencia"
+    },
+    {
+     "id": "c-3a196a6b76",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "10.000 M€ de Fondos Europeos y Nuevo Fondo Público Soberano: negociaremos de urgencia con Bruselas la reasignación de todos los fondos Next Generation no ejecutados o en riesgo de devolución.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Fondo soberano de vivienda protegida y cero especulación del Estado"
+    },
+    {
+     "id": "c-1e7d3e8925",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Inyectaremos este capital en un nuevo Fondo Público Soberano de Vivienda dedicado en exclusiva a la promoción inmobiliaria, abierto a la coinversión de actores privados y capital institucional, garantizando por ley que el producto final financiado por este fondo sea siempre vivienda protegida y asequible.",
+     "apartado": "Nuestro plan de vivienda, al detalle › Fase 1 - Alivio hoy: medidas excepcionales para una crisis excepcional › Fondo soberano de vivienda protegida y cero especulación del Estado"
+    },
+    {
+     "id": "c-9efd440c60",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "apoyaremos los acuerdos entre universidades públicas en la apertura de campus internacionales (especialmente en países de habla hispana) para multiplicar las opciones de movilidad de nuestros estudiantes y proyectar nuestro talento académico e influencia a nivel internacional.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Expansión Internacional"
+    }
+   ]
+  },
+  {
+   "tema": "ciencia-cultura-y-digital",
+   "nombre": "Ciencia, cultura y digital",
+   "definicion": "Investigación, tecnología e inteligencia artificial, cultura y deporte.",
+   "citas": [
+    {
+     "id": "c-d074e45f8c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se implantará un sistema integral de control de toda la contratación pública basado en IA que garantice la objetividad, la trazabilidad y la detección de irregularidades en tiempo real.",
+     "apartado": "Cortar de raíz la corrupción › Los corruptos no tendrán refugio"
+    },
+    {
+     "id": "c-ded11e6788",
+     "origen": "programa",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "en la sociedad tecnológica hacia la que nos movemos, dominar la tecnología es tan vital para ser un ciudadano libre como lo fue aprender a leer y escribir el siglo pasado.",
+     "apartado": "Una educación para el siglo 21 › Incorporaremos la Tecnología como un Pilar Fundamental del Currículo Educativo"
+    },
+    {
+     "id": "c-5728730d4c",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Buscaremos superar el error de limitarse a sustituir libros por pantallas, e incorporaremos el conocimiento tecnológico aplicado (fundamentos de IA, ciberseguridad, ética digital, pensamiento computacional, algoritmos y redes sociales) como una especialidad troncal y transversal en el currículo, manteniendo una convivencia adecuada entre lo analógico y lo digital.",
+     "apartado": "Una educación para el siglo 21 › Incorporaremos la Tecnología como un Pilar Fundamental del Currículo Educativo"
+    },
+    {
+     "id": "c-163f136084",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "para proteger a nuestros estudiantes de los riesgos y los sesgos de utilizar inteligencias artificiales genéricas sin control, garantizaremos un entorno de formación digital seguro.",
+     "apartado": "Una educación para el siglo 21 › Inteligencia Artificial Educativa"
+    },
+    {
+     "id": "c-dbe0111b54",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Desarrollaremos un modelo de lenguaje de Inteligencia Artificial propio de apoyo a la educación que fomente el pensamiento crítico, siguiendo el exitoso modelo educativo de Estonia (nº1 en PISA en Europa). Estará financiado y auditado por el Estado. Este sistema actuará como un tutor de refuerzo personalizado para cada estudiante, adaptándose a la diversidad del alumnado y garantizando su privacidad.",
+     "apartado": "Una educación para el siglo 21 › Inteligencia Artificial Educativa"
+    },
+    {
+     "id": "c-22a77cb25b",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "abriremos la contratación de profesorado a estándares internacionales y tribunales externos independientes para retener y atraer a los mejores investigadores del mundo.",
+     "apartado": "Universidad flexible, práctica y conectada al mundo real › Talento Docente y Sexenio de Innovación Docente"
+    },
+    {
+     "id": "c-216003acf8",
+     "origen": "programa",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Integraremos el Bono Cultural Joven y el Verano Joven en una Hucha de Formación para Jóvenes, dirigida a todas las personas que cumplan 18 años en España. Los 300 millones de euros anuales actualmente destinados a ambas iniciativas se integrarán en una cuenta digital individual de aproximadamente 500 euros por joven, utilizable en matrículas universitarias o de formación profesional, formación cultural, certificados profesionales, idiomas, formación tecnológica, oposiciones, actividades artísticas y materiales de estudio.",
+     "apartado": "Hucha de formación para jóvenes"
+    }
+   ]
+  }
+ ]
+}

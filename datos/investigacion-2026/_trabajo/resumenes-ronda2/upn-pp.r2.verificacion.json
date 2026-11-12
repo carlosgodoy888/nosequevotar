@@ -1,0 +1,11 @@
+{ "revisiones": [
+  { "tema": "pensiones", "veredicto": "corregido", "problemas": [
+      "Frase 3: c-78a3f099da justifica el apoyo a algo concreto que «se pactó entre patronal y sindicatos», pero no dice qué. «Respalda los acuerdos de diálogo social entre patronal y sindicatos», en plural y en general, le atribuye más de lo que dice. Se cambia por «defiende el diálogo social», que la cita sí respalda («siempre hemos creído en la concertación y el diálogo social»).",
+      "Frase 3: c-d42f017988 dice que el Pacto de Toledo «es importante»; «respalda» sube un poco la fuerza y se cambia por «considera importante». c-931aa5591a pide que «traigan» la revalorización por separado, es decir, que se presente aparte, no habla de la votación. Se ajusta el verbo y se mantiene fuera la acusación de «pagos a sus socios».",
+      "Frases 1 y 2 correctas, sin nombres de partidos y sin atribuir ámbito navarro a medidas que no lo tienen. La base suficiente vale: seis citas con una medida concreta (revalorización con el IPC) y posiciones claras."
+    ], "base": "suficiente", "frases": [
+    { "texto": "Se compromete a revalorizar las pensiones con el IPC y a garantizar la viabilidad del sistema público para quienes todavía no las cobran.", "apoyos": ["c-d8691f65af", "c-ad0a72a3d7"] },
+    { "texto": "Defiende que la mejor manera de asegurar las pensiones futuras es crear más empleo con sueldos más altos.", "apoyos": ["c-498e2af05e"] },
+    { "texto": "Considera importante el Pacto de Toledo, defiende el diálogo social entre patronal y sindicatos y pide que la revalorización se presente por separado de otras medidas.", "apoyos": ["c-d42f017988", "c-78a3f099da", "c-931aa5591a"] }
+  ] }
+] }

@@ -1,0 +1,62 @@
+{
+  "revisiones": [
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 4: «critica el traspaso de la educación y la inmersión lingüística» se apoyaba en c-b89b0be870, que empieza con «Las segundas» sin decir a qué se refiere; la cita solo dice que «las segundas» proceden de esa transferencia, no que el partido la critique ni qué consecuencias le atribuye. Se quita esa parte y el apoyo.",
+        "Frase 4: «ha desordenado las competencias» rebajaba la fuerza de c-ef4432ad2a («un verdadero caos») y omitía el núcleo de la cita (que el modelo «ha fortalecido enormemente a las fuerzas separatistas» y con ello ha debilitado la unidad nacional y la igualdad). Se recoge atribuyendo los términos del partido entre comillas («caos», «fuerzas separatistas»), que están literalmente en la cita.",
+        "Frase 1: «según la comunidad» estrechaba c-feb87f85fd, que dice «según el lugar en el que viva o trabaje»; se ajusta. c-51fb53b572 se mantiene como apoyo solo por su afirmación general («la igualdad consiste en aplicar las mismas reglas para todos»); la frase no dice nada del proyecto de ley que la cita no identifica.",
+        "Frase 3: la redacción («exigencias autonómicas para vender productos que superen la norma europea») era ambigua y omitía «todas»; se reescribe ciñéndola a la cita c-058fdfea0a, que habla de las capas autonómicas en la venta de productos.",
+        "Para no pasar de 90 palabras se compactan las frases 1 y 2 sin cambiar su contenido."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende las mismas reglas en todo el país, sin derechos, obligaciones ni trámites distintos según dónde se viva o trabaje.",
+          "apoyos": ["c-feb87f85fd", "c-51fb53b572"]
+        },
+        {
+          "texto": "Propone una Ley de Mercado Abierto: lo legal en una comunidad lo sería en toda España sin trámites adicionales.",
+          "apoyos": ["c-655ab462e9"]
+        },
+        {
+          "texto": "Quiere derogar todas las exigencias autonómicas que añadan requisitos a la venta de productos por encima de la norma europea, como las lingüísticas.",
+          "apoyos": ["c-058fdfea0a"]
+        },
+        {
+          "texto": "Sostiene que el modelo autonómico ha creado un «caos» competencial y ha reforzado a las «fuerzas separatistas», debilitando la unidad nacional y la igualdad de los españoles.",
+          "apoyos": ["c-ef4432ad2a"]
+        }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: «reducir esperas y papeleo» rebajaba la fuerza de c-acb26bc6dc («acabar con esperas, papeleo y trámites absurdos»); se cambia a «acabar con». Se quitan los «asistentes al ciudadano» para no pasar de 90 palabras.",
+        "Frase 2: la sigla AEPD es poco conocida; se desarrolla (Agencia Española de Protección de Datos). Para mantener la frase por debajo de 30 palabras se omite el matiz «especialmente para las pymes».",
+        "Frase 4: «rechaza usar ese fin» atribuía al partido un uso que la cita c-0631600f3d atribuye a otros; se reescribe como rechazo a que ese problema se use para imponer un relato único. Se mantiene sin adoptar «visión totalitaria»."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone un uso masivo de la inteligencia artificial en la Administración para acabar con esperas y papeleo, con resolución automática de expedientes sencillos.",
+          "apoyos": ["c-acb26bc6dc"]
+        },
+        {
+          "texto": "Quiere ceñir la ley de protección de datos a lo que exige la Unión Europea y que la Agencia Española de Protección de Datos asesore en vez de sancionar.",
+          "apoyos": ["c-3e6ee5deda"]
+        },
+        {
+          "texto": "En cultura, defiende que no se prohíban los festejos taurinos.",
+          "apoyos": ["c-175fc9c688"]
+        },
+        {
+          "texto": "Acepta impedir el acceso de menores a la pornografía en internet, pero rechaza que ese problema se use para imponer un relato único sin discrepancia.",
+          "apoyos": ["c-0631600f3d"]
+        }
+      ]
+    }
+  ]
+}
