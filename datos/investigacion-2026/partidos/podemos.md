@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Irene Montero, número 1 por Madrid.
-- **Programa para el 29 de noviembre:** solo un programa general, no específico de estas elecciones (comprobado el 11 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** solo un programa general, no específico de estas elecciones (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 160 vigentes: 100 medidas, de ellas 66 concretas, y 60 posiciones. De programa, verificadas contra su página: 104 exactas y 0 normalizadas.
 
 ## Lo que dicen sus documentos

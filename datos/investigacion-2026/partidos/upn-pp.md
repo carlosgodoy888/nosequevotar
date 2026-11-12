@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** coalicion. Miembros: Unión del Pueblo Navarro (UPN); Partido Popular (PP)
 - **Cabeza de cartel:** Leticia San Martín Rodríguez (UPN), número 1 por Navarra; el número 2 es Sergio Sayas López (PP). El candidato de la coalición a la Presidencia del Gobierno es Alberto Núñez Feijóo.
-- **Programa para el 29 de noviembre:** no publicado (comprobado el 11 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** no publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 78 vigentes: 39 medidas, de ellas 24 concretas, y 39 posiciones. Declaraciones verificadas abriendo su fuente: 78.
 
 ## Lo que han dicho sus portavoces

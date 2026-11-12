@@ -111,7 +111,8 @@ async function construir() {
   const datosJuego = JSON.stringify([juego.banco, juego.partidos, juego.circunscripciones]);
   sitio.version = createHash('sha256').update(css + js + cssTest + Object.values(juego.modulos).join('') + datosJuego + jsPartidos).digest('hex').slice(0, 8);
 
-  const ctx = { sitio, fechas, guias, hoy, juego };
+  // propuestas: los datos de partidos y temas; la portada los usa para su tarjeta de temas.
+  const ctx = { sitio, fechas, guias, hoy, juego, propuestas: datosPartidos };
 
   await rm(PUBLIC, { recursive: true, force: true });
   await mkdir(PUBLIC, { recursive: true });

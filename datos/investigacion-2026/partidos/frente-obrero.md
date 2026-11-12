@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Roberto Vaquero Arribas, presidente del partido, cabeza de lista por Madrid
-- **Programa para el 29 de noviembre:** solo un programa general, no específico de estas elecciones (comprobado el 10 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** solo un programa general, no específico de estas elecciones (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 248 vigentes: 189 medidas, de ellas 96 concretas, y 59 posiciones. De programa, verificadas contra su página: 244 exactas y 4 normalizadas.
 
 ## Lo que dicen sus documentos

@@ -14,11 +14,12 @@
   --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
   --trama: repeating-linear-gradient(135deg, var(--tinta) 0 3px, var(--papel) 3px 7px);
   --alto-cabecera: 56px;
+  --alto-miga: 44px;
   --hueco: 16px;
 }
 
 * { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; scroll-padding-top: calc(var(--alto-cabecera) + 16px); }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; scroll-padding-top: calc(var(--alto-cabecera) + var(--alto-miga) + 16px); }
 body { margin: 0; background: var(--papel); color: var(--tinta); font: 400 17px/1.5 var(--sans); }
 img { max-width: 100%; }
 a { color: inherit; text-underline-offset: 3px; text-decoration-thickness: 1px; }
@@ -67,13 +68,17 @@ p { margin: 0; }
 body.menu-abierto { overflow: hidden; }
 body.menu-abierto::after { content: ""; position: fixed; inset: var(--alto-cabecera) 0 0 0; background: rgba(22, 24, 29, .5); z-index: 40; }
 
-/* Miga de pan */
-.miga { padding-top: 8px; }
-.miga ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; align-items: center; font: 500 15px/1.3 var(--sans); color: var(--gris); }
-.miga li { display: inline-flex; align-items: center; }
-.miga li + li::before { content: "›"; margin: 0 8px; color: var(--gris); }
-.miga a { display: inline-flex; align-items: center; min-height: 44px; color: var(--tinta); }
-.miga [aria-current] { padding: 12px 0; }
+/* Miga de pan: se queda fija bajo la cabecera para tenerla siempre a mano. Va en una sola línea de
+   altura fija (--alto-miga) para que la barra de saltos pueda colocarse justo debajo; si no cabe,
+   el nombre de la página actual se corta con puntos suspensivos. */
+.miga { position: sticky; top: calc(var(--alto-cabecera) + 1px); z-index: 31; margin: 0 calc(-1 * var(--hueco)); padding: 0 var(--hueco); background: var(--papel); border-bottom: 1px solid var(--regla); }
+.miga ol { list-style: none; margin: 0; padding: 0; display: flex; align-items: center; height: var(--alto-miga); font: 500 15px/1.3 var(--sans); color: var(--gris); }
+.miga li { display: inline-flex; align-items: center; flex: none; }
+.miga li:last-child { flex: 0 1 auto; min-width: 0; }
+.miga li + li::before { content: "›"; flex: none; margin: 0 8px; color: var(--gris); }
+/* El «nowrap» va en el enlace y en la página actual, no en el <li>: «.texto li» le pone text-wrap. */
+.miga a { display: inline-flex; align-items: center; min-height: 44px; color: var(--tinta); white-space: nowrap; }
+.miga [aria-current] { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 /* Tipografía de lectura */
 h1 { font: 900 clamp(32px, 8vw, 52px)/1.05 var(--sans); letter-spacing: -0.015em; }
@@ -87,7 +92,7 @@ h3 { font: 800 20px/1.25 var(--sans); }
 .mas { margin-top: 20px; }
 .mas a:not(.boton) { display: inline-flex; align-items: center; min-height: 44px; font-weight: 700; }
 .texto > h1 { margin: 16px 0 16px; }
-.texto > .miga + h1 { margin-top: 8px; }
+.texto > .miga + h1 { margin-top: 20px; }
 .texto > .etiqueta { margin-top: 24px; }
 .seccion .texto-ancho { max-width: 46rem; }
 
@@ -203,6 +208,18 @@ h3 { font: 800 20px/1.25 var(--sans); }
 .franja__nombre { font: 800 24px/1.1 var(--sans); }
 .franja__tapa { position: absolute; inset: 0; background: var(--tachado); transition: transform .7s cubic-bezier(.2, .7, .2, 1); }
 .franja.revelada .franja__tapa { transform: translateX(103%); }
+/* En la portada la franja no se abre: no lleva nombre debajo y tiene tamaño fijo. */
+.franja--fija { width: 162px; height: 32px; }
+
+/* Las dos tarjetas de la portada, una debajo de otra: la papeleta de ejemplo y la de temas. */
+.portada__ejemplos { display: grid; gap: 40px; align-self: start; min-width: 0; }
+/* Tarjeta de temas: casillas que llevan a /temas/. Van en una columna si no caben dos (cada casilla
+   necesita 140 px), en dos en casi todos los móviles y, como mucho, en tres cuando hay sitio. */
+.tarjeta__pregunta { font: 800 22px/1.2 var(--sans); }
+.temas-portada { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, max(140px, calc(33.333% - 6px))), 1fr)); gap: 8px; }
+.temas-portada .boton-casilla { height: 100%; padding: 0 10px; gap: 8px; font-size: 15px; text-decoration: none; }
+.temas-portada .boton-casilla:hover { border-color: var(--tinta); }
+.tarjeta__pie { border-top: 1px solid var(--regla); padding-top: 10px; font: 500 14px/1.4 var(--sans); color: var(--gris); }
 
 .seccion { padding: 56px 0; border-top: 1px solid var(--regla); }
 .seccion h2 { margin-bottom: 24px; }
@@ -221,6 +238,13 @@ h3 { font: 800 20px/1.25 var(--sans); }
 .pie__contacto, .pie__lema { color: var(--gris); }
 .pie__lema { display: flex; align-items: center; gap: 10px; color: var(--tinta); font-weight: 700; }
 .pie__contacto .pie__enlace { color: var(--tinta); }
+
+/* Botón fijo para volver arriba (portada, temas y partidos). Lo muestra /sitio.js al pasar la primera
+   pantalla. Queda por encima de la barra de saltos y por debajo del velo del menú abierto.
+   Mide 72 px en cualquier móvil de 360 px o más; en pantallas más pequeñas (o en horizontal con
+   poca altura) encoge en proporción, hasta 56 px, para no tapar tanto texto. */
+.arriba { position: fixed; right: var(--hueco); bottom: var(--hueco); z-index: 35; display: inline-flex; align-items: center; justify-content: center; width: clamp(56px, 20vmin, 72px); height: clamp(56px, 20vmin, 72px); background: var(--sepia); color: var(--tinta); border: 2px solid var(--tinta); font: 700 clamp(28px, 10vmin, 36px)/1 var(--sans); text-decoration: none; }
+.arriba:hover { background: var(--papel); }
 
 @media (min-width: 600px) {
   :root { --hueco: 24px; }
@@ -266,7 +290,7 @@ h3 { font: 800 20px/1.25 var(--sans); }
   body.menu-abierto { overflow: auto; }
   body.menu-abierto::after { content: none; }
 
-  .portada { grid-template-columns: 1.15fr 1fr; gap: 64px; padding-top: 72px; padding-bottom: 88px; align-items: center; }
+  .portada { grid-template-columns: 1.15fr 1fr; gap: 64px; padding-top: 72px; padding-bottom: 88px; align-items: start; }
   .pasos--fila { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0 32px; border-top: 0; }
   .pasos--fila .paso { grid-template-columns: 1fr; border-top: 2px solid var(--tinta); border-bottom: 0; }
   .tarjetas { grid-template-columns: repeat(3, 1fr); }
@@ -327,8 +351,22 @@ h3 { font: 800 20px/1.25 var(--sans); }
 .indice__cuenta { flex: none; font: 500 14px/1.3 var(--sans); color: var(--gris); text-align: right; }
 
 /* Barra fija para saltar de sección. Queda bajo la cabecera y por debajo del menú abierto. */
-.saltos { position: sticky; top: calc(var(--alto-cabecera) + 1px); z-index: 30; display: flex; align-items: center; gap: 8px; margin: 16px calc(-1 * var(--hueco)) 0; padding: 8px var(--hueco); background: var(--papel); border-bottom: 2px solid var(--tinta); }
-.saltos__lista { flex: 1; min-width: 0; height: 44px; padding: 0 8px; border: 2px solid var(--tinta); border-radius: 0; background: var(--papel); color: var(--tinta); font: 700 16px/1.2 var(--sans); text-overflow: ellipsis; }
+.saltos { position: sticky; top: calc(var(--alto-cabecera) + var(--alto-miga) + 2px); z-index: 30; display: flex; align-items: center; gap: 8px; margin: 16px calc(-1 * var(--hueco)) 0; padding: 8px var(--hueco); background: var(--papel); border-bottom: 2px solid var(--tinta); }
+/* Con la lista abierta, la barra pasa por encima del botón fijo de volver arriba. */
+.saltos--abierta { z-index: 36; }
+/* Menú de secciones: un botón con la sección actual que despliega la lista bajo la barra. */
+.saltos__actual { flex: 1; min-width: 0; display: flex; align-items: center; gap: 8px; height: 44px; padding: 0 10px; border: 2px solid var(--tinta); border-radius: 0; background: var(--papel); color: var(--tinta); font: 700 16px/1.2 var(--sans); text-align: left; cursor: pointer; }
+.saltos__actual:hover, .saltos__actual[aria-expanded="true"] { background: var(--sepia); }
+.saltos__nombre { flex: 0 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.saltos__orden { flex: none; font: 500 14px/1 var(--sans); color: var(--gris); font-variant-numeric: tabular-nums; }
+.saltos__flecha { flex: none; width: 9px; height: 9px; margin: -5px 3px 0 auto; border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: rotate(45deg); }
+.saltos__actual[aria-expanded="true"] .saltos__flecha { margin-top: 5px; transform: rotate(-135deg); }
+.saltos__lista { position: absolute; top: 100%; left: var(--hueco); right: var(--hueco); max-height: 70vh; overflow-y: auto; overscroll-behavior: contain; list-style: none; margin: 0; padding: 0; background: var(--papel); border: 2px solid var(--tinta); }
+.saltos__lista a { display: flex; align-items: center; gap: 10px; min-height: 48px; padding: 8px 12px; border-bottom: 1px solid var(--regla); font: 700 16px/1.25 var(--sans); text-decoration: none; }
+.saltos__lista li:last-child a { border-bottom: 0; }
+.saltos__lista a:hover, .saltos__lista a:focus-visible, .saltos__lista a[aria-current] { background: var(--sepia); }
+.saltos__lista a:focus-visible { outline-offset: -3px; }
+.saltos__opcion { flex: 1; min-width: 0; }
 .saltos__boton { flex: none; display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; padding: 0; border: 2px solid var(--tinta); border-radius: 0; background: var(--papel); color: var(--tinta); font: 700 24px/1 var(--sans); text-decoration: none; cursor: pointer; }
 .saltos__boton:hover:not(:disabled) { background: var(--sepia); }
 .saltos__boton:disabled { color: var(--regla); border-color: var(--regla); cursor: default; }
@@ -382,7 +420,10 @@ h3 { font: 800 20px/1.25 var(--sans); }
 @media (min-width: 600px) {
   .elegir__lista { grid-template-columns: repeat(2, 1fr); column-gap: 24px; }
   .indice ul { column-count: 2; column-gap: 32px; }
-  .saltos { margin-left: 0; margin-right: 0; padding-left: 0; padding-right: 0; }
+  .miga, .saltos { margin-left: 0; margin-right: 0; padding-left: 0; padding-right: 0; }
+  .saltos__lista { left: 0; right: 0; display: grid; grid-template-columns: 1fr 1fr; }
+  .saltos__lista li:nth-child(odd) a { border-right: 1px solid var(--regla); }
+  .saltos__lista li:nth-last-child(2):nth-child(odd) a { border-bottom: 0; }
 }
 
 /* Fuente oficial de una fecha y tarjeta «Próximo plazo» de la portada */
@@ -402,3 +443,20 @@ h3 { font: 800 20px/1.25 var(--sans); }
 .plazo--calculada .plazo__fuera > *, .plazo--calculada .plazo__fuera li, .plazo--calculada .plazo__fuera .plazo__fecha, .plazo--calculada .plazo__fuera .fuente-fecha { display: inline; margin: 0; }
 .plazo--calculada .plazo__fuera .plazo__fecha { font: 700 17px/1.45 var(--sans); }
 .plazo--calculada .plazo__fuera .plazo__fecha::after { content: "."; }
+
+/* Pantallas muy estrechas: móviles pequeños, pantalla ampliada y plegables cerrados.
+   Por debajo de 336 px los dos botones de la papeleta de ejemplo no caben en fila: van uno debajo de otro,
+   y los botones grandes pierden algo de margen interior para que su texto siga en una línea. */
+@media (max-width: 335px) {
+  .demo-decision { grid-template-columns: 1fr; }
+  .boton { padding-left: 10px; padding-right: 10px; text-wrap: balance; }
+}
+/* Por debajo de 320 px la cabecera se aprieta para que el icono del menú no pise su texto y, en el
+   índice de una ficha, la cuenta de citas baja a la línea siguiente. */
+@media (max-width: 319px) {
+  .cabecera__barra { gap: 8px; }
+  .marca { font-size: 16px; }
+  .menu-boton { gap: 6px; padding: 0 8px; margin-right: -8px; }
+  .menu-boton__icono { flex: none; }
+  .indice a { flex-wrap: wrap; }
+}

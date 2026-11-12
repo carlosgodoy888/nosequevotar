@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Néstor Rego (A Coruña), único diputado saliente. Otras cabezas de lista: Carme da Silva (Pontevedra), Olalla Rodil (Lugo) y Noa Presas (Ourense). La portavoz nacional es Ana Pontón.
-- **Programa para el 29 de noviembre:** publicado (comprobado el 10 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 669 vigentes: 600 medidas, de ellas 430 concretas, y 69 posiciones. De programa, verificadas contra su página: 669 exactas y 0 normalizadas.
 
 ## Lo que dicen sus documentos

@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Pedro Sánchez Pérez-Castejón, número 1 por Madrid
-- **Programa para el 29 de noviembre:** no publicado (comprobado el 11 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** no publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 62 vigentes: 48 medidas, de ellas 36 concretas, y 14 posiciones. Declaraciones verificadas abriendo su fuente: 62.
 
 ## Lo que han dicho sus portavoces

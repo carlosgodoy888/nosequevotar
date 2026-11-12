@@ -1,0 +1,1428 @@
+{
+  "resultados": [
+    {
+      "p": "vox",
+      "g": [
+        "vivienda",
+        "empleo",
+        "pensiones",
+        "impuestos",
+        "economia",
+        "sanidad",
+        "educacion",
+        "familias-y-cuidados",
+        "inmigracion"
+      ],
+      "i": 0,
+      "redaccion": {
+        "resumenes": [
+          {
+            "tema": "vivienda",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone reformar la Ley del Suelo para construir más vivienda, con más suelo y menos trámites, y ampliar la vivienda protegida mediante colaboración público-privada.",
+                "apoyos": [
+                  "c-a7720ec799",
+                  "c-c365481e19",
+                  "c-9bcdb679d6"
+                ]
+              },
+              {
+                "texto": "Plantea derogar la Ley de Vivienda, aplicar IVA del 0 % a la compra de la primera vivienda nueva y gravar más a compradores no comunitarios y fondos.",
+                "apoyos": [
+                  "c-0e4fb0d41b",
+                  "c-35a4ee139a",
+                  "c-f7b6cb46e8",
+                  "c-67c2554333"
+                ]
+              },
+              {
+                "texto": "Quiere dar preferencia a los españoles en la vivienda protegida y las ayudas al alquiler, lo que llama «prioridad nacional», y exigir residencia legal para alquilar.",
+                "apoyos": [
+                  "c-72da371848",
+                  "c-3e9f22ef84",
+                  "c-2b60099eec"
+                ]
+              },
+              {
+                "texto": "Pide desalojar las viviendas ocupadas en menos de 24 horas.",
+                "apoyos": [
+                  "c-ed89c845d9",
+                  "c-efe073293a"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "empleo",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone derogar la reforma laboral del Gobierno actual, a la que atribuye más precariedad y menos contratación, y aprobar un Plan Nacional de Reindustrialización.",
+                "apoyos": [
+                  "c-634f7b5f1d",
+                  "c-4af95b7725",
+                  "c-ae6aa1f691"
+                ]
+              },
+              {
+                "texto": "Plantea una cuota de autónomos de cero euros para quienes ingresen menos del salario mínimo y progresiva desde 50 euros por encima de ese umbral.",
+                "apoyos": [
+                  "c-d42cbb4bd3"
+                ]
+              },
+              {
+                "texto": "Quiere suprimir las obligaciones que se activan al llegar a 50 trabajadores y que empresa y trabajador acuerden cómo controlar la jornada, en lugar del registro horario obligatorio.",
+                "apoyos": [
+                  "c-6542e85e79",
+                  "c-df19fab2b2",
+                  "c-b488904980"
+                ]
+              }
+            ],
+            "nota": "La derogación de la reforma laboral figura en el programa electoral como «legislación laboral de Sánchez»; el documento de desregulación concreta que se trata del Real Decreto-ley 32/2021."
+          },
+          {
+            "tema": "pensiones",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Plantea asegurar la sostenibilidad de las pensiones con más crecimiento económico, empleo y salarios, y con medidas de apoyo a la natalidad.",
+                "apoyos": [
+                  "c-aab2a2817f",
+                  "c-57f693c5cb"
+                ]
+              },
+              {
+                "texto": "Propone que el Estado pague la cotización a la Seguridad Social de quienes se dedican al cuidado de sus hijos, para que no les perjudique en la jubilación.",
+                "apoyos": [
+                  "c-d0ff0c9f91"
+                ]
+              },
+              {
+                "texto": "Plantea también una reforma hacia un modelo mixto que combine el reparto con la capitalización individual, y mejorar el trato a las carreras largas de cotización.",
+                "apoyos": [
+                  "c-e862624276",
+                  "c-019ba64b8a"
+                ]
+              }
+            ],
+            "nota": "El modelo mixto de reparto y capitalización y las carreras largas proceden de declaraciones de portavoces, no del programa electoral, que en pensiones es más general."
+          },
+          {
+            "tema": "impuestos",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone una rebaja general de impuestos: un IRPF más bajo y simple, con tipo menor según los hijos, y menos IVA e Impuesto de Sociedades.",
+                "apoyos": [
+                  "c-c9e9ac899b",
+                  "c-1db81ce0d4",
+                  "c-5486f73c97",
+                  "c-c30745e601"
+                ]
+              },
+              {
+                "texto": "Ha planteado un IRPF con mínimo exento de 22.000 euros y dos tramos: 15 % hasta 70.000 euros y 25 % por encima.",
+                "apoyos": [
+                  "c-eae93dd328"
+                ]
+              },
+              {
+                "texto": "Plantea IVA del 0 % en la compra de la primera vivienda nueva, bajar los impuestos de la electricidad y gravar las remesas al extranjero.",
+                "apoyos": [
+                  "c-f7b6cb46e8",
+                  "c-48a4f28458",
+                  "c-2ff6f9c3e0"
+                ]
+              },
+              {
+                "texto": "Quiere compensarlo reduciendo deuda y déficit y eliminando lo que considera gasto superfluo e ideológico.",
+                "apoyos": [
+                  "c-fa8e44b328",
+                  "c-da4eeed7de"
+                ]
+              }
+            ],
+            "nota": "Las cifras del IRPF (mínimo exento de 22.000 euros, tramos del 15 % y 25 %) proceden de una declaración del portavoz económico; el programa electoral habla de simplificar y bajar el IRPF sin dar cifras."
+          },
+          {
+            "tema": "economia",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone reducir el tamaño y el gasto de la Administración mediante auditorías, para compensar una bajada general de impuestos y reducir la deuda pública.",
+                "apoyos": [
+                  "c-43aed18a33",
+                  "c-3768113399",
+                  "c-78d008f082",
+                  "c-fa8e44b328"
+                ]
+              },
+              {
+                "texto": "Plantea una Ley de Unidad de Mercado para que lo legal en una comunidad autónoma lo sea en toda España, y derogar o modificar las leyes que considera trabas.",
+                "apoyos": [
+                  "c-f7225bfccf",
+                  "c-655ab462e9",
+                  "c-897f55d6d7",
+                  "c-3ebcae7d5c"
+                ]
+              },
+              {
+                "texto": "Quiere un Plan Nacional de Reindustrialización, revertir normas del Pacto Verde Europeo como la prohibición de motores de combustión, y rechaza el acuerdo UE-Mercosur.",
+                "apoyos": [
+                  "c-ae6aa1f691",
+                  "c-c192135111",
+                  "c-95c689fbe5",
+                  "c-cedd6788f4"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "sanidad",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un plan nacional para reducir las listas de espera, reforzar la atención primaria y pediátrica y recurrir a la colaboración público-privada cuando acorte demoras.",
+                "apoyos": [
+                  "c-b549938775",
+                  "c-6414d28ad6",
+                  "c-4518ce72e5"
+                ]
+              },
+              {
+                "texto": "Plantea una tarjeta sanitaria única con historia clínica compartida en toda España.",
+                "apoyos": [
+                  "c-5f83bf1820"
+                ]
+              },
+              {
+                "texto": "Quiere mejorar sueldos y condiciones de los profesionales, con incentivos para plazas rurales y un plan de retorno de sanitarios emigrados.",
+                "apoyos": [
+                  "c-20d1e20de2",
+                  "c-dc8181427c",
+                  "c-a5331f9ff2"
+                ]
+              },
+              {
+                "texto": "Excluiría de la sanidad pública a los extranjeros en situación irregular, salvo urgencias graves.",
+                "apoyos": [
+                  "c-43badd9b5b",
+                  "c-d54d17cc86"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "educacion",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone derogar la LOMLOE, unificar currículo, evaluaciones e inspección, con reválidas y una EvAU única, y garantizar la enseñanza en español en todo el territorio.",
+                "apoyos": [
+                  "c-f093b04245",
+                  "c-baf6eb20f8",
+                  "c-b6a9b656d0",
+                  "c-c0293068b9"
+                ]
+              },
+              {
+                "texto": "Defiende la libre elección de centro con distrito único, mejores becas y prohibir los móviles en clase.",
+                "apoyos": [
+                  "c-3634e652f6",
+                  "c-938e39c9bd",
+                  "c-3e041ab774",
+                  "c-194da99a45"
+                ]
+              },
+              {
+                "texto": "Plantea limitar por aula los alumnos de otras culturas o con poco dominio del español, y dar preferencia a los españoles al elegir centro y en las ayudas.",
+                "apoyos": [
+                  "c-b31ab339d7",
+                  "c-bbeb261b25",
+                  "c-9ebb2d9e8e"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "familias-y-cuidados",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un plan nacional de natalidad que extienda los beneficios de las familias numerosas a todas desde el primer hijo, con más ayudas según el número de hijos.",
+                "apoyos": [
+                  "c-66b9dd975f",
+                  "c-34b576da66",
+                  "c-57f693c5cb"
+                ]
+              },
+              {
+                "texto": "Plantea bajar el IRPF según los hijos, que el Estado pague la cotización de quien cuide de sus hijos y una educación de 0 a 3 años gratuita.",
+                "apoyos": [
+                  "c-1db81ce0d4",
+                  "c-d0ff0c9f91",
+                  "c-fda794f8b2"
+                ]
+              },
+              {
+                "texto": "Pide más presupuesto para dependencia y plazas en residencias, y dar preferencia a los españoles en ayudas, guarderías y el Ingreso Mínimo Vital.",
+                "apoyos": [
+                  "c-c0f9037d2a",
+                  "c-e425ae2c9a",
+                  "c-3e9f22ef84",
+                  "c-fc0128b9be"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "inmigracion",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Sostiene que España no puede acoger a más inmigrantes y propone prohibir que quien entró de forma irregular regularice su situación, y suprimir el arraigo.",
+                "apoyos": [
+                  "c-f44189d398",
+                  "c-e4b34e50ca",
+                  "c-cfabae9b7d"
+                ]
+              },
+              {
+                "texto": "Plantea repatriar a quienes estén en situación irregular, deportar a quienes cometan delitos graves y facilitar el retorno de quienes vivan de subsidios, lo que llama «remigración».",
+                "apoyos": [
+                  "c-97f995434f",
+                  "c-2ab62bc611",
+                  "c-e7c5cff54c",
+                  "c-7b63a6e168"
+                ]
+              },
+              {
+                "texto": "Quiere dar preferencia a los españoles en vivienda, ayudas y servicios sociales, y reservarles el Ingreso Mínimo Vital.",
+                "apoyos": [
+                  "c-3e9f22ef84",
+                  "c-fc0128b9be",
+                  "c-4ea180c611"
+                ]
+              },
+              {
+                "texto": "Propone proteger las fronteras con apoyo de las Fuerzas Armadas, sobre todo en Ceuta y Melilla.",
+                "apoyos": [
+                  "c-82f13ab1f1",
+                  "c-610a185737"
+                ]
+              }
+            ],
+            "nota": ""
+          }
+        ]
+      },
+      "verificacion": {
+        "revisiones": [
+          {
+            "tema": "vivienda",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 2: «gravar más a compradores no comunitarios y fondos» amplía la cita, que habla de «operaciones especulativas de fondos o sociedades», no de cualquier compra de un fondo; se atribuye la calificación de especulativas.",
+              "Frase 3: «exigir residencia legal para alquilar» suaviza la medida del programa, que es la «prohibición del arrendamiento» a quienes no tienen residencia legal; se conserva el verbo prohibir."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone reformar la Ley del Suelo para construir más vivienda, con más suelo y menos trámites, y ampliar la vivienda protegida mediante colaboración público-privada.",
+                "apoyos": [
+                  "c-a7720ec799",
+                  "c-c365481e19",
+                  "c-9bcdb679d6"
+                ]
+              },
+              {
+                "texto": "Plantea derogar la Ley de Vivienda, IVA del 0 % en la primera vivienda nueva y más impuestos a compradores no comunitarios y a operaciones que considera especulativas.",
+                "apoyos": [
+                  "c-0e4fb0d41b",
+                  "c-35a4ee139a",
+                  "c-f7b6cb46e8",
+                  "c-67c2554333"
+                ]
+              },
+              {
+                "texto": "Quiere dar preferencia a los españoles en vivienda protegida y ayudas al alquiler, lo que llama «prioridad nacional», y prohibir alquilar a quien no tenga residencia legal.",
+                "apoyos": [
+                  "c-72da371848",
+                  "c-3e9f22ef84",
+                  "c-2b60099eec"
+                ]
+              },
+              {
+                "texto": "Pide desalojar las viviendas ocupadas en menos de 24 horas.",
+                "apoyos": [
+                  "c-ed89c845d9",
+                  "c-efe073293a"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "empleo",
+            "veredicto": "corregido",
+            "problemas": [
+              "Representatividad: la frase 3 salía entera del documento parcial de junio (umbral de 50 trabajadores, registro horario) y desplazaba medidas del programa electoral, que dedica varios puntos a la conciliación y a la vuelta al trabajo de las madres; se añade esa línea y se mantiene la del documento de junio de forma más breve.",
+              "Frase 3 original: «que empresa y trabajador acuerden cómo controlar la jornada» describe la consecuencia; la medida es el fin del registro horario obligatorio universal, que se nombra directamente.",
+              "Frase 1 se mantiene: la derogación de la reforma laboral está respaldada por el programa («derogar la legislación laboral de Sánchez») y por el documento de junio (Real Decreto-ley 32/2021), y los efectos negativos van atribuidos («a la que atribuye»)."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone derogar la reforma laboral del Gobierno actual, a la que atribuye más precariedad y menos contratación, y aprobar un Plan Nacional de Reindustrialización.",
+                "apoyos": [
+                  "c-634f7b5f1d",
+                  "c-4af95b7725",
+                  "c-ae6aa1f691"
+                ]
+              },
+              {
+                "texto": "Plantea una cuota de autónomos de cero euros para ingresos inferiores al salario mínimo y progresiva desde 50 euros por encima.",
+                "apoyos": [
+                  "c-d42cbb4bd3"
+                ]
+              },
+              {
+                "texto": "Quiere incentivar a las empresas que favorezcan la conciliación y facilitar la vuelta al trabajo de las madres que interrumpieron su carrera.",
+                "apoyos": [
+                  "c-84c4620ac8",
+                  "c-1f2100c945",
+                  "c-82602767ba",
+                  "c-828c940cdd"
+                ]
+              },
+              {
+                "texto": "Plantea además suprimir las obligaciones que se activan a partir de 50 trabajadores y el registro horario obligatorio.",
+                "apoyos": [
+                  "c-6542e85e79",
+                  "c-df19fab2b2",
+                  "c-b488904980"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "pensiones",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 3: el modelo mixto de reparto y capitalización y las carreras largas proceden solo de declaraciones (portavoz económico y otro diputado), pero se presentaban como planteamiento del partido sin atribuir; se atribuyen a quien lo dijo y se separan de lo que dice el programa.",
+              "Frase 3: «mejorar el trato a las carreras largas» va más allá de la cita, que habla de un «compromiso de trabajar sobre las largas carreras de cotización»; se ajusta."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Plantea asegurar la sostenibilidad de las pensiones con más crecimiento económico, empleo y salarios, y con medidas de apoyo a la natalidad.",
+                "apoyos": [
+                  "c-aab2a2817f",
+                  "c-57f693c5cb"
+                ]
+              },
+              {
+                "texto": "Propone que el Estado pague la cotización a la Seguridad Social de quienes se dedican al cuidado de sus hijos, para que no les perjudique en la jubilación.",
+                "apoyos": [
+                  "c-d0ff0c9f91"
+                ]
+              },
+              {
+                "texto": "Su portavoz económico ha planteado además un modelo mixto que combine el reparto con la capitalización individual.",
+                "apoyos": [
+                  "c-e862624276"
+                ]
+              },
+              {
+                "texto": "Otro diputado del partido se comprometió a trabajar sobre las carreras largas de cotización.",
+                "apoyos": [
+                  "c-019ba64b8a"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "impuestos",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 2: las cifras del IRPF (mínimo exento de 22.000 euros, tramos del 15 % y del 25 %) proceden de una declaración del portavoz económico, no del programa; «Ha planteado» con sujeto implícito las atribuía al partido como propuesta. Se atribuyen expresamente al portavoz económico, después de lo que dice el programa.",
+              "Frase 4: «compensarlo reduciendo deuda y déficit» invierte la cita: el programa quiere reducir la deuda y hacer compatible la rebaja con los servicios esenciales mediante el control del déficit, la eliminación del gasto superfluo e ideológico y el crecimiento. Se quita además el apoyo c-da4eeed7de (declaración sobre pensiones) porque el programa basta.",
+              "Frase 1: se añade el apoyo c-7925c77712 (reducción sistemática de todos los impuestos), que respalda «rebaja general»."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone una rebaja general de impuestos: un IRPF más simple y bajo, con tipo menor según los hijos, y menos IVA e Impuesto de Sociedades.",
+                "apoyos": [
+                  "c-c9e9ac899b",
+                  "c-7925c77712",
+                  "c-1db81ce0d4",
+                  "c-5486f73c97",
+                  "c-c30745e601"
+                ]
+              },
+              {
+                "texto": "Su portavoz económico planteó un IRPF con mínimo exento de 22.000 euros y dos tramos: 15 % hasta 70.000 euros y 25 % por encima.",
+                "apoyos": [
+                  "c-eae93dd328"
+                ]
+              },
+              {
+                "texto": "Plantea IVA del 0 % en la primera vivienda nueva, bajar los impuestos de la electricidad y gravar las remesas al extranjero.",
+                "apoyos": [
+                  "c-f7b6cb46e8",
+                  "c-48a4f28458",
+                  "c-2ff6f9c3e0"
+                ]
+              },
+              {
+                "texto": "Quiere reducir la deuda y financiar los servicios esenciales controlando el déficit y eliminando lo que considera gasto superfluo e ideológico.",
+                "apoyos": [
+                  "c-fa8e44b328"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "economia",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 1: «reducir el tamaño y el gasto de la Administración» suaviza las citas, que hablan de reducir el tamaño «al mínimo estrictamente necesario» y recortar los gastos superfluos «hasta el mínimo imprescindible»; se conserva esa fuerza."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone auditar la Administración, reducir su tamaño al mínimo necesario y recortar el gasto superfluo para compensar una bajada general de impuestos y reducir la deuda.",
+                "apoyos": [
+                  "c-43aed18a33",
+                  "c-3768113399",
+                  "c-78d008f082",
+                  "c-fa8e44b328"
+                ]
+              },
+              {
+                "texto": "Plantea una Ley de Unidad de Mercado para que lo legal en una comunidad autónoma lo sea en toda España, y derogar o modificar las leyes que considera trabas.",
+                "apoyos": [
+                  "c-f7225bfccf",
+                  "c-655ab462e9",
+                  "c-897f55d6d7",
+                  "c-3ebcae7d5c"
+                ]
+              },
+              {
+                "texto": "Quiere un Plan Nacional de Reindustrialización, revertir normas del Pacto Verde Europeo como la prohibición de motores de combustión, y rechaza el acuerdo UE-Mercosur.",
+                "apoyos": [
+                  "c-ae6aa1f691",
+                  "c-c192135111",
+                  "c-95c689fbe5",
+                  "c-cedd6788f4"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "sanidad",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 4: el condicional «Excluiría» se aparta de los verbos de atribución pedidos; se cambia por «Propone excluir» y se añade el fin del turismo sanitario, medida concreta del programa.",
+              "Frase 1: «recurrir a la colaboración público-privada» se ajusta a la cita («fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras»)."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un plan nacional para reducir las listas de espera, reforzar la atención primaria y pediátrica y fomentar la colaboración público-privada cuando acorte demoras.",
+                "apoyos": [
+                  "c-b549938775",
+                  "c-6414d28ad6",
+                  "c-4518ce72e5"
+                ]
+              },
+              {
+                "texto": "Plantea una tarjeta sanitaria única con historia clínica compartida en toda España.",
+                "apoyos": [
+                  "c-5f83bf1820"
+                ]
+              },
+              {
+                "texto": "Quiere mejorar sueldos y condiciones de los profesionales, con incentivos para plazas rurales y un plan de retorno de sanitarios emigrados.",
+                "apoyos": [
+                  "c-20d1e20de2",
+                  "c-dc8181427c",
+                  "c-a5331f9ff2"
+                ]
+              },
+              {
+                "texto": "Propone excluir de la sanidad pública a los extranjeros en situación irregular, salvo urgencias graves, y acabar con el turismo sanitario.",
+                "apoyos": [
+                  "c-43badd9b5b",
+                  "c-d54d17cc86",
+                  "c-18e6df2e45"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "educacion",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 3: cita como apoyo las aulas específicas de nivelación (c-bbeb261b25) sin mencionarlas; se añaden, y «limitar» se ajusta a «un número máximo por aula», como dice la cita. La preferencia a los españoles en la elección de centro y las ayudas pasa a una frase propia para no superar las 30 palabras."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone derogar la LOMLOE, unificar currículo, evaluaciones e inspección, con reválidas y una EvAU única, y garantizar la enseñanza en español en todo el territorio.",
+                "apoyos": [
+                  "c-f093b04245",
+                  "c-baf6eb20f8",
+                  "c-b6a9b656d0",
+                  "c-c0293068b9"
+                ]
+              },
+              {
+                "texto": "Defiende la libre elección de centro con distrito único, mejores becas y acabar con los móviles en clase.",
+                "apoyos": [
+                  "c-3634e652f6",
+                  "c-938e39c9bd",
+                  "c-3e041ab774",
+                  "c-194da99a45"
+                ]
+              },
+              {
+                "texto": "Plantea un número máximo por aula de alumnos de otras culturas o con poco dominio del español, y aulas de nivelación.",
+                "apoyos": [
+                  "c-b31ab339d7",
+                  "c-bbeb261b25"
+                ]
+              },
+              {
+                "texto": "Quiere dar preferencia a los españoles al elegir centro y en las ayudas educativas.",
+                "apoyos": [
+                  "c-9ebb2d9e8e"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "familias-y-cuidados",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 3: «dar preferencia a los españoles en […] el Ingreso Mínimo Vital» suaviza la cita, que dice que el IMV «atenderá únicamente» a los españoles con menos recursos; es una reserva, no una preferencia. Se separa en una frase propia."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un plan nacional de natalidad que extienda los beneficios de las familias numerosas a todas desde el primer hijo, con más ayudas según el número de hijos.",
+                "apoyos": [
+                  "c-66b9dd975f",
+                  "c-34b576da66",
+                  "c-57f693c5cb"
+                ]
+              },
+              {
+                "texto": "Plantea bajar el IRPF según los hijos, que el Estado pague la cotización de quien cuide de sus hijos y una educación de 0 a 3 años gratuita.",
+                "apoyos": [
+                  "c-1db81ce0d4",
+                  "c-d0ff0c9f91",
+                  "c-fda794f8b2"
+                ]
+              },
+              {
+                "texto": "Pide más presupuesto para dependencia y más plazas en residencias.",
+                "apoyos": [
+                  "c-c0f9037d2a",
+                  "c-e425ae2c9a"
+                ]
+              },
+              {
+                "texto": "Quiere dar preferencia a los españoles en ayudas y guarderías y reservar el Ingreso Mínimo Vital a los españoles con menos recursos.",
+                "apoyos": [
+                  "c-3e9f22ef84",
+                  "c-fc0128b9be"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "inmigracion",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 2: en el programa «remigración» es el nombre del plan para facilitar el retorno de los extranjeros que no contribuyan o vivan de subsidios; colocado al final de la enumeración parecía cubrir también la repatriación y la deportación (así lo usa solo el portavoz económico en una declaración). Se ata el término a ese plan. Se precisa además que la deportación alcanza a quienes «hagan del delito leve su forma de vida» («delitos graves o reiterados»).",
+              "Frase 3: citaba como apoyo la supresión de toda ayuda social a los inmigrantes en situación irregular (c-4ea180c611) sin mencionarla; se incorpora a la frase de repatriación. Se atribuye el término «prioridad nacional», que figura literalmente en las citas c-3e9f22ef84 y c-72da371848 y que el resumen describía sin nombrarlo. La reserva del Ingreso Mínimo Vital sale de este tema por espacio y queda en familias-y-cuidados.",
+              "Frase 4: «proteger las fronteras con apoyo de las Fuerzas Armadas» suaviza la «militarización de la frontera» de Ceuta y Melilla que propone el programa; se conserva el verbo, sin adoptar los términos «invasión» ni «invasores»."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Sostiene que España no puede acoger más inmigrantes y propone suprimir el arraigo y prohibir regularizar a quien entró de forma irregular.",
+                "apoyos": [
+                  "c-f44189d398",
+                  "c-e4b34e50ca",
+                  "c-cfabae9b7d"
+                ]
+              },
+              {
+                "texto": "Plantea repatriar a quien esté en situación irregular, suprimirle toda ayuda social y deportar a quien cometa delitos graves o reiterados.",
+                "apoyos": [
+                  "c-97f995434f",
+                  "c-4ea180c611",
+                  "c-2ab62bc611"
+                ]
+              },
+              {
+                "texto": "Quiere dar preferencia a los españoles en vivienda y ayudas, lo que llama «prioridad nacional», y lo que llama «remigración»: facilitar el retorno de extranjeros que viven de subsidios.",
+                "apoyos": [
+                  "c-3e9f22ef84",
+                  "c-72da371848",
+                  "c-e7c5cff54c",
+                  "c-7b63a6e168"
+                ]
+              },
+              {
+                "texto": "Propone que las Fuerzas Armadas participen en proteger las fronteras y militarizar la de Ceuta y Melilla.",
+                "apoyos": [
+                  "c-82f13ab1f1",
+                  "c-610a185737"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "p": "vox",
+      "g": [
+        "seguridad-y-justicia",
+        "democracia-e-instituciones",
+        "organizacion-territorial",
+        "medio-ambiente-y-energia",
+        "campo-y-medio-rural",
+        "transporte",
+        "igualdad-y-derechos",
+        "politica-exterior-y-defensa",
+        "ciencia-cultura-y-digital"
+      ],
+      "i": 1,
+      "redaccion": {
+        "resumenes": [
+          {
+            "tema": "seguridad-y-justicia",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone endurecer las penas: rebajar la edad penal de los menores, ampliar la prisión permanente revisable y castigar más a los incendiarios.",
+                "apoyos": [
+                  "c-eb8b520b13",
+                  "c-14a227569f",
+                  "c-fda237ae5a",
+                  "c-5b685923be"
+                ]
+              },
+              {
+                "texto": "Quiere desalojar las viviendas ocupadas ilegalmente en menos de 24 horas y tipificar como estafa lo que llama «inquiocupación».",
+                "apoyos": [
+                  "c-ed89c845d9",
+                  "c-2b6e90b5b5"
+                ]
+              },
+              {
+                "texto": "Pide más medios y equiparación salarial para policías, guardias civiles y funcionarios de prisiones, reconocidos como profesión de riesgo, y restablecer el OCON Sur contra el narcotráfico.",
+                "apoyos": [
+                  "c-f55d8a54b5",
+                  "c-1220e481eb",
+                  "c-942452ab6d",
+                  "c-35896f9aa1"
+                ]
+              },
+              {
+                "texto": "Plantea que los jueces elijan a los doce vocales judiciales del CGPJ, recuperar el delito de sedición y prohibir indultos por corrupción.",
+                "apoyos": [
+                  "c-f0ab87a703",
+                  "c-748dbec777"
+                ]
+              }
+            ],
+            "nota": "Todo procede del programa electoral de 2026. «Inquiocupación» va atribuido porque es término del partido."
+          },
+          {
+            "tema": "democracia-e-instituciones",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone que los jueces elijan por voto directo a los doce vocales judiciales del CGPJ y defiende que el control de constitucionalidad no dependa de «un órgano político».",
+                "apoyos": [
+                  "c-f0ab87a703",
+                  "c-360124ffda",
+                  "c-f735fceadb"
+                ]
+              },
+              {
+                "texto": "Plantea ilegalizar partidos y organizaciones que atenten contra la unidad territorial de España y agravar las penas por ofensas a los símbolos nacionales.",
+                "apoyos": [
+                  "c-0a51bf6519",
+                  "c-3b2bde6ffd",
+                  "c-59fea11041"
+                ]
+              },
+              {
+                "texto": "Quiere reducir la Administración: derogar tres normas por cada ley nueva, suprimir la cita previa obligatoria y eliminar progresivamente las subvenciones a partidos, sindicatos y patronales.",
+                "apoyos": [
+                  "c-0def1234eb",
+                  "c-4602cae7b5",
+                  "c-10b786684e",
+                  "c-78d008f082"
+                ]
+              },
+              {
+                "texto": "También pide reformar RTVE y auditar todas las administraciones contra la corrupción.",
+                "apoyos": [
+                  "c-8fd62c65a7",
+                  "c-e8fccff865"
+                ]
+              }
+            ],
+            "nota": "Todo procede del programa electoral de 2026; el documento de desregulación coincide en las medidas administrativas y no se cita aparte."
+          },
+          {
+            "tema": "organizacion-territorial",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone una Ley de Unidad de Mercado para que lo legal en una comunidad autónoma lo sea en toda España.",
+                "apoyos": [
+                  "c-f7225bfccf",
+                  "c-655ab462e9"
+                ]
+              },
+              {
+                "texto": "Su documento de junio plantea leyes estatales de armonización, mediante el artículo 150.3 de la Constitución, para imponer reglas comunes a las comunidades.",
+                "apoyos": [
+                  "c-72a0a866c3"
+                ]
+              },
+              {
+                "texto": "Pide garantizar la educación en español en todo el territorio y que no saber una lengua regional no impida acceder a plazas sanitarias.",
+                "apoyos": [
+                  "c-c0293068b9",
+                  "c-df3d3b2c2f"
+                ]
+              },
+              {
+                "texto": "Plantea ilegalizar las organizaciones que atenten contra la unidad territorial y militarizar la frontera de Ceuta y Melilla.",
+                "apoyos": [
+                  "c-0a51bf6519",
+                  "c-610a185737"
+                ]
+              }
+            ],
+            "nota": "Las declaraciones critican el Estado autonómico, pero ni el programa ni las citas proponen suprimirlo; el resumen no lo dice."
+          },
+          {
+            "tema": "medio-ambiente-y-energia",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone mantener las centrales nucleares derogando su calendario de cierre y estudiar nuevas centrales junto a las actuales.",
+                "apoyos": [
+                  "c-8235ec5611",
+                  "c-8cba169e63"
+                ]
+              },
+              {
+                "texto": "Quiere bajar los impuestos a la electricidad y eliminar el tope a la inversión en redes eléctricas, con autorizaciones en plazos cerrados.",
+                "apoyos": [
+                  "c-48a4f28458",
+                  "c-e8927a9956"
+                ]
+              },
+              {
+                "texto": "Plantea revertir normas del Pacto Verde Europeo, como la prohibición de motores de combustión o los impuestos al CO2, y suprimir las zonas de bajas emisiones.",
+                "apoyos": [
+                  "c-c192135111",
+                  "c-cee2109f7d"
+                ]
+              },
+              {
+                "texto": "Propone un Plan Nacional del Agua que interconecte las cuencas, y su documento de junio prevé derogar la Ley de cambio climático.",
+                "apoyos": [
+                  "c-f5140a9b79",
+                  "c-e398d782b5"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "campo-y-medio-rural",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Rechaza el acuerdo UE-Mercosur y los acuerdos que obliguen a competir «en desigualdad de condiciones», y pide cláusulas espejo y más controles en frontera.",
+                "apoyos": [
+                  "c-95c689fbe5",
+                  "c-3b8cbcbd0b",
+                  "c-cedd6788f4"
+                ]
+              },
+              {
+                "texto": "Se opone a recortar la PAC y quiere que su reparto prime a las zonas despobladas, sin exigencias burocráticas y medioambientales.",
+                "apoyos": [
+                  "c-837a3c34ba"
+                ]
+              },
+              {
+                "texto": "Propone silencio administrativo positivo en los trámites rurales, un fondo de compensación ante normas europeas y catástrofes, y fiscalidad mínima en zonas en riesgo de despoblación.",
+                "apoyos": [
+                  "c-45ea212475",
+                  "c-751b5e3e0c",
+                  "c-9655bdbe78"
+                ]
+              },
+              {
+                "texto": "Plantea también un Plan Nacional del Agua que interconecte todas las cuencas.",
+                "apoyos": [
+                  "c-f5140a9b79",
+                  "c-13832c565e"
+                ]
+              }
+            ],
+            "nota": "La frase de la PAC evita el término del partido («fanatismo climático»)."
+          },
+          {
+            "tema": "transporte",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un plan nacional de infraestructuras y más inversión en carreteras, ferrocarril, puertos, nodos logísticos y obras contra inundaciones.",
+                "apoyos": [
+                  "c-342b098dd5",
+                  "c-b8f3d9bd56"
+                ]
+              },
+              {
+                "texto": "En el tren, prioriza la seguridad, el mantenimiento, Cercanías y Media Distancia, y propone auditar la red y electrificar líneas convencionales para conectar la España rural.",
+                "apoyos": [
+                  "c-dea5e3f5f6",
+                  "c-077dc8dc01",
+                  "c-38046121bc"
+                ]
+              },
+              {
+                "texto": "Quiere acabar con las zonas de bajas emisiones.",
+                "apoyos": [
+                  "c-cee2109f7d"
+                ]
+              },
+              {
+                "texto": "Su documento de junio prevé derogar la Ley de Movilidad Sostenible y exigir a la UE reformar la prohibición de vender coches de combustión desde 2035.",
+                "apoyos": [
+                  "c-0ab0008ff2",
+                  "c-f69cb7aa1c",
+                  "c-e11a40bbcb"
+                ]
+              }
+            ],
+            "nota": "Se distingue derogar (ley española) de exigir a la UE que reforme (reglamento europeo), según el apartado de cada cita."
+          },
+          {
+            "tema": "igualdad-y-derechos",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone derogar las leyes que, según sostiene, «han criminalizado a los hombres y desprotegido a las mujeres», y atribuye a las denuncias falsas perjuicios a muchas familias.",
+                "apoyos": [
+                  "c-69f5d7e000",
+                  "c-1358905df7"
+                ]
+              },
+              {
+                "texto": "En su lugar, pide leyes y protección policial y judicial para las mujeres víctimas de violencia.",
+                "apoyos": [
+                  "c-1358905df7",
+                  "c-64b31bef76"
+                ]
+              },
+              {
+                "texto": "Plantea prohibir el burka y el niqab en espacios públicos y defiende el derecho a la vida «desde su concepción hasta la muerte natural».",
+                "apoyos": [
+                  "c-133f0de770",
+                  "c-e2db9c18a9"
+                ]
+              },
+              {
+                "texto": "Su documento de junio prevé derogar la obligación de que las empresas tengan planes de igualdad y LGTBI.",
+                "apoyos": [
+                  "c-6076b4197c",
+                  "c-dc35c93f2a",
+                  "c-4d80cc11a9"
+                ]
+              }
+            ],
+            "nota": "El programa no nombra qué leyes derogaría en la primera frase; el resumen no las identifica."
+          },
+          {
+            "tema": "politica-exterior-y-defensa",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone aumentar la inversión en Defensa, mejorar los sueldos militares y reconocer el servicio en las Fuerzas Armadas como profesión de riesgo.",
+                "apoyos": [
+                  "c-e30afa996f",
+                  "c-29014530c9",
+                  "c-9904bc6820"
+                ]
+              },
+              {
+                "texto": "Plantea un modelo permanente de protección de fronteras con participación militar y militarizar las de Ceuta y Melilla.",
+                "apoyos": [
+                  "c-82f13ab1f1",
+                  "c-610a185737"
+                ]
+              },
+              {
+                "texto": "Pide sanciones, suspender acuerdos y revisar relaciones con Marruecos hasta que respete la soberanía española, y presión internacional para recuperar Gibraltar.",
+                "apoyos": [
+                  "c-a577d1022a",
+                  "c-cee847a5d4"
+                ]
+              },
+              {
+                "texto": "Rechaza el acuerdo UE-Mercosur, y su documento de junio prevé exigir a la UE suprimir la normativa del Pacto Verde y poner fin al Acuerdo de Asociación con Marruecos.",
+                "apoyos": [
+                  "c-95c689fbe5",
+                  "c-cedd6788f4",
+                  "c-330f63ce0d",
+                  "c-dd431561d9"
+                ]
+              }
+            ],
+            "nota": ""
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone reforzar la inversión en I+D+i y los incentivos fiscales a la innovación, y un plan para recuperar el talento emigrado.",
+                "apoyos": [
+                  "c-73e2a1e9c0",
+                  "c-3e1914425f"
+                ]
+              },
+              {
+                "texto": "Quiere impulsar la inteligencia artificial en empresas y administraciones, garantizando siempre la atención presencial.",
+                "apoyos": [
+                  "c-93a67495e7",
+                  "c-acb26bc6dc"
+                ]
+              },
+              {
+                "texto": "En cultura, plantea bajar impuestos al arte y los espectáculos en vivo, una nueva Ley de Mecenazgo con más deducciones en el IRPF y la defensa de la tauromaquia.",
+                "apoyos": [
+                  "c-69964c851f",
+                  "c-dba4689874",
+                  "c-0e0ba8f387"
+                ]
+              },
+              {
+                "texto": "Su documento de junio prevé reescribir la ley de protección de datos al «mínimo imprescindible».",
+                "apoyos": [
+                  "c-3e6ee5deda",
+                  "c-75f295b361"
+                ]
+              }
+            ],
+            "nota": ""
+          }
+        ]
+      },
+      "verificacion": {
+        "revisiones": [
+          {
+            "tema": "seguridad-y-justicia",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 3: «reconocidos como profesión de riesgo» se lee como un hecho ya existente; el programa lo propone («Reconocimiento … como profesión de riesgo»). Se reescribe como petición.",
+              "Representatividad: el programa dedica varias medidas concretas al terrorismo (imprescriptibilidad de todos sus delitos, ley contra el enaltecimiento, fin de privilegios penitenciarios) y el resumen no lo recogía. Se añade la imprescriptibilidad; para no pasar de 90 palabras se quita «doce» y la mención de los indultos (que además omitía que la prohibición alcanza también a delitos contra la integridad territorial).",
+              "«Inquiocupación» está literalmente en c-ed89c845d9 y c-2b6e90b5b5 y va atribuido: correcto. No se adopta «okupación» ni «invasión»."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone endurecer las penas: rebajar la edad penal de los menores, ampliar la prisión permanente revisable y castigar más a los incendiarios.",
+                "apoyos": [
+                  "c-eb8b520b13",
+                  "c-14a227569f",
+                  "c-fda237ae5a",
+                  "c-5b685923be"
+                ]
+              },
+              {
+                "texto": "Quiere desalojar las viviendas ocupadas en menos de 24 horas y tipificar como estafa lo que llama «inquiocupación».",
+                "apoyos": [
+                  "c-ed89c845d9",
+                  "c-2b6e90b5b5"
+                ]
+              },
+              {
+                "texto": "Pide más medios, equiparación salarial y reconocimiento como profesión de riesgo para policías, guardias civiles y funcionarios de prisiones, y restablecer el OCON Sur contra el narcotráfico.",
+                "apoyos": [
+                  "c-f55d8a54b5",
+                  "c-1220e481eb",
+                  "c-942452ab6d",
+                  "c-35896f9aa1"
+                ]
+              },
+              {
+                "texto": "Plantea que los jueces elijan a los vocales judiciales del CGPJ, recuperar el delito de sedición y hacer imprescriptibles los delitos de terrorismo.",
+                "apoyos": [
+                  "c-f0ab87a703",
+                  "c-748dbec777",
+                  "c-dbb1e4a963"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "democracia-e-instituciones",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 3: «Quiere reducir la Administración» no cubre «derogar tres normas por cada ley nueva», que es reducción de normas, no de Administración. Se añade «y las normas».",
+              "Representatividad: el programa propone la «superación» de las leyes que considera divisivas, citando la de Memoria Democrática (c-0a0be1bdc4, medida concreta), y el resumen no la recogía. Se añade con el verbo de la cita («superar»), sin convertirlo en derogar.",
+              "Para no pasar de 90 palabras se acortan las frases 1 y 2 sin cambiar su contenido."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone que los jueces elijan a los vocales judiciales del CGPJ y que el control de constitucionalidad no dependa de «un órgano político».",
+                "apoyos": [
+                  "c-f0ab87a703",
+                  "c-360124ffda",
+                  "c-f735fceadb"
+                ]
+              },
+              {
+                "texto": "Plantea ilegalizar partidos y organizaciones que atenten contra la unidad territorial y agravar las penas por ofensas a los símbolos nacionales.",
+                "apoyos": [
+                  "c-0a51bf6519",
+                  "c-3b2bde6ffd",
+                  "c-59fea11041"
+                ]
+              },
+              {
+                "texto": "Quiere reducir la Administración y las normas: derogar tres por cada ley nueva, suprimir la cita previa obligatoria y eliminar progresivamente las subvenciones a partidos, sindicatos y patronales.",
+                "apoyos": [
+                  "c-0def1234eb",
+                  "c-4602cae7b5",
+                  "c-10b786684e",
+                  "c-78d008f082"
+                ]
+              },
+              {
+                "texto": "Pide reformar RTVE, auditar las administraciones contra la corrupción y superar leyes como la de Memoria Democrática.",
+                "apoyos": [
+                  "c-8fd62c65a7",
+                  "c-e8fccff865",
+                  "c-0a0be1bdc4"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "organizacion-territorial",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 2: «Su documento de junio» no se entiende para el lector de la web. Se sustituye por «En un documento anterior sobre regulación».",
+              "Frase 4: «ilegalizar las organizaciones» omite que la cita (c-0a51bf6519) incluye expresamente a los partidos políticos. Se corrige a «partidos y organizaciones».",
+              "Comprobado: ninguna cita propone suprimir el Estado autonómico (solo lo critican el documento anterior y una enmienda) y el resumen no se lo atribuye. Las leyes de armonización vía artículo 150.3 están en c-72a0a866c3 con el verbo «imponer reglas comunes»: fiel.",
+              "No se adopta «invasores» ni «invasión» de las citas de Ceuta y Melilla."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone una Ley de Unidad de Mercado para que lo legal en una comunidad autónoma lo sea en toda España.",
+                "apoyos": [
+                  "c-f7225bfccf",
+                  "c-655ab462e9"
+                ]
+              },
+              {
+                "texto": "En un documento anterior sobre regulación, plantea leyes de armonización basadas en el artículo 150.3 de la Constitución para imponer reglas comunes a las comunidades.",
+                "apoyos": [
+                  "c-72a0a866c3"
+                ]
+              },
+              {
+                "texto": "Pide garantizar la educación en español en todo el territorio y que no saber una lengua regional no impida acceder a plazas sanitarias.",
+                "apoyos": [
+                  "c-c0293068b9",
+                  "c-df3d3b2c2f"
+                ]
+              },
+              {
+                "texto": "Plantea ilegalizar partidos y organizaciones que atenten contra la unidad territorial y militarizar la frontera de Ceuta y Melilla.",
+                "apoyos": [
+                  "c-0a51bf6519",
+                  "c-610a185737"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "medio-ambiente-y-energia",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 4: «su documento de junio» no se entiende para el lector; además, una medida del documento anterior (derogar la Ley de cambio climático) ocupaba el sitio de medidas del programa electoral que el resumen omitía.",
+              "Representatividad: faltaba la oposición del programa a la «instalación descontrolada» de grandes plantas solares y eólicas (c-3a85232ab0). Se añade y, por el límite de palabras, se retira la derogación de la Ley de cambio climático, que solo está en el documento anterior.",
+              "Frase 2: «bajar los impuestos» suavizaba la «bajada masiva» de la cita; se conserva la fuerza.",
+              "Frase 3: «suprimir las zonas de bajas emisiones» no es lo que dice la cita, que pide acabar con «la imposición de ZBE». Se corrige.",
+              "Frase 1: «estudiar nuevas centrales» se precisa como «estudiar instalar otras junto a las actuales», que es lo que dice la cita (estudios para instalar centrales en los emplazamientos adyacentes)."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone mantener las centrales nucleares derogando su calendario de cierre y estudiar instalar otras junto a las actuales.",
+                "apoyos": [
+                  "c-8235ec5611",
+                  "c-8cba169e63"
+                ]
+              },
+              {
+                "texto": "Quiere una bajada masiva de impuestos a la electricidad y eliminar el tope a la inversión en redes eléctricas.",
+                "apoyos": [
+                  "c-48a4f28458",
+                  "c-e8927a9956"
+                ]
+              },
+              {
+                "texto": "Plantea revertir normas del Pacto Verde, como la prohibición de motores de combustión o los impuestos al CO2, y la imposición de zonas de bajas emisiones.",
+                "apoyos": [
+                  "c-c192135111",
+                  "c-cee2109f7d"
+                ]
+              },
+              {
+                "texto": "Propone un Plan Nacional del Agua que interconecte todas las cuencas y quiere impedir que macroplantas solares y eólicas sin control destruyan riqueza agrícola y patrimonio natural.",
+                "apoyos": [
+                  "c-f5140a9b79",
+                  "c-3a85232ab0"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "campo-y-medio-rural",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 2: «sin exigencias burocráticas y medioambientales» era una construcción ambigua; se reescribe como lo que pide la cita («el fin de» esas exigencias en la PAC), sin adoptar el término del partido «fanatismo climático».",
+              "Frase 1: se acorta sin cambiar el contenido para no pasar de 90 palabras.",
+              "Representatividad: la pesca (revisión de la Política Pesquera Común y sus cuotas, c-ded245f459, medida concreta del programa) no aparecía. Se añade a la última frase."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Rechaza el acuerdo UE-Mercosur y cualquier acuerdo que obligue a competir «en desigualdad de condiciones»; pide cláusulas espejo y más controles fronterizos.",
+                "apoyos": [
+                  "c-95c689fbe5",
+                  "c-3b8cbcbd0b",
+                  "c-cedd6788f4"
+                ]
+              },
+              {
+                "texto": "Se opone a recortar la PAC, quiere que su reparto prime a las zonas despobladas y pide acabar con sus exigencias burocráticas y medioambientales.",
+                "apoyos": [
+                  "c-837a3c34ba"
+                ]
+              },
+              {
+                "texto": "Propone silencio administrativo positivo en trámites rurales, un fondo de compensación ante normas europeas y catástrofes, y fiscalidad mínima donde haya riesgo de despoblación.",
+                "apoyos": [
+                  "c-45ea212475",
+                  "c-751b5e3e0c",
+                  "c-9655bdbe78"
+                ]
+              },
+              {
+                "texto": "Plantea un Plan Nacional del Agua que interconecte todas las cuencas y revisar la Política Pesquera Común y sus cuotas.",
+                "apoyos": [
+                  "c-f5140a9b79",
+                  "c-13832c565e",
+                  "c-ded245f459"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "transporte",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 3: «acabar con las zonas de bajas emisiones» amplía la cita, que pide acabar con «la imposición de ZBE» y la presenta como una restricción a la libertad de circulación. Se corrige y se atribuye ese juicio.",
+              "Frase 4: «Su documento de junio» no se entiende para el lector; se sustituye. Comprobado que distingue bien derogar (Ley 9/2025 de Movilidad Sostenible, apartado «Primeras leyes que derogaremos») y exigir a la UE que reforme (Reglamento 2019/631, apartado «Principal normativa europea cuya reforma exigiremos»)."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone un plan nacional de infraestructuras y más inversión en carreteras, ferrocarril, puertos, nodos logísticos y obras contra inundaciones.",
+                "apoyos": [
+                  "c-342b098dd5",
+                  "c-b8f3d9bd56"
+                ]
+              },
+              {
+                "texto": "En el tren, prioriza la seguridad, el mantenimiento, Cercanías y Media Distancia; propone auditar la red y electrificar líneas convencionales para conectar la España rural.",
+                "apoyos": [
+                  "c-dea5e3f5f6",
+                  "c-077dc8dc01",
+                  "c-38046121bc"
+                ]
+              },
+              {
+                "texto": "Quiere acabar con la imposición de zonas de bajas emisiones, que considera contraria a la libertad de circulación.",
+                "apoyos": [
+                  "c-cee2109f7d"
+                ]
+              },
+              {
+                "texto": "En un documento anterior sobre regulación, prevé derogar la Ley de Movilidad Sostenible y exigir a la UE reformar la prohibición de vender coches de combustión desde 2035.",
+                "apoyos": [
+                  "c-0ab0008ff2",
+                  "c-f69cb7aa1c",
+                  "c-e11a40bbcb"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "igualdad-y-derechos",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 4: «Su documento de junio» no se entiende para el lector; se sustituye. Comprobado que el apartado de c-4d80cc11a9 es «Primeras leyes que derogaremos» y que c-6076b4197c y c-dc35c93f2a dicen «Se deroga»: el verbo «derogar» es fiel.",
+              "Comprobado: la frase 1 cita literalmente c-69f5d7e000, atribuida («según sostiene»), sin nombrar leyes que la cita no nombra y sin hablar de «leyes de género», que la cita no dice. La frase 2 recoge lo que propone a cambio (c-1358905df7, c-64b31bef76), lo que da una imagen equilibrada.",
+              "Se mantiene sin cambios el resto. Quedan fuera por espacio el deporte femenino por criterios biológicos y el fin de los menús halal; no desplazan a ninguna línea más importante."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone derogar las leyes que, según sostiene, «han criminalizado a los hombres y desprotegido a las mujeres», y atribuye a las denuncias falsas perjuicios a muchas familias.",
+                "apoyos": [
+                  "c-69f5d7e000",
+                  "c-1358905df7"
+                ]
+              },
+              {
+                "texto": "En su lugar, pide leyes y protección policial y judicial para las mujeres víctimas de violencia.",
+                "apoyos": [
+                  "c-1358905df7",
+                  "c-64b31bef76"
+                ]
+              },
+              {
+                "texto": "Plantea prohibir el burka y el niqab en espacios públicos y defiende el derecho a la vida «desde su concepción hasta la muerte natural».",
+                "apoyos": [
+                  "c-133f0de770",
+                  "c-e2db9c18a9"
+                ]
+              },
+              {
+                "texto": "En un documento anterior sobre regulación, prevé derogar la obligación de que las empresas tengan planes de igualdad y LGTBI.",
+                "apoyos": [
+                  "c-6076b4197c",
+                  "c-dc35c93f2a",
+                  "c-4d80cc11a9"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "politica-exterior-y-defensa",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 4: «su documento de junio» no se entiende para el lector, y dos medidas del documento anterior (exigir a la UE suprimir la normativa del Pacto Verde y poner fin al Acuerdo de Asociación con Marruecos) ocupaban el sitio de una medida concreta del programa electoral que faltaba: retirar la cooperación al desarrollo a los países que no colaboren en la gestión de los flujos migratorios (c-5379fabca8). Se sustituye. El Pacto Verde ya está en el resumen de medio ambiente y la presión a Marruecos en la frase 3."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone aumentar la inversión en Defensa, mejorar los sueldos militares y reconocer el servicio en las Fuerzas Armadas como profesión de riesgo.",
+                "apoyos": [
+                  "c-e30afa996f",
+                  "c-29014530c9",
+                  "c-9904bc6820"
+                ]
+              },
+              {
+                "texto": "Plantea un modelo permanente de protección de fronteras con participación militar y militarizar las de Ceuta y Melilla.",
+                "apoyos": [
+                  "c-82f13ab1f1",
+                  "c-610a185737"
+                ]
+              },
+              {
+                "texto": "Pide sanciones, suspender acuerdos y revisar relaciones con Marruecos hasta que respete la soberanía española, y presión internacional para recuperar Gibraltar.",
+                "apoyos": [
+                  "c-a577d1022a",
+                  "c-cee847a5d4"
+                ]
+              },
+              {
+                "texto": "Rechaza el acuerdo UE-Mercosur y plantea retirar la cooperación al desarrollo a los países que no colaboren en la gestión de los flujos migratorios.",
+                "apoyos": [
+                  "c-95c689fbe5",
+                  "c-cedd6788f4",
+                  "c-5379fabca8"
+                ]
+              }
+            ]
+          },
+          {
+            "tema": "ciencia-cultura-y-digital",
+            "veredicto": "corregido",
+            "problemas": [
+              "Frase 4: «Su documento de junio» no se entiende para el lector; se sustituye. Comprobado: «mínimo imprescindible» está literal en c-3e6ee5deda y el apartado de c-75f295b361 es de revisión y reforma, no de derogación: «reescribir» es fiel.",
+              "Representatividad: en lo digital, el programa propone proteger a los menores frente a riesgos de los entornos digitales (c-18eb06128d) y el resumen no lo recogía, mientras que la única medida digital venía del documento anterior. Se añade; para hacer sitio se unen I+D+i e inteligencia artificial en una frase (se pierde el matiz de la atención presencial)."
+            ],
+            "base": "suficiente",
+            "frases": [
+              {
+                "texto": "Propone reforzar la inversión en I+D+i y los incentivos fiscales a la innovación, un plan para recuperar el talento emigrado e impulsar la inteligencia artificial en empresas y administraciones.",
+                "apoyos": [
+                  "c-73e2a1e9c0",
+                  "c-3e1914425f",
+                  "c-93a67495e7",
+                  "c-acb26bc6dc"
+                ]
+              },
+              {
+                "texto": "En cultura, plantea bajar impuestos al arte y los espectáculos en vivo, elevar deducciones del IRPF con una nueva Ley de Mecenazgo y defender la tauromaquia.",
+                "apoyos": [
+                  "c-69964c851f",
+                  "c-dba4689874",
+                  "c-0e0ba8f387"
+                ]
+              },
+              {
+                "texto": "Quiere proteger a los menores frente a riesgos digitales como la pornografía o la adicción al juego.",
+                "apoyos": [
+                  "c-18eb06128d"
+                ]
+              },
+              {
+                "texto": "En un documento anterior sobre regulación, propone reescribir la ley de protección de datos al «mínimo imprescindible».",
+                "apoyos": [
+                  "c-3e6ee5deda",
+                  "c-75f295b361"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

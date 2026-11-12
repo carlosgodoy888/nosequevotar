@@ -1,0 +1,98 @@
+{
+  "resumenes": [
+    {
+      "tema": "vivienda",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone reformar la Ley del Suelo para construir más vivienda, con más suelo y menos trámites, y ampliar la vivienda protegida mediante colaboración público-privada.", "apoyos": ["c-a7720ec799", "c-c365481e19", "c-9bcdb679d6"] },
+        { "texto": "Plantea derogar la Ley de Vivienda, aplicar IVA del 0 % a la compra de la primera vivienda nueva y gravar más a compradores no comunitarios y fondos.", "apoyos": ["c-0e4fb0d41b", "c-35a4ee139a", "c-f7b6cb46e8", "c-67c2554333"] },
+        { "texto": "Quiere dar preferencia a los españoles en la vivienda protegida y las ayudas al alquiler, lo que llama «prioridad nacional», y exigir residencia legal para alquilar.", "apoyos": ["c-72da371848", "c-3e9f22ef84", "c-2b60099eec"] },
+        { "texto": "Pide desalojar las viviendas ocupadas en menos de 24 horas.", "apoyos": ["c-ed89c845d9", "c-efe073293a"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "empleo",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar la reforma laboral del Gobierno actual, a la que atribuye más precariedad y menos contratación, y aprobar un Plan Nacional de Reindustrialización.", "apoyos": ["c-634f7b5f1d", "c-4af95b7725", "c-ae6aa1f691"] },
+        { "texto": "Plantea una cuota de autónomos de cero euros para quienes ingresen menos del salario mínimo y progresiva desde 50 euros por encima de ese umbral.", "apoyos": ["c-d42cbb4bd3"] },
+        { "texto": "Quiere suprimir las obligaciones que se activan al llegar a 50 trabajadores y que empresa y trabajador acuerden cómo controlar la jornada, en lugar del registro horario obligatorio.", "apoyos": ["c-6542e85e79", "c-df19fab2b2", "c-b488904980"] }
+      ],
+      "nota": "La derogación de la reforma laboral figura en el programa electoral como «legislación laboral de Sánchez»; el documento de desregulación concreta que se trata del Real Decreto-ley 32/2021."
+    },
+    {
+      "tema": "pensiones",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea asegurar la sostenibilidad de las pensiones con más crecimiento económico, empleo y salarios, y con medidas de apoyo a la natalidad.", "apoyos": ["c-aab2a2817f", "c-57f693c5cb"] },
+        { "texto": "Propone que el Estado pague la cotización a la Seguridad Social de quienes se dedican al cuidado de sus hijos, para que no les perjudique en la jubilación.", "apoyos": ["c-d0ff0c9f91"] },
+        { "texto": "Plantea también una reforma hacia un modelo mixto que combine el reparto con la capitalización individual, y mejorar el trato a las carreras largas de cotización.", "apoyos": ["c-e862624276", "c-019ba64b8a"] }
+      ],
+      "nota": "El modelo mixto de reparto y capitalización y las carreras largas proceden de declaraciones de portavoces, no del programa electoral, que en pensiones es más general."
+    },
+    {
+      "tema": "impuestos",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una rebaja general de impuestos: un IRPF más bajo y simple, con tipo menor según los hijos, y menos IVA e Impuesto de Sociedades.", "apoyos": ["c-c9e9ac899b", "c-1db81ce0d4", "c-5486f73c97", "c-c30745e601"] },
+        { "texto": "Ha planteado un IRPF con mínimo exento de 22.000 euros y dos tramos: 15 % hasta 70.000 euros y 25 % por encima.", "apoyos": ["c-eae93dd328"] },
+        { "texto": "Plantea IVA del 0 % en la compra de la primera vivienda nueva, bajar los impuestos de la electricidad y gravar las remesas al extranjero.", "apoyos": ["c-f7b6cb46e8", "c-48a4f28458", "c-2ff6f9c3e0"] },
+        { "texto": "Quiere compensarlo reduciendo deuda y déficit y eliminando lo que considera gasto superfluo e ideológico.", "apoyos": ["c-fa8e44b328", "c-da4eeed7de"] }
+      ],
+      "nota": "Las cifras del IRPF (mínimo exento de 22.000 euros, tramos del 15 % y 25 %) proceden de una declaración del portavoz económico; el programa electoral habla de simplificar y bajar el IRPF sin dar cifras."
+    },
+    {
+      "tema": "economia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone reducir el tamaño y el gasto de la Administración mediante auditorías, para compensar una bajada general de impuestos y reducir la deuda pública.", "apoyos": ["c-43aed18a33", "c-3768113399", "c-78d008f082", "c-fa8e44b328"] },
+        { "texto": "Plantea una Ley de Unidad de Mercado para que lo legal en una comunidad autónoma lo sea en toda España, y derogar o modificar las leyes que considera trabas.", "apoyos": ["c-f7225bfccf", "c-655ab462e9", "c-897f55d6d7", "c-3ebcae7d5c"] },
+        { "texto": "Quiere un Plan Nacional de Reindustrialización, revertir normas del Pacto Verde Europeo como la prohibición de motores de combustión, y rechaza el acuerdo UE-Mercosur.", "apoyos": ["c-ae6aa1f691", "c-c192135111", "c-95c689fbe5", "c-cedd6788f4"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "sanidad",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone un plan nacional para reducir las listas de espera, reforzar la atención primaria y pediátrica y recurrir a la colaboración público-privada cuando acorte demoras.", "apoyos": ["c-b549938775", "c-6414d28ad6", "c-4518ce72e5"] },
+        { "texto": "Plantea una tarjeta sanitaria única con historia clínica compartida en toda España.", "apoyos": ["c-5f83bf1820"] },
+        { "texto": "Quiere mejorar sueldos y condiciones de los profesionales, con incentivos para plazas rurales y un plan de retorno de sanitarios emigrados.", "apoyos": ["c-20d1e20de2", "c-dc8181427c", "c-a5331f9ff2"] },
+        { "texto": "Excluiría de la sanidad pública a los extranjeros en situación irregular, salvo urgencias graves.", "apoyos": ["c-43badd9b5b", "c-d54d17cc86"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "educacion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar la LOMLOE, unificar currículo, evaluaciones e inspección, con reválidas y una EvAU única, y garantizar la enseñanza en español en todo el territorio.", "apoyos": ["c-f093b04245", "c-baf6eb20f8", "c-b6a9b656d0", "c-c0293068b9"] },
+        { "texto": "Defiende la libre elección de centro con distrito único, mejores becas y prohibir los móviles en clase.", "apoyos": ["c-3634e652f6", "c-938e39c9bd", "c-3e041ab774", "c-194da99a45"] },
+        { "texto": "Plantea limitar por aula los alumnos de otras culturas o con poco dominio del español, y dar preferencia a los españoles al elegir centro y en las ayudas.", "apoyos": ["c-b31ab339d7", "c-bbeb261b25", "c-9ebb2d9e8e"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone un plan nacional de natalidad que extienda los beneficios de las familias numerosas a todas desde el primer hijo, con más ayudas según el número de hijos.", "apoyos": ["c-66b9dd975f", "c-34b576da66", "c-57f693c5cb"] },
+        { "texto": "Plantea bajar el IRPF según los hijos, que el Estado pague la cotización de quien cuide de sus hijos y una educación de 0 a 3 años gratuita.", "apoyos": ["c-1db81ce0d4", "c-d0ff0c9f91", "c-fda794f8b2"] },
+        { "texto": "Pide más presupuesto para dependencia y plazas en residencias, y dar preferencia a los españoles en ayudas, guarderías y el Ingreso Mínimo Vital.", "apoyos": ["c-c0f9037d2a", "c-e425ae2c9a", "c-3e9f22ef84", "c-fc0128b9be"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "inmigracion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Sostiene que España no puede acoger a más inmigrantes y propone prohibir que quien entró de forma irregular regularice su situación, y suprimir el arraigo.", "apoyos": ["c-f44189d398", "c-e4b34e50ca", "c-cfabae9b7d"] },
+        { "texto": "Plantea repatriar a quienes estén en situación irregular, deportar a quienes cometan delitos graves y facilitar el retorno de quienes vivan de subsidios, lo que llama «remigración».", "apoyos": ["c-97f995434f", "c-2ab62bc611", "c-e7c5cff54c", "c-7b63a6e168"] },
+        { "texto": "Quiere dar preferencia a los españoles en vivienda, ayudas y servicios sociales, y reservarles el Ingreso Mínimo Vital.", "apoyos": ["c-3e9f22ef84", "c-fc0128b9be", "c-4ea180c611"] },
+        { "texto": "Propone proteger las fronteras con apoyo de las Fuerzas Armadas, sobre todo en Ceuta y Melilla.", "apoyos": ["c-82f13ab1f1", "c-610a185737"] }
+      ],
+      "nota": ""
+    }
+  ]
+}

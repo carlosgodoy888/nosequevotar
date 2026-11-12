@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** coalicion. Miembros: Coalición Canaria (CC); Municipalistas Primero Canarias (1.ºCAN)
 - **Cabeza de cartel:** Cristina Valido (Santa Cruz de Tenerife) y Teodoro Sosa (Las Palmas).
-- **Programa para el 29 de noviembre:** publicado (comprobado el 10 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 223 vigentes: 182 medidas, de ellas 84 concretas, y 41 posiciones. De programa, verificadas contra su página: 111 exactas y 112 normalizadas.
 - **Pendiente:** La medida 11 (p. 9) está cortada en el propio PDF («…desplazamientos interinsulares por»); comprobado con la imagen de la página. La cita se conserva tal cual.
 

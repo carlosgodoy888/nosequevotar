@@ -1,94 +1,108 @@
 {
   "ruta": "/metodo/",
   "titulo": "Método",
-  "tituloSeo": "Método del test sin siglas: de dónde salen las propuestas y cómo se cuentan",
-  "descripcion": "Cómo elegimos y escribimos las propuestas del test sin siglas, de qué programas de 2023 salen, cómo se calcula el resultado y qué límites tiene.",
-  "entradilla": "Las propuestas del [test sin siglas](/test/) salen de los programas electorales de 2023 de cada partido. Las escribimos con palabras neutras, sin nombres ni territorios, y cada una enlaza con la página del programa de la que sale.",
+  "tituloSeo": "Método: de dónde sale lo que decimos de cada partido y cómo lo comprobamos",
+  "descripcion": "De dónde salen las propuestas de cada partido para las elecciones generales del 29 de noviembre de 2026, cómo comprobamos cada cita y qué reglas seguimos para tratar igual a todos.",
+  "entradilla": "Lo que lees en [Partidos](/partidos/) y en [Temas](/temas/) son frases de los propios partidos, copiadas tal cual y con el enlace para comprobarlas. Aquí contamos de dónde salen, cómo las comprobamos y qué hacemos para tratar igual a todos.",
   "secciones": [
     {
-      "titulo": "De dónde salen las propuestas",
+      "titulo": "Qué recogemos",
       "bloques": [
-        { "tipo": "parrafo", "texto": "De los programas que los partidos publicaron para las elecciones generales del 23 de julio de 2023. Usamos 10: PP, PSOE, Vox, Sumar, ERC, Junts, PNV, EH Bildu, BNG y Coalición Canaria." },
-        { "tipo": "parrafo", "texto": "El test tiene 58 propuestas en 6 temas: vivienda, impuestos, inmigración, empleo, pensiones y sanidad. En cada tema hay como mucho una propuesta por partido, y cada propuesta es de un solo partido." },
-        { "tipo": "parrafo", "texto": "Al final del test, cada propuesta muestra la frase exacta del programa, su traducción si el programa está en catalán, euskera o gallego, y el número de página. El botón «Ver en el programa» abre el documento en esa página." }
+        { "tipo": "parrafo", "texto": "Lo que cada partido propone y defiende, con sus propias palabras. No recogemos lo que otros dicen de él, ni encuestas, ni el resumen de un periodista." },
+        {
+          "tipo": "lista",
+          "items": [
+            "**Su programa electoral**, si lo ha publicado. Lo leemos entero y recogemos todas sus medidas.",
+            "**Otros documentos del partido**, si no hay programa o no es completo. Su ficha lo dice.",
+            "**Lo que han dicho su líder, sus cabezas de lista y sus portavoces** desde las elecciones de julio de 2023, si tampoco hay documentos. Solo frases literales, y marcadas como «declaraciones, no programa»."
+          ]
+        },
+        { "tipo": "parrafo", "texto": "Si un partido publica su programa más tarde, lo añadimos. No borramos lo que ya teníamos: cada cita sigue ahí, con su fecha y su fuente." }
       ]
     },
     {
-      "titulo": "Las copias de Internet Archive",
+      "titulo": "Cómo comprobamos cada cita",
       "bloques": [
-        { "tipo": "parrafo", "texto": "Las páginas de los partidos cambian y a veces borran sus programas antiguos. Por eso enlazamos copias guardadas en Internet Archive, una biblioteca digital que archiva páginas web." },
-        { "tipo": "parrafo", "texto": "Comprobamos que cada copia es idéntica, byte a byte, al programa que descargamos: tiene la misma huella digital (SHA-256), un código que cambia si cambia una sola letra del archivo." },
-        { "tipo": "parrafo", "texto": "Del programa del PP, Internet Archive no guardó ninguna copia en 2023. Enlazamos la de junio de 2025, idéntica al archivo que usamos, que tiene fecha interna del 5 de julio de 2023." }
+        { "tipo": "parrafo", "texto": "Cada frase está copiada tal cual. Si viene de un programa, comprobamos que está, palabra por palabra, en la página que citamos. Si viene de una entrevista, de una nota de prensa o del Congreso, abrimos la fuente y comprobamos quién lo dijo, cuándo y qué dijo exactamente." },
+        { "tipo": "parrafo", "texto": "Después hay una segunda revisión, independiente de la primera, que busca lo que falta, lo que sobra y lo que está mal copiado. Lo que no se puede comprobar no entra." },
+        { "tipo": "parrafo", "texto": "Todas las citas llevan un enlace a su fuente. No hace falta que te fíes de nosotros: puedes abrirlo y leerlo tú." },
+        { "tipo": "parrafo", "texto": "Las citas en catalán, gallego o euskera llevan nuestra traducción, con el original debajo." }
       ]
     },
     {
-      "titulo": "Cómo escribimos los textos neutros",
+      "titulo": "Las mismas reglas para todos",
       "bloques": [
         {
           "tipo": "lista",
           "items": [
-            "**Solo la medida.** Qué se propone hacer, sin los motivos ni los argumentos del partido.",
-            "**El mismo alcance.** Si la propuesta es para menores de 30 años, el texto lo dice. No ampliamos ni recortamos a quién afecta.",
-            "**La misma fuerza en el verbo.** Si el programa dice «estudiar», el texto no dice «crear». «Impulsar» no es «aprobar».",
-            "**Sin palabras de partido.** Quitamos las expresiones y los lemas que delatan quién lo firma.",
-            "**Un glosario.** Las palabras técnicas van subrayadas: al tocarlas se abre su definición. Abrir una definición no cuenta como respuesta."
+            "**Los mismos temas.** Ordenamos lo que dice cada partido en los mismos 18 temas, de vivienda a política exterior.",
+            "**El mismo criterio.** Qué fuentes valen, desde qué fecha y qué cuenta como medida concreta se decide una vez y se aplica igual a todos.",
+            "**Sin recortar.** Las medidas concretas de cada partido se ven todas. No elegimos las que más llaman la atención.",
+            "**El mismo diseño.** Sin colores, sin logotipos y sin fotos.",
+            "**Un orden que no elegimos nosotros.** Los partidos salen por los votos que tuvieron en 2023, y los que no se presentaron entonces van al final."
           ]
         }
       ]
     },
     {
-      "titulo": "La regla del territorio",
+      "titulo": "Qué partidos salen",
       "bloques": [
-        { "tipo": "parrafo", "texto": "Si un texto nombra un territorio concreto, como una comunidad autónoma o una isla, delata al partido. En esos casos escribimos «la comunidad autónoma» o «autonómico». Si la propuesta no se entiende sin el nombre, la cambiamos por otra del mismo partido y tema." }
+        { "tipo": "parrafo", "texto": "Salen 18 candidaturas: las 15 con más votos en las elecciones generales de 2023 y tres que no se presentaron entonces, que son Se Acabó La Fiesta, Democracia para el Siglo 21 y Frente Obrero. Para las candidaturas que vienen de la coalición Sumar contamos los votos de aquella coalición." },
+        { "tipo": "parrafo", "texto": "Qué candidaturas se presentan, y en qué circunscripciones, lo sacamos del Boletín Oficial del Estado." }
       ]
     },
     {
-      "titulo": "Quién lo ha revisado",
+      "titulo": "Los resúmenes",
       "bloques": [
-        { "tipo": "parrafo", "texto": "Dos personas del equipo revisaron juntas todas las propuestas y el glosario, y las aprobaron el 22 de octubre de 2026. Comprobaron que cada texto es fiel a su cita y que no delata al partido." },
-        { "tipo": "parrafo", "texto": "Antes, varias revisiones automáticas buscaron textos que delataran al partido, cambios de verbo o de alcance y citas mal copiadas. Esas revisiones ayudan, pero la decisión es de las personas." }
-      ]
-    },
-    {
-      "titulo": "Cómo se calcula el resultado",
-      "bloques": [
-        { "tipo": "parrafo", "texto": "Cada propuesta que te convence suma un palote al partido que la firma, y dos si es tu favorita del tema. Los temas que marcas como los que más te importan cuentan el doble." },
-        { "tipo": "parrafo", "texto": "El porcentaje compara lo que ha sumado cada partido con lo que habría sumado si te hubieran convencido todas sus propuestas que has respondido. «Paso» no cuenta ni a favor ni en contra, y si un partido no tiene propuesta en un tema, ese tema no se le cuenta." },
-        { "tipo": "parrafo", "texto": "Si has respondido propuestas de un partido en menos de la mitad de los temas, ese partido sale aparte, sin porcentaje. Con menos de 8 propuestas respondidas no hay clasificación. Si dos partidos tienen exactamente la misma proporción, comparten puesto y salen en orden alfabético." },
+        { "tipo": "parrafo", "texto": "Encima de las citas de cada tema hay un resumen de dos a cuatro frases. Lo escribimos nosotros: es lo único de esas páginas que no son palabras del partido." },
         {
-          "tipo": "tabla",
-          "titulo": "Un ejemplo con cuatro partidos inventados, tres temas y vivienda como tema importante",
-          "columnas": ["Partido", "Vivienda (cuenta el doble)", "Empleo", "Sanidad", "Resultado"],
-          "filas": [
-            ["Partido Norte", "Me convence, favorita: 4 de 4", "Me convence: 1 de 1", "No me convence: 0 de 1", "5 de 6 palotes, 83 %"],
-            ["Partido Sur", "Me convence: 2 de 2", "No me convence: 0 de 1", "Me convence, favorita: 2 de 2", "4 de 5 palotes, 80 %"],
-            ["Partido Este", "No me convence: 0 de 2", "Me convence, favorita: 2 de 2", "Me convence: 1 de 1", "3 de 5 palotes, 60 %"],
-            ["Partido Oeste", "Paso: no cuenta", "No me convence: 0 de 1", "No tiene propuesta", "Aparte: solo has respondido uno de los tres temas"]
+          "tipo": "lista",
+          "items": [
+            "**Sin adjetivos ni etiquetas.** No decimos si una medida es buena o mala, ni si un partido es de izquierdas o de derechas.",
+            "**Cada frase se apoya en citas concretas.** Si el partido no lo ha dicho, el resumen no lo dice.",
+            "**La misma fuerza en el verbo.** Si el partido dice «estudiar», no escribimos «aprobar». Si dice «prohibir», no escribimos «limitar».",
+            "**Sus expresiones, entre comillas.** Cuando un partido usa una expresión propia, la ponemos entre comillas y decimos que es suya.",
+            "**Si hay poco material, lo avisamos.**"
           ]
-        }
+        },
+        { "tipo": "parrafo", "texto": "Cada resumen pasa también una segunda revisión, que busca frases que digan más o menos que las citas, palabras que tomen partido y cosas importantes que falten." }
       ]
     },
     {
-      "titulo": "Los límites del test",
+      "titulo": "Quién lo hace",
+      "bloques": [
+        { "tipo": "parrafo", "texto": "Usamos inteligencia artificial para leer los documentos, localizar las propuestas y redactar los resúmenes. Por eso todo se comprueba dos veces y por separado, y por eso cada cita lleva el enlace a su fuente." },
+        { "tipo": "parrafo", "texto": "Las decisiones las tomamos las personas del equipo: qué partidos entran, qué temas hay, qué fuentes valen y qué se hace cuando hay dudas." }
+      ]
+    },
+    {
+      "titulo": "Lo que no hacemos",
       "bloques": [
         {
           "tipo": "lista",
           "items": [
-            "**Son los programas de 2023.** Los partidos pueden haber cambiado de postura. Lo actualizaremos con los programas de 2026 cuando se publiquen.",
-            "**No es un consejo de voto.** Compara unas pocas propuestas por tema, no programas enteros ni lo que cada partido ha hecho después.",
-            "**Faltan partidos.** Frente Amplio, Podemos, Se Acabó La Fiesta y otros no tenían programa propio en 2023; entrarán cuando publiquen el de 2026.",
-            "**Algunos programas son cortos.** El de Coalición Canaria no tiene propuesta de vivienda, y su única propuesta de impuestos no se podía escribir sin delatar al partido: por eso no tiene propuesta en esos dos temas.",
-            "**Los partidos de ámbito autonómico solo salen donde se presentan.** Si eliges tu provincia, juegan los partidos estatales y los que se presentaban allí. Si prefieres no decirla, solo juegan los estatales."
+            "**No decimos a quién votar** ni qué partido tiene razón.",
+            "**No comprobamos si lo que promete un partido se puede hacer** ni cuánto cuesta. Solo decimos qué propone.",
+            "**No contamos lo que cada partido ha votado o ha hecho.** Solo lo que dice que hará.",
+            "**No rellenamos huecos.** Si un partido no ha dicho nada sobre un tema, lo decimos. Y de un partido sin programa hay menos información."
           ]
-        }
+        },
+        { "tipo": "parrafo", "texto": "Durante la campaña comprobamos si algún partido ha publicado o cambiado su programa. Cada página dice cuándo se actualizó." }
+      ]
+    },
+    {
+      "titulo": "El test sin siglas",
+      "bloques": [
+        { "tipo": "parrafo", "texto": "El [test sin siglas](/test/) usa todavía los programas de 2023 de diez partidos. Lo actualizaremos con la información de 2026." },
+        { "tipo": "parrafo", "texto": "Cada propuesta que te convence suma un palote al partido que la firma, y dos si es tu favorita del tema. Los temas que marcas como los que más te importan cuentan el doble. El porcentaje compara lo que ha sumado cada partido con lo que habría sumado si te hubieran convencido todas sus propuestas que has respondido." }
       ]
     },
     {
       "titulo": "Si ves un error",
       "bloques": [
-        { "tipo": "parrafo", "texto": "Escríbenos a [hola@nosequevotar.es](mailto:hola@nosequevotar.es) con la propuesta y lo que crees que está mal. Lo revisamos y, si hace falta, lo corregimos." }
+        { "tipo": "parrafo", "texto": "Escríbenos a [hola@nosequevotar.es](mailto:hola@nosequevotar.es) con la cita o el resumen y lo que crees que está mal. Lo revisamos y, si hace falta, lo corregimos." }
       ]
     }
   ],
-  "actualizado": "2026-10-22"
+  "actualizado": "2026-11-12"
 }

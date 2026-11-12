@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Alberto Núñez Feijóo, número 1 por Madrid
-- **Programa para el 29 de noviembre:** publicado (comprobado el 11 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 791 vigentes: 726 medidas, de ellas 443 concretas, y 65 posiciones. De programa, verificadas contra su página: 675 exactas y 116 normalizadas.
 - **Pendiente:** El programa deja sin texto ocho medidas numeradas (83, 109, 132, 164, 167, 173, 200 y 210), con el aviso «Permanezca atento a la campaña para conocer esta nueva medida» (pp. 34, 43, 48, 57, 58, 59, 65 y 67). Cuando las publique habrá que descargar la versión nueva y volver a extraer.
 

@@ -1,0 +1,138 @@
+{
+  "revisiones": [
+    {
+      "tema": "vivienda",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: «gravar más a compradores no comunitarios y fondos» amplía la cita, que habla de «operaciones especulativas de fondos o sociedades», no de cualquier compra de un fondo; se atribuye la calificación de especulativas.",
+        "Frase 3: «exigir residencia legal para alquilar» suaviza la medida del programa, que es la «prohibición del arrendamiento» a quienes no tienen residencia legal; se conserva el verbo prohibir."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone reformar la Ley del Suelo para construir más vivienda, con más suelo y menos trámites, y ampliar la vivienda protegida mediante colaboración público-privada.", "apoyos": ["c-a7720ec799", "c-c365481e19", "c-9bcdb679d6"] },
+        { "texto": "Plantea derogar la Ley de Vivienda, IVA del 0 % en la primera vivienda nueva y más impuestos a compradores no comunitarios y a operaciones que considera especulativas.", "apoyos": ["c-0e4fb0d41b", "c-35a4ee139a", "c-f7b6cb46e8", "c-67c2554333"] },
+        { "texto": "Quiere dar preferencia a los españoles en vivienda protegida y ayudas al alquiler, lo que llama «prioridad nacional», y prohibir alquilar a quien no tenga residencia legal.", "apoyos": ["c-72da371848", "c-3e9f22ef84", "c-2b60099eec"] },
+        { "texto": "Pide desalojar las viviendas ocupadas en menos de 24 horas.", "apoyos": ["c-ed89c845d9", "c-efe073293a"] }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: la frase 3 salía entera del documento parcial de junio (umbral de 50 trabajadores, registro horario) y desplazaba medidas del programa electoral, que dedica varios puntos a la conciliación y a la vuelta al trabajo de las madres; se añade esa línea y se mantiene la del documento de junio de forma más breve.",
+        "Frase 3 original: «que empresa y trabajador acuerden cómo controlar la jornada» describe la consecuencia; la medida es el fin del registro horario obligatorio universal, que se nombra directamente.",
+        "Frase 1 se mantiene: la derogación de la reforma laboral está respaldada por el programa («derogar la legislación laboral de Sánchez») y por el documento de junio (Real Decreto-ley 32/2021), y los efectos negativos van atribuidos («a la que atribuye»)."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar la reforma laboral del Gobierno actual, a la que atribuye más precariedad y menos contratación, y aprobar un Plan Nacional de Reindustrialización.", "apoyos": ["c-634f7b5f1d", "c-4af95b7725", "c-ae6aa1f691"] },
+        { "texto": "Plantea una cuota de autónomos de cero euros para ingresos inferiores al salario mínimo y progresiva desde 50 euros por encima.", "apoyos": ["c-d42cbb4bd3"] },
+        { "texto": "Quiere incentivar a las empresas que favorezcan la conciliación y facilitar la vuelta al trabajo de las madres que interrumpieron su carrera.", "apoyos": ["c-84c4620ac8", "c-1f2100c945", "c-82602767ba", "c-828c940cdd"] },
+        { "texto": "Plantea además suprimir las obligaciones que se activan a partir de 50 trabajadores y el registro horario obligatorio.", "apoyos": ["c-6542e85e79", "c-df19fab2b2", "c-b488904980"] }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: el modelo mixto de reparto y capitalización y las carreras largas proceden solo de declaraciones (portavoz económico y otro diputado), pero se presentaban como planteamiento del partido sin atribuir; se atribuyen a quien lo dijo y se separan de lo que dice el programa.",
+        "Frase 3: «mejorar el trato a las carreras largas» va más allá de la cita, que habla de un «compromiso de trabajar sobre las largas carreras de cotización»; se ajusta."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea asegurar la sostenibilidad de las pensiones con más crecimiento económico, empleo y salarios, y con medidas de apoyo a la natalidad.", "apoyos": ["c-aab2a2817f", "c-57f693c5cb"] },
+        { "texto": "Propone que el Estado pague la cotización a la Seguridad Social de quienes se dedican al cuidado de sus hijos, para que no les perjudique en la jubilación.", "apoyos": ["c-d0ff0c9f91"] },
+        { "texto": "Su portavoz económico ha planteado además un modelo mixto que combine el reparto con la capitalización individual.", "apoyos": ["c-e862624276"] },
+        { "texto": "Otro diputado del partido se comprometió a trabajar sobre las carreras largas de cotización.", "apoyos": ["c-019ba64b8a"] }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: las cifras del IRPF (mínimo exento de 22.000 euros, tramos del 15 % y del 25 %) proceden de una declaración del portavoz económico, no del programa; «Ha planteado» con sujeto implícito las atribuía al partido como propuesta. Se atribuyen expresamente al portavoz económico, después de lo que dice el programa.",
+        "Frase 4: «compensarlo reduciendo deuda y déficit» invierte la cita: el programa quiere reducir la deuda y hacer compatible la rebaja con los servicios esenciales mediante el control del déficit, la eliminación del gasto superfluo e ideológico y el crecimiento. Se quita además el apoyo c-da4eeed7de (declaración sobre pensiones) porque el programa basta.",
+        "Frase 1: se añade el apoyo c-7925c77712 (reducción sistemática de todos los impuestos), que respalda «rebaja general»."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una rebaja general de impuestos: un IRPF más simple y bajo, con tipo menor según los hijos, y menos IVA e Impuesto de Sociedades.", "apoyos": ["c-c9e9ac899b", "c-7925c77712", "c-1db81ce0d4", "c-5486f73c97", "c-c30745e601"] },
+        { "texto": "Su portavoz económico planteó un IRPF con mínimo exento de 22.000 euros y dos tramos: 15 % hasta 70.000 euros y 25 % por encima.", "apoyos": ["c-eae93dd328"] },
+        { "texto": "Plantea IVA del 0 % en la primera vivienda nueva, bajar los impuestos de la electricidad y gravar las remesas al extranjero.", "apoyos": ["c-f7b6cb46e8", "c-48a4f28458", "c-2ff6f9c3e0"] },
+        { "texto": "Quiere reducir la deuda y financiar los servicios esenciales controlando el déficit y eliminando lo que considera gasto superfluo e ideológico.", "apoyos": ["c-fa8e44b328"] }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: «reducir el tamaño y el gasto de la Administración» suaviza las citas, que hablan de reducir el tamaño «al mínimo estrictamente necesario» y recortar los gastos superfluos «hasta el mínimo imprescindible»; se conserva esa fuerza."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone auditar la Administración, reducir su tamaño al mínimo necesario y recortar el gasto superfluo para compensar una bajada general de impuestos y reducir la deuda.", "apoyos": ["c-43aed18a33", "c-3768113399", "c-78d008f082", "c-fa8e44b328"] },
+        { "texto": "Plantea una Ley de Unidad de Mercado para que lo legal en una comunidad autónoma lo sea en toda España, y derogar o modificar las leyes que considera trabas.", "apoyos": ["c-f7225bfccf", "c-655ab462e9", "c-897f55d6d7", "c-3ebcae7d5c"] },
+        { "texto": "Quiere un Plan Nacional de Reindustrialización, revertir normas del Pacto Verde Europeo como la prohibición de motores de combustión, y rechaza el acuerdo UE-Mercosur.", "apoyos": ["c-ae6aa1f691", "c-c192135111", "c-95c689fbe5", "c-cedd6788f4"] }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 4: el condicional «Excluiría» se aparta de los verbos de atribución pedidos; se cambia por «Propone excluir» y se añade el fin del turismo sanitario, medida concreta del programa.",
+        "Frase 1: «recurrir a la colaboración público-privada» se ajusta a la cita («fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras»)."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone un plan nacional para reducir las listas de espera, reforzar la atención primaria y pediátrica y fomentar la colaboración público-privada cuando acorte demoras.", "apoyos": ["c-b549938775", "c-6414d28ad6", "c-4518ce72e5"] },
+        { "texto": "Plantea una tarjeta sanitaria única con historia clínica compartida en toda España.", "apoyos": ["c-5f83bf1820"] },
+        { "texto": "Quiere mejorar sueldos y condiciones de los profesionales, con incentivos para plazas rurales y un plan de retorno de sanitarios emigrados.", "apoyos": ["c-20d1e20de2", "c-dc8181427c", "c-a5331f9ff2"] },
+        { "texto": "Propone excluir de la sanidad pública a los extranjeros en situación irregular, salvo urgencias graves, y acabar con el turismo sanitario.", "apoyos": ["c-43badd9b5b", "c-d54d17cc86", "c-18e6df2e45"] }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: cita como apoyo las aulas específicas de nivelación (c-bbeb261b25) sin mencionarlas; se añaden, y «limitar» se ajusta a «un número máximo por aula», como dice la cita. La preferencia a los españoles en la elección de centro y las ayudas pasa a una frase propia para no superar las 30 palabras."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone derogar la LOMLOE, unificar currículo, evaluaciones e inspección, con reválidas y una EvAU única, y garantizar la enseñanza en español en todo el territorio.", "apoyos": ["c-f093b04245", "c-baf6eb20f8", "c-b6a9b656d0", "c-c0293068b9"] },
+        { "texto": "Defiende la libre elección de centro con distrito único, mejores becas y acabar con los móviles en clase.", "apoyos": ["c-3634e652f6", "c-938e39c9bd", "c-3e041ab774", "c-194da99a45"] },
+        { "texto": "Plantea un número máximo por aula de alumnos de otras culturas o con poco dominio del español, y aulas de nivelación.", "apoyos": ["c-b31ab339d7", "c-bbeb261b25"] },
+        { "texto": "Quiere dar preferencia a los españoles al elegir centro y en las ayudas educativas.", "apoyos": ["c-9ebb2d9e8e"] }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: «dar preferencia a los españoles en […] el Ingreso Mínimo Vital» suaviza la cita, que dice que el IMV «atenderá únicamente» a los españoles con menos recursos; es una reserva, no una preferencia. Se separa en una frase propia."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone un plan nacional de natalidad que extienda los beneficios de las familias numerosas a todas desde el primer hijo, con más ayudas según el número de hijos.", "apoyos": ["c-66b9dd975f", "c-34b576da66", "c-57f693c5cb"] },
+        { "texto": "Plantea bajar el IRPF según los hijos, que el Estado pague la cotización de quien cuide de sus hijos y una educación de 0 a 3 años gratuita.", "apoyos": ["c-1db81ce0d4", "c-d0ff0c9f91", "c-fda794f8b2"] },
+        { "texto": "Pide más presupuesto para dependencia y más plazas en residencias.", "apoyos": ["c-c0f9037d2a", "c-e425ae2c9a"] },
+        { "texto": "Quiere dar preferencia a los españoles en ayudas y guarderías y reservar el Ingreso Mínimo Vital a los españoles con menos recursos.", "apoyos": ["c-3e9f22ef84", "c-fc0128b9be"] }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: en el programa «remigración» es el nombre del plan para facilitar el retorno de los extranjeros que no contribuyan o vivan de subsidios; colocado al final de la enumeración parecía cubrir también la repatriación y la deportación (así lo usa solo el portavoz económico en una declaración). Se ata el término a ese plan. Se precisa además que la deportación alcanza a quienes «hagan del delito leve su forma de vida» («delitos graves o reiterados»).",
+        "Frase 3: citaba como apoyo la supresión de toda ayuda social a los inmigrantes en situación irregular (c-4ea180c611) sin mencionarla; se incorpora a la frase de repatriación. Se atribuye el término «prioridad nacional», que figura literalmente en las citas c-3e9f22ef84 y c-72da371848 y que el resumen describía sin nombrarlo. La reserva del Ingreso Mínimo Vital sale de este tema por espacio y queda en familias-y-cuidados.",
+        "Frase 4: «proteger las fronteras con apoyo de las Fuerzas Armadas» suaviza la «militarización de la frontera» de Ceuta y Melilla que propone el programa; se conserva el verbo, sin adoptar los términos «invasión» ni «invasores»."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Sostiene que España no puede acoger más inmigrantes y propone suprimir el arraigo y prohibir regularizar a quien entró de forma irregular.", "apoyos": ["c-f44189d398", "c-e4b34e50ca", "c-cfabae9b7d"] },
+        { "texto": "Plantea repatriar a quien esté en situación irregular, suprimirle toda ayuda social y deportar a quien cometa delitos graves o reiterados.", "apoyos": ["c-97f995434f", "c-4ea180c611", "c-2ab62bc611"] },
+        { "texto": "Quiere dar preferencia a los españoles en vivienda y ayudas, lo que llama «prioridad nacional», y lo que llama «remigración»: facilitar el retorno de extranjeros que viven de subsidios.", "apoyos": ["c-3e9f22ef84", "c-72da371848", "c-e7c5cff54c", "c-7b63a6e168"] },
+        { "texto": "Propone que las Fuerzas Armadas participen en proteger las fronteras y militarizar la de Ceuta y Melilla.", "apoyos": ["c-82f13ab1f1", "c-610a185737"] }
+      ]
+    }
+  ]
+}

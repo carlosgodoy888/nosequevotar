@@ -8,7 +8,13 @@
 
 import { readdir, writeFile, mkdir } from 'node:fs/promises';
 import { join } from 'node:path';
-import { DIR, leerJson, temasDeCita } from './comun.mjs';
+import { DIR, leerJson, leerFuentes, temasDeCita } from './comun.mjs';
+
+// De qué documento sale cada cita de programa: un partido puede tener el programa de estas elecciones
+// y además un documento parcial o general, y el redactor tiene que saber cuál pesa más.
+const CLASE = { programa: 'programa electoral de estas elecciones', documento_parcial: 'documento parcial del partido', programa_general: 'documento general del partido, no es de estas elecciones' };
+const fuentes = new Map((await leerFuentes()).map(f => [f.id, f]));
+const documentoDe = c => { const f = fuentes.get(c.fuente); return f ? `${f.titulo} (${CLASE[f.clase] ?? f.clase}, ${f.publicado})` : undefined; };
 
 const config = await leerJson(join(DIR, 'temas.json'));
 const mapa = await leerJson(join(DIR, 'partidos.json'));
@@ -28,7 +34,8 @@ for (const id of ids) {
         id: c.id, origen: c.tipo === 'programa' ? 'programa' : 'declaracion',
         clase: c.clase, concreta: c.medida_concreta,
         texto: c.traduccion ?? c.cita, ...(c.traduccion ? { original: c.cita } : {}),
-        ...(c.tipo !== 'programa' ? { quien: [c.quien, c.cargo].filter(Boolean).join(', '), fecha: c.fecha } : {}),
+        // De una declaración interesa también dónde se publicó: puede ser un programa autonómico o una nota local.
+        ...(c.tipo !== 'programa' ? { quien: [c.quien, c.cargo].filter(Boolean).join(', '), fecha: c.fecha, medio: c.medio } : { documento: documentoDe(c) }),
         apartado: c.apartado_original?.join(' › '),
       })),
     };

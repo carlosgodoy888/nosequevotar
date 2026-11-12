@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Sin candidatura única: Maribel Vaquero (Gipuzkoa), Idoia Sagastizabal (Bizkaia) y Gorka Urtaran (Álava). El presidente del partido, Aitor Esteban, no encabeza ninguna lista.
-- **Programa para el 29 de noviembre:** publicado (comprobado el 10 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 304 vigentes: 256 medidas, de ellas 108 concretas, y 48 posiciones. De programa, verificadas contra su página: 304 exactas y 0 normalizadas.
 
 ## Lo que dicen sus documentos

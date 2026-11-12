@@ -13,7 +13,7 @@
    * Nunca se envía la respuesta a una pregunta, un resultado ni un partido.
    * En /test/, /resultado/ y /reto/ no se cargará nunca nada de terceros.
    *
-   * @param {string} nombre  clic_hacer_test, clic_fuente, clic_guia, clic_menu o clic_donar.
+   * @param {string} nombre  clic_hacer_test, clic_temas, clic_fuente, clic_guia, clic_menu o clic_donar.
    * @param {Object} [datos] Contexto: pagina (ruta actual) y destino (enlace pulsado).
    */
   function registrarEvento(nombre, datos) {
@@ -184,14 +184,38 @@
     plazo.classList.add('plazo--calculada');
   }
 
+  // Botón fijo «Volver arriba»: llega oculto y se muestra al pasar la primera pantalla.
+  var arriba = document.querySelector('[data-arriba]');
+  if (arriba) {
+    var arribaPendiente = false;
+    var mostrarArriba = function () {
+      arribaPendiente = false;
+      arriba.hidden = window.scrollY < window.innerHeight;
+    };
+    window.addEventListener('scroll', function () {
+      if (arribaPendiente) return;
+      arribaPendiente = true;
+      requestAnimationFrame(mostrarArriba);
+    }, { passive: true });
+    mostrarArriba();
+  }
+
+  // Tarjeta de temas de la portada: la casilla se marca al pulsar, mientras carga la página de temas.
+  // Al volver con el botón «atrás» las casillas salen otra vez sin marcar.
+  var temasPortada = Array.prototype.slice.call(document.querySelectorAll('[data-tema-portada]'));
+  if (temasPortada.length) {
+    temasPortada.forEach(function (enlace) {
+      enlace.addEventListener('click', function () { enlace.querySelector('.casilla').classList.add('marcada'); });
+    });
+    window.addEventListener('pageshow', function () {
+      temasPortada.forEach(function (enlace) { enlace.querySelector('.casilla').classList.remove('marcada'); });
+    });
+  }
+
   // Tarjeta de ejemplo de la portada.
   var tarjeta = document.getElementById('tarjeta');
   if (tarjeta) {
     var estado = document.getElementById('estado');
-    var franja = document.getElementById('franja');
-    var partido = document.getElementById('partido');
-    var revelar = document.getElementById('revelar');
-    var anuncio = document.getElementById('anuncio');
     var decisiones = Array.prototype.slice.call(tarjeta.querySelectorAll('[data-demo]'));
     var ROTULOS_DEMO = { si: 'En el sobre', no: 'Apartada', paso: 'Sin decidir' };
 
@@ -207,15 +231,6 @@
         tarjeta.classList.toggle('elegida', marcada);
         estado.textContent = marcada ? ROTULOS_DEMO[boton.getAttribute('data-demo')] : '';
       });
-    });
-
-    revelar.addEventListener('click', function () {
-      var abierta = !franja.classList.contains('revelada');
-      franja.classList.toggle('revelada', abierta);
-      if (abierta) partido.removeAttribute('aria-hidden'); else partido.setAttribute('aria-hidden', 'true');
-      revelar.textContent = abierta ? 'Volver a tapar' : 'Revelar quién la firmaba';
-      revelar.classList.toggle('boton--claro', abierta);
-      anuncio.textContent = abierta ? 'La firmaba el Partido Norte, un partido inventado.' : '';
     });
   }
 })();

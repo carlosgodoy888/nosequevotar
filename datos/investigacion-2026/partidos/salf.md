@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Luis "Alvise" Pérez Fernández, número 1 por Madrid
-- **Programa para el 29 de noviembre:** publicado (comprobado el 11 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 254 vigentes: 230 medidas, de ellas 217 concretas, y 24 posiciones. De programa, verificadas contra su página: 155 exactas y 90 normalizadas.
 
 ## Lo que dicen sus documentos

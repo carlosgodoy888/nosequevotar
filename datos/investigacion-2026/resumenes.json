@@ -5857,103 +5857,112 @@
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone derogar la Ley 12/2023 por el derecho a la vivienda y los cambios en vivienda de los decretos-ley 7/2019 y 11/2020.",
+            "texto": "Propone reformar la Ley del Suelo para construir más vivienda, con más suelo y menos trámites, y ampliar la vivienda protegida mediante colaboración público-privada.",
             "apoyos": [
+              "c-a7720ec799",
+              "c-c365481e19",
+              "c-9bcdb679d6"
+            ]
+          },
+          {
+            "texto": "Plantea derogar la Ley de Vivienda, IVA del 0 % en la primera vivienda nueva y más impuestos a compradores no comunitarios y a operaciones que considera especulativas.",
+            "apoyos": [
+              "c-0e4fb0d41b",
               "c-35a4ee139a",
-              "c-be65ec5d90",
-              "c-100f7ccf8e"
+              "c-f7b6cb46e8",
+              "c-67c2554333"
             ]
           },
           {
-            "texto": "Pide más suelo y plazos cerrados para construir, y promoverá revisar y reformar la Ley de Suelo y la de Ordenación de la Edificación.",
+            "texto": "Quiere dar preferencia a los españoles en vivienda protegida y ayudas al alquiler, lo que llama «prioridad nacional», y prohibir alquilar a quien no tenga residencia legal.",
             "apoyos": [
-              "c-f11d344652",
-              "c-d6891aafdb",
-              "c-9bcdb679d6",
-              "c-1b06137366"
+              "c-72da371848",
+              "c-3e9f22ef84",
+              "c-2b60099eec"
             ]
           },
           {
-            "texto": "Pide bajar los impuestos a la compra de la primera vivienda (una candidata propone eximirla) y subirlos a las fortunas extranjeras que compren vivienda.",
+            "texto": "Pide desalojar las viviendas ocupadas en menos de 24 horas.",
             "apoyos": [
-              "c-bbf634f840",
-              "c-f11d344652",
-              "c-05f4bed9b8"
-            ]
-          },
-          {
-            "texto": "Pide que el propietario recupere de inmediato la vivienda ante impago, incumplimiento del contrato o vencimiento del plazo.",
-            "apoyos": [
+              "c-ed89c845d9",
               "c-efe073293a"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 3 (fidelidad, fuerza): «suprimir los impuestos a la compra de la primera vivienda» se apoya solo en una candidata por Baleares (c-f11d344652, «que la primera vivienda esté libre de carga impositiva», que además no habla solo de la compra); el diputado que interviene sobre el asunto (c-bbf634f840) pide «que bajen los impuestos… que los bajen», y el programa solo pone la ley del impuesto de transmisiones en «revisión y reforma». Se cambia a «bajar» y se atribuye la exención a una candidata.",
-          "Frase 2: «promoverá reformar» se ajusta a «revisar y reformar», que es lo que dice el apartado del programa; derogar (Ley 12/2023 y decretos-ley) y reformar (Ley de Suelo, Ley de Ordenación de la Edificación) quedan bien separados.",
-          "Frase 4: la cita pide «garantizar… la restitución inmediata del inmueble al propietario»; se ajusta la redacción («vencimiento del plazo», no «del contrato»). Se evita el término «okupación».",
-          "Forma: el total pasaba de 90 palabras (100); queda en 88."
+          "Frase 2: «gravar más a compradores no comunitarios y fondos» amplía la cita, que habla de «operaciones especulativas de fondos o sociedades», no de cualquier compra de un fondo; se atribuye la calificación de especulativas.",
+          "Frase 3: «exigir residencia legal para alquilar» suaviza la medida del programa, que es la «prohibición del arrendamiento» a quienes no tienen residencia legal; se conserva el verbo prohibir."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "empleo": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone derogar la reforma laboral de 2021 y promoverá revisar y reformar el Estatuto de los Trabajadores.",
+            "texto": "Propone derogar la reforma laboral del Gobierno actual, a la que atribuye más precariedad y menos contratación, y aprobar un Plan Nacional de Reindustrialización.",
             "apoyos": [
+              "c-634f7b5f1d",
               "c-4af95b7725",
-              "c-a914bcdad1"
+              "c-ae6aa1f691"
             ]
           },
           {
-            "texto": "Quiere eliminar las obligaciones que se activan cuando una empresa llega a 50 empleados, como el plan de igualdad o el plan LGTBI.",
+            "texto": "Plantea una cuota de autónomos de cero euros para ingresos inferiores al salario mínimo y progresiva desde 50 euros por encima.",
+            "apoyos": [
+              "c-d42cbb4bd3"
+            ]
+          },
+          {
+            "texto": "Quiere incentivar a las empresas que favorezcan la conciliación y facilitar la vuelta al trabajo de las madres que interrumpieron su carrera.",
+            "apoyos": [
+              "c-84c4620ac8",
+              "c-1f2100c945",
+              "c-82602767ba",
+              "c-828c940cdd"
+            ]
+          },
+          {
+            "texto": "Plantea además suprimir las obligaciones que se activan a partir de 50 trabajadores y el registro horario obligatorio.",
             "apoyos": [
               "c-6542e85e79",
-              "c-c772333f84"
-            ]
-          },
-          {
-            "texto": "Propone acabar con el registro horario obligatorio universal y con el protocolo obligatorio de desconexión digital, y que lo acuerden empresa y trabajador.",
-            "apoyos": [
               "c-df19fab2b2",
-              "c-b488904980",
-              "c-cf6f5e523f",
-              "c-8b07ff9764",
-              "c-d5607f1d94"
-            ]
-          },
-          {
-            "texto": "Quiere ajustar la prevención de riesgos laborales al riesgo real: plenas garantías en sectores de riesgo serio y régimen simplificado para microempresas sin riesgo significativo.",
-            "apoyos": [
-              "c-780f8bedb2",
-              "c-2da4078a2f",
-              "c-e12db46f3e"
+              "c-b488904980"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 1 correcta: el Real Decreto-ley 32/2021 está en «Primeras leyes que derogaremos» y el Estatuto de los Trabajadores en «revisión y reforma».",
-          "Frase 4 (fidelidad, equilibrio): omitía que el programa mantiene la prevención «con todas las garantías» en los sectores de riesgo serio (c-2da4078a2f), lo que podía leerse como una rebaja general de la prevención; se añade.",
-          "Frase 3: «obligatorio para todos» se ajusta a «obligatorio universal», que es el término de la cita; el verbo pasa a «propone» porque el programa lo plantea como medida cerrada («Se deroga»).",
-          "Forma: total de 94 palabras y una frase de 30; queda en 88."
+          "Representatividad: la frase 3 salía entera del documento parcial de junio (umbral de 50 trabajadores, registro horario) y desplazaba medidas del programa electoral, que dedica varios puntos a la conciliación y a la vuelta al trabajo de las madres; se añade esa línea y se mantiene la del documento de junio de forma más breve.",
+          "Frase 3 original: «que empresa y trabajador acuerden cómo controlar la jornada» describe la consecuencia; la medida es el fin del registro horario obligatorio universal, que se nombra directamente.",
+          "Frase 1 se mantiene: la derogación de la reforma laboral está respaldada por el programa («derogar la legislación laboral de Sánchez») y por el documento de junio (Real Decreto-ley 32/2021), y los efectos negativos van atribuidos («a la que atribuye»)."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "pensiones": {
-        "base": "escasa",
+        "base": "suficiente",
         "frases": [
           {
-            "texto": "Plantea una reforma hacia un modelo mixto que combine el reparto con la capitalización individual, y asegura que los pensionistas con derechos adquiridos cobrarán sus pensiones.",
+            "texto": "Plantea asegurar la sostenibilidad de las pensiones con más crecimiento económico, empleo y salarios, y con medidas de apoyo a la natalidad.",
             "apoyos": [
-              "c-e862624276",
-              "c-da4eeed7de"
+              "c-aab2a2817f",
+              "c-57f693c5cb"
             ]
           },
           {
-            "texto": "Se compromete a atender las carreras largas de cotización, sobre todo de jubilados anticipados por despido o ERE, y a reconocer mejor a quien trabaja tras la edad ordinaria.",
+            "texto": "Propone que el Estado pague la cotización a la Seguridad Social de quienes se dedican al cuidado de sus hijos, para que no les perjudique en la jubilación.",
+            "apoyos": [
+              "c-d0ff0c9f91"
+            ]
+          },
+          {
+            "texto": "Su portavoz económico ha planteado además un modelo mixto que combine el reparto con la capitalización individual.",
+            "apoyos": [
+              "c-e862624276"
+            ]
+          },
+          {
+            "texto": "Otro diputado del partido se comprometió a trabajar sobre las carreras largas de cotización.",
             "apoyos": [
               "c-019ba64b8a"
             ]
@@ -5961,617 +5970,631 @@
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Base «escasa» correcta: seis citas, las tres del programa son diagnósticos generales sobre cotizaciones y coste de la vida; las medidas salen de tres declaraciones sueltas.",
-          "Frase 1: «se pagarán las pensiones con derechos adquiridos» es confuso; la cita dice que «pueden estar tranquilos los pensionistas que tienen derechos adquiridos». Se reescribe.",
-          "Frase 2 (alcance): «reconocer mejor a quien sigue trabajando» omitía «después de la edad ordinaria» (c-019ba64b8a); se añade. Además pasaba de 30 palabras."
+          "Frase 3: el modelo mixto de reparto y capitalización y las carreras largas proceden solo de declaraciones (portavoz económico y otro diputado), pero se presentaban como planteamiento del partido sin atribuir; se atribuyen a quien lo dijo y se separan de lo que dice el programa.",
+          "Frase 3: «mejorar el trato a las carreras largas» va más allá de la cita, que habla de un «compromiso de trabajar sobre las largas carreras de cotización»; se ajusta."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "impuestos": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone un IRPF con mínimo exento de 22.000 euros y dos tramos, del 15 % hasta 70.000 euros y del 25 % por encima, sin deducciones ni bonificaciones.",
+            "texto": "Propone una rebaja general de impuestos: un IRPF más simple y bajo, con tipo menor según los hijos, y menos IVA e Impuesto de Sociedades.",
+            "apoyos": [
+              "c-c9e9ac899b",
+              "c-7925c77712",
+              "c-1db81ce0d4",
+              "c-5486f73c97",
+              "c-c30745e601"
+            ]
+          },
+          {
+            "texto": "Su portavoz económico planteó un IRPF con mínimo exento de 22.000 euros y dos tramos: 15 % hasta 70.000 euros y 25 % por encima.",
             "apoyos": [
               "c-eae93dd328"
             ]
           },
           {
-            "texto": "Un diputado afirmó también que el partido había propuesto reducciones y deducciones por hijo en el IRPF.",
+            "texto": "Plantea IVA del 0 % en la primera vivienda nueva, bajar los impuestos de la electricidad y gravar las remesas al extranjero.",
             "apoyos": [
-              "c-b9f3106f31"
+              "c-f7b6cb46e8",
+              "c-48a4f28458",
+              "c-2ff6f9c3e0"
             ]
           },
           {
-            "texto": "Pide rebajar permanentemente los impuestos a la energía, IVA superreducido o nulo para bienes esenciales y menos impuestos a la compra de primera vivienda.",
+            "texto": "Quiere reducir la deuda y financiar los servicios esenciales controlando el déficit y eliminando lo que considera gasto superfluo e ideológico.",
             "apoyos": [
-              "c-88fa5aefde",
-              "c-d37fa0da85",
-              "c-15290fb4ec",
-              "c-8cba169e63",
-              "c-bbf634f840",
-              "c-f11d344652"
-            ]
-          },
-          {
-            "texto": "Quiere gravar más a las fortunas extranjeras que compren vivienda y promoverá reformar las leyes del IRPF, Sociedades y Transmisiones Patrimoniales.",
-            "apoyos": [
-              "c-05f4bed9b8",
-              "c-bbf634f840",
-              "c-f23f396c0d",
-              "c-a0c623a1e1",
-              "c-001ea56e02"
+              "c-fa8e44b328"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Representatividad (tensión IRPF): las dos citas son declaraciones, no programa. c-eae93dd328 (portavoz económico, 4-10-2026) describe la reforma del IRPF «sin deducciones ni bonificaciones»; c-b9f3106f31 (otro diputado, 15-9-2026) dice «Hemos propuesto importantes reducciones y deducciones por hijo en el IRPF». El redactor omitió la segunda, con lo que resolvía la tensión por su cuenta. Se recogen las dos y se atribuye la segunda, sin decidir cuál prevalece.",
-          "Frase 2 original: «Lo financiaría suprimiendo las subvenciones de más de 100.000 euros» presentaba como plan cerrado lo que la cita formula como cálculo del partido («se obtendrían los fondos»); se retira por espacio para dar cabida a la cita anterior.",
-          "Frase 4 original (fuerza): «suprimir los impuestos a la compra de la primera vivienda» sobrepasa lo que dice el diputado (c-bbf634f840, «que los bajen»); la exención total solo la menciona una candidata. Se cambia a «menos impuestos».",
-          "Derogar y reformar: las leyes del IRPF, Sociedades, Transmisiones Patrimoniales y la 15/2012 están en «revisión y reforma», no en derogación; el texto lo respeta.",
-          "Forma: total de 100 palabras; queda en 90."
+          "Frase 2: las cifras del IRPF (mínimo exento de 22.000 euros, tramos del 15 % y del 25 %) proceden de una declaración del portavoz económico, no del programa; «Ha planteado» con sujeto implícito las atribuía al partido como propuesta. Se atribuyen expresamente al portavoz económico, después de lo que dice el programa.",
+          "Frase 4: «compensarlo reduciendo deuda y déficit» invierte la cita: el programa quiere reducir la deuda y hacer compatible la rebaja con los servicios esenciales mediante el control del déficit, la eliminación del gasto superfluo e ideológico y el crecimiento. Se quita además el apoyo c-da4eeed7de (declaración sobre pensiones) porque el programa basta.",
+          "Frase 1: se añade el apoyo c-7925c77712 (reducción sistemática de todos los impuestos), que respalda «rebaja general»."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "economia": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Plantea revisar toda la normativa para quitar trámites y cargas a las empresas, y que cada nueva ley derogue tres normas vigentes.",
+            "texto": "Propone auditar la Administración, reducir su tamaño al mínimo necesario y recortar el gasto superfluo para compensar una bajada general de impuestos y reducir la deuda.",
             "apoyos": [
-              "c-55fd7756af",
-              "c-90aa4c12ff",
-              "c-3a1555f8f1",
-              "c-dba5c43b07",
-              "c-72bc5133bc"
+              "c-43aed18a33",
+              "c-3768113399",
+              "c-78d008f082",
+              "c-fa8e44b328"
             ]
           },
           {
-            "texto": "Propone una Ley de Mercado Abierto: lo legal en una comunidad autónoma lo será en toda España, sin licencias adicionales.",
+            "texto": "Plantea una Ley de Unidad de Mercado para que lo legal en una comunidad autónoma lo sea en toda España, y derogar o modificar las leyes que considera trabas.",
             "apoyos": [
+              "c-f7225bfccf",
               "c-655ab462e9",
-              "c-d8327982f3",
-              "c-80b9be548d"
+              "c-897f55d6d7",
+              "c-3ebcae7d5c"
             ]
           },
           {
-            "texto": "Quiere derogar los planes de igualdad, LGTBI y de movilidad sostenible obligatorios para las empresas, y las cargas que llegan con 50 empleados.",
+            "texto": "Quiere un Plan Nacional de Reindustrialización, revertir normas del Pacto Verde Europeo como la prohibición de motores de combustión, y rechaza el acuerdo UE-Mercosur.",
             "apoyos": [
-              "c-6076b4197c",
-              "c-dc35c93f2a",
-              "c-f69cb7aa1c",
-              "c-4d80cc11a9",
-              "c-6542e85e79"
-            ]
-          },
-          {
-            "texto": "Exigirá a la UE reformar el comercio de emisiones y las normas de sostenibilidad empresarial, y revertir la aplicación provisional del acuerdo con Mercosur.",
-            "apoyos": [
-              "c-03509955f7",
-              "c-dab8a20228",
-              "c-f6adb0c869",
-              "c-cedd6788f4",
-              "c-2e309bbc66"
+              "c-ae6aa1f691",
+              "c-c192135111",
+              "c-95c689fbe5",
+              "c-cedd6788f4"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 4 (fuerza): «pide revertir el acuerdo con Mercosur» sobrepasa la cita, que pide «revertir la aplicación provisional del acuerdo comercial UE-Mercosur y frenar su aprobación» (c-cedd6788f4), y además figura en «Principal normativa europea cuya reforma exigiremos»: es una exigencia ante la UE. Se corrige.",
-          "Frase 3 correcta: los planes de igualdad (c-6076b4197c, c-4d80cc11a9 en «leyes que derogaremos»), LGTBI y movilidad sostenible se presentan como derogaciones; ETS, CBAM, taxonomía y CSRD/CS3D como reformas que exigirá a la UE, sin confundirlas.",
-          "Forma: total de 91 palabras; queda en 89."
+          "Frase 1: «reducir el tamaño y el gasto de la Administración» suaviza las citas, que hablan de reducir el tamaño «al mínimo estrictamente necesario» y recortar los gastos superfluos «hasta el mínimo imprescindible»; se conserva esa fuerza."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "sanidad": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone establecer lo que llama \"prioridad nacional\" en el acceso a la sanidad y derogar el decreto que da atención sanitaria pública a extranjeros sin residencia legal.",
+            "texto": "Propone un plan nacional para reducir las listas de espera, reforzar la atención primaria y pediátrica y fomentar la colaboración público-privada cuando acorte demoras.",
             "apoyos": [
-              "c-5e53de2a26",
-              "c-d54d17cc86"
+              "c-b549938775",
+              "c-6414d28ad6",
+              "c-4518ce72e5"
             ]
           },
           {
-            "texto": "Sostiene que España no puede seguir pagando la sanidad de todo el mundo.",
+            "texto": "Plantea una tarjeta sanitaria única con historia clínica compartida en toda España.",
             "apoyos": [
-              "c-8d87e33693"
+              "c-5f83bf1820"
             ]
           },
           {
-            "texto": "Afirma que hay personas que mueren esperando una cita médica o una operación, y defiende un estatuto propio para los médicos.",
+            "texto": "Quiere mejorar sueldos y condiciones de los profesionales, con incentivos para plazas rurales y un plan de retorno de sanitarios emigrados.",
             "apoyos": [
-              "c-67fed6f039",
-              "c-ba25aad126"
+              "c-20d1e20de2",
+              "c-dc8181427c",
+              "c-a5331f9ff2"
+            ]
+          },
+          {
+            "texto": "Propone excluir de la sanidad pública a los extranjeros en situación irregular, salvo urgencias graves, y acabar con el turismo sanitario.",
+            "apoyos": [
+              "c-43badd9b5b",
+              "c-d54d17cc86",
+              "c-18e6df2e45"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 3: 'Señala como problema las esperas' rebaja la fuerza de la cita c-67fed6f039 ('la gente muere esperando una cita médica o esperando una intervención quirúrgica'). Se reformula con 'Afirma que hay personas que mueren esperando'.",
-          "Frases 1 y 2: correctas. 'Prioridad nacional' va entre comillas y atribuida al partido; la derogación del decreto se describe con palabras corrientes."
+          "Frase 4: el condicional «Excluiría» se aparta de los verbos de atribución pedidos; se cambia por «Propone excluir» y se añade el fin del turismo sanitario, medida concreta del programa.",
+          "Frase 1: «recurrir a la colaboración público-privada» se ajusta a la cita («fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras»)."
         ],
-        "fecha": "2026-11-10"
+        "fecha": "2026-11-12"
       },
       "educacion": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Pide recuperar una evaluación externa, objetiva y común a todo el país, a la vista de los resultados de PISA.",
+            "texto": "Propone derogar la LOMLOE, unificar currículo, evaluaciones e inspección, con reválidas y una EvAU única, y garantizar la enseñanza en español en todo el territorio.",
             "apoyos": [
-              "c-e75f2d33d7"
+              "c-f093b04245",
+              "c-baf6eb20f8",
+              "c-b6a9b656d0",
+              "c-c0293068b9"
             ]
           },
           {
-            "texto": "Defiende una escuela que dé a todos los alumnos una base sólida de conocimientos y cuestiona el peso de las habilidades competenciales.",
+            "texto": "Defiende la libre elección de centro con distrito único, mejores becas y acabar con los móviles en clase.",
             "apoyos": [
-              "c-2b1b4095aa"
+              "c-3634e652f6",
+              "c-938e39c9bd",
+              "c-3e041ab774",
+              "c-194da99a45"
             ]
           },
           {
-            "texto": "Pide que los materiales financiados con dinero público respeten la neutralidad ideológica y el derecho de los padres a decidir sobre la educación de sus hijos.",
+            "texto": "Plantea un número máximo por aula de alumnos de otras culturas o con poco dominio del español, y aulas de nivelación.",
             "apoyos": [
-              "c-140592624f"
+              "c-b31ab339d7",
+              "c-bbeb261b25"
             ]
           },
           {
-            "texto": "Atribuye parte de los problemas a la transferencia de la educación a las comunidades autónomas, sobre todo donde hay inmersión lingüística.",
+            "texto": "Quiere dar preferencia a los españoles al elegir centro y en las ayudas educativas.",
             "apoyos": [
-              "c-b89b0be870"
-            ]
-          }
-        ],
-        "verificacion": "correcto",
-        "problemas_detectados": [],
-        "fecha": "2026-11-10",
-        "revision_cruzada": {
-          "fecha": "2026-11-10",
-          "motivo": "Verbo 'Exige' más fuerte que los del resto (y fuera de la lista de verbos neutros); en otros partidos, citas de fuerza parecida ('exigimos', 'exigiremos') se resumen con 'pide'. Se iguala el verbo y se mantiene lo demás.",
-          "veredicto": "aceptar",
-          "nota_verificador": "La cita c-140592624f dice 'exigimos'; 'Exige' no está en la lista de verbos neutros y en los demás casos con 'exigir' se usa 'pide'. El cambio solo toca el verbo y el contenido sigue fiel a la cita. Los apoyos son ids de Vox en educación."
-        }
-      },
-      "familias-y-cuidados": {
-        "base": "escasa",
-        "frases": [
-          {
-            "texto": "Afirma haber propuesto reducciones y deducciones por hijo en el IRPF y considera que el gasto público en natalidad es una inversión, no un gasto.",
-            "apoyos": [
-              "c-b9f3106f31",
-              "c-50f30bd0b9"
-            ]
-          },
-          {
-            "texto": "Sostiene que las familias españolas quedan relegadas en las ayudas sociales, defiende una única definición de familia y pide neutralidad ideológica en los materiales educativos pagados con dinero público.",
-            "apoyos": [
-              "c-71ff472849",
-              "c-3115fcbb86",
-              "c-684987f34f",
-              "c-140592624f"
+              "c-9ebb2d9e8e"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Base «escasa» correcta: nueve citas, dos diagnósticos del programa y declaraciones sueltas, casi ninguna con medida concreta.",
-          "Frase 1 (fuerza): la cita está en pasado («Hemos propuesto»); «Defiende» la presentaba como propuesta vigente sin matiz, cuando otra declaración del portavoz económico describe un IRPF «sin deducciones ni bonificaciones» (tema impuestos). Se pasa a «Afirma haber propuesto».",
-          "Representatividad: se omitían las dos citas del programa (c-71ff472849, c-3115fcbb86), que son lo único del programa en el tema y sostienen que las familias y los españoles quedan relegados en las ayudas sociales; se recoge atribuido («sostiene»). Para que quepa, se resume la cita de materiales educativos sin la mención al derecho de los padres."
+          "Frase 3: cita como apoyo las aulas específicas de nivelación (c-bbeb261b25) sin mencionarlas; se añaden, y «limitar» se ajusta a «un número máximo por aula», como dice la cita. La preferencia a los españoles en la elección de centro y las ayudas pasa a una frase propia para no superar las 30 palabras."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
+      },
+      "familias-y-cuidados": {
+        "base": "suficiente",
+        "frases": [
+          {
+            "texto": "Propone un plan nacional de natalidad que extienda los beneficios de las familias numerosas a todas desde el primer hijo, con más ayudas según el número de hijos.",
+            "apoyos": [
+              "c-66b9dd975f",
+              "c-34b576da66",
+              "c-57f693c5cb"
+            ]
+          },
+          {
+            "texto": "Plantea bajar el IRPF según los hijos, que el Estado pague la cotización de quien cuide de sus hijos y una educación de 0 a 3 años gratuita.",
+            "apoyos": [
+              "c-1db81ce0d4",
+              "c-d0ff0c9f91",
+              "c-fda794f8b2"
+            ]
+          },
+          {
+            "texto": "Pide más presupuesto para dependencia y más plazas en residencias.",
+            "apoyos": [
+              "c-c0f9037d2a",
+              "c-e425ae2c9a"
+            ]
+          },
+          {
+            "texto": "Quiere dar preferencia a los españoles en ayudas y guarderías y reservar el Ingreso Mínimo Vital a los españoles con menos recursos.",
+            "apoyos": [
+              "c-3e9f22ef84",
+              "c-fc0128b9be"
+            ]
+          }
+        ],
+        "verificacion": "corregido",
+        "problemas_detectados": [
+          "Frase 3: «dar preferencia a los españoles en […] el Ingreso Mínimo Vital» suaviza la cita, que dice que el IMV «atenderá únicamente» a los españoles con menos recursos; es una reserva, no una preferencia. Se separa en una frase propia."
+        ],
+        "fecha": "2026-11-12"
       },
       "inmigracion": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Atribuye a lo que llama «inmigración masiva» la precariedad laboral, la escasez de vivienda, la criminalidad y la saturación de servicios públicos.",
+            "texto": "Sostiene que España no puede acoger más inmigrantes y propone suprimir el arraigo y prohibir regularizar a quien entró de forma irregular.",
             "apoyos": [
-              "c-fa508b39c6",
-              "c-25592424ad",
-              "c-3115fcbb86"
+              "c-f44189d398",
+              "c-e4b34e50ca",
+              "c-cfabae9b7d"
             ]
           },
           {
-            "texto": "Propone lo que llama «prioridad nacional» en la sanidad y derogar el decreto que da atención sanitaria pública a extranjeros sin residencia legal.",
+            "texto": "Plantea repatriar a quien esté en situación irregular, suprimirle toda ayuda social y deportar a quien cometa delitos graves o reiterados.",
             "apoyos": [
-              "c-5e53de2a26",
-              "c-d54d17cc86",
-              "c-8d87e33693"
+              "c-97f995434f",
+              "c-4ea180c611",
+              "c-2ab62bc611"
             ]
           },
           {
-            "texto": "Plantea lo que llama una «remigración» rápida de inmigrantes en situación irregular, que hayan delinquido, que se nieguen a integrarse o que vivan de subsidios.",
+            "texto": "Quiere dar preferencia a los españoles en vivienda y ayudas, lo que llama «prioridad nacional», y lo que llama «remigración»: facilitar el retorno de extranjeros que viven de subsidios.",
             "apoyos": [
-              "c-7b63a6e168",
-              "c-1d7b810eae"
+              "c-3e9f22ef84",
+              "c-72da371848",
+              "c-e7c5cff54c",
+              "c-7b63a6e168"
             ]
           },
           {
-            "texto": "Quiere retirar la nacionalidad adquirida a condenados en firme por cualquier delito y reforzar efectivos en Ceuta y Melilla.",
+            "texto": "Propone que las Fuerzas Armadas participen en proteger las fronteras y militarizar la de Ceuta y Melilla.",
             "apoyos": [
-              "c-1dfc14ad44",
-              "c-843623564f",
-              "c-014ace0c1c"
+              "c-82f13ab1f1",
+              "c-610a185737"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 3 (neutralidad): «remigración» iba entre comillas pero sin atribuir; pasa a «lo que llama «remigración»». «Prioridad nacional» (c-5e53de2a26) e «inmigración masiva» (c-fa508b39c6, c-25592424ad) están literalmente en las citas y ya iban atribuidos.",
-          "Frase 3 (fidelidad): omitía uno de los cuatro grupos de la cita, «los que se nieguen a integrarse imponiendo su cultura» (c-7b63a6e168); se añade. «Con delitos» pasa a «que hayan delinquido».",
-          "Frase 1: la relación causal es opinión del partido; «Presenta… como origen» se cambia a «Atribuye a…», y se añade la criminalidad, que figura en la misma cita del programa.",
-          "Frase 2 (precisión): «derogar la atención sanitaria pública» se ajusta a lo que dice la cita: derogar el decreto que la reconoce a extranjeros sin residencia legal.",
-          "Frase 4: la pérdida de nacionalidad se aplicaría por condena firme por «cualquier delito» (c-1dfc14ad44), alcance que se añade; el refuerzo es de efectivos desplegados en Ceuta y Melilla. Se retira la directiva 2024/1233 (solo un nombre en «normativa europea cuya reforma exigiremos») para no pasar de 90 palabras.",
-          "Ningún término cargado («invasión», «invasores») adoptado como propio."
+          "Frase 2: en el programa «remigración» es el nombre del plan para facilitar el retorno de los extranjeros que no contribuyan o vivan de subsidios; colocado al final de la enumeración parecía cubrir también la repatriación y la deportación (así lo usa solo el portavoz económico en una declaración). Se ata el término a ese plan. Se precisa además que la deportación alcanza a quienes «hagan del delito leve su forma de vida» («delitos graves o reiterados»).",
+          "Frase 3: citaba como apoyo la supresión de toda ayuda social a los inmigrantes en situación irregular (c-4ea180c611) sin mencionarla; se incorpora a la frase de repatriación. Se atribuye el término «prioridad nacional», que figura literalmente en las citas c-3e9f22ef84 y c-72da371848 y que el resumen describía sin nombrarlo. La reserva del Ingreso Mínimo Vital sale de este tema por espacio y queda en familias-y-cuidados.",
+          "Frase 4: «proteger las fronteras con apoyo de las Fuerzas Armadas» suaviza la «militarización de la frontera» de Ceuta y Melilla que propone el programa; se conserva el verbo, sin adoptar los términos «invasión» ni «invasores»."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "seguridad-y-justicia": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone que el propietario recupere de inmediato el inmueble en cuanto haya impago, incumplimiento del contrato o vencimiento del plazo.",
+            "texto": "Propone endurecer las penas: rebajar la edad penal de los menores, ampliar la prisión permanente revisable y castigar más a los incendiarios.",
             "apoyos": [
-              "c-efe073293a"
+              "c-eb8b520b13",
+              "c-14a227569f",
+              "c-fda237ae5a",
+              "c-5b685923be"
             ]
           },
           {
-            "texto": "Plantea retirar la nacionalidad adquirida a quien sea condenado en firme por cualquier delito y expulsar con rapidez a los inmigrantes que delincan.",
+            "texto": "Quiere desalojar las viviendas ocupadas en menos de 24 horas y tipificar como estafa lo que llama «inquiocupación».",
             "apoyos": [
-              "c-1dfc14ad44",
-              "c-7b63a6e168",
-              "c-d86ef1b937"
+              "c-ed89c845d9",
+              "c-2b6e90b5b5"
             ]
           },
           {
-            "texto": "Pide reforzar con más policías y militares la seguridad de Ceuta y Melilla.",
+            "texto": "Pide más medios, equiparación salarial y reconocimiento como profesión de riesgo para policías, guardias civiles y funcionarios de prisiones, y restablecer el OCON Sur contra el narcotráfico.",
             "apoyos": [
-              "c-843623564f"
+              "c-f55d8a54b5",
+              "c-1220e481eb",
+              "c-942452ab6d",
+              "c-35896f9aa1"
             ]
           },
           {
-            "texto": "Defiende que quienes agreden a mujeres reciban todo el reproche penal y que los violadores no salgan de prisión.",
+            "texto": "Plantea que los jueces elijan a los vocales judiciales del CGPJ, recuperar el delito de sedición y hacer imprescriptibles los delitos de terrorismo.",
             "apoyos": [
-              "c-810070418b"
+              "c-f0ab87a703",
+              "c-748dbec777",
+              "c-dbb1e4a963"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 1: la cita habla de devolver el inmueble al propietario cuando hay impago, incumplimiento de contrato o vencimiento del plazo, es decir, de situaciones de alquiler. 'Su vivienda ocupada' sugiere una usurpación sin contrato y cambia el alcance. Se describe la medida tal cual: 'el inmueble'.",
-          "Frase 3: c-959d40cd3b trata de expulsiones y devolución de menores, no de más policías y militares. Se retira de apoyos.",
-          "Frase 4: 'máximo reproche penal' convierte en un grado lo que la cita formula como 'todo el reproche penal'. Se ajusta a la cita."
+          "Frase 3: «reconocidos como profesión de riesgo» se lee como un hecho ya existente; el programa lo propone («Reconocimiento … como profesión de riesgo»). Se reescribe como petición.",
+          "Representatividad: el programa dedica varias medidas concretas al terrorismo (imprescriptibilidad de todos sus delitos, ley contra el enaltecimiento, fin de privilegios penitenciarios) y el resumen no lo recogía. Se añade la imprescriptibilidad; para no pasar de 90 palabras se quita «doce» y la mención de los indultos (que además omitía que la prohibición alcanza también a delitos contra la integridad territorial).",
+          "«Inquiocupación» está literalmente en c-ed89c845d9 y c-2b6e90b5b5 y va atribuido: correcto. No se adopta «okupación» ni «invasión»."
         ],
-        "fecha": "2026-11-10"
+        "fecha": "2026-11-12"
       },
       "democracia-e-instituciones": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone revisar toda la Administración para suprimir trámites innecesarios y que cada nueva ley identifique tres normas vigentes que deroga.",
+            "texto": "Propone que los jueces elijan a los vocales judiciales del CGPJ y que el control de constitucionalidad no dependa de «un órgano político».",
             "apoyos": [
-              "c-810443cd1c",
+              "c-f0ab87a703",
+              "c-360124ffda",
+              "c-f735fceadb"
+            ]
+          },
+          {
+            "texto": "Plantea ilegalizar partidos y organizaciones que atenten contra la unidad territorial y agravar las penas por ofensas a los símbolos nacionales.",
+            "apoyos": [
+              "c-0a51bf6519",
+              "c-3b2bde6ffd",
+              "c-59fea11041"
+            ]
+          },
+          {
+            "texto": "Quiere reducir la Administración y las normas: derogar tres por cada ley nueva, suprimir la cita previa obligatoria y eliminar progresivamente las subvenciones a partidos, sindicatos y patronales.",
+            "apoyos": [
               "c-0def1234eb",
-              "c-dba5c43b07",
-              "c-72bc5133bc"
+              "c-4602cae7b5",
+              "c-10b786684e",
+              "c-78d008f082"
             ]
           },
           {
-            "texto": "Plantea una base de datos común a todas las administraciones, acabar con la cita previa obligatoria y aplicar como regla general el silencio administrativo positivo.",
+            "texto": "Pide reformar RTVE, auditar las administraciones contra la corrupción y superar leyes como la de Memoria Democrática.",
             "apoyos": [
-              "c-31ce181b8f",
-              "c-a7da1f12ce",
-              "c-3f785edd1b",
-              "c-2b12362144"
-            ]
-          },
-          {
-            "texto": "Quiere un buzón ciudadano y mesas sectoriales para señalar qué normas sobran, y un uso amplio de la inteligencia artificial en la Administración.",
-            "apoyos": [
-              "c-8a85b400b2",
-              "c-8ecf468d08",
-              "c-acb26bc6dc"
-            ]
-          },
-          {
-            "texto": "Pide las mismas reglas en todo el país, critica la regulación autonómica y quiere transponer las directivas europeas sin añadidos.",
-            "apoyos": [
-              "c-feb87f85fd",
-              "c-53be8b2e9c",
-              "c-6ff56361cf",
-              "c-ae50310767",
-              "c-186b2aacad"
+              "c-8fd62c65a7",
+              "c-e8fccff865",
+              "c-0a0be1bdc4"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Contenido fiel y representativo: el material es casi todo de simplificación administrativa del programa y el resumen lo refleja; base suficiente.",
-          "Frase 4 (forma): «Pide mismas reglas» es incorrecto; pasa a «Pide las mismas reglas». «Critica la regulación autonómica» es una descripción neutra de c-53be8b2e9c, sin adoptar «hiperregulación».",
-          "Sin términos cargados adoptados («hiperregulación», «bipartidismo»)."
+          "Frase 3: «Quiere reducir la Administración» no cubre «derogar tres normas por cada ley nueva», que es reducción de normas, no de Administración. Se añade «y las normas».",
+          "Representatividad: el programa propone la «superación» de las leyes que considera divisivas, citando la de Memoria Democrática (c-0a0be1bdc4, medida concreta), y el resumen no la recogía. Se añade con el verbo de la cita («superar»), sin convertirlo en derogar.",
+          "Para no pasar de 90 palabras se acortan las frases 1 y 2 sin cambiar su contenido."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "organizacion-territorial": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone una Ley de Mercado Abierto para que empresas, profesionales y productos que operen legalmente en una comunidad autónoma puedan hacerlo en toda España sin trámites adicionales.",
+            "texto": "Propone una Ley de Unidad de Mercado para que lo legal en una comunidad autónoma lo sea en toda España.",
             "apoyos": [
-              "c-655ab462e9",
-              "c-c66cc98f58",
-              "c-d8327982f3"
+              "c-f7225bfccf",
+              "c-655ab462e9"
             ]
           },
           {
-            "texto": "Quiere que el Estado use el artículo 150.3 de la Constitución para imponer reglas comunes en ámbitos como justicia, sanidad, educación o fiscalidad.",
+            "texto": "En un documento anterior sobre regulación, plantea leyes de armonización basadas en el artículo 150.3 de la Constitución para imponer reglas comunes a las comunidades.",
             "apoyos": [
-              "c-72a0a866c3",
-              "c-feb87f85fd"
+              "c-72a0a866c3"
             ]
           },
           {
-            "texto": "Plantea derogar los requisitos autonómicos para vender productos que superen la norma europea, como obligaciones lingüísticas o sistemas de envases propios.",
+            "texto": "Pide garantizar la educación en español en todo el territorio y que no saber una lengua regional no impida acceder a plazas sanitarias.",
             "apoyos": [
-              "c-058fdfea0a"
+              "c-c0293068b9",
+              "c-df3d3b2c2f"
             ]
           },
           {
-            "texto": "Considera que el modelo autonómico ha debilitado la unidad nacional y la igualdad entre españoles.",
+            "texto": "Plantea ilegalizar partidos y organizaciones que atenten contra la unidad territorial y militarizar la frontera de Ceuta y Melilla.",
             "apoyos": [
-              "c-ef4432ad2a",
-              "c-53be8b2e9c",
-              "c-a59d318d98"
+              "c-0a51bf6519",
+              "c-610a185737"
             ]
           }
         ],
-        "verificacion": "correcto",
-        "problemas_detectados": [],
-        "fecha": "2026-11-11"
+        "verificacion": "corregido",
+        "problemas_detectados": [
+          "Frase 2: «Su documento de junio» no se entiende para el lector de la web. Se sustituye por «En un documento anterior sobre regulación».",
+          "Frase 4: «ilegalizar las organizaciones» omite que la cita (c-0a51bf6519) incluye expresamente a los partidos políticos. Se corrige a «partidos y organizaciones».",
+          "Comprobado: ninguna cita propone suprimir el Estado autonómico (solo lo critican el documento anterior y una enmienda) y el resumen no se lo atribuye. Las leyes de armonización vía artículo 150.3 están en c-72a0a866c3 con el verbo «imponer reglas comunes»: fiel.",
+          "No se adopta «invasores» ni «invasión» de las citas de Ceuta y Melilla."
+        ],
+        "fecha": "2026-11-12"
       },
       "medio-ambiente-y-energia": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone derogar la ley de cambio climático de 2021, la de residuos de 2022 y la del comercio de derechos de emisión.",
+            "texto": "Propone mantener las centrales nucleares derogando su calendario de cierre y estudiar instalar otras junto a las actuales.",
             "apoyos": [
-              "c-e398d782b5",
-              "c-8a14df505a",
-              "c-39ce5ee994",
-              "c-5fd2ad20c7"
+              "c-8235ec5611",
+              "c-8cba169e63"
             ]
           },
           {
-            "texto": "Quiere revertir el calendario de cierre de las centrales nucleares y explotar los hidrocarburos propios.",
+            "texto": "Quiere una bajada masiva de impuestos a la electricidad y eliminar el tope a la inversión en redes eléctricas.",
             "apoyos": [
-              "c-8cba169e63",
-              "c-a02ac290bd",
-              "c-554ec8d7f2",
-              "c-5fd2ad20c7"
+              "c-48a4f28458",
+              "c-e8927a9956"
             ]
           },
           {
-            "texto": "Plantea tramitación exprés, con plazos cerrados y silencio positivo, para redes eléctricas, almacenamiento energético e infraestructuras hidráulicas, y una sola evaluación ambiental por proyecto.",
+            "texto": "Plantea revertir normas del Pacto Verde, como la prohibición de motores de combustión o los impuestos al CO2, y la imposición de zonas de bajas emisiones.",
             "apoyos": [
-              "c-d29d140115",
-              "c-bb4ea2903a",
-              "c-500431e25a",
-              "c-8f1f69ef11",
-              "c-186b2aacad"
+              "c-c192135111",
+              "c-cee2109f7d"
             ]
           },
           {
-            "texto": "Exigirá a la Unión Europea suprimir la normativa del Pacto Verde y reformar el comercio de emisiones y la prohibición de vender coches de combustión desde 2035.",
+            "texto": "Propone un Plan Nacional del Agua que interconecte todas las cuencas y quiere impedir que macroplantas solares y eólicas sin control destruyan riqueza agrícola y patrimonio natural.",
             "apoyos": [
-              "c-330f63ce0d",
-              "c-03509955f7",
-              "c-e11a40bbcb",
-              "c-a630ebee1b"
+              "c-f5140a9b79",
+              "c-3a85232ab0"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 4: el apartado de las citas es «Principal normativa europea cuya reforma exigiremos»; «pedirá» rebaja la fuerza. Se cambia a «exigirá».",
-          "Frase 4: «reformar el comercio de emisiones o la norma…» sugería una alternativa; las dos normas están en la lista, se cambia a «y».",
-          "Frase 3: «almacenamiento» a secas es ambiguo; la cita habla de almacenamiento energético.",
-          "La distinción entre derogar (leyes 7/2021, 7/2022 y 1/2005, apartado «Primeras leyes que derogaremos») y exigir la reforma europea es correcta; no se usa «fanatismo climático»."
+          "Frase 4: «su documento de junio» no se entiende para el lector; además, una medida del documento anterior (derogar la Ley de cambio climático) ocupaba el sitio de medidas del programa electoral que el resumen omitía.",
+          "Representatividad: faltaba la oposición del programa a la «instalación descontrolada» de grandes plantas solares y eólicas (c-3a85232ab0). Se añade y, por el límite de palabras, se retira la derogación de la Ley de cambio climático, que solo está en el documento anterior.",
+          "Frase 2: «bajar los impuestos» suavizaba la «bajada masiva» de la cita; se conserva la fuerza.",
+          "Frase 3: «suprimir las zonas de bajas emisiones» no es lo que dice la cita, que pide acabar con «la imposición de ZBE». Se corrige.",
+          "Frase 1: «estudiar nuevas centrales» se precisa como «estudiar instalar otras junto a las actuales», que es lo que dice la cita (estudios para instalar centrales en los emplazamientos adyacentes)."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "campo-y-medio-rural": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone revisar toda la normativa del campo, como la PAC, el cuaderno digital, las autorizaciones de riego o los fitosanitarios, con silencio positivo y menos trámites.",
+            "texto": "Rechaza el acuerdo UE-Mercosur y cualquier acuerdo que obligue a competir «en desigualdad de condiciones»; pide cláusulas espejo y más controles fronterizos.",
             "apoyos": [
-              "c-a6275e1997",
-              "c-779ce301be",
-              "c-57a30a32cd"
+              "c-95c689fbe5",
+              "c-3b8cbcbd0b",
+              "c-cedd6788f4"
             ]
           },
           {
-            "texto": "Exigirá a la Unión Europea reformar el reglamento de la PAC que condiciona las ayudas a exigencias medioambientales y las normas sobre fitosanitarios y plaguicidas.",
+            "texto": "Se opone a recortar la PAC, quiere que su reparto prime a las zonas despobladas y pide acabar con sus exigencias burocráticas y medioambientales.",
             "apoyos": [
-              "c-3ae658db5c",
-              "c-d99e7f188b"
+              "c-837a3c34ba"
             ]
           },
           {
-            "texto": "Quiere revertir la aplicación provisional del acuerdo con Mercosur y frenar su aprobación, y defender a agricultores y ganaderos de lo que llama «competencia desleal».",
+            "texto": "Propone silencio administrativo positivo en trámites rurales, un fondo de compensación ante normas europeas y catástrofes, y fiscalidad mínima donde haya riesgo de despoblación.",
             "apoyos": [
-              "c-cedd6788f4",
-              "c-2e7be62278",
-              "c-ce3c426c40"
+              "c-45ea212475",
+              "c-751b5e3e0c",
+              "c-9655bdbe78"
             ]
           },
           {
-            "texto": "Plantea además interconectar las cuencas en un plan nacional del agua.",
+            "texto": "Plantea un Plan Nacional del Agua que interconecte todas las cuencas y revisar la Política Pesquera Común y sus cuotas.",
             "apoyos": [
-              "c-07453b2380",
-              "c-13832c565e"
+              "c-f5140a9b79",
+              "c-13832c565e",
+              "c-ded245f459"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 1: la cita habla de «autorizaciones de riego», no del riego en general; se precisa.",
-          "Frase 2: el Reglamento 2021/2115 está en «Principal normativa europea cuya reforma exigiremos»: se pide reformar el reglamento entero de los planes de la PAC, que la cita describe por condicionar las ayudas a exigencias medioambientales; «reformar las condiciones ambientales de las ayudas» estrechaba el alcance. Además «pedirá» rebaja «exigiremos».",
-          "«competencia desleal» está literalmente en c-2e7be62278 y c-ce3c426c40 y va atribuido con «lo que llama»: correcto."
+          "Frase 2: «sin exigencias burocráticas y medioambientales» era una construcción ambigua; se reescribe como lo que pide la cita («el fin de» esas exigencias en la PAC), sin adoptar el término del partido «fanatismo climático».",
+          "Frase 1: se acorta sin cambiar el contenido para no pasar de 90 palabras.",
+          "Representatividad: la pesca (revisión de la Política Pesquera Común y sus cuotas, c-ded245f459, medida concreta del programa) no aparecía. Se añade a la última frase."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "transporte": {
-        "base": "escasa",
+        "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone derogar la Ley de Movilidad Sostenible y el plan obligatorio de movilidad sostenible, y exigirá reformar la norma europea que prohíbe vender coches de combustión desde 2035.",
+            "texto": "Propone un plan nacional de infraestructuras y más inversión en carreteras, ferrocarril, puertos, nodos logísticos y obras contra inundaciones.",
+            "apoyos": [
+              "c-342b098dd5",
+              "c-b8f3d9bd56"
+            ]
+          },
+          {
+            "texto": "En el tren, prioriza la seguridad, el mantenimiento, Cercanías y Media Distancia; propone auditar la red y electrificar líneas convencionales para conectar la España rural.",
+            "apoyos": [
+              "c-dea5e3f5f6",
+              "c-077dc8dc01",
+              "c-38046121bc"
+            ]
+          },
+          {
+            "texto": "Quiere acabar con la imposición de zonas de bajas emisiones, que considera contraria a la libertad de circulación.",
+            "apoyos": [
+              "c-cee2109f7d"
+            ]
+          },
+          {
+            "texto": "En un documento anterior sobre regulación, prevé derogar la Ley de Movilidad Sostenible y exigir a la UE reformar la prohibición de vender coches de combustión desde 2035.",
             "apoyos": [
               "c-0ab0008ff2",
               "c-f69cb7aa1c",
               "c-e11a40bbcb"
             ]
-          },
-          {
-            "texto": "Pide una auditoría de seguridad de las vías y técnicos que garanticen la seguridad de todos los trayectos.",
-            "apoyos": [
-              "c-38046121bc",
-              "c-a45889b4ac"
-            ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Base: de 13 citas, 6 (redes eléctricas, permisos de conexión, almacenamiento, obras hidráulicas, interconexión de cuencas) no tratan de transporte y c-6571e980ff no dice de qué infraestructura habla. Quedan 2 nombres de norma, una medida (plan de movilidad) y 3 declaraciones genéricas sin modo de transporte. Es material escaso: se cambia a «escasa» y se reduce a dos frases.",
-          "Frase 1: «para las empresas» no está en las citas (c-f69cb7aa1c habla del «transporte a todos los trabajadores»); se quita.",
-          "Frase 2: «pedirá» rebaja «exigiremos»; se fusiona con la frase 1 como «exigirá reformar la norma europea».",
-          "Frase 3: «atribuye los problemas a la degradación y la falta de inversión» recortaba la cita c-bc2741b2ae (que también habla de problema técnico, fondos europeos y «decisiones de naturaleza ideológica») y no dice a qué problemas se refiere; se elimina y se deja solo lo que proponen las declaraciones, sin atribuirles un modo de transporte."
+          "Frase 3: «acabar con las zonas de bajas emisiones» amplía la cita, que pide acabar con «la imposición de ZBE» y la presenta como una restricción a la libertad de circulación. Se corrige y se atribuye ese juicio.",
+          "Frase 4: «Su documento de junio» no se entiende para el lector; se sustituye. Comprobado que distingue bien derogar (Ley 9/2025 de Movilidad Sostenible, apartado «Primeras leyes que derogaremos») y exigir a la UE que reforme (Reglamento 2019/631, apartado «Principal normativa europea cuya reforma exigiremos»)."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "igualdad-y-derechos": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone derogar la obligación de que las empresas tengan planes de igualdad, recogida en la ley de igualdad de 2007 reformada en 2019, y los planes LGTBI obligatorios.",
+            "texto": "Propone derogar las leyes que, según sostiene, «han criminalizado a los hombres y desprotegido a las mujeres», y atribuye a las denuncias falsas perjuicios a muchas familias.",
+            "apoyos": [
+              "c-69f5d7e000",
+              "c-1358905df7"
+            ]
+          },
+          {
+            "texto": "En su lugar, pide leyes y protección policial y judicial para las mujeres víctimas de violencia.",
+            "apoyos": [
+              "c-1358905df7",
+              "c-64b31bef76"
+            ]
+          },
+          {
+            "texto": "Plantea prohibir el burka y el niqab en espacios públicos y defiende el derecho a la vida «desde su concepción hasta la muerte natural».",
+            "apoyos": [
+              "c-133f0de770",
+              "c-e2db9c18a9"
+            ]
+          },
+          {
+            "texto": "En un documento anterior sobre regulación, prevé derogar la obligación de que las empresas tengan planes de igualdad y LGTBI.",
             "apoyos": [
               "c-6076b4197c",
-              "c-4d80cc11a9",
               "c-dc35c93f2a",
-              "c-c772333f84"
-            ]
-          },
-          {
-            "texto": "Sostiene que la Constitución ya garantiza la igualdad ante la ley y que esas obligaciones frenan el crecimiento de las empresas.",
-            "apoyos": [
-              "c-6076b4197c",
-              "c-4f2612ec21"
-            ]
-          },
-          {
-            "texto": "Exigirá a la Unión Europea reformar la directiva de igualdad retributiva.",
-            "apoyos": [
-              "c-7fa71f399e"
-            ]
-          },
-          {
-            "texto": "También defiende una única definición de familia y pide todo el reproche penal para quienes agreden a las mujeres.",
-            "apoyos": [
-              "c-684987f34f",
-              "c-810070418b"
+              "c-4d80cc11a9"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 3: la Directiva 2023/970 está en «Principal normativa europea cuya reforma exigiremos»; «pedirá» rebaja la fuerza. Se cambia a «exigirá».",
-          "Frase 1 acota bien la derogación a la parte de la Ley Orgánica 3/2007 sobre planes de igualdad, sin decir que se deroga la ley entera."
+          "Frase 4: «Su documento de junio» no se entiende para el lector; se sustituye. Comprobado que el apartado de c-4d80cc11a9 es «Primeras leyes que derogaremos» y que c-6076b4197c y c-dc35c93f2a dicen «Se deroga»: el verbo «derogar» es fiel.",
+          "Comprobado: la frase 1 cita literalmente c-69f5d7e000, atribuida («según sostiene»), sin nombrar leyes que la cita no nombra y sin hablar de «leyes de género», que la cita no dice. La frase 2 recoge lo que propone a cambio (c-1358905df7, c-64b31bef76), lo que da una imagen equilibrada.",
+          "Se mantiene sin cambios el resto. Quedan fuera por espacio el deporte femenino por criterios biológicos y el fin de los menús halal; no desplazan a ninguna línea más importante."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "politica-exterior-y-defensa": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone revisar la normativa española de origen europeo para dejarla en el mínimo imprescindible y transponer las directivas de forma literal.",
+            "texto": "Propone aumentar la inversión en Defensa, mejorar los sueldos militares y reconocer el servicio en las Fuerzas Armadas como profesión de riesgo.",
             "apoyos": [
-              "c-ae50310767",
-              "c-6ff56361cf",
-              "c-a090e87eda"
+              "c-e30afa996f",
+              "c-29014530c9",
+              "c-9904bc6820"
             ]
           },
           {
-            "texto": "Exigirá a la Unión Europea revertir la aplicación provisional del acuerdo con Mercosur y poner fin al Acuerdo de Asociación con Marruecos.",
+            "texto": "Plantea un modelo permanente de protección de fronteras con participación militar y militarizar las de Ceuta y Melilla.",
             "apoyos": [
+              "c-82f13ab1f1",
+              "c-610a185737"
+            ]
+          },
+          {
+            "texto": "Pide sanciones, suspender acuerdos y revisar relaciones con Marruecos hasta que respete la soberanía española, y presión internacional para recuperar Gibraltar.",
+            "apoyos": [
+              "c-a577d1022a",
+              "c-cee847a5d4"
+            ]
+          },
+          {
+            "texto": "Rechaza el acuerdo UE-Mercosur y plantea retirar la cooperación al desarrollo a los países que no colaboren en la gestión de los flujos migratorios.",
+            "apoyos": [
+              "c-95c689fbe5",
               "c-cedd6788f4",
-              "c-dd431561d9",
-              "c-c3c7d6bd07",
-              "c-a71e60c40f"
-            ]
-          },
-          {
-            "texto": "Pide reforzar las fronteras de Ceuta y Melilla con más agentes y militares y que las Fuerzas Armadas apoyen a las fuerzas de orden público contra la inmigración irregular.",
-            "apoyos": [
-              "c-843623564f",
-              "c-014ace0c1c",
-              "c-76b75b1c4d"
-            ]
-          },
-          {
-            "texto": "Defiende más inversión en defensa y ser mejores aliados asumiendo más responsabilidades.",
-            "apoyos": [
-              "c-fac906c4c4",
-              "c-f204a6a40c"
+              "c-5379fabca8"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 2: «revertir el acuerdo con Mercosur» exagera c-cedd6788f4, que pide revertir su aplicación provisional y frenar su aprobación; se corrige. «pedirá» rebaja «exigiremos».",
-          "Frase 2: se quita el Pacto Verde (ya está en medio ambiente) para no pasar de 90 palabras y dejar en este tema lo que es relación exterior (Mercosur, Marruecos).",
-          "Frase 3: c-76b75b1c4d pide que las Fuerzas Armadas apoyen «a las fuerzas de orden público» en esa lucha; «apoyen la lucha» ampliaba su papel. Se precisa. «inmigración irregular» por «inmigración ilegal» mantiene el alcance; no se adopta «invasión».",
-          "Frase 1: se quita «sin añadidos» por espacio; «de forma literal» ya lo recoge."
+          "Frase 4: «su documento de junio» no se entiende para el lector, y dos medidas del documento anterior (exigir a la UE suprimir la normativa del Pacto Verde y poner fin al Acuerdo de Asociación con Marruecos) ocupaban el sitio de una medida concreta del programa electoral que faltaba: retirar la cooperación al desarrollo a los países que no colaboren en la gestión de los flujos migratorios (c-5379fabca8). Se sustituye. El Pacto Verde ya está en el resumen de medio ambiente y la presión a Marruecos en la frase 3."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       },
       "ciencia-cultura-y-digital": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone reescribir la ley de protección de datos con solo lo que exige la Unión Europea y que su agencia pase de sancionar a asesorar, sobre todo a pymes.",
+            "texto": "Propone reforzar la inversión en I+D+i y los incentivos fiscales a la innovación, un plan para recuperar el talento emigrado e impulsar la inteligencia artificial en empresas y administraciones.",
+            "apoyos": [
+              "c-73e2a1e9c0",
+              "c-3e1914425f",
+              "c-93a67495e7",
+              "c-acb26bc6dc"
+            ]
+          },
+          {
+            "texto": "En cultura, plantea bajar impuestos al arte y los espectáculos en vivo, elevar deducciones del IRPF con una nueva Ley de Mecenazgo y defender la tauromaquia.",
+            "apoyos": [
+              "c-69964c851f",
+              "c-dba4689874",
+              "c-0e0ba8f387"
+            ]
+          },
+          {
+            "texto": "Quiere proteger a los menores frente a riesgos digitales como la pornografía o la adicción al juego.",
+            "apoyos": [
+              "c-18eb06128d"
+            ]
+          },
+          {
+            "texto": "En un documento anterior sobre regulación, propone reescribir la ley de protección de datos al «mínimo imprescindible».",
             "apoyos": [
               "c-3e6ee5deda",
               "c-75f295b361"
-            ]
-          },
-          {
-            "texto": "Quiere un uso masivo de la inteligencia artificial en la Administración para resolver expedientes sencillos y reducir trámites, y exigirá a la Unión Europea reformar su reglamento de IA.",
-            "apoyos": [
-              "c-acb26bc6dc",
-              "c-04fe37239f"
-            ]
-          },
-          {
-            "texto": "Propone derogar el protocolo obligatorio de desconexión digital en las empresas.",
-            "apoyos": [
-              "c-8b07ff9764"
-            ]
-          },
-          {
-            "texto": "En cultura, defiende que no se prohíban los festejos taurinos.",
-            "apoyos": [
-              "c-175fc9c688"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 1: la Ley Orgánica 3/2018 está en «Primeras leyes cuya revisión y reforma promoveremos» y c-3e6ee5deda dice «reescribir»; «reducir» se cambia por «reescribir… con solo lo que exige». La sigla AEPD no se explica a los lectores; se escribe «su agencia».",
-          "Frase 2: el Reglamento de IA está en «Principal normativa europea cuya reforma exigiremos»; «pedirá» rebaja la fuerza.",
-          "Frase 3: «Plantea» rebaja «Se deroga»; se cambia a «Propone»."
+          "Frase 4: «Su documento de junio» no se entiende para el lector; se sustituye. Comprobado: «mínimo imprescindible» está literal en c-3e6ee5deda y el apartado de c-75f295b361 es de revisión y reforma, no de derogación: «reescribir» es fiel.",
+          "Representatividad: en lo digital, el programa propone proteger a los menores frente a riesgos de los entornos digitales (c-18eb06128d) y el resumen no lo recogía, mientras que la única medida digital venía del documento anterior. Se añade; para hacer sitio se unen I+D+i e inteligencia artificial en una frase (se pierde el matiz de la atención presencial)."
         ],
-        "fecha": "2026-11-11"
+        "fecha": "2026-11-12"
       }
     },
     "salf": {
@@ -10457,40 +10480,54 @@
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Propone reconocer en los alquileres de vivienda habitual el derecho a convivir con animales de compañía, manteniendo las obligaciones de cuidado y de reparar daños.",
+            "texto": "Propone reconocer en los alquileres de vivienda habitual el derecho a convivir con animales de compañía, con las obligaciones de cuidado y reparación de daños.",
             "apoyos": [
               "c-303a220e36"
             ]
           },
           {
-            "texto": "Plantea deducciones en el IRPF o bonificaciones en impuestos locales para los propietarios que alquilen sin cláusulas que excluyan a quienes tienen animales.",
+            "texto": "Plantea deducciones en el IRPF o bonificaciones en impuestos locales a propietarios cuyos contratos no excluyan animales, y que las políticas de vivienda contemplen a las familias con animales.",
             "apoyos": [
-              "c-fb15c323ad"
-            ]
-          },
-          {
-            "texto": "Pide que las políticas de vivienda y los alojamientos de emergencia contemplen a las familias con animales para evitar separaciones.",
-            "apoyos": [
+              "c-fb15c323ad",
               "c-c17fc64937"
             ]
           },
           {
-            "texto": "También defiende ampliar con urgencia el parque público de vivienda para ofrecer alternativas de emancipación a los jóvenes.",
+            "texto": "Como candidato a la Junta de Andalucía en 2026, su presidente defendió ampliar con urgencia el parque público de vivienda para ofrecer alternativas de emancipación a los jóvenes.",
             "apoyos": [
               "c-a61ed54bb4"
             ]
           }
         ],
-        "verificacion": "correcto",
-        "problemas_detectados": [],
-        "fecha": "2026-11-10"
+        "verificacion": "corregido",
+        "problemas_detectados": [
+          "Fidelidad: la segunda frase dice «que la vivienda pública contemple a las familias con animales», pero c-c17fc64937 habla de «las políticas públicas de vivienda y los alojamientos de emergencia», que es algo más amplio que la vivienda pública. Se cambia a «las políticas de vivienda».",
+          "Ámbito: la tercera frase la sitúa en «la campaña andaluza», pero no dice que el presidente hablaba como candidato a la Junta de Andalucía (así figura en c-a61ed54bb4). Se reescribe para dejar claro que es una propuesta de ámbito andaluz."
+        ],
+        "fecha": "2026-11-12"
       },
       "empleo": {
-        "base": "sin_material",
-        "frases": [],
-        "verificacion": "correcto",
-        "problemas_detectados": [],
-        "fecha": "2026-11-10"
+        "base": "escasa",
+        "frases": [
+          {
+            "texto": "En su programa para las elecciones andaluzas de 2026, propone un pacto con los agentes sociales contra la discriminación laboral y salarial de las mujeres.",
+            "apoyos": [
+              "c-ef2e1d71ff"
+            ]
+          },
+          {
+            "texto": "El mismo programa plantea fomentar guarderías en el trabajo para niños y animales de compañía, y permisos retribuidos por enfermedad grave o muerte de familiares, incluidos los animales.",
+            "apoyos": [
+              "c-ed530d227f"
+            ]
+          }
+        ],
+        "verificacion": "corregido",
+        "problemas_detectados": [
+          "Origen: la segunda frase («También plantea…») se apoya solo en el programa andaluz (c-ed530d227f) y no lo dice; leída suelta parece una propuesta para toda España. Se reescribe como «El mismo programa plantea…».",
+          "Base «escasa» correcta: las cuatro citas son del programa andaluz de mayo de 2026 y no hay material estatal."
+        ],
+        "fecha": "2026-11-12"
       },
       "pensiones": {
         "base": "sin_material",
@@ -10579,38 +10616,61 @@
         "base": "escasa",
         "frases": [
           {
-            "texto": "Defiende la educación en bienestar animal como herramienta preventiva, porque sostiene que la violencia contra los animales está relacionada con otras formas de violencia.",
+            "texto": "Defiende la educación en bienestar animal como herramienta para prevenir la violencia.",
             "apoyos": [
               "c-e61b9745d0"
             ]
+          },
+          {
+            "texto": "En sus programas para las elecciones de Extremadura y Andalucía, pide una red pública con ratios más bajas, libros de texto gratuitos e impulso a la formación profesional.",
+            "apoyos": [
+              "c-d458d0be75",
+              "c-fa8677e0aa",
+              "c-d63da984d9",
+              "c-9b9577e21c"
+            ]
           }
         ],
-        "verificacion": "correcto",
-        "problemas_detectados": [],
-        "fecha": "2026-11-10"
+        "verificacion": "corregido",
+        "problemas_detectados": [
+          "Base: solo hay una cita de ámbito estatal (c-e61b9745d0) y es una posición genérica, sin medidas. Todas las medidas salen de los programas de Extremadura y Andalucía. Criterio aplicado a los nueve temas: la base es escasa si el material estatal falta o se reduce a una o dos citas genéricas. Se pasa a «escasa» y a dos frases.",
+          "Al quedar en dos frases se quita la tercera (libros con licencia libre, conciertos y escuela laica, todo del programa andaluz). Se dejan las líneas que aparecen en los dos programas: red pública, ratios, libros gratuitos y formación profesional.",
+          "Se añade c-9b9577e21c (más plazas de Formación Profesional para el Empleo en el programa andaluz) como apoyo de «impulso a la formación profesional», que antes solo se apoyaba en el programa de Extremadura."
+        ],
+        "fecha": "2026-11-12"
       },
       "familias-y-cuidados": {
-        "base": "escasa",
+        "base": "suficiente",
         "frases": [
           {
-            "texto": "Pide prohibir en la reforma de la LOPIVI que los menores de 18 años asistan o participen en actividades taurinas y vetar ya la entrada a menores de 16.",
+            "texto": "Pide que la reforma de la LOPIVI, la ley de protección de la infancia, prohíba a los menores de 18 años asistir o participar en actividades taurinas.",
+            "apoyos": [
+              "c-78053e864c"
+            ]
+          },
+          {
+            "texto": "Para los menores de 16 años, plantea que Cultura impida ya su entrada.",
             "apoyos": [
               "c-78053e864c",
               "c-1d83c2b933"
             ]
           },
           {
-            "texto": "También pide que las políticas de vivienda y los alojamientos de emergencia tengan en cuenta a las familias con animales para evitar separaciones.",
+            "texto": "Pide también que las políticas de vivienda y los alojamientos de emergencia contemplen a las familias con animales para evitar separaciones.",
             "apoyos": [
               "c-c17fc64937"
             ]
+          },
+          {
+            "texto": "En su programa para las elecciones andaluzas de 2026, propone fomentar guarderías en el trabajo para niños y animales de compañía, y permisos retribuidos que incluyan a los animales.",
+            "apoyos": [
+              "c-ed530d227f"
+            ]
           }
         ],
-        "verificacion": "corregido",
-        "problemas_detectados": [
-          "La frase 1 decía «prohíba a los menores de 18 años cualquier actividad taurina». Eso es ambiguo y no recoge con claridad que la cita pide prohibir tanto la asistencia como la participación. Se ha precisado."
-        ],
-        "fecha": "2026-11-10"
+        "verificacion": "correcto",
+        "problemas_detectados": [],
+        "fecha": "2026-11-12"
       },
       "inmigracion": {
         "base": "escasa",
@@ -10642,31 +10702,35 @@
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Pide cárcel para quienes maltratan animales y un cambio real en la aplicación de la ley.",
+            "texto": "Pide cárcel para quienes maltratan animales y reforzar la ley para que estos delitos no dependan solo de la voluntad de las partes particulares.",
             "apoyos": [
               "c-fb76d4e6e5",
-              "c-e26b063a50"
-            ]
-          },
-          {
-            "texto": "Quiere reforzar la legislación para que la persecución de los delitos contra los animales no dependa solo de la voluntad de las partes particulares.",
-            "apoyos": [
               "c-5d5c7586be"
             ]
           },
           {
-            "texto": "Defiende que los perros de caza vuelvan a la ley de protección animal y reciban la misma protección que el resto de los perros.",
+            "texto": "Su candidato pide que los perros de caza vuelvan a la ley de protección animal, de la que fueron excluidos.",
             "apoyos": [
               "c-2f063f6188",
               "c-ba0efccf87"
             ]
+          },
+          {
+            "texto": "También propone eliminar los aforamientos, limitar los cargos y combatir el clientelismo institucional.",
+            "apoyos": [
+              "c-89704f1314"
+            ]
+          },
+          {
+            "texto": "En su programa para las elecciones andaluzas de 2026, propone unidades policiales especializadas en violencia machista disponibles las 24 horas.",
+            "apoyos": [
+              "c-de3ff7ab29"
+            ]
           }
         ],
         "verificacion": "correcto",
-        "problemas_detectados": [
-          "No hay errores. Todo el material son declaraciones y trata solo de delitos contra los animales. La base «suficiente» se sostiene porque hay cinco citas pertinentes con varias líneas distintas, aunque el alcance temático es estrecho."
-        ],
-        "fecha": "2026-11-10"
+        "problemas_detectados": [],
+        "fecha": "2026-11-12"
       },
       "democracia-e-instituciones": {
         "base": "suficiente",
@@ -10699,53 +10763,63 @@
         "fecha": "2026-11-10"
       },
       "organizacion-territorial": {
-        "base": "sin_material",
-        "frases": [],
+        "base": "escasa",
+        "frases": [
+          {
+            "texto": "En su programa para las elecciones andaluzas de 2026, propone un proyecto de colaboración entre comunidades autónomas para elaborar libros de texto de licencia libre.",
+            "apoyos": [
+              "c-d63da984d9"
+            ]
+          },
+          {
+            "texto": "También plantea que las Escuelas Oficiales de Idiomas de Andalucía amplíen su oferta a las lenguas cooficiales.",
+            "apoyos": [
+              "c-df3824f111"
+            ]
+          }
+        ],
         "verificacion": "correcto",
         "problemas_detectados": [],
-        "fecha": "2026-11-10"
+        "fecha": "2026-11-12"
       },
       "medio-ambiente-y-energia": {
         "base": "suficiente",
         "frases": [
           {
-            "texto": "Pide una normativa estatal que obligue a proteger a la fauna silvestre frente a las infraestructuras, con pasos de fauna en carreteras y medidas contra la electrocución de aves.",
+            "texto": "Rechaza la ganadería intensiva por su impacto en acuíferos, suelos y bienestar animal, y defiende una transición hacia la producción de proteína vegetal.",
             "apoyos": [
-              "c-01cc0348e7",
-              "c-e2e93096fc",
-              "c-d5118f20d8"
+              "c-6c500ed6df",
+              "c-16f014176c"
             ]
           },
           {
-            "texto": "Considera la ganadería intensiva incompatible con la protección del medio ambiente y defiende una transición hacia la producción de proteína vegetal.",
-            "apoyos": [
-              "c-16f014176c",
-              "c-6c500ed6df"
-            ]
-          },
-          {
-            "texto": "Pide a las comunidades autónomas que prohíban la caza y reclama una ley estatal que prohíba la pirotecnia sonora.",
+            "texto": "Pide a los gobiernos autonómicos prohibir la caza para recuperar las poblaciones de herbívoros.",
             "apoyos": [
               "c-55dfbd1eb7",
-              "c-4c99b08048",
-              "c-53e3245f5a"
+              "c-4c99b08048"
             ]
           },
           {
-            "texto": "Quiere que los ayuntamientos impulsen comunidades energéticas con placas solares y redes de refugios climáticos en edificios públicos.",
+            "texto": "Reclama también una ley estatal que prohíba la pirotecnia sonora y una norma que obligue a proteger la fauna frente a carreteras, balsas o tendidos eléctricos.",
             "apoyos": [
-              "c-2f13586712",
-              "c-0120543ebf"
+              "c-53e3245f5a",
+              "c-01cc0348e7",
+              "c-e2e93096fc"
+            ]
+          },
+          {
+            "texto": "En energía, propone comunidades energéticas locales con placas solares en los edificios públicos municipales.",
+            "apoyos": [
+              "c-2f13586712"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 4 exagera un poco lo que dice la cita: el partido no propone directamente comunidades energéticas. Pide al MITECO que inste a los ayuntamientos a impulsarlas. Se reformula como petición dirigida a los ayuntamientos, que es como lo plantean las dos citas (c-2f13586712 y la 'red municipal' de c-0120543ebf).",
-          "El total original (88 palabras) quedaba al borde del límite. Con la nueva frase 4 baja a unas 87.",
-          "Sin problemas de neutralidad. Los ids existen en el tema. Omisiones aceptables: cetáceos en cautividad (c-fcc9ef5041), coste de las renovables sobre la fauna (c-5b9b62041c) y la especie sin nombre (c-730328e514)."
+          "Fuerza: «una ley estatal contra la pirotecnia sonora» rebaja lo que dice c-53e3245f5a, que pide una legislación estatal que la «prohíba» y obligue a sustituirla por pirotecnia silenciosa. Se cambia a «que prohíba la pirotecnia sonora».",
+          "Se comprueba que no se atribuye nada a c-730328e514 («la especie» sin identificar) ni a la cita sobre Aragón. Las citas andaluzas de transporte y coworking tampoco se usan. c-16f014176c es una nota de prensa de la campaña andaluza, pero expresa una posición general y solo refuerza la frase sobre ganadería intensiva, que se apoya también en una nota estatal (c-6c500ed6df)."
         ],
-        "fecha": "2026-11-10"
+        "fecha": "2026-11-12"
       },
       "campo-y-medio-rural": {
         "base": "suficiente",
@@ -10783,34 +10857,56 @@
         "fecha": "2026-11-10"
       },
       "transporte": {
-        "base": "escasa",
+        "base": "suficiente",
         "frases": [
           {
-            "texto": "Pide una normativa estatal que obligue a proteger a la fauna silvestre frente al impacto de las infraestructuras.",
+            "texto": "Pide una norma estatal que obligue a proteger la fauna frente a las infraestructuras, con pasos de fauna en carreteras y medidas para las aves en tendidos eléctricos.",
             "apoyos": [
-              "c-01cc0348e7"
+              "c-01cc0348e7",
+              "c-e2e93096fc"
             ]
           },
           {
-            "texto": "Plantea pasos de fauna en carreteras, reducción de velocidad en puntos sensibles y medidas contra la colisión y electrocución de aves en catenarias ferroviarias.",
+            "texto": "En su programa para las elecciones andaluzas de 2026, apuesta por reducir la demanda de transporte urbano y fomentar los desplazamientos a pie, en bicicleta y en transporte público.",
             "apoyos": [
-              "c-e2e93096fc"
+              "c-ffef16aca7"
+            ]
+          },
+          {
+            "texto": "En una propuesta local para el área metropolitana de Almería, plantea más líneas de autobús y frecuencias de 15 minutos en las de mayor demanda.",
+            "apoyos": [
+              "c-297fa31695"
+            ]
+          }
+        ],
+        "verificacion": "correcto",
+        "problemas_detectados": [],
+        "fecha": "2026-11-12"
+      },
+      "igualdad-y-derechos": {
+        "base": "escasa",
+        "frases": [
+          {
+            "texto": "En su programa para las elecciones andaluzas de 2026, propone unidades policiales permanentes contra la violencia machista y que las casas de acogida admitan los animales de las víctimas.",
+            "apoyos": [
+              "c-de3ff7ab29",
+              "c-9f14be254c"
+            ]
+          },
+          {
+            "texto": "Ese programa plantea también un pacto contra la discriminación laboral de las mujeres y apoyo psicológico y social a las personas LGTBI+, incluidas las personas trans en su transición.",
+            "apoyos": [
+              "c-ef2e1d71ff",
+              "c-b4036ab472"
             ]
           }
         ],
         "verificacion": "corregido",
         "problemas_detectados": [
-          "Frase 2: la cita sitúa la reducción de velocidad 'en puntos sensibles' y no solo en carreteras. También habla de colisión, no solo de electrocución, de aves. Se ajusta para respetar el alcance.",
-          "La base 'escasa' es correcta: hay dos citas y las dos tratan de fauna, no de política de transporte."
+          "Origen: la segunda frase («También plantea…») se apoya solo en el programa andaluz (c-ef2e1d71ff, c-b4036ab472) y no lo dice. Se reescribe como «Ese programa plantea también…».",
+          "Base «escasa» correcta: todas las citas son del programa andaluz de mayo de 2026."
         ],
-        "fecha": "2026-11-10"
-      },
-      "igualdad-y-derechos": {
-        "base": "sin_material",
-        "frases": [],
-        "verificacion": "correcto",
-        "problemas_detectados": [],
-        "fecha": "2026-11-10"
+        "fecha": "2026-11-12"
       },
       "politica-exterior-y-defensa": {
         "base": "suficiente",

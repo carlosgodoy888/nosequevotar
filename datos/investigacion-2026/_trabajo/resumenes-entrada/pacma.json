@@ -15,7 +15,8 @@
      "concreta": true,
      "texto": "El Partido Animalista propone reconocer en los arrendamientos de vivienda habitual el derecho a convivir con animales de compañía, sin perjuicio de las obligaciones ordinarias de cuidado, respeto a la comunidad y reparación de los daños que puedan causarse.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-29"
+     "fecha": "2026-09-29",
+     "medio": "pacma.es"
     },
     {
      "id": "c-c17fc64937",
@@ -24,7 +25,8 @@
      "concreta": false,
      "texto": "También pide que las políticas públicas de vivienda y los alojamientos de emergencia contemplen a las familias con animales para evitar separaciones.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-29"
+     "fecha": "2026-09-29",
+     "medio": "pacma.es"
     },
     {
      "id": "c-fb15c323ad",
@@ -33,7 +35,8 @@
      "concreta": true,
      "texto": "Entre las medidas planteadas se encuentran deducciones en el IRPF o bonificaciones en impuestos locales para aquellos propietarios que acrediten contratos de alquiler sin cláusulas de exclusión por tenencia de animales.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-02-04"
+     "fecha": "2026-02-04",
+     "medio": "pacma.es"
     },
     {
      "id": "c-a61ed54bb4",
@@ -42,7 +45,18 @@
      "concreta": false,
      "texto": "Hoy el acceso a la vivienda es mucho más difícil y, si no se amplía urgentemente el parque público de vivienda, será imposible ofrecer alternativas de emancipación a la juventud",
      "quien": "Javier Luna, Presidente nacional de PACMA y candidato a la Junta de Andalucía",
-     "fecha": "2026-05-06"
+     "fecha": "2026-05-06",
+     "medio": "pacma.es"
+    },
+    {
+     "id": "c-9b9577e21c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desde PACMA apostamos por ampliar la oferta y el número de plazas de las acciones formativas de Formación Profesional para el Empleo en las diferentes ramas de la construcción, así como por una transformación del propio sector, que pase por la rehabilitación energética de viviendas y edificios, para hacerlos más eficientes y sostenibles.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
     }
    ]
   },
@@ -50,7 +64,48 @@
    "tema": "empleo",
    "nombre": "Empleo y salarios",
    "definicion": "Trabajo, salarios, jornada, contratos, autónomos, sindicatos y salud laboral.",
-   "citas": []
+   "citas": [
+    {
+     "id": "c-ef2e1d71ff",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por todo ello, es necesario un pacto entre los distintos agentes sociales, a través del cual se combata la discriminación laboral y salarial todavía existente, y se promueva la presencia de mujeres en puestos de responsabilidad, teniendo en cuenta, además, la discriminación múltiple (mujer + discapacidad) en los planes de igualdad.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-ed530d227f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se debe fomentar e incentivar la creación de guarderías en los propios centros de trabajo, tanto para el cuidado de niños y niñas como de animales de compañía, así como de permisos retribuidos en casos de fallecimiento, accidente o enfermedad grave de familiares, incluidos los animales.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-9b9577e21c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desde PACMA apostamos por ampliar la oferta y el número de plazas de las acciones formativas de Formación Profesional para el Empleo en las diferentes ramas de la construcción, así como por una transformación del propio sector, que pase por la rehabilitación energética de viviendas y edificios, para hacerlos más eficientes y sostenibles.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-53e6615c6a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Otra de nuestras propuestas es la creación de centros de trabajo intermedios, en forma de coworking públicos, que se proyecten en zonas que necesiten ser revitalizadas y reactivadas económicamente, para reducir los trayectos y, a su vez, la densidad en las zonas congestionadas.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    }
+   ]
   },
   {
    "tema": "pensiones",
@@ -70,7 +125,8 @@
      "concreta": true,
      "texto": "Entre las medidas planteadas se encuentran deducciones en el IRPF o bonificaciones en impuestos locales para aquellos propietarios que acrediten contratos de alquiler sin cláusulas de exclusión por tenencia de animales.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-02-04"
+     "fecha": "2026-02-04",
+     "medio": "pacma.es"
     },
     {
      "id": "c-1107876086",
@@ -79,7 +135,8 @@
      "concreta": true,
      "texto": "Es hora de reconocer la salud veterinaria como lo que realmente es: un servicio esencial para la sociedad. Instamos al Gobierno a reducir el IVA veterinario al 4% y dar un paso hacia una España más empática, solidaria y comprometida con el bienestar animal",
      "quien": "Javier Luna, Presidente nacional de PACMA",
-     "fecha": "2024-11-22"
+     "fecha": "2024-11-22",
+     "medio": "pacma.es"
     },
     {
      "id": "c-3607e41114",
@@ -88,7 +145,8 @@
      "concreta": true,
      "texto": "Desde PACMA hemos presentado una propuesta para la reducción del IVA de los servicios veterinarios a su exención o, al menos, reducirlo al tipo impositivo superreducido del 4%.",
      "quien": "el partido, Comunicado oficial",
-     "fecha": "2024-05-22"
+     "fecha": "2024-05-22",
+     "medio": "pacma.es"
     },
     {
      "id": "c-3fff1296fe",
@@ -97,7 +155,8 @@
      "concreta": false,
      "texto": "No podemos tratar la salud veterinaria como un lujo. Es un pilar fundamental de la salud pública y del bienestar social",
      "quien": "Javier Luna, Presidente nacional de PACMA",
-     "fecha": "2024-11-22"
+     "fecha": "2024-11-22",
+     "medio": "pacma.es"
     }
    ]
   },
@@ -113,7 +172,8 @@
      "concreta": false,
      "texto": "La eliminación del sufrimiento animal de la industria cárnica es una cuestión de justicia y de progreso. No podemos seguir justificando la explotación de seres sintientes cuando ya existen alternativas viables y, además, mucho más sostenibles.",
      "quien": "el partido, Comunicado oficial",
-     "fecha": "2025-03-04"
+     "fecha": "2025-03-04",
+     "medio": "pacma.es"
     },
     {
      "id": "c-2f13586712",
@@ -122,7 +182,8 @@
      "concreta": true,
      "texto": "El Partido Animalista PACMA ha presentado ante el Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO) una propuesta para que se inste a los ayuntamientos de España a impulsar la creación de comunidades energéticas locales a partir del aprovechamiento fotovoltaico de las cubiertas de edificios públicos municipales.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-07-06"
+     "fecha": "2026-07-06",
+     "medio": "pacma.es"
     },
     {
      "id": "c-df4e80c5a3",
@@ -131,7 +192,8 @@
      "concreta": false,
      "texto": "La abolición de la tauromaquia y la caza constituye una reivindicación histórica del Partido Animalista, que reclama el fin del respaldo institucional y económico a ambas actividades.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-17"
+     "fecha": "2026-09-17",
+     "medio": "pacma.es"
     },
     {
      "id": "c-b693d9f157",
@@ -140,7 +202,8 @@
      "concreta": false,
      "texto": "La sociedad avanza en una dirección mientras demasiadas instituciones siguen caminando en la contraria. Existe una brecha evidente entre la sensibilidad ciudadana hacia los animales y las políticas públicas",
      "quien": "Javier Luna, Presidente nacional de PACMA",
-     "fecha": "2026-09-17"
+     "fecha": "2026-09-17",
+     "medio": "pacma.es"
     }
    ]
   },
@@ -156,7 +219,8 @@
      "concreta": true,
      "texto": "Es hora de reconocer la salud veterinaria como lo que realmente es: un servicio esencial para la sociedad. Instamos al Gobierno a reducir el IVA veterinario al 4% y dar un paso hacia una España más empática, solidaria y comprometida con el bienestar animal",
      "quien": "Javier Luna, Presidente nacional de PACMA",
-     "fecha": "2024-11-22"
+     "fecha": "2024-11-22",
+     "medio": "pacma.es"
     },
     {
      "id": "c-3fff1296fe",
@@ -165,7 +229,8 @@
      "concreta": false,
      "texto": "No podemos tratar la salud veterinaria como un lujo. Es un pilar fundamental de la salud pública y del bienestar social",
      "quien": "Javier Luna, Presidente nacional de PACMA",
-     "fecha": "2024-11-22"
+     "fecha": "2024-11-22",
+     "medio": "pacma.es"
     },
     {
      "id": "c-83af8e2494",
@@ -174,7 +239,8 @@
      "concreta": false,
      "texto": "El partido subraya que Andalucía necesita “políticas sanitarias realistas, inversión en investigación y ampliación de los programas de detección precoz”, en lugar de “gestos simbólicos hacia actividades que implican sufrimiento animal y que no responden a las necesidades de la ciudadanía”.",
      "quien": "el partido, Nota de prensa oficial (campaña andaluza)",
-     "fecha": "2026-04-23"
+     "fecha": "2026-04-23",
+     "medio": "pacma.es"
     }
    ]
   },
@@ -190,7 +256,78 @@
      "concreta": false,
      "texto": "La relación entre la violencia ejercida contra los animales y otras formas de violencia está ampliamente documentada por la investigación científica. Por ello, el Partido Animalista sostiene que la educación en bienestar animal constituye también una herramienta preventiva.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-07-02"
+     "fecha": "2026-07-02",
+     "medio": "pacma.es"
+    },
+    {
+     "id": "c-9b9577e21c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Desde PACMA apostamos por ampliar la oferta y el número de plazas de las acciones formativas de Formación Profesional para el Empleo en las diferentes ramas de la construcción, así como por una transformación del propio sector, que pase por la rehabilitación energética de viviendas y edificios, para hacerlos más eficientes y sostenibles.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-d63da984d9",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Gratuidad y libre acceso a libros de texto. Defendemos la puesta en marcha de un proyecto de colaboración entre comunidades autónomas para la elaboración de libros de texto con licencia copyleft, de distribución y copia libre.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-fa8677e0aa",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Reducción de la ratio de alumnos y alumnas por profesor/a en todo el tramo educativo, para alcanzar una verdadera educación de calidad, con la suficiente atención personalizada al alumnado y la mejora de las condiciones de trabajo del profesorado.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-8b9e209f5f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Revisión de los criterios de concertación con la enseñanza privada para garantizar que los conciertos respeten criterios de servicio público y evitar que se fomente la segregación.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-d458d0be75",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "En educación, reivindicamos una red pública de calidad, con ratios más bajas, infraestructuras adecuadas, gratuidad de libros de texto y un impulso a la formación profesional.",
+     "quien": "el partido",
+     "fecha": "2025-12-05",
+     "medio": "pacma.es, presentación de su programa para las elecciones de Extremadura"
+    },
+    {
+     "id": "c-df3824f111",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ampliación de la oferta de las Escuelas Oficiales de Idiomas de Andalucía, entre otras, a las lenguas cooficiales, facilitando que los andaluces y andaluzas puedan adquirir o mejorar sus competencias.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-eade588f17",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Garantía de desarrollo de una escuela pública realmente laica.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
     }
    ]
   },
@@ -206,7 +343,8 @@
      "concreta": false,
      "texto": "También pide que las políticas públicas de vivienda y los alojamientos de emergencia contemplen a las familias con animales para evitar separaciones.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-29"
+     "fecha": "2026-09-29",
+     "medio": "pacma.es"
     },
     {
      "id": "c-78053e864c",
@@ -215,7 +353,8 @@
      "concreta": true,
      "texto": "Las alegaciones de PACMA reclaman que la reforma de la LOPIVI prohíba la asistencia y participación de menores de 18 años en cualquier espectáculo, festejo, escuela o actividad relacionada con la tauromaquia, y proponen una medida inmediata para los menores de 16 años.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-07-17"
+     "fecha": "2026-07-17",
+     "medio": "pacma.es"
     },
     {
      "id": "c-1d83c2b933",
@@ -224,7 +363,18 @@
      "concreta": true,
      "texto": "Juventud e Infancia puede incorporar la prohibición en la LOPIVI y Cultura puede impedir inmediatamente la entrada de menores de 16 años.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-07-17"
+     "fecha": "2026-07-17",
+     "medio": "pacma.es"
+    },
+    {
+     "id": "c-ed530d227f",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Se debe fomentar e incentivar la creación de guarderías en los propios centros de trabajo, tanto para el cuidado de niños y niñas como de animales de compañía, así como de permisos retribuidos en casos de fallecimiento, accidente o enfermedad grave de familiares, incluidos los animales.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
     }
    ]
   },
@@ -240,7 +390,8 @@
      "concreta": false,
      "texto": "La formación política reclama protección y asistencia para la población ceutí, el refuerzo de la vigilancia ambiental y el acceso regular a alimentos, agua potable, saneamiento y alojamiento para las personas migrantes que permanecen fuera de los recursos de acogida.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-04"
+     "fecha": "2026-09-04",
+     "medio": "pacma.es"
     },
     {
      "id": "c-c185b5fc35",
@@ -249,7 +400,8 @@
      "concreta": false,
      "texto": "PACMA considera «intolerable» que seres humanos sean utilizados como arma política en las disputas entre países y que las consecuencias de esa situación recaigan sobre los vecinos de Ceuta, las propias personas migrantes, los animales y el entorno natural ajeno a ello.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-04"
+     "fecha": "2026-09-04",
+     "medio": "pacma.es"
     },
     {
      "id": "c-e26b063a50",
@@ -258,7 +410,8 @@
      "concreta": false,
      "texto": "Condenamos cualquier acto de violencia, captura o manipulación de un animal, con independencia de quién lo cometa, de su nacionalidad, procedencia o situación administrativa. Las víctimas son los animales y nuestra obligación es protegerlos y exigir responsabilidades individuales y no colectivas.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-04"
+     "fecha": "2026-09-04",
+     "medio": "pacma.es"
     }
    ]
   },
@@ -274,7 +427,8 @@
      "concreta": true,
      "texto": "vuelvan a la ley de protección animal, de la que nunca deberían haber sido excluidos",
      "quien": "Asier Esparza, Candidato a la Presidencia del Gobierno y secretario de la Junta Directiva de PACMA",
-     "fecha": "2026-10-18"
+     "fecha": "2026-10-18",
+     "medio": "Europa Press TV"
     },
     {
      "id": "c-ba0efccf87",
@@ -283,7 +437,8 @@
      "concreta": false,
      "texto": "Casos como este son consecuencia directa de haber dejado a los perros de caza fuera de la ley. Un perro es un perro, lo utilicen para cazar o no, y merece la misma protección. No puede haber perros de primera y de segunda",
      "quien": "Javier Luna, Presidente nacional de PACMA",
-     "fecha": "2026-10-13"
+     "fecha": "2026-10-13",
+     "medio": "pacma.es"
     },
     {
      "id": "c-fb76d4e6e5",
@@ -292,7 +447,8 @@
      "concreta": false,
      "texto": "No basta con abrir una investigación, la violencia no puede salir gratis; exigimos cárcel para los maltratadores y un cambio real en la aplicación de la ley",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-02-06"
+     "fecha": "2026-02-06",
+     "medio": "pacma.es"
     },
     {
      "id": "c-5d5c7586be",
@@ -301,7 +457,8 @@
      "concreta": false,
      "texto": "El Partido Animalista insiste en que este desenlace pone de manifiesto la necesidad urgente de reforzar la legislación para que los delitos contra los animales no dependan exclusivamente de la voluntad de las partes particulares cuando existe un evidente interés social en su persecución",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-07-10"
+     "fecha": "2026-07-10",
+     "medio": "pacma.es"
     },
     {
      "id": "c-89704f1314",
@@ -310,7 +467,8 @@
      "concreta": true,
      "texto": "Eliminar los aforamientos, limitar los cargos y combatir el clientelismo institucional son pasos imprescindibles para devolver la política al servicio de la ciudadanía y no de los intereses personales",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2025-06-16"
+     "fecha": "2025-06-16",
+     "medio": "pacma.es"
     },
     {
      "id": "c-e26b063a50",
@@ -319,7 +477,18 @@
      "concreta": false,
      "texto": "Condenamos cualquier acto de violencia, captura o manipulación de un animal, con independencia de quién lo cometa, de su nacionalidad, procedencia o situación administrativa. Las víctimas son los animales y nuestra obligación es protegerlos y exigir responsabilidades individuales y no colectivas.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-04"
+     "fecha": "2026-09-04",
+     "medio": "pacma.es"
+    },
+    {
+     "id": "c-de3ff7ab29",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Unidades policiales especializadas y disponibles las 24 horas, los 365 días del año, para atender los casos de violencia machista.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
     }
    ]
   },
@@ -335,7 +504,8 @@
      "concreta": true,
      "texto": "El Partido Animalista PACMA ha remitido a la Moncloa una propuesta de creación de una «Ley contra la Impunidad de los Antiguos Altos Cargos», destinada a reforzar la transparencia institucional y prevenir posibles conflictos de interés una vez finalizada la actividad política pública.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-06-03"
+     "fecha": "2026-06-03",
+     "medio": "pacma.es"
     },
     {
      "id": "c-de93116e66",
@@ -344,7 +514,8 @@
      "concreta": true,
      "texto": "La propuesta plantea impedir que quienes hayan ocupado estos cargos puedan obtener beneficios económicos y otros privilegios derivados de su anterior posición institucional mediante su incorporación a consejos de administración, empresas, lobbies o grupos de presión/interés, consultorías privadas, actividades de intermediación empresarial o cualquier otra fórmula vinculada a las conocidas como «puertas giratorias».",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-06-03"
+     "fecha": "2026-06-03",
+     "medio": "pacma.es"
     },
     {
      "id": "c-89704f1314",
@@ -353,7 +524,8 @@
      "concreta": true,
      "texto": "Eliminar los aforamientos, limitar los cargos y combatir el clientelismo institucional son pasos imprescindibles para devolver la política al servicio de la ciudadanía y no de los intereses personales",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2025-06-16"
+     "fecha": "2025-06-16",
+     "medio": "pacma.es"
     },
     {
      "id": "c-143e13b279",
@@ -362,7 +534,8 @@
      "concreta": true,
      "texto": "El Partido Animalista anuncia que llevará a cabo una denuncia pública continuada y solicita un cambio en la instrucción de la Junta Electoral Central que regula la cobertura informativa en periodo electoral, con el objetivo de «garantizar una visibilidad mínima y efectiva» a todas las candidaturas que concurren a unas elecciones, independientemente de su tamaño o de sus resultados en comicios anteriores.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-01-27"
+     "fecha": "2026-01-27",
+     "medio": "pacma.es"
     },
     {
      "id": "c-1723b590f5",
@@ -371,7 +544,8 @@
      "concreta": false,
      "texto": "Excluir sistemáticamente a determinadas opciones políticas no solo es injusto, sino que además contribuye a crear una percepción distorsionada de la realidad electoral",
      "quien": "Javier Luna, Presidente nacional de PACMA y candidato a la Junta de Andalucía",
-     "fecha": "2026-03-30"
+     "fecha": "2026-03-30",
+     "medio": "pacma.es"
     }
    ]
   },
@@ -379,7 +553,28 @@
    "tema": "organizacion-territorial",
    "nombre": "Organización territorial",
    "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
-   "citas": []
+   "citas": [
+    {
+     "id": "c-d63da984d9",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Gratuidad y libre acceso a libros de texto. Defendemos la puesta en marcha de un proyecto de colaboración entre comunidades autónomas para la elaboración de libros de texto con licencia copyleft, de distribución y copia libre.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-df3824f111",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Ampliación de la oferta de las Escuelas Oficiales de Idiomas de Andalucía, entre otras, a las lenguas cooficiales, facilitando que los andaluces y andaluzas puedan adquirir o mejorar sus competencias.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    }
+   ]
   },
   {
    "tema": "medio-ambiente-y-energia",
@@ -393,7 +588,8 @@
      "concreta": false,
      "texto": "“La ganadería intensiva es incompatible con la protección del medio ambiente, el bienestar animal y la sostenibilidad hídrica”, sostienen desde la formación política.",
      "quien": "el partido, Nota de prensa oficial (campaña andaluza)",
-     "fecha": "2026-05-13"
+     "fecha": "2026-05-13",
+     "medio": "pacma.es"
     },
     {
      "id": "c-6c500ed6df",
@@ -402,7 +598,8 @@
      "concreta": false,
      "texto": "Advierten de que este sistema supone hacinamiento animal, graves impactos ambientales sobre acuíferos y suelos, y un deterioro del tejido rural tradicional, apostando en su lugar por una transición hacia modelos sostenibles basados en la producción de proteína vegetal.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-02-24"
+     "fecha": "2026-02-24",
+     "medio": "pacma.es"
     },
     {
      "id": "c-55dfbd1eb7",
@@ -411,7 +608,8 @@
      "concreta": true,
      "texto": "El Partido Animalista PACMA ha dirigido una misiva a los gobiernos autonómicos de la península conminándoles a prohibir la caza para recuperar las poblaciones de herbívoros.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-08-25"
+     "fecha": "2026-08-25",
+     "medio": "pacma.es"
     },
     {
      "id": "c-4c99b08048",
@@ -420,7 +618,8 @@
      "concreta": false,
      "texto": "La caza esquilma las poblaciones de herbívoros, condiciona su distribución e impide que desarrollen plenamente sus funciones ecológicas. Entre ellas, la reducción de la vegetación combustible. La naturaleza tiene sus propios mecanismos de regulación y defensa. Es la intervención humana la que los altera y provoca los desequilibrios",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-08-25"
+     "fecha": "2026-08-25",
+     "medio": "pacma.es"
     },
     {
      "id": "c-01cc0348e7",
@@ -429,7 +628,8 @@
      "concreta": true,
      "texto": "El Partido Animalista Con el Medio Ambiente (PACMA) ha solicitado al Ministerio para la Transición Ecológica y el Reto Demográfico la elaboración de una normativa estatal que establezca medidas obligatorias para proteger a la fauna silvestre frente al impacto de las infraestructuras humanas.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-08-04"
+     "fecha": "2026-08-04",
+     "medio": "pacma.es"
     },
     {
      "id": "c-d5118f20d8",
@@ -438,7 +638,8 @@
      "concreta": false,
      "texto": "Las balsas y canales de riego, los pozos, las carreteras, los tendidos eléctricos, los vallados y muchas otras construcciones se convierten diariamente en trampas mortales para millones de animales. En numerosos casos existen soluciones sencillas y de bajo coste que permitirían evitar estas muertes",
      "quien": "Javier Luna, Presidente nacional de PACMA",
-     "fecha": "2026-08-04"
+     "fecha": "2026-08-04",
+     "medio": "pacma.es"
     },
     {
      "id": "c-fcc9ef5041",
@@ -447,7 +648,8 @@
      "concreta": false,
      "texto": "España tendrá que avanzar, más pronto que tarde, hacia la prohibición de los espectáculos y de la cría de cetáceos en cautividad. No podemos esperar a que llegue ese momento sin haber desarrollado antes una alternativa para los animales que permanecen encerrados",
      "quien": "Javier Luna, Presidente nacional de PACMA",
-     "fecha": "2026-08-20"
+     "fecha": "2026-08-20",
+     "medio": "pacma.es"
     },
     {
      "id": "c-2f13586712",
@@ -456,7 +658,8 @@
      "concreta": true,
      "texto": "El Partido Animalista PACMA ha presentado ante el Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO) una propuesta para que se inste a los ayuntamientos de España a impulsar la creación de comunidades energéticas locales a partir del aprovechamiento fotovoltaico de las cubiertas de edificios públicos municipales.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-07-06"
+     "fecha": "2026-07-06",
+     "medio": "pacma.es"
     },
     {
      "id": "c-0120543ebf",
@@ -465,7 +668,8 @@
      "concreta": true,
      "texto": "Proponen la creación de una red municipal de refugios climáticos mediante la adaptación de colegios, bibliotecas, centros cívicos y otros edificios públicos donde ofrecer espacios refrigerados a la ciudadanía durante los episodios de temperaturas extremas.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-06-05"
+     "fecha": "2026-06-05",
+     "medio": "pacma.es"
     },
     {
      "id": "c-53e3245f5a",
@@ -474,7 +678,8 @@
      "concreta": true,
      "texto": "El Partido Animalista reclama una legislación a nivel estatal que prohíba el uso de pirotecnia sonora y que obligue a sustituirla por pirotecnia silenciosa u otros formatos no invasivos, instando a las administraciones «a actuar con responsabilidad» y a alinearse con una sociedad cada vez más concienciada con el bienestar animal y la inclusión social.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-01-02"
+     "fecha": "2026-01-02",
+     "medio": "pacma.es"
     },
     {
      "id": "c-730328e514",
@@ -483,7 +688,8 @@
      "concreta": false,
      "texto": "Reclama medidas urgentes para recuperar la protección de la especie y fomentar la convivencia con la ganadería mediante métodos preventivos no letales.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-06-05"
+     "fecha": "2026-06-05",
+     "medio": "pacma.es"
     },
     {
      "id": "c-5b9b62041c",
@@ -492,7 +698,8 @@
      "concreta": false,
      "texto": "La transición energética es urgente en el contexto en que vivimos, en eso podemos estar de acuerdo. Sin embargo, los datos oficiales del propio Gobierno de Aragón obligan a plantear una cuestión que hasta ahora había quedado en segundo plano ¿qué coste está teniendo este modelo sobre la fauna?",
      "quien": "el partido, Artículo en la web oficial",
-     "fecha": "2026-03-24"
+     "fecha": "2026-03-24",
+     "medio": "pacma.es"
     },
     {
      "id": "c-e2e93096fc",
@@ -501,7 +708,28 @@
      "concreta": true,
      "texto": "Entre las actuaciones planteadas por PACMA se encuentran la colocación de rampas de escape en balsas y canales de riego; el cerramiento de pozos y aljibes; la instalación de plataformas de salida en piscinas; la construcción de pasos de fauna en carreteras; la reducción de velocidad y la señalización dinámica en puntos sensibles y la adopción de medidas para evitar la colisión y electrocución de aves en tendidos eléctricos, parques eólicos y catenarias ferroviarias.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-08-04"
+     "fecha": "2026-08-04",
+     "medio": "pacma.es"
+    },
+    {
+     "id": "c-53e6615c6a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Otra de nuestras propuestas es la creación de centros de trabajo intermedios, en forma de coworking públicos, que se proyecten en zonas que necesiten ser revitalizadas y reactivadas económicamente, para reducir los trayectos y, a su vez, la densidad en las zonas congestionadas.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-ffef16aca7",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "PACMA apuesta por medidas que reduzcan la demanda del transporte urbano, facilitando y fomentando el desplazamiento peatonal, el uso de transporte público y el de medios no motorizados, como la bicicleta, como medio de locomoción sostenible y saludable.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
     }
    ]
   },
@@ -517,7 +745,8 @@
      "concreta": true,
      "texto": "vuelvan a la ley de protección animal, de la que nunca deberían haber sido excluidos",
      "quien": "Asier Esparza, Candidato a la Presidencia del Gobierno y secretario de la Junta Directiva de PACMA",
-     "fecha": "2026-10-18"
+     "fecha": "2026-10-18",
+     "medio": "Europa Press TV"
     },
     {
      "id": "c-ba0efccf87",
@@ -526,7 +755,8 @@
      "concreta": false,
      "texto": "Casos como este son consecuencia directa de haber dejado a los perros de caza fuera de la ley. Un perro es un perro, lo utilicen para cazar o no, y merece la misma protección. No puede haber perros de primera y de segunda",
      "quien": "Javier Luna, Presidente nacional de PACMA",
-     "fecha": "2026-10-13"
+     "fecha": "2026-10-13",
+     "medio": "pacma.es"
     },
     {
      "id": "c-fceb952eef",
@@ -535,7 +765,8 @@
      "concreta": true,
      "texto": "El partido pide su inclusión en la Ley de Bienestar Animal y en el Real Decreto de Núcleos Zoológicos, y anima a la ciudadanía a participar.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-10-13"
+     "fecha": "2026-10-13",
+     "medio": "pacma.es"
     },
     {
      "id": "c-16f014176c",
@@ -544,7 +775,8 @@
      "concreta": false,
      "texto": "“La ganadería intensiva es incompatible con la protección del medio ambiente, el bienestar animal y la sostenibilidad hídrica”, sostienen desde la formación política.",
      "quien": "el partido, Nota de prensa oficial (campaña andaluza)",
-     "fecha": "2026-05-13"
+     "fecha": "2026-05-13",
+     "medio": "pacma.es"
     },
     {
      "id": "c-6c500ed6df",
@@ -553,7 +785,8 @@
      "concreta": false,
      "texto": "Advierten de que este sistema supone hacinamiento animal, graves impactos ambientales sobre acuíferos y suelos, y un deterioro del tejido rural tradicional, apostando en su lugar por una transición hacia modelos sostenibles basados en la producción de proteína vegetal.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-02-24"
+     "fecha": "2026-02-24",
+     "medio": "pacma.es"
     },
     {
      "id": "c-81ba48491d",
@@ -562,7 +795,8 @@
      "concreta": false,
      "texto": "La eliminación del sufrimiento animal de la industria cárnica es una cuestión de justicia y de progreso. No podemos seguir justificando la explotación de seres sintientes cuando ya existen alternativas viables y, además, mucho más sostenibles.",
      "quien": "el partido, Comunicado oficial",
-     "fecha": "2025-03-04"
+     "fecha": "2025-03-04",
+     "medio": "pacma.es"
     },
     {
      "id": "c-55dfbd1eb7",
@@ -571,7 +805,8 @@
      "concreta": true,
      "texto": "El Partido Animalista PACMA ha dirigido una misiva a los gobiernos autonómicos de la península conminándoles a prohibir la caza para recuperar las poblaciones de herbívoros.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-08-25"
+     "fecha": "2026-08-25",
+     "medio": "pacma.es"
     },
     {
      "id": "c-4c99b08048",
@@ -580,7 +815,8 @@
      "concreta": false,
      "texto": "La caza esquilma las poblaciones de herbívoros, condiciona su distribución e impide que desarrollen plenamente sus funciones ecológicas. Entre ellas, la reducción de la vegetación combustible. La naturaleza tiene sus propios mecanismos de regulación y defensa. Es la intervención humana la que los altera y provoca los desequilibrios",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-08-25"
+     "fecha": "2026-08-25",
+     "medio": "pacma.es"
     },
     {
      "id": "c-730328e514",
@@ -589,7 +825,8 @@
      "concreta": false,
      "texto": "Reclama medidas urgentes para recuperar la protección de la especie y fomentar la convivencia con la ganadería mediante métodos preventivos no letales.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-06-05"
+     "fecha": "2026-06-05",
+     "medio": "pacma.es"
     },
     {
      "id": "c-df4e80c5a3",
@@ -598,7 +835,8 @@
      "concreta": false,
      "texto": "La abolición de la tauromaquia y la caza constituye una reivindicación histórica del Partido Animalista, que reclama el fin del respaldo institucional y económico a ambas actividades.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-17"
+     "fecha": "2026-09-17",
+     "medio": "pacma.es"
     }
    ]
   },
@@ -614,7 +852,8 @@
      "concreta": true,
      "texto": "El Partido Animalista Con el Medio Ambiente (PACMA) ha solicitado al Ministerio para la Transición Ecológica y el Reto Demográfico la elaboración de una normativa estatal que establezca medidas obligatorias para proteger a la fauna silvestre frente al impacto de las infraestructuras humanas.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-08-04"
+     "fecha": "2026-08-04",
+     "medio": "pacma.es"
     },
     {
      "id": "c-e2e93096fc",
@@ -623,7 +862,48 @@
      "concreta": true,
      "texto": "Entre las actuaciones planteadas por PACMA se encuentran la colocación de rampas de escape en balsas y canales de riego; el cerramiento de pozos y aljibes; la instalación de plataformas de salida en piscinas; la construcción de pasos de fauna en carreteras; la reducción de velocidad y la señalización dinámica en puntos sensibles y la adopción de medidas para evitar la colisión y electrocución de aves en tendidos eléctricos, parques eólicos y catenarias ferroviarias.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-08-04"
+     "fecha": "2026-08-04",
+     "medio": "pacma.es"
+    },
+    {
+     "id": "c-53e6615c6a",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Otra de nuestras propuestas es la creación de centros de trabajo intermedios, en forma de coworking públicos, que se proyecten en zonas que necesiten ser revitalizadas y reactivadas económicamente, para reducir los trayectos y, a su vez, la densidad en las zonas congestionadas.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-ffef16aca7",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "PACMA apuesta por medidas que reduzcan la demanda del transporte urbano, facilitando y fomentando el desplazamiento peatonal, el uso de transporte público y el de medios no motorizados, como la bicicleta, como medio de locomoción sostenible y saludable.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-297fa31695",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Como alternativa, el Partido Animalista propone reforzar la red de transporte por carretera mediante un aumento de líneas y frecuencias de autobuses, creando una «auténtica red interconectada entre los municipios del Poniente, el Bajo Andarax y la capital almeriense». Entre las medidas planteadas, destacan frecuencias de paso de 15 minutos en las líneas con mayor demanda.",
+     "quien": "el partido",
+     "fecha": "2026-05-08",
+     "medio": "pacma.es, propuesta para el área metropolitana de Almería"
+    },
+    {
+     "id": "c-a330e35711",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "PACMA insta a RENFE a que reconsidere esta postura y tenga en cuenta que, en pleno siglo XXI, es una discriminación que no se sostiene por ningún lado.",
+     "quien": "el partido",
+     "fecha": "2026-01-26",
+     "medio": "pacma.es, nota de prensa"
     }
    ]
   },
@@ -631,7 +911,58 @@
    "tema": "igualdad-y-derechos",
    "nombre": "Igualdad y derechos",
    "definicion": "Igualdad entre mujeres y hombres, violencia machista, derechos LGTBI, libertades civiles, memoria democrática y relación con las religiones.",
-   "citas": []
+   "citas": [
+    {
+     "id": "c-ef2e1d71ff",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Por todo ello, es necesario un pacto entre los distintos agentes sociales, a través del cual se combata la discriminación laboral y salarial todavía existente, y se promueva la presencia de mujeres en puestos de responsabilidad, teniendo en cuenta, además, la discriminación múltiple (mujer + discapacidad) en los planes de igualdad.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-de3ff7ab29",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Unidades policiales especializadas y disponibles las 24 horas, los 365 días del año, para atender los casos de violencia machista.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-9f14be254c",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Admisión de los animales a cargo de las mujeres víctimas de violencia machista en las casas de acogida y pisos tutelados.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-b4036ab472",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": false,
+     "texto": "Impulso para el desarrollo de programas, servicios, campañas y/o actividades de apoyo psicológico y social dirigidos a personas LGTBI+ con objeto de ayudarles a enfrentar y superar la LGTBfobia, así como de apoyar a las personas trans a lo largo del proceso de transición.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    },
+    {
+     "id": "c-eade588f17",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Garantía de desarrollo de una escuela pública realmente laica.",
+     "quien": "el partido",
+     "fecha": "2026-04-30",
+     "medio": "Programa de PACMA para las elecciones andaluzas de mayo de 2026"
+    }
+   ]
   },
   {
    "tema": "politica-exterior-y-defensa",
@@ -645,7 +976,8 @@
      "concreta": false,
      "texto": "La formación política reclama protección y asistencia para la población ceutí, el refuerzo de la vigilancia ambiental y el acceso regular a alimentos, agua potable, saneamiento y alojamiento para las personas migrantes que permanecen fuera de los recursos de acogida.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-04"
+     "fecha": "2026-09-04",
+     "medio": "pacma.es"
     },
     {
      "id": "c-c185b5fc35",
@@ -654,7 +986,8 @@
      "concreta": false,
      "texto": "PACMA considera «intolerable» que seres humanos sean utilizados como arma política en las disputas entre países y que las consecuencias de esa situación recaigan sobre los vecinos de Ceuta, las propias personas migrantes, los animales y el entorno natural ajeno a ello.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-04"
+     "fecha": "2026-09-04",
+     "medio": "pacma.es"
     },
     {
      "id": "c-5b7f23e5d3",
@@ -663,7 +996,8 @@
      "concreta": false,
      "texto": "Sánchez no puede seguir dando su apoyo a Marruecos en relación a la ocupación del Sáhara Occidental. España tiene que jugar un papel determinante ante la comunidad internacional, especialmente ante Estados Unidos, para que el pueblo saharahui pueda volver a sus tierras, respetando la resolución de la ONU donde se reconoce el derecho de autodeterminación de estas personas, y haciendo lo posible por que se celebre el referéndum que se lleva prometiendo desde el año 91",
      "quien": "Javier Luna, Presidente nacional de PACMA",
-     "fecha": "2023-12-12"
+     "fecha": "2023-12-12",
+     "medio": "pacma.es"
     },
     {
      "id": "c-02695d63f8",
@@ -672,7 +1006,8 @@
      "concreta": false,
      "texto": "España no puede mirar hacia otro lado mientras uno de sus socios en la organización del Mundial 2030 elimina de manera violenta a miles de animales indefensos. Nuestro país tiene la responsabilidad y la capacidad de exigir soluciones éticas y sostenibles, como programas de esterilización y campañas de concienciación, que ya han demostrado ser eficaces en muchos lugares del mundo.",
      "quien": "el partido, Campaña en la web oficial",
-     "fecha": "2025-10-28"
+     "fecha": "2025-10-28",
+     "medio": "pacma.es"
     }
    ]
   },
@@ -688,7 +1023,8 @@
      "concreta": false,
      "texto": "La abolición de la tauromaquia y la caza constituye una reivindicación histórica del Partido Animalista, que reclama el fin del respaldo institucional y económico a ambas actividades.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-17"
+     "fecha": "2026-09-17",
+     "medio": "pacma.es"
     },
     {
      "id": "c-b693d9f157",
@@ -697,7 +1033,8 @@
      "concreta": false,
      "texto": "La sociedad avanza en una dirección mientras demasiadas instituciones siguen caminando en la contraria. Existe una brecha evidente entre la sensibilidad ciudadana hacia los animales y las políticas públicas",
      "quien": "Javier Luna, Presidente nacional de PACMA",
-     "fecha": "2026-09-17"
+     "fecha": "2026-09-17",
+     "medio": "pacma.es"
     },
     {
      "id": "c-cc411ce463",
@@ -706,7 +1043,8 @@
      "concreta": false,
      "texto": "La formación reclama cambios legislativos que permitan avanzar hacia su prohibición definitiva en España.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-09-20"
+     "fecha": "2026-09-20",
+     "medio": "pacma.es"
     },
     {
      "id": "c-78053e864c",
@@ -715,7 +1053,8 @@
      "concreta": true,
      "texto": "Las alegaciones de PACMA reclaman que la reforma de la LOPIVI prohíba la asistencia y participación de menores de 18 años en cualquier espectáculo, festejo, escuela o actividad relacionada con la tauromaquia, y proponen una medida inmediata para los menores de 16 años.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-07-17"
+     "fecha": "2026-07-17",
+     "medio": "pacma.es"
     },
     {
      "id": "c-1d83c2b933",
@@ -724,7 +1063,8 @@
      "concreta": true,
      "texto": "Juventud e Infancia puede incorporar la prohibición en la LOPIVI y Cultura puede impedir inmediatamente la entrada de menores de 16 años.",
      "quien": "el partido, Nota de prensa oficial",
-     "fecha": "2026-07-17"
+     "fecha": "2026-07-17",
+     "medio": "pacma.es"
     }
    ]
   }

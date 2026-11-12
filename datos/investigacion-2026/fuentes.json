@@ -297,6 +297,26 @@
       "nota": "Documento político general del partido, no es un programa electoral. La fecha es la de creación del PDF; el documento no trae otra.",
       "paginas": 42,
       "rotulo": "Documento político"
+    },
+    {
+      "id": "vox-programa-2026",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "vox",
+      "titulo": "Es sentido común. Programa electoral, 29 de noviembre de 2026",
+      "idioma": "es",
+      "publicado": "2026-11-12",
+      "url": "https://www.democrata.es/uploads/s1/35/26/90/2/programa-elecct-vox.pdf",
+      "enlazado_desde": "https://www.democrata.es/elecciones-generales-espana/programa-electoral-vox-2026-propuestas-pdf/",
+      "consultado": "2026-11-12T18:34:58Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-12-2026-vox.pdf",
+      "sha256": "77d2158a9a57b812dc75ebf94529501f009114d5f9a3678afd56bb4c97204567",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/vox.json"
+      ],
+      "nota": "Programa electoral de Vox para el 29N, presentado el 12-11-2026 (The Objective, Infobae y Demócrata lo dan ese día): 115 medidas numeradas en 13 bloques, 55 páginas. La web del partido (voxespana.es) bloquea el acceso automático: se usa la copia que publica el diario Demócrata. El PDF tiene fecha interna de creación 5-11-2026. El texto se identifica como de VOX (portada «VOTA … PROGRAMA ELECTORAL 29 de noviembre de 2026», lema «Es sentido común», medida 48: «VOX en el Gobierno será…»).",
+      "paginas": 55
     }
   ]
 }

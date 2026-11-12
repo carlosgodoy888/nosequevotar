@@ -1,12 +1,13 @@
 // Plantilla base: metadatos, cabecera con menú, contenido y pie.
 import { esc } from './util.mjs';
-import { cabecera, pie } from './parciales.mjs';
+import { cabecera, pie, botonArriba } from './parciales.mjs';
 
-// pagina: { ruta, titulo, descripcion, contenido, miga?, indexar?, canonico?, csp?, sinMedicion?, estilos?, modulos?, pieNota? }
+// pagina: { ruta, titulo, descripcion, contenido, miga?, indexar?, canonico?, csp?, sinMedicion?, estilos?, modulos?, pieNota?, arriba? }
 // - csp: meta Content-Security-Policy con default-src 'self' (los juegos no cargan nada de otros dominios).
 // - sinMedicion: <body data-sin-medicion>; registrarEvento() no hace nada en esa página.
 // - estilos y modulos: hojas de estilo y módulos JavaScript propios de la página.
 // - pieNota: una línea más en el pie.
+// - arriba: botón fijo para volver al principio de la página (portada, temas y partidos).
 // miga: [{ texto, ruta }] desde Inicio hasta la página actual (incluida).
 export function base(sitio, pagina) {
   const url = sitio.url + pagina.ruta;
@@ -41,7 +42,7 @@ ${cabecera(sitio, pagina.ruta)}
 <main id="contenido" tabindex="-1">
 ${pagina.contenido}
 </main>
-${pie(sitio, pagina.pieNota)}
+${pagina.arriba ? `${botonArriba()}\n` : ''}${pie(sitio, pagina.pieNota)}
 </body>
 </html>
 `;

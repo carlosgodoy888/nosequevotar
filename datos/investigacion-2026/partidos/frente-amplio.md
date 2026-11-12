@@ -4,7 +4,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** coalicion. Miembros: Izquierda Unida; Movimiento Sumar; Catalunya en Comú; Más Madrid; Chunta Aragonesista; Izquierda Asturiana; Recortes Cero; Batzarre-Asamblea de Izquierdas; Iniciativa del Pueblo Andaluz; Verdes Equo; Somos Partido Progresista
 - **Cabeza de cartel:** Ada Colau, candidata a la Presidencia del Gobierno y número 1 por Barcelona (lista Comuns-Front Ampli, con Ernest Urtasun de número 2). En Madrid encabeza Emilio Delgado (Más Madrid).
-- **Programa para el 29 de noviembre:** no publicado (comprobado el 11 de noviembre de 2026)
+- **Programa para el 29 de noviembre:** no publicado (comprobado el 12 de noviembre de 2026)
 - **Citas recogidas:** 58 vigentes: 28 medidas, de ellas 22 concretas, y 30 posiciones. Declaraciones verificadas abriendo su fuente: 58.
 - **Pendiente:** Los once miembros solo están contrastados con un medio; la web de la coalición y Recortes Cero hablan de 15 fuerzas.
 
