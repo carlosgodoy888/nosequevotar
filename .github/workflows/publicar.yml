@@ -1,7 +1,5 @@
 name: Publicar
 on:
-  push:
-    branches: [main]
   # Cada noche se vuelve a construir para que las fechas (pasadas, próxima,
   # plazos del censo) se recalculen solas. 23:05 UTC son las 00:05 en Madrid
   # en invierno y las 01:05 en verano.
