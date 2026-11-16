@@ -206,9 +206,9 @@ ${cuentaAtras(ctx)}
 <div class="tarjeta__cabeza"><span class="tarjeta__letra">B</span><span class="tarjeta__estado" id="estado" aria-live="polite"></span></div>
 <p class="tarjeta__texto">Construir 200.000 viviendas públicas de alquiler en diez años sobre suelo del Estado.</p>
 <div class="demo-decision" role="group" aria-label="Tu decisión">
-<button type="button" class="boton-casilla" data-demo="no" aria-pressed="false"><span class="casilla" aria-hidden="true"></span>No me convence</button>
-<button type="button" class="boton-casilla" data-demo="si" aria-pressed="false"><span class="casilla" aria-hidden="true"></span>Me convence</button>
-<button type="button" class="boton-casilla demo-decision__paso" data-demo="paso" aria-pressed="false"><span class="casilla" aria-hidden="true"></span>Paso, no lo tengo claro</button>
+<button type="button" class="boton-casilla" data-demo="no" aria-pressed="false"><span class="casilla" aria-hidden="true"></span>En contra</button>
+<button type="button" class="boton-casilla" data-demo="si" aria-pressed="false"><span class="casilla" aria-hidden="true"></span>A favor</button>
+<button type="button" class="boton-casilla demo-decision__paso" data-demo="paso" aria-pressed="false"><span class="casilla" aria-hidden="true"></span>Me abstengo</button>
 </div>
 <div class="firma">
 <span class="firma__rotulo">La firmaba el</span>
@@ -243,9 +243,9 @@ ${tablaFechas(proximas, ctx, { titulo: 'Próximas fechas' })}
 <div class="envoltorio">
 <h2 id="como">Cómo funciona el test</h2>
 <ol class="pasos pasos--fila">
-<li class="paso"><span class="paso__numero" aria-hidden="true">1</span><div><h3>Lees sin nombres</h3><p>Tres o seis temas. En cada uno, propuestas reales de partidos distintos, una a una, sin logotipos ni colores.</p></div></li>
-<li class="paso"><span class="paso__numero" aria-hidden="true">2</span><div><h3>Decides</h3><p>Ante cada propuesta eliges «Me convence», «No me convence» o «Paso», si no lo tienes claro.</p></div></li>
-<li class="paso"><span class="paso__numero" aria-hidden="true">3</span><div><h3>Descubres quién era</h3><p>Ves con qué programa coincides más y quién firmaba cada propuesta, con la frase exacta del programa y su página.</p></div></li>
+<li class="paso"><span class="paso__numero" aria-hidden="true">1</span><div><h3>Eliges tus temas</h3><p>Dices en qué provincia votas y qué temas te interesan. Solo te preguntamos por ellos.</p></div></li>
+<li class="paso"><span class="paso__numero" aria-hidden="true">2</span><div><h3>Votas sin siglas</h3><p>Lees medidas reales de los programas, una a una, sin logotipos ni colores, y votas «A favor», «En contra» o «Me abstengo».</p></div></li>
+<li class="paso"><span class="paso__numero" aria-hidden="true">3</span><div><h3>Descubres con quién encajas</h3><p>Ves con qué partidos encajas más, en total y tema a tema, y quién firmaba cada medida, con la página de su programa.</p></div></li>
 </ol>
 <p class="mas"><a class="boton" href="/test/" data-evento="clic_hacer_test">Test de afinidad</a></p>
 </div>
@@ -258,7 +258,7 @@ ${tablaFechas(proximas, ctx, { titulo: 'Próximas fechas' })}
 <ul class="garantias">
 <li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Sin registro.</strong> No te pedimos el nombre ni el correo.</span></li>
 <li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Tus respuestas no salen de tu móvil.</strong> El resultado se calcula en tu navegador.</span></li>
-<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Cada propuesta tiene su fuente.</strong> La frase del programa, la página y el año.</span></li>
+<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Cada propuesta tiene su fuente.</strong> La frase del programa y su página.</span></li>
 <li><span class="casilla marcada" aria-hidden="true"></span><span><strong>No trabajamos para ningún partido.</strong> Ninguno nos paga.</span></li>
 </ul>
 </div>
@@ -276,42 +276,36 @@ ${tablaFechas(proximas, ctx, { titulo: 'Próximas fechas' })}
 }
 
 // Test sin siglas. El HTML trae la entrada y el aviso sin JavaScript; test.mjs pinta el recorrido.
-// El banco es un parámetro de la página (data-banco), para pasar a 2026 sin tocar el código.
+// El banco es un parámetro de la página (data-banco), para cambiar de edición sin tocar el código.
 export function test(ctx) {
   const ruta = '/test/';
   const v = ctx.sitio.version;
   const j = ctx.juego;
   return {
     ruta,
-    titulo: '¿Con qué programa de 2023 coincides? Test sin siglas',
-    descripcion: 'Lee propuestas reales de los programas de 2023 sin saber de qué partido son y descubre con qué programa coincides más. Sin registro y sin salir de tu móvil.',
+    titulo: 'Test sin siglas: ¿con qué partidos encajas el 29 de noviembre?',
+    descripcion: 'Vota medidas reales de los programas de 2026 sin saber de qué partido son y descubre con qué partidos encajas más en los temas que te importan. Sin registro y sin salir de tu móvil.',
     miga: [INICIO, { texto: 'Test', ruta }],
     csp: true,
     sinMedicion: true,
     estilos: ['/test.css'],
     modulos: ['/juegos/test.js'],
-    pieNota: 'Las citas pertenecen a los programas electorales de cada partido. Selección y textos neutros: No sé qué votar.',
+    pieNota: 'Las medidas están copiadas de los programas electorales de cada partido. Selección y traducciones: No sé qué votar.',
     contenido: `<div class="envoltorio juego" id="juego" data-anio="${j.anio}" data-banco="/test/banco-${j.anio}.json?v=${v}" data-partidos="/test/partidos-${j.anio}.json?v=${v}" data-circunscripciones="/test/circunscripciones.json?v=${v}">
 <div class="juego__pantalla" id="pantalla">
 <div class="juego__entrada">
-<h1>¿Con qué programa de ${j.anio} coincides?</h1>
-<p class="entradilla">Lee propuestas reales una a una, sin saber de qué partido son, y di si te convencen. Al final verás con qué programa coincides más y quién firmaba cada propuesta.</p>
-<p class="juego__aviso"><span class="casilla casilla--pequena" aria-hidden="true"></span>Con los programas de ${j.anio}. Lo actualizaremos con los de 2026.</p>
+<h1>¿Con qué partidos encajas?</h1>
+<p class="entradilla">Vota medidas reales de los programas electorales, una a una y sin saber de qué partido son. Al final verás con qué candidaturas encajas más en los temas que te importan.</p>
 <noscript><p class="juego__noscript">El test necesita JavaScript para funcionar: actívalo en tu navegador y vuelve a cargar la página. Nada sale de tu móvil: las respuestas se calculan en tu navegador y no se envían a ningún sitio.</p></noscript>
 <ul class="garantias juego__garantias">
-<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Sin registro.</strong> No te pedimos nada.</span></li>
+<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Sin registro.</strong> No te pedimos nada más.</span></li>
 <li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Nada sale de tu móvil.</strong> El resultado se calcula aquí y se borra al cerrar la pestaña.</span></li>
-<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Cada propuesta, con su página.</strong> Al final ves la frase del programa y puedes abrirlo en esa página.</span></li>
+<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Medidas tal como están escritas.</strong> Copiadas del programa de cada partido, con su página.</span></li>
 </ul>
-<p class="mas"><a href="/metodo/">Cómo hemos elegido y escrito las propuestas</a></p>
+<p class="mas"><a href="/metodo/">Cómo hemos elegido las medidas</a></p>
 </div>
 </div>
 <p class="solo-lector" id="anuncio" aria-live="polite"></p>
-<div class="definicion" id="definicion" role="dialog" aria-modal="false" aria-labelledby="definicion-termino" hidden>
-<p class="definicion__termino" id="definicion-termino"></p>
-<p class="definicion__texto" id="definicion-texto"></p>
-<button type="button" class="definicion__cerrar">Cerrar</button>
-</div>
 </div>`,
   };
 }

@@ -1,0 +1,192 @@
+{
+  "partido": "d21",
+  "lote": "d21.2",
+  "temas": [
+    {
+      "tema": "educacion",
+      "elegidas": [
+        {
+          "id": "c-ba9fa886f6",
+          "motivo": "Es el objetivo que encabeza su postura en educación (España en el top 10 europeo de PISA) y lleva cifra y plazo; casi todas sus demás medidas escolares cuelgan de este plan.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-f4d57fa9ee",
+          "motivo": "Representa su segunda línea, la reforma de la formación y la carrera docente, con su medida estrella: el MIR Educativo de dos años de prácticas remuneradas.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-7c5bbbb1e9",
+          "motivo": "Cubre su línea universitaria y de becas (pagar las becas al inicio de curso), que aparece en el resumen y es concreta y votable.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-431c4b487b",
+          "por_que_no": "El cheque guardería del 50% es una línea principal de su resumen, pero la medida tiene 91 palabras y supera el límite de 80."
+        },
+        {
+          "id": "c-788d4dcee3",
+          "por_que_no": "Las pruebas de acceso a los grados de Educación son la misma línea docente que el MIR Educativo, que es más corto y es su medida más destacada en esa línea."
+        },
+        {
+          "id": "c-783beb9fa1",
+          "por_que_no": "Prácticas tutorizadas en todos los títulos es representativa de su línea universitaria, pero se prefirió la de becas, más concreta en cómo se hará."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        {
+          "id": "c-77b372fcbc",
+          "motivo": "Representa su primera línea, una política energética previsible y favorable a la inversión (seguridad jurídica frente a cambios retroactivos); es una medida corta, concreta y votable.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-0ee49eb9cd",
+          "motivo": "Cubre su línea del agua con la medida que la vertebra: una Comisión Técnica del Agua independiente con un plan de inversiones vinculante.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-c63947f808",
+          "motivo": "Cubre su línea contra los incendios con la cifra que la define (gestionar un millón de hectáreas al año).",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-600802a280",
+          "por_que_no": "Triplicar el ritmo de renovación de redes es igual de central en su línea del agua, pero se prefirió la Comisión Técnica, que encabeza esa línea en el resumen; no se eligen dos de la misma línea."
+        },
+        {
+          "id": "c-a0e821a6c3",
+          "por_que_no": "La nueva Ley de Bienestar Animal es otra línea del resumen, pero quedaba fuera de las tres plazas frente a energía, agua e incendios, que ocupan más espacio en su programa."
+        },
+        {
+          "id": "c-4019392612",
+          "por_que_no": "Bomberos forestales todo el año es la misma línea de incendios que la del millón de hectáreas."
+        }
+      ],
+      "nota": "La rebaja del IVA de los medicamentos veterinarios y el fin de la penalización fiscal de la electricidad, citados en el resumen, no figuran entre las candidatas."
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "elegidas": [
+        {
+          "id": "c-647eda98a7",
+          "motivo": "Es la primera línea de su resumen: reforzar el pilar europeo de la OTAN con compras conjuntas de armamento e interoperabilidad de los ejércitos.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-bb55e46d93",
+          "motivo": "Cubre su línea de la carrera militar, la que más medidas ocupa en el tema, con la principal: acabar con la salida forzosa de soldados y marineros a los 45 años.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-69e4152e19",
+          "motivo": "Cubre su línea europea del Estado de derecho: congelar fondos de la UE a los gobiernos que lo vulneren.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-4fd43fe26b",
+          "por_que_no": "Aplicar los informes Draghi y Letta es una línea del resumen, pero tiene 71 palabras y mezcla varias acciones; se prefirió la de condicionalidad, más corta y clara."
+        },
+        {
+          "id": "c-33b149c651",
+          "por_que_no": "Profesión de riesgo para los militares es la misma línea de carrera militar que la salida forzosa a los 45, que se eligió."
+        }
+      ],
+      "nota": "Lo que destaca en campaña (estatus europeo de Ceuta y Melilla, unión aduanera y Schengen plenos) no tiene ninguna medida candidata en este lote."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "elegidas": [
+        {
+          "id": "c-d3573c41d6",
+          "motivo": "La lucha contra la corrupción y la despolitización de la justicia es el bloque más amplio del tema en su programa; la inhabilitación de por vida para los políticos condenados, que figura en el resumen, la resume mejor que ninguna otra y su apartado la destaca («Quien robe a lo público, no volverá nunca a lo público»).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-081d3456c1",
+          "motivo": "Cubre su línea de una justicia más rápida: nueva ley procesal para acortar las instrucciones y actuar contra la multirreincidencia.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-3f5a8942cc",
+          "motivo": "Cubre su línea policial con la medida que la abre en el resumen: dimensionar las plantillas según la carga real de trabajo.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-ada0ff91bf",
+          "por_que_no": "Los juzgados especializados en corrupción son la misma línea que la inhabilitación de por vida, que la expresa con más fuerza y su apartado la destaca."
+        },
+        {
+          "id": "c-54e4615fbc",
+          "por_que_no": "Que los jueces elijan a los vocales judiciales del CGPJ es una línea del resumen, pero forma parte del mismo bloque de regeneración institucional que la medida elegida en primer lugar."
+        },
+        {
+          "id": "c-d124d9c83f",
+          "por_que_no": "La profesión de riesgo con jubilación anticipada es la misma línea policial que la de las plantillas, que encabeza el resumen."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "elegidas": [
+        {
+          "id": "c-c9ca20a36e",
+          "motivo": "Es el compromiso que encabeza su postura: una ley que obligue a reducir la pobreza infantil a la mitad en la legislatura, con cifra y plazo.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-053f993fd3",
+          "motivo": "Cubre su segunda línea, reunir todas las ayudas en un Escudo Social Único; el Bono Crianza de esa misma línea tiene 108 palabras y no cabe.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-8e2ee81f8b",
+          "motivo": "Cubre su línea de reconocer otros modelos de familia: el título de familia monoparental desde el primer hijo, reconocido de oficio.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-6c101d3a69",
+          "por_que_no": "El Bono Crianza es central en su resumen, pero tiene 108 palabras y supera el límite de 80."
+        },
+        {
+          "id": "c-ebe1c71fbf",
+          "por_que_no": "Ayudas de oficio y Bono Crianza: remite a «nuestras medidas» con nombre propio y mezcla dos acciones."
+        },
+        {
+          "id": "c-e444d01616",
+          "por_que_no": "Desarrolla el Escudo Social Único (ingreso mensual único), pero es más larga y empieza dando por sabido qué es; se prefirió la que lo presenta."
+        }
+      ],
+      "nota": "El pago al 50% de las ocho semanas de permiso parental y la filiación de los hijos de parejas de mujeres sin matrimonio, citados en el resumen, no figuran entre las candidatas."
+    }
+  ]
+}

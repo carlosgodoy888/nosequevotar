@@ -1,0 +1,234 @@
+{
+  "partido": "d21",
+  "lote": "d21.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        {
+          "id": "c-ce7ec192d5",
+          "motivo": "Primera de sus tres medidas de emergencia y la que mejor resume su filosofía de «reconciliación» en vivienda: limitar temporalmente los alquileres a cambio de que el Estado proteja a los pequeños propietarios (línea 2 del resumen); se entiende sola y cabe en 63 palabras.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-7333578648",
+          "motivo": "Plan Nacional de Barrios a diez años, la «solución para siempre» del programa (línea 1 del resumen); se elige esta versión porque la del apartado principal (c-19f38e34b6) pasa de 80 palabras.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-58d6ab03bc",
+          "motivo": "Cero impuestos en la compra de vivienda habitual a menores de 35 y rebaja para todos hasta 400.000 euros (línea 3 del resumen), con cifra concreta; cubre la vertiente fiscal, distinta de las dos anteriores.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-19f38e34b6",
+          "por_que_no": "Es la formulación principal del Plan Nacional de Barrios, pero tiene 88 palabras (más de 80)."
+        },
+        {
+          "id": "c-e3c6d1b9b3",
+          "por_que_no": "Los 10.000 millones de fondos europeos para vivienda protegida son la línea 4 del resumen, menos central que las tres elegidas; no cabe una cuarta."
+        },
+        {
+          "id": "c-e0858dde10",
+          "por_que_no": "Desarrolla la limitación de alquileres, pero sin la contrapartida de protección al propietario que define su postura y con 86 palabras."
+        }
+      ],
+      "nota": "La declaración de campaña («despolitizar el Ministerio de la Vivienda») no tiene medida candidata equivalente en este tema."
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        {
+          "id": "c-284f62c0a0",
+          "motivo": "Despolitizar el salario mínimo encargándolo a un órgano técnico independiente (línea 2 del resumen); es la medida laboral más característica de su enfoque y se entiende sola.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-338346a920",
+          "motivo": "Cuota de autónomos optativa, automática y a mes vencido según lo facturado (línea 4 del resumen); se prefiere a c-c89de8dc64 porque esta deja claro que se refiere a los autónomos.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-24dc741385",
+          "motivo": "Cese de actividad parcial, un «ERTE» del autónomo ante caídas de ingresos (la otra medida de autónomos que destaca el resumen); propuesta concreta y distinta de la cuota.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-1c49ba0785",
+          "por_que_no": "El objetivo de que el SMI no baje de 2/3 de la mediana es parte de la misma línea que la primera elegida; sería una variante."
+        },
+        {
+          "id": "c-b768473cd8",
+          "por_que_no": "El IVA franquiciado para pequeños negocios no figura en el resumen de su postura en empleo."
+        },
+        {
+          "id": "c-2bd3085724",
+          "por_que_no": "Mezcla varias acciones (retribuir el permiso, bolsa flexible, bolsa doble para monoparentales, prestación de autónomos) y es más de conciliación que de empleo."
+        }
+      ],
+      "nota": "Las líneas 1 (productividad y menos impuestos al trabajo) y 3 (IRPF del 5% para pluses, deducción por subir sueldos) no tienen medida candidata en este lote."
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        {
+          "id": "c-a2e8904a96",
+          "motivo": "Crear una empresa en una hora con un trámite 100% digital (línea 2 del resumen); es la medida con cifra y titular propio («modelo Estonia») que mejor representa su apuesta por quitar trabas a la empresa.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-a369643043",
+          "motivo": "Zonas industriales con la evaluación ambiental resuelta y la red reservada (línea 3 del resumen); cubre la política industrial, distinta de la simplificación de trámites.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-d04788d0b3",
+          "motivo": "Evaluar la eficacia y el coste de todos los programas de gasto (línea 4 del resumen); cubre las cuentas públicas y se entiende sola.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-a4be3a6be5",
+          "por_que_no": "La licencia provisional automática es muy representativa, pero pertenece a la misma línea que la primera elegida; se prefirió cubrir otras líneas."
+        },
+        {
+          "id": "c-c93c19f3fc",
+          "por_que_no": "La reforma de la Segunda Oportunidad no aparece en el resumen de su postura."
+        },
+        {
+          "id": "c-9c28f4d2d3",
+          "por_que_no": "El «Test PYME» es coherente con su línea, pero es menos central que las elegidas y no figura en el resumen."
+        }
+      ],
+      "nota": "La línea 1 del resumen (impuesto de sociedades del 5% para beneficios reinvertidos) no tiene medida candidata en este tema; la derogación en 12 meses de normas injustificadas está entre las candidatas de democracia-e-instituciones. La declaración de campaña recogida (sobre inmigrantes) no trata de economía."
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        {
+          "id": "c-e904371c7f",
+          "motivo": "Dirección de hospitales y áreas de salud solo por concurso de mérito (línea 1 del resumen); es la medida sanitaria que encarna su idea central de despolitizar la Administración y se entiende sola, a diferencia de la frase previa c-f1c5a700e6, más genérica.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-23ba4e9ce1",
+          "motivo": "Abrir los centros públicos por la tarde con prioridad para los pacientes de la sanidad pública (línea 2 del resumen, contra las listas de espera).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-b0198db51f",
+          "motivo": "Sustituir progresivamente las guardias de 24 horas por turnos máximos de 12 (línea 3 del resumen, condiciones de los profesionales).",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-6f38733168",
+          "por_que_no": "Alquilar las horas vacantes a mutuas es parte de su línea 2, pero empieza con «Y» y depende de la apertura de tarde para entenderse; además es la parte más polémica, no el centro."
+        },
+        {
+          "id": "c-249b638fd2",
+          "por_que_no": "El grupo A1 para enfermería es de la misma línea 3 que las guardias, que tienen más peso en el programa."
+        },
+        {
+          "id": "c-04cd0b2e69",
+          "por_que_no": "La auditoría con IA depende de la «red integrada» descrita en la frase anterior («Sobre esta red integrada…») y no se entiende sola."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        {
+          "id": "c-e4bc895f0a",
+          "motivo": "Visado de búsqueda de empleo de 6 meses con baremo de puntos y cupo según vacantes (línea 2 del resumen); refleja su visión de la inmigración como activo económico con un Estado que decide quién entra, y lleva cifras y plazos.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-f3aab91c51",
+          "motivo": "Registro único para seguir cada orden de expulsión, con prioridad para quienes cometen delitos (línea 3 del resumen); cubre la vertiente de control.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-bf937fb1ff",
+          "motivo": "Itinerario de acogida gratuito con idioma, orientación laboral y Constitución (línea 4 del resumen); cubre la integración, distinta de la entrada y del control.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-22ca5c630c",
+          "por_que_no": "La formación en origen es de la misma línea que el visado elegido en primer lugar; sería una variante."
+        },
+        {
+          "id": "c-c84175094c",
+          "por_que_no": "La aplicación completa del Pacto Europeo de Migración y Asilo es la línea 3 del resumen, pero tiene 93 palabras y mezcla varias acciones."
+        },
+        {
+          "id": "c-7a0696fb98",
+          "por_que_no": "Readmisiones y retorno voluntario complementan el registro de expulsiones, pero mezclan dos acciones y una condición a un año vista."
+        }
+      ],
+      "nota": "La declaración de campaña sobre Ceuta y Melilla (unión aduanera y Schengen pleno) no tiene medida candidata en este tema."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        {
+          "id": "c-bbbcf05a54",
+          "motivo": "Todos los cargos de la Administración y empresas públicas por mérito, capacidad y procedimientos abiertos (línea 1 del resumen); es la medida «innegociable» que su candidata repite en campaña y la más fiel a su postura en el tema.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-750eabe91d",
+          "motivo": "Reducir un 90% los asesores, con topes por cargo; la candidata la cita en campaña como otra de sus medidas innegociables y lleva cifras concretas.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-dc4d8be252",
+          "motivo": "Ningún político en los organismos independientes, con 10 años de carencia (línea 3 del resumen); cubre la independencia de los organismos de control, distinta de las anteriores.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-354bfb840a",
+          "por_que_no": "Cierra los nombramientos discrecionales por debajo de Secretario de Estado, pero se centra en los directores generales y es más técnica que c-bbbcf05a54, que expresa la misma idea de forma general."
+        },
+        {
+          "id": "c-7f3abd8430",
+          "por_que_no": "La Oficina Anticorrupción con sanciones del 10% es su línea anticorrupción, pero el resumen destaca otras medidas (juzgados especializados, Fiscalía, imprescriptibilidad) que no están entre las candidatas, y no cabía una cuarta."
+        },
+        {
+          "id": "c-125366b303",
+          "por_que_no": "Las listas desbloqueadas y abiertas son una reforma relevante, pero no figuran en el resumen de su postura."
+        }
+      ],
+      "nota": "Varias medidas del resumen (CGPJ elegido por los jueces, fin del aforamiento, juzgados anticorrupción, imprescriptibilidad) no aparecen entre las candidatas de este lote."
+    }
+  ]
+}

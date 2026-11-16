@@ -1,0 +1,89 @@
+{
+  "revisiones": [
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: el bloque «Todas las familias cuentan» (monoparentales, parejas de mujeres, autismo, acogimiento, adopción) es el más extenso del capítulo de familias y no aparecía; se sustituye la frase del cheque de 0 a 3 años, que descansa en una sola cita, por la de familia monoparental y filiación de hijos de parejas de mujeres.",
+        "Fidelidad: «Pide» atribuía a otros lo que el programa formula como medida propia («activaremos»); al reorganizar se usan «propone/plantea/quiere».",
+        "Forma: «fijar por ley reducir» era agramatical; se reescribe como una ley que obligue a reducir (el programa habla de «objetivo vinculante»).",
+        "Queda fuera por espacio la dependencia (auditoría del 50% estatal) y la discapacidad; con 90 palabras se prioriza pobreza infantil, prestaciones, permisos y diversidad familiar."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone una ley que obligue a reducir a la mitad la pobreza infantil en la legislatura, del 28% a menos del 14%, con ayudas de oficio.",
+          "apoyos": ["c-c9ca20a36e", "c-ebe1c71fbf", "c-69441851a7", "c-6aa81adf23", "c-c7ce331846", "c-23ca0d4ba4"]
+        },
+        {
+          "texto": "Plantea reunir las prestaciones en un «Escudo Social Único» con un ingreso mensual y un «Bono Crianza» por hijo, mayor en hogares con menos renta.",
+          "apoyos": ["c-053f993fd3", "c-e444d01616", "c-6c101d3a69"]
+        },
+        {
+          "texto": "Quiere pagar al 50% del salario las ocho semanas de permiso parental hoy no retribuidas.",
+          "apoyos": ["c-2bd3085724"]
+        },
+        {
+          "texto": "También propone reconocer la familia monoparental desde el primer hijo y la filiación de los hijos de parejas de mujeres sin exigir matrimonio.",
+          "apoyos": ["c-8e2ee81f8b", "c-491d42e725", "c-48c6cefd96", "c-b5646420e5"]
+        }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "corregido",
+      "problemas": [
+        "Apoyos: c-7a0696fb98 (acuerdos de readmisión y retorno voluntario) no respalda nada de lo que dice la frase 3; se retira.",
+        "Forma: «aplicar completo» pasa a «aplicar por completo».",
+        "Se confirma que no se usen las declaraciones: la de la inmigración como aportación repite el programa y la de Ceuta y Melilla trata de unión aduanera y Schengen, no de política migratoria."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende la inmigración como un activo económico y que el Estado decida quién entra, cómo y cuándo, con «tolerancia cero con la xenofobia».",
+          "apoyos": ["c-877ab3abb4", "c-1d4d13d4f3", "c-a6dd2f8610"]
+        },
+        {
+          "texto": "Propone un visado de búsqueda de empleo de 6 meses, prorrogable a 9, con baremo de puntos, y formar trabajadores en los países de origen.",
+          "apoyos": ["c-e4bc895f0a", "c-9c36c819b8", "c-22ca5c630c", "c-923a46ac35"]
+        },
+        {
+          "texto": "Plantea un registro único para seguir cada orden de expulsión, con prioridad para quienes cometen delitos, y aplicar por completo el Pacto Europeo de Migración y Asilo.",
+          "apoyos": ["c-a95db07244", "c-f3aab91c51", "c-c84175094c"]
+        },
+        {
+          "texto": "También propone un itinerario gratuito de acogida y facilidades para los españoles que regresen.",
+          "apoyos": ["c-bf937fb1ff", "c-80c93d173b", "c-a50ec72c8d", "c-5bc7fcd497", "c-101e51f5af"]
+        }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Neutralidad: «contra las instrucciones interminables» adoptaba la valoración del programa como propia; se describe como acortar las instrucciones y agilizar la respuesta a la multirreincidencia.",
+        "Fidelidad/alcance: la inhabilitación de por vida se refiere a los políticos condenados por sentencia firme, no a cualquier condenado; se precisa.",
+        "Se confirma la prioridad del redactor: las citas de emergencias, incendios, inundaciones y ciberseguridad pesan menos en el tema que policía, justicia, corrupción, CGPJ y aforamientos."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone dimensionar las plantillas policiales según la carga real de trabajo y reconocer por ley la profesión de riesgo con jubilación anticipada sin recorte de pensión.",
+          "apoyos": ["c-3f5a8942cc", "c-d124d9c83f"]
+        },
+        {
+          "texto": "Plantea una nueva ley procesal para acortar las instrucciones y agilizar la respuesta a la multirreincidencia, y que las víctimas sigan su caso en línea.",
+          "apoyos": ["c-081d3456c1", "c-5bfbf84cc5"]
+        },
+        {
+          "texto": "Contra la corrupción, propone juzgados especializados, que esos delitos no prescriban e inhabilitar de por vida a los políticos condenados.",
+          "apoyos": ["c-ada0ff91bf", "c-344a789edc", "c-d3573c41d6"]
+        },
+        {
+          "texto": "Quiere que los jueces elijan a los vocales judiciales del CGPJ y eliminar los aforamientos de diputados y senadores.",
+          "apoyos": ["c-54e4615fbc", "c-b42c1d2731", "c-6261b56c10"]
+        }
+      ]
+    }
+  ]
+}

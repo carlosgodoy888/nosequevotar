@@ -1,0 +1,50 @@
+{
+  "resumenes": [
+    {
+      "tema": "democracia-e-instituciones",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone cubrir por mérito todos los cargos públicos salvo los secretarios de Estado, recortar un 90% los asesores y tipificar el delito de «enchufismo».",
+          "apoyos": ["c-bbbcf05a54", "c-489d19b405", "c-354bfb840a", "c-750eabe91d", "c-20eb56934d"]
+        },
+        {
+          "texto": "Contra la corrupción plantea juzgados especializados, doblar los medios de la Fiscalía Anticorrupción y que estos delitos no prescriban.",
+          "apoyos": ["c-ada0ff91bf", "c-6d75150b37", "c-344a789edc"]
+        },
+        {
+          "texto": "Quiere que los jueces elijan a los vocales judiciales del CGPJ, suprimir el aforamiento de parlamentarios, limitar los cargos a dos mandatos e introducir listas desbloqueadas y abiertas.",
+          "apoyos": ["c-54e4615fbc", "c-b42c1d2731", "c-1f8ab909e9", "c-125366b303"]
+        },
+        {
+          "texto": "Su candidata afirmó que el partido no está «para facilitar que Vox entre en los gobiernos».",
+          "apoyos": ["c-b7c8baae3b"]
+        }
+      ],
+      "nota": "Tema con 220 citas; se prioriza el bloque «España Limpia» del programa. Quedan fuera por espacio la Administración digital y proactiva (ley de interoperabilidad, compensación por retrasos), RTVE y la financiación de partidos. La frase sobre Vox es declaración de campaña sobre pactos y nombra a otro partido porque lo hace la cita."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende que las comunidades autónomas sirvan para acercar la gestión al ciudadano y no para «fragmentar la economía».",
+          "apoyos": ["c-e99346095e"]
+        },
+        {
+          "texto": "Propone que cualquier licencia, título o requisito aprobado en una comunidad sea válido en toda España y que se prohíba duplicar trámites o tasas entre regiones.",
+          "apoyos": ["c-02c0417698", "c-3e6878e6ce"]
+        },
+        {
+          "texto": "En vivienda plantea que la comunidad autónoma asuma la competencia urbanística de los ayuntamientos que bloqueen proyectos o incumplan sus objetivos.",
+          "apoyos": ["c-3820f2dce0", "c-c8ef0eceee"]
+        },
+        {
+          "texto": "También propone un estatus europeo de protección específico para Ceuta y Melilla, cuya plena entrada en la unión aduanera y en Schengen defendió su candidata.",
+          "apoyos": ["c-819d4ba6a8", "c-a66a059f9f"]
+        }
+      ],
+      "nota": "Lo de la unión aduanera y Schengen solo viene de una declaración de la candidata, por eso va atribuido. Quedan fuera la ley de interoperabilidad entre administraciones y el programa estatal de refuerzo educativo para comunidades por debajo de la media."
+    }
+  ]
+}

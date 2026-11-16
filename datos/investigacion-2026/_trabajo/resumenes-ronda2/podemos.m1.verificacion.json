@@ -1,0 +1,96 @@
+{
+  "revisiones": [
+    {
+      "tema": "vivienda",
+      "veredicto": "corregido",
+      "problemas": [
+        "Omitía la protección frente a desalojos sin alternativa habitacional de familias vulnerables (c-885b494f20), medida del documento general, y en cambio dedicaba una frase entera a la cifra de campaña del impuesto a la vivienda vacía, que repetía lo dicho en la frase 2.",
+        "Se reordena: el impuesto a la vivienda vacía (documento) y el cuádruple (declaración de la candidata, atribuida) van en la misma frase, y la protección frente a desalojos entra en la frase del alquiler social. Se mantiene fuera el término «comandos neonazis» y la compra de pisos en el mercado privado por límite de palabras.",
+        "Las citas de origen «programa» son del Documento Político de la V Asamblea (2025), no de un programa de 2026; el 40 % lo respalda además la candidata en campaña, así que puede ir sin atribución."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende la vivienda como derecho y no como negocio, y propone una regulación que baje los alquileres un 40 % en todo el Estado.", "apoyos": ["c-d8c8cd7a6d", "c-c3674c05e5", "c-287f4b7e90", "c-a7e80f45dc"] },
+        { "texto": "Plantea prohibir los pisos turísticos, limitar las viviendas por propietario y una moratoria a la compra que no sea para residir.", "apoyos": ["c-d4ec6fbd3e", "c-d77b33f342", "c-2928d9c44b", "c-7a9d94b886", "c-4ba4510e9e", "c-287f4b7e90"] },
+        { "texto": "Quiere ampliar el alquiler social expropiando el uso del 50 % de las viviendas de grandes tenedores y proteger de los desalojos a familias vulnerables sin alternativa.", "apoyos": ["c-704bfb22d3", "c-9b42ba93cd", "c-885b494f20"] },
+        { "texto": "Pide gravar la vivienda vacía; en campaña, su candidata propuso que sus dueños paguen el cuádruple que ahora.", "apoyos": ["c-6ee1c6fad6", "c-39afd65437"] }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [
+        "Sin fallos de fidelidad ni neutralidad: el SMI de 1.800 euros, las 30 horas y la reforma para sancionar a quien no negocie de buena fe solo vienen de declaraciones y van atribuidos. La plantilla del INAEM se omite con razón por ser muy sectorial."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone subir el salario mínimo y regular la inteligencia artificial teniendo en cuenta su efecto en el empleo, con atención a los trabajos creativos.", "apoyos": ["c-feefe0055e", "c-290ac297b8"] },
+        { "texto": "También pide educación infantil pública, universal y gratuita de 0 a 3 años.", "apoyos": ["c-3a2da0dfcf"] },
+        { "texto": "Su candidata planteó en campaña un salario mínimo de 1.800 euros y una jornada de 30 horas semanales, para tener más tiempo para vivir y cuidar.", "apoyos": ["c-552f70354e", "c-cdd5d1ae12", "c-063cd51a57"] },
+        { "texto": "Su secretaria general pidió abrir un debate para reformar la ley y sancionar a empresas y administraciones que no negocien de buena fe.", "apoyos": ["c-5b9b1b4d1e"] }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [
+        "Sin fallos: la proposición de ley de 2024 sobre los 40 años cotizados va fechada y presentada como iniciativa parlamentaria, no como medida del documento; la actualización con el IPC y el vínculo con el gasto militar van atribuidos a sus dirigentes. Se omite con razón el aumento del 20 % de un documento de 2023."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone subir las pensiones contributivas más bajas y las no contributivas para que ninguna sea inferior al salario mínimo, y defiende el sistema público de pensiones.", "apoyos": ["c-feefe0055e", "c-fd34c54286", "c-a107807ed1"] },
+        { "texto": "Quiere aumentar el ingreso mínimo vital, reducir su burocracia y ampliar su cobertura como paso hacia una renta básica incondicional.", "apoyos": ["c-3114014229"] },
+        { "texto": "En 2024 llevó al Congreso una proposición de ley para no aplicar coeficientes reductores a la jubilación tras 40 años cotizados.", "apoyos": ["c-f47a0b7288"] },
+        { "texto": "Sus dirigentes piden pensiones actualizadas con el IPC y sostienen que el gasto militar resta dinero a las pensiones.", "apoyos": ["c-a107807ed1", "c-2058d9ff44", "c-91818438c1"] }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "corregido",
+      "problemas": [
+        "«Gravar hasta el 50 %» sugiere un tope; la cita dice un impuesto «que alcance el 50%» de los beneficios extraordinarios, así que se escribe «un impuesto del 50 %».",
+        "«El lujo contaminante» era una valoración propia; la cita habla de vehículos y actividades de lujo «con una alta huella de carbono», y se usa esa expresión.",
+        "«Recargos» se sustituye por «más impuestos», más cercano a «impuestos extraordinarios por encima del tipo habitual». Se ajusta la longitud para no pasar de 90 palabras."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una reforma fiscal para que paguen más las grandes empresas y fortunas, sin subir impuestos a trabajadores, autónomos y pymes.", "apoyos": ["c-4d786717a1", "c-c27806ca29", "c-a981b08ed1", "c-920a9e20d5"] },
+        { "texto": "Plantea un impuesto a los grandes patrimonios, un tipo mínimo en Sociedades e igualar en el IRPF las rentas del capital y del trabajo.", "apoyos": ["c-86ac06e8c2", "c-3c9161660b", "c-f16b92363d"] },
+        { "texto": "Pide un impuesto del 50 % a los beneficios extraordinarios del IBEX y más impuestos a la banca y las grandes energéticas.", "apoyos": ["c-2ba3bd5a8a", "c-71cddcd1f1", "c-62efb8a614"] },
+        { "texto": "También quiere gravar la vivienda vacía y el lujo con alta huella de carbono, como yates, y reforzar la Agencia Tributaria.", "apoyos": ["c-6ee1c6fad6", "c-39afd65437", "c-85cc7b0772", "c-0d7f8e9334"] }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "La frase 4 (gasto militar aumentado sin votación parlamentaria) repetía casi literalmente la frase 4 de política exterior y dejaba fuera el único compromiso de campaña sobre pactos del tema (c-42642e1514), que las normas mandan recoger; se sustituye por este.",
+        "«Que los corruptos devuelvan lo sustraído» resume (se acorta desde «los condenados por corrupción» por el límite de palabras) «quienes incurren en delitos de corrupción tienen que devolver hasta el último euro robado». Se añade «español» al DNI, como dice la cita.",
+        "La derogación de la «Ley Mordaza» viene de un documento de 2023, pero el documento general de 2025 (c-019d22a226) la señala como obstáculo para el cambio; se mantiene con el término entre comillas y atribuido."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende avanzar hacia una república plurinacional donde los pueblos de España puedan decidir democráticamente su futuro.", "apoyos": ["c-3f83977f88", "c-4634b8497b"] },
+        { "texto": "Propone «democratizar» la justicia, los medios y las fuerzas de seguridad, limitar lo que llama «control oligárquico» de los medios y generalizar referéndums y presupuestos participativos.", "apoyos": ["c-3f83977f88", "c-a69fdea240", "c-8fa6e7fb70", "c-f11be70a75", "c-6c6af2f86c"] },
+        { "texto": "Pide DNI español y voto para quien vive en España, derogar la que llama «Ley Mordaza» y que los corruptos devuelvan lo sustraído.", "apoyos": ["c-392de48155", "c-279912dd6e", "c-019d22a226", "c-5346967975"] },
+        { "texto": "Su candidata dijo en campaña que negociarán con todos, sobre todo con el PSOE, y que para ello no pueden ir en sus listas.", "apoyos": ["c-42642e1514"] }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "corregido",
+      "problemas": [
+        "La frase sobre Israel suavizaba la cita: el documento pide la ruptura «inmediata» de relaciones; se añade «de inmediato». No se adopta «estado genocida».",
+        "Sumaba 95 palabras; se acorta la frase de Israel («embargo de armas», que recoge compra y venta) para quedar por debajo de 90.",
+        "Se dejan fuera con razón las citas de este tema que tratan otros asuntos (Repsol, educación infantil)."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone abandonar la OTAN cuanto antes y rechaza el aumento del gasto militar, que a su juicio se detrae de los servicios públicos.", "apoyos": ["c-c25752eab1", "c-23ce3c244f", "c-3e7cab8ab9", "c-eb21de4331"] },
+        { "texto": "Defiende romper de inmediato las relaciones diplomáticas y comerciales con Israel y un embargo de armas a ese país.", "apoyos": ["c-2104d71785", "c-d752e95474"] },
+        { "texto": "Quiere priorizar las alianzas con América Latina, relaciones «de igual a igual» con África y derogar el Pacto Europeo de Migración y Asilo.", "apoyos": ["c-3f09e6e5d6", "c-99a4a9a4e8", "c-1bbff85df1"] },
+        { "texto": "En campaña, su candidata afirmó que el Gobierno ha elevado el gasto militar de 12.000 a 36.000 millones sin votación parlamentaria.", "apoyos": ["c-34eb9b8e83", "c-0a7a10ee78"] }
+      ]
+    }
+  ]
+}

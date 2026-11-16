@@ -1,0 +1,244 @@
+{
+  "partido": "vox",
+  "lote": "vox.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        { "id": "c-a7720ec799", "motivo": "Línea principal del resumen (reformar la Ley del Suelo y construir más con más suelo y menos trámites); es lo que repiten en campaña Abascal («no se construye vivienda») y Cerezo («más suelo y plazos cerrados»).", "texto": null, "cambio": null },
+        { "id": "c-72da371848", "motivo": "Cubre la «prioridad nacional» en vivienda protegida y ayudas al alquiler, rasgo propio de su postura y eje de su campaña; se prefiere a la de prohibir alquilar a irregulares porque es más corta y más general.", "texto": null, "cambio": null },
+        { "id": "c-f7b6cb46e8", "motivo": "Cubre la línea fiscal (IVA 0 % e ITP bonificado en la primera vivienda), que Cerezo destaca en campaña («que la primera vivienda esté libre de carga impositiva»).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-0e4fb0d41b", "por_que_no": "Derogar la Ley de Vivienda es parte de su línea 2, pero en campaña destacan más la rebaja fiscal de la primera vivienda; solo cabía una de esa línea." },
+        { "id": "c-ed89c845d9", "por_que_no": "El desalojo en 24 horas es la línea 4 del resumen, menos central que la construcción o la prioridad nacional; la okupación tiene además su sitio en seguridad." },
+        { "id": "c-c365481e19", "por_que_no": "Vivienda protegida público-privada es parte de la línea 1, que ya representa la reforma del suelo." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        { "id": "c-634f7b5f1d", "motivo": "Línea principal del resumen: derogar la reforma laboral actual; no hay otra medida que la represente, así que se elige quitando el nombre del presidente del Gobierno.", "texto": "Derogar la legislación laboral que ha agravado la precariedad, desincentivado la contratación y empeorado una situación ya de por sí insostenible, que ha maquillado las cifras de temporalidad y que beneficia al duopolio sindical que ha traicionado a los trabajadores.", "cambio": "Se ha quitado «de Sánchez» detrás de «legislación laboral»." },
+        { "id": "c-d42cbb4bd3", "motivo": "Línea 2 del resumen (cuota cero para autónomos bajo el SMI y progresiva desde 50 euros), con cifras concretas.", "texto": null, "cambio": null },
+        { "id": "c-1f2100c945", "motivo": "Línea 3 del resumen (incentivar a las empresas que favorezcan la conciliación); se toma de familias porque en empleo solo hay dos medidas propias y allí no se usa.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-d42cbb4bd3", "por_que_no": "Podría ir primera por llevar cifras, pero la derogación de la reforma laboral es la línea principal del resumen." },
+        { "id": "c-10b786684e", "por_que_no": "Quitar subvenciones a sindicatos y patronales es de otro tema (economía) y no es el centro de su postura en empleo." }
+      ],
+      "nota": "La primera lleva un cambio mínimo de texto: se quita «de Sánchez». Ninguna medida recoge lo que más ha dicho en campaña sobre empleo (propinas, huelgas)."
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        { "id": "c-43aed18a33", "motivo": "Línea principal del resumen: auditar la Administración y recortar el gasto superfluo para compensar la bajada de impuestos; encaja con lo que dice Figaredo en campaña sobre suprimir subvenciones para financiar la rebaja del IRPF.", "texto": null, "cambio": null },
+        { "id": "c-f7225bfccf", "motivo": "Línea 2 (Ley de Unidad de Mercado: lo legal en una comunidad, legal en toda España), ligada al «fin de la sobrerregulación» que Abascal reclama en campaña; 78 palabras, dentro del límite.", "texto": null, "cambio": null },
+        { "id": "c-c192135111", "motivo": "Línea 3 (revertir normas del Pacto Verde que atacan a la industria, como la prohibición de motores de combustión).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-3768113399", "por_que_no": "Es otra versión de la auditoría del gasto, más débil que la elegida porque no dice que se recortará." },
+        { "id": "c-10b786684e", "por_que_no": "Eliminar subvenciones a partidos, sindicatos y ONG lo cita Figaredo en campaña, pero es una parte de la línea de recorte del gasto, que ya representa la primera." },
+        { "id": "c-95c689fbe5", "por_que_no": "El rechazo a Mercosur es parte de la línea 3; se prefiere la del Pacto Verde porque el resumen la pone delante y la reindustrialización es el centro de esa línea." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        { "id": "c-b549938775", "motivo": "Línea principal del resumen (plan nacional para reducir las listas de espera), que Abascal destaca en campaña («la gente muere esperando una cita médica»).", "texto": null, "cambio": null },
+        { "id": "c-43badd9b5b", "motivo": "Línea 4 y muy presente en campaña («los recursos limitados son para los nuestros»): excluir a los extranjeros en situación irregular salvo urgencia grave.", "texto": null, "cambio": null },
+        { "id": "c-5f83bf1820", "motivo": "Línea 2 (tarjeta sanitaria única con historia clínica compartida en toda España).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-43badd9b5b", "por_que_no": "Podría ir primera por su peso en campaña, pero el resumen pone delante las listas de espera y Abascal también insiste en ellas." },
+        { "id": "c-dc8181427c", "por_que_no": "Línea 3 (profesionales: plazas rurales, contratos y retorno), menos central que las elegidas." },
+        { "id": "c-18e6df2e45", "por_que_no": "«Fin del turismo sanitario» es demasiado escueta y es parte de la línea que ya cubre la exclusión de irregulares." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        { "id": "c-97f995434f", "motivo": "Repatriar a quien esté en situación irregular es el centro de su postura y lo que más repiten en campaña («repatriación de los ilegales», «remigración» en palabras de Figaredo).", "texto": null, "cambio": null },
+        { "id": "c-e4b34e50ca", "motivo": "Línea 1 del resumen: prohibir regularizar a quien entró de forma irregular, sin regularizaciones masivas.", "texto": null, "cambio": null },
+        { "id": "c-82f13ab1f1", "motivo": "Línea 4 (protección de fronteras con participación de las Fuerzas Armadas, especialmente en Ceuta y Melilla), que Garriga destaca en campaña («hay que militarizar las fronteras»); 61 palabras, dentro del límite.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-e4b34e50ca", "por_que_no": "Es la línea 1 del resumen, pero en campaña insisten más en la repatriación, que además da la idea más completa de lo que quieren hacer." },
+        { "id": "c-cfabae9b7d", "por_que_no": "Suprimir el arraigo es de la misma línea que la prohibición de regularizar, y esta se entiende mejor sola." },
+        { "id": "c-4ea180c611", "por_que_no": "Suprimir ayudas a los irregulares es parte de la línea de repatriación y ayudas, ya cubierta por la primera." }
+      ],
+      "nota": "La «prioridad nacional», línea 3 del resumen, queda representada en vivienda y familias."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        { "id": "c-0a51bf6519", "motivo": "Línea 2 del resumen (ilegalizar partidos y organizaciones que atenten contra la unidad territorial); la línea 1 (CGPJ) no está entre las candidatas de este tema y va en seguridad y justicia.", "texto": null, "cambio": null },
+        { "id": "c-0def1234eb", "motivo": "Línea 3 (reducir normas y Administración): derogar tres normas por cada ley nueva, la medida más concreta de esa línea.", "texto": null, "cambio": null },
+        { "id": "c-8fd62c65a7", "motivo": "Línea 4: reforma integral de RTVE, que el resumen pone primero en esa línea.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-0def1234eb", "por_que_no": "Podría ir primera, pero el resumen pone antes la ilegalización de partidos que atenten contra la unidad de España." },
+        { "id": "c-4602cae7b5", "por_que_no": "El fin de la cita previa es de la misma línea que la de derogar tres normas, y es menos característica." },
+        { "id": "c-e8fccff865", "por_que_no": "La auditoría anticorrupción es de la línea 4, como RTVE, y es menos distintiva." }
+      ],
+      "nota": "No hay declaraciones de campaña aplicables a estas medidas. La elección de jueces por jueces para el CGPJ (línea 1) se ha elegido en seguridad-y-justicia, único tema donde aparece."
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        { "id": "c-f093b04245", "motivo": "Línea principal del resumen: derogar la LOMLOE y volver a una enseñanza basada en el esfuerzo y el mérito.", "texto": null, "cambio": null },
+        { "id": "c-938e39c9bd", "motivo": "Línea 2: distrito único y libre elección de centro, más breve y directa que la otra versión.", "texto": null, "cambio": null },
+        { "id": "c-b31ab339d7", "motivo": "Línea 3: número máximo por aula de alumnos de otras culturas o con poco dominio del español.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-c0293068b9", "por_que_no": "La educación en español es parte de la línea 1, que ya representa la derogación de la LOMLOE." },
+        { "id": "c-baf6eb20f8", "por_que_no": "Unificar currículo e inspección es también de la línea 1; la derogación de la LOMLOE la resume mejor." },
+        { "id": "c-9ebb2d9e8e", "por_que_no": "La prioridad nacional en educación es la línea 4, menos central que las elegidas; esa idea ya aparece en vivienda y familias." }
+      ],
+      "nota": "No hay declaraciones de campaña sobre educación."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        { "id": "c-8235ec5611", "motivo": "Línea principal del resumen (mantener las nucleares derogando el calendario de cierre y estudiar otras nuevas), coherente con lo que dice Abascal en campaña («no solo con los molinos y placas solares»).", "texto": null, "cambio": null },
+        { "id": "c-cee2109f7d", "motivo": "Línea 3: acabar con las imposiciones climáticas como el Pacto Verde y las zonas de bajas emisiones; Alonso dice en campaña que «los objetivos climáticos se sustituirán».", "texto": null, "cambio": null },
+        { "id": "c-f5140a9b79", "motivo": "Línea 4: Plan Nacional del Agua que interconecte todas las cuencas, destacado por Alonso en campaña.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-48a4f28458", "por_que_no": "La bajada de impuestos a la electricidad (línea 2, la cita Figaredo) mezcla varias acciones (impuestos, recursos, redes, plan de soberanía energética)." },
+        { "id": "c-e8927a9956", "por_que_no": "Quitar el tope a la inversión en redes es parte de la línea 2 y menos central que las elegidas." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "elegidas": [
+        { "id": "c-a577d1022a", "motivo": "Sanciones y revisión de relaciones con Marruecos hasta que respete la soberanía española: es la línea a la que la campaña da más bombo (Ceuta, «que no nos invada», «primera medida y más urgente»); se toma de organización territorial porque aquí solo hay dos medidas propias.", "texto": null, "cambio": null },
+        { "id": "c-5379fabca8", "motivo": "Línea 4: retirar la cooperación al desarrollo a los países que no colaboren contra la inmigración irregular.", "texto": null, "cambio": null },
+        { "id": "c-29014530c9", "motivo": "Línea 1 (Defensa y Fuerzas Armadas): reconocer el servicio militar como profesión de riesgo, única medida de esa línea disponible.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-610a185737", "por_que_no": "Militarizar la frontera de Ceuta y Melilla encaja con la campaña, pero se usa en organización territorial (su tema propio); aquí la relación con Marruecos es más de política exterior." },
+        { "id": "c-95c689fbe5", "por_que_no": "El rechazo a Mercosur es parte de la línea 4, menos destacada en campaña que la cooperación condicionada y que Ceuta." },
+        { "id": "c-29014530c9", "por_que_no": "Es la única de la línea 1 del resumen, pero es una pieza menor (profesión de riesgo) y no transmite el aumento de inversión en Defensa; la campaña se centra en Ceuta y Marruecos." }
+      ],
+      "nota": "La protección militar de las fronteras (c-82f13ab1f1) va en inmigración y la militarización de Ceuta y Melilla (c-610a185737) en organización territorial."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "elegidas": [
+        { "id": "c-14a227569f", "motivo": "Línea principal del resumen (endurecer las penas); la ampliación de la prisión permanente revisable es lo que Abascal defiende en campaña («los violadores no deben salir de la prisión»).", "texto": null, "cambio": null },
+        { "id": "c-f55d8a54b5", "motivo": "Línea 3: más medios, equiparación salarial y sueldos dignos para policías y guardias civiles.", "texto": null, "cambio": null },
+        { "id": "c-f0ab87a703", "motivo": "Línea 4 (y línea 1 del resumen de democracia, donde no está disponible): que los jueces elijan a los doce vocales judiciales del CGPJ.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-eb8b520b13", "por_que_no": "Rebajar la edad penal es de la misma línea que la prisión permanente, pero la campaña destaca más esta última." },
+        { "id": "c-2b6e90b5b5", "por_que_no": "La okupación (línea 2, la cita Figaredo) solo está aquí como «inquiocupación», término que un lector sin conocimientos de política puede no entender." },
+        { "id": "c-1220e481eb", "por_que_no": "Profesión de riesgo para policías es de la línea 3; la de dignificación con equiparación salarial la representa mejor." }
+      ],
+      "nota": "La okupación (línea 2) queda sin medida en este lote; el desalojo en 24 horas (c-ed89c845d9) era candidata en vivienda y quedó fuera allí por tener solo tres huecos."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "elegidas": [
+        { "id": "c-34b576da66", "motivo": "Línea principal del resumen: extender y aumentar los beneficios de las familias numerosas a todas desde el primer hijo, con más ayudas según el número de hijos.", "texto": null, "cambio": null },
+        { "id": "c-3e9f22ef84", "motivo": "Línea 4 y eje de su campaña («los recursos limitados son para los nuestros»): acceso preferente de los españoles a guarderías, ayudas, prestaciones y servicios sociales.", "texto": null, "cambio": null },
+        { "id": "c-fc0128b9be", "motivo": "Concreta en el Ingreso Mínimo Vital la misma línea 4, que el resumen recoge expresamente; no quedan medidas válidas de las otras líneas en este tema.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-d0ff0c9f91", "por_que_no": "Que el Estado pague la cotización de quien cuida a sus hijos es de la línea 2, pero es la única medida disponible para pensiones y se usa allí." },
+        { "id": "c-fda794f8b2", "por_que_no": "Mezcla muchas acciones distintas (vivienda, vehículos, fiscalidad, 0-3 años): no se sabría qué se vota." },
+        { "id": "c-7d822c95d5", "por_que_no": "«Bonificación del 100 % de la ayuda en el hogar» no se entiende sola: no dice de qué es la bonificación." }
+      ],
+      "nota": "Dos de las tres son de la línea de prioridad nacional porque las medidas de las líneas 2 y 3 (IRPF por hijos, 0-3 gratuita, dependencia) o se usan en otro tema o mezclan varias acciones. Quien revise puede preferir dejar solo dos."
+    },
+    {
+      "tema": "impuestos",
+      "elegidas": [
+        { "id": "c-1db81ce0d4", "motivo": "Línea principal del resumen (IRPF más simple y bajo, con tipo menor según los hijos); es la reforma que Figaredo detalla en campaña.", "texto": null, "cambio": null },
+        { "id": "c-5486f73c97", "motivo": "Rebaja del IVA, sobre todo de productos esenciales, otra pieza de la rebaja general; Figaredo pide en campaña IVA superreducido o nulo para bienes esenciales.", "texto": null, "cambio": null },
+        { "id": "c-2ff6f9c3e0", "motivo": "Línea 3: gravar las remesas al extranjero, la única subida de impuestos propia del tema.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-c30745e601", "por_que_no": "Bajar el Impuesto de Sociedades es de la línea 1, que ya cubren IRPF e IVA; en campaña no la destacan." },
+        { "id": "c-f7b6cb46e8", "por_que_no": "El IVA 0 % en la primera vivienda es de otro tema y se usa en vivienda." },
+        { "id": "c-48a4f28458", "por_que_no": "La bajada de impuestos a la electricidad es de otro tema y mezcla varias acciones." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "elegidas": [
+        { "id": "c-69f5d7e000", "motivo": "Línea principal del resumen: derogar las leyes que, según sostiene, han criminalizado a los hombres y desprotegido a las mujeres.", "texto": null, "cambio": null },
+        { "id": "c-133f0de770", "motivo": "Línea 3: prohibir el burka y el niqab en los espacios públicos.", "texto": null, "cambio": null },
+        { "id": "c-0a0be1bdc4", "motivo": "Superar leyes como la de Memoria Democrática, otra línea de su postura en el tema (memoria democrática entra en este tema).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-0b1dd424df", "por_que_no": "Fin de los menús halal es de otro tema (educación) y hay suficientes medidas propias." }
+      ],
+      "nota": "Solo hay tres medidas propias; se eligen las tres."
+    },
+    {
+      "tema": "pensiones",
+      "elegidas": [
+        { "id": "c-d0ff0c9f91", "motivo": "Línea 2 del resumen: que el Estado pague la cotización de quien cuida a sus hijos para que no le perjudique en la jubilación; es la única medida con relación directa con las pensiones (se toma de familias, donde no se usa).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-d42cbb4bd3", "por_que_no": "La cuota de autónomos es de empleo, se usa allí y no habla de pensiones." }
+      ],
+      "nota": "No hay medidas propias de pensiones; el modelo mixto con capitalización solo aparece en declaraciones de campaña."
+    },
+    {
+      "tema": "transporte",
+      "elegidas": [
+        { "id": "c-077dc8dc01", "motivo": "Línea 2 del resumen (auditar la red y electrificar líneas convencionales para la España rural); es lo que Aizcorbe destaca en campaña («lo primero que hay que hacer es una auditoría de seguridad»).", "texto": null, "cambio": null },
+        { "id": "c-342b098dd5", "motivo": "Línea 1: plan nacional de infraestructuras; es escueta pero es la propuesta general del programa.", "texto": null, "cambio": null },
+        { "id": "c-9506217c72", "motivo": "Cubre las obras hidráulicas y contra inundaciones que el resumen incluye en la línea 1; se toma de medio ambiente, donde no se usa, porque aquí solo hay dos medidas propias.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-cee2109f7d", "por_que_no": "Acabar con las ZBE es la línea 3 del resumen, pero es de medio ambiente y se usa allí." },
+        { "id": "c-b57248a2a8", "por_que_no": "Empieza por «Al mismo tiempo» y depende de lo anterior." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "organizacion-territorial",
+      "elegidas": [
+        { "id": "c-610a185737", "motivo": "Línea 4 del resumen y muy destacada en campaña (Ceuta, «militarizar las fronteras»): militarizar la frontera de Ceuta y Melilla; las líneas 1-3 no tienen medidas en este tema.", "texto": null, "cambio": null },
+        { "id": "c-168880a153", "motivo": "Medida de financiación territorial: bajar el IGIC y suprimir el AIEM en Canarias.", "texto": null, "cambio": null },
+        { "id": "c-e8e3604797", "motivo": "Medida de financiación territorial: actualizar el complemento de insularidad del personal público estatal en Baleares y Canarias.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-3a3a1e36da", "por_que_no": "«Expulsión de todos los invasores» no se entiende sola: no dice a quién se refiere." },
+        { "id": "c-ea1db3b2cc", "por_que_no": "Nombra al presidente del Gobierno y no es el centro de su postura." },
+        { "id": "c-a577d1022a", "por_que_no": "Las sanciones a Marruecos son más de política exterior y se usan allí, donde faltan medidas propias." }
+      ],
+      "nota": "Las líneas principales del resumen (Ley de Unidad de Mercado, educación en español, ilegalización de partidos) tienen sus medidas en economía, educación y democracia."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "elegidas": [
+        { "id": "c-837a3c34ba", "motivo": "Línea 2 del resumen (rechazar el recorte de la PAC, repartirla primando la despoblación y quitarle exigencias); la línea 1 (Mercosur) no está entre las candidatas del tema.", "texto": null, "cambio": null },
+        { "id": "c-45ea212475", "motivo": "Línea 3: silencio administrativo positivo y declaración responsable en los trámites del medio rural.", "texto": null, "cambio": null },
+        { "id": "c-a9420658a4", "motivo": "Cubre la línea de la competencia desleal (línea 1), que Alonso destaca en campaña: no financiar proyectos agrarios de países extracomunitarios que compitan deslealmente.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-ded245f459", "por_que_no": "Revisar la Política Pesquera Común es de la línea 4, menos central que las elegidas." },
+        { "id": "c-9655bdbe78", "por_que_no": "La fiscalidad mínima en zonas despobladas es de la línea 3, ya cubierta por la de los trámites." },
+        { "id": "c-751b5e3e0c", "por_que_no": "El fondo de compensación es de la línea 3, menos destacado." }
+      ],
+      "nota": "El Plan Nacional del Agua, que Alonso destaca en campaña, se ha elegido en medio ambiente."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "elegidas": [
+        { "id": "c-69964c851f", "motivo": "Línea 2 del resumen (cultura): bajar impuestos al arte y los espectáculos en vivo; el resumen la cita primero.", "texto": null, "cambio": null },
+        { "id": "c-dba4689874", "motivo": "Misma línea de cultura: nueva Ley de Mecenazgo con más deducciones del IRPF; es la única otra medida del tema.", "texto": null, "cambio": null }
+      ],
+      "casi": [],
+      "nota": "Solo hay dos medidas; la línea principal del resumen (I+D, inteligencia artificial) no tiene medidas candidatas. No hay declaraciones de campaña."
+    }
+  ]
+}

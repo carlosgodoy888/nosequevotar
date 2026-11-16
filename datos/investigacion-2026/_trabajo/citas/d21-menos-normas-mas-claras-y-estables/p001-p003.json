@@ -1,0 +1,217 @@
+{
+  "fuente": "d21-menos-normas-mas-claras-y-estables",
+  "partido": "d21",
+  "paginas": [
+    1,
+    3
+  ],
+  "citas": [
+    {
+      "cita": "España se ha convertido en una selva de hiperregulación que asfixia a quien emprende y frena el talento de nuestra sociedad.",
+      "pagina": 2,
+      "apartado": [
+        "Menos normas, más claras, estables y coordinadas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Exceso de regulación como freno al emprendimiento",
+      "etiquetas": [
+        "burocracia",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tenemos que simplificar las reglas, armonizar el mercado nacional y crear un Estado ágil que deje de ser un obstáculo.",
+      "pagina": 2,
+      "apartado": [
+        "Menos normas, más claras, estables y coordinadas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Simplificación normativa y armonización del mercado nacional",
+      "etiquetas": [
+        "burocracia",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Pondremos en marcha un Programa Estatal de Auditorías de Barreras para derogar en el plazo de 12 meses toda norma o trámite que no cuente con una justificación clara de protección pública.",
+      "pagina": 2,
+      "apartado": [
+        "Programa estatal de auditoría de barreras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogación en 12 meses de normas y trámites sin justificación",
+      "etiquetas": [
+        "burocracia",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Utilizando la metodología de reducción de sludge audit (auditoría de fricción burocrática) de la OCDE, involucraremos directamente a los sectores empresariales, pymes, autónomos y agentes sociales para identificar y extirpar cada traba que nos quita horas de nuestro tiempo y que frena la inversión y el emprendimiento.",
+      "pagina": 2,
+      "apartado": [
+        "Programa estatal de auditoría de barreras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Auditoría de trabas con metodología OCDE y participación sectorial",
+      "etiquetas": [
+        "burocracia",
+        "empresas",
+        "autónomos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Organizaremos este trabajo mediante líneas de actuación específicas para cada sector económico, siguiendo un calendario de prioridades. Comenzaremos por los sectores en los que España ya tiene una posición competitiva destacada. Continuaremos con los sectores estratégicos para nuestro futuro económico, tecnológico e industrial, y extenderemos progresivamente la metodología al resto de las actividades económicas.",
+      "pagina": 2,
+      "apartado": [
+        "Programa estatal de auditoría de barreras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Simplificación por sectores económicos según calendario de prioridades",
+      "etiquetas": [
+        "burocracia",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada línea sectorial contará con la participación directa de empresas, autónomos, profesionales y asociaciones representativas, mediante mesas de trabajo, consultas públicas abiertas y mecanismos digitales para comunicar trabas concretas y proponer soluciones.",
+      "pagina": 2,
+      "apartado": [
+        "Programa estatal de auditoría de barreras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mesas, consultas públicas y canales digitales para comunicar trabas",
+      "etiquetas": [
+        "burocracia",
+        "participación ciudadana",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Involucraremos también a las administraciones estatal, autonómicas y locales, porque muchas de las cargas burocráticas proceden de la acumulación de requisitos entre distintos niveles de gobierno.",
+      "pagina": 2,
+      "apartado": [
+        "Programa estatal de auditoría de barreras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación de todas las administraciones en la simplificación",
+      "etiquetas": [
+        "burocracia",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El resultado será un programa continuo de simplificación, con objetivos medibles, responsables identificados y plazos públicos, que permita comprobar cuántos trámites se eliminan, cuánto tiempo se ahorra y cuánto se reducen los costes para ciudadanos y empresas.",
+      "pagina": 3,
+      "apartado": [
+        "Programa estatal de auditoría de barreras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programa continuo de simplificación con objetivos medibles",
+      "etiquetas": [
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos un panel digital accesible para toda la ciudadanía donde se monitorizará mes a mes el avance de la desburocratización sector por sector, visibilizando los trámites eliminados, el ahorro estimado en horas de trabajo y las normas simplificadas en cada ámbito económico.",
+      "pagina": 3,
+      "apartado": [
+        "Programa estatal de auditoría de barreras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Panel público mensual del avance de la simplificación administrativa",
+      "etiquetas": [
+        "burocracia",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las Comunidades Autónomas deben servir para aproximar la gestión al ciudadano, nunca para fragmentar la economía.",
+      "pagina": 3,
+      "apartado": [
+        "Un país diverso, un mercado sin barreras"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Las comunidades autónomas no deben fragmentar el mercado",
+      "etiquetas": [
+        "organización territorial",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implantaremos un Programa de Armonización Normativa inspirado en los principios de Reconocimiento Mutuo de la Unión Europea: cualquier licencia, homologación, título o requisito aprobado en una comunidad autónoma será automáticamente válido en todo el territorio nacional.",
+      "pagina": 3,
+      "apartado": [
+        "Un país diverso, un mercado sin barreras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Validez nacional automática de licencias y títulos autonómicos",
+      "etiquetas": [
+        "organización territorial",
+        "burocracia",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibiremos por ley que una empresa o profesional tenga que repetir trámites administrativos o pagar tasas duplicadas para operar en distintas regiones de España, asegurando un mercado interno fluido y atractivo para la inversión nacional e internacional.",
+      "pagina": 3,
+      "apartado": [
+        "Un país diverso, un mercado sin barreras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición legal de trámites y tasas duplicadas entre regiones",
+      "etiquetas": [
+        "organización territorial",
+        "burocracia",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

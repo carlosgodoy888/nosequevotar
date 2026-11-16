@@ -1,0 +1,86 @@
+{
+  "partido": "pp",
+  "lote": "pp.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-cf9eee0af6", "motivo": "Primera línea del resumen (un millón de viviendas) y la que Feijóo repite en campaña («lo importante es que vamos a hacer un millón de viviendas»); con cifra, breve y votable.", "texto": null, "cambio": null },
+        { "id": "c-f32f0dd897", "motivo": "Segunda línea del resumen: derogar la Ley de Vivienda; más general que la eliminación de zonas tensionadas, que la concreta.", "texto": null, "cambio": null },
+        { "id": "c-a0d837b348", "motivo": "Tercera línea del resumen (ayuda a la compra de jóvenes): IVA del 4% en la primera vivienda de menores de 40 años, con cifra; el aval de entrada es de la misma línea y pasa de 50 palabras.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-64f6a0239d", "motivo": "Primera línea del resumen (autónomos): cuota cero el primer año para los nuevos autónomos, titular del apartado y con plazo.", "texto": null, "cambio": null },
+        { "id": "c-76dc096756", "motivo": "Segunda línea del resumen (abaratar la contratación): bonificación del 100% de las cotizaciones por el primer trabajador durante un año, con cifras.", "texto": null, "cambio": null },
+        { "id": "c-a6e2cb2de7", "motivo": "Tercera línea del resumen (formación): cheque de formación para cada trabajador; explica la medida completa, a diferencia del titular sobre la inteligencia artificial.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-90746e7c86", "motivo": "Primera línea del resumen: auditoría de todo el gasto en cien días, que Feijóo destaca en campaña («en el primer Consejo de Ministros arrancará una auditoría»); 73 palabras, dentro del límite, y no hay versión más corta equivalente.", "texto": null, "cambio": null },
+        { "id": "c-99a2971e1d", "motivo": "Segunda línea del resumen (disciplina fiscal): ningún gasto nuevo sin garantizar su financiación; breve y votable.", "texto": null, "cambio": null },
+        { "id": "c-7f3d9f1807", "motivo": "Cuarta línea del resumen (impulso industrial): proyectos de al menos cien empleos declarados estratégicos y con tramitación acelerada; la línea de reducción de cargas no tiene candidata propia en este tema.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-4dee3ad7e2", "motivo": "Línea de refuerzo de profesionales del resumen: al menos 4.500 médicos más en Atención Primaria; la medida más concreta y con cifra, y se entiende sola, mientras que la del plan de listas de espera empieza remitiendo a lo anterior («Con ese objetivo»).", "texto": null, "cambio": null },
+        { "id": "c-b315c478f1", "motivo": "Primera línea del resumen: plan urgente de reducción de listas de espera con las comunidades; más concreto que el Pacto de Estado. El «Con ese objetivo» inicial no impide entenderla, porque el propio texto dice para qué es el plan.", "texto": null, "cambio": null },
+        { "id": "c-3df3730856", "motivo": "Tercera línea del resumen: Plan Nacional de Salud Mental 2027-2037 con financiación garantizada.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-b562855e14", "motivo": "Línea central de vía legal y ordenada: cupos anuales de trabajadores por sectores, condicionados a que los países colaboren en los retornos; es lo que Feijóo repite en campaña («establecer cupos máximos y vías legales») y conserva el componente de control.", "texto": null, "cambio": null },
+        { "id": "c-dc9956ce1c", "motivo": "Tercera línea del resumen: prohibir por ley las regularizaciones masivas y hacer excepcional el arraigo; titular destacado y distinto de los cupos.", "texto": null, "cambio": null },
+        { "id": "c-4d95eed4ed", "motivo": "Primera línea del resumen (control de la frontera): más agentes y apoyo de las Fuerzas Armadas en la frontera sur; breve y clara.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-a6fef7e916", "motivo": "Línea anticorrupción del resumen (restablecer las penas por malversación), la que Feijóo destaca en campaña («Quien haya robado, lo pagará»); breve y votable.", "texto": null, "cambio": null },
+        { "id": "c-1430346a3e", "motivo": "Primera línea del resumen (adelgazar la estructura política): menos ministerios, altos cargos y asesores.", "texto": null, "cambio": null },
+        { "id": "c-70ae146b02", "motivo": "Segunda línea del resumen (independencia de las instituciones): reforma de RTVE y EFE en los primeros cien días; lleva plazo y es la de mayor alcance público. La del CIS (c-bc5160fecc) sería una alternativa igual de válida, no claramente mejor.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-e4c1903b9d", "motivo": "Primera línea del resumen: sustituir la LOMLOE por un nuevo marco acordado; el cambio de fondo del que cuelgan las demás medidas.", "texto": null, "cambio": null },
+        { "id": "c-61fd806392", "motivo": "Segunda línea del resumen: libre elección de colegio y mantenimiento de los conciertos donde haya demanda; titular destacado.", "texto": null, "cambio": null },
+        { "id": "c-141cb3adf3", "motivo": "Tercera línea del resumen: escuela infantil de 0 a 3 años gratuita, con reparto de financiación y plazo.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-d28657f2f3", "motivo": "Primera línea del resumen: eliminar el calendario de cierre de las nucleares y extender su vida útil en los primeros cien días; medida titular de su política energética.", "texto": null, "cambio": null },
+        { "id": "c-d0629e0d0f", "motivo": "Tercera línea del resumen: Pacto Nacional del Agua con hasta 40.000 millones hasta 2030; lo destaca el partido en campaña.", "texto": null, "cambio": null },
+        { "id": "c-aad647fc71", "motivo": "Segunda línea del resumen: suprimir de inmediato el impuesto del 7% a la producción eléctrica y bajar la carga fiscal del recibo. El titular añade la Tarifa Social Única, pero son dos acciones de la misma línea (abaratar la luz) y se puede votar con claridad; no hay otra candidata con la rebaja fiscal.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "corregida",
+      "motivo": "El texto está literalmente entre comillas en El Enclave (publicado el 11-11-2026), atribuido a Roberto Vaquero: «En este sentido, Vaquero ha reclamado «un sindicalismo de clase, independiente y combativo, que no viva de las subvenciones ni de los pactos con el poder»». Fecha, tema y clase son correctos. El artículo lo presenta como «presidente del Frente Obrero y candidato por Madrid a las próximas elecciones generales», pero no dice que sea cabeza de lista, así que se ajusta el cargo a lo que dice la fuente.",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: presidente del Frente Obrero y candidato por Madrid"
+    },
+    {
+      "n": 2,
+      "veredicto": "rechazada",
+      "motivo": "El fragmento está literalmente entre comillas en El Diario de Madrid (16-11-2026) y también en El Enclave (16-11-2026), atribuido a la formación. Pero la parte literal es solo una oración de relativo sin antecedente: «que responda a los intereses de España y no a los de Marruecos, EEUU o Israel». Las palabras «una política exterior» son del periodista («La formación reclama una política exterior «que responda...»»), así que no pueden añadirse a la cita. Sola, la cita no dice qué es lo que debe responder a esos intereses: no se entiende sola. Las propuestas concretas del partido en esa noticia (romper relaciones diplomáticas con Marruecos y desplegar el Ejército en Ceuta y Melilla) aparecen solo como paráfrasis del periodista, sin comillas.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    }
+  ],
+  "notas": "robots.txt de elenclave.es y de eldiariodemadrid.es leídos enteros: permiten el acceso a todos los agentes (solo prohíben rutas de administración, API, comentarios y similares) y no nombran a agentes de IA. Ambas páginas se abrieron sin bloqueo ni muro de pago. Fechas de publicación según los metadatos: El Enclave, 2026-11-11T13:10 (hora peninsular); El Diario de Madrid, 2026-11-16T13:19. Para la cita 2 también se abrió la versión de El Enclave (https://elenclave.es/frente-obrero-lona-sanchez-mohamed-vi-besandose/), que trae exactamente el mismo fragmento entrecomillado introducido por «la organización reclama una política exterior», sin una versión más completa. El rechazo de la cita 2 es por el criterio de que se entienda sola; si se decidiera mostrarla con la frase introductoria del periodista claramente separada, el texto literal y la atribución al partido son correctos."
+}

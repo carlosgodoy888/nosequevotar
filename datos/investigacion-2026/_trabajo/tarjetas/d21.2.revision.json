@@ -1,0 +1,131 @@
+{
+  "partido": "d21",
+  "lote": "d21.2",
+  "temas": [
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-ba9fa886f6",
+          "motivo": "Es el objetivo que encabeza su postura en educación (España en el top 10 europeo de PISA en ocho años como máximo); lleva cifra y plazo y de él cuelgan la mayoría de sus medidas escolares.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-f4d57fa9ee",
+          "motivo": "Cubre su segunda línea, la formación y la carrera docente, con su medida más reconocible: el MIR Educativo de dos años de prácticas remuneradas.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-7c5bbbb1e9",
+          "motivo": "Cubre su línea universitaria y de becas (pagar las becas al inicio de curso), recogida en el resumen; el cheque guardería del 50%, la otra línea que queda fuera, tiene 91 palabras y no cabe.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-77b372fcbc",
+          "motivo": "Representa su primera línea, una regulación energética previsible y con seguridad jurídica para la inversión (prohibir los cambios retroactivos), que el resumen cita expresamente; corta y votable.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-0ee49eb9cd",
+          "motivo": "Cubre su línea del agua con la medida que la encabeza en el resumen: una Comisión Técnica del Agua independiente con un plan de inversiones vinculante.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-c63947f808",
+          "motivo": "Cubre su línea contra los incendios con la cifra que la define: gestionar un millón de hectáreas al año.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-647eda98a7",
+          "motivo": "Es la primera línea de su resumen: reforzar el pilar europeo de la OTAN con compras conjuntas de armamento e interoperabilidad. Lo que destaca en campaña (Ceuta y Melilla) no tiene medida candidata.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-bb55e46d93",
+          "motivo": "Cubre su línea de la carrera militar, la que más medidas ocupa en el tema, con la principal: acabar con la salida forzosa de soldados y marineros a los 45 años.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-69e4152e19",
+          "motivo": "Cubre su línea europea del Estado de derecho: congelar fondos de la UE a los gobiernos que lo vulneren; la de Draghi y Letta tiene 71 palabras y mezcla varias acciones.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-d3573c41d6",
+          "motivo": "La lucha contra la corrupción y la regeneración de la justicia es, con diferencia, el bloque con más medidas del tema; la inhabilitación de por vida de los políticos condenados figura en el resumen y su apartado la destaca.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-081d3456c1",
+          "motivo": "Cubre su línea de una justicia más rápida: nueva ley procesal para acortar las instrucciones y actuar contra la multirreincidencia.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-3f5a8942cc",
+          "motivo": "Cubre su línea policial con la medida que la abre en el resumen: dimensionar las plantillas según la carga real de trabajo.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-c9ca20a36e",
+          "motivo": "Es el compromiso que encabeza su postura: una ley que obligue a reducir la pobreza infantil a la mitad en la legislatura, con cifra y plazo.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-053f993fd3",
+          "motivo": "Cubre su segunda línea, reunir todas las ayudas en un Escudo Social Único; el Bono Crianza de esa misma línea tiene 108 palabras y no cabe.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-8e2ee81f8b",
+          "motivo": "Cubre su línea de reconocer otros modelos de familia: el título de familia monoparental desde el primer hijo, reconocido de oficio. El «Por eso,» inicial no impide entenderla sola; el permiso parental retribuido no tiene medida candidata.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    }
+  ]
+}

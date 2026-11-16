@@ -1,0 +1,90 @@
+{
+  "partido": "frente-amplio",
+  "lote": "frente-amplio.4",
+  "temas": [
+    {
+      "tema": "igualdad-y-derechos",
+      "elegidas": [
+        { "id": "c-a10aa9ecf4", "motivo": "Es el primer punto de su postura (blindar por ley al menos el 5 % del presupuesto para igualdad), lleva cifra y encaja con el feminismo que su candidata presenta en campaña como motor de su programa.", "texto": null, "cambio": null },
+        { "id": "c-abb812b05c", "motivo": "Cubre la segunda línea, los derechos sexuales y reproductivos: el blindaje constitucional del aborto en la sanidad pública, medida breve y clara.", "texto": null, "cambio": null },
+        { "id": "c-ffe86361d3", "motivo": "Representa la memoria democrática, el bloque con más medidas del tema; la resignificación de Cuelgamuros figura en su resumen y se entiende sola, mientras que la de reparación integral pasa de 80 palabras.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-3e033ffd3c", "por_que_no": "Subir un 10 % anual la partida contra la violencia de género también está en el primer punto, pero es la misma línea presupuestaria que la elegida y menos amplia." },
+        { "id": "c-6a092b8688", "por_que_no": "La revisión de los Acuerdos con la Santa Sede representa bien la línea de laicidad, pero con tres huecos pesa más la memoria democrática, que tiene muchas más medidas." },
+        { "id": "c-fdd0718372", "por_que_no": "Derogar la Ley Mordaza está en el resumen, pero es una medida aislada dentro de un tema centrado en igualdad, violencia machista y memoria; además es el nombre popular de una ley." }
+      ],
+      "nota": "Quedan fuera por espacio la laicidad (Santa Sede, financiación de confesiones) y la Ley Trans; la de reparación integral de víctimas (c-bb7c73fab6) pasa de 80 palabras."
+    },
+    {
+      "tema": "pensiones",
+      "elegidas": [
+        { "id": "c-31ce5d663f", "motivo": "La vuelta a la jubilación a los 65 es una de las dos medidas que presentó en campaña en la manifestación por las pensiones; es corta y clara.", "texto": null, "cambio": null },
+        { "id": "c-4921e52c41", "motivo": "Cubre la subida por encima de la media de las pensiones más bajas y no contributivas, lo más cercano a la Pensión Mínima Garantizada que destaca en campaña (la de la Constitución pasa de 80 palabras).", "texto": null, "cambio": null },
+        { "id": "c-67548cec88", "motivo": "Recoge la financiación que explica en campaña: elevar el tope de cotización y una aportación de las empresas más automatizadas.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-7a9bccedda", "por_que_no": "Es el primer punto de su postura (pensión pública, IPC y ninguna por debajo del SMI en la Constitución), pero tiene 85 palabras." },
+        { "id": "c-7629158d18", "por_que_no": "Jubilación a los 60 en oficios penosos: misma línea de edad de jubilación que la elegida, más concreta y menos central." },
+        { "id": "c-e6b900bb21", "por_que_no": "Eliminar coeficientes reductores con más de 40 años cotizados: también de la línea de edad de jubilación, secundaria frente a los 65." }
+      ],
+      "nota": "La medida más representativa (blindaje constitucional con pensión mínima igual al SMI) supera las 80 palabras."
+    },
+    {
+      "tema": "transporte",
+      "elegidas": [
+        { "id": "c-f54cc017a4", "motivo": "Unificar Adif y Renfe en un operador público es la propuesta que su nota de campaña pone «en primer lugar» y resume su apuesta por un tren público centrado en las Cercanías.", "texto": null, "cambio": null },
+        { "id": "c-a943f17e0d", "motivo": "Destinar al tren los casi 13.000 millones del plan de ampliación de aeropuertos es la línea de inversión ferroviaria frente al avión, propuesta por su candidata en campaña.", "texto": null, "cambio": null },
+        { "id": "c-4ac61d560c", "motivo": "Cubre la cuarta línea de su postura: prohibir vuelos domésticos con alternativa en tren de 2,5 horas, coherente con su discurso contra el avión.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-325209e2b1", "por_que_no": "El abono único estatal es el primer punto de su postura, pero la medida tiene 95 palabras." },
+        { "id": "c-8f38af2844", "por_que_no": "Mezcla tres acciones distintas (electrificación, abono único y tren público) y lleva aviso de nombrar a otro partido." },
+        { "id": "c-9ae8c51f7a", "por_que_no": "Triplicar la inversión en Cercanías es de la misma línea de inversión que la de los fondos de aeropuertos, que es la que destaca en campaña." }
+      ],
+      "nota": "La línea del abono único no tiene ninguna medida de 80 palabras o menos que se entienda sola."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "elegidas": [
+        { "id": "c-36f9c231cf", "motivo": "Al menos un 2,3 % del PIB adicional a la financiación autonómica es su medida central con cifra en el tema; la línea del Estado federal y plurinacional no tiene medida concreta entre las candidatas.", "texto": null, "cambio": null },
+        { "id": "c-96d9efbb4e", "motivo": "Cubre la financiación municipal: participación de los ayuntamientos en los tributos del Estado hasta el 2,5 % del PIB, con calendario.", "texto": null, "cambio": null },
+        { "id": "c-79abbbeeb8", "motivo": "Cubre la línea de lenguas: ley del plurilingüismo, tema que sacan sus dirigentes en campaña.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-cabeefaafa", "por_que_no": "Impulsar la reforma de la financiación autonómica es demasiado genérico; la del 2,3 % concreta lo mismo." },
+        { "id": "c-395ebf2f05", "por_que_no": "Mezcla un plan de aprendizaje de lenguas cooficiales con la inmersión en catalán; la ley del plurilingüismo representa mejor la línea." },
+        { "id": "c-c808742bae", "por_que_no": "La reforma de la regla de gasto municipal está en su resumen, pero es técnica y secundaria frente al aumento de financiación." }
+      ],
+      "nota": "No hay medida concreta y que se entienda sola sobre la república federal, el derecho a decidir o el Senado; Rodalies figura en el tema de transporte."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "elegidas": [
+        { "id": "c-f095286c5c", "motivo": "Es el primer punto de su postura: una ley de transición agroecológica con un 25 % de superficie ecológica en 2030 y el 100 % en 2050.", "texto": null, "cambio": null },
+        { "id": "c-a6d572bbb9", "motivo": "Cubre la reorientación de la PAC hacia explotaciones familiares excluyendo a fondos de inversión, segunda línea de su postura.", "texto": null, "cambio": null },
+        { "id": "c-c4e99a1a54", "motivo": "Cubre la despoblación con su medida más concreta: servicios básicos a menos de 30 minutos fijados por ley.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-dab7c543c8", "por_que_no": "Tiene los mismos objetivos del 25 % y el 100 % y es más corta, pero no menciona la ley y su redacción («producción ganadera 100 % ecológica») confunde." },
+        { "id": "c-218fa7612c", "por_que_no": "No autorizar nuevas macrogranjas está en su resumen, pero con tres huecos se prefirió la PAC y la despoblación para cubrir más líneas." },
+        { "id": "c-4630569fef", "por_que_no": "El banco público de tierras está en su resumen y conecta con el relevo generacional del que habla en campaña, pero quedó fuera por espacio." }
+      ],
+      "nota": "La medida de la pesca de arrastre (c-f29c09d3ca) pasa de 80 palabras."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "elegidas": [
+        { "id": "c-a6475b38ae", "motivo": "Es el primer punto de su postura: inversión en I+D+i del 3 % del PIB en 2030, con cifra y plazo y muy breve.", "texto": null, "cambio": null },
+        { "id": "c-926f597edb", "motivo": "Cubre la regulación de las grandes plataformas: que la CNMC las supervise y pueda multarlas con hasta el 6 % de su facturación; la defienden sus portavoces en campaña.", "texto": null, "cambio": null },
+        { "id": "c-64dd02a076", "motivo": "Cubre la línea de cultura con su medida central: una inversión mínima por ley del 0,2 % del PIB.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-b270c24c40", "por_que_no": "Prohibir a los chatbots que simulen vínculos sentimentales es llamativa, pero no es el centro de su postura." },
+        { "id": "c-f790d0a2d1", "por_que_no": "Derogar la ley que protege la tauromaquia está en su resumen, pero es más polémica y menos central que la inversión en cultura." },
+        { "id": "c-4ec7285bce", "por_que_no": "La ley de uso de la IA en la administración es la cuarta línea de su postura; con tres huecos pesan más la I+D, las plataformas y la cultura." }
+      ],
+      "nota": ""
+    }
+  ]
+}

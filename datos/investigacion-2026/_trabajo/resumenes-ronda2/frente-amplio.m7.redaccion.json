@@ -1,0 +1,27 @@
+{
+  "resumenes": [
+    {
+      "tema": "democracia-e-instituciones",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Plantea avanzar hacia una «República Federal» y «plurinacional», con Jefatura del Estado elegida y regulación del referéndum.",
+          "apoyos": ["c-41aaedce80", "c-1367dffaf4", "c-bc5cd39580", "c-880bbe1c1e"]
+        },
+        {
+          "texto": "Propone proporcionalidad directa a nivel nacional en el sistema electoral, voto a los 16 años y rebajar de 500.000 a 250.000 las firmas de la iniciativa legislativa popular.",
+          "apoyos": ["c-0e33e41461", "c-f36fd088c3", "c-008adf13c5"]
+        },
+        {
+          "texto": "En corrupción, propone una Oficina Independiente contra la Corrupción, una ley de grupos de interés y vetar veinte años la contratación pública a los condenados.",
+          "apoyos": ["c-e4444c38be", "c-4c94d7354a", "c-7dba353248", "c-0c509a2c63"]
+        },
+        {
+          "texto": "Quiere reformar la ley del Poder Judicial para que ningún partido bloquee la renovación del CGPJ.",
+          "apoyos": ["c-e275025381"]
+        }
+      ],
+      "nota": "Todo sale del programa de 2026; la declaración c-0c509a2c63 solo refuerza el veto de 20 años, que ya figura en el programa. Muchas citas del tema son de otros ámbitos (vivienda, sanidad, fiscalidad, contratación) y no se usan. Por el límite de palabras quedan fuera las medidas sobre medios (registro de propiedad, publicidad institucional), la derogación de delitos de injurias y ultrajes y la reforma del artículo 135."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "resumenes": [
+    {
+      "tema": "economia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una banca pública de crédito para pymes, cooperativas y familias, y más presencia del Estado en sectores estratégicos.", "apoyos": ["c-485aceb77d", "c-534ecb9570"] },
+        { "texto": "Defiende hojas de ruta con financiación propia para reindustrializar sectores como la cerámica, el calzado, el juguete o la automoción.", "apoyos": ["c-5ff56e7eb6"] },
+        { "texto": "Para el pequeño comercio plantea ayudas a fondo perdido y créditos blandos, y reducir un 50 % los domingos y festivos de apertura.", "apoyos": ["c-6bd8bf3c6c", "c-3e4c08e8c0"] },
+        { "texto": "Propone además una tasa de 2 euros por noche en viviendas turísticas y quitar al pago de la deuda su prioridad en el artículo 135 de la Constitución.", "apoyos": ["c-7987576d25", "c-da4d13d8de"] }
+      ],
+      "nota": "Se omiten las medidas de energía (empresa pública, titularidad pública de las eléctricas) por pertenecer más bien a ese tema; además, el programa da dos cifras distintas para Red Eléctrica (100 % y al menos 51 %). Queda fuera la declaración de Àgueda Micó sobre topar el precio de la energía y los alimentos básicos (6-11-2026) por falta de espacio."
+    },
+    {
+      "tema": "sanidad",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone blindar la gestión pública de la sanidad derogando la Ley 15/1997 y garantizar la atención sanitaria sin discriminación por origen o situación administrativa.", "apoyos": ["c-2e3e2bd176", "c-79e4c54a28"] },
+        { "texto": "Quiere fijar por ley una financiación mínima, ratios y listas de espera máximas en atención primaria, y aprobar un pacto estatal por la salud mental.", "apoyos": ["c-9013292324", "c-fcf54151c4"] },
+        { "texto": "Plantea suprimir el copago farmacéutico de pensionistas, incluir odontología, oftalmología, podología y nutrición en el Sistema Nacional de Salud y crear una industria farmacéutica pública.", "apoyos": ["c-b2d750a4c3", "c-c7411ad8da", "c-2c5682479d"] }
+      ],
+      "nota": "Quedan fuera por espacio la declaración de su cabeza de lista por Alicante sobre la gestión pública directa de los hospitales valencianos (ámbito autonómico) y las reclamaciones de deuda sanitaria con la Generalitat Valenciana."
+    },
+    {
+      "tema": "educacion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone avanzar hacia una inversión educativa del 7 % del PIB, que la red concertada sea subsidiaria de la pública y prohibir ceder suelo público a centros privados.", "apoyos": ["c-4a5ba092d7", "c-2de0ecbc62", "c-d188a1e940"] },
+        { "texto": "Plantea un comedor escolar gratuito y universal y ampliar la red pública de 0 a 3 años avanzando hacia su gratuidad.", "apoyos": ["c-4b7ef4abb9", "c-3f8bdafcb6"] },
+        { "texto": "En la universidad quiere tasas menores para quien menos recursos tiene, becas pagadas a principio de curso y limitar la proliferación de universidades privadas.", "apoyos": ["c-42e8d4ae51", "c-4f30ec2f84", "c-aefe0e2129"] },
+        { "texto": "Defiende además una escuela pública laica, sin enseñanza confesional en el currículo.", "apoyos": ["c-fd9bd9ac36"] }
+      ],
+      "nota": "Queda fuera por espacio el plan de bioclimatización de los más de 28.000 centros educativos (c-f49b11ae15) y la ampliación de la FP pública."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una prestación universal por crianza de 200 euros mensuales por hijo, mayor para familias monoparentales y para hijos con diversidad funcional superior al 60 %.", "apoyos": ["c-2223897ad0", "c-70a99d12a6"] },
+        { "texto": "Plantea remunerar progresivamente las ocho semanas de permiso por cuidado de hijos y equiparar las ayudas de las familias monoparentales con las de las numerosas.", "apoyos": ["c-2f67a5afc6", "c-ba3d2273c4"] },
+        { "texto": "En dependencia, quiere que el Estado financie el 50 % del sistema y aprobar un Estatuto de las Personas Cuidadoras con derechos sociolaborales.", "apoyos": ["c-8f8f9601a3", "c-974e833ced"] },
+        { "texto": "También propone recuperar el derecho civil valenciano para regular permisos de cuidados en uniones entre amistades.", "apoyos": ["c-09de875629", "c-a12320dc88"] }
+      ],
+      "nota": "La última frase sigue el programa (reforma constitucional para recuperar el derecho civil valenciano); la declaración de Alberto Ibáñez solo la refuerza."
+    },
+    {
+      "tema": "inmigracion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone regularizar a las personas migrantes que viven en España y facilitar su documentación y autorización de trabajo.", "apoyos": ["c-797162ea89", "c-42ac1cdbf1"] },
+        { "texto": "Pide eliminar los CIE, prohibir lo que llama «devoluciones ilegales encubiertas» bajo retornos voluntarios y que el Gobierno lleve el Pacto Europeo de Migración y Asilo al TJUE.", "apoyos": ["c-2fe22414dd", "c-db2a49d91d", "c-795d09ff1c"] },
+        { "texto": "También plantea ampliar el derecho de voto de los migrantes, garantizar su acceso a la sanidad pública y una acogida digna que proteja a los menores.", "apoyos": ["c-375e489f14", "c-79e4c54a28", "c-127202b3f5"] }
+      ],
+      "nota": ""
+    }
+  ]
+}

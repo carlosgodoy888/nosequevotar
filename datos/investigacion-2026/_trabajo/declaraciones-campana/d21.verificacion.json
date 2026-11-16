@@ -1,0 +1,68 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Literal en el cuerpo de la noticia de Onda Cero (12-11-2026, 23:30, entrevista en La Brújula), entre comillas y atribuida a Miriam González. En el titular dice «aquí» y en el cuerpo «ahí»: se usa la del cuerpo. Es un compromiso sobre pactos y gobernabilidad y se entiende solo.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "corregida",
+      "motivo": "Texto literal correcto en la entrevista de The Objective (publicada el 11-11-2026; la conversación se hizo, como pronto, el martes 10, porque habla en pasado de «este lunes»). Pero empieza con «Y de esas», que remite a la frase anterior y sola no se entiende; se antepone esa frase, también literal y del mismo párrafo.",
+      "cita_corregida": "Pero nosotros tenemos 21 medidas de limpieza absolutamente claras. Y de esas, hay algunas que especificaremos antes de las elecciones, que para nosotros son totalmente innegociables: el volver a poner el concepto de mérito y capacidad en todo el sistema del Estado, en la Administración por debajo del nivel de secretario de Estado. Todo tiene que ser por mérito, capacidad y procedimientos abiertos, eliminar 90% de los asesores, quitar a políticos y expolíticos tanto de empresas públicas como de organismos independientes.",
+      "campos_corregidos": "nota: Condiciones que considera innegociables, dentro de sus 21 medidas, ante un posible apoyo a un Gobierno"
+    },
+    {
+      "n": 3,
+      "veredicto": "rechazada",
+      "motivo": "El fragmento sí está entre comillas en la noticia de Europa Press en Infobae (16-11-2026), pero no se entiende solo: «El que primero venga aquí y que se comprometa» no dice a qué se compromete; el contexto (las 21 medidas de limpieza como condición para la investidura) es paráfrasis de la periodista y no forma parte de la cita.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "comprobada",
+      "motivo": "Literal en Onda Cero (12-11-2026), entre comillas y atribuida a Miriam González, y destacada también como sumario. Es una propuesta sobre vivienda y se entiende sola.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 5,
+      "veredicto": "rechazada",
+      "motivo": "El texto es literal (The Objective, 11-11-2026), pero no es una propuesta ni una postura sobre vivienda: anuncia que se sumará a la huelga general «por una limpieza general» y critica al Ministerio de Vivienda por no dar soluciones, sin decir qué haría. La primera frase («No sé si es positiva o negativa esta convocatoria...») no tiene contenido, y el tema secundario empleo no se apoya en el texto.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 6,
+      "veredicto": "comprobada",
+      "motivo": "Literal en Onda Cero (12-11-2026), entre comillas y atribuida a ella. Es su diagnóstico sobre cómo se financian las pensiones y se entiende solo. En el mismo párrafo el medio cuenta, con sus palabras, que está a favor de revalorizarlas con el IPC y de abrir una reflexión técnica sobre su sostenibilidad; si se quiere evitar una lectura parcial, puede mencionarse en la nota.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 7,
+      "veredicto": "comprobada",
+      "motivo": "Literal en la noticia de Europa Press que publica Infobae (16-11-2026, entrevista en Radiocable de «este lunes»), entre comillas y atribuida a Miriam González, «líder de Democracia 21 y candidata a la presidencia del Gobierno». Es una postura sobre inmigración que se entiende sola.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 8,
+      "veredicto": "corregida",
+      "motivo": "Texto literal correcto (The Objective, 11-11-2026). Lo dice al responder sobre la situación migratoria en Ceuta tras lo ocurrido a finales de julio. Sin ese contexto, no se sabe a qué se refiere «La solución pasa»; se completa la nota.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Ante la situación migratoria en Ceuta, propone que Ceuta y Melilla entren plenamente en la unión aduanera y en Schengen"
+    },
+    {
+      "n": 9,
+      "veredicto": "corregida",
+      "motivo": "Texto literal (The Objective, 11-11-2026), pero dice «Han fallado dos cosas» y solo explica una, y las dos primeras frases solo atribuyen responsabilidades. Se recorta a la parte con contenido: su diagnóstico sobre la inversión en infraestructuras. La segunda frase también es literal y sigue en la misma respuesta.",
+      "cita_corregida": "hay una caída de la inversión en infraestructuras y en mantenimiento que ni siquiera hemos recuperado los niveles de 2008. Cae claramente, pues a partir del 2008 hasta el 2014 más o menos, hay una caída brutal.",
+      "campos_corregidos": "nota: Diagnóstico sobre la inversión en infraestructuras y mantenimiento, preguntada por el accidente ferroviario de Urda"
+    }
+  ],
+  "notas": "Robots.txt revisados: ondacero.es, theobjective.com e infobae.com no prohíben el acceso a agentes de IA ni a todos los agentes en las rutas usadas. Se abrieron las tres fuentes. Fechas: Onda Cero, 12-11-2026 23:30; The Objective, publicada el 11-11-2026 a las 05:25; Infobae/Europa Press, 16-11-2026. La entrevista de The Objective menciona en pasado la polémica de «este lunes» (9-11) y en futuro la huelga de «este miércoles» (11-11), así que se hizo el 10 o el 11 de noviembre, dentro del periodo. Cargo: The Objective la llama «presidenta de Democracia 21» y Europa Press, «líder de Democracia 21 y candidata a la presidencia del Gobierno». Que es número 1 por Madrid sale de la ficha del proyecto (datos/investigacion-2026/partidos/d21.md, según el BOE), no de estas páginas. Tras la revisión, democracia-e-instituciones tiene 2 citas, vivienda 1, pensiones 1, inmigración 1, política exterior 1 y transporte 1. Para el hueco de la cita 5, en la misma entrevista de Onda Cero el medio solo parafrasea el plan de barrios y el de reconciliación entre inquilinos y propietarios, sin frases literales sobre ellos."
+}

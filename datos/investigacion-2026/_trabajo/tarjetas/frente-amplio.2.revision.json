@@ -1,0 +1,131 @@
+{
+  "partido": "frente-amplio",
+  "lote": "frente-amplio.2",
+  "temas": [
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-24161a37cc",
+          "motivo": "Representa su línea central de sanidad «100 % pública y de gestión directa»: derogar la ley que abrió la gestión a entidades privadas y dejar la gestión indirecta como excepción (puntos 1 y 2 del resumen). Es más concreta que la ley de gestión pública (c-e49e746046), que además lleva «de nuevo». La bucodental, aunque es lo que más destacan en campaña, es una línea secundaria del resumen y no representa por sí sola su postura.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-06e335b5f8",
+          "motivo": "Línea de ampliar la cartera pública (bucodental), la que más destacan en campaña (nota de prensa y Colau el 14-11), con la cifra del 50 % de la población que repiten.",
+          "texto": "Salud bucodental: Continuaremos la ampliación de la cobertura bucodental (menores hasta 14 años, embarazadas, mayores de 65 años, pacientes oncológicos específicos) hasta alcanzar al menos el 50 % de la población residente al final de la legislatura.",
+          "cambio": "Se ha quitado «realizada en esta legislatura» detrás de «cobertura bucodental», porque alude al trabajo de gobierno de la propia candidatura; no hay otra medida de bucodental equivalente. El resto del texto es idéntico al original."
+        },
+        {
+          "id": "c-2bf59bfd94",
+          "motivo": "Línea de financiación: suelo del 8 % del PIB para la sanidad pública, cifra que encabeza su postura en el tema.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-3f876c5370",
+          "motivo": "Su línea principal (punto 1 del resumen): reformar la Ley de Extranjería para tener un procedimiento estable y permanente de regularización; más general y duradera que culminar la regularización de 2026.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-04551aa623",
+          "motivo": "Línea de fronteras y detención (punto 2 del resumen): cierre de los CIE, medida clara y central de su bloque sobre la Frontera Sur.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-75dd491a02",
+          "motivo": "Línea de asilo (punto 3 del resumen): registrar la solicitud en 5 días, con plazos y consecuencia automática; más tangible para quien lee que la agencia unificada.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-7dba353248",
+          "motivo": "Línea anticorrupción, la que más destacan en campaña (nota de prensa y Colau el 13-11): veto de veinte años a la contratación pública para condenados por corrupción, con cifra. Su primera línea (República Federal) no tiene medida candidata válida.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-0e33e41461",
+          "motivo": "Línea de reforma del sistema electoral: proporcionalidad directa a nivel nacional, la primera de sus propuestas electorales en el resumen.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-76fa17bdc3",
+          "motivo": "Línea de transparencia en los medios: registro público de su propiedad y de la publicidad que reciben.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-e546522172",
+          "motivo": "Su línea principal: ley que blinde el gasto en educación pública hasta el 7 % del PIB en 2030, con cifra y plazo.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-6477f813b4",
+          "motivo": "Línea de gratuidad: comedor escolar gratuito y universal en Infantil y Primaria públicas.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-d1ccf6002d",
+          "motivo": "Línea de que todos los fondos públicos vayan a la red pública: prohibir las cuotas en los concertados mientras existan, con el objetivo del 100 % de fondos a la pública. Las ratios por aula no tienen medida que se entienda sola (c-5d6862e291 acaba en dos puntos y c-3fe9c7fa79 empieza por las cifras).",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-3cb6a198ab",
+          "motivo": "Su línea principal: compromiso legal de destinar el 3,5 % del PIB anual a la transición ecológica, cifra que encabeza su programa; más concreta que la versión de la introducción.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-be296fb898",
+          "motivo": "Línea de intervención pública en la energía: tres horas de luz gratis al día con la comercializadora pública, medida que el programa destaca en su introducción.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-4b7f3026d7",
+          "motivo": "Línea nuclear: cumplir el calendario de cierre, con Almaraz en 2027-2028.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    }
+  ]
+}

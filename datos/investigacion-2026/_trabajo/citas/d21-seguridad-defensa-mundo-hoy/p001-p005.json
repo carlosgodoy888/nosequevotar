@@ -1,0 +1,498 @@
+{
+  "fuente": "d21-seguridad-defensa-mundo-hoy",
+  "partido": "d21",
+  "paginas": [
+    1,
+    5
+  ],
+  "citas": [
+    {
+      "cita": "Es hora de dar un salto con una policía moderna que se anticipe con datos y tecnología, una justicia que llegue a tiempo y respaldo real a quienes nos protegen, de la comisaría al cuartel.",
+      "pagina": 2,
+      "apartado": [
+        "Seguridad y defensa para el mundo de hoy"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo de policía, justicia y apoyo a los cuerpos de seguridad",
+      "etiquetas": [
+        "seguridad",
+        "justicia",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Porque la seguridad es una condición indispensable de una democracia sólida.",
+      "pagina": 2,
+      "apartado": [
+        "Seguridad y defensa para el mundo de hoy"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La seguridad como condición de la democracia",
+      "etiquetas": [
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "dimensionaremos cada plantilla según la carga real de trabajo, los tiempos de respuesta y las características del territorio, con un núcleo estable de patrulla y proximidad que nunca baje de mínimos y, sobre él, unidades móviles y especializadas —reorientando las que ya existen— que, guiadas por datos, se concentren en los lugares, días y horas donde se repiten los mismos delitos, sin desatender la España rural.",
+      "pagina": 2,
+      "apartado": [
+        "Una policía moderna y cercana",
+        "Cada Agente, Donde Más Se Le Necesita"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Distribución de plantillas policiales según carga de trabajo y datos",
+      "etiquetas": [
+        "seguridad",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las tareas administrativas y técnicas pasarán a personal civil cualificado, y publicaremos las horas de patrulla e investigación recuperadas.",
+      "pagina": 2,
+      "apartado": [
+        "Una policía moderna y cercana",
+        "Cada Agente, Donde Más Se Le Necesita"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tareas administrativas policiales a personal civil",
+      "etiquetas": [
+        "seguridad",
+        "empleo público",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "primero simplificaremos procedimientos y después completaremos su digitalización: eliminaremos registros duplicados, profundizaremos en la integración de los sistemas que comparten Policía Nacional, Guardia Civil, policías autonómicas y locales, y usaremos inteligencia artificial para transcribir, clasificar y cruzar información, siempre con supervisión humana, auditoría de errores y sesgos, y atención presencial garantizada para quien la necesite.",
+      "pagina": 2,
+      "apartado": [
+        "Una policía moderna y cercana",
+        "Comisaría Digital - Menos Papel, Más Calle"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Simplificación y digitalización de procedimientos policiales con IA",
+      "etiquetas": [
+        "seguridad",
+        "burocracia",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Extenderemos a la Policía Nacional la denuncia online sin ratificación presencial que la Guardia Civil ofrece desde 2025, para todos los delitos en que la ley lo permite, con seguimiento del caso.",
+      "pagina": 2,
+      "apartado": [
+        "Una policía moderna y cercana",
+        "Comisaría Digital - Menos Papel, Más Calle"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Denuncia online sin ratificación presencial en la Policía Nacional",
+      "etiquetas": [
+        "seguridad",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Interior publicará cada año, al estilo de las que elabora Europol, una evaluación pública y territorializada de las amenazas emergentes.",
+      "pagina": 2,
+      "apartado": [
+        "Una policía moderna y cercana",
+        "Anticipar, Planificar y Rendir Cuentas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Evaluación anual pública de amenazas emergentes",
+      "etiquetas": [
+        "seguridad",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada territorio tendrá un plan integral que coordine policía, seguridad privada, servicios sociales, educación, salud y urbanismo, con objetivos verificables, una figura responsable y presupuesto propio.",
+      "pagina": 3,
+      "apartado": [
+        "Una policía moderna y cercana",
+        "Anticipar, Planificar y Rendir Cuentas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Planes integrales territoriales de seguridad",
+      "etiquetas": [
+        "seguridad",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y publicaremos un cuadro de mando abierto y trimestral por municipio con auditorías para que ninguna cifra se maquille.",
+      "pagina": 3,
+      "apartado": [
+        "Una policía moderna y cercana",
+        "Anticipar, Planificar y Rendir Cuentas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Datos trimestrales de seguridad por municipio auditados",
+      "etiquetas": [
+        "seguridad",
+        "transparencia",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "garantizaremos por ley que la profesión de riesgo suponga jubilación anticipada sin recorte de pensión para toda la Policía Nacional, la Guardia Civil y el Servicio de Vigilancia Aduanera, y culminaremos la equiparación salarial comprometida en 2018.",
+      "pagina": 3,
+      "apartado": [
+        "Respaldo a quienes nos protegen",
+        "Profesión de Riesgo Sin Letra Pequeña y Carrera por Mérito"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Profesión de riesgo y equiparación salarial de policías y guardias civiles",
+      "etiquetas": [
+        "seguridad",
+        "pensiones",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Retendremos el talento con una carrera transparente: libre designación solo para puestos de confianza estricta y concursos con baremos públicos, más peso de la formación continua en la carrera y una atención psicológica reforzada y de fácil acceso.",
+      "pagina": 3,
+      "apartado": [
+        "Respaldo a quienes nos protegen",
+        "Profesión de Riesgo Sin Letra Pequeña y Carrera por Mérito"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Carrera policial por concurso y atención psicológica",
+      "etiquetas": [
+        "seguridad",
+        "empleo público",
+        "salud mental"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "las Zonas de Especial Singularidad son una figura sin regulación que depende de la voluntad de cada Gobierno. La crearemos por ley, con criterios objetivos y públicos (presión del crimen organizado, agresiones a agentes, vacantes y rotación) y revisión periódica según los datos, garantizando a quien ya esté destinado los incentivos durante todo su compromiso de permanencia. Supondrá complemento económico, puntuación preferente para la carrera, ayuda a la vivienda y apoyo a las familias para agentes, jueces, fiscales y funcionarios que se comprometan a permanecer varios años. Incluirá protocolos de protección personal, digital y patrimonial para jueces y fiscales frente a cualquier coacción.",
+      "pagina": 3,
+      "apartado": [
+        "Respaldo a quienes nos protegen",
+        "Destinos de Alta Presión, con Incentivos a la Altura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Regulación por ley de las Zonas de Especial Singularidad e incentivos",
+      "etiquetas": [
+        "seguridad",
+        "justicia",
+        "narcotráfico"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Haremos una revisión independiente y periódica de los medios de las Fuerzas Armadas, la Policía Nacional y la Guardia Civil —equipo de protección individual, vehículos, embarcaciones, instalaciones y alojamientos—, con un inventario digital, un informe anual al Congreso y un plan plurianual de renovación que priorice todo lo que protege la vida: chaleco antibalas individual para cada agente desde su primer día y protección frente a armas de guerra para quienes se enfrentan al narcotráfico.",
+      "pagina": 3,
+      "apartado": [
+        "Respaldo a quienes nos protegen",
+        "Medios Dignos, de la Comisaría al Cuartel"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión de medios policiales y militares y plan de renovación",
+      "etiquetas": [
+        "seguridad",
+        "defensa",
+        "narcotráfico"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ningún militar se quedará sin alojamiento digno en su destino.",
+      "pagina": 3,
+      "apartado": [
+        "Respaldo a quienes nos protegen",
+        "Medios Dignos, de la Comisaría al Cuartel"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Alojamiento para el personal militar en su destino",
+      "etiquetas": [
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "aprobaremos una Ley Integral de la Carrera Militar que elimine de forma progresiva la salida forzosa de soldados y marineros a los 45 años y ofrezca a tropa y marinería una carrera estable hasta la reserva, con promoción interna sin límite de convocatorias.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad y futuro para nuestras Fuerzas Armadas",
+        "Fin de la Salida Forzosa a los 45 - Una Carrera para Toda la Vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de la carrera militar sin salida forzosa a los 45 años",
+      "etiquetas": [
+        "defensa",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Completaremos la homologación de la formación militar: título de FP de grado medio al ser soldado o marinero y de técnico superior al ascender a cabo primero.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad y futuro para nuestras Fuerzas Armadas",
+        "Fin de la Salida Forzosa a los 45 - Una Carrera para Toda la Vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Homologación de la formación militar con títulos de FP",
+      "etiquetas": [
+        "defensa",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoveremos convenios con Comunidades Autónomas y Ayuntamientos para que su experiencia cuente en el acceso a policías autonómicas y locales, bomberos y emergencias.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad y futuro para nuestras Fuerzas Armadas",
+        "Fin de la Salida Forzosa a los 45 - Una Carrera para Toda la Vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Valorar la experiencia militar en acceso a policías y emergencias",
+      "etiquetas": [
+        "defensa",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "reconoceremos por ley la profesión militar como profesión de riesgo para todo el personal, de Seguridad Social y de Clases Pasivas, incluidos quienes tuvieron que dejar las Fuerzas Armadas al terminar su compromiso, con coeficientes reductores que computen las misiones internacionales y los días de mar, y jubilación anticipada sin recorte de pensión.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad y futuro para nuestras Fuerzas Armadas",
+        "Profesión de Riesgo para Todos los Militares"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Profesión militar como profesión de riesgo con jubilación anticipada",
+      "etiquetas": [
+        "defensa",
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El mismo criterio que para policías y guardias civiles: mismo riesgo, mismo reconocimiento.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad y futuro para nuestras Fuerzas Armadas",
+        "Profesión de Riesgo para Todos los Militares"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Equiparación de militares con policías en profesión de riesgo",
+      "etiquetas": [
+        "defensa",
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "clasificaremos los empleos militares en los grupos de la función pública según su titulación y responsabilidad, de modo que soldados y cabos pasen al grupo C1 y cabos primeros y mayores al grupo B.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad y futuro para nuestras Fuerzas Armadas",
+        "Sueldos a la Altura de la Responsabilidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Clasificación de soldados y cabos en grupos C1 y B",
+      "etiquetas": [
+        "defensa",
+        "función pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y aprobaremos un nuevo reglamento de retribuciones: horas extraordinarias, nocturnidad y festivos pagados, dietas actualizadas e iguales para todas las escalas, y compensación real de la movilidad geográfica.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad y futuro para nuestras Fuerzas Armadas",
+        "Sueldos a la Altura de la Responsabilidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevo reglamento de retribuciones militares",
+      "etiquetas": [
+        "defensa",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si España va a invertir más en defensa, la primera inversión serán sus profesionales.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad y futuro para nuestras Fuerzas Armadas",
+        "Sueldos a la Altura de la Responsabilidad"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Prioridad del personal en el gasto en defensa",
+      "etiquetas": [
+        "defensa",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos una nueva ley procesal, nacida del máximo consenso parlamentario y de quienes la aplican cada día, que acabe con las instrucciones interminables, permita aplicar con rapidez las herramientas contra la multirreincidencia y funcione con un expediente judicial electrónico interoperable en todas las Comunidades.",
+      "pagina": 4,
+      "apartado": [
+        "Justicia ágil y víctimas en el centro",
+        "Una Justicia que Llegue a Tiempo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva ley procesal penal y expediente judicial electrónico",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "quien sufre un delito a menudo no sabe qué pasa con su denuncia, cuándo es el juicio o si su agresor ha salido de prisión. Llevaremos a todo el territorio Carpeta Justicia, el portal que ya permite consultar expedientes judiciales, y le añadiremos un espacio propio para la víctima: seguimiento en tiempo real de su caso, avisos automáticos de cada paso procesal y penitenciario, y un interlocutor único.",
+      "pagina": 4,
+      "apartado": [
+        "Justicia ágil y víctimas en el centro",
+        "La Víctima, en el Centro"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Espacio para víctimas en el portal Carpeta Justicia",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos las oficinas de asistencia a las víctimas y ampliaremos las ayudas públicas para que la reparación llegue también cuando el condenado se declare insolvente.",
+      "pagina": 5,
+      "apartado": [
+        "Justicia ágil y víctimas en el centro",
+        "La Víctima, en el Centro"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Oficinas de víctimas y ayudas ante condenados insolventes",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Convertiremos las mesas de trabajo que reúnen a la Administración, los bancos y las operadoras en un centro nacional permanente contra el fraude digital, con base legal y supervisión independiente, que comparta alertas en tiempo real para congelar transferencias fraudulentas y bloquear cuentas mula, números y webs falsas en horas, no en semanas.",
+      "pagina": 5,
+      "apartado": [
+        "Justicia ágil y víctimas en el centro",
+        "Frente a las Ciberestafas, la Delincuencia de Masas de Nuestro Tiempo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Centro nacional permanente contra el fraude digital",
+      "etiquetas": [
+        "seguridad",
+        "derechos digitales",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las víctimas podrán denunciar y seguir su caso en línea.",
+      "pagina": 5,
+      "apartado": [
+        "Justicia ágil y víctimas en el centro",
+        "Frente a las Ciberestafas, la Delincuencia de Masas de Nuestro Tiempo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Denuncia y seguimiento en línea para víctimas de ciberestafas",
+      "etiquetas": [
+        "seguridad",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "fuente": "d21-ciencia",
+  "partido": "d21",
+  "paginas": [
+    1,
+    4
+  ],
+  "citas": [
+    {
+      "cita": "Ha llegado la hora de un cambio de paradigma: inversión garantizada por ley, autonomía con rendición de cuentas, una carrera digna para todo el personal investigador y técnico, plazas abiertas al mérito y un puente limpio entre el conocimiento y la sociedad.",
+      "pagina": 2,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo de política científica: inversión, autonomía, carrera y mérito",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Un CSIC Independiente con Liderazgo Científico, no Político: hoy el Gobierno nombra y cesa libremente a la presidencia del CSIC, y el Ministerio designa su Consejo Rector. La presidencia se elegirá por concurso público internacional: un comité independiente, con científicos de prestigio internacional y representación de la comunidad del CSIC, propondrá una terna, y la persona elegida comparecerá ante el Congreso antes de su nombramiento. Tendrá un mandato de seis años, no renovable, que no coincida con la legislatura y sin posibilidad de cese discrecional.",
+      "pagina": 2,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Darles la autonomía y el presupuesto que merecen",
+        "Un CSIC Independiente con Liderazgo Científico, no Político"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Presidencia del CSIC por concurso internacional y mandato de seis años",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Consejo Rector tendrá mayoría de expertos independientes, y extenderemos este modelo al resto de organismos públicos de investigación.",
+      "pagina": 2,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Darles la autonomía y el presupuesto que merecen",
+        "Un CSIC Independiente con Liderazgo Científico, no Político"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Consejo Rector del CSIC con mayoría de expertos independientes",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Una Ley de Financiación de la Ciencia fijará una senda legalmente vinculante de inversión pública, de al menos el 1,25% del PIB en 2030, para alcanzar una inversión total del 2% en 2027 y del 3% en 2030, actualizada con el IPC real y protegida frente a prórrogas presupuestarias.",
+      "pagina": 2,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Darles la autonomía y el presupuesto que merecen",
+        "Una Ley que Blinde la Inversión en Ciencia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de Financiación de la Ciencia con senda de inversión",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Financiación Estable y Predecible - Que Decidan los Centros, Universidades y sus Profesionales: el CSIC, las universidades públicas y el resto de centros públicos de investigación recibirán, con fondos estatales, financiación basal plurianual y en bloque (block grant), ligada a su evaluación científica.",
+      "pagina": 2,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Darles la autonomía y el presupuesto que merecen",
+        "Financiación Estable y Predecible - Que Decidan los Centros, Universidades y sus Profesionales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Financiación basal plurianual en bloque para centros de investigación",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "universidad",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sus direcciones y claustros científicos y técnicos decidirán qué líneas priorizar, qué talento incorporar y en qué invertir cada euro, con capacidad de gasto directo de hasta 100.000€ por instituto o facultad, extendiendo el modelo a los institutos universitarios y mixtos de acuerdo con las comunidades autónomas.",
+      "pagina": 2,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Darles la autonomía y el presupuesto que merecen",
+        "Financiación Estable y Predecible - Que Decidan los Centros, Universidades y sus Profesionales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gasto directo de hasta 100.000 euros por instituto o facultad",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y las convocatorias del Plan Estatal (AEI, CDTI y SETT) tendrán calendario fijo y un plazo legal máximo de resolución de 3 a 6 meses: cada grupo sabrá cuándo solicita, cuándo se resuelve y cuándo cobra.",
+      "pagina": 3,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Darles la autonomía y el presupuesto que merecen",
+        "Financiación Estable y Predecible - Que Decidan los Centros, Universidades y sus Profesionales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Calendario fijo y plazo máximo en convocatorias del Plan Estatal",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Saldaremos la deuda con los evaluadores de la Agencia Estatal de Investigación, desbloquearemos las convocatorias y estancias FPU y FPI, y crearemos por ley un sistema profesional de evaluación al nivel europeo (Horizonte Europa y ERC): tarifas dignas acordes a su cualificación, pago puntual y plataformas tecnológicas profesionales.",
+      "pagina": 3,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Darles la autonomía y el presupuesto que merecen",
+        "Pagar a Tiempo a Quien Evalúa y a Quien Empieza"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pago a evaluadores, becas FPU y FPI y sistema de evaluación",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada Euro, a la Ciencia: cada año buena parte del presupuesto de I+D+i queda sin ejecutar, sobre todo en préstamos que casi nadie pide, mientras los laboratorios sobreviven con lo justo. Esos préstamos se reconvertirán por ley al año siguiente en subvenciones para centros, universidades y grupos: financiación basal, contratación de tecnólogos y coinversión a riesgo con la industria a través del CDTI y la SETT, igualando cada euro público con uno privado.",
+      "pagina": 3,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Darles la autonomía y el presupuesto que merecen",
+        "Cada Euro, a la Ciencia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Convertir préstamos de I+D+i no ejecutados en subvenciones",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "gasto público",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada centro y departamento conservará sus remanentes, y toda la ejecución será pública en tiempo real, con auditorías posteriores del retorno social y económico y del empleo tecnológico creado.",
+      "pagina": 3,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Darles la autonomía y el presupuesto que merecen",
+        "Cada Euro, a la Ciencia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Remanentes para los centros y ejecución pública con auditorías",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "transparencia",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estatuto de Autogobierno Científico: un investigador no debería pasar más tiempo justificando facturas que investigando.",
+      "pagina": 3,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Darles la autonomía y el presupuesto que merecen",
+        "Estatuto de Autogobierno Científico"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Reducir la carga administrativa de los investigadores",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "CSIC, universidades y los OPI tendrán una gestión propia y ágil: compra científica directa por encima del umbral actual de 50.000€, hasta los umbrales europeos; contabilidad en tiempo real con caja única, tarjeta de laboratorio y catálogo digital de proveedores para comprar en un clic; justificación por módulos e hitos, no factura a factura, sin auditoras privadas que cobren a comisión por los fondos que reclaman; dietas actualizadas y pagadas por la institución; retorno al grupo de parte de los costes indirectos que genera; y gestores profesionales que liberen a los equipos del papeleo.",
+      "pagina": 3,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Darles la autonomía y el presupuesto que merecen",
+        "Estatuto de Autogobierno Científico"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gestión propia de compras, contabilidad y justificación en centros científicos",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "burocracia",
+        "contratación pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Carrera Investigadora sin Restricciones: liberaremos al CSIC y a los OPI de la tasa de reposición y de las plantillas rígidas para que planifiquen su talento a medio plazo.",
+      "pagina": 3,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Talento científico sin fronteras",
+        "Carrera Investigadora sin Restricciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eximir al CSIC y los OPI de la tasa de reposición",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La carrera será predecible de principio a fin: contratos predoctorales actualizados con el IPC, convocatorias posdoctorales con calendario fijo y un itinerario de estabilización (tenure track) con plaza garantizada para quien supere sus evaluaciones.",
+      "pagina": 3,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Talento científico sin fronteras",
+        "Carrera Investigadora sin Restricciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Contratos predoctorales con IPC y estabilización con plaza garantizada",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reconoceremos en su clasificación y salario a los miles de doctores y titulados superiores que hoy ocupan puestos de apoyo infravalorados.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Talento científico sin fronteras",
+        "Carrera Investigadora sin Restricciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reclasificación y salario de doctores en puestos de apoyo",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y se acabó el ingreso a “caja cero”: todo nuevo investigador estable contará con un Start-Up Package (dotación inicial obligatoria) para arrancar su laboratorio y competir internacionalmente.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Talento científico sin fronteras",
+        "Carrera Investigadora sin Restricciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Dotación inicial obligatoria para nuevos investigadores estables",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plazas Abiertas al Mundo - Que Gane el Mejor: cada plaza científica debe decidirse solo por mérito.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Talento científico sin fronteras",
+        "Plazas Abiertas al Mundo - Que Gane el Mejor"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Acceso a plazas científicas solo por mérito",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todas las plazas financiadas con fondos públicos se publicarán en EURAXESS, el portal europeo de empleo científico, en español e inglés.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Talento científico sin fronteras",
+        "Plazas Abiertas al Mundo - Que Gane el Mejor"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicar plazas científicas en el portal europeo EURAXESS",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empleo público",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los tribunales tendrán mayoría de evaluadores externos, con currículos públicos, y un sistema digital descartará conflictos de interés y parentescos antes de constituirlos.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Talento científico sin fronteras",
+        "Plazas Abiertas al Mundo - Que Gane el Mejor"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tribunales de plazas científicas con mayoría de evaluadores externos",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los procesos se resolverán en un máximo de tres meses y se evaluará según los estándares europeos (CoARA y DORA), que priman la calidad y el impacto real sobre el recuento de publicaciones.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Talento científico sin fronteras",
+        "Plazas Abiertas al Mundo - Que Gane el Mejor"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazo de tres meses y evaluación según CoARA y DORA",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Libertad para Transferir del Laboratorio a la Economía Real: ningún investigador público tendrá que elegir entre su plaza y fundar una empresa a partir de sus descubrimientos. Podrá crear una spin-off, licenciar patentes o colaborar con el sector privado sin perder su vinculación pública, con reglas automáticas de reparto de propiedad intelectual y sin autorizaciones discrecionales.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Del laboratorio a la sociedad",
+        "Libertad para Transferir del Laboratorio a la Economía Real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permitir a investigadores públicos crear empresas sin perder la plaza",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empresas",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los grandes centros contarán con equipos profesionales de valorización (venture builders) que busquen socios e inversores por él.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Del laboratorio a la sociedad",
+        "Libertad para Transferir del Laboratorio a la Economía Real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Equipos de valorización en los grandes centros de investigación",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y para impulsar la I+D empresarial, el Ministerio ofrecerá una certificación técnica previa, digital y gratuita que dé plena seguridad jurídica a la deducción fiscal por I+D+i, para que llegue también a las PYMES.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Del laboratorio a la sociedad",
+        "Libertad para Transferir del Laboratorio a la Economía Real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Certificación previa gratuita para la deducción fiscal por I+D+i",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "impuestos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ciencia Digital, Abierta y Evaluada: la autonomía se gana con transparencia.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Del laboratorio a la sociedad",
+        "Ciencia Digital, Abierta y Evaluada"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Autonomía científica vinculada a la transparencia",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos una ventanilla única científica: un currículum interoperable que se rellene una sola vez y alimente todas las convocatorias y justificaciones.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Del laboratorio a la sociedad",
+        "Ciencia Digital, Abierta y Evaluada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ventanilla única científica con currículum interoperable",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todos los grupos públicos tendrán acceso gratuito a supercomputación e infraestructura de inteligencia artificial.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Del laboratorio a la sociedad",
+        "Ciencia Digital, Abierta y Evaluada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acceso gratuito a supercomputación e infraestructura de IA",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada centro será evaluado cada cinco años por paneles internacionales independientes, que determinarán su financiación basal y, si falta masa crítica, su fusión o reorganización.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Del laboratorio a la sociedad",
+        "Ciencia Digital, Abierta y Evaluada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Evaluación quinquenal de centros por paneles internacionales",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y presupuestos, resultados y evaluaciones serán datos abiertos: quien financia la ciencia tiene derecho a ver lo que consigue.",
+      "pagina": 4,
+      "apartado": [
+        "Talento científico, confiamos en vuestro trabajo",
+        "Del laboratorio a la sociedad",
+        "Ciencia Digital, Abierta y Evaluada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Datos abiertos de presupuestos y evaluaciones científicas",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

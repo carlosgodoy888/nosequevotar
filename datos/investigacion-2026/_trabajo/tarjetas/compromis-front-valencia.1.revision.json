@@ -1,0 +1,96 @@
+{
+  "partido": "compromis-front-valencia",
+  "lote": "compromis-front-valencia.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-2b7dac4194", "motivo": "Primera línea del resumen (1% del PIB anual a vivienda protegida), con cifra y repetida por Àgueda Micó en campaña; 44 palabras, se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-0dedad5975", "motivo": "Segunda línea del resumen: prohibir que fondos y sociedades especulativas compren viviendas; destacada en campaña por Micó y por María Teresa Pérez. «Nuestro País» es nombre de territorio, no delata.", "texto": null, "cambio": null },
+        { "id": "c-f555b5424b", "motivo": "Tercera línea del resumen (protección de inquilinos): prohibir los desahucios sin alternativa habitacional, que Micó llama «la primera urgencia». El gravamen del 10% y el control de alquileres quedan como alternativas igual de válidas, no claramente mejores.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-df3c2a2d9f", "motivo": "Primera línea del resumen: jornada de cuatro días y 32 horas sin bajar el sueldo; concreta y corta.", "texto": null, "cambio": null },
+        { "id": "c-bf44449c97", "motivo": "SMI garantizado por ley al 60% del salario medio: medida distinta de la jornada, del resumen y con la subida del salario mínimo muy presente en campaña.", "texto": null, "cambio": null },
+        { "id": "c-fa57433d3a", "motivo": "Segunda línea del resumen: recuperar los 45 días de indemnización y los salarios de tramitación.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-485aceb77d", "motivo": "Primera línea del resumen: banca pública de inversión y crédito para pymes, cooperativas y familias. 74 palabras, dentro del límite; la alternativa más corta (presencia estatal en sectores estratégicos) es de la misma línea y no claramente mejor.", "texto": null, "cambio": null },
+        { "id": "c-5ff56e7eb6", "motivo": "Segunda línea del resumen: reindustrialización con hojas de ruta financiadas para cerámica, calzado, juguete o automoción; conecta con la diversificación económica que piden en campaña.", "texto": null, "cambio": null },
+        { "id": "c-3e4c08e8c0", "motivo": "Tercera línea del resumen (pequeño comercio), con cifra: reducir un 50% los domingos y festivos de apertura reformando la Ley de horarios comerciales.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-2e3e2bd176", "motivo": "Primera línea del resumen: blindar la gestión pública y derogar la Ley 15/1997; coincide con la gestión pública directa de hospitales que piden en campaña.", "texto": null, "cambio": null },
+        { "id": "c-9013292324", "motivo": "Segunda línea del resumen: atención primaria con financiación mínima, ratios y listas de espera máximas fijadas por ley.", "texto": null, "cambio": null },
+        { "id": "c-c7411ad8da", "motivo": "Tercera línea del resumen: ampliar el catálogo del SNS a odontología, oftalmología, podología y nutrición; acción única y clara.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-797162ea89", "motivo": "Primera línea del resumen: regularizar a las personas migrantes que viven aquí; dentro del tema inmigración se entiende sola y es la única medida de esa línea. Encaja con el discurso de campaña de igualdad de trato.", "texto": null, "cambio": null },
+        { "id": "c-2fe22414dd", "motivo": "Segunda línea del resumen: eliminación de los CIE.", "texto": null, "cambio": null },
+        { "id": "c-375e489f14", "motivo": "Tercera línea del resumen: ampliar el derecho de voto de las personas migrantes.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-7fd32b1d53", "motivo": "Primera línea del resumen: voto a los 16 años; concreta y corta.", "texto": null, "cambio": null },
+        { "id": "c-a1cccb7c47", "motivo": "Segunda línea del resumen (transparencia): sustituir la ley de secretos oficiales por una homologable a los estándares europeos.", "texto": null, "cambio": null },
+        { "id": "c-da4d13d8de", "motivo": "Tercera línea del resumen (reforma constitucional): suprimir la prioridad absoluta del pago de la deuda del artículo 135.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-4a5ba092d7", "motivo": "Primera línea del resumen: más inversión en educación pública hasta el 7% del PIB; con cifra.", "texto": null, "cambio": null },
+        { "id": "c-4b7ef4abb9", "motivo": "Segunda línea del resumen: comedor escolar gratuito y universal.", "texto": null, "cambio": null },
+        { "id": "c-42e8d4ae51", "motivo": "Tercera línea del resumen (universidad): tasas universitarias según recursos.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-c207416820", "motivo": "Primera línea del resumen, en el orden en que la pone: sacar de la factura el impuesto eléctrico y los cargos y pagarlos con los Presupuestos.", "texto": null, "cambio": null },
+        { "id": "c-bdfa254a5a", "motivo": "Segunda línea del resumen: electrificación al 100% en 2030 y abandono de fósiles en 2040; con cifras y plazos.", "texto": null, "cambio": null },
+        { "id": "c-48141869f9", "motivo": "Cuarta línea del resumen (biodiversidad), con plazo. La línea 3 (zonas inundables tras la DANA) no tiene medida candidata limpia; la de perros de caza, citada en campaña, es de la misma línea 4 y no claramente mejor.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-4ba028b3a7", "motivo": "Línea 2 del resumen (romper relaciones con Israel), la postura de política exterior más definida del programa; la parte central de la línea 1 (defensa europea en lugar de la OTAN) no tiene medida candidata y la auditoría del gasto, por sí sola, retrata peor su postura.", "texto": null, "cambio": null },
+        { "id": "c-788f83b8a9", "motivo": "Línea 1 del resumen: auditar todo el gasto en Defensa y publicar los resultados.", "texto": null, "cambio": null },
+        { "id": "c-7f0826df0e", "motivo": "Línea 3 del resumen: 0,7% para la cooperación blindado por ley.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

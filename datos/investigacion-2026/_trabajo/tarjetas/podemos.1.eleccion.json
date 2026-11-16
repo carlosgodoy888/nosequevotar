@@ -1,0 +1,204 @@
+{
+  "partido": "podemos",
+  "lote": "podemos.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        { "id": "c-c3674c05e5", "motivo": "Primera línea de su resumen (bajar los alquileres un 40 % en todo el Estado), con cifra, y la que su candidata repite en campaña («bajar el precio de los alquileres un 40 por ciento», «con un real decreto»).", "texto": null, "cambio": null },
+        { "id": "c-704bfb22d3", "motivo": "Tercera línea: ampliar el alquiler social expropiando el uso del 50 % de las viviendas de grandes tenedores; es la otra medida que más repite en campaña («expropiar más de 650.000 viviendas a los fondos buitre»).", "texto": null, "cambio": null },
+        { "id": "c-2928d9c44b", "motivo": "Segunda línea: moratoria a la compra que no sea para vivir; en campaña la resume como «que solo se puedan comprar casas para vivir», repetido en tres declaraciones, más que los pisos turísticos o el límite por propietario.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-6ee1c6fad6", "por_que_no": "Impuesto a la vivienda vacía: la candidata lo destacó el último día, pero es la cuarta línea del resumen y la medida del programa es genérica (sin el «cuádruple»); además las otras tres se repiten más en campaña." },
+        { "id": "c-d4ec6fbd3e", "por_que_no": "Prohibir los pisos turísticos es central en la segunda línea, pero esa línea ya la cubre la moratoria, que es lo que más subraya en campaña." },
+        { "id": "c-d77b33f342", "por_que_no": "Límite de viviendas por propietario: misma segunda línea y menos destacada en campaña; empieza por «Asimismo»." }
+      ],
+      "nota": "c-704bfb22d3 empieza por «Estas políticas deben ser combinadas con…»; la medida se entiende igualmente (ampliar el parque público de alquiler social expropiando el uso del 50 % de las viviendas de grandes tenedores y comprando pisos). c-885b494f20 (desalojos y Desokupa) se queda sin usar: mezcla dos acciones distintas y remite a lo anterior («Todo ello…»)."
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [],
+      "casi": [
+        { "id": "c-feefe0055e", "por_que_no": "Recoge la subida del salario mínimo (primera línea del resumen), pero es la única medida propia de pensiones y va en ese tema; además mezcla salarios y pensiones." },
+        { "id": "c-3a2da0dfcf", "por_que_no": "Educación infantil de 0 a 3 años: es la única medida propia de educación y va en ese tema." }
+      ],
+      "nota": "No hay medidas propias del tema y las dos de otro tema son imprescindibles en sus temas principales (pensiones y educación), así que empleo se queda sin tarjetas. Lo que destaca en campaña (SMI de 1.800 euros, jornada de 30 horas) no aparece como medida en el documento."
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        { "id": "c-66556f1a7b", "motivo": "Segunda línea del resumen (empresa pública de energía frente a los gigantes privados para bajar la factura); es lo que más destaca en campaña en economía: «enfrentar a ese oligopolio desde lo público», «recuperar para lo público una energética como Repsol».", "texto": null, "cambio": null },
+        { "id": "c-bd5ff8f755", "motivo": "La otra pata de la misma línea energética: intervenir el mercado eléctrico y pagar cada megavatio-hora según su coste de producción en vez del precio marginalista («No puedes ganar dinero con que la gente ponga la calefacción»).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-46bc6498db", "por_que_no": "Intervenir los márgenes de la alimentación es la tercera línea del resumen y la destaca en campaña, pero es medida propia de campo y medio rural, donde es la más representativa; no puede ir en dos temas." },
+        { "id": "c-d4ec6fbd3e", "por_que_no": "Prohibir los pisos turísticos toca el turismo, pero es una medida de vivienda y no figura en su postura económica." },
+        { "id": "c-71cddcd1f1", "por_que_no": "Impuestos extraordinarios a banca y energéticas: los impuestos van en su propio tema." }
+      ],
+      "nota": "Sin medidas propias del tema; todas las candidatas son de otro tema. Se han tomado dos medidas propias de medio ambiente y energía (que en ese tema se cubre con c-6798ce5b44, c-62efb8a614 y c-4911c51cf0). La primera línea del resumen (superar el capitalismo, gasto militar a servicios) no tiene medida concreta."
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        { "id": "c-7bf39c9db5", "motivo": "Primera línea del resumen: derogar de inmediato las leyes que permiten privatizar la sanidad (también la educación y las residencias, misma acción).", "texto": null, "cambio": null },
+        { "id": "c-5ac935f195", "motivo": "Tercera línea: garantizar el aborto en la sanidad pública, tema que la candidata ha defendido en campaña.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-de1adf8548", "por_que_no": "Asistencia veterinaria gratuita en la sanidad pública: 90 palabras (más de 80), nombra a su partido y a PSOE y VOX, y es sobre todo una medida de protección animal." }
+      ],
+      "nota": "La contratación de 40.000 sanitarios, que repite en campaña, no aparece como medida en el documento."
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        { "id": "c-e349f391c7", "motivo": "Segunda línea del resumen y la propuesta más concreta de su postura: regularización inmediata de quienes viven y trabajan en España y nacionalidad por carta de naturaleza.", "texto": null, "cambio": null },
+        { "id": "c-acaf170cdc", "motivo": "Tercera línea: derogar la ley de extranjería y cerrar los CIE, con el fin de las redadas y la protección frente a la deportación de quien denuncie delitos de odio.", "texto": null, "cambio": null },
+        { "id": "c-1bbff85df1", "motivo": "Completa la tercera línea en el plano europeo: derogar el Pacto Europeo de Migración y Asilo.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-392de48155", "por_que_no": "DNI y derecho al voto: es una variante de la primera (nacionalidad) y se usa en democracia e instituciones, donde figura en el resumen." }
+      ],
+      "nota": "c-acaf170cdc reúne varias acciones, pero todas van en la misma dirección (desmontar el régimen de extranjería) y se puede votar en bloque."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        { "id": "c-6c6af2f86c", "motivo": "Única medida propia; segunda línea del resumen: generalizar referéndums y presupuestos participativos.", "texto": null, "cambio": null },
+        { "id": "c-392de48155", "motivo": "Tercera línea del resumen: DNI español y derecho al voto para quien vive y trabaja en España (medida de inmigración que allí no se usa).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-0d7f8e9334", "por_que_no": "Reforzar la Agencia Tributaria es una medida fiscal, no de funcionamiento de las instituciones." }
+      ],
+      "nota": "La república plurinacional, la democratización de la justicia y los medios y la derogación de la «Ley Mordaza» no tienen medida concreta entre las candidatas."
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        { "id": "c-3a2da0dfcf", "motivo": "Única medida propia; segunda línea del resumen: educación infantil pública, universal y gratuita de 0 a 3 años.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-7bf39c9db5", "por_que_no": "Derogar las leyes de privatización (primera línea) también abarca la educación, pero es medida propia de sanidad y va allí." }
+      ],
+      "nota": "Los 40.000 maestros que destaca en campaña no aparecen como medida en el documento."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        { "id": "c-6798ce5b44", "motivo": "Segunda línea del resumen con su enfoque ambiental: pagar cada megavatio-hora según su coste de producción para que dejen de ser rentables las energías más contaminantes, con pago progresivo según el consumo.", "texto": null, "cambio": null },
+        { "id": "c-62efb8a614", "motivo": "Primera línea del resumen: subir los impuestos sobre los beneficios del oligopolio energético y usar lo recaudado para acelerar la transición (medida de impuestos que allí no se usa).", "texto": null, "cambio": null },
+        { "id": "c-4911c51cf0", "motivo": "Línea propia del tema en agua: quitar a los fondos especulativos los derechos de riego que acaparan.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-bd5ff8f755", "por_que_no": "Misma idea del precio por coste de producción; va en economía, que no tiene medidas propias." },
+        { "id": "c-66556f1a7b", "por_que_no": "Empresa pública de energía: va en economía, que no tiene medidas propias y donde es lo que más destaca en campaña." },
+        { "id": "c-de1adf8548", "por_que_no": "Protección animal y perros de caza: 90 palabras (más de 80) y nombra a su partido y a PSOE y VOX." }
+      ],
+      "nota": "Dos medidas propias (c-bd5ff8f755 y c-66556f1a7b) se han cedido a economía; por eso aquí se toma c-62efb8a614 de impuestos, que cubre la primera línea del resumen. Si se prefiere no ceder, el reparto alternativo sería aquí c-6798ce5b44/c-66556f1a7b/c-4911c51cf0 y en economía solo c-bd5ff8f755."
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "elegidas": [
+        { "id": "c-c25752eab1", "motivo": "Primera línea del resumen: salir de la OTAN cuanto antes y no aumentar el gasto militar, que es lo que más repite su candidata en campaña.", "texto": null, "cambio": null },
+        { "id": "c-2104d71785", "motivo": "Segunda línea: ruptura de relaciones con Israel y embargo de armas; no hay alternativa sin el nombre del partido, así que se quita solo «desde Podemos».", "texto": "Por supuesto, defendemos la ruptura inmediata de todas las relaciones diplomáticas y comerciales con el estado genocida de Israel y, en particular, un embargo a la compra y a la venta de armamento a dicho país.", "cambio": "Se quita «desde Podemos » tras «Por supuesto, »." }
+      ],
+      "casi": [
+        { "id": "c-d752e95474", "por_que_no": "Nombra a Podemos y a Sumar y habla de su trabajo parlamentario; no es una medida, sino una explicación de su ruptura." },
+        { "id": "c-1bbff85df1", "por_que_no": "Derogar el Pacto Europeo de Migración y Asilo es medida propia de inmigración y va allí." }
+      ],
+      "nota": "c-c25752eab1 nombra a Donald Trump, pero no hay alternativa igual de representativa para la línea de la OTAN y el gasto militar."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "elegidas": [
+        { "id": "c-64704f1246", "motivo": "Tercera línea del resumen: formar en igualdad a los operadores jurídicos; es la medida propia que mejor se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-e6c84c1484", "motivo": "Misma tercera línea, otra acción: prohibir el lucro de terceros con la prostitución.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-885b494f20", "por_que_no": "Disolver grupos como Desokupa (cuarta línea), pero mezcla esa acción con la protección frente a desalojos, remite a lo anterior («Todo ello…») y es medida propia de vivienda." }
+      ],
+      "nota": "Lo central de su postura (control democrático de la policía, derogar la «Ley Mordaza», prohibir pelotas de goma) no tiene medida entre las candidatas. c-e6c84c1484 trae una errata del original («regularizar a todas las personas mediante como…») y empieza por «además,»; se entiende lo principal, pero conviene revisarla."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "elegidas": [
+        { "id": "c-3114014229", "motivo": "Única medida propia; primera línea del resumen: subir el ingreso mínimo vital, ampliar su cobertura y reducir burocracia como paso hacia una renta básica.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-7bf39c9db5", "por_que_no": "Incluye derogar la privatización de las residencias, pero es medida propia de sanidad y va allí." },
+        { "id": "c-3a2da0dfcf", "por_que_no": "Educación de 0 a 3 años: única medida propia de educación y va allí." }
+      ],
+      "nota": "El permiso remunerado de ocho semanas que destaca en campaña no aparece como medida en el documento."
+    },
+    {
+      "tema": "impuestos",
+      "elegidas": [
+        { "id": "c-86ac06e8c2", "motivo": "Corazón de su postura (que paguen más las grandes fortunas): impuesto a los grandes patrimonios, lo que su candidata llama en campaña el «impuestazo a las grandes fortunas».", "texto": null, "cambio": null },
+        { "id": "c-2ba3bd5a8a", "motivo": "Tercera línea, con cifra: impuesto del 50 % a los beneficios extraordinarios de las empresas del IBEX.", "texto": null, "cambio": null },
+        { "id": "c-f16b92363d", "motivo": "Segunda línea: igualar en el IRPF las rentas del capital y las del trabajo, distinta de gravar el patrimonio o los beneficios empresariales.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-3c9161660b", "por_que_no": "Tipo mínimo en Sociedades: buena candidata, pero el IBEX ya cubre la tributación de las grandes empresas con más fuerza y cifra." },
+        { "id": "c-71cddcd1f1", "por_que_no": "Impuestos extraordinarios a banca y energéticas: misma línea que el IBEX y menos concreta." },
+        { "id": "c-85cc7b0772", "por_que_no": "Impuesto al lujo con huella de carbono: cuarta línea, más secundaria." }
+      ],
+      "nota": "c-62efb8a614 se usa en medio ambiente y energía. El impuesto a la vivienda vacía que destaca en campaña es medida de vivienda."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "elegidas": [
+        { "id": "c-ecb093bfa6", "motivo": "Primera línea del resumen, nombrada expresamente: aplicar todas las medidas de la ley del «solo sí es sí».", "texto": null, "cambio": null },
+        { "id": "c-d4817a4f34", "motivo": "Misma línea feminista por la vía del dinero: desplegar todos los recursos del Pacto de Estado contra la Violencia de Género, cercana al presupuesto de 1.000 millones que destaca en campaña.", "texto": null, "cambio": null },
+        { "id": "c-1a10c32093", "motivo": "Cuarta línea: laicismo, fin del concordato y de los privilegios fiscales de la Iglesia.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-5ac935f195", "por_que_no": "El aborto en la sanidad pública es segunda línea y tema de campaña, pero es medida propia de sanidad y va allí." },
+        { "id": "c-acaf170cdc", "por_que_no": "Ley de extranjería y CIE: medida propia de inmigración y va allí." },
+        { "id": "c-64704f1246", "por_que_no": "Formación en igualdad de los operadores jurídicos: medida propia de seguridad y justicia y va allí." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "pensiones",
+      "elegidas": [
+        { "id": "c-feefe0055e", "motivo": "Única medida propia y primera línea del resumen: subir las pensiones más bajas y las no contributivas para que ninguna sea inferior al SMI, protegiendo el sistema público.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-3114014229", "por_que_no": "Ingreso mínimo vital: única medida propia de familias y va allí." }
+      ],
+      "nota": "c-feefe0055e menciona también la subida del salario mínimo, pero el núcleo es el suelo de las pensiones en el SMI."
+    },
+    {
+      "tema": "transporte",
+      "elegidas": [
+        { "id": "c-15ddc9ec43", "motivo": "Primera línea del resumen: mantener y ampliar los descuentos al transporte público urbano e interurbano.", "texto": null, "cambio": null },
+        { "id": "c-7e6489e2f3", "motivo": "Tercera línea: ampliar las zonas de bajas emisiones y ayudas para que las familias con menos recursos tengan un coche eléctrico al precio de uno de combustión.", "texto": null, "cambio": null }
+      ],
+      "casi": [],
+      "nota": "La renacionalización del ferrocarril, que destaca en campaña, no aparece como medida en el documento."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "elegidas": [],
+      "casi": [],
+      "nota": "Sin medidas candidatas."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "elegidas": [
+        { "id": "c-46bc6498db", "motivo": "Tercera línea del resumen y lo que destaca en campaña (el «oligopolio» de la alimentación): intervenir los márgenes de beneficio de la alimentación protegiendo a pequeños comercios y productores, lo que además recoge su primera línea.", "texto": null, "cambio": null },
+        { "id": "c-9fcecf3f86", "motivo": "Segunda línea: leyes para impedir que los grandes fondos sigan acumulando tierras.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-4911c51cf0", "por_que_no": "Quitar los derechos de riego a los fondos está en su segunda línea, pero es medida propia de medio ambiente y va allí." }
+      ],
+      "nota": "c-46bc6498db tiene 77 palabras (por debajo de 80) y nombra a Mercadona, que es una empresa, no un partido."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "elegidas": [],
+      "casi": [],
+      "nota": "Sin medidas candidatas."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "partido": "erc",
+  "lote": "erc.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        { "id": "c-5be375e8bd", "motivo": "Representa su línea fiscal contra la especulación (más IVA e ITP para la vivienda que no es residencia habitual), que es justo lo que Rufián destaca en campaña («freír a impuestos a quien se quiera hacer rico con la vivienda»); es más completa que la del IVA turístico, que solo cubre un caso.", "texto": null, "cambio": null },
+        { "id": "c-1a1c8cb0b6", "motivo": "Cubre el primer punto de su postura: que la Generalitat pueda legislar de forma plena sobre alquileres, con la vía concreta del artículo 150.1.", "texto": null, "cambio": null },
+        { "id": "c-a17a684698", "motivo": "Cubre la ampliación del parque público con el traspaso inmediato y gratuito de los inmuebles de la SAREB y Casa 47; es más clara y corta que la otra versión del traspaso (c-df1aa0efe7).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-f8135135ed", "por_que_no": "El 1,5 % del PIB para vivienda es una línea de su postura, pero es de financiación general y la campaña destaca la fiscalidad; queda fuera por espacio frente a competencias y parque público." },
+        { "id": "c-4eafc897a1", "por_que_no": "IVA del 21 % al alquiler turístico: es solo un caso particular de la subida de impuestos a los usos no residenciales que ya recoge la primera." },
+        { "id": "c-df1aa0efe7", "por_que_no": "Repite el traspaso de la SAREB con un enfoque de competencias y es menos directa que c-a17a684698." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        { "id": "c-8e82be1c96", "motivo": "Subir el SMI al 60 % del salario medio encabeza su postura en empleo, lleva cifra y se entiende sola; la versión del salario mínimo catalán de 1.460 € pasa de 80 palabras.", "texto": null, "cambio": null },
+        { "id": "c-5e83dcbfa8", "motivo": "Cubre la reversión de las reformas laborales con su medida más concreta: recuperar los 45 días por año de indemnización por despido improcedente.", "texto": null, "cambio": null },
+        { "id": "c-c71bc8bda3", "motivo": "Cubre la reducción de jornada: máximo de 37,5 horas semanales sin rebaja salarial.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-0b2e861944", "por_que_no": "El salario mínimo catalán de 1.460 € es muy suyo, pero tiene 100 palabras (más del máximo de 80)." },
+        { "id": "c-8a73164894", "por_que_no": "Derogar lo que queda de las reformas de 2010 y 2012 es la misma línea que la del despido, pero menos concreta: quien lee no sabe qué se derogaría." },
+        { "id": "c-d9abcb26ef", "por_que_no": "Cuotas de autónomos según los ingresos reales: es una línea de su postura, pero entra en cuarto lugar y no cabe entre las tres." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        { "id": "c-262ec85f3f", "motivo": "Resume en una medida corta su línea de banca pública e intervención para financiar la inversión productiva y el pequeño negocio.", "texto": null, "cambio": null },
+        { "id": "c-792b03facb", "motivo": "Cubre la reindustrialización con gestión descentralizada: sustituir los PERTE por proyectos estratégicos territoriales.", "texto": null, "cambio": null },
+        { "id": "c-e887341323", "motivo": "Cubre la línea de las pymes: una contratación pública más accesible y transparencia en los pagos.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-78992f051b", "por_que_no": "Convertir el ICO en banco de promoción está en su postura, pero empieza por «Para ello» y remite a lo anterior; la banca pública ya va en la primera." },
+        { "id": "c-ed91b19f9d", "por_que_no": "La licencia bancaria plena del Institut Català de Finances es una variante de la banca pública y más técnica." },
+        { "id": "c-541d2e5ae6", "por_que_no": "El clúster químico de Tarragona es muy local para representar su política industrial." }
+      ],
+      "nota": "La condonación de la deuda del FLA, punto 3 del resumen, no figura entre las candidatas del tema."
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        { "id": "c-80fcd2424b", "motivo": "Incluir la atención dental integral en la sanidad pública es la medida más concreta para ampliar la cartera pública y universal, que es el núcleo de su postura.", "texto": null, "cambio": null },
+        { "id": "c-3b4848b418", "motivo": "Completa la ampliación de la cartera con la salud visual y la financiación de gafas y lentillas.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-84fe6645b2", "por_que_no": "El traspaso de competencias pendientes es el punto 4 del resumen, pero sin el título del apartado no se sabe de qué competencias se habla ni a quién se traspasan." },
+        { "id": "c-8db43922be", "por_que_no": "Es de otro tema (empleo) y trata de enfermedades profesionales; no representa su postura sanitaria." },
+        { "id": "c-6a48e1d872", "por_que_no": "Es de otro tema (igualdad) y trata de publicidad; no representa su postura sanitaria." }
+      ],
+      "nota": "Solo dos medidas propias del tema son válidas; no se completa con las de otro tema porque no se parecen a su postura en sanidad."
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        { "id": "c-497df6f4ab", "motivo": "El traspaso integral a Cataluña de las competencias de migración y asilo es el primer punto de su postura e incluye su enfoque de derechos e integración.", "texto": null, "cambio": null },
+        { "id": "c-ca9d135d57", "motivo": "Cubre su propuesta de una nueva ley de asilo que impida externalizar las solicitudes a terceros países.", "texto": null, "cambio": null },
+        { "id": "c-6a592ee73d", "motivo": "Cubre su rechazo a los centros de retorno en terceros países y a las garantías débiles durante el proceso migratorio.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-076e3dea0a", "por_que_no": "Condicionar el Reglamento europeo de Retorno es más técnico y repite lo que ya dicen las elegidas sobre las garantías." },
+        { "id": "c-d12099922b", "por_que_no": "Es de otro tema y empieza por «Garantizar sus derechos», que sin lo anterior no se entiende." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        { "id": "c-3e02ffcdc2", "motivo": "Cubre su postura sobre el sistema electoral: trasponer la ley electoral europea sin umbrales ni circunscripciones que bloqueen a las minorías nacionales.", "texto": null, "cambio": null },
+        { "id": "c-a9317aaf86", "motivo": "Cubre su propuesta de votar desde los 16 años; es corta y clara, y el «En este marco» inicial no impide entenderla.", "texto": null, "cambio": null },
+        { "id": "c-21d2072887", "motivo": "Cubre su línea de las lenguas oficiales con una medida concreta: reservar el 50 % de las obras europeas a las lenguas oficiales del Estado y de las comunidades.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-2ff99ef5c4", "por_que_no": "Tiene 82 palabras (más del máximo de 80)." },
+        { "id": "c-4c21ab444b", "por_que_no": "Empieza por «En este marco» y habla de «estas obras», que sin lo anterior no se entiende." },
+        { "id": "c-dfc220762d", "por_que_no": "Empieza por «Asimismo» y repite las cuotas audiovisuales de c-21d2072887." }
+      ],
+      "nota": "Los puntos del resumen sobre la monarquía, las lenguas ante el Estado y la remunicipalización no tienen candidatas en este tema. La campaña (un gobierno del PSOE «sometido a las izquierdas soberanistas») no corresponde a ninguna medida."
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        { "id": "c-af9ab5adbf", "motivo": "Defender la escuela catalana y la inmersión frente a los porcentajes lingüísticos impuestos es el primer punto de su postura y el título de su apartado educativo.", "texto": null, "cambio": null },
+        { "id": "c-af096a21f2", "motivo": "Cubre la financiación: el 6 % del PIB para la educación, con ratios y sueldos del profesorado.", "texto": null, "cambio": null },
+        { "id": "c-e888b81593", "motivo": "Cubre la universidad y el autogobierno a la vez: eliminar el distrito único para que Cataluña planifique el acceso.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-02af569765", "por_que_no": "La plaza pública y gratuita de 0 a 3 años es clara, pero la financiación ya va en la del 6 % del PIB." },
+        { "id": "c-6147fd185b", "por_que_no": "El 1 % del PIB para las universidades en 2030 es otra medida de financiación; para la universidad se prefiere la del distrito único, que es distinta." },
+        { "id": "c-e8829329b3", "por_que_no": "Sobre la FP propia de la Generalitat, pero sin el título del apartado no se sabe de qué sistema habla." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        { "id": "c-ef94dcfa4d", "motivo": "Resume su ambición climática con cifras y plazos (-65 % de emisiones en 2030 y -95 % en 2040).", "texto": null, "cambio": null },
+        { "id": "c-190aa7769a", "motivo": "Cubre su modelo de renovables descentralizado con la medida concreta del resumen: autoconsumo colectivo hasta 10 km, o 20 km en zonas rurales.", "texto": null, "cambio": null },
+        { "id": "c-e93f4507ab", "motivo": "Cubre su línea de más control catalán sobre la energía: traspasar las hidroeléctricas a la Generalitat cuando caduquen sus concesiones.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-afc988b792", "por_que_no": "Proteger también a los perros de caza es el punto 4 de su postura, pero el tema lo ocupa sobre todo la energía y no cabe entre las tres." },
+        { "id": "c-3d90eab6ed", "por_que_no": "Endurecer las penas por maltrato animal: la misma razón que la anterior." },
+        { "id": "c-348b3586d5", "por_que_no": "El fondo para que los combustibles fósiles paguen las renovables se acerca a gravar a las energéticas, pero es más técnico." }
+      ],
+      "nota": "La línea del bienestar animal (punto 4) queda fuera de las tres; el impuesto a las grandes energéticas no figura entre las candidatas."
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "elegidas": [
+        { "id": "c-f14a2b7da6", "motivo": "El embargo completo de armas a Israel es el primer punto de su postura, y la medida es corta y fácil de votar.", "texto": null, "cambio": null },
+        { "id": "c-573e018218", "motivo": "Cubre el Sáhara: revertir la posición de 2022 y acatar las sentencias del TJUE.", "texto": null, "cambio": null },
+        { "id": "c-8c17ee1c60", "motivo": "Cubre el compromiso del 0,7 % de ayuda al desarrollo (punto 3); no hay otra medida de esa línea que no nombre al partido.", "texto": "Cumplir con el compromiso del 0,7 % de Ayuda Oficial al Desarrollo. Dar cumplimiento efectivo al compromiso del 0,7 % de la AOD (Ayuda Oficial al Desarrollo).", "cambio": "Se quita «, como ya ha impulsado la Generalitat de Catalunya a instancia de Esquerra Republicana» (nombra al partido y su propio trabajo); el punto final se mantiene." }
+      ],
+      "casi": [
+        { "id": "c-a95cff6ccb", "por_que_no": "Suspender los acuerdos UE-Israel es una variante de la línea del embargo." },
+        { "id": "c-01986827b1", "por_que_no": "Condicionar las relaciones con Marruecos es una variante de la línea del Sáhara, y además empieza por «Hace falta también»." },
+        { "id": "c-0abc0338cf", "por_que_no": "Nombra al partido y el presupuesto europeo no está entre los puntos principales de su postura." }
+      ],
+      "nota": "La autonomía europea de defensa respecto a la OTAN y la oficialidad del catalán en la UE no tienen candidatas en este tema."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "elegidas": [
+        { "id": "c-6a18e274ae", "motivo": "Derogar la «ley mordaza» es el primer punto de su postura y la medida más directa y fácil de votar.", "texto": null, "cambio": null },
+        { "id": "c-5d901e778c", "motivo": "Cubre la línea de que los Mossos d'Esquadra sean policía integral en toda Cataluña, sin excepciones.", "texto": null, "cambio": null },
+        { "id": "c-ae7d12493c", "motivo": "Cubre el endurecimiento penal (armas y robo de cable), relacionado con la reincidencia de la que habla Rufián en campaña.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-35111586c9", "por_que_no": "Las 180 plazas de jueces enlazan con la campaña sobre la multirreincidencia, pero la medida nombra al partido y mezcla varias cosas." },
+        { "id": "c-50f7842eff", "por_que_no": "El Consejo de Justicia de Cataluña es el punto 3, pero es más técnico y no cabe entre las tres." },
+        { "id": "c-f5e7963181", "por_que_no": "Suprimir los delitos contra los sentimientos religiosos y de injurias a la Corona es la misma línea de libertades que la «ley mordaza», que va primero." }
+      ],
+      "nota": ""
+    }
+  ]
+}

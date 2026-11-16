@@ -1,0 +1,338 @@
+{
+  "fuente": "d21-autonomo-estamos-contigo",
+  "partido": "d21",
+  "paginas": [
+    1,
+    4
+  ],
+  "citas": [
+    {
+      "cita": "Ha llegado el momento de simplificar las reglas, adaptar las cuotas a los ingresos efectivos y poner sobre la mesa una reforma de su protección social.",
+      "pagina": 2,
+      "apartado": [
+        "Autónomo, estamos contigo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Simplificar reglas, cuotas según ingresos y protección social",
+      "etiquetas": [
+        "autónomos",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Liquidación Automática Voluntaria - Paga Solo Por Lo Que Ganas: el sistema actual presiona a los autónomos obligándoles a adivinar cuánto van a facturar con meses de antelación. Para quienes deseen acabar con esta incertidumbre, crearemos un modelo optativo 100% automático y a mes vencido.",
+      "pagina": 2,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Flexibilidad total: cuotas e impuestos a tu medida",
+        "Liquidación Automática Voluntaria - Paga Solo Por Lo Que Ganas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Modelo optativo de cuota de autónomos automático a mes vencido",
+      "etiquetas": [
+        "autónomos",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Gracias a la plena conexión digital entre la Seguridad Social y Hacienda, tu cuota se calculará y cobrará cada mes en función exacta del dinero neto que facturaste el mes anterior.",
+      "pagina": 2,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Flexibilidad total: cuotas e impuestos a tu medida",
+        "Liquidación Automática Voluntaria - Paga Solo Por Lo Que Ganas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cuota mensual según la facturación neta del mes anterior",
+      "etiquetas": [
+        "autónomos",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los autónomos podrán elegir: quedarse en el sistema de estimaciones actual o pasarse a la liquidación automática en tiempo real.",
+      "pagina": 2,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Flexibilidad total: cuotas e impuestos a tu medida",
+        "Liquidación Automática Voluntaria - Paga Solo Por Lo Que Ganas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Elección entre sistema de estimaciones y liquidación automática",
+      "etiquetas": [
+        "autónomos",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Flexibilidad en Tiempo Real para Deudas y Liquidez: llevaremos esta misma lógica de sentido común a las relaciones con la Agencia Tributaria. Aprovechando los datos de facturación electrónica, la primera vez que un negocio atraviese un bache temporal de ingresos, la gestión de aplazamientos y créditos fiscales se adaptará de forma ágil a su flujo real de caja.",
+      "pagina": 2,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Flexibilidad total: cuotas e impuestos a tu medida",
+        "Flexibilidad en Tiempo Real para Deudas y Liquidez"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Aplazamientos fiscales adaptados al flujo de caja",
+      "etiquetas": [
+        "autónomos",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Un problema coyuntural de tesorería no debe suponer el ahogo o el embargo de una actividad que es viable.",
+      "pagina": 2,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Flexibilidad total: cuotas e impuestos a tu medida",
+        "Flexibilidad en Tiempo Real para Deudas y Liquidez"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Evitar embargos a negocios viables por problemas de liquidez",
+      "etiquetas": [
+        "autónomos",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ha llegado la hora de saldar una deuda histórica con quienes mueven España: convocaremos una Mesa de Diálogo Social con los Autónomos, donde se convertirán en los protagonistas directos de sus propias leyes. Desde el comercio de proximidad, la hostelería, los gremios y el campo, hasta los profesionales liberales, los creadores digitales y el ecosistema tecnológico: todos los sectores tendrán voz. De este gran acuerdo nacional nacerá el catálogo definitivo de derechos sociales del trabajo autónomo en el siglo 21.",
+      "pagina": 3,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Nuevo Estatuto del Trabajo Autónomo: derechos del siglo 21"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mesa de diálogo social con autónomos y nuevo catálogo de derechos",
+      "etiquetas": [
+        "autónomos",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cese de Actividad Parcial - Un \"ERTE\" del Autónomo: de la misma forma que una empresa puede aplicar un ERTE para proteger a su plantilla durante un bache temporal, el autónomo podrá activar un cese parcial sin necesidad de dar de baja su negocio por completo. Este salvavidas será estrictamente temporal y se activará ante caídas de ingresos excepcionales, sostenidas y verificadas de forma automática mediante los datos de la facturación electrónica.",
+      "pagina": 3,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Nuevo Estatuto del Trabajo Autónomo: derechos del siglo 21",
+        "Cese de Actividad Parcial - Un \"ERTE\" del Autónomo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cese de actividad parcial temporal para autónomos",
+      "etiquetas": [
+        "autónomos",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan de Relevo Generacional - Libertad Total de Contratación Familiar: evitaremos que miles de negocios rentables mueran por jubilación eliminando los obstáculos absurdos que hoy impiden contratar a la propia familia.",
+      "pagina": 3,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Cero obstáculos para negocios pequeños y familiares",
+        "Plan de Relevo Generacional - Libertad Total de Contratación Familiar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Relevo generacional y contratación de familiares en negocios",
+      "etiquetas": [
+        "autónomos",
+        "empresas",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Permitiremos que el cónyuge y los hijos se incorporen de forma libre y directa como trabajadores por cuenta ajena con pleno derecho a cobrar el paro (eximiéndoles de la cuota al FOGASA).",
+      "pagina": 3,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Cero obstáculos para negocios pequeños y familiares",
+        "Plan de Relevo Generacional - Libertad Total de Contratación Familiar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Contratar a cónyuge e hijos con derecho a prestación por desempleo",
+      "etiquetas": [
+        "autónomos",
+        "empleo",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, crearemos una tarifa reducida de transición para que el titular que se jubila pueda tutorizar y traspasar el negocio al relevista durante los primeros meses sin duplicidades de costes.",
+      "pagina": 3,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Cero obstáculos para negocios pequeños y familiares",
+        "Plan de Relevo Generacional - Libertad Total de Contratación Familiar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tarifa reducida para traspasar el negocio al jubilarse",
+      "etiquetas": [
+        "autónomos",
+        "seguridad social",
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "IVA Franquiciado - Cero Facturas para los Pequeños Negocios: transpondremos de forma prioritaria la directiva europea del IVA franquiciado para liberar de papeleo a los autónomos y microactividades que facturen menos de 85.000€ al año. Quienes se acojan a este régimen no tendrán que añadir IVA en sus facturas ni presentar las farragosas declaraciones trimestrales.",
+      "pagina": 3,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Cero obstáculos para negocios pequeños y familiares",
+        "IVA Franquiciado - Cero Facturas para los Pequeños Negocios"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Régimen de IVA franquiciado para facturación inferior a 85.000 euros",
+      "etiquetas": [
+        "autónomos",
+        "impuestos",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Bono Fiscal de Despegue Para los 3 Primeros Años: aliviaremos la presión en IRPF y cotizaciones del RETA durante los primeros compases de la actividad creando un Bono Fiscal de Despegue: un crédito fiscal directo asignado a cada nuevo autónomo para compensar (hasta un importe determinado) cualquier obligación frente al Estado (como impuestos o cotizaciones a la Seguridad Social) debidamente declarada durante sus tres primeros ejercicios, permitiendo que la liquidez inicial se concentre al 100% en la viabilidad del proyecto.",
+      "pagina": 4,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Despegue de autónomo a empresa mucho más fácil",
+        "Bono Fiscal de Despegue Para los 3 Primeros Años"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Crédito fiscal para nuevos autónomos durante tres ejercicios",
+      "etiquetas": [
+        "autónomos",
+        "impuestos",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuevo Ecosistema de Inversión para Empezar de Cero: multiplicaremos el capital disponible para el autoempleo y las micropymes estimulando el respaldo financiero tanto bancario como privado.",
+      "pagina": 4,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Despegue de autónomo a empresa mucho más fácil",
+        "Nuevo Ecosistema de Inversión para Empezar de Cero"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más financiación bancaria y privada para autoempleo y micropymes",
+      "etiquetas": [
+        "autónomos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejoraremos y ampliaremos las deducciones fiscales para inversores particulares y business angels que inyecten capital en proyectos en fase inicial.",
+      "pagina": 4,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Despegue de autónomo a empresa mucho más fácil",
+        "Nuevo Ecosistema de Inversión para Empezar de Cero"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Deducciones fiscales para inversores en proyectos iniciales",
+      "etiquetas": [
+        "impuestos",
+        "empresas",
+        "autónomos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Paralelamente, estableceremos incentivos fiscales específicos para la adquisición y continuidad de actividades preexistentes —especialmente en traspasos por relevo generacional o procesos de fusión e integración entre negocios de jóvenes emprendedores— evitando el cierre de proyectos consolidados y facilitando que ganen escala de forma inmediata.",
+      "pagina": 4,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Despegue de autónomo a empresa mucho más fácil",
+        "Nuevo Ecosistema de Inversión para Empezar de Cero"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivos fiscales para traspasos y fusiones de negocios",
+      "etiquetas": [
+        "impuestos",
+        "empresas",
+        "autónomos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "I+D+i Express - Certificación Simplificada de Innovación para Nuevos Proyectos: crearemos un procedimiento ágil de certificación digital para deducciones por I+D+i orientado específicamente a proyectos de importe reducido planteados por autónomos y empresas emergentes. Este sistema permitirá aplicar deducciones y bonificaciones directas de manera inmediata y sin trabas burocráticas, premiando la adopción de tecnología, la modernización de procesos y el desarrollo de nuevos productos desde el primer día.",
+      "pagina": 4,
+      "apartado": [
+        "Autónomo, estamos contigo",
+        "Despegue de autónomo a empresa mucho más fácil",
+        "I+D+i Express - Certificación Simplificada de Innovación para Nuevos Proyectos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Certificación digital simplificada para deducciones por I+D+i",
+      "etiquetas": [
+        "autónomos",
+        "impuestos",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

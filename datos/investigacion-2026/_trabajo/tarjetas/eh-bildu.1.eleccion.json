@@ -1,0 +1,247 @@
+{
+  "partido": "eh-bildu",
+  "lote": "eh-bildu.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        {
+          "id": "c-25c764082b",
+          "motivo": "Línea de regulación del alquiler (contratos estables): la prórroga automática es la medida que más destaca en campaña, donde Matute la anuncia como su primera iniciativa en el Congreso y defiende contratos que tiendan a lo indefinido.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-e08c341469",
+          "motivo": "Línea contra la especulación (fondos, grandes tenedores, SOCIMI): la prohibición de la compra especulativa es el núcleo de esa línea y también la anuncia en campaña como parte de su primera iniciativa; más central que eliminar las SOCIMI o el IVA turístico.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-2904a26dc7",
+          "motivo": "Línea de la vivienda como derecho: la prohibición permanente de desahucios de personas vulnerables sin alternativa es el primer punto de su postura en el tema.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-64d9e07653",
+          "por_que_no": "Tope del 2 % a la actualización de la renta: misma línea de regulación del alquiler que la prórroga automática, que es la que destacan en campaña."
+        },
+        {
+          "id": "c-bf51c78362",
+          "por_que_no": "Eliminar las SOCIMI: misma línea antiespeculativa que la prohibición de compra especulativa, que es más amplia y la repiten en campaña."
+        },
+        {
+          "id": "c-1911dba441",
+          "por_que_no": "IVA del 21 % a pisos turísticos: concreta y breve, pero es una pieza secundaria de la línea antiespeculativa."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        {
+          "id": "c-7a1a24e7f6",
+          "motivo": "Primera línea de su postura y primera medida del apartado de empleo: jornada de 32 horas o cuatro días sin rebaja salarial, breve y con cifra.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-786a169ae8",
+          "motivo": "Línea del salario mínimo propio de cada comunidad con el estatal como suelo, la que más repite Matute en campaña; esta versión se entiende sola mejor que c-9aee4313ef.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-d739696e9f",
+          "motivo": "Línea de recuperar derechos frente al despido: indemnización de al menos 45 días, con cifra y fácil de votar.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-20f8aded39",
+          "por_que_no": "Registro horario contra horas extra abusivas: forma parte de la tercera línea, pero mezcla dos acciones (registro y recargo por ley) y es menos central que el despido."
+        },
+        {
+          "id": "c-07a85406fa",
+          "por_que_no": "Autorización previa en los ERE: misma línea que la indemnización de 45 días, con menos peso."
+        },
+        {
+          "id": "c-f38b046760",
+          "por_que_no": "Transferencia de la Inspección de Trabajo: representa la línea de autogobierno laboral, pero no dice a quién se transfiere y no se entiende sola."
+        }
+      ],
+      "nota": "El SMI autonómico es lo más repetido en campaña; se deja segundo porque la jornada de 32 horas es la primera línea del resumen y encabeza el apartado del programa. Quien revise puede invertir el orden si prima la campaña."
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        {
+          "id": "c-5813161106",
+          "motivo": "Línea central del tema: obligar a las grandes energéticas y alimentarias a no trasladar las subidas de costes a los precios; es exactamente lo que Matute anuncia en campaña.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-a4fee8680d",
+          "motivo": "Línea de limitar temporalmente los precios de bienes esenciales en emergencias, distinta de la intervención en márgenes.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-612d6fae33",
+          "motivo": "Línea de recuperar el «tope al gas», citada en el resumen; se usa de otro tema porque solo hay dos medidas propias válidas (c-e57e928846 empieza con «Este mecanismo» y no se entiende sola).",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-e57e928846",
+          "por_que_no": "Desarrolla la absorción de costes por los márgenes, pero empieza con «Este mecanismo» y no se entiende sin la anterior."
+        },
+        {
+          "id": "c-87d685216c",
+          "por_que_no": "Derogar la reforma del artículo 135 aparece en el resumen, pero su tema principal es democracia-e-instituciones y se elige allí."
+        },
+        {
+          "id": "c-4e7f7de51d",
+          "por_que_no": "Control de márgenes de las grandes distribuidoras: empieza con «Para ello» y es de otro tema."
+        }
+      ],
+      "nota": "c-612d6fae33 tiene como tema principal medio-ambiente-y-energia, que va en el otro lote: si allí también se elige, hay que quitarla de aquí (alternativa: dejar economía con dos medidas)."
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        {
+          "id": "c-59a97ecf0c",
+          "motivo": "Línea contra la privatización de la sanidad pública: derogar la ley que permite externalizar servicios es la medida más clara y votable de su modelo sanitario; no hay alternativa equivalente que no nombre a otro partido.",
+          "texto": "Derogar la Ley 15/1997 de 25 de abril, sobre habilitación de nuevas formas de gestión del Sistema Nacional de Salud, que permite la privatización y externalización de los servicios sanitarios.",
+          "cambio": "Se ha quitado «aprobada por el PP » (nombra a otro partido)."
+        },
+        {
+          "id": "c-e46654ecb5",
+          "motivo": "Línea de ampliar la cartera común (salud bucodental y visual para colectivos vulnerables), distinta de la de gestión pública.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-3b18027c27",
+          "motivo": "Línea de autogobierno sanitario y lengua: reserva del 53 % de plazas MIR, EIR y PIR a quien domine las dos lenguas oficiales del País Vasco, que figura en el resumen y es la única medida de esa línea que se entiende sola.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-e962006ade",
+          "por_que_no": "Farmacia pública: misma línea de defensa de lo público que la derogación de la Ley 15/1997 y más larga (61 palabras)."
+        },
+        {
+          "id": "c-b81e4e8f63",
+          "por_que_no": "Eutanasia para el sufrimiento psíquico: está en el resumen, pero son 77 palabras y es una línea más periférica que la cartera común."
+        },
+        {
+          "id": "c-cc517ad6d4",
+          "por_que_no": "Transferencia de la formación especializada: representa la primera línea (asumir competencias), pero no dice a quién se transfiere y no se entiende sola."
+        }
+      ],
+      "nota": "La primera línea del resumen (transferencia de competencias sanitarias) no tiene ninguna medida que se entienda sola; la representa en parte la del 53 % de plazas MIR."
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        {
+          "id": "c-d66bcc1989",
+          "motivo": "Primera línea de su postura: regularización efectiva, accesible y estable; breve y votable.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-ca344b1f3c",
+          "motivo": "Línea de rechazo a devoluciones sumarias, externalización de fronteras, CIE y Pacto Europeo; todas las acciones van en el mismo sentido.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-eae44e50ed",
+          "motivo": "Línea de acceso a los servicios públicos sea cual sea la situación administrativa, coherente con el discurso de integración de su candidato en campaña.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-73d2bea670",
+          "por_que_no": "Transferencia de competencias migratorias para un modelo vasco de acogida: está en el resumen, pero se prioriza la línea de derechos y servicios, más extensa en el programa."
+        },
+        {
+          "id": "c-c4ffc4e5c0",
+          "por_que_no": "Ampliar el voto de residentes extranjeros: misma línea de derechos que la de servicios públicos y menos desarrollada."
+        },
+        {
+          "id": "c-541fc318c4",
+          "por_que_no": "Nueva ley de extranjería basada en derechos humanos: demasiado general frente a la regularización."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        {
+          "id": "c-87d685216c",
+          "motivo": "Línea de derogaciones (artículo 135 y Secretos Oficiales); la de Secretos Oficiales pasa de 80 palabras, así que esta es la única de esa línea que cabe; no hay alternativa equivalente sin nombrar a otros partidos.",
+          "texto": "Derogar la modificación del artículo 135 de la constitución española que establece la prioridad del pago de deuda sobre la inversión social y pública.",
+          "cambio": "Se ha quitado «realizada por PP y PSOE » (nombra a otros partidos)."
+        },
+        {
+          "id": "c-d263fe33e6",
+          "motivo": "Línea de garantizar canales presenciales en la administración, recogida en el resumen (80 palabras, en el límite).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-7d0d3985f7",
+          "motivo": "Medida propia del tema que completa la línea de acceso a la administración con procesos abreviados para prestaciones; se prefiere a las de otro tema porque hay medidas propias.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-57172f2837",
+          "por_que_no": "Derogar la Ley de Secretos Oficiales: está en el resumen, pero son 93 palabras."
+        },
+        {
+          "id": "c-df3e991c36",
+          "por_que_no": "Exigir el euskera en la administración estatal en el País Vasco y Navarra: está en el resumen, pero su tema principal es organizacion-territorial y hay medidas propias suficientes."
+        },
+        {
+          "id": "c-a7f40474d4",
+          "por_que_no": "Reforma de la publicidad institucional: 97 palabras y mezcla varias acciones."
+        }
+      ],
+      "nota": "La primera línea del resumen (plurinacionalidad y derecho a decidir) no tiene medidas candidatas en este tema."
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        {
+          "id": "c-4d073d399d",
+          "motivo": "Única medida candidata; recoge la línea de aumentar la financiación hasta acercarse al 6 % de la UNESCO, que figura en el resumen.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [],
+      "nota": "Solo hay una medida candidata en el tema."
+    }
+  ]
+}

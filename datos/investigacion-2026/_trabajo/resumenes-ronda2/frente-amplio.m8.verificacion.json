@@ -1,0 +1,33 @@
+{
+  "revisiones": [
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: el resumen omitía la condonación de deuda autonómica condicionada a prohibir el «dumping fiscal» (título del apartado 11.2 y del 12.2 para ayuntamientos, unas ocho citas) y la reforma de la regla de gasto de los ayuntamientos (apartado 12.3 completo, una decena de citas), mientras destacaba el traspaso de la Inspección de Trabajo a Cataluña, que se apoya en una sola cita. Se sustituye ese traspaso y el mínimo común en Patrimonio y Sucesiones por la condonación condicionada y la reforma de la regla de gasto.",
+        "Fidelidad de fuerza: el modelo «republicano federal y plurinacional» el programa lo plantea «como horizonte» y promueve «el debate» para formar una mayoría; se añade «como horizonte» para no presentarlo como medida inmediata.",
+        "Apoyos: la frase del Senado se completa con la declaración c-e3aa29dba4, que dice lo mismo que el programa; la frase de financiación autonómica deja de citar c-d4e3603fee al no mencionar ya el mínimo común; la frase municipal se apoya en las citas de la regla de gasto (c-05d4279990, c-9e18379f1e, c-c4da8724d5) en vez de en las de autonomía local general.",
+        "Dudas del redactor: los términos «republicano federal y plurinacional», «el derecho a decidir mediante referéndum» y «dumping fiscal» siguen entre comillas y atribuidos, correcto. Las declaraciones no añaden nada distinto al programa (la de Rodalies trata de inversión, no de competencias), por lo que no hace falta citarlas aparte. Las medidas para las islas quedan fuera por espacio; son medidas estatales para territorios concretos y pesan menos que la financiación y la deuda."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Plantea como horizonte un Estado «republicano federal y plurinacional», con «el derecho a decidir mediante referéndum» y un Senado de representación territorial.",
+          "apoyos": ["c-1367dffaf4", "c-bc5cd39580", "c-880bbe1c1e", "c-61cb1cf981", "c-e3aa29dba4"]
+        },
+        {
+          "texto": "Propone destinar al menos un 2,3 % del PIB adicional anual a la financiación autonómica y condicionar la condonación de deuda autonómica a prohibir lo que llama «dumping fiscal».",
+          "apoyos": ["c-cabeefaafa", "c-36f9c231cf", "c-69ea7ee3ee", "c-7717d1edc9"]
+        },
+        {
+          "texto": "Quiere elevar al 2,5 % del PIB la participación municipal en los tributos del Estado y reformar la regla de gasto de los ayuntamientos.",
+          "apoyos": ["c-96d9efbb4e", "c-076394343f", "c-05d4279990", "c-9e18379f1e", "c-c4da8724d5"]
+        },
+        {
+          "texto": "Propone también una ley del plurilingüismo y traspasar Rodalies a la Generalitat de Cataluña.",
+          "apoyos": ["c-79abbbeeb8", "c-9c2b464df0", "c-4d88004541"]
+        }
+      ]
+    }
+  ]
+}

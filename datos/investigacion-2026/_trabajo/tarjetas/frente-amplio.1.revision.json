@@ -1,0 +1,81 @@
+{
+  "partido": "frente-amplio",
+  "lote": "frente-amplio.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-ff320fef10",
+          "motivo": "Eje central de su plan de vivienda (primer bloque del programa y línea 2 del resumen): un gran parque público financiado con el 1 % del PIB anual. Lleva cifra, se entiende sola y la repite su nota de prensa del 28 de octubre; Colau también insiste en «ampliar el parque de vivienda social». La versión de 1,5 millones de viviendas (c-633e8835c3) enumera muchos instrumentos y la de la introducción (c-f408261bfd) mezcla cinco medidas.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-ad7b9e6c76",
+          "motivo": "Cubre la regulación de precios: tope legal del alquiler en zonas tensionadas ligado al 25 % de la renta del barrio (línea 3 del resumen; Colau pide en campaña «regular los alquileres» y bajar precios).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-6e111d1860",
+          "motivo": "Cubre la línea contra los grandes tenedores (línea 4): expropiación por fases a propietarios corporativos. Es lo que más destaca en campaña (Colau el 14 de noviembre, «expropiar a los fondos buitre», y nota de prensa del 6 de noviembre con las mismas fases). Nombra empresas, no partidos, así que no delata a quien firma.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-1f4d99238d",
+          "motivo": "Línea 1 del resumen: reducción progresiva de la jornada hasta 32 horas semanales sin depender del título del apartado (c-44d5e18056 no dice que habla de la jornada laboral). Sale en campaña (Martínez Barbero, IU y Delgado con «trabajar menos y vivir mejor»). Tiene 69 palabras, dentro del máximo.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-b1902764c9",
+          "motivo": "Cubre la línea salarial (línea 2): suelo legal del salario mínimo en el 60 % del salario medio neto. Es lo que más repiten sus portavoces en campaña (Delgado, Gomila e IU).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-f00ff97d76",
+          "motivo": "Cubre la protección por desempleo (línea 4): subir la prestación al 80 % los seis primeros meses y un 25 % los topes. Concreta y con cifras. La línea 3 (plantillas en los consejos y reparto de beneficios) se cubre en economía, donde están sus medidas.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-a2ad6015eb",
+          "motivo": "Línea 1 del resumen: topes de precio para los alimentos básicos en emergencias o abusos. Es lo que destaca en campaña (Gomila: «limitaremos los precios de los alimentos básicos»; IU: «controlar los precios de los bienes básicos»).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-157a40fe42",
+          "motivo": "Cubre la «democracia en la empresa» (línea 3): reparto obligatorio del 10 % del beneficio entre la plantilla en empresas de 50 o más trabajadores. Concreta, con cifra y dentro del límite; la de los consejos de administración (c-9f8a150172) tiene 86 palabras.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-0f475d51bb",
+          "motivo": "Cubre el «Estado emprendedor» (línea 2): convertir la SEPI en una Agencia Industrial Pública capaz de crear empresas públicas y entrar en sectores estratégicos. La banca pública (c-57158de839) sería una alternativa equivalente.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    }
+  ]
+}

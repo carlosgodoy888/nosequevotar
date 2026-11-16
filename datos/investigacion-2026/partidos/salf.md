@@ -4,8 +4,8 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Luis "Alvise" Pérez Fernández, número 1 por Madrid
-- **Programa para el 29 de noviembre:** publicado (comprobado el 12 de noviembre de 2026)
-- **Citas recogidas:** 254 vigentes: 230 medidas, de ellas 217 concretas, y 24 posiciones. De programa, verificadas contra su página: 155 exactas y 90 normalizadas.
+- **Programa para el 29 de noviembre:** publicado (comprobado el 16 de noviembre de 2026)
+- **Citas recogidas:** 264 vigentes: 240 medidas, de ellas 227 concretas, y 24 posiciones. De programa, verificadas contra su página: 155 exactas y 90 normalizadas. Declaraciones verificadas abriendo su fuente: 19.
 
 ## Lo que dicen sus documentos
 
@@ -337,39 +337,52 @@ Declaraciones, no programa.
 
 ### Vivienda
 
+- «Tu primera vivienda, 100 % libre de impuestos. Un piso de 300.000 € pasa a costar 195.000.» · Luis «Alvise» Pérez Fernández, presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid · 10 de noviembre de 2026 · [redes sociales: Canal oficial de Telegram de Alvise Pérez (@Alviseperez)](https://t.me/Alviseperez/15096) · medida concreta · _Compra de primera vivienda sin impuestos_
 - «Todo debe ser urbanizable, salvo razones objetivas. Quien construya tendrá ventajas fiscales» · Luis «Alvise» Pérez, Presidente de SALF y eurodiputado, (SALF) · 12 de octubre de 2025 · [declaración en medios: El Independiente](https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/) · medida · _Liberalización del suelo, acto de Vistalegre_
-
-### Pensiones
-
-- «El sistema de pensiones no es sostenible, las pensiones ya se pagan con deudas y el poder pretende una guerra entre jóvenes y abuelos» · Luis «Alvise» Pérez, Presidente de SALF y eurodiputado, (SALF) · 12 de octubre de 2025 · [declaración en medios: El Independiente](https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/) · posición · _Diagnóstico sobre la sostenibilidad del sistema de pensiones_
-
-### Impuestos
-
-- «Por ello, anunciamos el 0% del IRPF al español que cobre menos de 30.000 euros, y rebajaremos medio punto por cada hijo que se tenga para aumentar la natalidad» · Luis «Alvise» Pérez, Presidente de SALF y eurodiputado, (SALF) · 12 de octubre de 2025 · [declaración en medios: El Independiente](https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/) · medida concreta · _Versión anterior de la rebaja del IRPF (Vistalegre 2025)_
 
 ### Sanidad
 
+- «60 días como máximo para operarte.» · Luis «Alvise» Pérez Fernández, presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid · 10 de noviembre de 2026 · [redes sociales: Canal oficial de Telegram de Alvise Pérez (@Alviseperez)](https://t.me/Alviseperez/15096) · medida concreta · _Plazo máximo de espera quirúrgica de 60 días_
 - «Cuando dependa de nosotros haremos que ningún español tenga que verse tirado como tu con horas de espera mientras tienen preferencia los que vienen de la mano de las ONG» · Luis «Alvise» Pérez, Presidente de SALF y eurodiputado, (SALF) · 12 de octubre de 2025 · [declaración en medios: El Independiente](https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/) · medida · _Esperas sanitarias y prioridad a españoles_
 
 ### Inmigración
 
+- «Inmigración ilegal: expulsión en 48 horas y fin de las regularizaciones.» · Luis «Alvise» Pérez Fernández, presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid · 10 de noviembre de 2026 · [redes sociales: Canal oficial de Telegram de Alvise Pérez (@Alviseperez)](https://t.me/Alviseperez/15096) · medida concreta · _Expulsiones en 48 horas y fin de regularizaciones_
 - «Por ello, anuncio un plan de deportación masiva de inmigrantes ilegales financiado con los millones de ayuda en cooperación internacional a la cooperación, empezando por Marruecos. No usaremos barcos para escoltar flotillas, sino para expulsar del país y vetar la entrada ilegal» · Luis «Alvise» Pérez, Presidente de SALF y eurodiputado, (SALF) · 12 de octubre de 2025 · [declaración en medios: El Independiente](https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/) · medida · _Plan de deportación masiva anunciado en Vistalegre_
 
 ### Democracia e instituciones
 
+- «SALF acaba de firmar algo que no vamos a ver en ningún otro partido: Si no cumple su programa, pierde el 100 % de su sueldo.» · Luis «Alvise» Pérez Fernández, presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid · 10 de noviembre de 2026 · [redes sociales: Canal oficial de Telegram de Alvise Pérez (@Alviseperez)](https://t.me/Alviseperez/15096) · medida concreta · _Sueldo de sus cargos condicionado al cumplimiento del programa_
+- «La corrupción no prescribe. El corrupto devuelve el triple y el que lo denuncia cobra el 15 %.» · Luis «Alvise» Pérez Fernández, presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid · 10 de noviembre de 2026 · [redes sociales: Canal oficial de Telegram de Alvise Pérez (@Alviseperez)](https://t.me/Alviseperez/15096) · medida concreta · _Imprescriptibilidad de la corrupción y recompensa al denunciante_
+- «De 22 ministerios a 10. Fuera el Senado y fuera los 17.621 aforados.» · Luis «Alvise» Pérez Fernández, presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid · 10 de noviembre de 2026 · [redes sociales: Canal oficial de Telegram de Alvise Pérez (@Alviseperez)](https://t.me/Alviseperez/15096) · medida concreta · _Reducción de ministerios, supresión del Senado y de aforamientos_
 - «El Senado es una cámara obsoleta. Cuesta 68 millones de euros al año y no decide nada que el Congreso no pueda deshacer con una votación. Tal y como está, lo honesto es cerrarlo y dedicar cada euro de ese presupuesto al bien común.» · Luis «Alvise» Pérez, Presidente de SALF y eurodiputado, (SALF) · 26 de octubre de 2026 · [declaración en medios: The Objective](https://theobjective.com/espana/politica/2026-10-27/alvise-senado-pp-vox-congreso/) · posición · _Carta a la militancia a favor de suprimir el Senado_
 
 ### Medio ambiente y energía
 
 - «Defensa del campo y de la industria. Veto a Mercosur, al recorte de la PAC y al Pacto Verde.» · el partido, (SALF) · 10 de noviembre de 2026 · [documento del partido: Se Acabó La Fiesta, web oficial](https://www.seacabolafiesta.com/29n) · medida concreta · _Veto español al Pacto Verde europeo_
 
-### Campo y medio rural
-
-- «¿Y qué clase de UE es esa que desmantela nuestra productividad? ¿Qué es esa UE que destruye nuestro campo y a nuestros agricultores?» · Luis «Alvise» Pérez, Presidente de SALF y eurodiputado, (SALF) · 12 de octubre de 2025 · [declaración en medios: El Independiente](https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/) · posición · _Crítica a la política agraria de la UE_
-
 ### Política exterior y defensa
 
 - «La UE ha traicionado los principios fundacionales con una visión globalista que quiere enviaros a morir a conflictos que no son nuestros. Ni una gota de sangre española para defender los intereses de la UE» · Luis «Alvise» Pérez, Presidente de SALF y eurodiputado, (SALF) · 12 de octubre de 2025 · [declaración en medios: El Independiente](https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/) · posición · _Rechazo a implicación militar europea, en referencia a Ucrania_
 
-Sin declaraciones recogidas sobre: Empleo y salarios, Economía y empresas, Educación, Seguridad y justicia, Organización territorial, Transporte e infraestructuras, Igualdad y derechos, Ciencia, cultura y digital.
+### Seguridad y justicia
+
+- «Macrocárcel para asesinos, violadores, narcos y políticos corruptos. Sin permisos.» · Luis «Alvise» Pérez Fernández, presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid · 10 de noviembre de 2026 · [redes sociales: Canal oficial de Telegram de Alvise Pérez (@Alviseperez)](https://t.me/Alviseperez/15096) · medida concreta · _Macrocárcel sin permisos penitenciarios para delitos graves y corrupción política_
+
+### Impuestos
+
+- «Ni un euro de IRPF por tus primeros 35.000 €.» · Luis «Alvise» Pérez Fernández, presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid · 10 de noviembre de 2026 · [redes sociales: Canal oficial de Telegram de Alvise Pérez (@Alviseperez)](https://t.me/Alviseperez/15096) · medida concreta · _Mínimo exento de IRPF de 35.000 euros_
+- «Fuera el IBI y fuera el impuesto de Sucesiones.» · Luis «Alvise» Pérez Fernández, presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid · 10 de noviembre de 2026 · [redes sociales: Canal oficial de Telegram de Alvise Pérez (@Alviseperez)](https://t.me/Alviseperez/15096) · medida concreta · _Supresión del IBI y del impuesto de sucesiones_
+- «Por ello, anunciamos el 0% del IRPF al español que cobre menos de 30.000 euros, y rebajaremos medio punto por cada hijo que se tenga para aumentar la natalidad» · Luis «Alvise» Pérez, Presidente de SALF y eurodiputado, (SALF) · 12 de octubre de 2025 · [declaración en medios: El Independiente](https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/) · medida concreta · _Versión anterior de la rebaja del IRPF (Vistalegre 2025)_
+
+### Pensiones
+
+- «Pensiones blindadas en la Constitución. Mínima de 1.000 € con 35 años cotizados.» · Luis «Alvise» Pérez Fernández, presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid · 10 de noviembre de 2026 · [redes sociales: Canal oficial de Telegram de Alvise Pérez (@Alviseperez)](https://t.me/Alviseperez/15096) · medida concreta · _Pensiones en la Constitución y mínima de 1.000 euros_
+- «El sistema de pensiones no es sostenible, las pensiones ya se pagan con deudas y el poder pretende una guerra entre jóvenes y abuelos» · Luis «Alvise» Pérez, Presidente de SALF y eurodiputado, (SALF) · 12 de octubre de 2025 · [declaración en medios: El Independiente](https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/) · posición · _Diagnóstico sobre la sostenibilidad del sistema de pensiones_
+
+### Campo y medio rural
+
+- «¿Y qué clase de UE es esa que desmantela nuestra productividad? ¿Qué es esa UE que destruye nuestro campo y a nuestros agricultores?» · Luis «Alvise» Pérez, Presidente de SALF y eurodiputado, (SALF) · 12 de octubre de 2025 · [declaración en medios: El Independiente](https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/) · posición · _Crítica a la política agraria de la UE_
+
+Sin declaraciones recogidas sobre: Empleo y salarios, Economía y empresas, Educación, Igualdad y derechos, Transporte e infraestructuras, Organización territorial, Ciencia, cultura y digital.
 

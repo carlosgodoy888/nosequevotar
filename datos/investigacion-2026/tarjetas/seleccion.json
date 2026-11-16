@@ -1,0 +1,3610 @@
+{
+ "nota": "Tarjetas del test de 2026: por candidatura y tema, hasta tres medidas en orden (la primera es la del test rápido; las tres, las del completo). Cada «id» es el de una cita de citas/<partido>.json. «texto» solo aparece si la tarjeta no lleva la medida tal cual: es la misma medida sin lo que delata a quien la firma, y «cambio» dice qué se ha quitado. Lo une scripts/investigacion/unir-tarjetas.mjs a partir de las elecciones revisadas; después se puede editar a mano (una candidatura con \"bloqueada\": true no se vuelve a pisar). El banco que usa la web lo genera scripts/investigacion/generar-banco.mjs.",
+ "criterio": "Las medidas más representativas del conjunto de propuestas y de la filosofía de la candidatura en cada tema, teniendo en cuenta a qué medidas da más relieve en su campaña. La medida va tal como está escrita en el programa; solo se quita lo que delata a quien la firma. Los nombres de territorio se dejan.",
+ "aprobado": "2026-11-16",
+ "partidos": {
+  "pp": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-cf9eee0af6",
+      "motivo": "Primera línea del resumen (un millón de viviendas) y la que Feijóo repite en campaña («lo importante es que vamos a hacer un millón de viviendas»); con cifra, breve y votable."
+     },
+     {
+      "id": "c-f32f0dd897",
+      "motivo": "Segunda línea del resumen: derogar la Ley de Vivienda; más general que la eliminación de zonas tensionadas, que la concreta."
+     },
+     {
+      "id": "c-a0d837b348",
+      "motivo": "Tercera línea del resumen (ayuda a la compra de jóvenes): IVA del 4% en la primera vivienda de menores de 40 años, con cifra; el aval de entrada es de la misma línea y pasa de 50 palabras."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-64f6a0239d",
+      "motivo": "Primera línea del resumen (autónomos): cuota cero el primer año para los nuevos autónomos, titular del apartado y con plazo."
+     },
+     {
+      "id": "c-76dc096756",
+      "motivo": "Segunda línea del resumen (abaratar la contratación): bonificación del 100% de las cotizaciones por el primer trabajador durante un año, con cifras."
+     },
+     {
+      "id": "c-a6e2cb2de7",
+      "motivo": "Tercera línea del resumen (formación): cheque de formación para cada trabajador; explica la medida completa, a diferencia del titular sobre la inteligencia artificial."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-90746e7c86",
+      "motivo": "Primera línea del resumen: auditoría de todo el gasto en cien días, que Feijóo destaca en campaña («en el primer Consejo de Ministros arrancará una auditoría»); 73 palabras, dentro del límite, y no hay versión más corta equivalente."
+     },
+     {
+      "id": "c-99a2971e1d",
+      "motivo": "Segunda línea del resumen (disciplina fiscal): ningún gasto nuevo sin garantizar su financiación; breve y votable."
+     },
+     {
+      "id": "c-7f3d9f1807",
+      "motivo": "Cuarta línea del resumen (impulso industrial): proyectos de al menos cien empleos declarados estratégicos y con tramitación acelerada; la línea de reducción de cargas no tiene candidata propia en este tema."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-4dee3ad7e2",
+      "motivo": "Línea de refuerzo de profesionales del resumen: al menos 4.500 médicos más en Atención Primaria; la medida más concreta y con cifra, y se entiende sola, mientras que la del plan de listas de espera empieza remitiendo a lo anterior («Con ese objetivo»)."
+     },
+     {
+      "id": "c-b315c478f1",
+      "motivo": "Primera línea del resumen: plan urgente de reducción de listas de espera con las comunidades; más concreto que el Pacto de Estado. El «Con ese objetivo» inicial no impide entenderla, porque el propio texto dice para qué es el plan."
+     },
+     {
+      "id": "c-3df3730856",
+      "motivo": "Tercera línea del resumen: Plan Nacional de Salud Mental 2027-2037 con financiación garantizada."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-b562855e14",
+      "motivo": "Línea central de vía legal y ordenada: cupos anuales de trabajadores por sectores, condicionados a que los países colaboren en los retornos; es lo que Feijóo repite en campaña («establecer cupos máximos y vías legales») y conserva el componente de control."
+     },
+     {
+      "id": "c-dc9956ce1c",
+      "motivo": "Tercera línea del resumen: prohibir por ley las regularizaciones masivas y hacer excepcional el arraigo; titular destacado y distinto de los cupos."
+     },
+     {
+      "id": "c-4d95eed4ed",
+      "motivo": "Primera línea del resumen (control de la frontera): más agentes y apoyo de las Fuerzas Armadas en la frontera sur; breve y clara."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-a6fef7e916",
+      "motivo": "Línea anticorrupción del resumen (restablecer las penas por malversación), la que Feijóo destaca en campaña («Quien haya robado, lo pagará»); breve y votable."
+     },
+     {
+      "id": "c-1430346a3e",
+      "motivo": "Primera línea del resumen (adelgazar la estructura política): menos ministerios, altos cargos y asesores."
+     },
+     {
+      "id": "c-70ae146b02",
+      "motivo": "Segunda línea del resumen (independencia de las instituciones): reforma de RTVE y EFE en los primeros cien días; lleva plazo y es la de mayor alcance público. La del CIS (c-bc5160fecc) sería una alternativa igual de válida, no claramente mejor."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-e4c1903b9d",
+      "motivo": "Primera línea del resumen: sustituir la LOMLOE por un nuevo marco acordado; el cambio de fondo del que cuelgan las demás medidas."
+     },
+     {
+      "id": "c-61fd806392",
+      "motivo": "Segunda línea del resumen: libre elección de colegio y mantenimiento de los conciertos donde haya demanda; titular destacado."
+     },
+     {
+      "id": "c-141cb3adf3",
+      "motivo": "Tercera línea del resumen: escuela infantil de 0 a 3 años gratuita, con reparto de financiación y plazo."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-d28657f2f3",
+      "motivo": "Primera línea del resumen: eliminar el calendario de cierre de las nucleares y extender su vida útil en los primeros cien días; medida titular de su política energética."
+     },
+     {
+      "id": "c-d0629e0d0f",
+      "motivo": "Tercera línea del resumen: Pacto Nacional del Agua con hasta 40.000 millones hasta 2030; lo destaca el partido en campaña."
+     },
+     {
+      "id": "c-aad647fc71",
+      "motivo": "Segunda línea del resumen: suprimir de inmediato el impuesto del 7% a la producción eléctrica y bajar la carga fiscal del recibo. El titular añade la Tarifa Social Única, pero son dos acciones de la misma línea (abaratar la luz) y se puede votar con claridad; no hay otra candidata con la rebaja fiscal."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-60d6180a0a",
+      "motivo": "Encabeza su línea principal en defensa (ley de programación y financiación con objetivos de personal y material); es una sola acción clara y breve, frente a la de efectivos, que mezcla muchas."
+     },
+     {
+      "id": "c-1737eeb4e7",
+      "motivo": "Cubre la segunda línea: reforzar el despliegue militar en Ceuta, Melilla y Canarias, más el pilar europeo de la OTAN."
+     },
+     {
+      "id": "c-054fcf4150",
+      "motivo": "Cubre la tercera línea de su postura exterior: mantener el apoyo a Ucrania y las sanciones a Rusia."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-9fdf372a5f",
+      "motivo": "Primera línea de su postura (endurecer penas por disturbios violentos) y la que acaba de presentar en campaña a policías y guardias civiles el 12 de noviembre; una sola reforma, clara y sin cabecera."
+     },
+     {
+      "id": "c-cf23560bf8",
+      "motivo": "Representa su línea en justicia: que los jueces elijan a los doce vocales judiciales del CGPJ, medida central y concreta."
+     },
+     {
+      "id": "c-23da7df478",
+      "motivo": "Cubre la línea de lucha contra el crimen organizado (refuerzo de unidades y unidad permanente en la frontera sur), distinta del endurecimiento penal."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-a9fcb70b32",
+      "motivo": "Primera línea del resumen: refundir las deducciones familiares del IRPF en una sola, reembolsable y de cobro mensual, que el programa presenta como eje de su política familiar."
+     },
+     {
+      "id": "c-1dd57b1388",
+      "motivo": "Cubre la línea de dependencia con su medida más concreta: deducción del 40% de la atención profesional y cotización del Estado por el cuidador familiar."
+     },
+     {
+      "id": "c-03d8147a50",
+      "motivo": "Cubre la línea de protección de menores en redes: prohibición de cuentas antes de los 14 y autorización paterna hasta los 16, medida corta y muy clara."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-3458678e0f",
+      "motivo": "Primera línea del resumen: bajar el IRPF a rentas medias y bajas y a familias y elevar los mínimos; es la que mejor resume por sí sola su política fiscal."
+     },
+     {
+      "id": "c-0d31b43e92",
+      "motivo": "La rebaja del IRPF a jóvenes de 18 a 35 años (100% el primer año hasta 25% el cuarto) es la que Feijóo repite en campaña y lleva cifras y plazos."
+     },
+     {
+      "id": "c-db38187ad5",
+      "motivo": "Cubre la tercera línea: IVA del 0% para alimentos básicos mientras dure la crisis de inflación."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-79a0d24288",
+      "motivo": "Primera línea del resumen (protección de las mujeres frente a la violencia, con una ley integral contra la trata); se entiende sola, a diferencia de la de los dispositivos."
+     },
+     {
+      "id": "c-3ff7262052",
+      "motivo": "Cubre la línea de revisar la Ley Trans y eliminar la libre autodeterminación registral del sexo."
+     },
+     {
+      "id": "c-051bd75e04",
+      "motivo": "Cubre la línea de derogar la Ley de Memoria Democrática y sustituirla por una ley de concordia; la otra medida de esa línea («La sustituiremos…») no se entiende sola, así que se usa esta con el cambio mínimo."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-91ab499d65",
+      "motivo": "Blindar la caja única de la Seguridad Social es una línea principal del resumen y la única medida propia del tema que se entiende sola y es de peso (la de revalorizar con el IPC no dice de qué habla sin el título del apartado)."
+     },
+     {
+      "id": "c-b8b3293800",
+      "motivo": "Cubre la línea de incentivar la jubilación activa con deducciones en el IRPF."
+     },
+     {
+      "id": "c-0b5e210b33",
+      "motivo": "De otro tema, usada porque faltan medidas propias válidas: compatibilizar las pensiones de discapacidad con el empleo, que el resumen recoge en la tercera línea. No se usa en familias-y-cuidados."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-9cdabe49b5",
+      "motivo": "Primera línea del resumen: priorizar mantenimiento y seguridad, con especial atención al ferrocarril (renovar vías y trenes y mantenimiento preventivo)."
+     },
+     {
+      "id": "c-a011e55198",
+      "motivo": "Cubre el Plan Nacional de Infraestructuras de más de 300.000 millones en 15 años con el sector privado; el «Por ello» inicial no impide entenderla."
+     },
+     {
+      "id": "c-822f2cd3df",
+      "motivo": "Cubre la línea de carreteras: programa de conservación de los más de 26.500 km de la red estatal."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-c4c6477a5a",
+      "motivo": "Resume su línea principal en financiación: ninguna comunidad sale del régimen común, sin regímenes bilaterales y con decisión multilateral."
+     },
+     {
+      "id": "c-b725caaa88",
+      "motivo": "Cubre la línea de Ceuta y Melilla con un nuevo modelo de financiación y su marco fiscal; más concreta que la de financiación local, de la misma línea."
+     },
+     {
+      "id": "c-25e96019cb",
+      "motivo": "Cubre la línea lingüística (castellano como lengua común), con la medida que el programa destaca con cabecera; no hay candidata sobre la enseñanza en castellano."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-60e1a4bffa",
+      "motivo": "Primera línea del resumen: el Pacto Nacional para el Campo, el Mar y el Monte, medida paraguas de su programa rural."
+     },
+     {
+      "id": "c-5d6e9f1a2a",
+      "motivo": "Cubre la línea de exigir a los alimentos importados lo mismo que a los productores españoles."
+     },
+     {
+      "id": "c-3f98d54017",
+      "motivo": "Cubre la línea de protección de ingresos: seguro de ingresos y rentas frente a alteraciones del mercado."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-240ec72b06",
+      "motivo": "Representa su línea de investigación e innovación con la medida más característica: aumentar la deducción fiscal por I+D+i. (La primera línea del resumen, redes sociales a menores, solo se ofrece en familias-y-cuidados, donde ya está elegida.)"
+     },
+     {
+      "id": "c-cbe2e3049c",
+      "motivo": "Cubre la línea cultural con su medida principal, una nueva Ley de Mecenazgo con más incentivos."
+     },
+     {
+      "id": "c-1845c577de",
+      "motivo": "Completa la línea de innovación con las zonas de innovación estratégica, que el resumen recoge y el programa destaca con cabecera; la línea del cheque de formación en IA no tiene candidata y la del Premio de Tauromaquia es más llamativa que central."
+     }
+    ]
+   }
+  },
+  "psoe": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-df4346b0f8",
+      "motivo": "El grueso de su programa de vivienda es aumentar la oferta pública y asequible (parque estatal, ICO, suelo, plan estatal, proveedores sociales); el parque público de 100.000 viviendas lo resume con cifra y es más votable que el 1% del PIB. El impuesto a grandes tenedores pesa en campaña, pero es una sola medida dentro de un programa centrado en la oferta pública, así que se mantiene este orden."
+     },
+     {
+      "id": "c-0f5708d128",
+      "motivo": "Línea fiscal contra la especulación (impuesto progresivo a viviendas de grandes tenedores no destinadas a alquiler asequible), la que más repite Sánchez en campaña; dice lo mismo que c-918d56d137 en la mitad de palabras."
+     },
+     {
+      "id": "c-5ba7199050",
+      "motivo": "Línea de regulación del alquiler (congelar temporalmente las rentas por encima de los índices de referencia), distinta de la oferta pública y del impuesto y recogida en el resumen."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-9f11b3d30d",
+      "motivo": "Primera línea del resumen: blindar por ley el SMI por encima del 60% del salario medio, con cifra; encaja con el mensaje salarial de campaña."
+     },
+     {
+      "id": "c-9df3920cad",
+      "motivo": "Segunda línea principal: completar la reducción de jornada a 37,5 horas sin pérdida salarial y avanzar hacia las 35."
+     },
+     {
+      "id": "c-a5d51f4b24",
+      "motivo": "Prestación de cuatro semanas de permiso al 100% para cuidar a hijos menores de ocho años: está en el resumen y es la promesa laboral que más destaca Sánchez en campaña; se prefiere a la reforma del despido por ese peso en campaña."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-49005d5903",
+      "motivo": "Primera línea del resumen: nueva etapa de inversión productiva con el Fondo España Crece de 120.000 millones; encaja con el mensaje de campaña de más inversión y lleva cifra."
+     },
+     {
+      "id": "c-cef708fde2",
+      "motivo": "Línea de coste de la vida: bono social único y automático, medida concreta y fácil de votar."
+     },
+     {
+      "id": "c-0dfc16ac26",
+      "motivo": "Política industrial y de autonomía estratégica (Ley de Industria y Autonomía Estratégica), parte central del resumen y de la campaña; la lista de sectores describe los medios de una misma política, no acciones distintas."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-5ed0943cdb",
+      "motivo": "Primera línea del resumen: acabar con las listas de espera con financiación pública en torno al 7% del PIB y reforzando el carácter público del SNS."
+     },
+     {
+      "id": "c-3dbaa1ee69",
+      "motivo": "Plan Sonríe: incorporar los tratamientos dentales básicos de adultos a la sanidad pública, línea propia del resumen; la ayuda de 200 euros empieza por «Mientras tanto» y no se entiende sola."
+     },
+     {
+      "id": "c-fab4f84055",
+      "motivo": "Salud mental: atención psicológica gratuita con primera consulta en 30 días como máximo, línea propia del resumen con plazo concreto."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-5137fd8b8e",
+      "motivo": "Integración con derechos y obligaciones: Plan de Integración y Ciudadanía 2026-2030 con 500 millones, con cifra; la línea de migración ordenada y contratación en origen no tiene medida candidata."
+     },
+     {
+      "id": "c-ced36fa5bd",
+      "motivo": "Línea de asilo y acogida: ampliar las vías legales y seguras de protección internacional y reforzar el sistema público de acogida."
+     },
+     {
+      "id": "c-565862540c",
+      "motivo": "Vertiente de emigración (plan de retorno del talento joven), medida propia del tema, corta y que se entiende sola; c-9f5d3ae5a3 mezcla el retorno con la reforma consular y las de otro tema no se usan porque hay medidas propias suficientes."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-35f95c0f4a",
+      "motivo": "Primera línea del resumen: reforma constitucional para proteger la salud y la vivienda como derechos fundamentales; la campaña también insiste en reformas constitucionales de derechos sociales."
+     },
+     {
+      "id": "c-f2dc12ab09",
+      "motivo": "Línea anticorrupción: Ley de Integridad Pública y Agencia Independiente de Integridad Pública, núcleo de la línea 3 del resumen."
+     },
+     {
+      "id": "c-f449e653d8",
+      "motivo": "Línea de participación: rebajar la edad de voto a 16 años, medida clara para votar; el escaño ciudadano va mezclado con la rebaja de firmas de la ILP."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-a5bcae41f2",
+      "motivo": "Primera línea del resumen: universalizar la educación de 0 a 3 años con más escuelas infantiles públicas."
+     },
+     {
+      "id": "c-62991e5157",
+      "motivo": "Línea universitaria con su medida más concreta: matrícula gratuita del primer curso de grado en las universidades públicas."
+     },
+     {
+      "id": "c-2750317968",
+      "motivo": "Línea de becas y alumnos por aula (línea 2 del resumen); el propio programa junta las dos cosas en una medida, ambas en la misma dirección, y no hay otra candidata que las recoja."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-861b2601d8",
+      "motivo": "Primera línea del resumen: renovables hasta el 81% de la generación eléctrica en 2030, con cifra; enlaza con la apuesta por las energías limpias de la campaña."
+     },
+     {
+      "id": "c-4976ef8b1f",
+      "motivo": "Postura nuclear: mantener el calendario de cierre de las centrales hasta 2035, línea 2 del resumen y claramente votable."
+     },
+     {
+      "id": "c-95d2635b6c",
+      "motivo": "Adaptación al cambio climático (Ley de Adaptación al Cambio Climático), primera medida de la línea 3 del resumen."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-3d7efc980e",
+      "motivo": "Línea de conflictos del resumen (dos Estados en Israel y Palestina, sanciones de la UE a quien la obstaculice), la más concreta y reconocible de su política exterior; la de reforma de la ONU mezcla demasiadas acciones."
+     },
+     {
+      "id": "c-ac710fe079",
+      "motivo": "Línea europeísta del resumen: superar los bloqueos de la unanimidad en la UE y reforzar el Parlamento Europeo; breve y votable."
+     },
+     {
+      "id": "c-a141f0b6d9",
+      "motivo": "Línea de cooperación al desarrollo con su objetivo cuantificado (0,7 % de la RNB en ayuda oficial al desarrollo)."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-7ac9e01194",
+      "motivo": "Primera línea del resumen: más efectivos de Policía Nacional y Guardia Civil y su redistribución territorial."
+     },
+     {
+      "id": "c-649537a8d3",
+      "motivo": "Segunda línea del resumen y la más propia de su postura en seguridad: sustituir la Ley de Seguridad Ciudadana de 2015 garantizando reunión y manifestación."
+     },
+     {
+      "id": "c-c3205f9a30",
+      "motivo": "Línea de justicia del resumen con plazos y cifras (juicios por despido y desahucio en tres meses, desalojo de viviendas ocupadas en 48 horas, más jueces y fiscales)."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-8a8fb7d108",
+      "motivo": "Su línea principal es el apoyo económico a la crianza; la prestación por crianza pasa de 80 palabras, así que va la Cuenta de Futuro de 1.000 euros al nacer, siguiente medida del resumen y con cifra."
+     },
+     {
+      "id": "c-3e8fa96de8",
+      "motivo": "Línea de cuidados y servicios sociales del resumen: la primera Ley de Servicios Sociales con cartera común pactada con las comunidades."
+     },
+     {
+      "id": "c-1f5f867098",
+      "motivo": "Protección de la infancia en el entorno digital (edad mínima de 16 años en redes), en el resumen y repetida en campaña."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-f8ac57932f",
+      "motivo": "Primera línea del resumen y eje de su propuesta fiscal: más progresividad en las rentas del capital, hasta un tipo máximo del 35 % por encima de 300.000 euros."
+     },
+     {
+      "id": "c-8294729142",
+      "motivo": "Vertiente de alivio para rentas medias y bajas: mínimo por descendiente convertido en crédito fiscal reembolsable, con cifra de hogares."
+     },
+     {
+      "id": "c-4479a55f51",
+      "motivo": "Línea de gravar más a grandes empresas y rentas altas con la medida más concreta y votable de ese bloque (cotizadas cuyo ejecutivo cobre más de 100 veces la mediana de su plantilla)."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-4e2d908183",
+      "motivo": "Línea central contra la violencia de género con la nueva medida legislativa que destaca el resumen: una ley orgánica contra la violencia vicaria."
+     },
+     {
+      "id": "c-582ba84e0b",
+      "motivo": "Línea de derechos LGTBI del resumen: que la Ley 4/2023 sea el suelo común en toda España frente a retrocesos autonómicos."
+     },
+     {
+      "id": "c-87105f7e83",
+      "motivo": "Otra línea del resumen, la penalización de las «terapias de conversión», breve y votable."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-ae3d8d7d6a",
+      "motivo": "Primera línea del resumen y compromiso que su candidato repite en campaña: blindar en la Constitución las pensiones públicas y su revalorización con el IPC."
+     },
+     {
+      "id": "c-c019c0b0dc",
+      "motivo": "Línea de consolidar y financiar el sistema: acelerar la cuota de solidaridad durante la próxima legislatura."
+     },
+     {
+      "id": "c-f7928bb186",
+      "motivo": "Línea de mejoras de prestaciones concretas del resumen, con cifra (pensión de orfandad del 20 % al 30 %)."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-bf97752f36",
+      "motivo": "Primera línea del resumen tras los accidentes ferroviarios de 2026: Pacto de Estado por la Seguridad Ferroviaria con auditoría técnica en dos meses; 72 palabras, dentro del límite."
+     },
+     {
+      "id": "c-e726e17bf1",
+      "motivo": "Línea de modernización ferroviaria del resumen: Cercanías y Media Distancia y corredores Mediterráneo y Atlántico."
+     },
+     {
+      "id": "c-2baf3e93dd",
+      "motivo": "Línea de carreteras con cifra y plazo (5.000 km de firme y 1.629 millones en cuatro años)."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-743fd19fad",
+      "motivo": "Línea de financiación autonómica con cifra (el Estado asume 83.000 millones de deuda autonómica); la del nuevo sistema de financiación es más larga y nombra al Gobierno."
+     },
+     {
+      "id": "c-783d64d393",
+      "motivo": "Línea institucional del resumen: un Senado territorial con circunscripciones autonómicas."
+     },
+     {
+      "id": "c-3327ce6fc1",
+      "motivo": "Línea de lenguas cooficiales: extender su uso a la Administración General del Estado en sus territorios."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-8697d8f3c8",
+      "motivo": "Primera línea del resumen y única candidata que la recoge: la Ley de Agricultura Familiar y Profesional dentro de un paquete para el sector agrario. Termina en «cinco objetivos:» sin enumerarlos, pero lo que se vota (aprobar el paquete y la ley) se entiende."
+     },
+     {
+      "id": "c-0842091f4d",
+      "motivo": "Línea de pesca del resumen: un Plan de Transición Justa para la pesca y la acuicultura."
+     },
+     {
+      "id": "c-4b541a70fe",
+      "motivo": "Tercera medida propia del tema (estrategia de alimentación ecológica); las de otro tema solo pueden usarse si faltan propias."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-3ac9d23e25",
+      "motivo": "Línea de control a las plataformas digitales, que ocupa buena parte de sus medidas del tema y que su candidato destaca en campaña (responsabilidad incluso penal de los directivos)."
+     },
+     {
+      "id": "c-1bbf27aea8",
+      "motivo": "Línea de ciencia con cifras y plazo: subir cada año la inversión pública en I+D hasta el 1,25 % del PIB y el 1,5 % en 2035."
+     },
+     {
+      "id": "c-ce11b0e11c",
+      "motivo": "Línea de cultura del resumen: la Ley General de Cultura con derechos culturales y financiación estable, su medida principal en cultura."
+     }
+    ]
+   }
+  },
+  "vox": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-a7720ec799",
+      "motivo": "Línea 1 del resumen (reforma de la Ley del Suelo, más suelo y menos trámites para construir más); es lo que repiten en campaña Abascal («no se construye vivienda») y Cerezo («más suelo y plazos cerrados»)."
+     },
+     {
+      "id": "c-72da371848",
+      "motivo": "Línea 3: «prioridad nacional» en vivienda protegida y ayudas al alquiler, rasgo propio de su postura y de su campaña."
+     },
+     {
+      "id": "c-f7b6cb46e8",
+      "motivo": "Línea 2, parte fiscal (IVA 0 % e ITP bonificado en la primera vivienda), que Cerezo destaca en campaña. El desalojo en 24 horas (línea 4) queda fuera, pero el resumen lo sitúa por detrás de estas tres líneas."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-634f7b5f1d",
+      "motivo": "Línea 1 del resumen: derogar la reforma laboral actual; es la única medida de esa línea. El cambio de texto se limita a quitar «de Sánchez», comprobado palabra por palabra con el original."
+     },
+     {
+      "id": "c-d42cbb4bd3",
+      "motivo": "Línea 2: cuota cero para autónomos bajo el SMI y progresiva desde 50 euros, con cifras concretas."
+     },
+     {
+      "id": "c-1f2100c945",
+      "motivo": "Línea 3: incentivar a las empresas que favorezcan la conciliación; se toma de familias, donde no se usa, porque en empleo solo hay dos medidas propias."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-43aed18a33",
+      "motivo": "Línea 1 del resumen: auditar la Administración y recortar el gasto superfluo para compensar la bajada de impuestos; encaja con lo que Figaredo y Abascal dicen en campaña sobre recortar gasto."
+     },
+     {
+      "id": "c-f7225bfccf",
+      "motivo": "Línea 2: Ley de Unidad de Mercado, ligada al «fin de la sobrerregulación» que reclama Abascal; 78 palabras, dentro del límite y sin alternativa más corta de esa línea."
+     },
+     {
+      "id": "c-c192135111",
+      "motivo": "Línea 3: revertir normas del Pacto Verde que afectan a la industria, como la prohibición de motores de combustión."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-b549938775",
+      "motivo": "Línea 1 del resumen: plan nacional para reducir las listas de espera, que Abascal destaca en campaña («la gente muere esperando una cita médica»)."
+     },
+     {
+      "id": "c-43badd9b5b",
+      "motivo": "Línea 4 y muy presente en campaña («los recursos limitados son para los nuestros»): excluir a los extranjeros en situación irregular salvo urgencia grave."
+     },
+     {
+      "id": "c-5f83bf1820",
+      "motivo": "Línea 2: tarjeta sanitaria única con historia clínica compartida en toda España."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-97f995434f",
+      "motivo": "Repatriar a quien esté en situación irregular (línea 2) es lo que más repiten en campaña («repatriación de los ilegales», «remigración»), y da por sí sola la idea más fiel de su postura."
+     },
+     {
+      "id": "c-e4b34e50ca",
+      "motivo": "Línea 1: prohibir regularizar a quien entró de forma irregular."
+     },
+     {
+      "id": "c-82f13ab1f1",
+      "motivo": "Línea 4: protección de fronteras con participación de las Fuerzas Armadas, especialmente en Ceuta y Melilla, que Garriga destaca en campaña; 61 palabras, dentro del límite."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-0a51bf6519",
+      "motivo": "La línea 1 (CGPJ) no tiene candidata en este tema; esta es la línea 2 del resumen: ilegalizar partidos y organizaciones que atenten contra la unidad territorial."
+     },
+     {
+      "id": "c-0def1234eb",
+      "motivo": "Línea 3 (menos normas y Administración), la que más medidas tiene en el tema: derogar tres normas por cada ley nueva."
+     },
+     {
+      "id": "c-8fd62c65a7",
+      "motivo": "Línea 4: reforma integral de RTVE."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-f093b04245",
+      "motivo": "Línea 1 del resumen: derogar la LOMLOE y volver a una enseñanza basada en el esfuerzo y el mérito."
+     },
+     {
+      "id": "c-938e39c9bd",
+      "motivo": "Línea 2: distrito único y libre elección de centro."
+     },
+     {
+      "id": "c-b31ab339d7",
+      "motivo": "Línea 3: número máximo por aula de alumnos de otras culturas o con poco dominio del español."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-8235ec5611",
+      "motivo": "Línea 1 del resumen: mantener las nucleares derogando el calendario de cierre y estudiar otras nuevas; coherente con Abascal en campaña («no solo con los molinos y placas solares»)."
+     },
+     {
+      "id": "c-cee2109f7d",
+      "motivo": "Línea 3: acabar con las imposiciones climáticas como el Pacto Verde y las zonas de bajas emisiones."
+     },
+     {
+      "id": "c-f5140a9b79",
+      "motivo": "Línea 4: Plan Nacional del Agua que interconecte todas las cuencas, destacado por Alonso en campaña. La línea 2 (impuestos a la electricidad) solo tiene una medida que mezcla varias acciones."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-a577d1022a",
+      "motivo": "Línea 3 y la que más bombo tiene en campaña (Ceuta, Marruecos, «primera medida y más urgente»): sanciones y revisión de relaciones con Marruecos; se toma de organización territorial porque aquí solo hay dos medidas propias."
+     },
+     {
+      "id": "c-5379fabca8",
+      "motivo": "Línea 4: retirar la cooperación al desarrollo a los países que no colaboren en la gestión de los flujos migratorios."
+     },
+     {
+      "id": "c-29014530c9",
+      "motivo": "Línea 1 (Fuerzas Armadas): reconocer el servicio militar como profesión de riesgo, única medida disponible de esa línea."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-14a227569f",
+      "motivo": "Línea 1 del resumen (endurecer las penas); la ampliación de la prisión permanente revisable conecta con lo que dice Abascal en campaña («los violadores no deben salir de la prisión»)."
+     },
+     {
+      "id": "c-f55d8a54b5",
+      "motivo": "Línea 3: más medios y equiparación salarial para policías y guardias civiles."
+     },
+     {
+      "id": "c-f0ab87a703",
+      "motivo": "Línea 4: que los jueces elijan a los doce vocales judiciales del CGPJ."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-34b576da66",
+      "motivo": "Línea 1 del resumen: extender y aumentar los beneficios de las familias numerosas a todas desde el primer hijo."
+     },
+     {
+      "id": "c-3e9f22ef84",
+      "motivo": "Línea 4 y eje de su campaña («los recursos limitados son para los nuestros»): acceso preferente de los españoles a guarderías, ayudas y servicios sociales."
+     },
+     {
+      "id": "c-fc0128b9be",
+      "motivo": "Medida distinta de la línea 4 (Ingreso Mínimo Vital solo para españoles), que el resumen recoge expresamente; las líneas 2 y 3 no tienen medidas válidas libres (la cotización por cuidado de hijos es la única medida posible en pensiones)."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-1db81ce0d4",
+      "motivo": "Línea 1 del resumen: IRPF más simple y bajo, con tipo menor según los hijos; es la reforma que Figaredo detalla en campaña."
+     },
+     {
+      "id": "c-5486f73c97",
+      "motivo": "Rebaja del IVA, sobre todo de productos esenciales, otra pieza de la línea 1; Figaredo pide en campaña IVA superreducido o nulo para bienes esenciales."
+     },
+     {
+      "id": "c-2ff6f9c3e0",
+      "motivo": "Línea 3: gravar las remesas al extranjero."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-69f5d7e000",
+      "motivo": "Línea 1 del resumen: derogar las leyes que, según sostiene, han criminalizado a los hombres y desprotegido a las mujeres."
+     },
+     {
+      "id": "c-133f0de770",
+      "motivo": "Línea 3: prohibir el burka y el niqab en los espacios públicos."
+     },
+     {
+      "id": "c-0a0be1bdc4",
+      "motivo": "Superar leyes como la de Memoria Democrática, otra línea de su postura en el tema."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-d0ff0c9f91",
+      "motivo": "Línea 2 del resumen: que el Estado pague la cotización de quien cuida a sus hijos para que no le perjudique en la jubilación; única medida relacionada con las pensiones (se toma de familias, donde no se usa)."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-077dc8dc01",
+      "motivo": "Línea 2 del resumen (auditar la red y electrificar líneas convencionales); es lo que Aizcorbe destaca en campaña («lo primero que hay que hacer es una auditoría de seguridad»)."
+     },
+     {
+      "id": "c-342b098dd5",
+      "motivo": "Línea 1: plan nacional de infraestructuras; escueta, pero es la propuesta general del programa y no hay otra propia."
+     },
+     {
+      "id": "c-9506217c72",
+      "motivo": "Obras hidráulicas y contra inundaciones, que el resumen incluye en la línea 1; se toma de medio ambiente, donde no se usa."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-610a185737",
+      "motivo": "Línea 4 del resumen y muy destacada en campaña: militarizar la frontera de Ceuta y Melilla; las líneas 1-3 no tienen medidas en este tema."
+     },
+     {
+      "id": "c-168880a153",
+      "motivo": "Financiación territorial: bajar el IGIC y suprimir el AIEM en Canarias."
+     },
+     {
+      "id": "c-e8e3604797",
+      "motivo": "Financiación territorial: actualizar el complemento de insularidad del personal público estatal en Baleares y Canarias."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-837a3c34ba",
+      "motivo": "Línea 2 del resumen (rechazar el recorte de la PAC y repartirla primando la despoblación); la línea 1 (Mercosur, cláusulas espejo) no tiene candidatas en este tema."
+     },
+     {
+      "id": "c-45ea212475",
+      "motivo": "Línea 3: silencio administrativo positivo y declaración responsable en los trámites del medio rural."
+     },
+     {
+      "id": "c-a9420658a4",
+      "motivo": "Competencia desleal (línea 1), que Alonso destaca en campaña: no financiar proyectos agrarios de países extracomunitarios que compitan deslealmente."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-69964c851f",
+      "motivo": "Línea 2 del resumen (cultura): bajar impuestos al arte y los espectáculos en vivo."
+     },
+     {
+      "id": "c-dba4689874",
+      "motivo": "Misma línea de cultura: nueva Ley de Mecenazgo con más deducciones del IRPF; única otra medida del tema."
+     }
+    ]
+   }
+  },
+  "frente-amplio": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-ff320fef10",
+      "motivo": "Eje central de su plan de vivienda (primer bloque del programa y línea 2 del resumen): un gran parque público financiado con el 1 % del PIB anual. Lleva cifra, se entiende sola y la repite su nota de prensa del 28 de octubre; Colau también insiste en «ampliar el parque de vivienda social». La versión de 1,5 millones de viviendas (c-633e8835c3) enumera muchos instrumentos y la de la introducción (c-f408261bfd) mezcla cinco medidas."
+     },
+     {
+      "id": "c-ad7b9e6c76",
+      "motivo": "Cubre la regulación de precios: tope legal del alquiler en zonas tensionadas ligado al 25 % de la renta del barrio (línea 3 del resumen; Colau pide en campaña «regular los alquileres» y bajar precios)."
+     },
+     {
+      "id": "c-6e111d1860",
+      "motivo": "Cubre la línea contra los grandes tenedores (línea 4): expropiación por fases a propietarios corporativos. Es lo que más destaca en campaña (Colau el 14 de noviembre, «expropiar a los fondos buitre», y nota de prensa del 6 de noviembre con las mismas fases). Nombra empresas, no partidos, así que no delata a quien firma."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-1f4d99238d",
+      "motivo": "Línea 1 del resumen: reducción progresiva de la jornada hasta 32 horas semanales sin depender del título del apartado (c-44d5e18056 no dice que habla de la jornada laboral). Sale en campaña (Martínez Barbero, IU y Delgado con «trabajar menos y vivir mejor»). Tiene 69 palabras, dentro del máximo."
+     },
+     {
+      "id": "c-b1902764c9",
+      "motivo": "Cubre la línea salarial (línea 2): suelo legal del salario mínimo en el 60 % del salario medio neto. Es lo que más repiten sus portavoces en campaña (Delgado, Gomila e IU)."
+     },
+     {
+      "id": "c-f00ff97d76",
+      "motivo": "Cubre la protección por desempleo (línea 4): subir la prestación al 80 % los seis primeros meses y un 25 % los topes. Concreta y con cifras. La línea 3 (plantillas en los consejos y reparto de beneficios) se cubre en economía, donde están sus medidas."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-a2ad6015eb",
+      "motivo": "Línea 1 del resumen: topes de precio para los alimentos básicos en emergencias o abusos. Es lo que destaca en campaña (Gomila: «limitaremos los precios de los alimentos básicos»; IU: «controlar los precios de los bienes básicos»)."
+     },
+     {
+      "id": "c-157a40fe42",
+      "motivo": "Cubre la «democracia en la empresa» (línea 3): reparto obligatorio del 10 % del beneficio entre la plantilla en empresas de 50 o más trabajadores. Concreta, con cifra y dentro del límite; la de los consejos de administración (c-9f8a150172) tiene 86 palabras."
+     },
+     {
+      "id": "c-0f475d51bb",
+      "motivo": "Cubre el «Estado emprendedor» (línea 2): convertir la SEPI en una Agencia Industrial Pública capaz de crear empresas públicas y entrar en sectores estratégicos. La banca pública (c-57158de839) sería una alternativa equivalente."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-24161a37cc",
+      "motivo": "Representa su línea central de sanidad «100 % pública y de gestión directa»: derogar la ley que abrió la gestión a entidades privadas y dejar la gestión indirecta como excepción (puntos 1 y 2 del resumen). Es más concreta que la ley de gestión pública (c-e49e746046), que además lleva «de nuevo». La bucodental, aunque es lo que más destacan en campaña, es una línea secundaria del resumen y no representa por sí sola su postura."
+     },
+     {
+      "id": "c-06e335b5f8",
+      "motivo": "Línea de ampliar la cartera pública (bucodental), la que más destacan en campaña (nota de prensa y Colau el 14-11), con la cifra del 50 % de la población que repiten."
+     },
+     {
+      "id": "c-2bf59bfd94",
+      "motivo": "Línea de financiación: suelo del 8 % del PIB para la sanidad pública, cifra que encabeza su postura en el tema."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-3f876c5370",
+      "motivo": "Su línea principal (punto 1 del resumen): reformar la Ley de Extranjería para tener un procedimiento estable y permanente de regularización; más general y duradera que culminar la regularización de 2026."
+     },
+     {
+      "id": "c-04551aa623",
+      "motivo": "Línea de fronteras y detención (punto 2 del resumen): cierre de los CIE, medida clara y central de su bloque sobre la Frontera Sur."
+     },
+     {
+      "id": "c-75dd491a02",
+      "motivo": "Línea de asilo (punto 3 del resumen): registrar la solicitud en 5 días, con plazos y consecuencia automática; más tangible para quien lee que la agencia unificada."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-7dba353248",
+      "motivo": "Línea anticorrupción, la que más destacan en campaña (nota de prensa y Colau el 13-11): veto de veinte años a la contratación pública para condenados por corrupción, con cifra. Su primera línea (República Federal) no tiene medida candidata válida."
+     },
+     {
+      "id": "c-0e33e41461",
+      "motivo": "Línea de reforma del sistema electoral: proporcionalidad directa a nivel nacional, la primera de sus propuestas electorales en el resumen."
+     },
+     {
+      "id": "c-76fa17bdc3",
+      "motivo": "Línea de transparencia en los medios: registro público de su propiedad y de la publicidad que reciben."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-e546522172",
+      "motivo": "Su línea principal: ley que blinde el gasto en educación pública hasta el 7 % del PIB en 2030, con cifra y plazo."
+     },
+     {
+      "id": "c-6477f813b4",
+      "motivo": "Línea de gratuidad: comedor escolar gratuito y universal en Infantil y Primaria públicas."
+     },
+     {
+      "id": "c-d1ccf6002d",
+      "motivo": "Línea de que todos los fondos públicos vayan a la red pública: prohibir las cuotas en los concertados mientras existan, con el objetivo del 100 % de fondos a la pública. Las ratios por aula no tienen medida que se entienda sola (c-5d6862e291 acaba en dos puntos y c-3fe9c7fa79 empieza por las cifras)."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-3cb6a198ab",
+      "motivo": "Su línea principal: compromiso legal de destinar el 3,5 % del PIB anual a la transición ecológica, cifra que encabeza su programa; más concreta que la versión de la introducción."
+     },
+     {
+      "id": "c-be296fb898",
+      "motivo": "Línea de intervención pública en la energía: tres horas de luz gratis al día con la comercializadora pública, medida que el programa destaca en su introducción."
+     },
+     {
+      "id": "c-4b7f3026d7",
+      "motivo": "Línea nuclear: cumplir el calendario de cierre, con Almaraz en 2027-2028."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-b8e36a1d9b",
+      "motivo": "Primera línea del resumen: rechazo del 5 % de la OTAN y reducción del gasto militar en favor de la «seguridad humana»; es una sola acción clara y Colau la repite en campaña («sería inadmisible que se recorte de los servicios públicos para entrar en la escalada armamentística»)."
+     },
+     {
+      "id": "c-fd3b60df16",
+      "motivo": "Segunda línea (Israel y Palestina): suspensión del Acuerdo de Asociación UE-Israel y reconocimiento de Palestina por todos los Estados miembros, en 37 palabras; la ley de embargo integral de armas a Israel, que la candidata destaca en campaña, pasa de 80 palabras."
+     },
+     {
+      "id": "c-471caeb6aa",
+      "motivo": "Tercera línea (Sáhara Occidental): referéndum de autodeterminación supervisado por la ONU con opción de independencia, tal como lo recoge el resumen; a diferencia de c-b13843188c, nombra al pueblo saharaui y se entiende sola. La campaña insiste en su «compromiso total» con el Sáhara."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-48c22d1f3e",
+      "motivo": "Línea de control de la policía, que es la más desarrollada del tema: recoge la prohibición de las pelotas de goma y de los controles por perfil racial que cita el resumen; todas sus acciones van en la misma dirección (limitar el uso de la fuerza y garantizar derechos ante la policía)."
+     },
+     {
+      "id": "c-135cd36d61",
+      "motivo": "Línea de la justicia: alcanzar en dos legislaturas la media europea de jueces y fiscales por habitante, tal como dice el resumen; lleva plazo y es una sola acción."
+     },
+     {
+      "id": "c-da86180f51",
+      "motivo": "Otra pieza del modelo policial que cita el resumen, distinta de la primera: desmilitarizar la Guardia Civil; es breve y se vota con claridad."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-b95badd8c3",
+      "motivo": "Primera línea del resumen y su medida estrella: Prestación Universal por Crianza de 200 € al mes por menor sin depender de ingresos; lleva cifra, y Bustinduy dice en campaña que trabajan para que se adopte antes de las elecciones."
+     },
+     {
+      "id": "c-462093eb69",
+      "motivo": "Línea de dependencia: subir la inversión del 0,8 % al 1,7 % del PIB en 2030, con cifra y plazo, como recoge el resumen."
+     },
+     {
+      "id": "c-64d001d319",
+      "motivo": "Línea de la Ley de Familias que reconozca la diversidad familiar, que Colau destaca en campaña; es la única medida de esa línea que no pasa de 80 palabras."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-a9de281ff2",
+      "motivo": "Primera línea del resumen: que el esfuerzo fiscal recaiga sobre las grandes empresas, con un tipo mínimo real del 20 % en Sociedades sin subir a las pymes; la nota de campaña del 5 de noviembre insiste en que la gran empresa y la banca pagan entre el 7 y el 9 %."
+     },
+     {
+      "id": "c-947178d4ea",
+      "motivo": "Segunda línea: un mínimo del 2 % para patrimonios de más de un millón y 3 puntos más desde 50 millones; la repiten dos notas de campaña (5 de noviembre y 24 de octubre)."
+     },
+     {
+      "id": "c-86af3051ff",
+      "motivo": "Tercera línea: bajar el IRPF a los salarios de hasta 27.000 euros, la parte de rebajas de su reforma; sin ella el retrato quedaría solo en subidas."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-a10aa9ecf4",
+      "motivo": "Es el primer punto de su postura (al menos el 5 % del presupuesto no financiero a igualdad por ley), lleva cifra y encaja con el feminismo que su candidata presenta en campaña como motor de su programa."
+     },
+     {
+      "id": "c-abb812b05c",
+      "motivo": "Cubre la segunda línea, los derechos sexuales y reproductivos: blindaje constitucional del aborto en la sanidad pública; breve y clara."
+     },
+     {
+      "id": "c-ffe86361d3",
+      "motivo": "Representa la memoria democrática, el bloque con más medidas del tema; la resignificación de Cuelgamuros figura en su resumen y se entiende sola (la de reparación integral pasa de 80 palabras)."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-31ce5d663f",
+      "motivo": "La vuelta a la jubilación a los 65 es una de las dos medidas que presentó en campaña en la manifestación por las pensiones; corta y clara. La del blindaje constitucional con pensión mínima igual al SMI pasa de 80 palabras."
+     },
+     {
+      "id": "c-4921e52c41",
+      "motivo": "Cubre la subida por encima de la media de las pensiones contributivas más bajas y las no contributivas, lo más cercano a la Pensión Mínima Garantizada que destaca en campaña."
+     },
+     {
+      "id": "c-67548cec88",
+      "motivo": "Recoge la financiación que explica en campaña: elevar el tope máximo de cotización y una aportación de las empresas más automatizadas."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-f54cc017a4",
+      "motivo": "Unificar Adif y Renfe en un operador público es la propuesta que su nota de campaña pone «en primer lugar» y resume su apuesta por un tren público centrado en las Cercanías. El abono único no tiene medida válida (95 palabras)."
+     },
+     {
+      "id": "c-a943f17e0d",
+      "motivo": "Destinar al tren los casi 13.000 millones del plan de ampliación de aeropuertos es la línea de inversión ferroviaria frente al avión, propuesta por su candidata en campaña."
+     },
+     {
+      "id": "c-4ac61d560c",
+      "motivo": "Cubre otra línea de su postura: prohibir vuelos domésticos con alternativa en tren de 2,5 horas, coherente con su discurso contra el avión."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-36f9c231cf",
+      "motivo": "Al menos un 2,3 % del PIB adicional a la financiación autonómica es su medida central con cifra en el tema; la línea del Estado federal y plurinacional no tiene medida concreta entre las candidatas."
+     },
+     {
+      "id": "c-96d9efbb4e",
+      "motivo": "Cubre la financiación municipal: participación de los ayuntamientos en los tributos del Estado hasta el 2,5 % del PIB, con calendario."
+     },
+     {
+      "id": "c-79abbbeeb8",
+      "motivo": "Cubre la línea de lenguas: ley del plurilingüismo, que figura en su resumen y de la que hablan sus dirigentes en campaña."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-f095286c5c",
+      "motivo": "Es el primer punto de su postura: una ley de transición agroecológica con un 25 % de superficie ecológica en 2030 y el 100 % en 2050."
+     },
+     {
+      "id": "c-a6d572bbb9",
+      "motivo": "Cubre la reorientación de la PAC hacia explotaciones familiares excluyendo a fondos de inversión, segunda línea de su postura."
+     },
+     {
+      "id": "c-c4e99a1a54",
+      "motivo": "Cubre la despoblación con su medida más concreta: servicios básicos a menos de 30 minutos fijados por ley."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-926f597edb",
+      "motivo": "Facultar a la CNMC para supervisar a las grandes plataformas y multarlas con hasta el 6 % de su facturación mundial resume el bloque más amplio del tema (gobernanza digital) y es lo que defienden sus portavoces en campaña."
+     },
+     {
+      "id": "c-a6475b38ae",
+      "motivo": "Cubre la línea de ciencia: inversión en I+D+i del 3 % del PIB en 2030, con cifra y plazo, primer punto de su resumen."
+     },
+     {
+      "id": "c-64dd02a076",
+      "motivo": "Cubre la línea de cultura con su medida central: una inversión mínima por ley del 0,2 % del PIB."
+     }
+    ]
+   }
+  },
+  "podemos": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-c3674c05e5",
+      "motivo": "Primera línea de su resumen (bajar los alquileres un 40 % en todo el Estado), con cifra, y la que su candidata repite en campaña («bajar el precio de los alquileres un 40 por ciento», «con un real decreto»)."
+     },
+     {
+      "id": "c-704bfb22d3",
+      "motivo": "Tercera línea: ampliar el alquiler social expropiando el uso del 50 % de las viviendas de grandes tenedores; es la otra medida que más repite en campaña («expropiar más de 650.000 viviendas a los fondos buitre»). Empieza por «Estas políticas…», pero se entiende sola y cabe en 80 palabras (69)."
+     },
+     {
+      "id": "c-2928d9c44b",
+      "motivo": "Segunda línea: moratoria a la compra que no sea para vivir; en campaña la resume como «que solo se puedan comprar casas para vivir», repetido en tres declaraciones, más que los pisos turísticos o el límite por propietario."
+     }
+    ],
+    "empleo": [],
+    "economia": [
+     {
+      "id": "c-66556f1a7b",
+      "motivo": "Sin medidas propias del tema. Segunda línea del resumen (empresa pública de energía frente a los gigantes privados para bajar la factura); es lo que más destaca en campaña en economía: «recuperar para lo público una energética como Repsol», «Hay que nacionalizar Repsol»."
+     },
+     {
+      "id": "c-bd5ff8f755",
+      "motivo": "La otra pata de la misma línea energética, en clave económica: intervenir el mercado eléctrico y pagar cada megavatio-hora según su coste de producción en vez del precio marginalista («No puedes ganar dinero con que la gente ponga la calefacción»). «En este sentido» no impide entenderla sola."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-7bf39c9db5",
+      "motivo": "Primera línea del resumen: derogar de inmediato las leyes que permiten privatizar la sanidad (también la educación y las residencias, misma acción)."
+     },
+     {
+      "id": "c-5ac935f195",
+      "motivo": "Tercera línea: garantizar el aborto en la sanidad pública, tema que la candidata ha defendido en campaña. La mención impersonal a la legislatura pasada no atribuye el logro a la candidatura."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-e349f391c7",
+      "motivo": "Segunda línea del resumen y la propuesta más concreta de su postura: regularización inmediata de quienes viven y trabajan en España y nacionalidad por carta de naturaleza."
+     },
+     {
+      "id": "c-acaf170cdc",
+      "motivo": "Tercera línea: derogar la ley de extranjería y cerrar los CIE, con el fin de las redadas y la protección frente a la deportación de quien denuncie delitos de odio; todas las acciones van en la misma dirección y se puede votar en bloque."
+     },
+     {
+      "id": "c-1bbff85df1",
+      "motivo": "Completa la tercera línea en el plano europeo: derogar el Pacto Europeo de Migración y Asilo."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-6c6af2f86c",
+      "motivo": "Única medida propia; segunda línea del resumen: generalizar referéndums y presupuestos participativos."
+     },
+     {
+      "id": "c-392de48155",
+      "motivo": "Tercera línea del resumen: DNI español y derecho al voto para quien vive y trabaja en España (medida de inmigración que allí no se usa)."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-3a2da0dfcf",
+      "motivo": "Única medida propia; segunda línea del resumen: educación infantil pública, universal y gratuita de 0 a 3 años."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-6798ce5b44",
+      "motivo": "Segunda línea del resumen con su enfoque ambiental: pagar cada megavatio-hora según su coste de producción para que dejen de ser rentables las energías más contaminantes, con pago progresivo según el consumo."
+     },
+     {
+      "id": "c-62efb8a614",
+      "motivo": "Primera línea del resumen: subir los impuestos sobre los beneficios del oligopolio energético y usar lo recaudado para acelerar la transición (medida de impuestos que allí no se usa; entra porque dos medidas propias se han cedido a economía, que no tiene ninguna)."
+     },
+     {
+      "id": "c-4911c51cf0",
+      "motivo": "Línea propia del tema en agua: quitar a los fondos especulativos los derechos de riego que acaparan."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-c25752eab1",
+      "motivo": "Primera línea del resumen: salir de la OTAN cuanto antes y no aumentar el gasto militar, que es lo que más repite su candidata en campaña. Nombra a Donald Trump, pero no hay alternativa igual de representativa."
+     },
+     {
+      "id": "c-2104d71785",
+      "texto": "Por supuesto, defendemos la ruptura inmediata de todas las relaciones diplomáticas y comerciales con el estado genocida de Israel y, en particular, un embargo a la compra y a la venta de armamento a dicho país.",
+      "cambio": "Se quita «desde Podemos » tras «Por supuesto, ».",
+      "motivo": "Segunda línea: ruptura de relaciones con Israel y embargo de armas; no hay alternativa sin el nombre del partido, así que se quita solo «desde Podemos»."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-64704f1246",
+      "motivo": "Tercera línea del resumen: formar en igualdad a los operadores jurídicos; es la medida propia que mejor se entiende sola."
+     },
+     {
+      "id": "c-e6c84c1484",
+      "motivo": "Misma tercera línea, otra acción: prohibir el lucro de terceros con la prostitución. Trae una errata del original («mediante como») y añade la regularización como medio, pero lo principal se entiende y no hay alternativa limpia."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-3114014229",
+      "motivo": "Única medida propia; primera línea del resumen: subir el ingreso mínimo vital, ampliar su cobertura y reducir burocracia como paso hacia una renta básica."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-86ac06e8c2",
+      "motivo": "Corazón de su postura (que paguen más las grandes fortunas): impuesto a los grandes patrimonios, lo que su candidata llama en campaña el «impuestazo a las grandes fortunas»."
+     },
+     {
+      "id": "c-2ba3bd5a8a",
+      "motivo": "Tercera línea, con cifra: impuesto del 50 % a los beneficios extraordinarios de las empresas del IBEX."
+     },
+     {
+      "id": "c-f16b92363d",
+      "motivo": "Segunda línea: igualar en el IRPF las rentas del capital y las del trabajo, distinta de gravar el patrimonio o los beneficios empresariales."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-ecb093bfa6",
+      "motivo": "Primera línea del resumen, nombrada expresamente: aplicar todas las medidas de la ley del «solo sí es sí»."
+     },
+     {
+      "id": "c-d4817a4f34",
+      "motivo": "Misma línea feminista por la vía del dinero: desplegar todos los recursos del Pacto de Estado contra la Violencia de Género, cercana al presupuesto de 1.000 millones que destaca en campaña."
+     },
+     {
+      "id": "c-1a10c32093",
+      "motivo": "Cuarta línea: laicismo, fin del concordato y de los privilegios fiscales de la Iglesia."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-feefe0055e",
+      "motivo": "Única medida propia y primera línea del resumen: subir las pensiones más bajas y las no contributivas para que ninguna sea inferior al SMI, protegiendo el sistema público."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-15ddc9ec43",
+      "motivo": "Primera línea del resumen: mantener y ampliar los descuentos al transporte público urbano e interurbano."
+     },
+     {
+      "id": "c-7e6489e2f3",
+      "motivo": "Tercera línea: ampliar las zonas de bajas emisiones y ayudas para que las familias con menos recursos tengan un coche eléctrico al precio de uno de combustión."
+     }
+    ],
+    "organizacion-territorial": [],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-46bc6498db",
+      "motivo": "Tercera línea del resumen y lo que destaca en campaña (el «oligopolio» de la alimentación): intervenir los márgenes de beneficio de la alimentación protegiendo a pequeños comercios y productores, lo que además recoge su primera línea. 77 palabras; Mercadona es una empresa, no un partido."
+     },
+     {
+      "id": "c-9fcecf3f86",
+      "motivo": "Segunda línea: leyes para impedir que los grandes fondos sigan acumulando tierras."
+     }
+    ],
+    "ciencia-cultura-y-digital": []
+   }
+  },
+  "erc": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-5be375e8bd",
+      "motivo": "Representa su línea fiscal contra la especulación (más IVA e ITP para la vivienda que no es residencia habitual), que es lo que Rufián destaca en campaña («freír a impuestos a quien se quiera hacer rico con la vivienda»); es más completa que la del IVA turístico, que solo cubre un caso."
+     },
+     {
+      "id": "c-1a1c8cb0b6",
+      "motivo": "Cubre el primer punto de su postura: que la Generalitat pueda legislar de forma plena sobre alquileres, con la vía concreta del artículo 150.1."
+     },
+     {
+      "id": "c-a17a684698",
+      "motivo": "Cubre la ampliación del parque público con el traspaso inmediato y gratuito de los inmuebles de la SAREB y Casa 47; es más clara y corta que la otra versión del traspaso (c-df1aa0efe7)."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-8e82be1c96",
+      "motivo": "Subir el SMI al 60 % del salario medio encabeza su postura en empleo, lleva cifra y se entiende sola; la versión del salario mínimo catalán de 1.460 € pasa de 80 palabras."
+     },
+     {
+      "id": "c-5e83dcbfa8",
+      "motivo": "Cubre la reversión de las reformas laborales con su medida más concreta: recuperar los 45 días por año de indemnización por despido improcedente."
+     },
+     {
+      "id": "c-c71bc8bda3",
+      "motivo": "Cubre la reducción de jornada: máximo de 37,5 horas semanales sin rebaja salarial."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-262ec85f3f",
+      "motivo": "Resume en una medida corta su línea de banca pública e intervención para financiar la inversión productiva y el pequeño negocio."
+     },
+     {
+      "id": "c-792b03facb",
+      "motivo": "Cubre la reindustrialización con gestión descentralizada: sustituir los PERTE por proyectos estratégicos territoriales."
+     },
+     {
+      "id": "c-e887341323",
+      "motivo": "Cubre la línea de las pymes: una contratación pública más accesible y transparencia en los pagos."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-80fcd2424b",
+      "motivo": "Incluir la atención dental integral en la sanidad pública es la medida más concreta para ampliar la cartera pública y universal, que es el núcleo de su postura."
+     },
+     {
+      "id": "c-3b4848b418",
+      "motivo": "Completa la ampliación de la cartera con la salud visual y la financiación de gafas y lentillas."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-497df6f4ab",
+      "motivo": "El traspaso integral a Cataluña de las competencias de migración y asilo es el primer punto de su postura e incluye su enfoque de derechos e integración."
+     },
+     {
+      "id": "c-ca9d135d57",
+      "motivo": "Cubre su propuesta de una nueva ley de asilo que impida externalizar las solicitudes a terceros países."
+     },
+     {
+      "id": "c-6a592ee73d",
+      "motivo": "Cubre su rechazo a los centros de retorno en terceros países y su exigencia de garantías durante el proceso migratorio."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-3e02ffcdc2",
+      "motivo": "Cubre su postura sobre el sistema electoral: trasponer la ley electoral europea sin umbrales ni circunscripciones que bloqueen a las minorías nacionales."
+     },
+     {
+      "id": "c-a9317aaf86",
+      "motivo": "Cubre su propuesta de votar desde los 16 años; es corta y clara, y el «En este marco» inicial no impide entenderla."
+     },
+     {
+      "id": "c-21d2072887",
+      "motivo": "Cubre su línea de las lenguas oficiales en los medios, que ocupa la mayoría de sus medidas del tema: reservar el 50 % de las obras europeas a las lenguas oficiales del Estado y de las comunidades."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-af9ab5adbf",
+      "motivo": "Defender la escuela catalana y la inmersión frente a los porcentajes lingüísticos impuestos es el primer punto de su postura y el título de su apartado educativo."
+     },
+     {
+      "id": "c-af096a21f2",
+      "motivo": "Cubre la financiación: el 6 % del PIB para la educación, con ratios y sueldos del profesorado."
+     },
+     {
+      "id": "c-e888b81593",
+      "motivo": "Cubre la universidad y el autogobierno a la vez: eliminar el distrito único para que Cataluña planifique el acceso."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-ef94dcfa4d",
+      "motivo": "Resume su ambición climática con cifras y plazos (-65 % de emisiones en 2030 y -95 % en 2040)."
+     },
+     {
+      "id": "c-190aa7769a",
+      "motivo": "Cubre su modelo de renovables descentralizado con la medida concreta del resumen: autoconsumo colectivo hasta 10 km, o 20 km en zonas rurales."
+     },
+     {
+      "id": "c-e93f4507ab",
+      "motivo": "Cubre su línea de más control catalán sobre la energía: traspasar las hidroeléctricas a la Generalitat cuando caduquen sus concesiones."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-f14a2b7da6",
+      "motivo": "El embargo completo de armas a Israel es el primer punto de su postura, y la medida es corta y fácil de votar."
+     },
+     {
+      "id": "c-573e018218",
+      "motivo": "Cubre el Sáhara: revertir la posición de 2022 y acatar las sentencias del TJUE."
+     },
+     {
+      "id": "c-8c17ee1c60",
+      "texto": "Cumplir con el compromiso del 0,7 % de Ayuda Oficial al Desarrollo. Dar cumplimiento efectivo al compromiso del 0,7 % de la AOD (Ayuda Oficial al Desarrollo).",
+      "cambio": "Se quita «, como ya ha impulsado la Generalitat de Catalunya a instancia de Esquerra Republicana» (nombra al partido y su propio trabajo); el punto final se mantiene.",
+      "motivo": "Cubre el compromiso del 0,7 % de ayuda al desarrollo (punto 3); no hay otra medida de esa línea que no nombre al partido."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-6a18e274ae",
+      "motivo": "Derogar la «ley mordaza» es el primer punto de su postura y la medida más directa y fácil de votar."
+     },
+     {
+      "id": "c-5d901e778c",
+      "motivo": "Cubre la línea de que los Mossos d'Esquadra sean policía integral en toda Cataluña, sin excepciones."
+     },
+     {
+      "id": "c-ae7d12493c",
+      "motivo": "Cubre el endurecimiento penal (armas y robo de cable), punto 4 de su postura y relacionado con la reincidencia de la que habla Rufián en campaña."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-548c4cc2e2",
+      "motivo": "Primera línea del resumen: prestación universal por crianza desde 200 euros, mayor donde la vida es más cara; la única ayuda directa con cifra propia del tema (64 palabras, dentro del límite)."
+     },
+     {
+      "id": "c-90b63181d4",
+      "motivo": "Segunda línea: cotizaciones con fondos públicos para quien cuida a un familiar, distinta de la prestación por crianza. Se usa solo aquí, su tema principal, y no en pensiones."
+     },
+     {
+      "id": "c-060b1c5998",
+      "motivo": "Tercera línea: financiación de la dependencia con las cifras de 2.018 y 7.200 millones del resumen; se entiende sola, a diferencia de c-748ceee9f2 («Asimismo…»)."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-eeefd7e81c",
+      "motivo": "Impuesto permanente y más alto a las grandes fortunas, con cifras: resume su línea de que pague más quien más tiene y es lo que repite Rufián en campaña («impuestos a las grandes fortunas y no al trabajo»)."
+     },
+     {
+      "id": "c-68e0b92c40",
+      "motivo": "Línea de gravar las rentas del capital: subir del 30 % al 35 % el tipo máximo del IRPF sobre ganancias de capital."
+     },
+     {
+      "id": "c-d4b315ac9e",
+      "motivo": "La otra cara de su postura: bajar el IRPF del trabajo por debajo de 35.000 euros («no al trabajo»); «Al mismo tiempo» no impide entenderla sola."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-700c78b893",
+      "motivo": "Primera línea del resumen: reformar la ley de violencia de género para incluir las violencias económica, vicaria y digital."
+     },
+     {
+      "id": "c-f41ce7b5af",
+      "motivo": "Línea de derechos LGBTI+ con su medida más clara y breve: reconocimiento legal de las identidades no binarias."
+     },
+     {
+      "id": "c-d47d6b5c1b",
+      "motivo": "Ley integral contra la trata, la otra ley que el resumen sitúa en su primera línea y distinta de la reforma de la ley de violencia de género. Las líneas de «ley mordaza» y delitos de odio no tienen medida candidata válida."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-d8a407768c",
+      "motivo": "Blindar la revalorización de las pensiones con la inflación: su medida central en pensiones, corta y clara."
+     },
+     {
+      "id": "c-4a65cbcfed",
+      "motivo": "Línea de jubilación anticipada en profesiones peligrosas, en su formulación general (las de conductores y Agentes Rurales dependen de la anterior o son más acotadas)."
+     },
+     {
+      "id": "c-f9ba1785bf",
+      "motivo": "Dimensión territorial propia de su postura: actualizar las pensiones según el IPC de cada territorio. Hay medidas propias suficientes, así que no se usan las de otro tema (mutualistas)."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-370fb233f4",
+      "motivo": "Rodalies es el eje de su programa de transporte y esta medida lleva cifra y plazo (Plan 2026-2030, 1.400 millones adicionales); encaja con el mensaje de campaña de Rufián de «poner pasta donde toca»."
+     },
+     {
+      "id": "c-1bc70c96ac",
+      "motivo": "Línea de traspaso de infraestructuras con su prioridad explícita: los aeropuertos de Girona, Reus y Sabadell («Països Catalans» es nombre de territorio y no delata)."
+     },
+     {
+      "id": "c-911f18a878",
+      "motivo": "Su modelo para las vías de alta capacidad (viñeta como sistema único de pago), línea distinta de las anteriores; la del Corredor Mediterráneo es larga y mezcla varias cosas."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-3393085310",
+      "motivo": "Primera línea de su postura: negociar un referéndum de autodeterminación con acompañamiento internacional."
+     },
+     {
+      "id": "c-2d6c56f665",
+      "texto": "Condonar de forma efectiva los más de 17.100 millones de euros del FLA. Llevar a cabo la tramitación del proyecto de ley, que supone una reducción de deuda de la Generalitat equivalente a la inversión que hace en cuatro años. Además, la eliminación de esta deuda supondrá un ahorro de alrededor de 1.500 millones de euros anuales en intereses abonados por la Generalitat de Catalunya.",
+      "cambio": "Se ha quitado «impulsado por Esquerra Republicana» tras «proyecto de ley».",
+      "motivo": "Línea de financiación con su medida más concreta y con cifra (condonar más de 17.100 millones del FLA); no hay alternativa igual de concreta en este tema, así que va con el cambio mínimo, que se ha comprobado: solo falta lo que nombra al partido."
+     },
+     {
+      "id": "c-2e8a225604",
+      "motivo": "Línea lingüística con su medida marco, la Ley del plurilingüismo, en vez de alguna de sus piezas sueltas."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-67f0ffc7bd",
+      "motivo": "Primera línea del resumen: precios justos que cubran los costes de producción reformando la Ley de la cadena alimentaria (50 palabras)."
+     },
+     {
+      "id": "c-ca2b4c5c6d",
+      "motivo": "Descentralizar la PAC y los fondos europeos agrarios y pesqueros, rasgo propio de su postura."
+     },
+     {
+      "id": "c-3e29e0ad38",
+      "motivo": "Rechazo a ratificar el acuerdo UE-Mercosur: decisión concreta y votable, distinta de la descentralización de la PAC."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-e01b5cab95",
+      "motivo": "Primera línea del resumen, con cifra y plazo: inversión pública en investigación hasta el 1,5 % del PIB en 2030."
+     },
+     {
+      "id": "c-73bb19ad89",
+      "motivo": "Línea de cultura con la medida que el resumen cita primero y la más votable: completar el Estatuto del Artista."
+     },
+     {
+      "id": "c-47d24ad7a5",
+      "motivo": "Línea digital: obligar a las grandes plataformas a proteger a los menores de prácticas manipuladoras o adictivas."
+     }
+    ]
+   }
+  },
+  "compromis-front-valencia": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-2b7dac4194",
+      "motivo": "Primera línea del resumen (1% del PIB anual a vivienda protegida), con cifra y repetida por Àgueda Micó en campaña; 44 palabras, se entiende sola."
+     },
+     {
+      "id": "c-0dedad5975",
+      "motivo": "Segunda línea del resumen: prohibir que fondos y sociedades especulativas compren viviendas; destacada en campaña por Micó y por María Teresa Pérez. «Nuestro País» es nombre de territorio, no delata."
+     },
+     {
+      "id": "c-f555b5424b",
+      "motivo": "Tercera línea del resumen (protección de inquilinos): prohibir los desahucios sin alternativa habitacional, que Micó llama «la primera urgencia». El gravamen del 10% y el control de alquileres quedan como alternativas igual de válidas, no claramente mejores."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-df3c2a2d9f",
+      "motivo": "Primera línea del resumen: jornada de cuatro días y 32 horas sin bajar el sueldo; concreta y corta."
+     },
+     {
+      "id": "c-bf44449c97",
+      "motivo": "SMI garantizado por ley al 60% del salario medio: medida distinta de la jornada, del resumen y con la subida del salario mínimo muy presente en campaña."
+     },
+     {
+      "id": "c-fa57433d3a",
+      "motivo": "Segunda línea del resumen: recuperar los 45 días de indemnización y los salarios de tramitación."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-485aceb77d",
+      "motivo": "Primera línea del resumen: banca pública de inversión y crédito para pymes, cooperativas y familias. 74 palabras, dentro del límite; la alternativa más corta (presencia estatal en sectores estratégicos) es de la misma línea y no claramente mejor."
+     },
+     {
+      "id": "c-5ff56e7eb6",
+      "motivo": "Segunda línea del resumen: reindustrialización con hojas de ruta financiadas para cerámica, calzado, juguete o automoción; conecta con la diversificación económica que piden en campaña."
+     },
+     {
+      "id": "c-3e4c08e8c0",
+      "motivo": "Tercera línea del resumen (pequeño comercio), con cifra: reducir un 50% los domingos y festivos de apertura reformando la Ley de horarios comerciales."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-2e3e2bd176",
+      "motivo": "Primera línea del resumen: blindar la gestión pública y derogar la Ley 15/1997; coincide con la gestión pública directa de hospitales que piden en campaña."
+     },
+     {
+      "id": "c-9013292324",
+      "motivo": "Segunda línea del resumen: atención primaria con financiación mínima, ratios y listas de espera máximas fijadas por ley."
+     },
+     {
+      "id": "c-c7411ad8da",
+      "motivo": "Tercera línea del resumen: ampliar el catálogo del SNS a odontología, oftalmología, podología y nutrición; acción única y clara."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-797162ea89",
+      "motivo": "Primera línea del resumen: regularizar a las personas migrantes que viven aquí; dentro del tema inmigración se entiende sola y es la única medida de esa línea. Encaja con el discurso de campaña de igualdad de trato."
+     },
+     {
+      "id": "c-2fe22414dd",
+      "motivo": "Segunda línea del resumen: eliminación de los CIE."
+     },
+     {
+      "id": "c-375e489f14",
+      "motivo": "Tercera línea del resumen: ampliar el derecho de voto de las personas migrantes."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-7fd32b1d53",
+      "motivo": "Primera línea del resumen: voto a los 16 años; concreta y corta."
+     },
+     {
+      "id": "c-a1cccb7c47",
+      "motivo": "Segunda línea del resumen (transparencia): sustituir la ley de secretos oficiales por una homologable a los estándares europeos."
+     },
+     {
+      "id": "c-da4d13d8de",
+      "motivo": "Tercera línea del resumen (reforma constitucional): suprimir la prioridad absoluta del pago de la deuda del artículo 135."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-4a5ba092d7",
+      "motivo": "Primera línea del resumen: más inversión en educación pública hasta el 7% del PIB; con cifra."
+     },
+     {
+      "id": "c-4b7ef4abb9",
+      "motivo": "Segunda línea del resumen: comedor escolar gratuito y universal."
+     },
+     {
+      "id": "c-42e8d4ae51",
+      "motivo": "Tercera línea del resumen (universidad): tasas universitarias según recursos."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-c207416820",
+      "motivo": "Primera línea del resumen, en el orden en que la pone: sacar de la factura el impuesto eléctrico y los cargos y pagarlos con los Presupuestos."
+     },
+     {
+      "id": "c-bdfa254a5a",
+      "motivo": "Segunda línea del resumen: electrificación al 100% en 2030 y abandono de fósiles en 2040; con cifras y plazos."
+     },
+     {
+      "id": "c-48141869f9",
+      "motivo": "Cuarta línea del resumen (biodiversidad), con plazo. La línea 3 (zonas inundables tras la DANA) no tiene medida candidata limpia; la de perros de caza, citada en campaña, es de la misma línea 4 y no claramente mejor."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-4ba028b3a7",
+      "motivo": "Línea 2 del resumen (romper relaciones con Israel), la postura de política exterior más definida del programa; la parte central de la línea 1 (defensa europea en lugar de la OTAN) no tiene medida candidata y la auditoría del gasto, por sí sola, retrata peor su postura."
+     },
+     {
+      "id": "c-788f83b8a9",
+      "motivo": "Línea 1 del resumen: auditar todo el gasto en Defensa y publicar los resultados."
+     },
+     {
+      "id": "c-7f0826df0e",
+      "motivo": "Línea 3 del resumen: 0,7% para la cooperación blindado por ley."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-f8ae42af7e",
+      "motivo": "Derogar la ley mordaza encabeza su postura en seguridad y la candidata lo reclama expresamente en campaña; es la medida que mejor resume su enfoque de libertades frente a la actuación policial."
+     },
+     {
+      "id": "c-13b036e743",
+      "motivo": "Representa la línea de emergencias tras la DANA (reforzar Protección Civil y la UME con fondo estable), muy presente en su campaña sobre prevención y protección."
+     },
+     {
+      "id": "c-f9193c2394",
+      "motivo": "Cubre la línea de reforma de la justicia (ratificación del Fiscal General por el Congreso); es la medida de ese bloque más clara y votable sin mezclar acciones."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-2223897ad0",
+      "motivo": "La prestación universal de 200 euros por hijo es la primera línea de su postura, lleva cifra y la candidata la repite en campaña."
+     },
+     {
+      "id": "c-8f8f9601a3",
+      "motivo": "Representa la línea de dependencia: que el Estado financie el 50 % del sistema, medida concreta con cifra."
+     },
+     {
+      "id": "c-ba3d2273c4",
+      "motivo": "Cubre la línea de equiparar las ayudas de familias monoparentales y numerosas, recogida en su postura."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-28d77ce92e",
+      "motivo": "Mantener y ampliar el impuesto a las grandes fortunas es la primera línea de su postura fiscal y resume su apuesta por más progresividad sobre los patrimonios altos."
+     },
+     {
+      "id": "c-49c518ec6b",
+      "motivo": "Representa la segunda línea: quitar ventajas a las rentas financieras frente a las del trabajo."
+     },
+     {
+      "id": "c-2b167a6817",
+      "motivo": "Cubre la línea de suprimir privilegios fiscales a la aviación, con cifra y destino, y la defiende en campaña su número 2 por Valencia."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-e513e0a473",
+      "motivo": "Representa la primera línea de su postura (derechos de las mujeres) con una medida concreta y votable: reforzar la prohibición de la gestación subrogada; no hay medida sobre aborto y las de violencia machista mezclan acciones (c-e7f9015d5e) o no se entienden solas (c-28b7704342 no dice de qué víctimas habla)."
+     },
+     {
+      "id": "c-f152f6f494",
+      "motivo": "Cubre la línea de derechos LGTBI, que la candidata cita en campaña, con una medida concreta: tipificar como delito las terapias de conversión."
+     },
+     {
+      "id": "c-82e48a2a05",
+      "motivo": "Representa la línea de laicismo, la que más medidas tiene en el programa, con la acción más concreta: acabar con la financiación pública de la Iglesia católica."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-baa1a1fdce",
+      "motivo": "Garantizar en la Constitución la revalorización de las pensiones es lo que más repite la candidata en campaña («blindar las pensiones») y está en su postura."
+     },
+     {
+      "id": "c-55aa4571a3",
+      "motivo": "Representa la primera línea del resumen: volver a jubilarse a los 65 años."
+     },
+     {
+      "id": "c-4ab14bc354",
+      "motivo": "Cubre la línea de financiación: eliminar el tope de la base máxima de cotización."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-f75de9535a",
+      "motivo": "El plan de Cercanías de 1.500 millones con 58 trenes nuevos lleva cifra, está en su postura y la candidata lo repite en campaña."
+     },
+     {
+      "id": "c-4145580ad7",
+      "motivo": "Representa su apuesta por el tren frente al avión: limitar vuelos nacionales con alternativa ferroviaria de menos de 2 horas y media."
+     },
+     {
+      "id": "c-3d240c03b6",
+      "motivo": "Cubre la línea de reestructurar Adif con más personal propio e inversión en mantenimiento, que conecta con su crítica en campaña a la liberalización ferroviaria."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-3d2e58f9ff",
+      "motivo": "Reformar la financiación autonómica para acabar con la infrafinanciación valenciana es la primera línea de su postura y el centro de su discurso en campaña."
+     },
+     {
+      "id": "c-4c9bd157e7",
+      "motivo": "Representa la segunda línea: concierto económico o que la Generalitat recaude la mayoría de los tributos, en línea con lo que dice la candidata sobre más ingresos para las comunidades."
+     },
+     {
+      "id": "c-25a6b5d698",
+      "motivo": "Cubre la línea de traspaso de competencias (Cercanías, puertos, aeropuertos, costas, IMV), y la candidata destaca en campaña la de Cercanías; 61 palabras, dentro del límite, y es una sola acción (traspasar competencias) con su lista."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-e3c0e953c7",
+      "motivo": "Reforzar la ley de la cadena alimentaria para que los precios cubran los costes es la primera línea de su postura y lo repiten la candidata y la cabeza de lista por Alicante en campaña."
+     },
+     {
+      "id": "c-250d72df03",
+      "motivo": "Representa la línea de una PAC adaptada a la agricultura mediterránea que priorice a los profesionales, que la candidata menciona en campaña; tiene algún tecnicismo, pero el sentido se entiende y todo gira en torno a una sola reivindicación sobre la PAC."
+     },
+     {
+      "id": "c-98db40a62f",
+      "motivo": "Cubre la línea del estatuto de agricultores y ganaderos profesionales, eje del apartado agrario del programa."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-fdbf459283",
+      "motivo": "Superar el 3 % del PIB en investigación es la primera línea de su postura y lleva cifra."
+     },
+     {
+      "id": "c-33f4432c43",
+      "motivo": "Representa la segunda línea: una carrera investigadora estable que acabe con los contratos precarios encadenados."
+     },
+     {
+      "id": "c-4a5236e380",
+      "motivo": "Cubre la línea de cultura con el despliegue del Estatuto del Artista, que conecta con lo dicho en campaña sobre artistas con recursos y oportunidades."
+     }
+    ]
+   }
+  },
+  "eh-bildu": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-25c764082b",
+      "motivo": "Línea de regulación del alquiler: la prórroga automática es lo que más destaca en campaña (Matute la anuncia como su primera iniciativa en el Congreso) y figura en el resumen; breve y votable."
+     },
+     {
+      "id": "c-e08c341469",
+      "motivo": "Línea contra la especulación (tercer punto del resumen): prohibir la compra especulativa por fondos y grandes tenedores, que también anuncia en campaña; más central que eliminar las SOCIMI o el IVA turístico."
+     },
+     {
+      "id": "c-2904a26dc7",
+      "motivo": "Línea de la vivienda como derecho (primer punto del resumen): prohibición estructural de desahucios de personas vulnerables sin alternativa habitacional."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-7a1a24e7f6",
+      "motivo": "Primera línea del resumen y primera medida del apartado de empleo del programa: jornada de 32 horas o cuatro días sin rebaja salarial; breve y con cifra."
+     },
+     {
+      "id": "c-786a169ae8",
+      "motivo": "Línea del salario mínimo propio de cada comunidad con el estatal como suelo, la que más repite Matute en campaña; se entiende sola mejor que c-9aee4313ef."
+     },
+     {
+      "id": "c-d739696e9f",
+      "motivo": "Línea de recuperar derechos frente al despido (tercer punto del resumen): indemnización por despido improcedente de al menos 45 días, con cifra y fácil de votar."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-5813161106",
+      "motivo": "Línea central del tema: que las grandes energéticas y alimentarias no trasladen las subidas de costes a los precios mientras aumentan márgenes; coincide con lo que Matute anuncia en campaña."
+     },
+     {
+      "id": "c-a4fee8680d",
+      "motivo": "Línea de limitar temporalmente los precios de bienes y servicios esenciales en emergencias, distinta de la intervención en márgenes y recogida en el resumen."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-59a97ecf0c",
+      "motivo": "Línea contra la privatización sanitaria (segundo punto del resumen): derogar la ley que permite externalizar servicios es la medida más clara y votable de su modelo; la primera línea (transferencia de competencias) no tiene medida que se entienda sola. No hay alternativa equivalente sin nombrar a otro partido, así que se aplica el cambio mínimo, que es correcto."
+     },
+     {
+      "id": "c-e46654ecb5",
+      "motivo": "Línea de ampliar la cartera común con salud bucodental y visual para colectivos vulnerables (tercer punto del resumen), distinta de la de gestión pública."
+     },
+     {
+      "id": "c-3b18027c27",
+      "motivo": "Línea de autogobierno sanitario y lengua (cuarto punto del resumen): reserva del 53 % de plazas MIR, EIR y PIR a quien domine las dos lenguas oficiales del País Vasco; la acción se entiende sola aunque mencione «la transferencia»."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-d66bcc1989",
+      "motivo": "Primera línea del resumen: regularización efectiva, accesible y estable; breve y votable."
+     },
+     {
+      "id": "c-ca344b1f3c",
+      "motivo": "Segunda línea del resumen: rechazo a devoluciones sumarias, externalización de fronteras, CIE y disposiciones restrictivas del Pacto Europeo; todas las acciones van en el mismo sentido y se pueden votar juntas."
+     },
+     {
+      "id": "c-eae44e50ed",
+      "motivo": "Tercera línea del resumen: acceso a sanidad, educación, vivienda y padrón sea cual sea la situación administrativa, coherente con el discurso de integración de su candidato en campaña."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-87d685216c",
+      "motivo": "Línea de derogaciones (segundo punto del resumen); la de Secretos Oficiales pasa de 80 palabras y esta es la única de esa línea que cabe. No hay alternativa equivalente sin nombrar a otros partidos, así que se aplica el cambio mínimo, que es correcto. La primera línea (derecho a decidir) no tiene medidas candidatas."
+     },
+     {
+      "id": "c-d263fe33e6",
+      "motivo": "Línea de garantizar canales presenciales en la administración (tercer punto del resumen); 80 palabras, dentro del límite."
+     },
+     {
+      "id": "c-7d0d3985f7",
+      "motivo": "Única otra medida propia válida del tema (las demás pasan de 80 palabras); completa la línea de acceso a la administración con procesos abreviados para prestaciones. La del euskera en la administración estatal es de otro tema y no procede usarla habiendo medidas propias."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-4d073d399d",
+      "motivo": "Única medida candidata; recoge la línea de aumentar la financiación hasta acercarse al 6 % de la UNESCO, que figura en el resumen."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-52b2e53caf",
+      "motivo": "Primera línea de su postura (revisar al alza el PNIEC y adelantar la descarbonización al menos a 2045); es la medida marco del apartado de energía y clima y lleva fecha."
+     },
+     {
+      "id": "c-5733455045",
+      "motivo": "Segunda línea: eliminar las subvenciones a los combustibles fósiles, incluida la exención al queroseno de aviación; acción concreta y distinta de la planificación."
+     },
+     {
+      "id": "c-612d6fae33",
+      "motivo": "Tercera línea (intervención en precios de la energía): recuperar el «tope al gas»; más concreta y votable que la reforma genérica del mercado eléctrico."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-90e041683c",
+      "motivo": "Primera línea de su postura (rechazo a la OTAN y al aumento del gasto en defensa); breve y se entiende sola pese al «Igualmente» inicial."
+     },
+     {
+      "id": "c-a07b06dc08",
+      "motivo": "Tercera línea: aislamiento económico y político de Israel y ruptura del Tratado de Amistad UE-Israel; medida central de su apartado sobre Palestina."
+     },
+     {
+      "id": "c-a752c877c9",
+      "motivo": "Segunda línea: cerrar y desmantelar el campo de tiro de las Bardenas, con planes de reconversión; medida propia que el resumen destaca."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-a1d3396319",
+      "motivo": "Primera línea de su postura (sustituir las pelotas de goma por medios menos lesivos); la medida sobre la «Ley Mordaza» no se ofrece en este tema, así que esta es la de la línea 1 disponible aquí."
+     },
+     {
+      "id": "c-ccb04b8722",
+      "motivo": "Tercera línea: aplicar a todos los presos la legislación penitenciaria ordinaria y acabar con las medidas de excepción."
+     },
+     {
+      "id": "c-68de5838a3",
+      "motivo": "Tercera línea, segunda parte: repliegue de las Fuerzas y Cuerpos de Seguridad del Estado en la CAV y Navarra; acción distinta de la política penitenciaria."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-dccc624ab1",
+      "texto": "Hacer estructural y permanente la garantía de suministros básicos para personas vulnerables, la cual impide el corte de los mismos a hogares vulnerables, en vigor hasta 31 de diciembre gracias a los acuerdos de prórroga alcanzados los últimos 3 años.",
+      "cambio": "Se ha quitado «por EH Bildu» después de «alcanzados».",
+      "motivo": "Primera línea de su postura (escudo social): hacer permanente la prohibición de cortar suministros básicos a hogares vulnerables; no hay otra medida equivalente (el Suministro Mínimo Vital es otra cosa), así que se elige con el cambio mínimo."
+     },
+     {
+      "id": "c-1c15d4228c",
+      "motivo": "Segunda línea (dependencia): pagar las prestaciones desde la fecha de solicitud; corta y concreta."
+     },
+     {
+      "id": "c-e700c6dd64",
+      "motivo": "Tercera línea: transferir el Ingreso Mínimo Vital y, mientras tanto, ampliar su acceso y cuantías; recoge esa línea tal como la formula el resumen."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-19b12fbfbb",
+      "motivo": "Línea principal (que las grandes empresas paguen) en su medida más repetida en campaña: gravar de forma permanente los beneficios extraordinarios de las energéticas; equivalente a c-6333e03d13 sin nombrar a otros partidos."
+     },
+     {
+      "id": "c-39f8d9d35b",
+      "motivo": "Misma línea 2 en otro impuesto: más peso al impuesto a la banca y grandes fortunas; Matute cita expresamente a los bancos en campaña."
+     },
+     {
+      "id": "c-79c9895775",
+      "motivo": "Tercera línea: IVA del 21 % para los alojamientos turísticos de corta duración; medida corta y distinta de la fiscalidad a grandes empresas."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-8fa1d812f9",
+      "motivo": "Línea de derechos LGTBIQ+: prohibir las terapias de conversión; no hay candidata sobre aborto (línea 1), y esta es la más clara y votable de las restantes."
+     },
+     {
+      "id": "c-891b71258f",
+      "texto": "Acabar con la Ley Mordaza. Volveremos a presentar la Proposición de Ley de Protección de las Libertades y Seguridad Ciudadana para acabar con la Ley Mordaza basada en el acuerdo que hace dos años se logró para acabar con todos los artículos contrarios a la libertad de expresión y los derechos y libertades básicas de la ciudadanía, la cual, tras su admisión a trámite por mayoría, ha sido bloqueada por diferentes grupos durante su tramitación.",
+      "cambio": "Se ha sustituido «EH Bildu» por «se» en «el acuerdo que hace dos años EH Bildu logró».",
+      "motivo": "Línea 3: acabar con la «Ley Mordaza» volviendo a presentar su proposición de ley; medida de primer plano en su programa, sin alternativa equivalente que quepa (c-f893fcffa3 pasa de 80 palabras)."
+     },
+     {
+      "id": "c-2bcf8a9457",
+      "motivo": "Línea 4: ampliar la Ley de Memoria Democrática a víctimas del franquismo, la tortura y la guerra sucia."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-f2ddab0c6b",
+      "motivo": "Línea 2: subir las pensiones mínimas al menos a 1.220 € ligadas al SMI; lleva cifra y es lo que repite Etxebarrieta en campaña."
+     },
+     {
+      "id": "c-077caca8e1",
+      "motivo": "Línea 3: subir al menos un 15 % las pensiones de viudedad y no contributivas, también citada en campaña."
+     },
+     {
+      "id": "c-e0a6429136",
+      "motivo": "Líneas 1 y 2: blindar la revalorización anual con el IPC, la medida más cercana a su defensa del sistema público."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-c642ad36fc",
+      "motivo": "Línea 3: transferencia completa a la CAPV y Navarra de las competencias ferroviarias, portuarias y aeroportuarias; la medida de renovación ferroviaria, su línea 1, pasa de 80 palabras."
+     },
+     {
+      "id": "c-8e80113984",
+      "motivo": "Línea 3, otra parte: mantener y ampliar los descuentos al transporte con financiación estatal."
+     },
+     {
+      "id": "c-425206922e",
+      "motivo": "Otra línea del apartado de movilidad: ayudas al coche eléctrico según renta y leasing social, sin subvencionar híbridos; concreta y distinta de las anteriores."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-137172a80f",
+      "motivo": "Línea 2: exigir la transferencia de todas las competencias pendientes del Estatuto Vasco y el Amejoramiento; la más central de las disponibles (no hay candidata sobre nación ni sobre SMI propio, y la del Concierto depende del título de su apartado)."
+     },
+     {
+      "id": "c-df3e991c36",
+      "motivo": "Lenguas cooficiales: exigir conocimiento de euskera en la administración estatal en la CAV y Navarra; el programa le dedica un apartado propio y esta versión cabe en 80 palabras."
+     },
+     {
+      "id": "c-529c0b1ae8",
+      "motivo": "Lenguas, en otro ámbito: oficialidad del euskera, catalán y gallego en la Unión Europea."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-cf388dc976",
+      "motivo": "Línea 1: desarrollar la Ley de la Cadena Alimentaria con inspección y control para garantizar precios justos en origen; se entiende sola, a diferencia de c-4e7f7de51d."
+     },
+     {
+      "id": "c-78377976bd",
+      "motivo": "Línea 4: ampliar la agricultura y ganadería ecológica con un sello de prácticas regenerativas."
+     },
+     {
+      "id": "c-620059ad70",
+      "motivo": "Alimentación: restringir la publicidad de ultraprocesados y bebidas azucaradas a menores; línea distinta de la cadena alimentaria y concreta."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-25f4c5d8c8",
+      "motivo": "Líneas 1 y 2: centros de datos condicionados a sostenibilidad, con control democrático de los datos y menos dependencia de las grandes tecnológicas; encaja con lo que destacan en campaña sobre gobernar la IA."
+     },
+     {
+      "id": "c-f7a177e80d",
+      "motivo": "Línea 4: cambiar la ley para que las selecciones vascas compitan internacionalmente; medida con apartado propio en el programa."
+     },
+     {
+      "id": "c-7776847087",
+      "motivo": "Línea 3: al menos el 15 % del Fondo de Protección de la Cinematografía para proyectos en lenguas cooficiales; lleva cifra."
+     }
+    ]
+   }
+  },
+  "eaj-pnv": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-aebf062003",
+      "motivo": "Representa su línea de regular el alquiler y evitar abusos (puntos 1 y 3 del resumen): que los alquileres de temporada y turísticos no resten vivienda residencial; es la única medida propia centrada en el alquiler."
+     },
+     {
+      "id": "c-bb4c8818e2",
+      "motivo": "Cubre la línea de rehabilitar edificios (punto 2 del resumen); es la única otra medida disponible en el tema."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-ba1cb982fb",
+      "motivo": "Su medida más propia del tema (punto 2 del resumen): salario mínimo vasco propio y siempre superior al estatal; la repite en campaña Idoia Sagastizabal."
+     },
+     {
+      "id": "c-1d08187d49",
+      "motivo": "Cubre la línea de protección ante el desempleo (punto 3): ampliar la prestación hasta 36 meses ligada a la empleabilidad; lleva cifra."
+     },
+     {
+      "id": "c-39fe93737f",
+      "motivo": "Cubre la línea de autónomos (punto 4): acercar su protección por cese de actividad a la prestación por desempleo."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-f7b40a8e7b",
+      "motivo": "Representa la línea de reglas de gasto más flexibles para que las administraciones vascas inviertan (punto 4 del resumen), la que más medidas propias tiene en el tema. La línea industrial (puntos 1 y 2) solo tiene medidas de Medio ambiente y energía, y aquí hay tres propias, así que no se toman de otro tema."
+     },
+     {
+      "id": "c-044fdb39a2",
+      "motivo": "Cubre la línea de relevo generacional y continuidad de las empresas (punto 3): que las plantillas puedan quedarse empresas viables mediante cooperativas o sociedades laborales."
+     },
+     {
+      "id": "c-2025cfec43",
+      "motivo": "Completa la línea de inversión pública: que ayuntamientos, diputaciones y Gobierno Vasco puedan usar sus superávits; es la única otra medida propia del tema."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-a952f8d346",
+      "motivo": "Primer punto del resumen: profesionales suficientes adaptando el sistema MIR a las necesidades reales de especialistas."
+     },
+     {
+      "id": "c-fccab92983",
+      "motivo": "Cubre la línea competencial (punto 2): culminar las transferencias sanitarias pendientes a Euskadi."
+     },
+     {
+      "id": "c-1388cfa42a",
+      "motivo": "Cubre el punto 3: cumplimiento y financiación de la Ley ELA, que también aparece en su postura sobre familias y cuidados."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-cb5e6fd125",
+      "motivo": "Representa su línea principal (punto 1): más competencias vascas en extranjería, incluidas funciones para la Ertzaintza."
+     },
+     {
+      "id": "c-24ca40ab61",
+      "motivo": "Cubre la línea de acogida descentralizada y el rechazo a grandes centros como el de Arana (punto 3); 54 palabras, dentro del límite."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-a42ee3d1a5",
+      "motivo": "Única medida propia válida: nueva Ley de Secretos Oficiales con desclasificación automática (punto 2 del resumen). «EAJ-PNV nunca facilitará un gobierno que dependa de Vox» (punto 1) no es una medida votable y, quitando el nombre del partido, la frase se queda sin sujeto y no se entiende sola."
+     },
+     {
+      "id": "c-06d7773569",
+      "motivo": "Cubre el punto 3 del resumen: desclasificar los documentos del 3 de marzo de 1976 en Vitoria-Gasteiz para esclarecer y reparar; se toma de Igualdad y derechos (donde no se elige) porque aquí faltan medidas propias."
+     },
+     {
+      "id": "c-51f5b0d2d9",
+      "motivo": "También del punto 3: acceso a la documentación sobre la muerte de Mikel Zabalza, que el resumen cita expresamente; tomada de Igualdad y derechos por falta de medidas propias."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-54a5f22618",
+      "motivo": "Única candidata: regular las prácticas formativas garantizando los derechos del alumnado y respetando la FP Dual (puntos 3 y 4 del resumen); se toma de Empleo, donde no se ha elegido."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-06d05af277",
+      "motivo": "Representa su línea principal (punto 1): energía segura y competitiva para la industria, revisando la planificación energética estatal con las necesidades industriales."
+     },
+     {
+      "id": "c-37a234046b",
+      "motivo": "Cubre el punto 2: compensar al máximo permitido los costes indirectos del CO₂ de la industria; también figura en su postura económica."
+     },
+     {
+      "id": "c-0a50324145",
+      "motivo": "Cubre el punto 4: reforma integral de la Ley de Costas para adaptar el litoral al cambio climático."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-b337fedfaa",
+      "motivo": "Representa su línea principal (punto 1): voz propia de Euskadi en el Consejo de la UE, en particular en el ECOFIN. «Nuestras competencias» se refiere a Euskadi, no al partido."
+     },
+     {
+      "id": "c-6912d512fd",
+      "motivo": "Cubre la gestión de los fondos europeos (punto 2): participación de Euskadi en el Marco Financiero Plurianual 2028-2034."
+     },
+     {
+      "id": "c-fea902d76a",
+      "motivo": "Cubre el punto 4: crear una Macrorregión Atlántica Europea."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-9896d5ce34",
+      "motivo": "Representa su línea principal (punto 1): reconocer a la Ertzaintza como policía judicial con plena capacidad."
+     },
+     {
+      "id": "c-ea3c37fee6",
+      "motivo": "Cubre el punto 2: que las instancias judiciales culminen en el Tribunal Superior de Justicia del País Vasco; 50 palabras."
+     },
+     {
+      "id": "c-1b47438e75",
+      "motivo": "Cubre el punto 3: rechazo a la prisión permanente revisable y sistema penitenciario orientado a la reinserción (no hay medida sobre multirreincidencia)."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-b9a682caf7",
+      "motivo": "Representa su línea principal (puntos 1 y 2): prestación digna para las personas cuidadoras de familiares dependientes, referenciada al salario mínimo."
+     },
+     {
+      "id": "c-fe47f231d7",
+      "motivo": "Cubre la línea de servicios y apoyos a los cuidados (punto 1): Fondo Personal para Cuidados que combine prestaciones y servicios."
+     },
+     {
+      "id": "c-c1bd6c201e",
+      "motivo": "Cubre la protección de familias con menores gravemente enfermos: evaluar y corregir la prestación CUME. Hay cinco medidas propias, así que no se usan las de otros temas (electrodependencia, órganos judiciales de infancia)."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-e32a04e74c",
+      "motivo": "Su propuesta fiscal más concreta (punto 3): rebajar de forma permanente el impuesto sobre la electricidad al 0,5 %; lleva cifra. La de las Haciendas Forales (punto 2) tiene 81 palabras y la del Concierto se usa en Organización territorial."
+     },
+     {
+      "id": "c-9ca7b3202a",
+      "motivo": "Cubre el punto 4: reforma del IVA de bienes esenciales con tipos cero o superreducidos para alimentos básicos; 57 palabras, dentro del límite."
+     },
+     {
+      "id": "c-5dab8677fc",
+      "motivo": "También del punto 4: eximir del IRPF las indemnizaciones a las víctimas del amianto."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-4d37e6af2d",
+      "motivo": "Representa la línea con más medidas en el tema (punto 2): cumplir íntegramente el Pacto de Estado contra la Violencia de Género."
+     },
+     {
+      "id": "c-8cdeeb022b",
+      "motivo": "Cubre el punto 3: perímetros de al menos 150 metros alrededor de los centros de IVE; la recogen también sus resúmenes de sanidad y de seguridad, y lleva cifra."
+     },
+     {
+      "id": "c-e9d875a2e9",
+      "motivo": "Cubre el punto 4: aplicación íntegra de la legislación de memoria histórica y democrática."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-f18c58a2be",
+      "motivo": "Su línea principal (punto 1): revalorizar las pensiones cada año con el IPC; lo repite en campaña Idoia Sagastizabal."
+     },
+     {
+      "id": "c-a4b035704d",
+      "motivo": "Cubre el punto 2: eliminar las penalizaciones de la jubilación anticipada con más de 40 años cotizados; también lo destaca en campaña."
+     },
+     {
+      "id": "c-f86e08e9e9",
+      "motivo": "Cubre la línea de cuidados y brecha de género (punto 2, citada en campaña): coeficientes reductores para las personas cuidadoras no profesionales."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-65afa9d348",
+      "motivo": "Su reivindicación central en infraestructuras (punto 2): terminar la Y vasca sin más demoras y con calendario verificable."
+     },
+     {
+      "id": "c-f363a0d37f",
+      "motivo": "Cubre el punto 3: traspaso de las cercanías que discurren por Euskadi; Maribel Vaquero lo defiende en campaña con el Irun-Brinkola."
+     },
+     {
+      "id": "c-6e17876414",
+      "motivo": "Cubre el punto 4: inversiones del Corredor Ferroviario Atlántico; en campaña reclama conexiones ferroviarias con Europa."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-df955106fb",
+      "motivo": "Representa su línea principal (punto 1): cumplimiento íntegro del Estatuto de Gernika y culminar las transferencias pendientes."
+     },
+     {
+      "id": "c-cacef7f6d1",
+      "motivo": "Cubre el punto 2: ampliar la capacidad fiscal modificando la Ley del Concierto Económico; «nuestras capacidades» se refiere al territorio, no al partido."
+     },
+     {
+      "id": "c-1f5a7c4de1",
+      "motivo": "Cubre el punto 4: transferencia a Euskadi de la gestión del régimen económico de la Seguridad Social; también figura en su postura sobre pensiones."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-4150ab1cf8",
+      "motivo": "Representa su línea principal (puntos 1 y 2): una PAC 2028-2034 con un plan estratégico propio para Euskadi gestionado desde las instituciones vascas."
+     },
+     {
+      "id": "c-02637d17d3",
+      "motivo": "Cubre el relevo generacional (puntos 1 y 3): cotizaciones reducidas para jóvenes que se incorporen y acceso a la tierra."
+     },
+     {
+      "id": "c-784bcaccb6",
+      "motivo": "Cubre la línea pesquera (punto 4): revisar la Política Pesquera Común para garantizar la viabilidad de la flota vasca."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-5b2660ae67",
+      "motivo": "Cubre el punto 1: revisar el IVA cultural para artistas y galerías; se toma de Impuestos, donde no se ha elegido."
+     },
+     {
+      "id": "c-1359d71d3a",
+      "motivo": "Cubre el punto 2: exigir a las plataformas digitales que cumplan el Reglamento europeo de Servicios Digitales frente al odio; se toma de Igualdad y derechos, donde no se ha elegido."
+     }
+    ]
+   }
+  },
+  "pacma": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-5f6db97995",
+      "motivo": "Primera línea del resumen: construcción masiva de vivienda pública y compra de viviendas vacías para venta y alquiler social; el programa la presenta como «la solución real» y se entiende sola."
+     },
+     {
+      "id": "c-418d9ee7fb",
+      "motivo": "Segunda línea: incentivos fiscales (100% IRPF o exención del IBI a pequeños propietarios que pongan su vivienda un 10-15% por debajo del precio medio), con cifras concretas; todo el texto es un mismo paquete de incentivos fiscales."
+     },
+     {
+      "id": "c-d635a365da",
+      "motivo": "Tercera línea, contra la especulación: recargos fiscales a la compra por fondos de inversión y no residentes; corta y clara."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-bdbe52c0e6",
+      "motivo": "Fomento del teletrabajo con incentivos fiscales y ayudas a la contratación y al equipamiento: la medida laboral más desarrollada del programa, en el resumen; 78 palabras, dentro del límite."
+     },
+     {
+      "id": "c-0759ec6bd9",
+      "motivo": "Línea de conciliación: guarderías en los centros de trabajo y permisos retribuidos, incluido el cuidado de animales de compañía, rasgo propio de su postura."
+     },
+     {
+      "id": "c-6969018a95",
+      "motivo": "Línea de igualdad en el empleo: actualizar la ley de conciliación con compromisos de las administraciones para el acceso y la permanencia de las mujeres en el empleo."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-656df0cd2e",
+      "motivo": "Aumentar las subvenciones a la agricultura en detrimento de la ganadería: la medida económica más característica de su filosofía, en el resumen; se entiende sola."
+     },
+     {
+      "id": "c-ffb1bf0fd5",
+      "motivo": "Línea contra la obsolescencia programada: más garantía, reparación fácil y libertad de taller; concreta y en el resumen."
+     },
+     {
+      "id": "c-f235f1d979",
+      "motivo": "Línea de turismo sostenible: Estrategia nacional de turismo sostenible y respetuoso con la naturaleza, los animales y los vecinos, en el resumen."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-391c2fab54",
+      "motivo": "Línea principal: sanidad pública y universal, devolviendo al sistema público los servicios privatizados; corta y se entiende sola."
+     },
+     {
+      "id": "c-d84bacf95e",
+      "motivo": "Segunda línea, mejora de la atención: más especialistas en psiquiatría y psicología en la sanidad pública; igual de representativa que la bucodental y no hay que retocarla."
+     },
+     {
+      "id": "c-66de186bde",
+      "texto": "Por ello, proponemos que los hospitales permitan el acceso de animales, habilitando una zona o sala, donde las personas que se encuentren ingresadas puedan recibir la visita de sus animales de compañía. Para ello, promoveremos un plan conjunto entre el Consejo Interterritorial del Sistema Nacional de Salud, el Estado y las comunidades autónomas, con los protocolos de seguridad e higiene adecuados.",
+      "cambio": "Se quita «desde PACMA » tras «Por ello, ».",
+      "motivo": "Tercera línea, la propia de su postura: zonas en los hospitales para que los ingresados reciban la visita de sus animales; ninguna otra medida propia del tema cubre esa línea, así que se elige con el cambio mínimo."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-174f230dc9",
+      "motivo": "No hay medidas propias del tema; de las dos que se ofrecen (de educación), los mediadores interculturales en colegios e institutos es la más cercana a su línea de integración y aparece en el resumen."
+     },
+     {
+      "id": "c-c4d65309f5",
+      "motivo": "Cambiar los criterios de matrícula para evitar la concentración de alumnado extranjero en algunos centros, contra la segregación escolar; en el resumen. No se usa en educación."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-37abed0e70",
+      "motivo": "Primera línea del resumen: circunscripción única, sin barrera electoral y con escaños proporcionales a los votos; se entiende sola."
+     },
+     {
+      "id": "c-341f1c2e8b",
+      "motivo": "Línea anticorrupción: eliminación de los aforamientos, primera medida de su apartado contra la corrupción."
+     },
+     {
+      "id": "c-90daa4ce8f",
+      "motivo": "Línea de igualdad entre partidos en los medios públicos: los mismos minutos de vídeos electorales para todas las candidaturas; se entiende sola."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-03abb87b4f",
+      "motivo": "Reducir la ratio de alumnos por profesor en todas las etapas: resume su apuesta por una educación pública de calidad y se entiende sola."
+     },
+     {
+      "id": "c-1c991aa716",
+      "motivo": "Línea del Pacto de Estado por la Educación pública: plazas públicas suficientes de 0 a 3 años, concreta y en el resumen."
+     },
+     {
+      "id": "c-97cecd8129",
+      "motivo": "Línea de valores propios: opción de menú 100% vegetal en todos los comedores escolares, en el resumen."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-7e3267b6be",
+      "motivo": "Prohibir el uso de animales en todo tipo de espectáculos, tradiciones y festejos: núcleo de su postura animalista (línea 4), lo destaca en campaña (nota del 15-11-2026 contra un festejo con animales) y no nombra al partido."
+     },
+     {
+      "id": "c-7f70f35564",
+      "texto": "Se propone ampliar las zonas marinas y terrestres protegidas, de manera que las áreas naturales protegidas de bosques, humedales, turberas, pastizales y ecosistemas costeros, que, actualmente solo suponen un 18% del territorio, abarquen, al menos, un 30% para 2030. Este objetivo debe ser vinculante a nivel nacional, en cooperación con los gobiernos autonómicos y locales, siendo fundamental, además, que la protección de la biodiversidad se tenga en cuenta en todas las políticas, de manera transversal.",
+      "cambio": "Se sustituye «PACMA propone» por «Se propone».",
+      "motivo": "Línea de protección de la naturaleza: proteger al menos el 30% del territorio en 2030, con cifra y plazo; no hay otra medida equivalente que no nombre al partido."
+     },
+     {
+      "id": "c-ac9b7741ae",
+      "motivo": "Línea de clima y emisiones: nuevo Plan Nacional de Calidad del Aire contra las fuentes más contaminantes (combustibles fósiles, ganadería y agricultura intensivas, transporte); la única medida válida del lote que toca la transición y la ganadería; 79 palabras, dentro del límite. No se usa en sanidad."
+     }
+    ],
+    "politica-exterior-y-defensa": [],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-ecc8d5c80f",
+      "motivo": "Medida propia del tema que representa su línea principal en justicia, la persecución penal del maltrato animal: unidad especializada en protección animal en la Fiscalía General del Estado; no delata a quien la firma."
+     },
+     {
+      "id": "c-87f004ede2",
+      "texto": "Son necesarios cambios contundentes y efectivos para erradicar la terrible lacra del maltrato animal en nuestro país. Por todo ello, trabajaremos por la supresión de la pena de multa como alternativa a la pena de prisión, así como por un aumento de la pena de prisión que, en el tipo agravado, esté por encima de los cinco años.",
+      "cambio": "Se ha quitado «desde PACMA » antes de «trabajaremos».",
+      "motivo": "Primer punto del resumen: suprimir la multa como alternativa a la prisión por maltrato animal y elevar a más de cinco años el tipo agravado. Es de medio-ambiente-y-energia, pero allí no se usa (lote pacma.1) y aquí solo hay dos medidas propias."
+     },
+     {
+      "id": "c-6eb7fa457e",
+      "texto": "Defendemos la necesidad de que los Cuerpos y Fuerzas de Seguridad del Estado cuenten con unidades especializadas en el bienestar y la protección de los animales. Estas unidades estarán integradas por agentes instruidos en bienestar y protección animal, incluyendo el adecuado manejo de los animales, y deberán estar equipadas con los medios y recursos materiales necesarios, como armas anestésicas y dardos tranquilizantes.",
+      "cambio": "Se ha quitado «Desde PACMA » al inicio y, en consecuencia, «defendemos» pasa a «Defendemos».",
+      "motivo": "La otra medida propia del tema: unidades especializadas en protección animal en las Fuerzas y Cuerpos de Seguridad del Estado (punto 2 del resumen)."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-7f2225ed7f",
+      "motivo": "Punto 2 del resumen, apoyo público a las familias con ayudas: transporte y menú escolar gratuitos para los niños de familias vulnerables; corta, concreta y no delata. Es de educacion, pero allí no se usa (lote pacma.1)."
+     },
+     {
+      "id": "c-6a9ca9482d",
+      "motivo": "Única medida propia del tema: plan nacional de formación, empleo y accesibilidad universal para las personas con discapacidad."
+     },
+     {
+      "id": "c-1cfc7f0f14",
+      "motivo": "Protección de la infancia: tratamiento y asistencia específicos, con asistencia letrada propia, para los hijos de las víctimas de violencia machista. Es de igualdad-y-derechos, donde no se elige."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-7f40434366",
+      "motivo": "Primer punto del resumen, aliviar el gasto veterinario de las familias: deducción en el IRPF de hasta el 10 % con un máximo de 500 euros y límite de renta; la de rebaja del IVA veterinario pasa de 80 palabras."
+     },
+     {
+      "id": "c-1bc45a112e",
+      "motivo": "Segunda línea: impuesto climático a los productos de origen animal según sus emisiones."
+     },
+     {
+      "id": "c-357cf5d017",
+      "motivo": "Mecanismo distinto de su fiscalidad alimentaria, explícito en el resumen: más IVA a los lácteos animales y menos a los vegetales."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-de3ff7ab29",
+      "motivo": "La violencia contra las mujeres concentra casi todas sus medidas del tema y las unidades policiales 24 horas son lo primero que cita el resumen en esa línea; corta y concreta."
+     },
+     {
+      "id": "c-7c75bce5ef",
+      "motivo": "Primer punto del resumen: Pacto de Estado por la Igualdad en el Empleo contra la discriminación laboral y salarial."
+     },
+     {
+      "id": "c-d81be7fb5d",
+      "motivo": "Parte propia de su postura contra la violencia machista, citada en el resumen: admitir a los animales de las víctimas en casas de acogida y pisos tutelados."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-2492c5b452",
+      "motivo": "Su única propuesta en el tema y todo su resumen: reformar la Constitución para blindar las pensiones públicas."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-e3b92b9ef1",
+      "texto": "Impulsaremos el desarrollo de una norma que aborde las distintas problemáticas derivadas de las diferentes infraestructuras, que prevea medidas de protección de la fauna silvestre y establezca la obligatoriedad de adoptarlas, ya se trate de infraestructuras de titularidad pública como privada, adaptando las existentes y exigiendo que las nuevas las incorporen desde su construcción o instalación, con la finalidad de evitar o, al menos, reducir la mortalidad de la fauna silvestre.",
+      "cambio": "Se ha quitado «Desde PACMA » al inicio y, en consecuencia, «impulsaremos» pasa a «Impulsaremos».",
+      "motivo": "Punto 3 del resumen y la propuesta de transporte más desarrollada que queda: una norma que obligue a adaptar las infraestructuras públicas y privadas para reducir la mortalidad de la fauna silvestre. No hay alternativa equivalente que no nombre al partido."
+     },
+     {
+      "id": "c-814c9938be",
+      "motivo": "Punto 4 del resumen: permitir y regular el acceso de los animales al transporte público. Es de medio-ambiente-y-energia, donde no se usa."
+     },
+     {
+      "id": "c-ac34e10acb",
+      "motivo": "Punto 1 del resumen, reducir el tráfico rodado: centros de trabajo intermedios en forma de coworking públicos para acortar trayectos. Es de empleo, donde no se usa."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-d25e919093",
+      "motivo": "Primer punto del resumen: que los ayuntamientos se hagan cargo de las colonias de gatos con subvenciones estatales suficientes y estables. No se usa en medio-ambiente-y-energia."
+     },
+     {
+      "id": "c-4b368d609a",
+      "motivo": "Segundo punto: colaboración entre comunidades autónomas para elaborar libros de texto de copia libre. No se usa en educacion."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-2bd04b472f",
+      "motivo": "Primer punto del resumen y centro de su apartado «NO a las macrogranjas»: no autorizar nuevas explotaciones ganaderas ni ampliaciones; corta y no delata."
+     },
+     {
+      "id": "c-ca329f4957",
+      "texto": "Apostamos también por una reconversión de la industria pesquera hacia otros sectores, y el cese de las subvenciones al sector.",
+      "cambio": "Se ha quitado «Desde PACMA » al inicio y, en consecuencia, «apostamos» pasa a «Apostamos».",
+      "motivo": "Punto 3 del resumen: reconvertir la industria pesquera y retirarle las subvenciones; no hay otra medida de esa línea sin el nombre del partido."
+     },
+     {
+      "id": "c-ae0515519e",
+      "texto": "Se quiere impulsar la prohibición del uso del glifosato, así como el de otros herbicidas y plaguicidas peligrosos.",
+      "cambio": "Se ha sustituido «PACMA» por «Se».",
+      "motivo": "La otra parte del punto 3: prohibir el glifosato y otros herbicidas y plaguicidas peligrosos; única medida de esa línea."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-b9ab667506",
+      "texto": "Exigimos proteger a la infancia de la violencia de la tauromaquia y la caza, prohibiendo su asistencia y participación en estas actividades en las que se ejerce violencia extrema contra los animales, y avanzar hacia la supresión de las excepciones legales al maltrato y sufrimiento de los propios animales, permitidos también en otros espectáculos, como circos y delfinarios.",
+      "cambio": "Se ha quitado «Desde el Partido Animalista » al inicio y, en consecuencia, «exigimos» pasa a «Exigimos».",
+      "motivo": "Su línea principal es acabar con los espectáculos con animales: prohibir que los menores asistan a la tauromaquia y la caza y avanzar hacia la supresión de las excepciones legales al maltrato en circos y delfinarios; enlaza con su campaña judicial contra un festejo. La más representativa (c-7ef469db34) pasa de 80 palabras."
+     },
+     {
+      "id": "c-7cfc6cb19b",
+      "motivo": "Punto 3 del resumen, acabar con la experimentación animal: más financiación para los métodos sustitutivos."
+     },
+     {
+      "id": "c-a6cc4588ef",
+      "motivo": "Punto 4 del resumen, la ciencia: libre acceso a los resultados de la investigación financiada con fondos públicos."
+     }
+    ]
+   }
+  },
+  "bng": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-64de6273ec",
+      "motivo": "Es la primera línea del resumen (topar por ley el alquiler, prohibir desahucios de personas vulnerables y suspender lanzamientos sin alternativa) y la que Néstor Rego pone en cabeza en campaña; las tres acciones son de la misma línea de protección de inquilinos y se entienden como una sola propuesta."
+     },
+     {
+      "id": "c-35924ef97c",
+      "motivo": "Cubre la segunda línea, el parque público de alquiler permanente, con la cifra del 3% de los PGE que el resumen recoge."
+     },
+     {
+      "id": "c-8ede1ecfeb",
+      "motivo": "Cubre la vivienda vacía en manos de grandes propietarios (alquiler forzoso, expropiación temporal, canon), lo que más repiten en campaña Ana Pontón y Néstor Rego; 64 palabras, dentro del límite."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-64fbc8af09",
+      "motivo": "La jornada de 35 horas sin rebaja salarial es la medida que más destaca en campaña (Rego recuerda su proposición de ley) y es línea principal del resumen."
+     },
+     {
+      "id": "c-f0040e3a5f",
+      "motivo": "Cubre la línea salarial con una referencia concreta: SMI al 60% del salario medio."
+     },
+     {
+      "id": "c-9a8e74aedd",
+      "motivo": "Cubre la tercera línea del resumen, contra la precariedad: eliminar las ETT y las agencias privadas de colocación."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-1386ec87d0",
+      "motivo": "Recoge las dos primeras líneas: control público gallego de los sectores estratégicos y la Corporación Industrial Pública Gallega con las participaciones del Estado."
+     },
+     {
+      "id": "c-4c8cac8b7c",
+      "motivo": "Representa la reforma minera, a la que el programa dedica más medidas en el tema, con la cifra de participación pública mínima del 20%."
+     },
+     {
+      "id": "c-f308d61211",
+      "motivo": "Cubre la línea del coste de la vida: regular por ley los precios de los alimentos básicos."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-95cc790937",
+      "motivo": "Representa la línea central de una sanidad con titularidad, financiación, gestión y provisión exclusivamente públicas, con una acción concreta; la medida de financiación (c-e5aaaa7c8e) mezcla varias acciones."
+     },
+     {
+      "id": "c-f1218b5409",
+      "motivo": "Cubre la segunda línea con una medida clara: acabar con el copago farmacéutico."
+     },
+     {
+      "id": "c-99720ee22c",
+      "motivo": "Cubre la tercera línea, que Galicia asuma plena capacidad sobre su sanidad, con la formación MIR y más plazas."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-bbdbb5f15e",
+      "motivo": "Representa la línea de derechos y garantías (cierre de los CIE, fin de las devoluciones en caliente, respeto al asilo), la más central de las disponibles."
+     },
+     {
+      "id": "c-cceebf8c54",
+      "motivo": "Cubre la línea de integración: agilizar la homologación de títulos extranjeros."
+     },
+     {
+      "id": "c-6fadfd1ae1",
+      "motivo": "Cubre la cuarta línea del resumen: admitir el conocimiento del gallego como criterio para la nacionalidad; el «también» inicial no impide entenderla."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-efbaaa3f44",
+      "motivo": "Encabeza la reforma electoral con reparto proporcional directo, primera línea del resumen, y se entiende sola."
+     },
+     {
+      "id": "c-09fe06c5d8",
+      "motivo": "Cubre la segunda línea: referendos vinculantes, incluido el de autodeterminación."
+     },
+     {
+      "id": "c-0aa88206ec",
+      "motivo": "Cubre la línea contra la corrupción con una medida concreta: regulación estricta de las puertas giratorias y de las incompatibilidades de diputados y senadores."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-519bf7582c",
+      "motivo": "Resume la primera línea: enseñanza pública, laica, coeducativa y gratuita de 0 a 18 años con una única red pública; 60 palabras, dentro del límite."
+     },
+     {
+      "id": "c-fc6d56906e",
+      "motivo": "Cubre la segunda línea, el traspaso pleno de las competencias de enseñanza a Galicia, y dice claramente de qué competencias habla."
+     },
+     {
+      "id": "c-9f78b1b0f9",
+      "motivo": "Cubre la línea de financiación con una cifra concreta: al menos el 7% del PIB."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-00acb14019",
+      "motivo": "La tarifa eléctrica gallega es la medida más concreta y que se entiende sola de la primera línea (poder sobre la energía para abaratar la luz); c-78e390b56e empieza con «Esto es básico» y no se entiende sola."
+     },
+     {
+      "id": "c-ab67f6de9e",
+      "motivo": "Cubre el rechazo a la eólica marina en el litoral gallego, tercera línea del resumen; 72 palabras, dentro del límite."
+     },
+     {
+      "id": "c-c58f598fe4",
+      "motivo": "Cubre la línea de protección de la naturaleza: catalogar el eucalipto como especie invasora y limitar su cultivo."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-f72f14988f",
+      "motivo": "La salida de la OTAN es la primera línea del resumen y resume su posición antimilitarista."
+     },
+     {
+      "id": "c-4c350ae9c5",
+      "motivo": "Cubre la tercera línea: salida negociada en Ucrania y fin del envío de armas."
+     },
+     {
+      "id": "c-410126cced",
+      "motivo": "Cubre la cuarta línea con una acción concreta: referéndum de autodeterminación en el Sáhara Occidental y revertir el cambio de postura del Gobierno."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-50a255d5e8",
+      "motivo": "Primera línea del resumen (derogar íntegra la «Ley Mordaza»), que Néstor Rego repite en campaña; corta, votable y se entiende sola."
+     },
+     {
+      "id": "c-5fc18b3978",
+      "motivo": "Línea competencial del resumen: traspaso de la seguridad pública a Galicia con una Policía Gallega; distinta de la primera."
+     },
+     {
+      "id": "c-70593f6223",
+      "motivo": "Línea penal del resumen: derogar la prisión permanente revisable (y la libertad vigilada posterior a la pena), misma idea de reinserción; 61 palabras, dentro del límite."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-292cb552e9",
+      "motivo": "Primera línea del resumen: servicios sociales públicos en titularidad, gestión y financiación, con más gasto en protección social."
+     },
+     {
+      "id": "c-f0b68c7bff",
+      "motivo": "Línea de financiación de la dependencia y deuda con Galicia de más de 3.000 millones; lleva cifra y es distinta de la primera."
+     },
+     {
+      "id": "c-1c45d54948",
+      "motivo": "Línea de rentas: traspaso del Ingreso Mínimo Vital para una renta gallega no inferior al SMI."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-9b1e60b655",
+      "motivo": "Impuestos permanentes y más progresivos a banca, grandes energéticas y grandes fortunas, con gestión gallega: une la línea redistributiva y la de soberanía fiscal, y coincide con lo que Rego pide en campaña (gravar a las energéticas)."
+     },
+     {
+      "id": "c-c212618b95",
+      "motivo": "Línea principal del resumen: política fiscal propia de Galicia y que las empresas que operan allí tributen allí. El «En consonancia,» inicial no impide entenderla sola."
+     },
+     {
+      "id": "c-f9564df884",
+      "motivo": "Línea de progresividad del IRPF: menos tributación del trabajo y más del capital."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-6a8447a4a8",
+      "motivo": "Primera línea del resumen (reforma legal contra la violencia machista): introducir el feminicidio en la ley y un estatuto de la víctima; corta y clara. La alternativa integral (c-6a61420519) es más larga y técnica."
+     },
+     {
+      "id": "c-cb671b9032",
+      "motivo": "Segunda línea del resumen: rechazo a legalizar los vientres de alquiler; no hay medida votable de abolición de la prostitución en sí."
+     },
+     {
+      "id": "c-de981e45ff",
+      "motivo": "Tercera línea del resumen: derogar la Ley de Amnistía de 1977 para amparar a las víctimas del franquismo."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-22b8d577fe",
+      "motivo": "Primera línea del resumen (deshacer las reformas y volver a la jubilación a los 65), en su forma más concreta y comprensible."
+     },
+     {
+      "id": "c-b646e38d13",
+      "motivo": "Línea de subida de las pensiones, que Rego destaca en campaña: mínimas al nivel del SMI, con cifra."
+     },
+     {
+      "id": "c-e305c539f8",
+      "motivo": "Línea de financiación del resumen: presupuestos e impuestos a la riqueza, sin tope en las bases de cotización."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-a1ad0850af",
+      "motivo": "AP-9 y AP-53 traspasadas, públicas y sin el «expolio» de los peajes: Rego dice en campaña que la gratuidad de la AP-9 es su objetivo principal. La versión que dice «libre de peajes» (c-66ae933c8d) nombra al BNG y al PP."
+     },
+     {
+      "id": "c-8b4803bd0d",
+      "motivo": "Línea del tren como prioridad: cercanías en las principales ciudades gallegas; en campaña piden inversiones ferroviarias."
+     },
+     {
+      "id": "c-8d3fd07205",
+      "motivo": "Línea de grandes obras pendientes: completar el Corredor Atlántico de mercancías, que Ana Pontón destaca en campaña."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-0d3e164368",
+      "motivo": "Concierto económico para que Galicia recaude todos los impuestos: línea central del tema, que Rego repite en campaña frente al nuevo sistema de financiación."
+     },
+     {
+      "id": "c-58ddad3820",
+      "motivo": "Línea de reorganización administrativa: suprimir las diputaciones provinciales traspasando sus funciones a Galicia y los ayuntamientos."
+     },
+     {
+      "id": "c-2a82eea1ec",
+      "motivo": "Línea lingüística: el gallego en toda la Administración General del Estado en igualdad con el castellano."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-37946fcf9a",
+      "motivo": "Rechazo del acuerdo UE-Mercosur: primera línea del resumen y lo que destaca Noa Presas en campaña; la reforma de la cadena alimentaria pasa de 80 palabras."
+     },
+     {
+      "id": "c-32f68c7d91",
+      "motivo": "Línea pesquera del resumen: eliminar el principio de estabilidad relativa."
+     },
+     {
+      "id": "c-eb10a9fa6e",
+      "motivo": "Línea del monte: reconocer en el Código Civil la propiedad comunal."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-67167ba00c",
+      "motivo": "Primera línea del resumen: I+D+i al 3% del PIB en 2030, con cifra y plazo."
+     },
+     {
+      "id": "c-eb9f98e3c3",
+      "motivo": "Línea de derechos digitales: ley de transparencia algorítmica y supervisión humana."
+     },
+     {
+      "id": "c-014ccd93fc",
+      "motivo": "Línea de infraestructura digital pública: nube pública gallega, citada en el resumen."
+     }
+    ]
+   }
+  },
+  "cc-primero-canarias": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-a943e85fb6",
+      "motivo": "Limitar la compra de vivienda por extranjeros es una línea del resumen (punto 3) y la que repiten en campaña sus dos cabezas de lista (Sosa y Valido); se usa la versión del programa, más moderada que las declaraciones. Encaja con el lema del apartado, «derecho a vivir y permanecer en Canarias»."
+     },
+     {
+      "id": "c-5fd07ba38f",
+      "motivo": "Cubre la otra gran línea: el fondo estatal de ocho años para cofinanciar vivienda pública y asequible (punto 2), con plazo concreto."
+     },
+     {
+      "id": "c-a654df545e",
+      "motivo": "Cubre la línea de vivienda vacacional (punto 1 del resumen): que Canarias pueda limitar los usos turísticos donde haya presión sobre la vivienda."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-23fafa3df3",
+      "motivo": "Incentivos fiscales y bonificaciones ligados a mejoras salariales pactadas: concreta su línea principal de mejores salarios (puntos 1 y 2 del resumen)."
+     },
+     {
+      "id": "c-24866b478f",
+      "motivo": "Cubre la línea de financiación estatal del Plan Integral de Empleo de Canarias (punto 3)."
+     },
+     {
+      "id": "c-4f0d32d3cf",
+      "motivo": "Cubre el plan cuatrienal de empleo para menores de 35 años (punto 3), distinto del plan general. 69 palabras, dentro del límite."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-68ad78aeb0",
+      "motivo": "Actualizar las compensaciones por los sobrecostes de la insularidad para abaratar la cesta de la compra: línea del resumen (punto 3) y mensaje central de Valido en campaña. La medida propia del REF (c-600909794b) no se entiende sola («las operaciones»)."
+     },
+     {
+      "id": "c-c882ff93d8",
+      "motivo": "Que las administraciones canarias puedan usar sus remanentes en vivienda, sanidad o educación (punto 4); Sosa lo destaca en campaña."
+     },
+     {
+      "id": "c-10884edd51",
+      "motivo": "Cubre la línea de un turismo que contribuya al bienestar de los residentes (punto 2 del resumen)."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-ef4a040cb3",
+      "motivo": "Compensación estatal por los sobrecostes sanitarios de la insularidad: concreta su línea de financiación que reconozca el coste de atender ocho islas (puntos 1 y 2) y enlaza con el mensaje de campaña sobre financiación justa."
+     },
+     {
+      "id": "c-a64dc8004f",
+      "motivo": "Cubre la línea de reforzar la salud mental en los Presupuestos (punto 3)."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-722960b759",
+      "motivo": "Traslados obligatorios y automáticos a otras comunidades al superarse los umbrales: línea central del resumen (punto 2) y única medida propia válida. La de otro tema (c-9e8db7040a) no se entiende sola."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-60a3db2af5",
+      "motivo": "Informe público anual sobre las obligaciones estatales con Canarias (punto 3): única medida propia del tema, clara y votable; refleja su idea de exigir y rendir cuentas. c-4158d388b9 recoge el punto 2 y la campaña, pero quien no conoce la «Agenda Canaria» no sabe bien qué vota, así que no es claramente mejor como primera."
+     },
+     {
+      "id": "c-4158d388b9",
+      "motivo": "Cumplir en las Cortes la Agenda Canaria y el Decreto Canarias (punto 2), coherente con su mensaje de campaña de exigir negociar con Canarias. De otro tema, usada porque solo hay una propia y no se usa en organización territorial. Nombra al Gobierno de Canarias como institución, no como gobierno propio: no se cambia."
+     },
+     {
+      "id": "c-1379b41eeb",
+      "motivo": "Que una eventual reforma constitucional recoja la singularidad canaria (punto 4). De otro tema, no usada allí."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-cbb988189c",
+      "motivo": "Becas del REF para quien debe estudiar fuera de su isla (punto 3): su propuesta más propia en educación y la más cercana al mensaje de campaña sobre las dificultades añadidas del alumnado de las islas."
+     },
+     {
+      "id": "c-4a1462a326",
+      "motivo": "Cubre la línea de inversión estatal en infraestructuras educativas (punto 1)."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-8063b09892",
+      "motivo": "Sustituir progresivamente las centrales térmicas obsoletas por soluciones más eficientes y renovables: resume su línea principal de transición energética y suministro (puntos 1 y 2)."
+     },
+     {
+      "id": "c-2c4aa021a0",
+      "motivo": "Cubre la línea del agua: compensar el sobrecoste de la desalación, que Sosa destaca en campaña con la cifra de 140 millones anuales."
+     },
+     {
+      "id": "c-f0c488288c",
+      "motivo": "Cubre la línea de adaptación de pueblos y ciudades al calor (punto 4)."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-91a3b396ef",
+      "motivo": "Que Canarias participe en la posición española y en las negociaciones con Marruecos: primera línea del resumen. Se entiende sola."
+     },
+     {
+      "id": "c-e54e8312e9",
+      "motivo": "Cubre la línea de defender ante la UE los fondos específicos de las regiones ultraperiféricas (punto 2)."
+     },
+     {
+      "id": "c-0d21f8f8f0",
+      "motivo": "Cubre la línea de recuperar terrenos militares para uso civil, como el campo de tiro de Pájara (punto 3)."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-cb9983342a",
+      "motivo": "Financiación estatal de las 1.400 plazas de la Policía Canaria: primera línea del resumen y lleva cifra. 61 palabras."
+     },
+     {
+      "id": "c-45dfacb378",
+      "motivo": "Cubre la línea de emergencias: activación temprana de la UME en incendios de nivel 1 (punto 2)."
+     },
+     {
+      "id": "c-727b452d88",
+      "motivo": "Desplazar preventivamente medios estatales ante fenómenos extremos (punto 2). La alternativa de recuperación de La Palma (c-e142625a92) mezcla dos acciones y habla de «el plan especial de empleo» sin decir cuál; no es claramente mejor."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-8644ecb729",
+      "motivo": "Estrategia de envejecimiento y cuidados de larga duración: línea principal (punto 1), ligada a la dependencia que su candidato califica de intocable en campaña."
+     },
+     {
+      "id": "c-a185e9cea7",
+      "motivo": "Cubre la línea de que Canarias pueda tramitar el ingreso mínimo vital (punto 3)."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-3adac91bc1",
+      "motivo": "Mantener la deducción del 60 % del IRPF en La Palma y extenderla a La Gomera y El Hierro: medida fiscal concreta con cifra (punto 2 del resumen)."
+     },
+     {
+      "id": "c-ce0a4cbb7c",
+      "motivo": "Mantener el diferencial fiscal canario para el audiovisual: concreta la línea de proteger el régimen fiscal canario (punto 1)."
+     },
+     {
+      "id": "c-e348fccac6",
+      "motivo": "Acceso del Instituto Canario de Estadística a la información tributaria para evaluar el REF (punto 1). Con tres medidas propias válidas no se usan las de otros temas, aunque la línea de incentivos fiscales (punto 3) queda sin representar."
+     }
+    ],
+    "igualdad-y-derechos": [],
+    "pensiones": [
+     {
+      "id": "c-55a63d3bef",
+      "motivo": "Compatibilizar los complementos de renta canarios con las pensiones no contributivas sin tributar ni reducirlas: es toda su postura en el tema."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-5ae9b21bca",
+      "motivo": "Proteger el descuento del 75 % para residentes en avión y barco: primera línea del resumen, con cifra, y Sosa la defiende en campaña."
+     },
+     {
+      "id": "c-76341256e0",
+      "motivo": "Compensar el 100 % del coste real del transporte de mercancías (punto 3), mensaje central de Valido en campaña."
+     },
+     {
+      "id": "c-80cabc5861",
+      "motivo": "Cubre la línea ferroviaria: convenio de diez años para el Tren de Gran Canaria y trato equivalente en Tenerife (punto 2). 69 palabras."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-ee78507df0",
+      "motivo": "Financiación autonómica que reconozca el coste real del archipiélago (punto 3): lo que más repiten sus candidatos en campaña («financiación autonómica justa»)."
+     },
+     {
+      "id": "c-82bf9d3d51",
+      "motivo": "Calendario verificable para completar los traspasos del Estatuto: concreta su aspiración al máximo autogobierno (puntos 1 y 2)."
+     },
+     {
+      "id": "c-3229dbe958",
+      "motivo": "Que el REF no compute como financiación ordinaria de los servicios (punto 3), distinta de la financiación general."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-34e7c14ba9",
+      "motivo": "Defender íntegramente el POSEI: primera línea del resumen y la que Valido repite en campaña."
+     },
+     {
+      "id": "c-a0af7e92e7",
+      "motivo": "Reclamar cada año el 100 % de la aportación estatal a las ayudas adicionales (punto 1), que la campaña también destaca. Dentro del tema Campo se entiende que son ayudas agrarias; las alternativas son de otro tema y ya usadas o no se entienden solas."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-cb988545a3",
+      "motivo": "Centro Nacional de Vulcanología en La Palma con el 50 % del mantenimiento a cargo del Estado: línea propia del resumen (punto 2), con cifra. 69 palabras."
+     },
+     {
+      "id": "c-26bc920420",
+      "motivo": "Cubre la línea cultural: ayudas para los desplazamientos de artistas canarios (punto 3)."
+     },
+     {
+      "id": "c-50d69b6123",
+      "motivo": "Mecanismos de acuerdo sobre infraestructuras científicas estratégicas en Canarias: completa la línea de investigación (punto 1). De otro tema, no usada allí."
+     }
+    ]
+   }
+  },
+  "salf": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-53a0c848b4",
+      "motivo": "Su línea central y la que más repite en campaña: cero impuestos a la primera vivienda con un abaratamiento mínimo del 35 % garantizado por ley; las piezas que enumera sirven a un único objetivo votable."
+     },
+     {
+      "id": "c-127deaeed4",
+      "motivo": "Línea de ocupación e impago (desalojo policial en 48 horas, lanzamiento en 30 días), que el resumen recoge y el programa pone en su portada."
+     },
+     {
+      "id": "c-9ebd1eae2e",
+      "motivo": "Línea de suelo: todo el suelo de la Sareb y del Estado a concurso en 12 meses para vivienda protegida en propiedad; con plazo y se entiende sola."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-2d7c53c853",
+      "motivo": "Primera línea del resumen: contrato indefinido único con indemnización de 12 a 33 días y mochila del 1,53 %, en una sola medida clara."
+     },
+     {
+      "id": "c-b688bf398e",
+      "motivo": "Línea de autónomos (cuota cero total), que el programa repite en portada y en varios apartados; es la versión más clara."
+     },
+     {
+      "id": "c-d9c83fd209",
+      "motivo": "Línea de bajas por enfermedad pagadas por la Seguridad Social desde el primer día, distinta de las anteriores y entendible sola."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-fc1bd25ed6",
+      "motivo": "Primera línea del resumen: déficit cero en 2030 con techo de gasto y ninguna bajada de impuestos sin ahorro certificado por la AIReF; lleva fecha."
+     },
+     {
+      "id": "c-839d78d9fc",
+      "motivo": "Línea de empresas: dos regulaciones derogadas por cada nueva y unidad de mercado entre comunidades."
+     },
+     {
+      "id": "c-181734f838",
+      "motivo": "Línea de financiación de su rebaja fiscal mediante la devolución del rescate bancario, con cifras y plazo; nombra bancos, no partidos."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-ac2f3300e1",
+      "motivo": "Recoge sus dos primeras líneas (plazos máximos y libre elección de centro si se superan) y es lo que destaca en campaña («60 días como máximo para operarte»)."
+     },
+     {
+      "id": "c-728c912384",
+      "motivo": "Línea de profesionales: subida del 20 % a médicos y del 10 % al resto en cuatro años, con cifras y plazo; está en su portada."
+     },
+     {
+      "id": "c-fd46d2f713",
+      "motivo": "Línea de acceso a la tarjeta sanitaria (españoles y residentes legales con cotización o cobertura, urgencias para todos), distinta de las anteriores."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-da279e13af",
+      "motivo": "Derogar la regularización de 2026 y prohibir por ley las regularizaciones masivas es centro de su postura y de su mensaje de campaña («fin de las regularizaciones»); se entiende sola."
+     },
+     {
+      "id": "c-787ce19ec3",
+      "motivo": "Línea de inmigración solo legal (visados con contrato previo y cupo anual votado en el Congreso) junto con la moratoria a países que no colaboran ni readmiten."
+     },
+     {
+      "id": "c-bbe61f5e67",
+      "motivo": "Expulsión en 48 horas con internamiento hasta la salida, la otra mitad de su mensaje de campaña; acción distinta de la regularización."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-d0d5412ea8",
+      "motivo": "Primera línea de su postura y de su campaña («De 22 ministerios a 10»): supresión de 12 ministerios, 2 vicepresidencias y la mitad de los altos cargos; se entiende sola."
+     },
+     {
+      "id": "c-1a885dd6f5",
+      "motivo": "Línea de corrupción con su pieza principal, la imprescriptibilidad, que repite en campaña («La corrupción no prescribe»)."
+     },
+     {
+      "id": "c-7118889e8d",
+      "motivo": "Línea de reforma constitucional del resumen: prohibir las amnistías y limitar los indultos, distinta de las dos anteriores."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-05dd2d04b6",
+      "motivo": "Derecho a estudiar en castellano en toda España: línea principal del resumen y de su portada («Castellano garantizado»); la ley de dos tercios no tiene medida que se entienda sola."
+     },
+     {
+      "id": "c-42ba4e4e0e",
+      "motivo": "Línea de libertad de elección con el cheque escolar de igual importe en pública, concertada y privada; también en su portada."
+     },
+     {
+      "id": "c-ba13a70367",
+      "motivo": "Línea de contenidos fijados por un consejo académico independiente y neutralidad ideológica en el aula, distinta de las anteriores."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-fa45c0dd41",
+      "motivo": "Única medida propia del tema y su primera línea: IVA de la luz y del agua al 4 % y supresión del impuesto a la producción eléctrica."
+     },
+     {
+      "id": "c-abe72767ef",
+      "motivo": "De otro tema, usada porque solo hay una propia: cubre la línea de veto al Pacto Verde y es literalmente su mensaje de campaña en el tema. Comprobado que no se elige en el lote salf.2."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-cc7f5de4c6",
+      "motivo": "Primera línea de su postura (referéndum de renegociación con la UE y, si Bruselas no acepta, otro sobre la salida); es la medida que más cambia la política exterior y se entiende sola en 53 palabras."
+     },
+     {
+      "id": "c-5d7e981e05",
+      "motivo": "Segunda línea: la relación con Marruecos, con el bloqueo comercial como respuesta; acción única y concreta, mejor que la variante de la inmigración como ataque híbrido o la reivindicación del Rif."
+     },
+     {
+      "id": "c-f62f4b37c8",
+      "motivo": "Tercera línea: cortar la ayuda al desarrollo salvo emergencias y programas con retorno (readmisión de nacionales), con cifra; añade la dimensión de cooperación que las otras dos no cubren."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-046bd36a8b",
+      "motivo": "Su línea principal (cárcel de máxima dureza para asesinos, violadores, narcos y corruptos); coincide casi literalmente con lo que repite Alvise en campaña y se entiende sola."
+     },
+     {
+      "id": "c-56a4cb9aa4",
+      "motivo": "Línea de una justicia más rápida: 2.000 jueces y 1.500 fiscales más y juicios rápidos para multirreincidentes, con cifras."
+     },
+     {
+      "id": "c-7f31e0b1c1",
+      "motivo": "Segunda línea del resumen y eje anticorrupción que destaca en campaña: castigar con prisión, desde la Constitución, la aprobación de amnistías o indultos generales y el uso político del indulto."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-c2a6cf9527",
+      "motivo": "Primera línea de su resumen: cada hijo suma 5.000 euros al mínimo exento de IRPF de cada progenitor, con cifra y ejemplo."
+     },
+     {
+      "id": "c-6288d3d882",
+      "motivo": "Segunda línea: copago farmacéutico cero para menores de 3 años, acción única y clara."
+     },
+     {
+      "id": "c-e36c29e46e",
+      "motivo": "Completa la segunda línea del resumen (prueba de paternidad gratuita al nacer); es la tercera medida propia del tema."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-5c74148169",
+      "motivo": "Su medida estrella: nadie paga IRPF por los primeros 35.000 euros; la repite Alvise en campaña casi con las mismas palabras."
+     },
+     {
+      "id": "c-e6ce371258",
+      "motivo": "Segunda línea: supresión de Sucesiones, Donaciones y Patrimonio; Sucesiones también aparece en sus declaraciones de campaña."
+     },
+     {
+      "id": "c-12e296f38e",
+      "motivo": "Eliminación total del IBI, que destaca en campaña junto a Sucesiones; las tres juntas retratan su apuesta por grandes rebajas de impuestos."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-3c27511acb",
+      "motivo": "Primera línea de su resumen: prohibir el burka y el niqab en el espacio público; acción única y clara."
+     },
+     {
+      "id": "c-30e546abf2",
+      "motivo": "Completa su línea sobre el islam: prohibir la financiación extranjera del culto y expulsar a imanes que prediquen contra la Constitución."
+     },
+     {
+      "id": "c-664ff9a967",
+      "motivo": "Tercera línea: el pago en efectivo como derecho constitucional; es la medida propia del tema que la recoge."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-2d36b1029e",
+      "motivo": "Su línea principal: revalorización con el IPC y prohibición de recortes con rango constitucional; «pensiones blindadas en la Constitución» es lo que dice Alvise en campaña."
+     },
+     {
+      "id": "c-868fb19720",
+      "motivo": "Segunda línea: el sistema mixto con cuenta individual obligatoria y heredable, con cifras; mejor que c-c70c93d93d, que no dice quién ni cuánto aporta."
+     },
+     {
+      "id": "c-3c5755d51d",
+      "motivo": "Tercera línea: cobrar la pensión completa trabajando y jubilarse sin penalización con 40 años cotizados."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-5b43b3cce4",
+      "motivo": "Única medida propia del tema y primera línea de su resumen: pagar en 30 días a las compañías el descuento del 75 % para residentes. La «Y» inicial es solo un enlace y la medida se entiende sola."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-782ef58093",
+      "motivo": "Línea de reorganizar la administración local: supresión de las diputaciones, acción única y clara."
+     },
+     {
+      "id": "c-b56f13c47c",
+      "motivo": "Misma línea de su resumen: gestión mancomunada obligatoria en municipios de menos de 5.000 habitantes."
+     },
+     {
+      "id": "c-f629992ed3",
+      "motivo": "Cuarta línea de su resumen (ventajas fiscales territoriales): deducción de 1.000 euros en el IRPF para residentes en Canarias. Es de otro tema (impuestos), no se usa allí y solo hay dos medidas propias válidas."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-c5cffdf762",
+      "motivo": "Única medida propia y centro de su postura: que España vete Mercosur, el recorte de la PAC y la Ley de Restauración; es lo que destaca en campaña."
+     }
+    ],
+    "ciencia-cultura-y-digital": []
+   }
+  },
+  "d21": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-ce7ec192d5",
+      "motivo": "Primera de sus tres medidas de emergencia y la que mejor resume su enfoque de «reconciliación»: limitar temporalmente los alquileres a cambio de que el Estado proteja a los pequeños propietarios (línea 2 del resumen); se entiende sola y tiene 63 palabras."
+     },
+     {
+      "id": "c-7333578648",
+      "motivo": "Plan Nacional de Barrios a diez años, la «solución para siempre» del programa (línea 1 del resumen); la versión del apartado principal (c-19f38e34b6) pasa de 80 palabras. El «Por eso» inicial no impide entenderla."
+     },
+     {
+      "id": "c-58d6ab03bc",
+      "motivo": "Cero impuestos en la compra de vivienda habitual a menores de 35 y rebaja para todos hasta 400.000 euros (línea 3 del resumen), con cifras; cubre la vertiente fiscal, distinta de las dos anteriores."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-284f62c0a0",
+      "motivo": "Despolitizar el salario mínimo encargándolo a un órgano técnico independiente (línea 2 del resumen); es la medida laboral más característica de su enfoque y se entiende sola."
+     },
+     {
+      "id": "c-338346a920",
+      "motivo": "Cuota de autónomos optativa, automática y a mes vencido según lo facturado (línea 4 del resumen); a diferencia de c-c89de8dc64, deja claro que se refiere a los autónomos."
+     },
+     {
+      "id": "c-24dc741385",
+      "motivo": "Cese de actividad parcial, un «ERTE» del autónomo ante caídas de ingresos (la otra medida de autónomos que recoge el resumen); concreta y distinta de la cuota. Las líneas 1 y 3 del resumen no tienen medida candidata."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-a2e8904a96",
+      "motivo": "Crear una empresa en una hora con un trámite 100% digital (línea 2 del resumen); medida con cifra y titular propio que mejor representa su apuesta por quitar trabas a la empresa. La línea 1 (sociedades al 5%) no tiene candidata."
+     },
+     {
+      "id": "c-a369643043",
+      "motivo": "Zonas industriales con la evaluación ambiental resuelta y la red reservada (línea 3 del resumen); cubre la política industrial, distinta de la simplificación de trámites."
+     },
+     {
+      "id": "c-d04788d0b3",
+      "motivo": "Evaluar la eficacia y el coste de los programas de gasto (línea 4 del resumen); cubre las cuentas públicas y se entiende sola."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-e904371c7f",
+      "motivo": "Dirección de hospitales y áreas de salud solo por concurso de mérito (línea 1 del resumen), primer apartado del programa sanitario y coherente con su idea central de despolitizar la Administración; más concreta que c-f1c5a700e6."
+     },
+     {
+      "id": "c-23ba4e9ce1",
+      "motivo": "Abrir los centros públicos por la tarde con prioridad para los pacientes de la sanidad pública (línea 2 del resumen, listas de espera). El alquiler de horas a mutuas (c-6f38733168) empieza con «Y» y sus «tramos horarios vacantes» no se entienden sin la frase anterior."
+     },
+     {
+      "id": "c-b0198db51f",
+      "motivo": "Sustituir progresivamente las guardias de 24 horas por turnos máximos de 12 (línea 3 del resumen, condiciones de los profesionales)."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-e4bc895f0a",
+      "motivo": "Visado de búsqueda de empleo de 6 meses con baremo de puntos y cupo según vacantes (líneas 1 y 2 del resumen): inmigración como activo económico con un Estado que decide quién entra; lleva cifras y plazos y concuerda con lo que dice en campaña."
+     },
+     {
+      "id": "c-f3aab91c51",
+      "motivo": "Registro único para seguir cada orden de expulsión, con prioridad para quienes cometen delitos (línea 3 del resumen); cubre la vertiente de control."
+     },
+     {
+      "id": "c-bf937fb1ff",
+      "motivo": "Itinerario de acogida gratuito con idioma, orientación laboral y Constitución (línea 4 del resumen); cubre la integración, distinta de la entrada y del control."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-bbbcf05a54",
+      "motivo": "Todos los cargos de la Administración y empresas públicas por mérito, capacidad y procedimientos abiertos (línea 1 del resumen); es la primera medida «innegociable» que su candidata cita en campaña."
+     },
+     {
+      "id": "c-750eabe91d",
+      "motivo": "Reducir un 90% los asesores, con topes por cargo; segunda medida «innegociable» citada en campaña, con cifras, y distinta de la primera aunque esté en la misma línea del resumen."
+     },
+     {
+      "id": "c-dc4d8be252",
+      "motivo": "Ningún político en los organismos independientes, con 10 años de carencia (línea 3 del resumen); cubre la independencia de los organismos de control y probablemente es la tercera «innegociable» que la cita de campaña deja cortada («quitar a […]»). La línea anticorrupción del resumen (juzgados, Fiscalía, imprescriptibilidad) no tiene candidata equivalente."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-ba9fa886f6",
+      "motivo": "Es el objetivo que encabeza su postura en educación (España en el top 10 europeo de PISA en ocho años como máximo); lleva cifra y plazo y de él cuelgan la mayoría de sus medidas escolares."
+     },
+     {
+      "id": "c-f4d57fa9ee",
+      "motivo": "Cubre su segunda línea, la formación y la carrera docente, con su medida más reconocible: el MIR Educativo de dos años de prácticas remuneradas."
+     },
+     {
+      "id": "c-7c5bbbb1e9",
+      "motivo": "Cubre su línea universitaria y de becas (pagar las becas al inicio de curso), recogida en el resumen; el cheque guardería del 50%, la otra línea que queda fuera, tiene 91 palabras y no cabe."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-77b372fcbc",
+      "motivo": "Representa su primera línea, una regulación energética previsible y con seguridad jurídica para la inversión (prohibir los cambios retroactivos), que el resumen cita expresamente; corta y votable."
+     },
+     {
+      "id": "c-0ee49eb9cd",
+      "motivo": "Cubre su línea del agua con la medida que la encabeza en el resumen: una Comisión Técnica del Agua independiente con un plan de inversiones vinculante."
+     },
+     {
+      "id": "c-c63947f808",
+      "motivo": "Cubre su línea contra los incendios con la cifra que la define: gestionar un millón de hectáreas al año."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-647eda98a7",
+      "motivo": "Es la primera línea de su resumen: reforzar el pilar europeo de la OTAN con compras conjuntas de armamento e interoperabilidad. Lo que destaca en campaña (Ceuta y Melilla) no tiene medida candidata."
+     },
+     {
+      "id": "c-bb55e46d93",
+      "motivo": "Cubre su línea de la carrera militar, la que más medidas ocupa en el tema, con la principal: acabar con la salida forzosa de soldados y marineros a los 45 años."
+     },
+     {
+      "id": "c-69e4152e19",
+      "motivo": "Cubre su línea europea del Estado de derecho: congelar fondos de la UE a los gobiernos que lo vulneren; la de Draghi y Letta tiene 71 palabras y mezcla varias acciones."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-d3573c41d6",
+      "motivo": "La lucha contra la corrupción y la regeneración de la justicia es, con diferencia, el bloque con más medidas del tema; la inhabilitación de por vida de los políticos condenados figura en el resumen y su apartado la destaca."
+     },
+     {
+      "id": "c-081d3456c1",
+      "motivo": "Cubre su línea de una justicia más rápida: nueva ley procesal para acortar las instrucciones y actuar contra la multirreincidencia."
+     },
+     {
+      "id": "c-3f5a8942cc",
+      "motivo": "Cubre su línea policial con la medida que la abre en el resumen: dimensionar las plantillas según la carga real de trabajo."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-c9ca20a36e",
+      "motivo": "Es el compromiso que encabeza su postura: una ley que obligue a reducir la pobreza infantil a la mitad en la legislatura, con cifra y plazo."
+     },
+     {
+      "id": "c-053f993fd3",
+      "motivo": "Cubre su segunda línea, reunir todas las ayudas en un Escudo Social Único; el Bono Crianza de esa misma línea tiene 108 palabras y no cabe."
+     },
+     {
+      "id": "c-8e2ee81f8b",
+      "motivo": "Cubre su línea de reconocer otros modelos de familia: el título de familia monoparental desde el primer hijo, reconocido de oficio. El «Por eso,» inicial no impide entenderla sola; el permiso parental retribuido no tiene medida candidata."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-84d575954b",
+      "motivo": "Medida fiscal concreta y de gran alcance (punto 2 del resumen): actualizar por ley cada año los tramos del IRPF con el IPC; se entiende sola y tiene 68 palabras."
+     },
+     {
+      "id": "c-8e0ce5d16e",
+      "motivo": "Cubre la línea empresarial (punto 3): impuesto de sociedades del 5% sobre los beneficios que las pymes reinviertan, con cifra y apartado propio."
+     },
+     {
+      "id": "c-9452f5a88f",
+      "motivo": "Cubre el eje de su filosofía fiscal (punto 1): concentrar la inspección donde está el fraude real y rendir cuentas cada año de lo recuperado."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-7012a87ae1",
+      "motivo": "Puntos 1 y 2 del resumen: oponerse a cualquier intento de derogar o limitar la ley de plazos del aborto; es su compromiso más claro en el tema."
+     },
+     {
+      "id": "c-48c6cefd96",
+      "motivo": "Línea distinta (punto 3): elevar a ley la inscripción de los hijos de parejas de mujeres como hijos de ambas sin exigir matrimonio."
+     },
+     {
+      "id": "c-5693c3c255",
+      "motivo": "Cubre el punto 4: reconocer por vía ágil la filiación de todo niño sea cual sea su nacimiento. Es de familias-y-cuidados, pero solo hay dos medidas propias y no está elegida en ese tema (lote d21.2)."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-4bd19e0a21",
+      "motivo": "Punto 2 del resumen: reforzar por ley la AIReF, publicar sus proyecciones con un simulador y debatirlas en las Cortes. La asamblea ciudadana (punto 1, c-71e7e1ef27) sería la más representativa pero tiene 87 palabras."
+     },
+     {
+      "id": "c-9503d1f20a",
+      "motivo": "Cubre el punto 3: simplificar la compatibilidad entre pensión y trabajo para quien quiera seguir activo; es la única medida propia válida de esa línea."
+     },
+     {
+      "id": "c-33b149c651",
+      "motivo": "Cubre el punto 4 (jubilación anticipada sin recorte por profesión de riesgo). Es de politica-exterior-y-defensa, pero allí no está elegida (solo en «casi») y aquí faltan medidas propias válidas."
+     }
+    ],
+    "transporte": [
+     {
+      "id": "c-571a598ea0",
+      "motivo": "Representa su lema «conservar antes que inaugurar» (punto 2) con programas plurianuales de conservación y financiación estable; enlaza con lo que destaca en campaña (caída de la inversión en mantenimiento)."
+     },
+     {
+      "id": "c-ac7fb5a2f1",
+      "motivo": "Cubre el punto 1: Estrategia Estatal de Infraestructuras a 25 años y programas de inversión a 6 años."
+     },
+     {
+      "id": "c-bb7fc17ee9",
+      "motivo": "Cubre el punto 3 (seguridad ferroviaria): revisión independiente de la señalización de toda la alta velocidad en los primeros seis meses."
+     }
+    ],
+    "organizacion-territorial": [
+     {
+      "id": "c-02c0417698",
+      "motivo": "Su línea principal en el tema (punto 2): que cualquier licencia, título o requisito aprobado en una comunidad valga automáticamente en toda España."
+     },
+     {
+      "id": "c-3820f2dce0",
+      "motivo": "Cubre el punto 3: la comunidad autónoma asume la competencia urbanística del ayuntamiento que bloquee proyectos o incumpla sus objetivos de vivienda. Es de vivienda, pero allí no está elegida (lote d21.1) y aquí solo hay dos propias válidas."
+     },
+     {
+      "id": "c-3e6878e6ce",
+      "motivo": "Completa el punto 2 con la prohibición por ley de repetir trámites o pagar tasas duplicadas entre regiones. La de Ceuta y Melilla (c-819d4ba6a8) queda fuera porque remite a «este marco de insularidad adaptada» y no se entiende sola."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-3b69c1619d",
+      "motivo": "Única medida propia y punto 1 del resumen: exigir en el marco financiero europeo 2028-2034 una estrategia contra la despoblación con incentivos fiscales, conectividad y fondos para el relevo generacional."
+     },
+     {
+      "id": "c-a9eebbcbec",
+      "motivo": "Cubre el punto 3 en su parte agrícola: incentivos fiscales al riego inteligente para explotaciones. Es de medio-ambiente-y-energia, pero allí no está elegida y aquí solo hay una propia."
+     },
+     {
+      "id": "c-d68bf47a4f",
+      "motivo": "Cubre la pesca, parte del tema y del punto 2 del resumen (política pesquera): incentivos a las cofradías por retirar y entregar en puerto la basura de las redes. Es de medio-ambiente-y-energia, pero allí no está elegida."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-ebc4d70716",
+      "motivo": "Punto 1 del resumen, con cifra y plazo: ley que fije una inversión pública en ciencia de al menos el 1,25% del PIB en 2030."
+     },
+     {
+      "id": "c-93b283be8b",
+      "motivo": "Cubre el punto 3 y la parte de cultura de creadores: que quien entrene modelos de IA informe de las obras usadas, obtenga licencia y pague a sus titulares."
+     },
+     {
+      "id": "c-845ece1843",
+      "motivo": "Cubre el punto 4 (deporte): reconocer como cotizados los años de carrera de los deportistas de alto nivel desde 1980."
+     }
+    ]
+   }
+  },
+  "frente-obrero": {
+   "temas": {
+    "vivienda": [
+     {
+      "id": "c-73489104e9",
+      "motivo": "Es la medida central del apartado de vivienda del programa (paralizar desahucios hasta tener alternativa habitacional, línea 3 del resumen) y expresa su enfoque de protección a las familias trabajadoras frente a bancos y rentistas. Las de la línea 1 (vivienda pública) solo existen como medidas juveniles, más estrechas."
+     },
+     {
+      "id": "c-9dea7ef014",
+      "motivo": "Cubre la línea de vivienda pública y emancipación juvenil (línea 1 del resumen) con una acción concreta."
+     },
+     {
+      "id": "c-d893c61ffd",
+      "motivo": "Cubre la línea de orientar la vivienda pública hacia los españoles autóctonos (línea 4 del resumen), que figura en su propio apartado de vivienda. La referencia «como se ha visto en el programa» no impide entender la medida, que está en la primera frase."
+     }
+    ],
+    "empleo": [
+     {
+      "id": "c-f06f7dad67",
+      "motivo": "Derogar las reformas laborales que abaratan el despido es la primera línea del resumen y resume su enfoque de «los trabajadores primero»."
+     },
+     {
+      "id": "c-b860847f05",
+      "motivo": "Prohibir las ETT representa la línea de acabar con la precariedad contractual (línea 2), y es más nítida que la restricción genérica de temporales."
+     },
+     {
+      "id": "c-a97ce9c006",
+      "motivo": "Cubre la línea de autónomos (línea 3): eximir de cuota a quien no llega al SMI."
+     }
+    ],
+    "economia": [
+     {
+      "id": "c-3810f215b1",
+      "motivo": "Nacionalizar los sectores estratégicos es la medida que mejor resume su postura de fuerte intervención del Estado y reindustrialización (líneas 1 y 2 del resumen)."
+     },
+     {
+      "id": "c-a8b34f45c7",
+      "motivo": "Cubre la línea de suprimir subvenciones que considera ideológicas (línea 4 del resumen)."
+     },
+     {
+      "id": "c-f086a781d9",
+      "motivo": "Única otra medida propia del tema: limitar la publicidad de apuestas, alcohol y pornografía; votable y comprensible por sí sola. Las de otro tema que encajarían mejor (expropiación de tierras, fraude fiscal) se usan en sus temas principales."
+     }
+    ],
+    "sanidad": [
+     {
+      "id": "c-beb167dcb8",
+      "motivo": "Acabar con la externalización y privatización es el núcleo de su defensa de una sanidad totalmente pública (línea 1 del resumen)."
+     },
+     {
+      "id": "c-c31417c50f",
+      "motivo": "Cubre la ampliación de prestaciones gratuitas (bucodental, fisioterapia, oftalmología), línea 3 del resumen."
+     },
+     {
+      "id": "c-0597851bd7",
+      "motivo": "Cubre una idea distinta de la privatización: una sanidad centralizada y homogénea, rasgo propio de su postura frente a la gestión autonómica (línea 1)."
+     }
+    ],
+    "inmigracion": [
+     {
+      "id": "c-d7b991cb0e",
+      "motivo": "Expulsión inmediata de irregulares y delincuentes reiterados: recoge en una sola medida concreta la línea 2 del resumen, que es el centro operativo de su postura de reducir la inmigración."
+     },
+     {
+      "id": "c-d6c1e4d162",
+      "motivo": "Cubre la línea de nacionalidad (línea 3): suspender concesiones hasta revisar las de los últimos veinte años."
+     },
+     {
+      "id": "c-6a0ddfcb02",
+      "motivo": "Cubre la línea de restringir el asilo (línea 4 del resumen)."
+     }
+    ],
+    "democracia-e-instituciones": [
+     {
+      "id": "c-89cfdf2997",
+      "motivo": "El proceso constituyente para acabar con el «régimen actual» es la primera línea del resumen y la única medida propia del tema."
+     },
+     {
+      "id": "c-d572c5af30",
+      "motivo": "Cubre la línea anticorrupción (línea 2): prohibir el indulto por corrupción. De otro tema, usada porque solo hay una propia y no se usa en seguridad-y-justicia."
+     },
+     {
+      "id": "c-b7b72d4dfc",
+      "motivo": "Cubre la línea de suprimir estructuras que considera ideológicas (línea 4): el Ministerio de Igualdad. De otro tema, no usada en igualdad-y-derechos."
+     }
+    ],
+    "educacion": [
+     {
+      "id": "c-78e6a31b7e",
+      "motivo": "Educación gratuita en todos los niveles es la primera línea del resumen y la medida que encabeza su apartado de educación."
+     },
+     {
+      "id": "c-9f75f7d14d",
+      "motivo": "Cubre la línea de reforzar la pública retirando dinero a la privada (línea 2)."
+     },
+     {
+      "id": "c-3efffe69e2",
+      "motivo": "Cubre la línea 4 del resumen: sacar el islam de los centros públicos."
+     }
+    ],
+    "medio-ambiente-y-energia": [
+     {
+      "id": "c-bfe1373b62",
+      "motivo": "Regulación inmediata de la factura de la luz y los combustibles: la medida que el programa pone primero y con plazo («inmediata»), línea 3 del resumen y eje de su «soberanía energética»."
+     },
+     {
+      "id": "c-de3c28a730",
+      "motivo": "Cubre la apuesta nuclear y por el uranio nacional (línea 2), base de su modelo de independencia energética."
+     },
+     {
+      "id": "c-3a3d7da1ca",
+      "motivo": "Cubre la línea 4 (no derribar más presas), distinta de la energía."
+     }
+    ],
+    "politica-exterior-y-defensa": [
+     {
+      "id": "c-76f8211c13",
+      "motivo": "Salir de la UE para recuperar la soberanía nacional encabeza su apartado «Soberanía nacional» y la línea 1 del resumen."
+     },
+     {
+      "id": "c-2d0ec88b5a",
+      "motivo": "Salida inmediata de la OTAN: decisión distinta de la UE y también central en la línea 1."
+     },
+     {
+      "id": "c-b9b985c155",
+      "motivo": "Cubre la línea 2: expulsar bases extranjeras y recuperar Gibraltar."
+     }
+    ],
+    "seguridad-y-justicia": [
+     {
+      "id": "c-8b1e3c7e21",
+      "motivo": "Suprimir que el Gobierno elija miembros de órganos judiciales concreta la primera línea del resumen (independencia judicial) en una acción votable."
+     },
+     {
+      "id": "c-855aa4a2d7",
+      "motivo": "Cubre la línea anticorrupción (línea 2): penas mayores, también para los partidos."
+     },
+     {
+      "id": "c-cd2f1a5c94",
+      "motivo": "Cubre la línea policial (línea 3): integrar las policías autonómicas en la Policía Nacional."
+     }
+    ],
+    "familias-y-cuidados": [
+     {
+      "id": "c-1bce72e9a2",
+      "motivo": "Ventajas fiscales y ayudas a las familias con más hijos: la medida que mejor expresa su objetivo natalista (líneas 1 y 2 del resumen) y se entiende sola."
+     },
+     {
+      "id": "c-7bc99be4b8",
+      "motivo": "Cubre los servicios públicos para conciliar: guarderías públicas y gratuitas (línea 2)."
+     },
+     {
+      "id": "c-4ad3809bfe",
+      "motivo": "Cubre la línea de conciliación laboral (línea 3): bajas más largas y flexibilidad obligatoria en las empresas, ambas con el mismo fin de conciliar."
+     }
+    ],
+    "impuestos": [
+     {
+      "id": "c-bccc34ca2f",
+      "motivo": "Bajar el IRPF a quien menos gana y subirlo a las rentas altas resume su fiscalidad que prioriza a los trabajadores (líneas 1 y 2 del resumen) y abre su apartado fiscal."
+     },
+     {
+      "id": "c-130c36ac20",
+      "motivo": "Cubre la línea del IVA superreducido para productos de primera necesidad (línea 3)."
+     },
+     {
+      "id": "c-7320c13b5f",
+      "motivo": "Cubre la línea contra el fraude fiscal, con multas y expropiación (línea 4)."
+     }
+    ],
+    "igualdad-y-derechos": [
+     {
+      "id": "c-36bcdc75a2",
+      "motivo": "Derogar las leyes de discriminación positiva y suprimir los cupos es la medida que mejor resume su postura de «igualdad real» frente al feminismo (líneas 1 y 2 del resumen)."
+     },
+     {
+      "id": "c-12485b7545",
+      "motivo": "Cubre la línea 3 (islam y espacio público): prohibir el hijab en lugares y puestos públicos."
+     },
+     {
+      "id": "c-70b6221971",
+      "motivo": "Derogar la Ley Trans figura expresamente en la línea 2 del resumen, junto a la discriminación positiva."
+     }
+    ],
+    "pensiones": [
+     {
+      "id": "c-9ec2f56b83",
+      "motivo": "Revertir el aumento de la edad de jubilación es la primera línea del resumen."
+     },
+     {
+      "id": "c-944a1d6c2d",
+      "motivo": "Cubre la línea de cuantía: calcular la pensión con los mejores años cotizados (línea 2)."
+     }
+    ],
+    "transporte": [],
+    "organizacion-territorial": [
+     {
+      "id": "c-bf9d284289",
+      "motivo": "Centralizar sanidad, educación y emergencias concreta la primera línea del resumen (reforzar el Gobierno central recuperando competencias)."
+     },
+     {
+      "id": "c-012ea8a56b",
+      "motivo": "Cubre la línea 2: mismas competencias y mismo régimen fiscal para todas las comunidades."
+     },
+     {
+      "id": "c-eaddb85303",
+      "motivo": "Cubre la línea de lenguas (línea 4): derecho a estudiar en castellano o en las cooficiales. De otro tema, usada porque solo hay dos propias y no se usa en educación."
+     }
+    ],
+    "campo-y-medio-rural": [
+     {
+      "id": "c-080429edf2",
+      "motivo": "Romper con la PAC y los tratados que merman la producción es la primera línea del resumen y abre su apartado «En defensa del campo español»."
+     },
+     {
+      "id": "c-33611723ad",
+      "motivo": "Cubre la línea 2: expropiar tierras sin uso de grandes terratenientes y repartirlas entre agricultores y cooperativas."
+     },
+     {
+      "id": "c-2f6f8e6852",
+      "motivo": "Cubre la línea 3: prohibir parques solares en tierras de cultivo."
+     }
+    ],
+    "ciencia-cultura-y-digital": [
+     {
+      "id": "c-d4ac14d456",
+      "motivo": "Limitar el acceso de menores de dieciséis años a determinadas tecnologías concreta la primera línea del resumen (frenar la digitalización)."
+     },
+     {
+      "id": "c-e7270ae727",
+      "motivo": "Cubre la línea de cultura accesible (línea 3): museos, patrimonio, bibliotecas y filmotecas gratis."
+     },
+     {
+      "id": "c-5ff6906e96",
+      "motivo": "Completa la línea 3 con la rebaja de impuestos sobre libros y material artístico; las demás líneas del resumen no tienen medida candidata."
+     }
+    ]
+   }
+  }
+ }
+}

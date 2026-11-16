@@ -1,0 +1,96 @@
+{
+  "partido": "compromis-front-valencia",
+  "lote": "compromis-front-valencia.2",
+  "temas": [
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-f8ae42af7e", "motivo": "Derogar la ley mordaza encabeza su postura en seguridad y la candidata lo reclama expresamente en campaña; es la medida que mejor resume su enfoque de libertades frente a la actuación policial.", "texto": null, "cambio": null },
+        { "id": "c-13b036e743", "motivo": "Representa la línea de emergencias tras la DANA (reforzar Protección Civil y la UME con fondo estable), muy presente en su campaña sobre prevención y protección.", "texto": null, "cambio": null },
+        { "id": "c-f9193c2394", "motivo": "Cubre la línea de reforma de la justicia (ratificación del Fiscal General por el Congreso); es la medida de ese bloque más clara y votable sin mezclar acciones.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-2223897ad0", "motivo": "La prestación universal de 200 euros por hijo es la primera línea de su postura, lleva cifra y la candidata la repite en campaña.", "texto": null, "cambio": null },
+        { "id": "c-8f8f9601a3", "motivo": "Representa la línea de dependencia: que el Estado financie el 50 % del sistema, medida concreta con cifra.", "texto": null, "cambio": null },
+        { "id": "c-ba3d2273c4", "motivo": "Cubre la línea de equiparar las ayudas de familias monoparentales y numerosas, recogida en su postura.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-28d77ce92e", "motivo": "Mantener y ampliar el impuesto a las grandes fortunas es la primera línea de su postura fiscal y resume su apuesta por más progresividad sobre los patrimonios altos.", "texto": null, "cambio": null },
+        { "id": "c-49c518ec6b", "motivo": "Representa la segunda línea: quitar ventajas a las rentas financieras frente a las del trabajo.", "texto": null, "cambio": null },
+        { "id": "c-2b167a6817", "motivo": "Cubre la línea de suprimir privilegios fiscales a la aviación, con cifra y destino, y la defiende en campaña su número 2 por Valencia.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-e513e0a473", "motivo": "Representa la primera línea de su postura (derechos de las mujeres) con una medida concreta y votable: reforzar la prohibición de la gestación subrogada; no hay medida sobre aborto y las de violencia machista mezclan acciones (c-e7f9015d5e) o no se entienden solas (c-28b7704342 no dice de qué víctimas habla).", "texto": null, "cambio": null },
+        { "id": "c-f152f6f494", "motivo": "Cubre la línea de derechos LGTBI, que la candidata cita en campaña, con una medida concreta: tipificar como delito las terapias de conversión.", "texto": null, "cambio": null },
+        { "id": "c-82e48a2a05", "motivo": "Representa la línea de laicismo, la que más medidas tiene en el programa, con la acción más concreta: acabar con la financiación pública de la Iglesia católica.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-baa1a1fdce", "motivo": "Garantizar en la Constitución la revalorización de las pensiones es lo que más repite la candidata en campaña («blindar las pensiones») y está en su postura.", "texto": null, "cambio": null },
+        { "id": "c-55aa4571a3", "motivo": "Representa la primera línea del resumen: volver a jubilarse a los 65 años.", "texto": null, "cambio": null },
+        { "id": "c-4ab14bc354", "motivo": "Cubre la línea de financiación: eliminar el tope de la base máxima de cotización.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-f75de9535a", "motivo": "El plan de Cercanías de 1.500 millones con 58 trenes nuevos lleva cifra, está en su postura y la candidata lo repite en campaña.", "texto": null, "cambio": null },
+        { "id": "c-4145580ad7", "motivo": "Representa su apuesta por el tren frente al avión: limitar vuelos nacionales con alternativa ferroviaria de menos de 2 horas y media.", "texto": null, "cambio": null },
+        { "id": "c-3d240c03b6", "motivo": "Cubre la línea de reestructurar Adif con más personal propio e inversión en mantenimiento, que conecta con su crítica en campaña a la liberalización ferroviaria.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-3d2e58f9ff", "motivo": "Reformar la financiación autonómica para acabar con la infrafinanciación valenciana es la primera línea de su postura y el centro de su discurso en campaña.", "texto": null, "cambio": null },
+        { "id": "c-4c9bd157e7", "motivo": "Representa la segunda línea: concierto económico o que la Generalitat recaude la mayoría de los tributos, en línea con lo que dice la candidata sobre más ingresos para las comunidades.", "texto": null, "cambio": null },
+        { "id": "c-25a6b5d698", "motivo": "Cubre la línea de traspaso de competencias (Cercanías, puertos, aeropuertos, costas, IMV), y la candidata destaca en campaña la de Cercanías; 61 palabras, dentro del límite, y es una sola acción (traspasar competencias) con su lista.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-e3c0e953c7", "motivo": "Reforzar la ley de la cadena alimentaria para que los precios cubran los costes es la primera línea de su postura y lo repiten la candidata y la cabeza de lista por Alicante en campaña.", "texto": null, "cambio": null },
+        { "id": "c-250d72df03", "motivo": "Representa la línea de una PAC adaptada a la agricultura mediterránea que priorice a los profesionales, que la candidata menciona en campaña; tiene algún tecnicismo, pero el sentido se entiende y todo gira en torno a una sola reivindicación sobre la PAC.", "texto": null, "cambio": null },
+        { "id": "c-98db40a62f", "motivo": "Cubre la línea del estatuto de agricultores y ganaderos profesionales, eje del apartado agrario del programa.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-fdbf459283", "motivo": "Superar el 3 % del PIB en investigación es la primera línea de su postura y lleva cifra.", "texto": null, "cambio": null },
+        { "id": "c-33f4432c43", "motivo": "Representa la segunda línea: una carrera investigadora estable que acabe con los contratos precarios encadenados.", "texto": null, "cambio": null },
+        { "id": "c-4a5236e380", "motivo": "Cubre la línea de cultura con el despliegue del Estatuto del Artista, que conecta con lo dicho en campaña sobre artistas con recursos y oportunidades.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

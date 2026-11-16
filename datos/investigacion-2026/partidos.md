@@ -4,30 +4,30 @@ Generado con `node scripts/investigacion/resumen-partidos.mjs` a partir de `part
 
 - **55 candidaturas** agrupan los 555 nombres de lista del BOE: 49 tienen alguna lista proclamada y 6 no tienen ninguna.
 - **Listas:** 534 proclamadas y 21 no proclamadas, en 52 circunscripciones.
-- **Estado de los programas** comprobado el 2026-11-12.
+- **Estado de los programas** comprobado el 2026-11-16.
 
 ## Con antecedente en 2023, por votos de entonces
 
 | N.º | Candidatura | Listas proclamadas (de 52) | Votos de 2023 | Relación con 2023 | Programa | Verificación |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Partido Popular (PP) | 51 | 8.160.837 \* | misma candidatura Partido Popular (PP) | [Publicado](https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf) | Confirmada |
-| 2 | Partido Socialista Obrero Español (PSOE) | 52 | 7.821.718 | misma candidatura Partido Socialista Obrero Español (PSOE); misma candidatura Partit dels Socialistes de Catalunya (PSC-PSOE) (PSC) | No publicado | Con dudas |
+| 2 | Partido Socialista Obrero Español (PSOE) | 52 | 7.821.718 | misma candidatura Partido Socialista Obrero Español (PSOE); misma candidatura Partit dels Socialistes de Catalunya (PSC-PSOE) (PSC) | [Publicado](https://www.democrata.es/uploads/s1/35/40/05/6/programapsoe29n26.pdf) | Con dudas |
 | 3 | Vox | 52 | 3.057.000 | misma candidatura VOX (VOX) | [Publicado](https://www.democrata.es/uploads/s1/35/26/90/2/programa-elecct-vox.pdf) | Con dudas |
-| 4 | Frente Amplio | 43 | 2.444.921 \* | iba dentro de Sumar (SUMAR) (43 circ.) | No publicado | Con correcciones |
+| 4 | Frente Amplio | 43 | 2.444.921 \* | iba dentro de Sumar (SUMAR) (43 circ.) | [Publicado](https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf) | Con correcciones |
 | 5 | Podemos | 41 | 1.952.251 \* | iba dentro de Sumar (SUMAR) (41 circ.) | [Solo programa general](https://podemos.info/wp-content/uploads/2025/04/Documento-Politico-V-ACE.pdf) | Confirmada |
 | 6 | Esquerra Republicana de Catalunya (ERC) | 4 | 466.020 | misma candidatura Esquerra Republicana de Catalunya (ERC) | [Publicado](https://esquerrarepublicana.cat/documents/e2026-programa.pdf) | Confirmada |
-| 7 | Compromís: Front Valencià | 3 | 402.813 | iba dentro de Sumar (SUMAR) (3 circ.) | No publicado | Con dudas |
+| 7 | Compromís: Front Valencià | 3 | 402.813 | iba dentro de Sumar (SUMAR) (3 circ.) | [Publicado](https://frontvalencia.org/programa-compromis-front-valencia.pdf) | Con dudas |
 | 8 | Junts per Catalunya (Junts) | 4 | 395.429 | misma candidatura Junts (JUNTS) | No publicado | Confirmada |
-| 9 | EH Bildu | 4 | 335.129 | misma candidatura Euskal Herria Bildu (EH Bildu) | No publicado | Con correcciones |
+| 9 | EH Bildu | 4 | 335.129 | misma candidatura Euskal Herria Bildu (EH Bildu) | [Publicado](https://ehbildu.eus/media/dokumentuak/posibleegin-programa-cas.pdf) | Con correcciones |
 | 10 | EAJ-PNV (Partido Nacionalista Vasco) | 3 | 277.289 | misma candidatura Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco (EAJ-PNV) | [Publicado](https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n) | Confirmada |
-| 11 | PACMA - Partido Animalista con el Medio Ambiente | 30 | 169.237 | misma candidatura Partido Animalista con el Medio Ambiente (PACMA) | No publicado | Confirmada |
+| 11 | PACMA - Partido Animalista con el Medio Ambiente | 30 | 169.237 | misma candidatura Partido Animalista con el Medio Ambiente (PACMA) | [Publicado](https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf) | Confirmada |
 | 12 | Bloque Nacionalista Galego (BNG) | 4 | 153.995 | misma candidatura Bloque Nacionalista Galego (BNG) | [Publicado](https://www.bng.gal/media/bnggaliza/files/2026/11/03/26_bng_xerais_documentos_programa_electoral.pdf) | Confirmada |
 | 13 | Unidad del Pueblo Canario (UPC) | 2 | 153.596 \* | incluye a Nueva Canarias-Bloque Canarista (NC-bc); iba dentro de Sumar (SUMAR) (2 circ.) | No publicado | Confirmada |
 | 14 | Coalición Canaria-Primero Canarias | 2 | 116.363 | incluye a Coalición Canaria (CCa) | [Publicado](https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf) | Con correcciones |
 | 15 | UPN-PP (Unión del Pueblo Navarro en coalición con el Partido Popular) | 1 | 109.322 \* | incluye a Unión del Pueblo Navarro (UPN); incluye a Partido Popular (PP) (1 circ.) | No publicado | Con correcciones |
 | 16 | Drago Canarias | 2 | 108.001 \* | iba dentro de Sumar (SUMAR) (2 circ.) | No publicado | Confirmada |
 | 17 | Ara Més-Front Ampli | 1 | 83.487 | iba dentro de Sumar (SUMAR) (1 circ.) | No publicado | Con correcciones |
-| 18 | Frente Obrero (FO) | 52 | 46.274 | misma candidatura Frente Obrero (FO) | [Solo programa general](https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf) | Con correcciones |
+| 18 | Frente Obrero (FO) | 52 | 46.274 | misma candidatura Frente Obrero (FO) | [Publicado](https://frenteobrero.es/documentos/programa-frente-obrero.pdf) | Con correcciones |
 | 19 | Por un Mundo Más Justo (M+J) | 26 | 23.290 | misma candidatura Por un Mundo más Justo (PUM+J) | [Publicado](https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf) | Con correcciones |
 | 20 | Teruel Existe | 1 | 20.440 | iba dentro de Coalición Existe (EXISTE) | No publicado | Con dudas |
 | 21 | Partido Comunista de los Trabajadores de España (PCTE) | 46 | 18.218 | misma candidatura Partido Comunista de los Trabajadores de España (PCTE) | No publicado | Confirmada |
@@ -60,7 +60,7 @@ Generado con `node scripts/investigacion/resumen-partidos.mjs` a partir de `part
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Se Acabó La Fiesta (SALF) | 46 | — | Sin lista en 2023 | [Publicado](https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf) | Confirmada |
 | 2 | Alhora | 4 | — | Sin lista en 2023 | [Documento parcial](https://foraespanya.cat) | Confirmada |
-| 3 | Democracia para el Siglo 21 (D21) | 2 | — | Sin lista en 2023 | [Documento parcial](https://democracia21.es/#soluciones) | Con correcciones |
+| 3 | Democracia para el Siglo 21 (D21) | 2 | — | Sin lista en 2023 | [Publicado](https://mi.democracia21.es/programa) | Con correcciones |
 | 4 | Liberación Canaria | 2 | — | Sin lista en 2023 | No publicado | Confirmada |
 | 5 | Nuevo Extremeñismo - Adelante Extremadura (NEX) | 2 | — | Sin lista en 2023 | Sin comprobar | Confirmada |
 | 6 | Agenda Valenciana | 1 | — | Sin lista en 2023 | Sin comprobar | Con dudas |
@@ -114,5 +114,4 @@ No estarán en ninguna papeleta salvo que un tribunal reponga la lista y el BOE 
 - **Coalición Canaria-Primero Canarias:** La medida 11 (p. 9) está cortada en el propio PDF («…desplazamientos interinsulares por»); comprobado con la imagen de la página. La cita se conserva tal cual.
 - **Drago Canarias:** Presentó el 9-11-2026 recursos de amparo electoral contra la denominación de Unidad del Pueblo Canario. Revisar el 12 o 13 de noviembre.
 - **Teruel Existe:** Sin cerrar si la lista la presenta la coalición Existe (Teruel Existe y Aragón Existe, registrada el 16-10-2026 según la prensa) o solo el partido, que es lo que dice el nombre de la papeleta. De ello dependen el tipo, los miembros y el enlace con 2023.
-- **PACMA - Partido Animalista con el Medio Ambiente:** Decidir (11-11-2026): la segunda ronda de declaraciones encontró 16 citas verificadas para empleo, educación, organización territorial, transporte e igualdad, pero 13 salen de su programa para las autonómicas andaluzas del 17-5-2026 y una es una propuesta local para Almería. Están sin incorporar en _trabajo/declaraciones-ronda2/pacma.*.json hasta decidir si valen para unas generales. De pensiones no se encontró nada.
 - **Partido Nacionalista de Castilla y León - Unión Reformista Ciudadana (PANCAL-URCI):** El único documento de su página del 29N es un escrito administrativo a la Junta Electoral Central que contiene datos personales: no copiarlo ni citarlo.

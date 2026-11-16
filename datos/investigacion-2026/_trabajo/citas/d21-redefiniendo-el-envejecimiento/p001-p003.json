@@ -1,0 +1,295 @@
+{
+  "fuente": "d21-redefiniendo-el-envejecimiento",
+  "partido": "d21",
+  "paginas": [
+    1,
+    3
+  ],
+  "citas": [
+    {
+      "cita": "En las próximas tres décadas, casi uno de cada tres españoles tendrá más de 65 años, y eso nos invita a preparar con tiempo, serenidad y visión de Estado los pilares de nuestro bienestar. El primero, las pensiones públicas: un pacto entre generaciones que queremos proteger y que merece un debate a su altura, con datos rigurosos, con la ciudadanía en el centro y lejos del ruido.",
+      "pagina": 2,
+      "apartado": [
+        "Redefiniendo el envejecimiento"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Pensiones públicas como pacto entre generaciones que proteger",
+      "etiquetas": [
+        "pensiones",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Junto a ello, queremos que la longevidad sea una etapa plena: desterrar la soledad no deseada con nuevos modelos de convivencia como el cohousing, abrir opciones reales de trabajo flexible para quienes deseen seguir activos, cuidar sin esperas a quienes lo necesitan y transformar nuestro modelo sociosanitario hacia una vida larga, saludable y autónoma.",
+      "pagina": 2,
+      "apartado": [
+        "Redefiniendo el envejecimiento"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Longevidad plena: convivencia, trabajo flexible y cuidados",
+      "etiquetas": [
+        "mayores",
+        "soledad no deseada",
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "las pensiones públicas son demasiado importantes para decidirlas a golpe de titular. Hay que evitar que una polarización generacional obstaculice un debate racional y serio sobre el futuro de las pensiones.",
+      "pagina": 2,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Asegurar las pensiones actuales y futuras",
+        "Asamblea Ciudadana por el Futuro de las Pensiones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Debate sobre pensiones sin polarización generacional",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En los primeros cien días de legislatura convocaremos una asamblea de 150 personas elegidas por sorteo cívico que reflejen la diversidad de España —jóvenes que empiezan, trabajadores, autónomos y pensionistas de todos los territorios—, acompañadas por un consejo plural de expertos independientes. Deliberarán durante un año con los mejores datos disponibles, en sesiones abiertas, y con una plataforma digital donde cualquier ciudadano podrá enviar propuestas y simular su impacto. El Gobierno responderá públicamente a cada recomendación y las llevará al Pacto de Toledo y a las Cortes.",
+      "pagina": 2,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Asegurar las pensiones actuales y futuras",
+        "Asamblea Ciudadana por el Futuro de las Pensiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Asamblea ciudadana por sorteo sobre pensiones y respuesta del Gobierno",
+      "etiquetas": [
+        "pensiones",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Una reforma construida sobre tres principios compartidos —tranquilidad para quienes ya cobran su pensión, sostenibilidad para quienes la cobrarán mañana y justicia entre generaciones— será la reforma de todos.",
+      "pagina": 2,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Asegurar las pensiones actuales y futuras",
+        "Asamblea Ciudadana por el Futuro de las Pensiones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Principios de la reforma de pensiones: tranquilidad, sostenibilidad y justicia generacional",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos por ley la independencia y los medios de la AIReF, publicaremos sus proyecciones sobre pensiones como datos abiertos y comprensibles, con un simulador público, y sus evaluaciones tendrán debate obligatorio en las Cortes.",
+      "pagina": 2,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Asegurar las pensiones actuales y futuras",
+        "Datos Claros y Debates Serenos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Refuerzo legal de la AIReF y datos abiertos sobre pensiones",
+      "etiquetas": [
+        "pensiones",
+        "instituciones",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos la productividad, el trabajo cualificado, la permanencia voluntaria del talento sénior y la reducción de la economía sumergida para ampliar la base de cotizantes y repartir el esfuerzo de forma más justa.",
+      "pagina": 3,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Asegurar las pensiones actuales y futuras",
+        "El Mejor Aliado de las Pensiones, Más y Mejor Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más empleo y menos economía sumergida para ampliar cotizantes",
+      "etiquetas": [
+        "pensiones",
+        "empleo",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "desplazaremos el foco del modelo sociosanitario desde la enfermedad avanzada hacia la prevención de la fragilidad y la autonomía personal.",
+      "pagina": 3,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Un nuevo enfoque vital para la generación sénior del siglo 21",
+        "Plan Estatal de Longevidad Saludable"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Modelo sociosanitario orientado a prevenir la fragilidad",
+      "etiquetas": [
+        "mayores",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "De la mano de las Comunidades Autónomas, extenderemos a toda la atención primaria el cribado sistemático de la fragilidad y la prescripción de ejercicio físico adaptado, conectada con los recursos deportivos de cada municipio, junto a consejo nutricional y programas de estimulación cognitiva digital.",
+      "pagina": 3,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Un nuevo enfoque vital para la generación sénior del siglo 21",
+        "Plan Estatal de Longevidad Saludable"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cribado de fragilidad y ejercicio prescrito en atención primaria",
+      "etiquetas": [
+        "sanidad",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "uno de cada cinco españoles convive con la soledad no deseada. Pasaremos de los planes a los resultados, con financiación estable y objetivos medibles: centros de salud, farmacias, servicios sociales, teleasistencia y tejido vecinal conectados para detectarla a tiempo y activar acompañamiento.",
+      "pagina": 3,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Un nuevo enfoque vital para la generación sénior del siglo 21",
+        "Comunidades contra la Soledad y Mentoría Intergeneracional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Red de servicios para detectar y acompañar la soledad no deseada",
+      "etiquetas": [
+        "soledad no deseada",
+        "servicios sociales",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos programas donde mayores y jóvenes aprendan juntos: alfabetización digital, mentoría profesional y convivencia intergeneracional.",
+      "pagina": 3,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Un nuevo enfoque vital para la generación sénior del siglo 21",
+        "Comunidades contra la Soledad y Mentoría Intergeneracional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas intergeneracionales entre mayores y jóvenes",
+      "etiquetas": [
+        "mayores",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "facilitaremos acceso a suelo público, financiación preferente y seguridad jurídica a cooperativas y proyectos de cohousing sénior en cesión de uso, con servicios de salud compartidos, accesibilidad plena y espacios comunitarios.",
+      "pagina": 3,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Un nuevo enfoque vital para la generación sénior del siglo 21",
+        "Cohousing Sénior y Alquiler Seguro"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suelo público y financiación para cohousing sénior",
+      "etiquetas": [
+        "vivienda",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para quienes den el paso, crearemos un programa de Alquiler Seguro Sénior: el Estado garantizará el cobro de la renta y el buen estado de la vivienda que dejen libre si la destinan a alquiler asequible, asegurándoles un ingreso estable.",
+      "pagina": 3,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Un nuevo enfoque vital para la generación sénior del siglo 21",
+        "Cohousing Sénior y Alquiler Seguro"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Programa Alquiler Seguro Sénior con renta garantizada por el Estado",
+      "etiquetas": [
+        "vivienda",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "impulsaremos un mercado de servicios pensado para la generación sénior —deporte adaptado, salud preventiva, turismo, cultura y ocio— con itinerarios de FP para quienes quieran emprender en el sector.",
+      "pagina": 3,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Un nuevo enfoque vital para la generación sénior del siglo 21",
+        "Economía Plateada y Talento Sénior"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mercado de servicios para mayores con itinerarios de FP",
+      "etiquetas": [
+        "mayores",
+        "economía",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y para quienes deseen seguir activos, simplificaremos y daremos a conocer las vías para compatibilizar pensión y trabajo, combatiremos la discriminación por edad en el empleo y crearemos una red de mentores sénior al servicio de emprendedores y PYMES.",
+      "pagina": 3,
+      "apartado": [
+        "Redefiniendo el envejecimiento",
+        "Un nuevo enfoque vital para la generación sénior del siglo 21",
+        "Economía Plateada y Talento Sénior"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Compatibilizar pensión y trabajo, discriminación por edad y mentores sénior",
+      "etiquetas": [
+        "pensiones",
+        "empleo",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

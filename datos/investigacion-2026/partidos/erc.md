@@ -5,7 +5,7 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 - **Tipo:** partido
 - **Cabeza de cartel:** Gabriel Rufián (Barcelona). Otros cabezas de lista: Teresa Jordà (Girona), Inés Granollers (Lleida) y Norma Pujol (Tarragona).
 - **Programa para el 29 de noviembre:** publicado (comprobado el 10 de noviembre de 2026)
-- **Citas recogidas:** 527 vigentes: 453 medidas, de ellas 280 concretas, y 74 posiciones. De programa, verificadas contra su página: 522 exactas y 5 normalizadas.
+- **Citas recogidas:** 532 vigentes: 454 medidas, de ellas 280 concretas, y 78 posiciones. De programa, verificadas contra su página: 522 exactas y 5 normalizadas. Declaraciones verificadas abriendo su fuente: 5.
 
 ## Lo que dicen sus documentos
 
@@ -1149,4 +1149,31 @@ Programa de estas elecciones · 10 de noviembre de 2026 · 48 páginas · en cat
   - Traducción propia: «Reformar la regulación de las prácticas académicas universitarias. Actualizar el Real Decreto 592/2014 para adaptar la regulación de las prácticas académicas externas a la realidad actual, reforzar los derechos del estudiantado, garantizar unas condiciones dignas y evitar que las prácticas se conviertan en una vía de sustitución de puestos de trabajo remunerados.»
 - **258.** «Enduriment dels requisits per a la creació, el reconeixement i l’autorització d’universitats, així com per a l’acreditació institucional. Revisar els requisits bàsics de creació i reconeixement d’universitats per garantir, com a mínim, que els projectes disposin d’un model acadèmic viable, recursos suficients, professorat adequat i infraestructures d’acord amb l’oferta formativa prevista.» (p. 46) · medida concreta · _Requisitos más estrictos para crear universidades_
   - Traducción propia: «Endurecimiento de los requisitos para la creación, el reconocimiento y la autorización de universidades, así como para la acreditación institucional. Revisar los requisitos básicos de creación y reconocimiento de universidades para garantizar, como mínimo, que los proyectos dispongan de un modelo académico viable, recursos suficientes, profesorado adecuado e infraestructuras de acuerdo con la oferta formativa prevista.»
+
+## Lo que han dicho sus portavoces
+
+Declaraciones, no programa.
+
+### Vivienda
+
+- «Cal prohibir l’especulació o fregir a impostos qui es vulgui fer ric amb l’habitatge» · Gabriel Rufián, cabeza de lista de ERC al Congreso por Barcelona y portavoz de ERC en el Congreso, (ERC) · 12 de noviembre de 2026 · [declaración en medios: Tarragona Ràdio](https://www.tarragonaradio.cat/rufian-reivindica-a-tarragona-erc-com-lunic-cami-per-a-catalunya/) · medida · _Prohibir la especulación o gravar fuertemente la vivienda especulativa_
+  - Traducción propia: «Hay que prohibir la especulación o freír a impuestos a quien se quiera hacer rico con la vivienda»
+
+### Democracia e instituciones
+
+- «Me gustaría que una izquierda española pudiera ganar, pero soy realista e intento tratar a la gente como los adultos que son y quiero un gobierno del PSOE sometido a las izquierdas soberanistas» · Gabriel Rufián, cabeza de lista de ERC al Congreso por Barcelona y portavoz de ERC en el Congreso, (ERC) · 13 de noviembre de 2026 · [declaración en medios: elDiario.es](https://www.eldiario.es/catalunya/rufian-montero-defienden-palma-izquierda-no-someta-psoe-frente_1_13663237.html) · posición · _Prefiere un Gobierno del PSOE condicionado por partidos soberanistas_
+
+### Seguridad y justicia
+
+- «En este país hay un problema con la multirreincidencia, no con la delincuencia» · Gabriel Rufián, cabeza de lista de ERC al Congreso por Barcelona y portavoz de ERC en el Congreso, (ERC) · 12 de noviembre de 2026 · [declaración en medios: ElNacional.cat](https://www.elnacional.cat/es/politica/rufian-pone-rumbo-29n-avisando-efectos-mayoria-pp-vox-acusando-junts-colaboracionismo_1724819_102.html) · posición · _Sitúa el problema de seguridad en la multirreincidencia_
+
+### Impuestos
+
+- «Hacen falta impuestos a las grandes fortunas y no al trabajo» · Gabriel Rufián, cabeza de lista de ERC al Congreso por Barcelona y portavoz de ERC en el Congreso, (ERC) · 13 de noviembre de 2026 · [declaración en medios: ElNacional.cat](https://www.elnacional.cat/es/politica/rufian-aboga-por-gobierno-psoe-sometido-izquierdas-soberanistas-despues-29n_1725497_102.html) · posición · _Trasladar la carga fiscal del trabajo a las grandes fortunas_
+
+### Transporte e infraestructuras
+
+- «por mucho que le pongas a un tren una estación de Rodalies y un maquinista indepe, no llegará antes. Hay que poner pasta donde toca porque queremos competir con China mientras se olvidan de la clase trabajadora» · Gabriel Rufián, cabeza de lista de ERC al Congreso por Barcelona y portavoz de ERC en el Congreso, (ERC) · 12 de noviembre de 2026 · [declaración en medios: elDiario.es](https://www.eldiario.es/catalunya/rufian-ironiza-posible-gobierno-pp-vox-viene-figo-ministro-deportes-e-iker-jimenez-telediario_1_13659975.html) · posición · _Pide más inversión en Rodalies en lugar de cambios simbólicos en el servicio_
+
+Sin declaraciones recogidas sobre: Empleo y salarios, Economía y empresas, Sanidad, Inmigración, Educación, Medio ambiente y energía, Política exterior y defensa, Familias y servicios sociales, Igualdad y derechos, Pensiones, Campo y medio rural, Ciencia, cultura y digital.
 

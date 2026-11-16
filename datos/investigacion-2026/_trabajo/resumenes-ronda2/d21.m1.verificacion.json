@@ -1,0 +1,114 @@
+{
+  "revisiones": [
+    {
+      "tema": "vivienda",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: «garantice al propietario el cobro ante impagos» generaliza; la garantía de cobro del programa (c-7c3dc600c4) se limita a inquilinos declarados vulnerables sin alternativa habitacional. Se reescribe con la formulación general del programa (proteger a los pequeños propietarios frente a impagos) y se añade c-82b9c70af3 (juzgados especializados).",
+        "Duda del redactor: se confirma dejar fuera la declaración sobre «despolitizar el Ministerio de la Vivienda» (c-98b6126bbf); el programa trata el tema con detalle y la declaración es genérica.",
+        "Se mantiene la omisión de «inquiokupación»; ningún término cargado adoptado."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Plantea un plan de choque inmediato y un «Plan Nacional de Barrios» a diez años para construir barrios completos de vivienda asequible con colaboración público-privada.",
+          "apoyos": ["c-d8c45f4bfc", "c-19f38e34b6", "c-7333578648", "c-6f3e86746d", "c-080ad8ee4e", "c-ff479ca45c"]
+        },
+        {
+          "texto": "Propone limitar temporalmente los alquileres en zonas tensionadas a cambio de que el Estado proteja a los pequeños propietarios frente a impagos.",
+          "apoyos": ["c-ce7ec192d5", "c-e0858dde10", "c-7c3dc600c4", "c-82b9c70af3"]
+        },
+        {
+          "texto": "Quiere suprimir IVA, ITP y AJD en la compra de vivienda habitual a menores de 35 años, hasta 400.000 euros, y rebajarlos al resto.",
+          "apoyos": ["c-58d6ab03bc", "c-fcf52293f2", "c-a7112f8cb5"]
+        },
+        {
+          "texto": "También propone destinar 10.000 millones de fondos europeos no ejecutados a un fondo público de vivienda protegida.",
+          "apoyos": ["c-e3c6d1b9b3", "c-3a196a6b76", "c-1e7d3e8925"]
+        }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3 mal construida («Plantea que los pluses … tributen … y deducciones en Sociedades…»): mezcla una subordinada con un sustantivo suelto. Se reescribe con la misma información (IRPF del 5% para pluses por productividad hasta 5.000 euros; deducción en Sociedades por subidas por encima del IPC).",
+        "Duda del redactor: se acepta priorizar salarios, SMI y autónomos; son el documento central del tema («Más salario, más productividad») y las medidas sectoriales (sanidad, FP, fuerzas de seguridad) pesan menos para una visión general."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende elevar la productividad y reducir las cargas fiscales al trabajo para que suban los salarios.",
+          "apoyos": ["c-36b1576d57"]
+        },
+        {
+          "texto": "Propone que un órgano técnico independiente fije el salario mínimo, con el objetivo de que no baje de dos tercios de la mediana salarial.",
+          "apoyos": ["c-284f62c0a0", "c-1c49ba0785"]
+        },
+        {
+          "texto": "Plantea un IRPF del 5% para pluses por productividad hasta 5.000 euros anuales y una deducción en Sociedades a empresas que suban sueldos por encima del IPC.",
+          "apoyos": ["c-913c6688f0", "c-d837756e7b"]
+        },
+        {
+          "texto": "Para autónomos, propone una cuota opcional según lo facturado el mes anterior y un cese parcial de actividad ante caídas de ingresos.",
+          "apoyos": ["c-338346a920", "c-c89de8dc64", "c-caf9dc5966", "c-24dc741385"]
+        }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: «eleve recomendaciones al Pacto de Toledo» no es exacto; según c-71e7e1ef27 es el Gobierno quien responde a cada recomendación y las lleva al Pacto de Toledo y a las Cortes. Se corrige.",
+        "Frase 3: «ampliar la base de cotizantes con más empleo» simplifica la cita (productividad, trabajo cualificado, talento sénior, reducción de la economía sumergida); «policías» puede leerse como cualquier policía, cuando la cita habla de Policía Nacional, Guardia Civil y Vigilancia Aduanera.",
+        "Duda del redactor resuelta: se retira la frase de la declaración de la candidata (c-d260eb6392). Es un diagnóstico, no una propuesta, y ocupaba una de las cuatro frases mientras quedaba fuera una medida del programa (simplificar la compatibilidad entre pensión y trabajo, c-9503d1f20a). El programa tiene prioridad y cubre el tema con suficiente detalle."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone convocar en sus primeros cien días una asamblea de 150 personas elegidas por sorteo, cuyas recomendaciones llevaría al Pacto de Toledo y a las Cortes.",
+          "apoyos": ["c-71e7e1ef27", "c-af9f01a1c0"]
+        },
+        {
+          "texto": "Defiende una reforma basada en tranquilidad para quienes ya cobran, sostenibilidad y justicia entre generaciones, con más medios para la AIReF y un simulador público.",
+          "apoyos": ["c-cf3a7e91b4", "c-af4de59076", "c-4bd19e0a21"]
+        },
+        {
+          "texto": "Plantea ampliar la base de cotizantes impulsando la productividad y reduciendo la economía sumergida, y simplificar la compatibilidad entre pensión y trabajo.",
+          "apoyos": ["c-e7d9d017eb", "c-9503d1f20a"]
+        },
+        {
+          "texto": "También propone jubilación anticipada sin recorte para Policía Nacional, Guardia Civil, Vigilancia Aduanera y militares.",
+          "apoyos": ["c-d124d9c83f", "c-33b149c651", "c-cf489c61be"]
+        }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: el documento propio del tema («Impuestos justificados y que se entiendan») dedica un bloque principal a la simplificación (Hacienda prepara la declaración de rentas sencillas, derecho al error, recibo del contribuyente) y el resumen no lo recogía. Se añade que Hacienda prepare la declaración de las rentas sencillas (c-bb760d3a28).",
+        "Duda del redactor: se mantiene la rebaja de impuestos en la compra de vivienda como ejemplo de las rebajas sectoriales, fusionada en la última frase; para respetar el límite de palabras se acortan las frases 1 y 2 sin cambiar su contenido."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende que no hace falta subir ni bajar impuestos, sino un sistema progresivo y sencillo centrado en perseguir el fraude.",
+          "apoyos": ["c-6a6496d98e", "c-9452f5a88f"]
+        },
+        {
+          "texto": "Propone actualizar cada año el IRPF con el IPC y gravar como trabajo las ganancias de activos mantenidos menos de un año.",
+          "apoyos": ["c-84d575954b", "c-e1ad2e485c"]
+        },
+        {
+          "texto": "Plantea un impuesto de sociedades del 5% sobre los beneficios que las pymes reinviertan y eliminar deducciones y exenciones que no cumplan su objetivo.",
+          "apoyos": ["c-8e0ce5d16e", "c-0eb47159be"]
+        },
+        {
+          "texto": "También propone que Hacienda prepare la declaración de rentas sencillas y eliminar los impuestos de compra de vivienda habitual a menores de 35 años.",
+          "apoyos": ["c-bb760d3a28", "c-58d6ab03bc", "c-fcf52293f2"]
+        }
+      ]
+    }
+  ]
+}

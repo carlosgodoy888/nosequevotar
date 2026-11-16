@@ -217,7 +217,7 @@
   if (tarjeta) {
     var estado = document.getElementById('estado');
     var decisiones = Array.prototype.slice.call(tarjeta.querySelectorAll('[data-demo]'));
-    var ROTULOS_DEMO = { si: 'En el sobre', no: 'Apartada', paso: 'Sin decidir' };
+    var ROTULOS_DEMO = { si: 'A favor', no: 'En contra', paso: 'Abstención' };
 
     // Tres botones con el mismo peso: se marca uno (casilla con aspa) y se puede desmarcar.
     decisiones.forEach(function (boton) {

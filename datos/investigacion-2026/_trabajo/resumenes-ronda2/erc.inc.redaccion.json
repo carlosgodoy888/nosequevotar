@@ -1,0 +1,16 @@
+{
+  "resumenes": [
+    {
+      "tema": "democracia-e-instituciones",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Apoya fiscalizar la actividad del rey y de la Casa Real, eliminar sus privilegios e impulsar iniciativas para poner fin a la monarquía.", "apoyos": ["c-a83dc15e2a", "c-ad05f47b62"] },
+        { "texto": "Pide que cualquier ciudadano pueda dirigirse a todas las instituciones del Estado en cualquier lengua oficial, con plena validez jurídica.", "apoyos": ["c-b65338cc78", "c-76281980b4", "c-e6f9d51cae"] },
+        { "texto": "Al trasponer la ley electoral europea, propone el voto desde los 16 años y que umbrales y circunscripciones no se usen para bloquear a minorías nacionales.", "apoyos": ["c-a9317aaf86", "c-3e02ffcdc2"] },
+        { "texto": "En campaña, su cabeza de lista ha dicho que quiere un gobierno del PSOE «sometido a las izquierdas soberanistas».", "apoyos": ["c-bdf5095ad4"] }
+      ],
+      "nota": "La cita nueva fija una condición sobre pactos de gobierno. Sustituyo la frase menos importante, la de autonomía local y régimen local, por una frase atribuida a la campaña, porque el resumen ya tenía 4 frases. Total: 88 palabras."
+    }
+  ],
+  "sin_cambios": ["vivienda", "impuestos", "seguridad-y-justicia", "organizacion-territorial", "transporte"]
+}

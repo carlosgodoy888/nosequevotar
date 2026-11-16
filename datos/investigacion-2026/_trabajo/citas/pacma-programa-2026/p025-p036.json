@@ -1,0 +1,886 @@
+{
+  "fuente": "pacma-programa-2026",
+  "partido": "pacma",
+  "paginas": [
+    25,
+    36
+  ],
+  "citas": [
+    {
+      "cita": "Desde PACMA nos comprometemos a promover cuanto antes la eliminación de las jaulas en España.",
+      "pagina": 25,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.1. No más jaulas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminación de las jaulas en la ganadería",
+      "etiquetas": [
+        "bienestar animal",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, el Partido Animalista instará a prohibir la práctica de amputaciones a los animales que no tengan ninguna finalidad curativa.",
+      "pagina": 25,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.2. Prohibición de las amputaciones no curativas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de amputaciones no curativas a animales de granja",
+      "etiquetas": [
+        "bienestar animal",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dieciocho países europeos han prohibido ya la alimentación forzosa. España, como siempre, a la cola en bienestar y protección animal, es uno de los cinco que aún lo permite. Desde PACMA impulsaremos la prohibición de la alimentación forzosa de los animales, así como la comercialización de los productos derivados de esta cruel técnica.",
+      "pagina": 25,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.3. Fin a la alimentación forzosa y comercialización de foie gras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de la alimentación forzosa y venta de foie gras",
+      "etiquetas": [
+        "bienestar animal",
+        "alimentación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde el Partido Animalista consideramos inaceptable que se supedite el bienestar de los animales al beneficio económico que supondría reducir el sufrimiento que provocan las técnicas de aturdimiento y sacrificio.",
+      "pagina": 26,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.4. Eliminación de métodos de aturdimiento ineficaces y obsoletos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Bienestar animal por encima del coste en el sacrificio",
+      "etiquetas": [
+        "bienestar animal",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, trabajaremos por la prohibición de, al menos, los métodos de aturdimiento que no garanticen la ausencia de sufrimiento para los animales.",
+      "pagina": 26,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.4. Eliminación de métodos de aturdimiento ineficaces y obsoletos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de métodos de aturdimiento que causen sufrimiento",
+      "etiquetas": [
+        "bienestar animal",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por respeto a los animales como seres sensibles, el sacrificio de animales sin aturdimiento previo debería considerarse inaceptable.",
+      "pagina": 26,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.5. Prohibición de los sacrificios halal y kosher"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo al sacrificio sin aturdimiento previo",
+      "etiquetas": [
+        "bienestar animal",
+        "religión"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El bienestar y la protección de los animales deberían estar siempre por encima de cualquier consideración de carácter religioso, cultural, artístico o económico.",
+      "pagina": 26,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.5. Prohibición de los sacrificios halal y kosher"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Prioridad del bienestar animal sobre motivos religiosos o culturales",
+      "etiquetas": [
+        "bienestar animal",
+        "religión"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde el Partido Animalista propondremos la prohibición de los sacrificios rituales de animales por motivos religiosos.",
+      "pagina": 26,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.5. Prohibición de los sacrificios halal y kosher"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de los sacrificios rituales halal y kosher",
+      "etiquetas": [
+        "bienestar animal",
+        "religión"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Algunos países europeos, como Alemania, Austria, Luxemburgo, Francia e Italia han prohibido ya el sacrificio por trituración, sustituyéndolo por prácticas alternativas, como las diseñadas para determinar el sexo de los polluelos pocos días después de que el huevo haya sido fertilizado, y antes de que esté formado el sistema nervioso, lo que permite que los huevos fecundados masculinos sean descartados y dejen de ser incubados. Es hora de que España también lo haga.",
+      "pagina": 27,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.6. Proscripción de la trituración como método de sacrificio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de la trituración de pollitos macho",
+      "etiquetas": [
+        "bienestar animal",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por todo ello, propondremos una modificación de la legislación sobre etiquetado en España, que establezca que el etiquetado de los productos de origen animal deba indicar si proviene de animales clonados, el sistema de cría y el método de sacrificio.",
+      "pagina": 27,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.7. Etiquetado en los alimentos de origen animal sobre el sistema de cría y el método de sacrificio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Etiquetado obligatorio de cría, sacrificio y clonación en alimentos animales",
+      "etiquetas": [
+        "consumo",
+        "alimentación",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si bien desde el Partido Animalista desearíamos que los animales no tuvieran que sufrir experiencias como el transporte con destino a su explotación, reproducción, engorde y sacrificio, apoyaremos toda reforma que mejore las lamentables condiciones de vida que padecen los animales en la industria ganadera y, por supuesto, trataremos de mejorarlas.",
+      "pagina": 28,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.8. Límites al transporte de animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a reformas que mejoren el transporte de animales",
+      "etiquetas": [
+        "bienestar animal",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Consideramos fundamental eliminar los viajes largos y, sobre todo, prohibir las exportaciones de animales vivos a otros países.",
+      "pagina": 28,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.8. Límites al transporte de animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminación de los viajes largos de animales vivos",
+      "etiquetas": [
+        "bienestar animal",
+        "transporte",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Partido Animalista trabajará por la prohibición de las exportaciones de animales vivos para su reproducción, engorde y/o sacrificio.",
+      "pagina": 29,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.8. Límites al transporte de animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de exportar animales vivos",
+      "etiquetas": [
+        "bienestar animal",
+        "comercio exterior",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Partido Animalista trabajará por la prohibición de las exportaciones de animales vivos para su reproducción, engorde y/o sacrificio. Al mismo tiempo, impulsaremos la eliminación de las ayudas que, en la actualidad, reciben los ganaderos por estas exportaciones.",
+      "pagina": 29,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.4. Cese a las prácticas más crueles de la industria ganadera",
+        "1.4.8. Límites al transporte de animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de ayudas a ganaderos por exportar animales vivos",
+      "etiquetas": [
+        "subvenciones",
+        "agricultura y pesca",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA nos oponemos firmemente a la experimentación en animales y fuimos una de las entidades impulsoras de la Iniciativa Ciudadana Europea que reclamaba su fin.",
+      "pagina": 29,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.5. Fin a la experimentación en animales"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Oposición a la experimentación con animales",
+      "etiquetas": [
+        "bienestar animal",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La prohibición en la Unión Europea de la comercialización de productos cosméticos y de higiene personal testados en animales, así como de los productos que contuvieran ingredientes que habían sido testados en animales, supuso un gran avance, pero desde el Partido Animalista consideramos necesario ir más allá, proponiendo la prohibición de utilizar ingredientes de origen animal en la elaboración de los productos cosméticos y de higiene personal.",
+      "pagina": 29,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.5. Fin a la experimentación en animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de ingredientes animales en cosméticos e higiene",
+      "etiquetas": [
+        "bienestar animal",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "De la misma manera, es inapelable avanzar hacia la prohibición de la experimentación científica con animales.",
+      "pagina": 29,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.5. Fin a la experimentación en animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Avanzar hacia la prohibición de la experimentación animal",
+      "etiquetas": [
+        "bienestar animal",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Elaboración de una Estrategia nacional para el fin de la experimentación en animales y el desarrollo, promoción, difusión y uso de métodos sustitutivos.",
+      "pagina": 29,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.5. Fin a la experimentación en animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia nacional para acabar con la experimentación animal",
+      "etiquetas": [
+        "bienestar animal",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumento de la financiación de proyectos de investigación dirigidos a encontrar métodos sustitutivos de la experimentación con animales.",
+      "pagina": 29,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.5. Fin a la experimentación en animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más financiación para métodos sustitutivos de experimentación animal",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promooción y fomento del uso de los métodos sustitutivos éticos, como los modelos y herramientas bioinformáticas, el uso de big data, la bioingeniería, la tecnología de fluidos, los tejidos humanos, los cultivos celulares, los modelos tridimensionales y la IA.",
+      "pagina": 30,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.5. Fin a la experimentación en animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomento de métodos sustitutivos a la experimentación animal",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exigencia de la divulgación de los resultados de los experimentos realizados con animales, para evitar su duplicidad o repetición.",
+      "pagina": 30,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.5. Fin a la experimentación en animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligación de divulgar resultados de experimentos con animales",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Agilización de los procesos de evaluación, validación y autorización de proyectos de nuevos métodos sustitutivos.",
+      "pagina": 30,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.5. Fin a la experimentación en animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Agilizar la autorización de métodos sustitutivos",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "bienestar animal",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyo a la labor de la Red Española para el Desarrollo de Métodos Alternativos a la Experimentación Animal.",
+      "pagina": 30,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.5. Fin a la experimentación en animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a la red española de métodos alternativos",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Financiación por parte de la industria química y farmacéutica de la investigación de métodos sustitutivos, destinando parte de sus beneficios, tal y como hicieron en su momento las principales empresas y grupos comerciales de cosméticos.",
+      "pagina": 30,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.5. Fin a la experimentación en animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Financiación de métodos sustitutivos por la industria farmacéutica",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "bienestar animal",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA hacemos nuestras las reivindicaciones de Proyecto Gran Simio y haremos todo lo posible por que se apruebe, por fin, una Ley de Grandes Simios, que les otorgue la dignidad y la protección que merecen; que preserve su especie; que proscriba su maltrato, su cautividad, su tráfico y comercialización.",
+      "pagina": 30,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.6. Ley de Grandes Simios"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aprobación de una Ley de Grandes Simios",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estamos hablando de la salud, de la vida de los animales que forman parte de nuestras familias. Es inadmisible que se siga considerando un tratamiento o una operación quirúrgica, del que depende su salud, su calidad de vida o su propia vida, como un lujo.",
+      "pagina": 31,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.7. Reconocimiento de las clínicas veterinarias como centros sanitarios. Reducción del IVA y deducciones fiscales"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a tratar la atención veterinaria como un lujo",
+      "etiquetas": [
+        "bienestar animal",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA reclamamos el reconocimiento de las clínicas veterinarias como centros sanitarios, dado que están directamente relacionados, no solo con la salud y bienestar de los animales, sino también con la salud pública, debido a su importancia en la prevención y vigilancia de las zoonosis y la seguridad sanitaria desde el enfoque de Una sola salud (One Health).",
+      "pagina": 31,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.7. Reconocimiento de las clínicas veterinarias como centros sanitarios. Reducción del IVA y deducciones fiscales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Clínicas veterinarias reconocidas como centros sanitarios",
+      "etiquetas": [
+        "bienestar animal",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA reclamamos el reconocimiento de las clínicas veterinarias como centros sanitarios, dado que están directamente relacionados, no solo con la salud y bienestar de los animales, sino también con la salud pública, debido a su importancia en la prevención y vigilancia de las zoonosis y la seguridad sanitaria desde el enfoque de Una sola salud (One Health). Este reconocimiento permitiría una necesaria reducción del IVA de los servicios veterinarios, no al tipo reducido del 10%, sino al tipo superreducido del 4% e, incluso, a su exención.",
+      "pagina": 31,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.7. Reconocimiento de las clínicas veterinarias como centros sanitarios. Reducción del IVA y deducciones fiscales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "IVA veterinario al 4 % o exento",
+      "etiquetas": [
+        "impuestos",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Consideramos fundamental aliviar la carga financiera de las familias interespecie, para lo que planteamos la introducción de deducciones en el Impuesto sobre la Renta de las Personas Físicas (IRPF) estableciendo un límite de renta y permitiendo deducciones en la cuota a pagar, con la colaboración de los centros veterinarios, de manera que las familias interespecie se puedan deducir hasta un 10% de los gastos veterinarios, con un ahorro máximo de hasta 500€ anuales.",
+      "pagina": 31,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.7. Reconocimiento de las clínicas veterinarias como centros sanitarios. Reducción del IVA y deducciones fiscales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Deducción en el IRPF por gastos veterinarios",
+      "etiquetas": [
+        "impuestos",
+        "bienestar animal",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA queremos impulsar una modificación del Real Decreto que tanto malestar está provocando a veterinarios y propietarios de animales de compañía. Nos referimos al Real Decreto 666/2023, por el que se regula la distribución, prescripción, dispensación y uso de medicamentos veterinarios y que se aprobó, en teoría, para adaptar la normativa nacional al Reglamento Europeo sobre medicamentos veterinarios, pero que, como ya denunciamos en su momento, no es coherente con lo que establece el mismo.",
+      "pagina": 31,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.8. Modificación del RD 666/2023: no aplicación a los animales de compañía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Modificación del decreto de medicamentos veterinarios",
+      "etiquetas": [
+        "bienestar animal",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA insistimos en que la normativa europea, por un lado, es clara al establecer que no es necesario esperar a los resultados de dichas pruebas para administrar el antibiótico que el veterinario considere más oportuno y, por otro, que estas pruebas no son necesarias cuando el antibiótico está contenido en un medicamento autorizado en la UE, y así debería reflejarlo el RD 666/2023.",
+      "pagina": 32,
+      "apartado": [
+        "1. Nuestro compromiso con los Animales",
+        "1.8. Modificación del RD 666/2023: no aplicación a los animales de compañía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Antibióticos veterinarios sin esperar pruebas previas",
+      "etiquetas": [
+        "bienestar animal",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "PACMA tiene un firme compromiso con el medio ambiente y la protección de la naturaleza.",
+      "pagina": 33,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Compromiso general con el medio ambiente",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es urgente acelerar la transición hacia una economía libre de emisiones. Es necesario fijar objetivos más ambiciosos de clima y energía, apostando por un modelo energético más eficiente y renovable, de energías limpias, manteniendo como prioridad la protección del medio ambiente y la lucha contra el calentamiento global.",
+      "pagina": 34,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivos climáticos más ambiciosos y economía sin emisiones",
+      "etiquetas": [
+        "medio ambiente",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario hacer del cambio climático un eje político transversal de todas las políticas que se desarrollen.",
+      "pagina": 34,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Cambio climático como eje transversal de las políticas",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El modelo energético basado en el uso masivo de los combustibles fósiles y la energía nuclear es insostenible, provoca daños irreversibles al medioambiente y conlleva riesgos y catástrofes evitables.",
+      "pagina": 34,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.1. Modelo energético sostenible y minoración en el consumo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo al modelo basado en fósiles y nuclear",
+      "etiquetas": [
+        "energía",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Partido Animalista Con el Medio Ambiente apuesta por avanzar hacia un modelo más eficiente y autosuficiente, con una política energética que fomente las renovables, pero manteniendo la seguridad en el abastecimiento y permitiendo la entrega de energía al consumidor a precios asequibles.",
+      "pagina": 34,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.1. Modelo energético sostenible y minoración en el consumo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo energético renovable, autosuficiente y asequible",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostamos por integrar las renovables en el urbanismo, en la edificación y en el transporte, por una cultura de la energía en el espacio urbano, en el que todas las tecnologías renovables se complementen, con edificios de consumo de energía casi nulo, sistemas alternativos de calefacción y refrigeración, un cambio modal del transporte de mercancías hacia el ferrocarril eléctrico y la expansión de los vehículos eléctricos.",
+      "pagina": 34,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.1. Modelo energético sostenible y minoración en el consumo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Renovables en edificación, urbanismo y transporte",
+      "etiquetas": [
+        "energía",
+        "urbanismo",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es fundamental una coordinación entre las diferentes energías, invertir en digitalización y herramientas de monitorización en tiempo real, además de desarrollar medidas de predicción, capaces de anticipar escenarios de riesgo y simular respuestas del sistema para evitar futuros incidentes.",
+      "pagina": 34,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.1. Modelo energético sostenible y minoración en el consumo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Coordinación y monitorización del sistema eléctrico tras el apagón",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La contaminación del aire debería abordarse como un problema sanitario de primer orden.",
+      "pagina": 35,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.2. Reducción de la contaminación del aire"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Contaminación del aire como problema sanitario",
+      "etiquetas": [
+        "medio ambiente",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es urgente un nuevo Plan Nacional de Mejora de Calidad del Aire que no se limite a un catálogo de medidas genéricas, sino que, por un lado, incremente el esfuerzo por mejorar la medición y la información de la calidad del aire en nuestro país y, por otro, aborde las fuentes más nocivas de contaminación del aire y de cambio climático, incluyendo la combustión de combustibles fósiles, la ganadería y la agricultura intensivas, el transporte y la calefacción residencial.",
+      "pagina": 35,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.2. Reducción de la contaminación del aire"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevo Plan Nacional de Mejora de Calidad del Aire",
+      "etiquetas": [
+        "medio ambiente",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las principales vías de actuación para reducir la contaminación del aire por ozono pasan por disminuir el tráfico motorizado, sustituir los disolventes orgánicos por agua en los procesos industriales, el ahorro energético, la ordenación del actual despliegue de las energías renovables y el freno a las autorizaciones para nuevas macrogranjas o la ampliación de las existentes.",
+      "pagina": 35,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.2. Reducción de la contaminación del aire"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reducción del ozono y freno a nuevas macrogranjas",
+      "etiquetas": [
+        "medio ambiente",
+        "agricultura y pesca",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Gobierno debe involucrarse impulsando políticas específicas para cada sector, adaptadas a las circunstancias y singularidades de cada entorno, que aborden las distintas fuentes de contaminación.",
+      "pagina": 35,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.2. Reducción de la contaminación del aire"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Políticas sectoriales del Gobierno contra la contaminación",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "PACMA apuesta por una movilidad basada en energías limpias, producidas a nivel regional y local.",
+      "pagina": 35,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.3. Movilidad sostenible"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Movilidad con energías limpias de producción local",
+      "etiquetas": [
+        "transporte",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "PACMA apuesta por medidas que reduzcan la demanda del transporte urbano, facilitando y fomentando el desplazamiento peatonal, el uso de transporte público y el de medios no motorizados, como la bicicleta, como medio de locomoción sostenible y saludable.",
+      "pagina": 36,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.3. Movilidad sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomento del transporte público, a pie y en bicicleta",
+      "etiquetas": [
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para reducir significativamente el tráfico rodado, descongestionar carreteras y transportes públicos, apostamos por el fomento del teletrabajo, con medidas que faciliten, incentiven y promuevan esta modalidad laboral, ya sea de manera continuada o con jornadas mixtas, tanto en la empresa pública como en la privada, autónomos/as y pymes, mediante un sistema de incentivos fiscales, ayudas directas para la contratación y/o el equipamiento de los puestos remotos, así como de un servicio de intermediación, entre empresas y personas trabajadoras.",
+      "pagina": 36,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.3. Movilidad sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivos fiscales y ayudas al teletrabajo",
+      "etiquetas": [
+        "empleo",
+        "transporte",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Otra de nuestras propuestas es el impulso para la creación de centros de trabajo intermedios, en forma de coworking públicos, que se proyecten en zonas que necesiten ser revitalizadas y reactivadas económicamente, para reducir los trayectos y, a su vez, la densidad en las zonas congestionadas.",
+      "pagina": 36,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.3. Movilidad sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Creación de espacios públicos de coworking",
+      "etiquetas": [
+        "empleo",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Con la finalidad de reducir el transporte de mercancías, es necesario promover la relocalización, fomentando el consumo de productos de cercanía, tanto de alimentos como de ropa, calzado y otros enseres necesarios para la vida diaria y apostar por el ferrocarril electrificado, que es uno de los principales aliados para reducir las emisiones de gases de efecto invernadero, con una concepción de servicio público y social, con un mayor uso de cercanías y medias distancias, que permitan la comunicación entre las diferentes comarcas, que atienda las necesidades de los residentes y que sea intermodal.",
+      "pagina": 36,
+      "apartado": [
+        "2. Nuestro compromiso con el Medio Ambiente",
+        "2.1. Freno al cambio climático",
+        "2.1.3. Movilidad sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Consumo de cercanía y ferrocarril electrificado de proximidad",
+      "etiquetas": [
+        "transporte",
+        "consumo",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

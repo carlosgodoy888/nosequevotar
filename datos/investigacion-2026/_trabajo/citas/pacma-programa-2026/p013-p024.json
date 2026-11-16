@@ -1,0 +1,1440 @@
+{
+  "fuente": "pacma-programa-2026",
+  "partido": "pacma",
+  "paginas": [
+    13,
+    24
+  ],
+  "citas": [
+    {
+      "cita": "PACMA trabajará por que España no sea el gran coto de caza en el que, gobierno tras gobierno, han convertido este país, cuya legislación permite que más del 85% del territorio sea terreno cinegético.",
+      "pagina": 13,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Oposición a la caza"
+      ],
+      "numero": "1.1.8",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a la extensión del terreno cinegético en España",
+      "etiquetas": [
+        "caza",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguiremos luchando cada día hasta abolir esta práctica cruel e innecesaria, e impulsaremos medidas como la prohibición definitiva de la utilización de balines de plomo, la ampliación de la extensión de los perímetros de seguridad alrededor de los terrenos cinegéticos, la creación de un registro nacional sobre accidentes relacionados con la actividad cinegética y la obligatoriedad de realizar controles de alcoholemia y estupefacientes a los cazadores de manera regular, aleatoria y sin previo aviso, dado que se trata de personas que portan armas y suponen un peligro para el resto de la población.",
+      "pagina": 13,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Oposición a la caza"
+      ],
+      "numero": "1.1.8",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Abolir la caza; plomo, perímetros, registro de accidentes y alcoholemia",
+      "etiquetas": [
+        "caza",
+        "seguridad",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA, mientras conseguimos la prohibición de la caza, impulsaremos la inclusión de los perros de caza en la Ley de protección animal con vistas siempre a la prohibición del empleo de animales como instrumentos para cazar, ya sean perros, aves, hurones u otros animales.",
+      "pagina": 14,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Oposición a la caza",
+        "Interdicción del empleo de animales como instrumentos para cazar"
+      ],
+      "numero": "1.1.8.1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incluir perros de caza en la ley y prohibir su uso cinegético",
+      "etiquetas": [
+        "caza",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA queremos que se proteja a estas especies emblemáticas, tan injustamente criminalizadas y señaladas a expensas de los intereses de los sectores cinegético y ganadero, de manera que la caza del lobo y del zorro sean expresamente prohibidas.",
+      "pagina": 15,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Oposición a la caza",
+        "Protección del lobo y del zorro"
+      ],
+      "numero": "1.1.8.2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir expresamente la caza del lobo y del zorro",
+      "etiquetas": [
+        "caza",
+        "medio ambiente",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Abogaremos, además, por el desarrollo de campañas de educación ambiental que sensibilicen a la población sobre la importancia de la conservación de la fauna silvestre y, especialmente, de especies como el lobo y el zorro, de manera que se erradiquen todas las falacias y la animadversión que cazadores y ganaderos han infundido durante décadas sobre ellas para tratar de justificar la persecución y el maltrato de estos animales.",
+      "pagina": 15,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Oposición a la caza",
+        "Protección del lobo y del zorro"
+      ],
+      "numero": "1.1.8.2",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Campañas de educación ambiental sobre fauna silvestre, lobo y zorro",
+      "etiquetas": [
+        "medio ambiente",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por todo ello, PACMA propone prohibir la cría y explotación de animales para el aprovechamiento de sus pieles.",
+      "pagina": 16,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Prohibición de granjas peleteras"
+      ],
+      "numero": "1.1.9",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir las granjas de animales para pieles",
+      "etiquetas": [
+        "bienestar animal",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sustituiremos la actual Dirección General de Derechos de los Animales, incoherentemente dependiente de un ministerio cuyas competencias no tienen relación alguna con la mayoría de los animales, como es el Ministerio de Derechos Sociales, lo que desde su creación ha limitado toda capacidad de actuación más allá de los considerados de compañía, por una Dirección General de Bienestar y Protección de los Animales, dependiente del ministerio competente en Medio Ambiente, a la que corresponderá la dirección, coordinación, propuesta y ejecución de las políticas nacionales en materia de bienestar y protección animal.",
+      "pagina": 16,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Creación de una Dirección General de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.10",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva dirección general de bienestar animal en Medio Ambiente",
+      "etiquetas": [
+        "bienestar animal",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Consideramos prever por ley el deber de auxilio a animales que se encuentren desamparados, heridos o en peligro manifiesto. La persona que lo advierta deberá comunicar los hechos a los servicios de emergencia o autoridad competente, que se encargarán de prestar la asistencia oportuna. En la medida de sus posibilidades, y en tanto se personan dichos servicios, ayudará al animal para evitar daños mayores o irreversibles.",
+      "pagina": 16,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Deber de auxilio a animales desamparados, heridos o en peligro manifiesto"
+      ],
+      "numero": "1.1.11",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Deber legal de auxilio a animales heridos o en peligro",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA defendemos que las entidades dedicadas a la protección animal, cuyas actividades pasan por defender, rescatar, recuperar, cuidar y/o acoger a los animales que han sido abandonados y/o maltratados, realizan una labor de importante utilidad pública, que aún no está lo suficientemente valorada, reconocida y apoyada.",
+      "pagina": 16,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Apoyo a las entidades de protección y defensa de los animales. Inclusión en la casilla de la Renta como actividad de interés social"
+      ],
+      "numero": "1.1.12",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Reconocimiento de la labor de las protectoras de animales",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las entidades de protección y defensa de los animales deben ser consideradas, cuando así lo soliciten, como entidades de utilidad pública, a todos los efectos.",
+      "pagina": 16,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Apoyo a las entidades de protección y defensa de los animales. Inclusión en la casilla de la Renta como actividad de interés social"
+      ],
+      "numero": "1.1.12",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Protectoras de animales como entidades de utilidad pública",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA impulsaremos que los departamentos competentes en materia de protección animal establezcan ayudas para las entidades que hayan obtenido el título de entidades colaboradoras, destinadas a las actividades que lleven a cabo con relación a la protección y la defensa de los animales, a su cuidado y mantenimiento, a la ejecución de programas de adopción, a la promoción de campañas y programas de esterilización o a la promoción de campañas de sensibilización de la ciudadanía. Además, deben tener la consideración de interesados cualificados en los procedimientos sancionadores en los casos en que hayan formulado la denuncia correspondiente o hayan formalizado la comparecencia en el expediente sancionador.",
+      "pagina": 16,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Apoyo a las entidades de protección y defensa de los animales. Inclusión en la casilla de la Renta como actividad de interés social"
+      ],
+      "numero": "1.1.12",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas a protectoras y su papel en procedimientos sancionadores",
+      "etiquetas": [
+        "bienestar animal",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Otra propuesta de PACMA, que ya presentamos formalmente al Gobierno, es la inclusión de la protección animal como una de las actividades consideradas de interés social a tener en cuenta en la determinación de las bases reguladoras de las ayudas financiadas con el porcentaje fijado del rendimiento del IRPF, el conocido 0,7%, que los y las contribuyentes deciden destinar a actividades de interés general consideradas de interés social, marcando la casilla al efecto al realizar su declaración de la Renta.",
+      "pagina": 17,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Apoyo a las entidades de protección y defensa de los animales. Inclusión en la casilla de la Renta como actividad de interés social"
+      ],
+      "numero": "1.1.12",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Protección animal en la casilla del 0,7% del IRPF",
+      "etiquetas": [
+        "bienestar animal",
+        "impuestos",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA llevamos una década luchando por el reconocimiento legal de los santuarios como entidades de protección y defensa de los animales, en los que se recupera y acoge a animales rescatados principalmente de la explotación de la industria ganadera y que, como tales, tengan la consideración y el apoyo recogidos en el anterior apartado.",
+      "pagina": 17,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Reconocimiento legal de los Santuarios de animales"
+      ],
+      "numero": "1.1.13",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reconocimiento legal de los santuarios de animales",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los animales acogidos por los santuarios no son animales criados o mantenidos para la producción de alimentos, lana o pieles, y, por consiguiente, no se les deben aplicar las normas y protocolos establecidos para los animales en las explotaciones ganaderas.",
+      "pagina": 17,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Reconocimiento legal de los Santuarios de animales"
+      ],
+      "numero": "1.1.13",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Excluir a los santuarios de la normativa de explotaciones ganaderas",
+      "etiquetas": [
+        "bienestar animal",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostamos por establecer la previsión de creación de centros de recuperación y rescate suficientes y adecuados para alojar a las especies de animales silvestres, salvajes y/o exóticos, tras haber sufrido un accidente o agresión, haber sido rescatadas del tráfico ilegal, del abandono o de la cautividad de circos, zoológicos o particulares.",
+      "pagina": 17,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Creación de centros de recuperación y rescate suficientes"
+      ],
+      "numero": "1.1.14",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Crear centros de recuperación para fauna silvestre y exótica",
+      "etiquetas": [
+        "bienestar animal",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defendemos la obligatoriedad por ley de la elaboración de protocolos de evacuación y rescate de animales que se encuentren en explotaciones de toda índole y terrenos cinegéticos vallados, así como en centros, recintos, instalaciones o establecimientos dedicados al cuidado, mantenimiento, educación, guardería, residencia, recogida, acogida de animales y cualesquiera otros que cumplan análogas funciones, ante situaciones climatológicas extremas y ante fenómenos o desastres naturales o provocados por personas.",
+      "pagina": 17,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Protocolos de evacuación y rescate"
+      ],
+      "numero": "1.1.15",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Protocolos obligatorios de evacuación de animales ante desastres",
+      "etiquetas": [
+        "bienestar animal",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En el Partido Animalista consideramos una obligación moral y ética, y una necesidad para la sostenibilidad de los ecosistemas, proteger y ayudar a la fauna silvestre, facilitando su adaptación ante estas circunstancias. Por ello propondremos la obligatoriedad de contar con protocolos de asistencia a la fauna silvestre en condiciones climatológicas extremas.",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Protocolos de asistencia a la fauna silvestre en condiciones climatológicas extremas"
+      ],
+      "numero": "1.1.16",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Protocolos obligatorios de asistencia a fauna silvestre en clima extremo",
+      "etiquetas": [
+        "bienestar animal",
+        "medio ambiente",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La caza no es un control poblacional eficaz.",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Técnicas y métodos éticos de control de reproducción de la fauna urbana y silvestre"
+      ],
+      "numero": "1.1.17",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo de la caza como método de control poblacional",
+      "etiquetas": [
+        "caza",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA defendemos el uso de métodos de control poblacional no letales por ser más éticos, pero también efectivos, como las vacunas anticonceptivas que ya se han probado con éxito, pero, sobre todo, defendemos que, si dejáramos a los animales vivir en paz en lo que debería ser su entorno natural y no un coto de caza, no tendrían la necesidad de adentrarse en los entornos urbanos para tratar de proteger sus vidas.",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Técnicas y métodos éticos de control de reproducción de la fauna urbana y silvestre"
+      ],
+      "numero": "1.1.17",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Control poblacional no letal de fauna silvestre",
+      "etiquetas": [
+        "bienestar animal",
+        "medio ambiente",
+        "caza"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dentro del entorno urbano, defendemos igualmente el empleo de técnicas y métodos éticos de control de reproducción de la fauna urbana, como la esterilización o el suministro de vacunas y piensos anticonceptivos.",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Técnicas y métodos éticos de control de reproducción de la fauna urbana y silvestre"
+      ],
+      "numero": "1.1.17",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Control reproductivo no letal de la fauna urbana",
+      "etiquetas": [
+        "bienestar animal",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Toda persona que esté en posesión de un animal sea de compañía o doméstico, en una casa o en una explotación, debe ser responsable de su salud, protección y bienestar.",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Obligaciones mínimas para la tenencia de animales"
+      ],
+      "numero": "1.1.18",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Responsabilidad de quien posee un animal sobre su bienestar",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, es fundamental establecer en la Ley de protección animal, al menos, las siguientes obligaciones para las personas poseedoras de animales:",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Obligaciones mínimas para la tenencia de animales"
+      ],
+      "numero": "1.1.18",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligaciones mínimas de tenencia en la Ley de protección animal",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proporcionarle agua fresca, limpia y potable, y un alimento completo en cantidad suficiente.",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Obligaciones mínimas para la tenencia de animales"
+      ],
+      "numero": "1.1.18",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligación legal de dar agua y alimento suficientes",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proporcionarle un alojamiento cómodo y seguro, a resguardo de las inclemencias meteorológicas, que será sometido a una limpieza periódica.",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Obligaciones mínimas para la tenencia de animales"
+      ],
+      "numero": "1.1.18",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligación legal de alojamiento adecuado y limpio",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mantenerlo en buenas condiciones higiénico-sanitarias y ambientales.",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Obligaciones mínimas para la tenencia de animales"
+      ],
+      "numero": "1.1.18",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligación legal de condiciones higiénico-sanitarias",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proporcionarle oportunidades de ejercicio y descanso adecuadas.",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Obligaciones mínimas para la tenencia de animales"
+      ],
+      "numero": "1.1.18",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligación legal de ejercicio y descanso",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proporcionarle las revisiones veterinarias necesarias y prestarle todos aquellos tratamientos que sean precisos para un buen estado de salud y que le eviten sufrimientos.",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Obligaciones mínimas para la tenencia de animales"
+      ],
+      "numero": "1.1.18",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligación legal de atención veterinaria",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Someterlo a los tratamientos preventivos que sean declarados obligatorios para su salud y bienestar.",
+      "pagina": 18,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Obligaciones mínimas para la tenencia de animales"
+      ],
+      "numero": "1.1.18",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligación legal de tratamientos preventivos",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es por tanto necesario establecer unas pautas para una reforma integral de todos los centros de acogida, además de fomentar la adopción de los animales acogidos mediante la prestación de un servicio de atención veterinaria social, al que puedan acogerse las personas que hayan adoptado en la red de centros de acogida municipales, de manera que los animales adoptados reciban una asistencia y tratamiento veterinarios a precios reducidos.",
+      "pagina": 19,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Reforma de los centros de acogida de animales. Formación del personal. Atención veterinaria social"
+      ],
+      "numero": "1.1.19",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de centros de acogida y veterinaria social para adoptantes",
+      "etiquetas": [
+        "bienestar animal",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para prevenir los problemas de comportamiento que pueden derivar del abandono y/o maltrato sufridos por los animales, consideramos imprescindible que se impartan cursos de etología y educación canina y felina, dirigidos tanto a profesionales como a cuidadores/as, lo que, sin duda, redundará en una mejora de la calidad de la vida de las personas adoptantes y, especialmente, de los animales.",
+      "pagina": 19,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Reforma de los centros de acogida de animales. Formación del personal. Atención veterinaria social"
+      ],
+      "numero": "1.1.19",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cursos de etología para personal y cuidadores de animales",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Abogaremos para se permita y regule el acceso de los animales al transporte público, a los albergues para personas sin hogar, a las residencias para mayores y a las casas de acogida y pisos tutelados para víctimas de violencia de género, de manera que las personas que tengan que alojarse en estos lugares no se vean abocadas, además, a tener que separarse de ellos, dejarlos atrás o dormir en la calle.",
+      "pagina": 19,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Acceso al transporte público, a los albergues para personas sin hogar, a las residencias para mayores y a las casas de acogida y pisos tutelados para víctimas de violencia de género"
+      ],
+      "numero": "1.1.20",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acceso de animales a transporte, albergues, residencias y casas de acogida",
+      "etiquetas": [
+        "bienestar animal",
+        "transporte",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los animales que conviven con nosotros en nuestros hogares son parte de la familia.",
+      "pagina": 19,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Acceso a hospitales"
+      ],
+      "numero": "1.1.21",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Consideración de los animales de compañía como familia",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, desde PACMA proponemos que los hospitales permitan el acceso de animales, habilitando una zona o sala, donde las personas que se encuentren ingresadas puedan recibir la visita de sus animales de compañía. Para ello, promoveremos un plan conjunto entre el Consejo Interterritorial del Sistema Nacional de Salud, el Estado y las comunidades autónomas, con los protocolos de seguridad e higiene adecuados.",
+      "pagina": 19,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Acceso a hospitales"
+      ],
+      "numero": "1.1.21",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Visitas de animales de compañía a pacientes hospitalizados",
+      "etiquetas": [
+        "sanidad",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La primera medida que se debe tomar para prevenir los problemas que pueden derivarse de la introducción de especies, subespecies o razas geográficas alóctonas, que pueden llegar a constituir una amenaza para las especies autóctonas, los hábitats o los ecosistemas, es prohibir la importación de especies y subespecies alóctonas, tanto para su comercialización y tenencia como animales de compañía, como para su explotación ganadera, piscícola, peletera y cinegética.",
+      "pagina": 20,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Cese a la importación de especies alóctonas"
+      ],
+      "numero": "1.1.22",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir la importación de especies alóctonas",
+      "etiquetas": [
+        "medio ambiente",
+        "bienestar animal",
+        "comercio exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA llevamos años reclamando que se prohíba de manera absoluta la importación de especies alóctonas y que la tenencia de animales silvestres en cautividad debe estar condicionada a que el animal no pueda ser devuelto y reintroducido en su medio natural.",
+      "pagina": 20,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Cese a la importación de especies alóctonas"
+      ],
+      "numero": "1.1.22",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Condicionar la tenencia de fauna silvestre en cautividad",
+      "etiquetas": [
+        "bienestar animal",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para el control poblacional de aquellas especies alóctonas que ya han sido introducidas, comercializadas y/o liberadas, que pueden llegar a constituir una amenaza para las especies autóctonas, los hábitats o los ecosistemas, defendemos el uso de técnicas y métodos no letales de control de reproducción, por ser más ético, pero también efectivo a la larga, como la esterilización o el suministro de vacunas y/o piensos anticonceptivos.",
+      "pagina": 20,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Cese a la importación de especies alóctonas"
+      ],
+      "numero": "1.1.22",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Control no letal de especies alóctonas ya introducidas",
+      "etiquetas": [
+        "medio ambiente",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tener animales salvajes como animales de compañía.",
+      "pagina": 20,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir tener animales salvajes como compañía",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mantener a los animales atados, encerrados o enjaulados.",
+      "pagina": 20,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir mantener animales atados o enjaulados",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tener de forma continuada animales en terrazas o patios, u otros lugares inapropiados.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir tener animales de forma continuada en terrazas o patios",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Matar, dañar o molestar a animales silvestres.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir matar, dañar o molestar a fauna silvestre",
+      "etiquetas": [
+        "bienestar animal",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Suministrar a los animales sustancias hormonales o químicas que puedan causarles alteraciones de la salud, del metabolismo o del comportamiento, excepto por prescripción veterinaria.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir sustancias hormonales o químicas sin prescripción veterinaria",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Marcar a los animales a fuego o mediante cualquier otro método lacerante.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir el marcado a fuego de animales",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Practicar mutilaciones a los animales cuyo objeto sea modificar su apariencia o conseguir otros fines no curativos.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir mutilaciones no curativas",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Utilizar cualquier artilugio, mecanismo o utensilio destinado a limitar o impedir la movilidad de los animales, salvo por prescripción veterinaria.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir utensilios que limiten la movilidad animal",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Servirse de animales como blancos en atracciones feriales, concursos o competiciones.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir usar animales como blancos en ferias o concursos",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Practicar actividades consideradas deportivas que impliquen el sufrimiento, la captura y/o la muerte de animales.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir actividades deportivas con sufrimiento o muerte animal",
+      "etiquetas": [
+        "bienestar animal",
+        "caza",
+        "deporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Matar, causar daño, sufrimiento o estrés a los animales en producciones audiovisuales, cinematográficas, televisivas, artísticas o publicitarias, espectáculos, actividades culturales, religiosas o cualquier otra similar, o bien hacer degradación, parodias, burlas o tratamientos antinaturales.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir daño animal en producciones audiovisuales y espectáculos",
+      "etiquetas": [
+        "bienestar animal",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Filmar con animales silvestres y/o salvajes para el cine, la televisión u otros medios de difusión, salvo que sea en su medio natural y siempre que no se interfiera en el curso normal de su vida silvestre.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir rodajes con fauna silvestre fuera de su medio",
+      "etiquetas": [
+        "bienestar animal",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Practicar sacrificios rituales de animales por motivos religiosos.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir sacrificios rituales de animales",
+      "etiquetas": [
+        "bienestar animal",
+        "religión"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Utilizar animales en atracciones feriales y otras asimilables.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir animales en atracciones feriales",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adiestrar o entrenar a los animales mediante métodos que puedan perjudicar su salud y bienestar, obligándoles a superar sus fuerzas o capacidades naturales o utilizando medios que puedan provocar lesiones, dolores, sufrimientos o angustia.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir métodos de adiestramiento lesivos",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dar a los animales una educación agresiva, de ataque o defensa.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir el adiestramiento de ataque o defensa",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Emplear animales para adiestrar a otros animales en la pelea o el ataque.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir usar animales para entrenar a otros en pelea",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Organizar, participar y/o asistir a peleas organizadas de animales, sin excepciones.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir peleas de animales sin excepciones",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Valerse de animales como instrumentos de defensa, tanto personal como de propiedades.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir usar animales para defensa personal o de propiedades",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Utilizar animales como tracción de vehículos.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir la tracción animal de vehículos",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Someter a los animales a trabajos de carga.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir trabajos de carga con animales",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Explotar animales como transporte turístico.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir animales como transporte turístico",
+      "etiquetas": [
+        "bienestar animal",
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sortear o hacer donación de un animal como premio, recompensa, gratificación o regalo de compensación.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir regalar o sortear animales como premio",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exhibir animales con finalidades lucrativas o de reclamo.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir exhibir animales con fines lucrativos",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Llevar a cabo actuaciones o prácticas de selección genética de las que se deriven problemas o alteraciones graves en la salud de los animales.",
+      "pagina": 21,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir selección genética dañina para la salud animal",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Manipular artificialmente a los animales con objeto de hacerlos atractivos como diversión o juguete.",
+      "pagina": 22,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir manipular animales como diversión o juguete",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Emplear instrumentos o métodos dañinos de sujeción, retención o educación.",
+      "pagina": 22,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir métodos dañinos de sujeción o educación",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Usar instrumentos o aperos que puedan originar daños a los animales que los utilicen o porten.",
+      "pagina": 22,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir aperos que dañen a los animales",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Imponer a los animales la realización de comportamientos y actitudes ajenas e impropias de su condición o que impliquen trato vejatorio.",
+      "pagina": 22,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Otras prohibiciones por incluir en la Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": "1.1.23",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir imponer conductas impropias o vejatorias",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Consideramos necesario un endurecimiento de las sanciones previstas, mediante un aumento considerable de la cuantía de las multas, así como de la duración y clasificación de las inhabilitaciones previstas.",
+      "pagina": 22,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Endurecimiento de las sanciones"
+      ],
+      "numero": "1.1.24",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subir multas e inhabilitaciones de la ley de protección animal",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Que la explotación sexual de un animal, que hasta 2023 era delito, hoy sea impune, es inaceptable.",
+      "pagina": 22,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Lucha efectiva contra el maltrato animal",
+        "Endurecimiento real y efectivo de las penas por maltrato animal"
+      ],
+      "numero": "1.2.1",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a la falta de castigo penal de la explotación sexual animal",
+      "etiquetas": [
+        "bienestar animal",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA no nos cansaremos de reclamar que es apremiante otorgar a los animales una protección especial en consonancia a su evidente y manifiesta vulnerabilidad, toda vez que un maltrato sobre un animal no solo revela un acto de crueldad sobre un ser sensible, sino que se realiza ejerciendo siempre un abuso de superioridad, aprovechando su imposibilidad de defensa y, por supuesto, de denuncia.",
+      "pagina": 23,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Lucha efectiva contra el maltrato animal",
+        "Endurecimiento real y efectivo de las penas por maltrato animal"
+      ],
+      "numero": "1.2.1",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Protección penal especial de los animales por su vulnerabilidad",
+      "etiquetas": [
+        "bienestar animal",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Son necesarios cambios contundentes y efectivos para erradicar la terrible lacra del maltrato animal en nuestro país. Por todo ello, desde PACMA trabajaremos por la supresión de la pena de multa como alternativa a la pena de prisión, así como por un aumento de la pena de prisión que, en el tipo agravado, esté por encima de los cinco años.",
+      "pagina": 23,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Lucha efectiva contra el maltrato animal",
+        "Endurecimiento real y efectivo de las penas por maltrato animal"
+      ],
+      "numero": "1.2.1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Maltrato animal: sin multa alternativa y más de cinco años de prisión",
+      "etiquetas": [
+        "bienestar animal",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Consideramos fundamental, además, una ampliación de la inhabilitación para la tenencia o ejercicio de profesión, oficio o comercio que tenga relación con los animales del máximo posible, pues, quién ha maltratado cruelmente a un animal no debería volver a tener otro animal bajo su cuidado nunca.",
+      "pagina": 23,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Lucha efectiva contra el maltrato animal",
+        "Endurecimiento real y efectivo de las penas por maltrato animal"
+      ],
+      "numero": "1.2.1",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliar la inhabilitación para tener animales tras maltrato",
+      "etiquetas": [
+        "bienestar animal",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Consideramos necesaria la creación de una unidad especializada en protección animal en la Fiscalía General del Estado, responsable de la coordinación y supervisión de la actividad del Ministerio Fiscal en esta materia, unificando los criterios de actuación, para lo que podrá proponer al Fiscal General del Estado la emisión de las correspondientes instrucciones, con la finalidad de ofrecer una respuesta efectiva frente a los ilícitos penales contra los animales.",
+      "pagina": 23,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Lucha efectiva contra el maltrato animal",
+        "Unidad especializada en protección animal en la Fiscalía General del Estado"
+      ],
+      "numero": "1.2.2",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Unidad de protección animal en la Fiscalía General del Estado",
+      "etiquetas": [
+        "justicia",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA defendemos la necesidad de que los Cuerpos y Fuerzas de Seguridad del Estado cuenten con unidades especializadas en el bienestar y la protección de los animales. Estas unidades estarán integradas por agentes instruidos en bienestar y protección animal, incluyendo el adecuado manejo de los animales, y deberán estar equipadas con los medios y recursos materiales necesarios, como armas anestésicas y dardos tranquilizantes.",
+      "pagina": 23,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Lucha efectiva contra el maltrato animal",
+        "Unidades especializadas en protección animal en los Cuerpos y Fuerzas de Seguridad del Estado"
+      ],
+      "numero": "1.2.3",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Unidades policiales especializadas en protección animal",
+      "etiquetas": [
+        "seguridad",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es indispensable una intervención educativa dirigida a la ciudadanía que fomente de manera preventiva una conducta más cívica y una tenencia responsable de los animales.",
+      "pagina": 24,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Programas de información y educación. Fomento de materias y/o contenidos relacionados con el respeto, el bienestar y la protección de los animales en los sistemas educativos"
+      ],
+      "numero": "1.3",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Educación ciudadana para la tenencia responsable de animales",
+      "etiquetas": [
+        "bienestar animal",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA impulsaremos el desarrollo de programas de información y educación para promover entre la ciudadanía el respeto por los animales, prevenir el abandono y fomentar la adopción responsable de los mismos, destacando los siguientes aspectos:",
+      "pagina": 24,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Programas de información y educación. Fomento de materias y/o contenidos relacionados con el respeto, el bienestar y la protección de los animales en los sistemas educativos"
+      ],
+      "numero": "1.3",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas de información contra el abandono y por la adopción",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, una actitud respetuosa hacia los animales debe inculcarse desde la infancia. Por ello, consideramos imprescindible el fomento de materias y/o contenidos relacionados con el respeto, el bienestar y la protección de los animales en los sistemas educativos.",
+      "pagina": 24,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Programas de información y educación. Fomento de materias y/o contenidos relacionados con el respeto, el bienestar y la protección de los animales en los sistemas educativos"
+      ],
+      "numero": "1.3",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Contenidos sobre bienestar animal en el sistema educativo",
+      "etiquetas": [
+        "educación",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA queremos promover que las personas que trabajan y colaboran en protectoras y otras entidades de protección y defensa de los animales, sean invitadas a dar charlas informativas y educativas en las escuelas, así como las visitas a refugios y santuarios de animales en lugar de las visitas a “granjas escuela” y lugares similares, en los que la finalidad no es el bienestar y la protección de los animales.",
+      "pagina": 24,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Programas de información y educación. Fomento de materias y/o contenidos relacionados con el respeto, el bienestar y la protección de los animales en los sistemas educativos"
+      ],
+      "numero": "1.3",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Charlas de protectoras y visitas escolares a santuarios",
+      "etiquetas": [
+        "educación",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los animales destinados al consumo como alimento se crían cada vez más en un modelo industrial que favorece las explotaciones de gran tamaño y la producción intensiva. Este modelo intensivo implica el confinamiento y hacinamiento de los animales, que están sometidos a sistemas de producción en los que su bienestar queda supeditado al beneficio económico. Son necesarias nuevas políticas con el objetivo de proteger y velar por las necesidades y el bienestar de estos animales, por encima de los beneficios económicos de quiénes se lucran a costa de sus vidas.",
+      "pagina": 24,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Cese a las prácticas más crueles de la industria ganadera"
+      ],
+      "numero": "1.4",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Bienestar de los animales de granja frente a la ganadería intensiva",
+      "etiquetas": [
+        "bienestar animal",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

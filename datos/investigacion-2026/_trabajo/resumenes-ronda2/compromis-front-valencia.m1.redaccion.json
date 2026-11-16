@@ -1,0 +1,96 @@
+{
+  "resumenes": [
+    {
+      "tema": "vivienda",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone destinar el 1% del PIB anual a vivienda protegida y una ley para expropiar viviendas a grandes fondos y tenedores, empezando por los de más de 1.000.",
+          "apoyos": ["c-2b7dac4194", "c-b6ac8300a9", "c-5ba94bb88e", "c-2902dd94c8"]
+        },
+        {
+          "texto": "Quiere prohibir que sociedades especulativas y lo que llama «fondos buitre» compren viviendas, y vetar temporalmente la compra a no residentes en zonas tensionadas.",
+          "apoyos": ["c-0dedad5975", "c-3e6166b8da", "c-30aa6cd0b6", "c-9f1a9b7b51"]
+        },
+        {
+          "texto": "Defiende el alquiler indefinido como régimen ordinario y prohibir los desahucios sin alternativa habitacional.",
+          "apoyos": ["c-96bd1e49f0", "c-f555b5424b", "c-b540f875e9"]
+        },
+        {
+          "texto": "Plantea un gravamen del 10% sobre el valor catastral a partir de la tercera vivienda, con excepciones.",
+          "apoyos": ["c-17f51a422b", "c-fab3feb38d"]
+        }
+      ],
+      "nota": "Todas las medidas citadas proceden del programa; las declaraciones solo refuerzan. «Fondos buitre» se atribuye al partido entre comillas. Se omiten por espacio el control de alquileres vía zonas tensionadas municipales y los cambios en IBI, ITP y deducciones."
+    },
+    {
+      "tema": "empleo",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone reducir la jornada a cuatro días y 32 horas semanales sin bajar el sueldo y garantizar por ley que el salario mínimo llegue al 60% del salario medio.",
+          "apoyos": ["c-df3c2a2d9f", "c-bf44449c97"]
+        },
+        {
+          "texto": "Quiere recuperar la indemnización por despido de 45 días por año trabajado y los salarios de tramitación.",
+          "apoyos": ["c-fa57433d3a"]
+        },
+        {
+          "texto": "Para autónomos plantea acceder al cese de actividad acreditando un año de pérdidas y bonificar la cuota desde el primer día de baja por enfermedad grave.",
+          "apoyos": ["c-37fc5e078b", "c-ce1e862bff"]
+        },
+        {
+          "texto": "Defiende además la participación directa de los trabajadores en los consejos de administración de las grandes empresas.",
+          "apoyos": ["c-c603a07b14"]
+        }
+      ],
+      "nota": "Resumen basado solo en el programa; las declaraciones del tema son posiciones genéricas sin medidas nuevas."
+    },
+    {
+      "tema": "pensiones",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone devolver la edad de jubilación a los 65 años y eliminar los coeficientes reductores para quien se jubila anticipadamente tras 40 años trabajados.",
+          "apoyos": ["c-55aa4571a3", "c-5ea9a59330"]
+        },
+        {
+          "texto": "Quiere garantizar en la Constitución la revalorización de las pensiones según el coste de la vida y subir las no contributivas hasta 800 euros.",
+          "apoyos": ["c-baa1a1fdce", "c-e5b40bed31", "c-f3baf7d696", "c-23961cba48"]
+        },
+        {
+          "texto": "Plantea también eliminar el tope de la base máxima de cotización y suprimir las desgravaciones fiscales a los planes de pensiones privados.",
+          "apoyos": ["c-4ab14bc354", "c-794ba2bb62"]
+        },
+        {
+          "texto": "Su candidata por Valencia propuso gravar los beneficios extraordinarios de multinacionales, bancos y fondos de inversión para «blindar» las pensiones.",
+          "apoyos": ["c-aed09b1301"]
+        }
+      ],
+      "nota": "La última frase procede solo de una declaración de campaña y va atribuida. Se omiten por espacio las medidas de brecha de género y periodos de cuidados."
+    },
+    {
+      "tema": "impuestos",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone mantener y ampliar el impuesto a las grandes fortunas y crear otro sobre el beneficio de las empresas oligopolísticas.",
+          "apoyos": ["c-28d77ce92e", "c-ce713ad671"]
+        },
+        {
+          "texto": "Quiere que las rentas financieras e inmobiliarias tributen con la misma progresividad que las del trabajo y deflactar el IRPF para rentas inferiores a 30.000 euros.",
+          "apoyos": ["c-49c518ec6b", "c-c730d113b4", "c-30a7060e1a"]
+        },
+        {
+          "texto": "Plantea un gravamen del 10% sobre el valor catastral desde la tercera vivienda y suprimir ventajas fiscales de las SOCIMI y de la aviación.",
+          "apoyos": ["c-17f51a422b", "c-0d52394fbe", "c-2b167a6817", "c-fab3feb38d"]
+        },
+        {
+          "texto": "Propone bajar el IVA de productos de salud, higiene femenina y cultura, y subirlo a los de lujo y contaminantes.",
+          "apoyos": ["c-2f0a772399", "c-c3c8481a41"]
+        }
+      ],
+      "nota": "Todo procede del programa. Se omite por espacio la propuesta de concierto económico o recaudación directa por la Generalitat Valenciana (ámbito autonómico)."
+    }
+  ]
+}

@@ -286,12 +286,28 @@ ${notaMetodo(d)}
   };
 }
 
+// Retrato del cabeza de lista: pequeño, junto al nombre del partido, con su crédito debajo.
+// Los 18 llevan el mismo recorte y van en blanco y negro (la hoja de estilos los tiñe de sepia): sin
+// colores ni logotipos de partido. Los datos (autor, licencia y origen) salen de retratos.json, que
+// construir.mjs deja en d.retratos; si un partido no tiene retrato, la ficha sale sin él.
+function retrato(d, p) {
+  const r = d.retratos?.[p.id];
+  if (!r) return { imagen: '', credito: '' };
+  const autor = `<a href="${esc(r.origenUrl)}" rel="external" data-evento="clic_fuente">${esc(r.autor)}</a>`;
+  const licencia = r.licenciaUrl ? `<a href="${esc(r.licenciaUrl)}" rel="external">${esc(r.licencia)}</a>` : esc(r.licencia);
+  return {
+    imagen: `<div class="retrato"><img src="${esc(r.archivo)}" alt="Retrato de ${esc(r.persona)}" width="300" height="400" decoding="async"></div>`,
+    credito: `<p class="ficha__foto">${esc(r.persona)}. Foto: ${autor}, ${licencia}. ${esc(d.cambiosRetratos ?? '')}</p>`,
+  };
+}
+
 export function paginaPartido(p, d) {
   const ruta = `/partidos/${p.id}/`;
   const conMaterial = d.temas.filter(t => citasDe(d, p.id, t.id).length);
   const sinMaterial = d.temas.filter(t => !citasDe(d, p.id, t.id).length);
   const n = (d.citas[p.id] ?? []).length;
   const { aviso } = situacionPrograma(d, p);
+  const foto = retrato(d, p);
   return {
     ruta,
     titulo: `Qué propone ${p.nombre} para el 29 de noviembre`,
@@ -304,8 +320,14 @@ export function paginaPartido(p, d) {
     contenido: `<article class="envoltorio texto ficha" data-ficha="partido">
 ${miga([INICIO, PARTIDOS, { texto: p.nombre, ruta }])}
 <header class="ficha__cabeza">
+<div class="ficha__portada">
+<div class="ficha__nombres">
 <h1>${esc(p.nombre)}</h1>
 ${p.nombreCompleto !== p.nombre ? `<p class="ficha__oficial">${esc(p.nombreCompleto)}</p>` : ''}
+</div>
+${foto.imagen}
+</div>
+${foto.credito}
 <ul class="ficha__datos">
 <li>${esc(p.ambito)}</li>
 ${p.cabeza ? `<li>${esc(p.cabeza)}</li>` : ''}
@@ -345,6 +367,7 @@ export function indiceTemas(d) {
 ${miga([INICIO, TEMAS])}
 <h1>Temas</h1>
 <p class="entradilla">Elige un tema y compara lo que proponen ${d.partidos.length} partidos, uno debajo de otro y con la cita exacta de cada uno.</p>
+${d.ordenTemas ? `<p class="nota-orden">Ordenados según lo que más preocupa a la población: de más a menos citado como problema en el <a href="${esc(d.ordenTemas.url)}" rel="external noopener">${esc(d.ordenTemas.encuesta)}</a>.</p>` : ''}
 <section class="bloque" aria-labelledby="lista-temas">
 <h2 id="lista-temas" class="solo-lector">Todos los temas</h2>
 <ul class="tarjetas">

@@ -1,0 +1,90 @@
+{
+  "revisiones": [
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad: la primera frase atribuía a la Ley de Agricultura Familiar y Profesional los objetivos (maquinaria, seguros, relevo) que el programa asigna al paquete de medidas que empieza por esa ley; se separan la ley y el paquete.",
+        "Representatividad: faltaba la modernización de regadíos sin aumentar el consumo total de agua (c-cc50eae1cc), una de las medidas agrarias de más peso del programa; se añade junto a la pesca.",
+        "Por espacio (límite de 90 palabras) salen el «mecanismo de garantía rural», poco informativo para el lector, y el reparto de cuotas pesqueras.",
+        "Las citas de servicios generales (sanidad, celiaquía, comedor escolar) y las de la ponencia de 2024 quedan fuera con razón; la base es suficiente."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone una Ley de Agricultura Familiar y Profesional y un paquete con renovación de maquinaria, refuerzo de los seguros agrarios y relevo generacional.",
+          "apoyos": ["c-8697d8f3c8", "c-cdac92d081", "c-d3c0f2f30b", "c-6e35088a67"]
+        },
+        {
+          "texto": "Defiende una PAC que priorice las explotaciones familiares y profesionales, más controles a las importaciones y evitar que fondos de inversión concentren tierras fértiles.",
+          "apoyos": ["c-7df355dad1", "c-60e73b346a", "c-1cba7b7275"]
+        },
+        {
+          "texto": "Plantea modernizar los regadíos sin aumentar el consumo total de agua y un Plan de Transición Justa para la pesca.",
+          "apoyos": ["c-cc50eae1cc", "c-0842091f4d"]
+        },
+        {
+          "texto": "Contra la despoblación propone un Plan de Empleo Verde Rural, vivienda rural asequible y oficinas itinerantes del Estado en comarcas sin oficina.",
+          "apoyos": ["c-acc6ab2e04", "c-ba6097ffcd", "c-da9d242394", "c-24dbb1cde9"]
+        }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [
+        "Sin fallos de fidelidad: el Pacto de Estado, los 19.000 millones hasta 2030, el ERTMS de nivel 2 en Madrid-Sevilla, los corredores, los 5.000 km de firme con 1.629 millones y las medidas de transporte público y cero emisiones coinciden con las citas y con su fuerza.",
+        "«Accidentes ferroviarios» en lugar de «tragedias ferroviarias» es una sustitución neutra y correcta.",
+        "Representatividad aceptable: la seguridad ferroviaria es el bloque de más peso; quedan fuera, por espacio, puertos y aeropuertos (DORA III) y telecomunicaciones (banda ancha, 6G). Excluir la tasa a jets privados y megayates es razonable por ser una medida fiscal, y las declaraciones de 2024 no hacen falta porque el programa cubre el tema."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Tras los accidentes ferroviarios de 2026, propone un Pacto de Estado por la Seguridad Ferroviaria y 19.000 millones para conservar la red hasta 2030.",
+          "apoyos": ["c-e7bcf90749", "c-bf97752f36", "c-1c66a81408", "c-feeeebe8df"]
+        },
+        {
+          "texto": "Plantea implantar el ERTMS de nivel 2 en la línea Madrid-Sevilla, modernizar Cercanías y Media Distancia y culminar los corredores Mediterráneo y Atlántico.",
+          "apoyos": ["c-af3bec39ff", "c-e726e17bf1", "c-ef2669c7c3"]
+        },
+        {
+          "texto": "En carreteras, quiere reparar el firme de 5.000 km de la red estatal con 1.629 millones en cuatro años.",
+          "apoyos": ["c-2baf3e93dd"]
+        },
+        {
+          "texto": "Defiende un transporte público integrado con tarifas sencillas y asequibles, las Zonas de Bajas Emisiones e incentivos a los vehículos de cero emisiones.",
+          "apoyos": ["c-1094cf918d", "c-12f5447f81", "c-95fa2c2cb6", "c-0a725a3400"]
+        }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad: la primera frase daba a entender que la reforma del artículo 43 de la Constitución también serviría para blindar el matrimonio igualitario y la eutanasia; el programa solo vincula esa reforma al aborto y, para los otros dos, pide «la máxima protección jurídica» sin precisar la vía (c-20e8e270cc). Se separa.",
+        "Representatividad: el bloque de violencia digital contra las mujeres (unas doce citas, entre ellas tipificar como delito los deepfakes sexuales, c-c51e3e20d2) no aparecía; se añade en la frase de medidas penales, sacrificando por espacio la mención al proxenetismo.",
+        "Apoyos: c-fa8accfd14 (nueva Estrategia Estatal) no respaldaba nada de lo que dice la segunda frase; se retira.",
+        "Siguen fuera por espacio la memoria democrática, la «unión de amistad», la Ley Zerolo y la nueva Ley de Seguridad Ciudadana; con 116 citas y cuatro frases es una selección defendible. Usar «violencia de género» es correcto: el programa emplea el término."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone blindar el aborto reformando el artículo 43 de la Constitución y dar la máxima protección jurídica al matrimonio igualitario y la eutanasia.",
+          "apoyos": ["c-710673783c", "c-20e8e270cc"]
+        },
+        {
+          "texto": "Ante la violencia de género plantea una ley orgánica contra la violencia vicaria y ampliar las ayudas a huérfanos hasta los 26 años.",
+          "apoyos": ["c-4e2d908183", "c-8980b2cae6"]
+        },
+        {
+          "texto": "Quiere leyes orgánicas contra la trata y para abolir la prostitución, penalizar las «terapias de conversión» y tipificar como delito los deepfakes sexuales.",
+          "apoyos": ["c-18732a6f2b", "c-87105f7e83", "c-c51e3e20d2"]
+        },
+        {
+          "texto": "Quiere que la Ley 4/2023 sea el «suelo común» de derechos LGTBI en toda España y reforzar la igualdad salarial.",
+          "apoyos": ["c-582ba84e0b", "c-82330b4668", "c-7d37ad9329", "c-913a610aba"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "resumenes": [
+    {
+      "tema": "familias-y-cuidados",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone una prestación estatal por crianza para todos los hogares con menores, reforzada en los de renta baja y financiada gravando grandes patrimonios y rentas del capital.",
+          "apoyos": ["c-8dc684f55c", "c-9edb006d39"]
+        },
+        {
+          "texto": "Plantea además una «Cuenta de Futuro» de 1.000 euros al nacer y convertir el mínimo por descendiente del IRPF en un crédito fiscal reembolsable.",
+          "apoyos": ["c-8a8fb7d108", "c-8294729142"]
+        },
+        {
+          "texto": "En cuidados, quiere una Ley de Servicios Sociales, menos listas de espera en dependencia y permisos parentales retribuidos.",
+          "apoyos": ["c-3e8fa96de8", "c-fd2c174e35", "c-59512c7c12", "c-44da3bf0a4"]
+        },
+        {
+          "texto": "Su candidato se comprometió a pagar cuatro semanas al 100% a padres y madres de menores de 8 años.",
+          "apoyos": ["c-75f105f42d"]
+        }
+      ],
+      "nota": "Bloque amplio (99 citas, casi todas de programa). Se priorizan crianza, fiscalidad familiar, servicios sociales, dependencia y conciliación; quedan fuera, por espacio, la protección de menores en redes (edad mínima de 16 años), la «unión de amistad», la vivienda y las medidas sobre mayores y discapacidad. La prestación de cuatro semanas para menores de 8 años solo aparece en una declaración de campaña y va atribuida."
+    },
+    {
+      "tema": "inmigracion",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende una migración «ordenada, legal y segura» ligada a las necesidades demográficas y económicas, con más contratación en origen y trámites más sencillos.",
+          "apoyos": ["c-25921b5543", "c-0a3acfbc55"]
+        },
+        {
+          "texto": "Propone desplegar el Plan de Integración y Ciudadanía 2026-2030, con 500 millones de euros iniciales, y plantea la integración como derechos y obligaciones.",
+          "apoyos": ["c-5137fd8b8e", "c-cbd3006cb1"]
+        },
+        {
+          "texto": "Quiere ampliar las vías legales de protección internacional y reforzar la acogida, sobre todo de los menores que llegan solos.",
+          "apoyos": ["c-ced36fa5bd", "c-c773767248", "c-3cffc3902f"]
+        },
+        {
+          "texto": "Su candidato anunció además una agencia estatal de Movilidad Humana.",
+          "apoyos": ["c-099815f3e1"]
+        }
+      ],
+      "nota": "Las citas sobre españoles en el exterior (voto exterior, red consular, retorno) y sobre retorno de talento entran en el tema pero se dejan fuera por espacio. La agencia de Movilidad Humana y la petición de Frontex en Ceuta proceden de declaraciones de Pedro Sánchez como presidente del Gobierno; solo se recoge la primera, atribuida."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone aumentar y redistribuir los efectivos de Policía Nacional y Guardia Civil y un primer Plan Nacional Integral contra el Narcotráfico.",
+          "apoyos": ["c-7ac9e01194", "c-8b427d629a"]
+        },
+        {
+          "texto": "Quiere sustituir la Ley de Seguridad Ciudadana de 2015 por otra que garantice reunión y manifestación e incluya cámaras corporales policiales.",
+          "apoyos": ["c-649537a8d3"]
+        },
+        {
+          "texto": "En justicia, plantea más jueces y fiscales, juicios por despido y desahucio en tres meses como máximo y desalojo de viviendas ocupadas en 48 horas.",
+          "apoyos": ["c-c3205f9a30", "c-dcd08c67a6", "c-63e5662d92"]
+        },
+        {
+          "texto": "Pide un mandato de cinco años para la Fiscalía General y que la investigación penal pase a la Fiscalía bajo supervisión judicial.",
+          "apoyos": ["c-9d45151e5c"]
+        }
+      ],
+      "nota": "Bloque amplio (60 citas, casi todas de programa). Se priorizan policía, narcotráfico, Ley de Seguridad Ciudadana y justicia; quedan fuera por espacio protección civil y emergencias climáticas, ciberdelincuencia, violencia de género, trata y la ley abolicionista de la prostitución, delitos de odio y supresión de aforamientos."
+    }
+  ]
+}

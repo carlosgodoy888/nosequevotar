@@ -1,0 +1,90 @@
+{
+  "revisiones": [
+    {
+      "tema": "sanidad",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: «internalizar servicios privatizados» endurecía el programa, que habla de revisar contratos y elaborar «planes de internalización paulatina» (c-22126984af); se añade «de forma paulatina».",
+        "Duda del redactor resuelta: el aborto en la Constitución se mantiene, porque el programa lo sitúa en su apartado de sanidad (2.4, salud sexual y reproductiva) y lo repite en el 2.7.",
+        "Ids comprobados: todos existen en el tema. Representatividad aceptable para 90 palabras; quedan fuera la universalidad para residentes sea cual sea su situación administrativa (c-d22f2f3312), la empresa farmacéutica pública y la integración de MUFACE, MUGEJU e ISFAS."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende una sanidad «100 % pública, universal y de gestión directa», con un mínimo del 8 % del PIB y el 25 % del presupuesto sanitario para Atención Primaria.",
+          "apoyos": ["c-0db002f962", "c-2bf59bfd94", "c-65a3b01437"]
+        },
+        {
+          "texto": "Propone que la gestión indirecta sea excepcional, internalizar de forma paulatina servicios privatizados y prohibir que el capital riesgo compre hospitales.",
+          "apoyos": ["c-24161a37cc", "c-e49e746046", "c-22126984af", "c-c6db578285"]
+        },
+        {
+          "texto": "Quiere extender la atención bucodental pública al menos a la mitad de la población e incluir gafas, lentillas y audífonos.",
+          "apoyos": ["c-06e335b5f8", "c-a7b5abc958", "c-90432d1d88", "c-2822da27a3", "c-43e12fba5b"]
+        },
+        {
+          "texto": "También plantea un fondo para salud mental, un decreto de listas de espera y recoger el aborto en la Constitución.",
+          "apoyos": ["c-3906e10df5", "c-be9d78743e", "c-7f786cec85", "c-abb812b05c"]
+        }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 4: «Pide destinar todos los fondos públicos a la red pública» presentaba como medida inmediata lo que el programa formula como objetivo durante un «periodo de coexistencia» con la concertada (c-d1ccf6002d); se reformula como lo que quiere conseguir.",
+        "Frase 4: «centros que separen por sexo o por motivos religiosos» se ajusta a la cita (c-e554f3e2fd: escuelas que «promuevan la segregación educativa por sexos o por cuestiones religiosas»).",
+        "Duda del redactor resuelta: las ratios siguen el programa (15/20/23, c-3fe9c7fa79); la declaración de 2025 del portavoz de Educación de IU (c-df2e015457, 20 y 25 alumnos) es anterior y contradice al programa, así que no se recoge.",
+        "Ids comprobados: todos existen en el tema. Quedan fuera por límite de palabras el máximo de horas lectivas del profesorado (18 y 23) y las medidas universitarias."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone llevar por ley el gasto en educación pública al 7 % del PIB en 2030 y defiende la gratuidad desde los 0 años hasta la universidad.",
+          "apoyos": ["c-e546522172", "c-0db002f962"]
+        },
+        {
+          "texto": "Quiere limitar por ley los alumnos por aula a 15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato.",
+          "apoyos": ["c-5d6862e291", "c-3fe9c7fa79"]
+        },
+        {
+          "texto": "Plantea comedor gratuito en Infantil y Primaria públicas, plazas gratuitas de 0 a 3 años y más becas.",
+          "apoyos": ["c-6477f813b4", "c-22e7b626e4", "c-dc9ab01185", "c-c05e7a56c0"]
+        },
+        {
+          "texto": "Quiere que todos los fondos públicos vayan a la red pública y retirar los conciertos a centros que segreguen por sexo o por religión.",
+          "apoyos": ["c-d1ccf6002d", "c-e554f3e2fd"]
+        }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: el apoyo c-47693cde11 (implantación en tres fases y financiación) no respalda nada de lo que dice la frase; se retira.",
+        "Frase 3: «duplicar la ayuda a domicilio» era más amplio que la cita, que habla de duplicar «las horas e intensidad mínima de ayuda a domicilio» (c-625e824dbc); se precisa.",
+        "Frase 4: «Defiende» se cambia por «Propone», porque el programa se compromete a aprobar la ley (c-64d001d319), y «permisos de cuidado» se ajusta a «permisos retribuidos», ya que la cita también incluye enfermedad, hospitalización y fallecimiento (c-018503bb6f).",
+        "Ids comprobados: todos existen en el tema. Quedan fuera por límite de palabras el Pacto de Estado y la Ley de Cuidados, la inversión en infancia del 1,5 % al 2,4 % del PIB, el permiso parental retribuido de 10 semanas, el derecho al respiro y la prestación por crianza anticipada."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone una prestación universal por crianza de 200 euros al mes por cada menor de 18 años, sin depender de los ingresos familiares.",
+          "apoyos": ["c-a61dd18da8", "c-b95badd8c3"]
+        },
+        {
+          "texto": "Quiere ampliar el permiso por nacimiento a 20 semanas intransferibles por progenitor y duplicarlo en familias monoparentales.",
+          "apoyos": ["c-b7add7a44c"]
+        },
+        {
+          "texto": "Plantea subir la inversión en dependencia del 0,8 % al 1,7 % del PIB en 2030 y duplicar las horas de ayuda a domicilio.",
+          "apoyos": ["c-462093eb69", "c-625e824dbc"]
+        },
+        {
+          "texto": "Propone una Ley de Familias que reconozca la diversidad familiar y permita designar personas de referencia sin parentesco a efectos de permisos retribuidos.",
+          "apoyos": ["c-64d001d319", "c-018503bb6f", "c-a286077bb3", "c-40bda6ccef"]
+        }
+      ]
+    }
+  ]
+}

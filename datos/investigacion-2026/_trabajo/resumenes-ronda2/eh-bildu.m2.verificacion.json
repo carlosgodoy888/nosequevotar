@@ -1,0 +1,106 @@
+{
+  "revisiones": [
+    {
+      "tema": "inmigracion",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: el programa dice «avanzar hacia una nueva legislación de extranjería»; «propone una nueva Ley de Extranjería» endurece el verbo. Además, facilitar las autorizaciones de residencia y trabajo es una medida aparte, no un contenido de esa ley.",
+        "Frase 3: la cita habla de «eliminación de barreras para acceder» a sanidad, educación y vivienda, no de «garantizar el acceso». Se ajusta el verbo."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una regularización «efectiva, accesible y estable», facilitar los permisos de residencia y trabajo y avanzar hacia una ley de extranjería basada en los derechos humanos.", "apoyos": ["c-d66bcc1989", "c-86a2ff8548", "c-541fc318c4", "c-cbfe2eb954"] },
+        { "texto": "Rechaza las devoluciones sumarias, la externalización de fronteras, los CIE y las disposiciones restrictivas del Pacto Europeo sobre Migración y Asilo.", "apoyos": ["c-ca344b1f3c"] },
+        { "texto": "Quiere eliminar barreras para acceder a sanidad, educación, vivienda y padrón sea cual sea la situación administrativa, y ampliar el derecho al voto de los residentes extranjeros.", "apoyos": ["c-eae44e50ed", "c-c4ffc4e5c0"] },
+        { "texto": "Pide la transferencia integral de las competencias migratorias para desarrollar un «modelo vasco de acogida propio».", "apoyos": ["c-73d2bea670", "c-6d7065a920", "c-e44d4a57c6"] }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: c-9c580e4f5e (delimitar el «discurso de odio») figura como apoyo pero la frase no dice nada de ello; se quita.",
+        "Representatividad: el resumen solo recogía medidas de despenalización y de repliegue policial y dejaba fuera las dos propuestas del programa que endurecen la respuesta penal (violencia vicaria y delitos de odio LGTBIQ+). Se incluyen para que la descripción no quede sesgada; para no pasar de 90 palabras se suprime el detalle de la desobediencia y se reúnen las medidas de presos y repliegue en una frase.",
+        "Frase 1: c-15c08cdbe2 y c-fac761c00e ya no respaldan la frase reescrita; se sustituyen por c-a1d3396319 (pelotas de goma)."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea volver a presentar una ley contra la que llama «Ley Mordaza» y sustituir las pelotas de goma por medios menos lesivos.", "apoyos": ["c-891b71258f", "c-a1d3396319"] },
+        { "texto": "Propone despenalizar las críticas a la Corona, las instituciones y los sentimientos religiosos, y los artículos sobre enaltecimiento del terrorismo.", "apoyos": ["c-f893fcffa3"] },
+        { "texto": "Quiere aplicar a todos los presos la legislación penitenciaria ordinaria e impulsar el repliegue de las fuerzas de seguridad del Estado en el País Vasco y Navarra.", "apoyos": ["c-ccb04b8722", "c-68de5838a3"] },
+        { "texto": "También propone avanzar en la penalización de la violencia vicaria y reforzar la investigación de los delitos de odio LGTBIQ+.", "apoyos": ["c-9532201f3b", "c-d5fe76be24"] }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: «la atención en euskera en los servicios del Estado» no indica el ámbito territorial y suaviza la medida. c-df3e991c36 pide establecer el conocimiento del euskera como requisito en los servicios de la administración estatal en Araba, Bizkaia, Gipuzkoa y Navarra. Se precisan el alcance y la fuerza.",
+        "Frase 4 (duda del redactor): correcta. Sale solo de declaraciones de campaña de Oskar Matute (13 y 16 de noviembre de 2026), va atribuida a su candidato principal y «sin pedir contrapartidas» recoge su «gratis et amore» y su rechazo a exigir que se lo «firme todo» Sánchez."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide reconocer el carácter plurinacional del Estado y el «derecho a decidir» del pueblo vasco, y respetar los nuevos estatus que refrende la sociedad vasca.", "apoyos": ["c-247bb49370", "c-edd36ad316", "c-4cbadb05e2", "c-79c36aa334", "c-9516a4047a"] },
+        { "texto": "Propone derogar la Ley de Secretos Oficiales y la reforma del artículo 135 constitucional que prioriza el pago de la deuda.", "apoyos": ["c-57172f2837", "c-87d685216c"] },
+        { "texto": "Plantea garantizar canales presenciales en la administración y exigir el conocimiento del euskera en los servicios estatales del País Vasco y Navarra.", "apoyos": ["c-d263fe33e6", "c-df3e991c36", "c-3256eecc5e"] },
+        { "texto": "En campaña, su candidato principal afirmó que sus votos servirán para impedir un gobierno del PP y Vox sin pedir contrapartidas.", "apoyos": ["c-d6f8bdf132", "c-788468dff1"] }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: el programa «exigirá» las competencias pendientes, pero de las nuevas competencias dice «propondremos la asunción»; «exige» aplicado a ambas endurece la segunda parte. Se separan los verbos.",
+        "Duda del redactor sobre el salario mínimo: el apoyo de la declaración de campaña c-41b82bd0dd es válido porque dice lo mismo que el programa (c-786a169ae8, c-9aee4313ef) y no añade nada; la frase sigue al programa.",
+        "Duda del redactor sobre «Euskal Herria»: entrecomillarlo como denominación del partido es correcto y coherente con el resto de temas."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide reconocer a «Euskal Herria» como nación, con «derecho a decidir» su relación con el Estado.", "apoyos": ["c-edd36ad316", "c-4cbadb05e2", "c-247bb49370", "c-79c36aa334"] },
+        { "texto": "Exige transferir las competencias pendientes del Estatuto vasco y del Amejoramiento navarro, y propone asumir otras nuevas como Seguridad Social, migración, energía o puertos y aeropuertos.", "apoyos": ["c-137172a80f", "c-2bff2bc36c", "c-4aa5837cb9", "c-6d7065a920", "c-f25a8d29e0", "c-05ae70d4ad"] },
+        { "texto": "Propone que las comunidades puedan fijar un salario mínimo propio por encima del estatal.", "apoyos": ["c-786a169ae8", "c-9aee4313ef", "c-41b82bd0dd"] },
+        { "texto": "Defiende el Concierto y el Convenio Económico y quiere un nuevo modelo de cálculo del Cupo y la Aportación.", "apoyos": ["c-2f2254058a"] }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone revisar al alza el PNIEC para adelantar la descarbonización al menos a 2045, con electrificación, renovables y autoconsumo.", "apoyos": ["c-52b2e53caf", "c-e0842d4fe0", "c-1aaaa9ec6e", "c-c9a11cec4f", "c-bf93936a64"] },
+        { "texto": "Defiende mantener el calendario de cierre nuclear y eliminar las subvenciones a los combustibles fósiles, incluida la exención al queroseno de aviación.", "apoyos": ["c-133e560061", "c-5733455045"] },
+        { "texto": "Plantea hacer permanente el impuesto a las energéticas, recuperar el «tope al gas» en crisis de precios y reformar el mercado eléctrico.", "apoyos": ["c-6333e03d13", "c-19b12fbfbb", "c-612d6fae33", "c-c09db18fc5", "c-70821d229d"] },
+        { "texto": "Quiere automatizar el bono social eléctrico y térmico y subvencionar la rehabilitación energética de viviendas, hasta el 100% para los más vulnerables.", "apoyos": ["c-6b16f006a2", "c-5c817aab92", "c-1159408741", "c-009ce466f2"] }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: la cita dice «impulsar una mayor descentralización y regionalización de la Política Pesquera Común» dentro del marco europeo; «descentralizar la política pesquera» endurece el verbo y no deja claro que es la política europea. Se ajusta."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone controles obligatorios de precios y márgenes de las grandes distribuidoras y desarrollar la Ley de la Cadena Alimentaria para garantizar precios justos en origen.", "apoyos": ["c-4e7f7de51d", "c-07af423c1c", "c-cf388dc976", "c-aecf526e63", "c-21d6703db0"] },
+        { "texto": "Plantea un impuesto especial sobre los beneficios de las grandes distribuidoras alimentarias, concertado con las haciendas forales.", "apoyos": ["c-208a4bbb2c"] },
+        { "texto": "Pide avanzar hacia la «renacionalización y territorialización» de la PAC y una mayor descentralización de la Política Pesquera Común para que «Euskal Herria» tenga políticas propias.", "apoyos": ["c-3c8177bf21", "c-3161ddde44"] },
+        { "texto": "También quiere ampliar la agricultura ecológica y reforzar la compra pública de alimentos de proximidad en comedores, hospitales y residencias.", "apoyos": ["c-78377976bd", "c-db25c24e10"] }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: c-8e80113984 dice «mantener y ampliar» las rebajas de tarifas y los bonos; «mantener» a secas suaviza la propuesta."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone renovar las vías existentes como alternativa a la Alta Velocidad, sobre todo en el corredor navarro y hacia Burgos, con trenes a 200 km/h, cercanías y mercancías.", "apoyos": ["c-8653112203", "c-da486be4d5", "c-7e5981bf53"] },
+        { "texto": "Pide reforzar Cercanías y Media Distancia y trasladar mercancías de la carretera al tren.", "apoyos": ["c-abc1d2802d", "c-86adc110b6"] },
+        { "texto": "Reclama transferir al País Vasco y Navarra las competencias ferroviarias, portuarias y aeroportuarias, y mantener y ampliar los descuentos al transporte con financiación estatal.", "apoyos": ["c-c642ad36fc", "c-05ae70d4ad", "c-8e80113984", "c-3b973ec21e"] },
+        { "texto": "También plantea un gravamen a los vuelos privados y una tasa finalista sobre los billetes de avión.", "apoyos": ["c-2f51500650"] }
+      ]
+    }
+  ]
+}

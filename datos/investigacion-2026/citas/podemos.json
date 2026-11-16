@@ -1,15 +1,16 @@
 {
   "partido": "podemos",
-  "actualizado": "2026-11-11",
+  "actualizado": "2026-11-16",
   "fuentes": [
-    "podemos-documento-politico-2025",
-    null
+    "podemos-documento-politico-2025"
   ],
   "resumen": {
-    "vigentes": 160,
-    "medidas": 100,
-    "medidas_concretas": 66,
-    "posiciones": 60,
+    "vigentes": 169,
+    "medidas": 104,
+    "medidas_concretas": 70,
+    "posiciones": 65,
+    "de_programa": 104,
+    "declaraciones": 65,
     "exactas": 104,
     "normalizadas": 0,
     "sustituidas": 0
@@ -4011,6 +4012,211 @@
       "verificacion": "fuente-abierta",
       "estado": "vigente",
       "recogida": "2026-11-11"
+    },
+    {
+      "id": "c-39afd65437",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Proponemos crear un nuevo gran impuesto a la vivienda vacía para que las personas que tienen vivienda vacía paguen el cuádruple de lo que pagan ahora por esas viviendas. No puede ser que en nuestro país haya muchísimas personas, millones, que tienen serias dificultades para encontrar una vivienda en alquiler, que no tienen casa, y que haya, mientras tanto, prácticamente cuatro millones de vivienda vacía en nuestro país",
+      "idioma": "es",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/16/irene-montero-defiende-intervenir-el-mercado-de-la-vivienda-para-bajar-precios-nos-habilita-la-constitucion/",
+      "medio": "Infobae (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "candidata de Podemos a la presidencia del Gobierno, número 1 por Madrid y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-16",
+      "nota": "Impuesto que cuadruplica la tributación de viviendas vacías",
+      "temas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-287f4b7e90",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Hemos propuesto bajar el precio de los alquileres un 40 por ciento, expropiar más de 650.000 viviendas a los fondos buitre para ponerlas en alquiler social, hemos propuesto que se prohíba la especulación, que solo se puedan comprar casas para vivir, prohibir los pisos turísticos",
+      "idioma": "es",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/16/irene-montero-defiende-intervenir-el-mercado-de-la-vivienda-para-bajar-precios-nos-habilita-la-constitucion/",
+      "medio": "Infobae (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "candidata de Podemos a la presidencia del Gobierno, número 1 por Madrid y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-16",
+      "nota": "Rebaja del 40 % del alquiler, expropiaciones y veto turístico",
+      "temas": [
+        "vivienda"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-a7e80f45dc",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Un real decreto. Es que los precios de los alquileres podrían estar un 40% más bajos mañana mismo con un real decreto.",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/irene-montero-si-votos-izquierdas-sirven-no-cambie-pp-vox-han-ganado-igual_1_13661608.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "candidata de Podemos a la presidencia del Gobierno, número 1 por Madrid y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-14",
+      "nota": "Instrumento propuesto para bajar el alquiler: real decreto",
+      "temas": [
+        "vivienda"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-00d0fa2b77",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Nosotras sí nos vamos a atrever a ir a Europa a explicarles con mucha tranquilidad que a nosotras nos han elegido para garantizar precios justos de la vivienda y no para hacer caso a los negocios de quienes defienden, en ese caso, en la Comisión Europea (CE)",
+      "idioma": "es",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/16/irene-montero-defiende-intervenir-el-mercado-de-la-vivienda-para-bajar-precios-nos-habilita-la-constitucion/",
+      "medio": "Infobae (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "candidata de Podemos a la presidencia del Gobierno, número 1 por Madrid y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-16",
+      "nota": "Defendería ante la UE intervenir el mercado de vivienda",
+      "temas": [
+        "politica-exterior-y-defensa",
+        "vivienda"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-34eb9b8e83",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Claro, es que el dinero que se destina a armas no se está destinando a escuelas, a hospitales o a la lucha contra la violencia machista. Los últimos Presupuestos en vigor, que son del 2023, contienen 12.000 millones de euros de gasto militar. Este Gobierno, sin una sola votación democrática en el Parlamento, lo ha incrementado hasta 36.000 millones.",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/irene-montero-si-votos-izquierdas-sirven-no-cambie-pp-vox-han-ganado-igual_1_13661608.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "candidata de Podemos a la presidencia del Gobierno, número 1 por Madrid y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-14",
+      "nota": "Responde que reducir gasto militar es condición para la investidura",
+      "temas": [
+        "politica-exterior-y-defensa",
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-2058d9ff44",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "2.200 millones en armas, 4.200 en el siguiente consejo de ministros, 11.900 en el siguiente consejo de ministros. Nosotras pensamos que ese dinero tiene que servir para garantizar pensiones, para subir las pensiones no contributivas de muchas mujeres, como las que viven en Elche y sostienen esa economía en Elche, y para tener empleos dignos y salarios dignos y condiciones de vida dignas, también precios justos de los alimentos y, por supuesto, para atajar la crisis de vivienda",
+      "idioma": "es",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/16/irene-montero-defiende-intervenir-el-mercado-de-la-vivienda-para-bajar-precios-nos-habilita-la-constitucion/",
+      "medio": "Infobae (Europa Press)",
+      "quien": "Irene Montero",
+      "cargo": "candidata de Podemos a la presidencia del Gobierno, número 1 por Madrid y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-16",
+      "nota": "Destinar el aumento del gasto militar a pensiones no contributivas",
+      "temas": [
+        "pensiones",
+        "politica-exterior-y-defensa",
+        "empleo"
+      ],
+      "verificacion": "fuente-abierta-corregida",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-a08cd86e0f",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Yo voy a pelear para que haya un Gobierno que baje el precio de los alquileres, que cree un supermercado público, expropie a los fondos buitre o ponga un impuestazo a las grandes fortunas. Un Gobierno con el que los de arriba no se sientan cómodos. Ojalá eso pueda ser un gobierno de izquierdas.",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/irene-montero-si-votos-izquierdas-sirven-no-cambie-pp-vox-han-ganado-igual_1_13661608.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "candidata de Podemos a la presidencia del Gobierno, número 1 por Madrid y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-14",
+      "nota": "Respuesta sobre volver a compartir Gobierno con el PSOE",
+      "temas": [
+        "democracia-e-instituciones",
+        "vivienda",
+        "impuestos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-42642e1514",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "España necesita una izquierda fuerte, y esa izquierda, que obviamente va a tener que negociar con todo el mundo, y especialmente con el PSOE, precisamente para poder hacerlo no puede ir en sus mismas listas.",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/irene-montero-si-votos-izquierdas-sirven-no-cambie-pp-vox-han-ganado-igual_1_13661608.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "candidata de Podemos a la presidencia del Gobierno, número 1 por Madrid y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-14",
+      "nota": "Negociar con el PSOE sin concurrir en listas conjuntas",
+      "temas": [
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-552f70354e",
+      "partido": "podemos",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Y claro que es posible tener un salario mínimo de 1.800 euros y trabajar 30 horas semanales. No basta con subir los salarios, hay que reducir las horas de trabajo para que la gente tenga tiempo para vivir, para cuidar a los suyos, para hacerse cargo de su casa, para irse de vacaciones, para acceder a la cultura e ir al cine o leer un libro.",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/politica/irene-montero-si-votos-izquierdas-sirven-no-cambie-pp-vox-han-ganado-igual_1_13661608.html",
+      "medio": "elDiario.es",
+      "quien": "Irene Montero",
+      "cargo": "candidata de Podemos a la presidencia del Gobierno, número 1 por Madrid y eurodiputada",
+      "partido_de_quien": "Podemos",
+      "fecha": "2026-11-14",
+      "nota": "Salario mínimo de 1.800 euros y jornada de 30 horas",
+      "temas": [
+        "empleo"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
     }
   ]
 }

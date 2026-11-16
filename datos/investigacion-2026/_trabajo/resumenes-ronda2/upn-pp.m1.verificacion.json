@@ -1,0 +1,96 @@
+{
+  "revisiones": [
+    {
+      "tema": "vivienda",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: «tolerancia cero con la ocupación de viviendas» recorta la cita c-a4dfb7d69e, que habla de «ocupas» y de «inquiocupas» (inquilinos, no solo ocupación de viviendas vacías). Se atribuyen los términos del partido entre comillas en lugar de reducirlos a «ocupación»."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende la propiedad privada y más seguridad jurídica para los pequeños propietarios que alquilan, compatible con proteger a las familias vulnerables.", "apoyos": ["c-73305631ac", "c-a4dfb7d69e", "c-94ec82e836"] },
+        { "texto": "Rechaza las medidas de intervención del alquiler que, según el partido, provocan «fuga de contratos», y su presidenta pidió «tolerancia cero» con lo que llama «ocupas e inquiocupas».", "apoyos": ["c-94e69f1b32", "c-94ec82e836", "c-a4dfb7d69e"] },
+        { "texto": "En el Parlamento de Navarra plantea suelo preparado, urbanización y construcción de vivienda protegida.", "apoyos": ["c-cf09446b41"] },
+        { "texto": "Su presidenta propuso incentivos fiscales en la cuenta ahorro vivienda para los jóvenes.", "apoyos": ["c-69394c0188"] }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 4: «eximir del IRPF» añade un dato que no está en c-d8706271ff, que dice solo que esos jóvenes «no pagarán impuestos». Se ajusta a la cita y se completa «ligada a la actividad y al empleo» como dice c-7a48be6056."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Sus candidatos defienden que se pueden bajar los impuestos y tener mejores servicios públicos.", "apoyos": ["c-e7d2b4db09", "c-73577f0339", "c-20e51991e8"] },
+        { "texto": "El partido defiende deflactar automáticamente el IRPF cada año cuando el IPC supere el 2 %.", "apoyos": ["c-010cf4c5fc"] },
+        { "texto": "Su presidenta pidió rebajar el IVA de los alimentos básicos, la luz y el gas, y que el Estado renuncie temporalmente a parte de la recaudación por carburantes.", "apoyos": ["c-2bc37ab7e6", "c-cc50773855", "c-6d2ffdbca5"] },
+        { "texto": "Para Navarra propuso una fiscalidad rural ligada a la actividad y al empleo, y que los menores de 30 años con ingresos inferiores a 30.000 euros no paguen impuestos.", "apoyos": ["c-d8706271ff", "c-7a48be6056"] }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "El partido propuso en el Congreso fijar una misma jornada lectiva para los docentes: 23 horas semanales en infantil, primaria y especial, y 18 en el resto.", "apoyos": ["c-a0ade02f5b"] },
+        { "texto": "Defiende plazas de escuela infantil gratuitas para todas las familias, con independencia de la titularidad del centro elegido.", "apoyos": ["c-a8f0245d41", "c-afbdf67c86"] },
+        { "texto": "Su presidenta criticó la LOMLOE, a la que atribuye eliminar contenidos del currículo y consagrar «el aprobado general» en detrimento de «la cultura del esfuerzo».", "apoyos": ["c-1be1c80edf"] }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende plazas de escuela infantil sin coste para todas las familias, con independencia de la titularidad del centro, y un alivio fiscal para ellas.", "apoyos": ["c-a8f0245d41", "c-afbdf67c86"] },
+        { "texto": "Para la Renta Garantizada de Navarra propone exigir situación administrativa regular y no tener antecedentes por ciertos delitos graves, con una duración ordinaria de tres años y cuantía decreciente.", "apoyos": ["c-271261436c"] },
+        { "texto": "Como candidata foral, su presidenta se comprometió a eliminar la lista de espera en las valoraciones de dependencia y discapacidad.", "apoyos": ["c-43c63cfd12"] },
+        { "texto": "También pide que las ayudas a los enfermos de ELA no dependan del lugar de residencia.", "apoyos": ["c-fd63678963"] }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 4: «su presidenta se comprometió a votar» atribuye a ella un voto que la cita c-7b2d50a208 atribuye al partido («UPN se compromete a votar a favor»).",
+        "Frase 4: «conservando libertad de voto» amplía el alcance; la cita limita esa libertad de voto a «defender los intereses de Navarra»."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide reformar instituciones de control como el CGPJ, el Tribunal Constitucional y el Tribunal de Cuentas para que sean independientes del Gobierno y de los partidos.", "apoyos": ["c-a91349d1ec"] },
+        { "texto": "Plantea suprimir las diputaciones provinciales, salvo las forales vascas, reformar el Senado y suprimir la discriminación de la mujer en la Corona.", "apoyos": ["c-75656d6907", "c-2de6e534f8"] },
+        { "texto": "Sus estatutos prevén la expulsión inmediata de los afiliados condenados por corrupción.", "apoyos": ["c-b14b497f31"] },
+        { "texto": "Se compromete a votar a favor de una posible investidura de Feijóo a cambio del «blindaje» del régimen foral, con libertad de voto para defender los intereses de Navarra.", "apoyos": ["c-7b2d50a208"] }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende «blindar» el régimen foral de Navarra y el Convenio Económico, y apoya eliminar la disposición transitoria cuarta de la Constitución en una eventual reforma.", "apoyos": ["c-f98f04418d", "c-e54b7ce254", "c-7b2d50a208", "c-05072f4670"] },
+        { "texto": "Su cabeza de lista al Senado rechazó que las decisiones del Parlamento navarro pasen a tomarse en un órgano compartido con las provincias vascas.", "apoyos": ["c-ec5ba9b035"] },
+        { "texto": "Plantea llevar a la Constitución el mapa autonómico, el reparto de competencias y el sistema de financiación.", "apoyos": ["c-c4c4999f7c"] },
+        { "texto": "Su presidenta pidió transferir a Navarra la gestión del aeropuerto de Noáin e incluirla, mediante el Convenio, en la condonación de deuda autonómica.", "apoyos": ["c-d60e04bbf6", "c-3197735340"] }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: «el acuerdo de coalición se compromete a impulsar» rebaja la cita c-c6eef6eb48, que dice «se impulsará y garantizará la ejecución de las inversiones del Estado»; además un acuerdo no es sujeto de un compromiso. Se reescribe.",
+        "Frase 2: «Pide presupuesto» pierde el carácter «urgente» que da c-e7ccaf47cd a las consignaciones presupuestarias."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "El acuerdo de coalición recoge el compromiso de impulsar y garantizar las inversiones estatales en Navarra, como la segunda fase del Canal de Navarra y el aeropuerto de Pamplona.", "apoyos": ["c-c6eef6eb48", "c-6facd1ca60"] },
+        { "texto": "Pide con urgencia presupuesto para completar el corredor de alta velocidad entre Zaragoza, Pamplona y el País Vasco, con conexión a la Y vasca.", "apoyos": ["c-e7ccaf47cd", "c-c6eef6eb48", "c-bbb352c205"] },
+        { "texto": "También defiende que la gestión del aeropuerto de Noáin pase a Navarra.", "apoyos": ["c-d60e04bbf6"] }
+      ]
+    }
+  ]
+}

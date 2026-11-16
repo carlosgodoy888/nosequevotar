@@ -1,0 +1,47 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la crónica de Tarragona Ràdio del mitin de inicio de campaña en Tarragona (jueves 12-11-2026; publicada el 13-11), atribuido a Gabriel Rufián, «cap de llista d'ERC a les eleccions del 29-N». La propia crónica la presenta como propuesta en defensa del derecho a la vivienda. Tema y fecha correctos.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "comprobada",
+      "motivo": "Frase literal entre comillas en ElNacional.cat (publicada 13-11-2026), dicha por Gabriel Rufián en el mitin de Palma de ese viernes, junto a «el miedo tiene que cambiar de bando y también los impuestos». Postura fiscal clara; tema impuestos correcto.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en elDiario.es (13-11-2026, mitin de Ara Més-Front Ampli en Palma), atribuido a Gabriel Rufián, «cabeza de lista de ERC al Congreso». Es una postura sobre gobernabilidad tras el 29N; el párrafo es visible en la página, no detrás de muro.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "rechazada",
+      "motivo": "La frase está literal en Crónica Global (16-11-2026, desayuno de Nueva Economía Fórum) y atribuida a Rufián, pero es una aspiración personal a presidir la Generalitat después de Junqueras, sobre futuras alianzas en el Parlament de Catalunya, que no se elige el 29N. No es una propuesta ni un compromiso de pactos para estas elecciones generales, ni una postura sobre democracia e instituciones u organización territorial. La crónica dice que la pronunció «entre murmullos» como cierre de una intervención crítica con su propio partido y con la prensa.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 5,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en ElNacional.cat (12-11-2026, mitin de Tarragona), atribuido a Rufián («el de Santa Coloma de Gramenet»), presentado como tema de seguridad que quiere tratar en campaña. Fecha, autor y tema correctos.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 6,
+      "veredicto": "corregida",
+      "motivo": "Texto literal entre comillas en elDiario.es (12-11-2026, mitin de Tarragona), atribuido a Rufián y visible en la página. Solo se corrige la nota: la frase no habla de traspaso de gestión. Lo que defiende es más inversión en Rodalies, que según el mismo párrafo consiste en «obligar al PSOE a que ponga más pasta», y no cambios simbólicos.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Pide más inversión en Rodalies en lugar de cambios simbólicos en el servicio"
+    }
+  ],
+  "notas": "Robots.txt revisados: tarragonaradio.cat, elnacional.cat, eldiario.es y cronicaglobal.elespanol.com no bloquean a agentes de IA. Se respetó el Crawl-delay de 600 s de tarragonaradio.cat. En elDiario.es los párrafos citados están visibles en el HTML de la página, sin muro de pago. En Crónica Global, isAccessibleForFree=true. Cargo: las fuentes llaman a Rufián cabeza de lista de ERC al Congreso (cap de llista) y Crónica Global, portavoz parlamentario de ERC; se mantiene el cargo propuesto."
+}

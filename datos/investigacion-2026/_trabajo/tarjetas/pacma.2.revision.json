@@ -1,0 +1,226 @@
+{
+  "partido": "pacma",
+  "lote": "pacma.2",
+  "temas": [
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": []
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-ecc8d5c80f",
+          "motivo": "Medida propia del tema que representa su línea principal en justicia, la persecución penal del maltrato animal: unidad especializada en protección animal en la Fiscalía General del Estado; no delata a quien la firma.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-87f004ede2",
+          "motivo": "Primer punto del resumen: suprimir la multa como alternativa a la prisión por maltrato animal y elevar a más de cinco años el tipo agravado. Es de medio-ambiente-y-energia, pero allí no se usa (lote pacma.1) y aquí solo hay dos medidas propias.",
+          "texto": "Son necesarios cambios contundentes y efectivos para erradicar la terrible lacra del maltrato animal en nuestro país. Por todo ello, trabajaremos por la supresión de la pena de multa como alternativa a la pena de prisión, así como por un aumento de la pena de prisión que, en el tipo agravado, esté por encima de los cinco años.",
+          "cambio": "Se ha quitado «desde PACMA » antes de «trabajaremos»."
+        },
+        {
+          "id": "c-6eb7fa457e",
+          "motivo": "La otra medida propia del tema: unidades especializadas en protección animal en las Fuerzas y Cuerpos de Seguridad del Estado (punto 2 del resumen).",
+          "texto": "Defendemos la necesidad de que los Cuerpos y Fuerzas de Seguridad del Estado cuenten con unidades especializadas en el bienestar y la protección de los animales. Estas unidades estarán integradas por agentes instruidos en bienestar y protección animal, incluyendo el adecuado manejo de los animales, y deberán estar equipadas con los medios y recursos materiales necesarios, como armas anestésicas y dardos tranquilizantes.",
+          "cambio": "Se ha quitado «Desde PACMA » al inicio y, en consecuencia, «defendemos» pasa a «Defendemos»."
+        }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "corregido",
+      "problemas": [
+        "c-6969018a95 (ley de conciliación) es de empleo y ya está elegida en empleo en el lote pacma.1: no puede ir en dos temas.",
+        "c-1c991aa716 (plazas públicas de 0 a 3 años) es de educacion y ya está elegida en educacion en el lote pacma.1: no puede ir en dos temas.",
+        "Se sustituyen por c-7f2225ed7f (ayuda a familias vulnerables, la más cercana al punto 2 del resumen, va primera) y c-1cfc7f0f14 (protección de la infancia), libres en ambos lotes. El punto 3 del resumen (menores y tauromaquia, animales en albergues y residencias) queda sin medida porque c-b9ab667506 va en ciencia-cultura-y-digital y c-814c9938be en transporte."
+      ],
+      "elegidas": [
+        {
+          "id": "c-7f2225ed7f",
+          "motivo": "Punto 2 del resumen, apoyo público a las familias con ayudas: transporte y menú escolar gratuitos para los niños de familias vulnerables; corta, concreta y no delata. Es de educacion, pero allí no se usa (lote pacma.1).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-6a9ca9482d",
+          "motivo": "Única medida propia del tema: plan nacional de formación, empleo y accesibilidad universal para las personas con discapacidad.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-1cfc7f0f14",
+          "motivo": "Protección de la infancia: tratamiento y asistencia específicos, con asistencia letrada propia, para los hijos de las víctimas de violencia machista. Es de igualdad-y-derechos, donde no se elige.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-7f40434366",
+          "motivo": "Primer punto del resumen, aliviar el gasto veterinario de las familias: deducción en el IRPF de hasta el 10 % con un máximo de 500 euros y límite de renta; la de rebaja del IVA veterinario pasa de 80 palabras.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-1bc45a112e",
+          "motivo": "Segunda línea: impuesto climático a los productos de origen animal según sus emisiones.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-357cf5d017",
+          "motivo": "Mecanismo distinto de su fiscalidad alimentaria, explícito en el resumen: más IVA a los lácteos animales y menos a los vegetales.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-de3ff7ab29",
+          "motivo": "La violencia contra las mujeres concentra casi todas sus medidas del tema y las unidades policiales 24 horas son lo primero que cita el resumen en esa línea; corta y concreta.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-7c75bce5ef",
+          "motivo": "Primer punto del resumen: Pacto de Estado por la Igualdad en el Empleo contra la discriminación laboral y salarial.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-d81be7fb5d",
+          "motivo": "Parte propia de su postura contra la violencia machista, citada en el resumen: admitir a los animales de las víctimas en casas de acogida y pisos tutelados.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-2492c5b452",
+          "motivo": "Su única propuesta en el tema y todo su resumen: reformar la Constitución para blindar las pensiones públicas.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "corregido",
+      "problemas": [
+        "c-bdbe52c0e6 (teletrabajo) es de empleo y ya está elegida en empleo en el lote pacma.1: no puede ir en dos temas.",
+        "Sin ella, la medida que mejor representa por sí sola su postura es la norma que obliga a adaptar las infraestructuras para proteger a la fauna (pasa a primera); el acceso de animales al transporte público pasa a segunda y entra c-ac34e10acb (coworking públicos para reducir trayectos), la única medida libre de la línea de reducir el tráfico rodado. Sigue sin haber medida para el ferrocarril."
+      ],
+      "elegidas": [
+        {
+          "id": "c-e3b92b9ef1",
+          "motivo": "Punto 3 del resumen y la propuesta de transporte más desarrollada que queda: una norma que obligue a adaptar las infraestructuras públicas y privadas para reducir la mortalidad de la fauna silvestre. No hay alternativa equivalente que no nombre al partido.",
+          "texto": "Impulsaremos el desarrollo de una norma que aborde las distintas problemáticas derivadas de las diferentes infraestructuras, que prevea medidas de protección de la fauna silvestre y establezca la obligatoriedad de adoptarlas, ya se trate de infraestructuras de titularidad pública como privada, adaptando las existentes y exigiendo que las nuevas las incorporen desde su construcción o instalación, con la finalidad de evitar o, al menos, reducir la mortalidad de la fauna silvestre.",
+          "cambio": "Se ha quitado «Desde PACMA » al inicio y, en consecuencia, «impulsaremos» pasa a «Impulsaremos»."
+        },
+        {
+          "id": "c-814c9938be",
+          "motivo": "Punto 4 del resumen: permitir y regular el acceso de los animales al transporte público. Es de medio-ambiente-y-energia, donde no se usa.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-ac34e10acb",
+          "motivo": "Punto 1 del resumen, reducir el tráfico rodado: centros de trabajo intermedios en forma de coworking públicos para acortar trayectos. Es de empleo, donde no se usa.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-d25e919093",
+          "motivo": "Primer punto del resumen: que los ayuntamientos se hagan cargo de las colonias de gatos con subvenciones estatales suficientes y estables. No se usa en medio-ambiente-y-energia.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-4b368d609a",
+          "motivo": "Segundo punto: colaboración entre comunidades autónomas para elaborar libros de texto de copia libre. No se usa en educacion.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-2bd04b472f",
+          "motivo": "Primer punto del resumen y centro de su apartado «NO a las macrogranjas»: no autorizar nuevas explotaciones ganaderas ni ampliaciones; corta y no delata.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-ca329f4957",
+          "motivo": "Punto 3 del resumen: reconvertir la industria pesquera y retirarle las subvenciones; no hay otra medida de esa línea sin el nombre del partido.",
+          "texto": "Apostamos también por una reconversión de la industria pesquera hacia otros sectores, y el cese de las subvenciones al sector.",
+          "cambio": "Se ha quitado «Desde PACMA » al inicio y, en consecuencia, «apostamos» pasa a «Apostamos»."
+        },
+        {
+          "id": "c-ae0515519e",
+          "motivo": "La otra parte del punto 3: prohibir el glifosato y otros herbicidas y plaguicidas peligrosos; única medida de esa línea.",
+          "texto": "Se quiere impulsar la prohibición del uso del glifosato, así como el de otros herbicidas y plaguicidas peligrosos.",
+          "cambio": "Se ha sustituido «PACMA» por «Se»."
+        }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-b9ab667506",
+          "motivo": "Su línea principal es acabar con los espectáculos con animales: prohibir que los menores asistan a la tauromaquia y la caza y avanzar hacia la supresión de las excepciones legales al maltrato en circos y delfinarios; enlaza con su campaña judicial contra un festejo. La más representativa (c-7ef469db34) pasa de 80 palabras.",
+          "texto": "Exigimos proteger a la infancia de la violencia de la tauromaquia y la caza, prohibiendo su asistencia y participación en estas actividades en las que se ejerce violencia extrema contra los animales, y avanzar hacia la supresión de las excepciones legales al maltrato y sufrimiento de los propios animales, permitidos también en otros espectáculos, como circos y delfinarios.",
+          "cambio": "Se ha quitado «Desde el Partido Animalista » al inicio y, en consecuencia, «exigimos» pasa a «Exigimos»."
+        },
+        {
+          "id": "c-7cfc6cb19b",
+          "motivo": "Punto 3 del resumen, acabar con la experimentación animal: más financiación para los métodos sustitutivos.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-a6cc4588ef",
+          "motivo": "Punto 4 del resumen, la ciencia: libre acceso a los resultados de la investigación financiada con fondos públicos.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "revisiones": [
+    {
+      "tema": "vivienda",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: «empezando por los de más de 1.000» no decía de qué (viviendas) ni que la expropiación baja después hasta los tenedores de 50 inmuebles. Se precisa.",
+        "Representatividad: faltaba el control del precio del alquiler (el programa da a los ayuntamientos competencia para declarar zonas tensionadas y controlar precios; la candidata habla de «topar» el alquiler), una línea central del tema. Se añade a la frase 3. El gravamen del 10% desde la tercera vivienda se mantiene aquí y en impuestos porque el programa lo incluye en su apartado de vivienda.",
+        "«Fondos buitre» queda correctamente entre comillas y atribuido."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone destinar el 1% del PIB anual a vivienda protegida y expropiar a grandes fondos y tenedores, desde los de más de 1.000 viviendas hasta los de 50.",
+          "apoyos": ["c-2b7dac4194", "c-b6ac8300a9", "c-5ba94bb88e", "c-2902dd94c8"]
+        },
+        {
+          "texto": "Quiere prohibir que sociedades especulativas y lo que llama «fondos buitre» compren viviendas, y vetar temporalmente la compra a no residentes en zonas tensionadas.",
+          "apoyos": ["c-0dedad5975", "c-3e6166b8da", "c-30aa6cd0b6", "c-9f1a9b7b51"]
+        },
+        {
+          "texto": "Defiende el alquiler indefinido como régimen ordinario, que los ayuntamientos declaren zonas tensionadas para controlar precios y prohibir los desahucios sin alternativa habitacional.",
+          "apoyos": ["c-96bd1e49f0", "c-c7c9af6199", "c-5ba94bb88e", "c-f555b5424b", "c-b540f875e9"]
+        },
+        {
+          "texto": "Plantea un gravamen del 10% del valor catastral desde la tercera vivienda, con excepciones.",
+          "apoyos": ["c-17f51a422b", "c-fab3feb38d"]
+        }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: «acceder al cese de actividad» es impreciso; el programa habla de acceder a la prestación por cese de actividad acreditando solo un año de pérdidas. Se corrige.",
+        "El resto es fiel al programa y recoge sus líneas principales (jornada de 32 horas, SMI al 60% del salario medio, despido, autónomos, participación en consejos). Se ajustan palabras para no pasar de 90."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone reducir la jornada a cuatro días y 32 horas semanales sin bajar el sueldo y garantizar por ley un salario mínimo del 60% del salario medio.",
+          "apoyos": ["c-df3c2a2d9f", "c-bf44449c97"]
+        },
+        {
+          "texto": "Quiere recuperar la indemnización por despido de 45 días por año trabajado y los salarios de tramitación.",
+          "apoyos": ["c-fa57433d3a"]
+        },
+        {
+          "texto": "Para autónomos plantea exigir solo un año de pérdidas para la prestación por cese de actividad y bonificar la cuota desde el primer día de baja por enfermedad grave.",
+          "apoyos": ["c-37fc5e078b", "c-ce1e862bff"]
+        },
+        {
+          "texto": "Defiende además la participación directa de los trabajadores en los consejos de administración de las grandes empresas.",
+          "apoyos": ["c-c603a07b14"]
+        }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: la frase 4 se dedicaba a una única declaración de la candidata (gravar beneficios extraordinarios para «blindar» las pensiones) y dejaba fuera una línea del programa con cuatro citas: reconocer en la pensión los periodos de cuidados y reforzar el complemento contra la brecha de género. Con el orden de peso, el programa va antes; se sustituye.",
+        "Frase 1: el programa precisa que los coeficientes reductores se eliminan en la jubilación anticipada voluntaria tras 40 años trabajados; se añade «voluntaria»."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone devolver la jubilación a los 65 años y eliminar los coeficientes reductores en la jubilación anticipada voluntaria tras 40 años trabajados.",
+          "apoyos": ["c-55aa4571a3", "c-5ea9a59330"]
+        },
+        {
+          "texto": "Quiere garantizar en la Constitución la revalorización de las pensiones según el coste de la vida y subir las no contributivas hasta 800 euros.",
+          "apoyos": ["c-baa1a1fdce", "c-e5b40bed31", "c-f3baf7d696", "c-23961cba48"]
+        },
+        {
+          "texto": "Plantea eliminar el tope de la base máxima de cotización y suprimir las desgravaciones fiscales a los planes de pensiones privados.",
+          "apoyos": ["c-4ab14bc354", "c-794ba2bb62"]
+        },
+        {
+          "texto": "También quiere reconocer en la pensión los periodos dedicados a cuidados y reforzar el complemento para reducir la brecha de género.",
+          "apoyos": ["c-8d6f31c717", "c-240cbee607", "c-a81b2903b9"]
+        }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: decir que las rentas inmobiliarias tributarán «con la misma progresividad» que las del trabajo amplía lo que dice el programa, que solo propone quitarles deducciones de las que no disfrutan las rentas del trabajo (la progresividad idéntica se dice de las rentas financieras). Se reformula.",
+        "El concierto económico o la recaudación directa por la Generalitat Valenciana se deja fuera por ser de ámbito autonómico y por espacio; el resto es fiel y representativo."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone mantener y ampliar el impuesto a las grandes fortunas y crear otro sobre el beneficio de las empresas oligopolísticas.",
+          "apoyos": ["c-28d77ce92e", "c-ce713ad671"]
+        },
+        {
+          "texto": "Quiere quitar ventajas fiscales a las rentas financieras e inmobiliarias frente a las del trabajo y deflactar el IRPF de las rentas inferiores a 30.000 euros.",
+          "apoyos": ["c-49c518ec6b", "c-c730d113b4", "c-30a7060e1a"]
+        },
+        {
+          "texto": "Plantea un gravamen del 10% del valor catastral desde la tercera vivienda y suprimir ventajas fiscales de las SOCIMI y la aviación.",
+          "apoyos": ["c-17f51a422b", "c-0d52394fbe", "c-2b167a6817", "c-fab3feb38d"]
+        },
+        {
+          "texto": "Propone bajar el IVA de productos de salud, higiene femenina y cultura, y subirlo a los de lujo y contaminantes.",
+          "apoyos": ["c-2f0a772399", "c-c3c8481a41"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "partido": "bng",
+  "lote": "bng.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-64de6273ec", "motivo": "Es la primera línea del resumen (topar por ley el alquiler, prohibir desahucios de personas vulnerables y suspender lanzamientos sin alternativa) y la que Néstor Rego pone en cabeza en campaña; las tres acciones son de la misma línea de protección de inquilinos y se entienden como una sola propuesta.", "texto": null, "cambio": null },
+        { "id": "c-35924ef97c", "motivo": "Cubre la segunda línea, el parque público de alquiler permanente, con la cifra del 3% de los PGE que el resumen recoge.", "texto": null, "cambio": null },
+        { "id": "c-8ede1ecfeb", "motivo": "Cubre la vivienda vacía en manos de grandes propietarios (alquiler forzoso, expropiación temporal, canon), lo que más repiten en campaña Ana Pontón y Néstor Rego; 64 palabras, dentro del límite.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [
+        "La derogación de la reforma laboral y los 45 días de indemnización (primera línea del resumen) no tienen medida válida: c-09ee5eef2e termina en «entre otros derechos:» y c-ccae74ee3f es un elemento de lista sin verbo. La elección cubre bien las demás líneas.",
+        "c-9a8e74aedd junta varias acciones (ETT, agencias de colocación, subcontratación, falsos autónomos), pero todas van contra la intermediación y la precariedad y la línea de eliminar las ETT está en el resumen; se mantiene."
+      ],
+      "elegidas": [
+        { "id": "c-64fbc8af09", "motivo": "La jornada de 35 horas sin rebaja salarial es la medida que más destaca en campaña (Rego recuerda su proposición de ley) y es línea principal del resumen.", "texto": null, "cambio": null },
+        { "id": "c-f0040e3a5f", "motivo": "Cubre la línea salarial con una referencia concreta: SMI al 60% del salario medio.", "texto": null, "cambio": null },
+        { "id": "c-9a8e74aedd", "motivo": "Cubre la tercera línea del resumen, contra la precariedad: eliminar las ETT y las agencias privadas de colocación.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [
+        "El tope a la gasolina y el diésel, que destaca Rego y figura en el resumen, está asignado al tema de medio ambiente y energía (c-61c22158f6) y no puede usarse aquí."
+      ],
+      "elegidas": [
+        { "id": "c-1386ec87d0", "motivo": "Recoge las dos primeras líneas: control público gallego de los sectores estratégicos y la Corporación Industrial Pública Gallega con las participaciones del Estado.", "texto": null, "cambio": null },
+        { "id": "c-4c8cac8b7c", "motivo": "Representa la reforma minera, a la que el programa dedica más medidas en el tema, con la cifra de participación pública mínima del 20%.", "texto": null, "cambio": null },
+        { "id": "c-f308d61211", "motivo": "Cubre la línea del coste de la vida: regular por ley los precios de los alimentos básicos.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-95cc790937", "motivo": "Representa la línea central de una sanidad con titularidad, financiación, gestión y provisión exclusivamente públicas, con una acción concreta; la medida de financiación (c-e5aaaa7c8e) mezcla varias acciones.", "texto": null, "cambio": null },
+        { "id": "c-f1218b5409", "motivo": "Cubre la segunda línea con una medida clara: acabar con el copago farmacéutico.", "texto": null, "cambio": null },
+        { "id": "c-99720ee22c", "motivo": "Cubre la tercera línea, que Galicia asuma plena capacidad sobre su sanidad, con la formación MIR y más plazas.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [
+        "La regularización administrativa, primera línea del resumen, no tiene medida entre las candidatas."
+      ],
+      "elegidas": [
+        { "id": "c-bbdbb5f15e", "motivo": "Representa la línea de derechos y garantías (cierre de los CIE, fin de las devoluciones en caliente, respeto al asilo), la más central de las disponibles.", "texto": null, "cambio": null },
+        { "id": "c-cceebf8c54", "motivo": "Cubre la línea de integración: agilizar la homologación de títulos extranjeros.", "texto": null, "cambio": null },
+        { "id": "c-6fadfd1ae1", "motivo": "Cubre la cuarta línea del resumen: admitir el conocimiento del gallego como criterio para la nacionalidad; el «también» inicial no impide entenderla.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [
+        "El aviso «nombra a otro partido (pp)» de c-09fe06c5d8 es un falso positivo: el texto no nombra a ningún partido. Su «En este sentido» se entiende por la primera frase."
+      ],
+      "elegidas": [
+        { "id": "c-efbaaa3f44", "motivo": "Encabeza la reforma electoral con reparto proporcional directo, primera línea del resumen, y se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-09fe06c5d8", "motivo": "Cubre la segunda línea: referendos vinculantes, incluido el de autodeterminación.", "texto": null, "cambio": null },
+        { "id": "c-0aa88206ec", "motivo": "Cubre la línea contra la corrupción con una medida concreta: regulación estricta de las puertas giratorias y de las incompatibilidades de diputados y senadores.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-519bf7582c", "motivo": "Resume la primera línea: enseñanza pública, laica, coeducativa y gratuita de 0 a 18 años con una única red pública; 60 palabras, dentro del límite.", "texto": null, "cambio": null },
+        { "id": "c-fc6d56906e", "motivo": "Cubre la segunda línea, el traspaso pleno de las competencias de enseñanza a Galicia, y dice claramente de qué competencias habla.", "texto": null, "cambio": null },
+        { "id": "c-9f78b1b0f9", "motivo": "Cubre la línea de financiación con una cifra concreta: al menos el 7% del PIB.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [
+        "El precio máximo de la gasolina y el diésel (c-61c22158f6) es lo que destaca Rego en campaña, pero no está en el resumen de este tema; sustituir el eucalipto por ella dejaría sin representar la línea de protección de la naturaleza, así que no es claramente mejor.",
+        "La rebaja del IVA de la energía al 5% no tiene medida entre las candidatas."
+      ],
+      "elegidas": [
+        { "id": "c-00acb14019", "motivo": "La tarifa eléctrica gallega es la medida más concreta y que se entiende sola de la primera línea (poder sobre la energía para abaratar la luz); c-78e390b56e empieza con «Esto es básico» y no se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-ab67f6de9e", "motivo": "Cubre el rechazo a la eólica marina en el litoral gallego, tercera línea del resumen; 72 palabras, dentro del límite.", "texto": null, "cambio": null },
+        { "id": "c-c58f598fe4", "motivo": "Cubre la línea de protección de la naturaleza: catalogar el eucalipto como especie invasora y limitar su cultivo.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [
+        "El rechazo al aumento del gasto militar, que destaca Rego en campaña, solo tiene c-fd971865ae, que dice «en esta materia» y no se entiende sola."
+      ],
+      "elegidas": [
+        { "id": "c-f72f14988f", "motivo": "La salida de la OTAN es la primera línea del resumen y resume su posición antimilitarista.", "texto": null, "cambio": null },
+        { "id": "c-4c350ae9c5", "motivo": "Cubre la tercera línea: salida negociada en Ucrania y fin del envío de armas.", "texto": null, "cambio": null },
+        { "id": "c-410126cced", "motivo": "Cubre la cuarta línea con una acción concreta: referéndum de autodeterminación en el Sáhara Occidental y revertir el cambio de postura del Gobierno.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "resumenes": [
+    {
+      "tema": "inmigracion",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone reformar la Ley de Extranjería para crear un procedimiento estable de regularización y culminar la regularización extraordinaria de 2026.",
+          "apoyos": ["c-3f876c5370", "c-80be2bcca3"]
+        },
+        {
+          "texto": "Plantea cerrar los centros de internamiento de extranjeros, derogar la disposición sobre el «rechazo en frontera» y eliminar la lista nacional de países seguros.",
+          "apoyos": ["c-04551aa623", "c-e932950acd", "c-0eb29624f2"]
+        },
+        {
+          "texto": "En asilo, propone una agencia única dependiente de la Presidencia del Gobierno y registrar cada solicitud en un plazo máximo de cinco días.",
+          "apoyos": ["c-8c8e2d73e3", "c-75dd491a02"]
+        },
+        {
+          "texto": "También quiere garantizar cita en las oficinas de extranjería en siete días y aprobar una ley integral contra el racismo.",
+          "apoyos": ["c-2d5a4126bc", "c-07ac402132", "c-8a18d6b635"]
+        }
+      ],
+      "nota": "Todo procede del programa, que es amplio en el tema; no se usan las declaraciones (Ceuta, delincuencia, externalización de fronteras) porque el programa ya cubre las líneas principales. Quedan fuera por espacio el rechazo a los centros de retorno en terceros países, la sanidad universal sin depender del estatus administrativo, la reagrupación familiar en tres meses y la nacionalidad para saharauis."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende un modelo de seguridad basado en la prevención y la justicia social y propone derogar lo que llama «Ley Mordaza».",
+          "apoyos": ["c-ffa00eb052", "c-024c2afe2e", "c-fdd0718372"]
+        },
+        {
+          "texto": "Para la policía, plantea prohibir las pelotas de goma y los controles de identidad por perfil racial, crear un órgano de control externo y desmilitarizar la Guardia Civil.",
+          "apoyos": ["c-48c22d1f3e", "c-1d1d8ec1d0", "c-da86180f51"]
+        },
+        {
+          "texto": "Quiere alcanzar en dos legislaturas la media europea de jueces y fiscales por habitante y ampliar la asistencia jurídica gratuita.",
+          "apoyos": ["c-135cd36d61", "c-718264a8e0"]
+        },
+        {
+          "texto": "También propone derogar los delitos contra la Corona y los sentimientos religiosos y ampliar las penas no privativas de libertad.",
+          "apoyos": ["c-733e9fd510", "c-42cf8f6b0f"]
+        }
+      ],
+      "nota": "Todo procede del programa. El tema mezcla muchas citas de emergencias climáticas, DANA, violencia machista y vivienda; se prioriza el bloque de policía y justicia. Quedan fuera por espacio la reforma del CGPJ, la profesión de riesgo y la equiparación salarial de Guardia Civil y Policía Nacional y la justicia restaurativa. «Ley Mordaza» se atribuye con «lo que llama»."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en The Objective (13/11/2026, 22:22), atribuido a Abascal («ha resumido el líder de Vox») en el acto de arranque de campaña en la plaza de Colón. Fecha, tema y clase correctos; la repatriación de inmigrantes irregulares y de legales que delincan o vivan de ayudas es una acción determinada.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en Demócrata (16/11/2026, 14:26), atribuido a Ignacio Garriga, secretario general de Vox, en declaraciones a los medios en Lleida «este lunes» (16 de noviembre). The Objective le llama vicepresidente y secretario general. Militarizar las fronteras y retirar las subvenciones a ONG son acciones determinadas.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en Demócrata (15/11/2026, 15:46; crónica de agencias del mitin de Cornellà), atribuido a Abascal, candidato a la Presidencia del Gobierno. Postura que vincula la inmigración con la falta de vivienda; la nota es neutra.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en El Debate (12/11/2026, 21:25), atribuido a Abascal en un mitin en Huesca el jueves 12 de noviembre. Lo dice en el contexto de la sanidad («regalar» la sanidad, listas de espera) para defender la prioridad nacional; con el tema y la nota se entiende.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 5,
+      "veredicto": "corregida",
+      "motivo": "Texto literal entre comillas en Infobae/Europa Press (14/11/2026), atribuido a Abascal en el mitin de la plaza de la Constitución de Almería. Pero la frase sola no explica qué es «recuperar Ceuta», y la nota actual no lo aclara. Según las crónicas, se refiere a la entrada masiva de migrantes en Ceuta («Ceuta lleve invadida más de 3 meses y medio», según Garriga en Demócrata), y su programa abre con «la recuperación de Ceuta para los ceutíes» (El Debate). Hay que cambiar la nota para que la cita se entienda.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Se refiere a la entrada masiva de migrantes en Ceuta de este año; la recuperación de Ceuta es la primera medida de su programa"
+    },
+    {
+      "n": 6,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en Libertad Digital (14/11/2026, 15:49), atribuido a Abascal en el mitin de Almería. Es una postura sobre pactos y gobernabilidad: la relación con el PP y su petición de más peso para Vox.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 7,
+      "veredicto": "corregida",
+      "motivo": "Texto literal entre comillas en Demócrata (16/11/2026, 11:30), atribuido a Juanjo Aizcorbe, cabeza de lista de Vox al Congreso por Barcelona, en una entrevista emitida el lunes 16 en La 2Cat y Ràdio 4 (Europa Press). La frase no nombra las lenguas («son dos lenguas hermanas»), así que la nota debe decir de qué habla para que se entienda.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Habla del catalán y el castellano; sostiene que el catalán «siempre se ha de proteger» sin limitar el uso del castellano"
+    },
+    {
+      "n": 8,
+      "veredicto": "rechazada",
+      "motivo": "La frase está literalmente en OKDiario (15/11/2026, mitin de Cornellà) atribuida a Abascal, pero es una exclamación de mitin sin contenido identificable: no dice qué trabas, regulaciones ni medidas. Se acerca más a un lema que a una propuesta o postura. La nota («reducir regulación») añade una interpretación que no está en la cita, y la postura sobre la desregulación ya está, con más concreción, en la cita 1.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    }
+  ],
+  "notas": "Se ha leído el robots.txt de theobjective.com, democrata.es, eldebate.com, infobae.com, libertaddigital.com y okdiario.com. Ninguno bloquea a agentes de IA ni a todos los agentes, y las rutas de los artículos no están prohibidas (en libertaddigital.com, «Disallow: /20*» solo afecta a la raíz). Las 8 páginas se descargaron con curl y se cotejaron como texto. El cargo «número 1 por Madrid» de Abascal no aparece en estas páginas, pero ninguna lo contradice; todas lo presentan como presidente/líder de Vox y candidato a la Presidencia del Gobierno. Juan José Aizcorbe aparece en la fuente como «Juanjo Aizcorbe»."
+}

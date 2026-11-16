@@ -48,17 +48,17 @@ y abre http://localhost:8787/. El servidor lee `public/` en cada petición: desp
 
 | Qué | Archivo |
 | --- | --- |
-| Texto de una guía | `src/contenido/guias/<guía>.json` |
+| Texto de una guía (el campo `orden` decide cuál va primero) | `src/contenido/guias/<guía>.json` |
 | Fechas del calendario (las usan también las guías) | `src/contenido/fechas.json` |
 | Menú, pie, páginas «Muy pronto» y datos de la elección | `src/contenido/sitio.json` |
 | Páginas de texto, como la de privacidad | `src/contenido/paginas/<página>.json` |
 | Cabecera, pie y estructura de las páginas | `src/plantillas/` |
 | Estilos | `src/estilos/sitio.css` |
 | JavaScript (menú, fechas y medición) | `src/js/sitio.js` |
-| Test sin siglas: banco aprobado y partidos del año | `src/contenido/juegos/banco-2023.json`, `src/contenido/juegos/partidos-2023.json` |
+| Test sin siglas: banco de tarjetas y candidaturas del año | `src/contenido/juegos/banco-2026.json`, `src/contenido/juegos/partidos-2026.json`. No se editan a mano: salen de `datos/investigacion-2026/tarjetas/seleccion.json` con `scripts/investigacion/generar-banco.mjs` |
 | Las 52 circunscripciones y sus otros nombres (para el buscador) | `src/contenido/circunscripciones.json` |
 | Página del test | `test()` en `src/plantillas/paginas.mjs` |
-| Recorrido del test, recuento, glosario e imagen para compartir | `src/js/juegos/` y `src/estilos/test.css` |
+| Recorrido del test (provincia, temas, rápido o completo, papeletas y resultado), cálculo e imagen para compartir | `src/js/juegos/` y `src/estilos/test.css` |
 | Validación del banco al construir | `src/plantillas/juegos.mjs` |
 | Partidos y temas: citas, resúmenes y fichas de 2026 | `src/contenido/partidos/partidos-2026.json`. No se edita a mano: sale de `datos/investigacion-2026/` con `scripts/investigacion/generar-web.mjs` (ver el README de esa carpeta) |
 | Páginas de partidos y de temas | `src/plantillas/partidos.mjs` |
@@ -96,10 +96,14 @@ Las páginas de texto (`src/contenido/paginas/`) llevan `ruta`, `titulo`, `titul
 
 ### El test sin siglas
 
-- El banco aprobado no se toca a mano: sale de `datos/banco/` con `scripts/banco/`. Al construir se valida (campos, un solo partido por tarjeta, enlaces con `#page=`, partidos que existen y glosario que enlaza tarjetas que existen) y, si falla, la construcción se para con la lista de errores.
-- Al navegador solo llega `public/test/banco-2023.json`, con temas, documentos, tarjetas y glosario. No lleva la revisión ni la aprobación.
+- Recorrido: provincia → temas que interesan (mínimo 3, en el orden estándar) → rápido o completo → papeletas («A favor», «En contra», «Me abstengo») → resultado → compartir.
+- Entran las candidaturas que se presentan en la provincia y tienen programa o documento general (`documento` en `partidos-<año>.json`; `null` si no han publicado nada). La provincia no se guarda: solo la lista de candidaturas que entran.
+- En el rápido sale la tarjeta n.º 1 (`puesto`) de cada candidatura y tema; en el completo, hasta tres. La duración se estima a 10 segundos por pregunta, truncada a minutos.
+- Afinidad: cada voto a una medida vale +1 (a favor), 0 (abstención) o −1 (en contra). En cada tema, suma de los votos ÷ medidas de la candidatura; la afinidad es la media de los temas (todos pesan igual) y se enseña de −100 % a +100 %. Los temas sin medidas no cuentan; con medidas en menos de la mitad de los temas, la candidatura sale aparte. Solo se dice «encajas más con…» de candidaturas con afinidad positiva. El cálculo está en `src/js/juegos/motor.mjs` (funciones puras, probadas en `tests/motor.test.mjs` con el banco de ejemplo de `tests/ejemplo/`) y se explica en /metodo/.
+- El banco no se toca a mano: lo genera `scripts/investigacion/generar-banco.mjs` (ver el README de `datos/investigacion-2026/`). Al construir se valida (campos, partidos y documentos que existen, puestos seguidos desde el 1, texto igual a la cita salvo cambio declarado) y, si falla, la construcción se para con la lista de errores. Mientras el banco no tenga fecha en `aprobado`, la construcción lo avisa.
+- Al navegador solo llega `public/test/banco-<año>.json`, con temas, documentos y tarjetas (texto, documento y página). No lleva la cita original ni el motivo de la elección.
 - Los módulos de `src/js/juegos/*.mjs` se publican como `public/juegos/*.js` con la versión en los `import`, para que el navegador no mezcle versiones.
-- `partidos-<año>.json`: `id`, `nombre` visible y `ambito` (`"estatal"` o la lista de circunscripciones donde se presentaba).
-- Para pasar a 2026, la página toma el año y los archivos de `data-anio`, `data-banco` y `data-partidos`; en `scripts/construir.mjs` se cambia `ANIO_TEST`.
-- El cálculo está en `src/js/juegos/motor.mjs` (funciones puras, probadas en `tests/motor.test.mjs` con el banco de ejemplo de `tests/ejemplo/`). La regla se explica en /metodo/.
-
+- La página toma el año y los archivos de `data-anio`, `data-banco` y `data-partidos`; en `scripts/construir.mjs` se cambia `ANIO_TEST`.
+- La página lleva CSP `default-src 'self'` y no admite estilos en línea: las barras del resultado son SVG. `scripts/comprobar-test.mjs` lo comprueba.
+- El progreso se guarda en `sessionStorage` (se borra al cerrar la pestaña) para poder seguir un test a medias.
+- De la edición de 2023 quedan sin uso `src/contenido/juegos/banco-2023.json`, `partidos-2023.json`, `datos/banco/` y `scripts/banco/`.

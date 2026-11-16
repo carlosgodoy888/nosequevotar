@@ -1,0 +1,408 @@
+{
+  "nota": "Orden estándar de los temas en la página de temas, dentro de cada partido y en el test: de más a menos citado como problema en la encuesta indicada en «fuente». Cada respuesta de la encuesta se asigna aquí a uno de nuestros temas, a «queja-politica» (quejas sobre los políticos o la política en general, que no corresponden a ningún tema de programa), a «sin-contenido» (otras respuestas, ninguno, no sabe, no contesta) o a null (no encaja en un solo tema). Solo suman las asignadas a un tema. Se edita a mano; el orden lo calcula y lo aplica a temas.json «node scripts/investigacion/ordenar-temas.mjs». Para cambiar de encuesta: sustituir «fuente», «preguntas» y «respuestas», revisar la asignación y volver a ejecutar el script.",
+  "fuente": {
+    "organismo": "Centro de Investigaciones Sociológicas (CIS)",
+    "estudio": "3582",
+    "titulo": "Barómetro de octubre 2026",
+    "cita_breve": "barómetro del CIS de octubre de 2026",
+    "pagina": "https://www.cis.es/es/estudios/barometro-de-octubre-2026",
+    "trabajo_de_campo": "del 1 al 6 de octubre de 2026",
+    "entrevistas": 5024,
+    "documento": "Resultados marginales",
+    "url": "https://www.cis.es/documents/20117/14396821/es3582mar.pdf/49717326-7aad-cfc5-9460-e889f1d43193?version=1.0&t=1792653744506",
+    "sha256": "0b0d99cd8862473cff6ea23ef865ce27c214f52e16a14f74af69c45074ed2cf3",
+    "consultado": "2026-11-16"
+  },
+  "preguntas": {
+    "espana": "Pregunta 13R: «¿Cuál es, a su juicio, el principal problema que existe actualmente en España? ¿Y el segundo? ¿Y el tercero?» Respuesta espontánea, multirrespuesta, recodificada. Columna TOTAL (porcentaje de personas entrevistadas que citan esa respuesta).",
+    "personal": "Pregunta 14R: «¿Y cuál es el problema que a Ud., personalmente, le afecta más? ¿Y el segundo? ¿Y el tercero?» Respuesta espontánea, multirrespuesta, recodificada. Columna TOTAL."
+  },
+  "criterio": "Cada tema suma los porcentajes de sus respuestas en las dos preguntas (problema de España y problema que le afecta personalmente). Los temas van de mayor a menor suma; si empatan, primero el más citado como problema de España y después el orden anterior. Las quejas sobre la política en general se dejan fuera.",
+  "aprobado": "2026-11-16",
+  "respuestas": [
+    {
+      "respuesta": "La vivienda",
+      "espana": 55.7,
+      "personal": 33.8,
+      "tema": "vivienda"
+    },
+    {
+      "respuesta": "La inmigración",
+      "espana": 20.9,
+      "personal": 11.2,
+      "tema": "inmigracion"
+    },
+    {
+      "respuesta": "La crisis económica, los problemas de índole económica",
+      "espana": 20.3,
+      "personal": 30.3,
+      "tema": "economia"
+    },
+    {
+      "respuesta": "Los problemas relacionados con la calidad del empleo",
+      "espana": 19.4,
+      "personal": 18.8,
+      "tema": "empleo"
+    },
+    {
+      "respuesta": "El Gobierno y partidos o políticos/as concretos/as",
+      "espana": 15.1,
+      "personal": 4.8,
+      "tema": "queja-politica"
+    },
+    {
+      "respuesta": "La sanidad",
+      "espana": 14.4,
+      "personal": 24,
+      "tema": "sanidad"
+    },
+    {
+      "respuesta": "Los problemas políticos en general",
+      "espana": 10.1,
+      "personal": 3.7,
+      "tema": "queja-politica"
+    },
+    {
+      "respuesta": "El paro",
+      "espana": 9.6,
+      "personal": 6.5,
+      "tema": "empleo"
+    },
+    {
+      "respuesta": "La educación",
+      "espana": 8.7,
+      "personal": 10,
+      "tema": "educacion"
+    },
+    {
+      "respuesta": "El mal comportamiento de los/as políticos/as",
+      "espana": 8.5,
+      "personal": 2.7,
+      "tema": "queja-politica"
+    },
+    {
+      "respuesta": "Los extremismos",
+      "espana": 7.7,
+      "personal": 3.3,
+      "tema": "queja-politica"
+    },
+    {
+      "respuesta": "Los problemas relacionados con la juventud. Falta de apoyo y oportunidades para los/as jóvenes",
+      "espana": 7.2,
+      "personal": 9.4,
+      "tema": null
+    },
+    {
+      "respuesta": "La corrupción y el fraude",
+      "espana": 6.7,
+      "personal": 2.1,
+      "tema": "democracia-e-instituciones"
+    },
+    {
+      "respuesta": "Crisis con Marruecos. Fronteras de Ceuta y Melilla",
+      "espana": 6.5,
+      "personal": 3,
+      "tema": "politica-exterior-y-defensa"
+    },
+    {
+      "respuesta": "Lo que hacen los partidos políticos",
+      "espana": 5.8,
+      "personal": 1.4,
+      "tema": "queja-politica"
+    },
+    {
+      "respuesta": "Los problemas de índole social",
+      "espana": 4.9,
+      "personal": 6.1,
+      "tema": "familias-y-cuidados"
+    },
+    {
+      "respuesta": "La inseguridad ciudadana",
+      "espana": 4.3,
+      "personal": 6.7,
+      "tema": "seguridad-y-justicia"
+    },
+    {
+      "respuesta": "El cambio climático",
+      "espana": 4,
+      "personal": 4.8,
+      "tema": "medio-ambiente-y-energia"
+    },
+    {
+      "respuesta": "Las desigualdades, incluida la de género, diferencias de clases, la pobreza",
+      "espana": 3.8,
+      "personal": 2.8,
+      "tema": "igualdad-y-derechos"
+    },
+    {
+      "respuesta": "La crisis de valores",
+      "espana": 3.6,
+      "personal": 2.9,
+      "tema": null
+    },
+    {
+      "respuesta": "La subida de los impuestos",
+      "espana": 3.5,
+      "personal": 7.2,
+      "tema": "impuestos"
+    },
+    {
+      "respuesta": "Aumento de la crispación social, revueltas sociales",
+      "espana": 3.2,
+      "personal": 2,
+      "tema": "queja-politica"
+    },
+    {
+      "respuesta": "El funcionamiento de los servicios públicos",
+      "espana": 3,
+      "personal": 2.1,
+      "tema": "democracia-e-instituciones"
+    },
+    {
+      "respuesta": "El funcionamiento de la democracia",
+      "espana": 2.1,
+      "personal": 1.5,
+      "tema": "democracia-e-instituciones"
+    },
+    {
+      "respuesta": "La subida de tarifas energéticas, crisis energética",
+      "espana": 2,
+      "personal": 5.4,
+      "tema": "medio-ambiente-y-energia"
+    },
+    {
+      "respuesta": "Papel de los medios de comunicación y redes: desinformación, manipulación informativa, difusión de bulos",
+      "espana": 2,
+      "personal": 1.3,
+      "tema": "democracia-e-instituciones"
+    },
+    {
+      "respuesta": "Las guerras en general",
+      "espana": 1.7,
+      "personal": 2.3,
+      "tema": "politica-exterior-y-defensa"
+    },
+    {
+      "respuesta": "Las pensiones",
+      "espana": 1.4,
+      "personal": 4,
+      "tema": "pensiones"
+    },
+    {
+      "respuesta": "La Administración de Justicia",
+      "espana": 1.3,
+      "personal": 0.8,
+      "tema": "seguridad-y-justicia"
+    },
+    {
+      "respuesta": "Política exterior y relaciones internacionales. Papel de España en el marco internacional",
+      "espana": 1.2,
+      "personal": 0.8,
+      "tema": "politica-exterior-y-defensa"
+    },
+    {
+      "respuesta": "La falta de acuerdos, unidad y capacidad de colaboración. Situación e inestabilidad política",
+      "espana": 1.2,
+      "personal": 0.5,
+      "tema": "queja-politica"
+    },
+    {
+      "respuesta": "El racismo",
+      "espana": 1.1,
+      "personal": 0.6,
+      "tema": "igualdad-y-derechos"
+    },
+    {
+      "respuesta": "Las infraestructuras",
+      "espana": 1.1,
+      "personal": 2.8,
+      "tema": "transporte"
+    },
+    {
+      "respuesta": "La falta de confianza en los/las políticos/as y las instituciones",
+      "espana": 1,
+      "personal": 0.3,
+      "tema": "democracia-e-instituciones"
+    },
+    {
+      "respuesta": "El modelo productivo español. La falta de inversión en industrias e I+D",
+      "espana": 0.9,
+      "personal": 0.7,
+      "tema": "economia"
+    },
+    {
+      "respuesta": "Los estatutos de autonomía",
+      "espana": 0.8,
+      "personal": 0.3,
+      "tema": "organizacion-territorial"
+    },
+    {
+      "respuesta": "Los problemas relacionados con los/as autónomos/as",
+      "espana": 0.8,
+      "personal": 1,
+      "tema": "empleo"
+    },
+    {
+      "respuesta": "El medio ambiente",
+      "espana": 0.7,
+      "personal": 1.1,
+      "tema": "medio-ambiente-y-energia"
+    },
+    {
+      "respuesta": "Poca conciencia ciudadana (falta de civismo, de sentido espíritu cívico)",
+      "espana": 0.5,
+      "personal": 0.5,
+      "tema": null
+    },
+    {
+      "respuesta": "Las incertidumbres ante el futuro, la inseguridad y el miedo al futuro",
+      "espana": 0.5,
+      "personal": 1.7,
+      "tema": null
+    },
+    {
+      "respuesta": "La ocupación de viviendas",
+      "espana": 0.5,
+      "personal": 0.4,
+      "tema": "vivienda"
+    },
+    {
+      "respuesta": "Los problemas derivados del turismo. Masificación",
+      "espana": 0.5,
+      "personal": 0.5,
+      "tema": "economia"
+    },
+    {
+      "respuesta": "Los problemas de la agricultura, ganadería y pesca",
+      "espana": 0.4,
+      "personal": 0.7,
+      "tema": "campo-y-medio-rural"
+    },
+    {
+      "respuesta": "Las drogas",
+      "espana": 0.3,
+      "personal": 0.2,
+      "tema": "sanidad"
+    },
+    {
+      "respuesta": "La violencia de género",
+      "espana": 0.3,
+      "personal": 0.2,
+      "tema": "igualdad-y-derechos"
+    },
+    {
+      "respuesta": "Los nacionalismos",
+      "espana": 0.3,
+      "personal": 0.3,
+      "tema": "organizacion-territorial"
+    },
+    {
+      "respuesta": "La España vaciada, la despoblación",
+      "espana": 0.2,
+      "personal": 0.9,
+      "tema": "campo-y-medio-rural"
+    },
+    {
+      "respuesta": "El fraude fiscal",
+      "espana": 0.2,
+      "personal": 0,
+      "tema": "impuestos"
+    },
+    {
+      "respuesta": "La Monarquía",
+      "espana": 0.2,
+      "personal": 0,
+      "tema": "democracia-e-instituciones"
+    },
+    {
+      "respuesta": "La independencia de Cataluña",
+      "espana": 0.2,
+      "personal": 0.3,
+      "tema": "organizacion-territorial"
+    },
+    {
+      "respuesta": "La falta de servicios públicos. Los recortes",
+      "espana": 0.2,
+      "personal": 0.3,
+      "tema": "familias-y-cuidados"
+    },
+    {
+      "respuesta": "Los incendios",
+      "espana": 0,
+      "personal": 0,
+      "tema": "medio-ambiente-y-energia"
+    },
+    {
+      "respuesta": "Otras respuestas",
+      "espana": 2.7,
+      "personal": 0,
+      "tema": "sin-contenido"
+    },
+    {
+      "respuesta": "Ninguno",
+      "espana": 0.1,
+      "personal": 0,
+      "tema": "sin-contenido"
+    },
+    {
+      "respuesta": "N.S.",
+      "espana": 1.1,
+      "personal": 0,
+      "tema": "sin-contenido"
+    },
+    {
+      "respuesta": "N.C.",
+      "espana": 0.1,
+      "personal": 0,
+      "tema": "sin-contenido"
+    },
+    {
+      "respuesta": "Preocupación sobre la salud propia, de familiares y/o allegados/as",
+      "espana": 0,
+      "personal": 3.9,
+      "tema": "sanidad"
+    },
+    {
+      "respuesta": "Las preocupaciones y situaciones personales",
+      "espana": 0,
+      "personal": 1.9,
+      "tema": null
+    },
+    {
+      "respuesta": "Problemas psicológicos (preocupaciones, soledad, tristeza, desamparo, etc.)",
+      "espana": 0,
+      "personal": 1.1,
+      "tema": null
+    },
+    {
+      "respuesta": "Las hipotecas",
+      "espana": 0,
+      "personal": 0.4,
+      "tema": "vivienda"
+    },
+    {
+      "respuesta": "Los problemas relacionados con la mujer",
+      "espana": 0,
+      "personal": 0.3,
+      "tema": "igualdad-y-derechos"
+    },
+    {
+      "respuesta": "Los bancos",
+      "espana": 0,
+      "personal": 0.3,
+      "tema": "economia"
+    },
+    {
+      "respuesta": "Los desahucios",
+      "espana": 0,
+      "personal": 0.2,
+      "tema": "vivienda"
+    },
+    {
+      "respuesta": "Guerra de Ucrania y Rusia",
+      "espana": 0,
+      "personal": 0.2,
+      "tema": "politica-exterior-y-defensa"
+    }
+  ]
+}

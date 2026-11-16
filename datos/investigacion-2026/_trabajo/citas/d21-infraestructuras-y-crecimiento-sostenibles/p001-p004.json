@@ -1,0 +1,597 @@
+{
+  "fuente": "d21-infraestructuras-y-crecimiento-sostenibles",
+  "partido": "d21",
+  "paginas": [
+    1,
+    4
+  ],
+  "citas": [
+    {
+      "cita": "Proponemos un cambio de método: planificar con datos y no con promesas, conservar antes que inaugurar, no negociar nunca con la seguridad y poner a los mejores profesionales al frente.",
+      "pagina": 2,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Planificación con datos y prioridad a la conservación",
+      "etiquetas": [
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos una Estrategia Estatal de Infraestructuras a 25 años y programas de inversión a 6 años, con prioridades, calendario y financiación públicos. Y buscaremos el acuerdo más amplio posible entre administraciones y grupos parlamentarios para darles estabilidad.",
+      "pagina": 2,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Planificar con datos, no con promesas",
+        "Infraestructuras que Sobrevivan a las Legislaturas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia Estatal de Infraestructuras a 25 años",
+      "etiquetas": [
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ninguna gran obra se aprobará sin demostrar que es necesaria, que compensa más que mejorar lo que ya existe y cuánto costará a lo largo de toda su vida.",
+      "pagina": 2,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Planificar con datos, no con promesas",
+        "Infraestructuras que Sobrevivan a las Legislaturas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Justificación de necesidad y coste para aprobar grandes obras",
+      "etiquetas": [
+        "infraestructuras",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Publicaremos una cartera estatal de proyectos para que cualquiera pueda seguir su financiación, sus responsables y su grado de ejecución.",
+      "pagina": 2,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Planificar con datos, no con promesas",
+        "Infraestructuras que Sobrevivan a las Legislaturas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cartera estatal pública de proyectos de infraestructuras",
+      "etiquetas": [
+        "infraestructuras",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "carreteras, tren, puertos y aeropuertos se planifican hoy cada uno por su lado, y a veces se construyen infraestructuras que compiten por los mismos viajeros y acaban infrautilizadas. Sin crear nuevos organismos, todas usarán un mismo método y los mismos datos para comparar alternativas por su coste, su demanda, su seguridad, sus emisiones y lo que aportan a la cohesión territorial.",
+      "pagina": 2,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Planificar con datos, no con promesas",
+        "Una Planificación Integrada, Sin Más Burocracia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Método común para planificar todos los modos de transporte",
+      "etiquetas": [
+        "infraestructuras",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Planificaremos el transporte junto a la vivienda, la industria, la energía y el agua, respetando las competencias de cada administración.",
+      "pagina": 2,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Planificar con datos, no con promesas",
+        "Una Planificación Integrada, Sin Más Burocracia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Planificación conjunta del transporte con vivienda, industria, energía y agua",
+      "etiquetas": [
+        "transporte",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y encargaremos a la AIReF evaluar cada gran obra al año, a los cinco y a los diez años de su puesta en marcha, para comprobar si cumplió lo que prometía.",
+      "pagina": 2,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Planificar con datos, no con promesas",
+        "Una Planificación Integrada, Sin Más Burocracia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Evaluación de grandes obras por la AIReF",
+      "etiquetas": [
+        "infraestructuras",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "hoy las cúpulas de las empresas públicas que gestionan nuestras vías, carreteras, puertos y aeropuertos cambian con cada Gobierno. Sus responsables se elegirán en procesos abiertos y competitivos, por mérito y experiencia, con garantías de independencia y control de los conflictos de interés.",
+      "pagina": 2,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Planificar con datos, no con promesas",
+        "Gestores Elegidos Por Mérito y Obras que Rindan Cuentas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Selección por mérito de directivos de empresas públicas de infraestructuras",
+      "etiquetas": [
+        "empresas públicas",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada gestor tendrá objetivos públicos de seguridad (también la de sus trabajadores), calidad del servicio, conservación y eficiencia, y responderá por sus resultados.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Planificar con datos, no con promesas",
+        "Gestores Elegidos Por Mérito y Obras que Rindan Cuentas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Objetivos públicos y rendición de cuentas de los gestores",
+      "etiquetas": [
+        "empresas públicas",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todos los contratos, plazos, cambios de proyecto y sobrecostes se publicarán en internet, con alertas automáticas ante posibles irregularidades.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Planificar con datos, no con promesas",
+        "Gestores Elegidos Por Mérito y Obras que Rindan Cuentas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicación de contratos y sobrecostes con alertas automáticas",
+      "etiquetas": [
+        "contratación pública",
+        "transparencia",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Obligaremos a planificar la conservación de cada infraestructura durante toda su vida útil: cada gestor tendrá un plan basado en el estado real de cada puente, vía o carretera y en su riesgo de fallo, y publicará sus resultados.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Conservar primero: infraestructuras seguras y que duren",
+        "Conservar Antes que Inaugurar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Planes obligatorios de conservación durante la vida útil",
+      "etiquetas": [
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Usaremos sensores, inspecciones automatizadas e inteligencia artificial para detectar el deterioro antes de que se convierta en avería, empezando por los puntos más expuestos a lluvias torrenciales e inundaciones.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Conservar primero: infraestructuras seguras y que duren",
+        "Conservar Antes que Inaugurar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sensores e inteligencia artificial para detectar deterioro",
+      "etiquetas": [
+        "infraestructuras",
+        "inteligencia artificial",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y reutilizaremos materiales y reciclaremos firmes siempre que sea técnicamente seguro.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Conservar primero: infraestructuras seguras y que duren",
+        "Conservar Antes que Inaugurar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reutilización de materiales y reciclado de firmes",
+      "etiquetas": [
+        "infraestructuras",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Alargar la vida de lo que ya tenemos es la forma más inteligente de ahorrar.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Conservar primero: infraestructuras seguras y que duren",
+        "Conservar Antes que Inaugurar"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Prioridad a prolongar la vida de las infraestructuras existentes",
+      "etiquetas": [
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos programas de conservación de varios años, con una financiación ligada a lo que de verdad necesita la red y objetivos de seguridad que cualquiera pueda comprobar. Empezaremos por los firmes deteriorados, los puentes, los túneles y los tramos más peligrosos, sobre todo en las carreteras convencionales.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Conservar primero: infraestructuras seguras y que duren",
+        "Carreteras Seguras y Conservación con Financiación Estable"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Programas plurianuales de conservación de carreteras",
+      "etiquetas": [
+        "infraestructuras",
+        "seguridad vial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y publicaremos el estado de la red y las mejoras logradas, en coordinación con las Comunidades Autónomas.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Conservar primero: infraestructuras seguras y que duren",
+        "Carreteras Seguras y Conservación con Financiación Estable"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicación del estado de la red de carreteras",
+      "etiquetas": [
+        "infraestructuras",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En los primeros seis meses de Gobierno encargaremos una revisión técnica absolutamente independiente de la señalización y los sistemas de protección de toda la alta velocidad.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Conservar primero: infraestructuras seguras y que duren",
+        "Seguridad Ferroviaria Sin Concesiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión técnica independiente de la seguridad de la alta velocidad",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos la inspección de carriles y soldaduras, y registraremos digitalmente cada intervención de mantenimiento.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Conservar primero: infraestructuras seguras y que duren",
+        "Seguridad Ferroviaria Sin Concesiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inspección de vías y registro digital del mantenimiento ferroviario",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Extenderemos el ERTMS, el sistema europeo de control automático de trenes, empezando por las líneas con más riesgo y tráfico.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Conservar primero: infraestructuras seguras y que duren",
+        "Seguridad Ferroviaria Sin Concesiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Extensión del sistema europeo de control de trenes ERTMS",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se incentivará que los trabajadores alerten de riesgos sin ningún miedo a represalias, y las recomendaciones de los investigadores se cumplirán o se explicará públicamente por qué no.",
+      "pagina": 3,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Conservar primero: infraestructuras seguras y que duren",
+        "Seguridad Ferroviaria Sin Concesiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Alertas de trabajadores y cumplimiento de recomendaciones de investigadores",
+      "etiquetas": [
+        "transporte",
+        "salud laboral"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "millones de personas pierden cada día tiempo y oportunidades por los retrasos en Cercanías y Rodalies, y muchas averías se repiten siempre en los mismos puntos. Cada núcleo tendrá un plan público de fiabilidad que identifique esos puntos negros, con presupuesto, responsables y plazos.",
+      "pagina": 4,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Infraestructuras para un crecimiento sostenido y sostenible",
+        "Cercanías que Lleguen a su Hora"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan público de fiabilidad para cada núcleo de Cercanías",
+      "etiquetas": [
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Priorizaremos un mantenimiento que se adelante a las averías, la renovación de catenarias, señales y desvíos, y más capacidad allí donde la demanda lo exija.",
+      "pagina": 4,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Infraestructuras para un crecimiento sostenido y sostenible",
+        "Cercanías que Lleguen a su Hora"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mantenimiento preventivo y renovación de instalaciones de Cercanías",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejoraremos la accesibilidad de estaciones y trenes, y los viajeros sabrán en tiempo real qué ha pasado y cuándo se recuperará el servicio.",
+      "pagina": 4,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Infraestructuras para un crecimiento sostenido y sostenible",
+        "Cercanías que Lleguen a su Hora"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Accesibilidad e información en tiempo real en Cercanías",
+      "etiquetas": [
+        "transporte",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos un Plan de Conectividad Logística que trate cada puerto como un sistema completo: muelles, accesos por tren y carretera, terminales donde la mercancía pase del barco al tren o al camión, energía y servicios digitales.",
+      "pagina": 4,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Infraestructuras para un crecimiento sostenido y sostenible",
+        "Logística de Primera - Puertos y Redes Conectadas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de Conectividad Logística de los puertos",
+      "etiquetas": [
+        "infraestructuras",
+        "transporte",
+        "comercio exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Priorizaremos las inversiones que más reduzcan costes, tiempos y cuellos de botella, y digitalizaremos los trámites portuarios y aduaneros.",
+      "pagina": 4,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Infraestructuras para un crecimiento sostenido y sostenible",
+        "Logística de Primera - Puertos y Redes Conectadas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Digitalización de trámites portuarios y aduaneros",
+      "etiquetas": [
+        "infraestructuras",
+        "comercio exterior",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los aeropuertos solo se ampliarán cuando la demanda lo justifique y no haya alternativas mejores.",
+      "pagina": 4,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Infraestructuras para un crecimiento sostenido y sostenible",
+        "Logística de Primera - Puertos y Redes Conectadas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ampliación de aeropuertos condicionada a la demanda",
+      "etiquetas": [
+        "infraestructuras",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "nuestras redes de transporte consumen mucha energía y tienen enormes espacios desaprovechados. Las convertiremos en referentes de eficiencia.",
+      "pagina": 4,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Infraestructuras para un crecimiento sostenido y sostenible",
+        "Infraestructuras que Ahorren Energía y Recursos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Eficiencia energética de las redes de transporte",
+      "etiquetas": [
+        "transporte",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Instalaremos iluminación inteligente, sistemas de control del consumo y paneles solares en estaciones, talleres, puertos y aeropuertos, allí donde sea técnica y económicamente viable.",
+      "pagina": 4,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Infraestructuras para un crecimiento sostenido y sostenible",
+        "Infraestructuras que Ahorren Energía y Recursos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Paneles solares e iluminación eficiente en infraestructuras de transporte",
+      "etiquetas": [
+        "energía",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aceleraremos la conexión eléctrica de los barcos atracados, como marcan los objetivos europeos, para que apaguen sus motores mientras están en puerto.",
+      "pagina": 4,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Infraestructuras para un crecimiento sostenido y sostenible",
+        "Infraestructuras que Ahorren Energía y Recursos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Conexión eléctrica de barcos atracados en puerto",
+      "etiquetas": [
+        "energía",
+        "medio ambiente",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y reduciremos residuos y consumo de materiales.",
+      "pagina": 4,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Infraestructuras para un crecimiento sostenido y sostenible",
+        "Infraestructuras que Ahorren Energía y Recursos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducción de residuos y materiales en infraestructuras",
+      "etiquetas": [
+        "medio ambiente",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En los grandes concursos públicos ganará la obra que menos cuesta a lo largo de toda su vida, energía y mantenimiento incluidos, no la que menos cuesta inaugurar.",
+      "pagina": 4,
+      "apartado": [
+        "Infraestructuras y crecimiento sostenibles",
+        "Infraestructuras para un crecimiento sostenido y sostenible",
+        "Infraestructuras que Ahorren Energía y Recursos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Adjudicación de obras por coste a lo largo de su vida",
+      "etiquetas": [
+        "contratación pública",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

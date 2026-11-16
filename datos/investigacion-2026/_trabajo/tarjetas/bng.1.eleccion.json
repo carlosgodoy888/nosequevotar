@@ -1,0 +1,132 @@
+{
+  "partido": "bng",
+  "lote": "bng.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        { "id": "c-64de6273ec", "motivo": "Es la primera línea de su postura (topar por ley el alquiler y frenar los desahucios de personas vulnerables) y la que Néstor Rego pone en cabeza en campaña («topar los precios de los alquileres»); no hay otra medida que recoja el tope por sí sola.", "texto": null, "cambio": null },
+        { "id": "c-35924ef97c", "motivo": "Representa la segunda línea, la apuesta por un parque público de alquiler permanente, con una cifra concreta (3% de los PGE) que la hace votable; Rego también reivindica «una política de vivienda pública».", "texto": null, "cambio": null },
+        { "id": "c-8ede1ecfeb", "motivo": "Cubre la línea de la vivienda vacía en manos de grandes propietarios (alquiler forzoso, expropiación temporal, canon), que es lo que más repiten en campaña Pontón («movilizar vivienda vacía») y Rego («expropiar las viviendas vacías de los fondos buitre»).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-863d4e594e", "por_que_no": "La transferencia de los activos de la Sareb a Galicia está en el resumen y en campaña, pero es una vía de alimentar el parque público ya representado por la medida del 3%." },
+        { "id": "c-04cc4916a5", "por_que_no": "Contratos indefinidos y renovación automática son parte de la primera línea, pero es menos central que el tope de precios y mezcla además la persecución del acoso inmobiliario." },
+        { "id": "c-0b1a38952d", "por_que_no": "Impedir la privatización de la vivienda pública está en el resumen, pero es una línea secundaria frente al tope, el parque público y la vivienda vacía." }
+      ],
+      "nota": "La primera medida junta tres acciones muy ligadas (tope del alquiler, prohibición de desahucios de vulnerables y suspensión de lanzamientos sin alternativa); se elige porque no hay una medida que contenga solo el tope y es la línea principal en el resumen y en campaña."
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        { "id": "c-64fbc8af09", "motivo": "La jornada de 35 horas sin rebaja salarial es la medida que más destaca en campaña (Rego: «la única fuerza del Congreso que llevó al Pleno una proposición de ley para reducir la jornada laboral a 35 horas sin reducción salarial») y resume bien su línea de más derechos para la clase trabajadora.", "texto": null, "cambio": null },
+        { "id": "c-f0040e3a5f", "motivo": "Cubre la línea salarial: subir el SMI al 60% del salario medio, con una referencia concreta.", "texto": null, "cambio": null },
+        { "id": "c-9a8e74aedd", "motivo": "Representa la tercera línea, contra la precariedad y la intermediación privada: eliminar las ETT y las agencias privadas de colocación.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-09ee5eef2e", "por_que_no": "Derogar las reformas laborales es la primera línea del resumen y la repite Rego, pero la medida termina en «entre otros derechos:» y no se entiende sin la lista que sigue." },
+        { "id": "c-ccae74ee3f", "por_que_no": "Los 45 días de indemnización son un elemento de la lista anterior y no se entienden solos (no tienen verbo ni dicen qué se propone)." },
+        { "id": "c-3629b5f939", "por_que_no": "Transferir a Galicia las relaciones laborales es la cuarta línea, más competencial que de contenido laboral; queda por detrás de jornada, salario y precariedad." }
+      ],
+      "nota": "La derogación de la reforma laboral, línea principal del resumen, no tiene ninguna medida que se entienda sola; las elegidas cubren las demás líneas."
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        { "id": "c-1386ec87d0", "motivo": "Recoge las dos primeras líneas a la vez (control público gallego de los sectores estratégicos y la Corporación Industrial Pública Gallega con las participaciones del Estado), que son el centro de su política industrial.", "texto": null, "cambio": null },
+        { "id": "c-4c8cac8b7c", "motivo": "Representa la reforma de la ley de minas, a la que el programa dedica más medidas que a nada en el tema, con la cifra concreta de una participación pública mínima del 20%.", "texto": null, "cambio": null },
+        { "id": "c-f308d61211", "motivo": "Cubre la línea del coste de la vida: regular por ley los precios de los alimentos básicos.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-6a270478f8", "por_que_no": "Declarar de dominio público las materias primas críticas también representa la reforma minera, pero es más técnica que la participación pública del 20%." },
+        { "id": "c-952821b42a", "por_que_no": "Vincular los derechos mineros a la transformación en Galicia está en el resumen, pero es otra variante de la línea minera ya cubierta." },
+        { "id": "c-7bb1fcbec8", "por_que_no": "Oponerse a la deslocalización y exigir la devolución de ayudas encaja con la reindustrialización, pero mezcla una postura con una obligación y no está en el resumen." }
+      ],
+      "nota": "El tope a la gasolina y el diésel, que destaca Rego en campaña y figura en el resumen, no está entre las candidatas de este tema (está en medio ambiente y energía)."
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        { "id": "c-95cc790937", "motivo": "Representa la línea central de una sanidad exclusivamente pública en titularidad, gestión y provisión, con una acción concreta (modificar la Ley 15/97); se prefiere a la de financiación porque esta mezcla varias acciones.", "texto": null, "cambio": null },
+        { "id": "c-f1218b5409", "motivo": "Cubre la segunda línea, la ampliación de la cobertura pública, con una medida clara y votable: acabar con el copago farmacéutico.", "texto": null, "cambio": null },
+        { "id": "c-99720ee22c", "motivo": "Representa la tercera línea, que Galicia asuma plena capacidad sobre su sanidad, con el ejemplo concreto de la formación MIR y más plazas.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-e5aaaa7c8e", "por_que_no": "Subir la financiación hasta la media de la UE es la primera frase del resumen, pero la medida mezcla financiación, criterios de reparto, gasto farmacéutico y precio de los medicamentos." },
+        { "id": "c-a25ca9e61f", "por_que_no": "Ampliar la cartera con dental, podología o logopedia está en el resumen, pero tiene 73 palabras y enumera muchas prestaciones." },
+        { "id": "c-795c2d7abe", "por_que_no": "La nueva ley de asistencia universal está en el resumen, pero es menos concreta que acabar con el copago." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        { "id": "c-bbdbb5f15e", "motivo": "Representa la línea de derechos y garantías (cerrar los CIE, acabar con las devoluciones en caliente, garantizar el asilo), la más clara y votable de su postura; la regularización, primera línea del resumen, no tiene medida en este lote.", "texto": null, "cambio": null },
+        { "id": "c-cceebf8c54", "motivo": "Cubre la línea de integración laboral: agilizar la homologación de títulos extranjeros.", "texto": null, "cambio": null },
+        { "id": "c-6fadfd1ae1", "motivo": "Representa la cuarta línea del resumen: aceptar el conocimiento del gallego como criterio para obtener la nacionalidad.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-2f7869fd7c", "por_que_no": "Renegociar Schengen es vago y no está en el resumen." },
+        { "id": "c-40b8c2eb26", "por_que_no": "El plan de retorno de jóvenes emigrados trata de la emigración, no de su postura principal sobre inmigración." },
+        { "id": "c-00b33c66ba", "por_que_no": "Es de otro tema y repite las devoluciones en caliente, ya recogidas en la primera medida." }
+      ],
+      "nota": "Ninguna de las candidatas trata la regularización administrativa, que es la primera línea del resumen."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        { "id": "c-efbaaa3f44", "motivo": "La reforma de la ley electoral con un reparto proporcional directo es la primera línea del resumen, y esta medida es la que la encabeza en el programa.", "texto": null, "cambio": null },
+        { "id": "c-09fe06c5d8", "motivo": "Cubre la segunda línea: permitir referendos vinculantes, también sobre la autodeterminación.", "texto": null, "cambio": null },
+        { "id": "c-0aa88206ec", "motivo": "Representa la línea contra la corrupción con una medida concreta y limpia: regular estrictamente las puertas giratorias y quitar a las Cámaras la posibilidad de autorizar la compatibilidad de diputados y senadores.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-e9be5bd10a", "por_que_no": "El voto a los 16 años es parte de la reforma electoral, pero es un aspecto menor que el sistema de reparto." },
+        { "id": "c-3da26e6f0f", "por_que_no": "La inhabilitación por fraude fiscal está en el resumen, pero tiene 60 palabras y mezcla la inhabilitación con medidas genéricas contra la evasión fiscal." },
+        { "id": "c-563beb713e", "por_que_no": "Quitar el umbral del 5% es un elemento suelto de la lista electoral, sin verbo." }
+      ],
+      "nota": "c-09fe06c5d8 lleva el aviso «nombra a otro partido (pp)», pero en el texto no aparece ningún partido (parece un falso positivo); su «En este sentido» no impide entenderla porque la primera frase ya da el contexto. Las declaraciones de campaña tratan de pactos de investidura y no se corresponden con ninguna medida."
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        { "id": "c-519bf7582c", "motivo": "Resume la primera línea de su postura: una enseñanza pública, laica y gratuita de 0 a 18 años, con una única red pública.", "texto": null, "cambio": null },
+        { "id": "c-fc6d56906e", "motivo": "Cubre la segunda línea, el traspaso de todas las competencias educativas a Galicia; se entiende mejor sola que las otras medidas de transferencia, que son muy largas o no dicen de qué competencias hablan.", "texto": null, "cambio": null },
+        { "id": "c-9f78b1b0f9", "motivo": "Representa la línea de financiación con una cifra concreta: al menos el 7% del PIB para la educación.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-73f43af607", "por_que_no": "Suprimir los conciertos es parte de la primera línea, pero la red única pública ya lo lleva implícito y la medida es más parcial (solo la enseñanza no obligatoria)." },
+        { "id": "c-c9dc288176", "por_que_no": "Sacar la Religión del currículo está en el resumen, pero es una línea secundaria frente a la red pública, las competencias y la financiación." },
+        { "id": "c-0100762ee2", "por_que_no": "Es la medida más completa sobre el marco educativo gallego, pero tiene 103 palabras." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        { "id": "c-00acb14019", "motivo": "La tarifa eléctrica gallega es la medida más concreta de la primera línea (más poder sobre la energía para abaratar la luz) y se entiende sola; la otra versión empieza con «Esto es básico» y no se entiende sin lo anterior.", "texto": null, "cambio": null },
+        { "id": "c-ab67f6de9e", "motivo": "Cubre su rechazo a la eólica marina en el litoral gallego, tercera línea del resumen.", "texto": null, "cambio": null },
+        { "id": "c-c58f598fe4", "motivo": "Representa la línea de protección de la naturaleza con su medida más reconocible: catalogar el eucalipto como especie invasora y limitar su cultivo.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-61c22158f6", "por_que_no": "El precio máximo de la gasolina y el diésel es lo que destaca Rego en campaña, pero es una medida de coste de la vida y no está en el resumen de este tema; quien revise puede preferirla como tercera." },
+        { "id": "c-a866187149", "por_que_no": "Prohibir los cortes de luz está en el resumen, pero es menos central que la tarifa gallega y la eólica marina." },
+        { "id": "c-90fd896ea1", "por_que_no": "Transferir las competencias energéticas es la primera línea, pero la tarifa gallega da una idea más concreta de lo que quieren conseguir." }
+      ],
+      "nota": "La rebaja al 5% del IVA de la luz, el gas y la leña, que está en el resumen, no figura entre las candidatas de este lote."
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "elegidas": [
+        { "id": "c-f72f14988f", "motivo": "La salida de la OTAN es la primera línea de su postura y resume su posición pacifista y antimilitarista.", "texto": null, "cambio": null },
+        { "id": "c-4c350ae9c5", "motivo": "Cubre la tercera línea: dejar de enviar armas a Ucrania y buscar una salida negociada.", "texto": null, "cambio": null },
+        { "id": "c-410126cced", "motivo": "Representa la cuarta línea, la solidaridad con los pueblos (aquí el Sáhara Occidental), con una acción concreta: pedir un referéndum de autodeterminación y revertir el cambio de postura del Gobierno.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-fd971865ae", "por_que_no": "Reducir el gasto militar es lo que más repite Rego en campaña, pero la medida dice «en esta materia» y no se entiende sin lo que venía antes." },
+        { "id": "c-dea773a6dc", "por_que_no": "Cancelar los acuerdos con EE. UU. va en la misma línea que la salida de la OTAN; se prefiere cubrir otras líneas." },
+        { "id": "c-9007e267f9", "por_que_no": "El reconocimiento «real y efectivo» de Palestina es ambiguo sin contexto, porque España ya reconoció el Estado palestino." }
+      ],
+      "nota": "El rechazo a aumentar el gasto militar, que destaca en campaña, no tiene ninguna medida que se entienda sola."
+    }
+  ]
+}

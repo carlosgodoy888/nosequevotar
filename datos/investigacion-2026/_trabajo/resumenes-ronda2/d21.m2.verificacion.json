@@ -1,0 +1,91 @@
+{
+  "revisiones": [
+    {
+      "tema": "economia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad: la cita c-3d7648f5b3 habla de derogar «toda norma o trámite que no cuente con una justificación clara de protección pública»; el resumen decía solo «sin una justificación clara», lo que ampliaba el criterio. Se añade «de protección pública».",
+        "Forma: la segunda frase mezclaba «crear una empresa» y «crear una licencia» en la misma enumeración; se reescribe en plural y se acorta la tercera («licencia autonómica») para no pasar de 90 palabras.",
+        "Representatividad aceptable: se recogen las líneas de mayor peso (pymes, menos regulación, mercado único interno, zonas industriales y evaluación del gasto). Quedan fuera por espacio la energía, la contratación pública y la morosidad, los incentivos a la productividad y la ley de financiación de la ciencia. La única declaración (sobre la aportación de los inmigrantes) no trata de economía en sentido estricto y no se usa."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone un impuesto de sociedades del 5 % para los beneficios que las pymes reinviertan.",
+          "apoyos": ["c-8e0ce5d16e", "c-e30e2f8803"]
+        },
+        {
+          "texto": "Plantea crear empresas en una hora, licencias provisionales automáticas si la Administración no resuelve a tiempo y derogar en 12 meses las normas sin justificación clara de protección pública.",
+          "apoyos": ["c-a2e8904a96", "c-a4be3a6be5", "c-3d7648f5b3", "c-43174b2fb9"]
+        },
+        {
+          "texto": "Quiere que cualquier licencia autonómica valga en toda España y habilitar zonas industriales con la evaluación ambiental resuelta y la capacidad de red reservada.",
+          "apoyos": ["c-02c0417698", "c-3e6878e6ce", "c-a369643043"]
+        },
+        {
+          "texto": "Pide evaluar todos los programas de gasto y suprimir los beneficios fiscales que no cumplan su objetivo.",
+          "apoyos": ["c-d04788d0b3", "c-eb63a0645e", "c-0eb47159be"]
+        }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad y equilibrio: la frase sobre la apertura por la tarde omitía que, según c-23ba4e9ce1, se hará «con prioridad absoluta para los pacientes de la sanidad pública» y que a mutuas solo se alquilarían los tramos vacantes (c-6f38733168). Sin ese matiz la medida podía leerse como apertura para uso privado. Se añade la prioridad.",
+        "Precisión: «garantizar el aborto» se cambia por «el aborto garantizado en la red pública», más cerca de c-1e910b6147 (acceso garantizado a la interrupción voluntaria del embarazo en la red pública de todas las comunidades).",
+        "«Gerentes sanitarios» se da por bueno: c-f1c5a700e6 habla de «gerentes y cargos directivos en la sanidad pública» y c-e904371c7f de la dirección de hospitales y áreas de salud.",
+        "La garantía del aborto puede quedarse en sanidad: la cita habla del acceso en la red sanitaria pública.",
+        "Representatividad: la salud mental (Unidades de Enlace en colegios, seguimiento en 72 horas tras una conducta suicida, cribado perinatal) tiene varias citas del programa y queda fuera por el límite de palabras, igual que los hospitales monotemáticos, el triaje con IA y la ley contra agresiones a sanitarios. Para que quepa la corrección se acortan la primera y la última frase."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone elegir a los gerentes sanitarios por concurso de mérito y auditar con IA los recursos para reinvertir lo ahorrado.",
+          "apoyos": ["c-f1c5a700e6", "c-e904371c7f", "c-04cd0b2e69", "c-8ddbbd0b56", "c-1a34d21f04"]
+        },
+        {
+          "texto": "Plantea abrir los centros públicos por la tarde, con prioridad para sus pacientes, y alquilar las horas libres a mutuas, reinvirtiendo lo ingresado.",
+          "apoyos": ["c-23ba4e9ce1", "c-6f38733168"]
+        },
+        {
+          "texto": "Propone sustituir progresivamente las guardias de 24 horas por turnos máximos de 12, reconocer a enfermería en el grupo A1 y adecuar las ratios a la media europea.",
+          "apoyos": ["c-b0198db51f", "c-249b638fd2", "c-c2e9d7f79a", "c-12a53828a1"]
+        },
+        {
+          "texto": "Quiere un historial clínico accesible en cualquier centro público y el aborto garantizado en la red pública.",
+          "apoyos": ["c-c3bee30f49", "c-1e910b6147", "c-7012a87ae1"]
+        }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: el programa de educación dedica bloques enteros a la universidad (11 citas) y a la FP (9 citas), y el resumen no recogía ninguno de los dos. En cambio, la materia de Cultura Económica y Financiera en la ESO tiene 2 citas. Se sustituye esa frase por las medidas universitarias más concretas: prácticas tutorizadas en todos los títulos y pago de las becas al inicio de curso. Por espacio quedan fuera la FP y la materia de economía.",
+        "Forma: para no pasar de 90 palabras se acorta la primera frase sin cambiar su sentido.",
+        "Carrera docente: «Plantea … una carrera docente que no dependa solo de la antigüedad» se da por buena. «Plantea» no promete más de lo que dicen c-90bbb1ae65 y c-6a363aa49d (un modelo que se diseñaría con el profesorado y dejaría atrás el sistema basado solo en la antigüedad), aunque el resumen no menciona ese diseño conjunto.",
+        "«MIR Educativo» va entre comillas como término del partido, y su contenido (dos años de formación práctica remunerada) es fiel a c-f4d57fa9ee."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone situar a España entre los diez primeros países europeos en PISA en ocho años como máximo.",
+          "apoyos": ["c-ba9fa886f6", "c-51541c5ed9"]
+        },
+        {
+          "texto": "Plantea pruebas de acceso a los grados de Educación, un «MIR Educativo» de dos años de prácticas remuneradas y una carrera docente que no dependa solo de la antigüedad.",
+          "apoyos": ["c-788d4dcee3", "c-f4d57fa9ee", "c-90bbb1ae65", "c-6a363aa49d"]
+        },
+        {
+          "texto": "Plantea que ninguna familia de renta baja o media pague más de la mitad del coste medio de una plaza de 0 a 3 años.",
+          "apoyos": ["c-431c4b487b", "c-638a947a97"]
+        },
+        {
+          "texto": "En la universidad quiere prácticas tutorizadas en todos los títulos y pagar las becas al inicio de curso.",
+          "apoyos": ["c-783beb9fa1", "c-ab3a1fd54a", "c-7c5bbbb1e9"]
+        }
+      ]
+    }
+  ]
+}

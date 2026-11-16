@@ -6,14 +6,14 @@
 // (se puede fijar con FECHA_HOY=2026-10-20 para probar). sitio.js las vuelve
 // a calcular en el navegador, por si la web lleva días sin publicarse.
 
-import { readFile, writeFile, mkdir, rm, cp, readdir } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, rm, cp, readdir, access } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { base } from '../src/plantillas/base.mjs';
 import { hoyMadrid } from '../src/plantillas/util.mjs';
 import * as paginas from '../src/plantillas/paginas.mjs';
-import { validarBanco, bancoPublico } from '../src/plantillas/juegos.mjs';
+import { validarBanco, bancoPublico, partidosPublicos } from '../src/plantillas/juegos.mjs';
 import * as partidos from '../src/plantillas/partidos.mjs';
 
 const RAIZ = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -50,9 +50,9 @@ async function cargarPaginas() {
   return Promise.all(archivos.map(a => leerJson(join(dir, a))));
 }
 
-// Test sin siglas: el banco aprobado del año, sus partidos y las circunscripciones.
+// Test sin siglas: el banco del año (lo genera scripts/investigacion/generar-banco.mjs), sus candidaturas y las circunscripciones.
 // Si el banco no pasa la validación, la construcción se para con la lista de errores.
-const ANIO_TEST = 2023;
+const ANIO_TEST = 2026;
 
 async function cargarJuego() {
   const dir = join(SRC, 'contenido', 'juegos');
@@ -65,7 +65,7 @@ async function cargarJuego() {
   for (const a of (await readdir(join(SRC, 'js', 'juegos'))).filter(a => a.endsWith('.mjs')).sort()) {
     modulos[a.replace(/\.mjs$/, '.js')] = await readFile(join(SRC, 'js', 'juegos', a), 'utf8');
   }
-  return { anio: ANIO_TEST, banco: bancoPublico(banco), partidos, circunscripciones, modulos };
+  return { anio: ANIO_TEST, banco: bancoPublico(banco), partidos: partidosPublicos(partidos), circunscripciones, modulos, aprobado: banco.aprobado ?? null };
 }
 
 // Partidos y temas de 2026: lo genera scripts/investigacion/generar-web.mjs. Si no es válido, la construcción se para.
@@ -73,6 +73,18 @@ async function cargarPartidos() {
   const datos = await leerJson(join(SRC, 'contenido', 'partidos', 'partidos-2026.json'));
   const errores = partidos.validarPartidos(datos);
   if (errores.length) throw new Error(`Los datos de partidos no son válidos:\n  · ${errores.join('\n  · ')}`);
+  // Retratos de los cabezas de lista: créditos y procedencia en retratos.json (aparte, para que no los
+  // pise generar-web.mjs) e imágenes en src/estatico/retratos/. Cada retrato necesita su crédito y su archivo.
+  const { retratos, cambios } = await leerJson(join(SRC, 'contenido', 'partidos', 'retratos.json'));
+  const malos = [];
+  for (const [id, r] of Object.entries(retratos)) {
+    if (!datos.partidos.some(p => p.id === id)) malos.push(`${id}: no es un partido de partidos-2026.json`);
+    for (const c of ['persona', 'archivo', 'autor', 'licencia', 'origenUrl']) if (!r[c]) malos.push(`${id}: falta «${c}»`);
+    if (r.archivo) await access(join(SRC, 'estatico', r.archivo)).catch(() => malos.push(`${id}: no existe src/estatico${r.archivo}`));
+  }
+  if (malos.length) throw new Error(`Los retratos no son válidos:\n  · ${malos.join('\n  · ')}`);
+  datos.retratos = retratos;
+  datos.cambiosRetratos = cambios;
   return datos;
 }
 
@@ -162,6 +174,7 @@ async function construir() {
   const enBorrador = [...borradores.map(g => g.nombre), ...todosTextos.filter(p => p.borrador).map(p => p.titulo)];
   if (enBorrador.length) console.log(`BORRADOR (sin publicar): ${enBorrador.join(', ')}`);
   const pendientes = [...todas, ...todosTextos].flatMap(g => (g.pendiente || []).map(p => `  · ${g.nombre || g.titulo}: ${p}`));
+  if (!juego.aprobado) pendientes.push(`  · Test: el banco de tarjetas de ${juego.anio} está pendiente de aprobación (datos/investigacion-2026/tarjetas/banco.md).`);
   if (pendientes.length) console.log(`PENDIENTE:\n${pendientes.join('\n')}`);
 }
 

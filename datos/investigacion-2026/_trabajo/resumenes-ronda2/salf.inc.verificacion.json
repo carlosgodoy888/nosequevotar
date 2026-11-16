@@ -1,0 +1,33 @@
+{
+  "revisiones": [
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Peso: la frase nueva sobre la cláusula de penalización (que está en el programa y el candidato destacó en campaña) desplazaba entera una línea principal del programa: la reforma constitucional del CGPJ para que lo formen la elección de los jueces, la antigüedad o el sorteo (c-8f71fe7ed7). Se recupera dentro de la frase de reformas constitucionales.",
+        "Forma: «Bloquearía el sueldo...» presentaba el compromiso como un hecho y no usaba un verbo de atribución; se cambia a «Promete bloquear...», con «cederlo al Estado», que es lo que dice c-ee427c1179 («se lo queda España»).",
+        "Extensión: con el % contado como palabra, el resumen llegaba a 91 palabras, por encima del máximo de 90. Para que quepa el CGPJ, los aforamientos pasan a la frase 1 (c-227a4bd785, c-7995f9e2c3) y se quitan el Consejo de Estado, el «de lo recuperado» y la fecha de 2030; el total queda en 89 palabras.",
+        "Apoyos: se añaden c-a9cde121bd a la frase de corrupción y c-7995f9e2c3 a la de recortes, porque son declaraciones que repiten esas medidas del programa. Todos los ids existen en el tema."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone suprimir 12 ministerios, la mitad de los altos cargos, el Senado y los aforamientos, y dejar 400 asesores.",
+          "apoyos": ["c-d41acc4ca4", "c-d0d5412ea8", "c-b309c71eaf", "c-53b2486a79", "c-227a4bd785", "c-7995f9e2c3"]
+        },
+        {
+          "texto": "Plantea que la corrupción de cargos públicos no prescriba, que el condenado devuelva el triple y que el denunciante cobre el 15 %.",
+          "apoyos": ["c-1a885dd6f5", "c-84ebf31df1", "c-68f3cebae7", "c-0ff364dc2d", "c-a9cde121bd"]
+        },
+        {
+          "texto": "Pide reformar la Constitución para prohibir amnistías, sustituir el Constitucional por una sala del Supremo y formar el CGPJ por voto de los jueces, antigüedad o sorteo.",
+          "apoyos": ["c-7118889e8d", "c-bda52236cf", "c-8f71fe7ed7"]
+        },
+        {
+          "texto": "Promete bloquear el sueldo público de su candidato y cederlo al Estado si sus votos no respaldan todo el programa.",
+          "apoyos": ["c-ee427c1179", "c-f0ad1f8513"]
+        }
+      ]
+    }
+  ]
+}

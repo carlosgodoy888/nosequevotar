@@ -1,0 +1,68 @@
+{
+  "partido": "frente-amplio",
+  "lote": "frente-amplio.4",
+  "temas": [
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-a10aa9ecf4", "motivo": "Es el primer punto de su postura (al menos el 5 % del presupuesto no financiero a igualdad por ley), lleva cifra y encaja con el feminismo que su candidata presenta en campaña como motor de su programa.", "texto": null, "cambio": null },
+        { "id": "c-abb812b05c", "motivo": "Cubre la segunda línea, los derechos sexuales y reproductivos: blindaje constitucional del aborto en la sanidad pública; breve y clara.", "texto": null, "cambio": null },
+        { "id": "c-ffe86361d3", "motivo": "Representa la memoria democrática, el bloque con más medidas del tema; la resignificación de Cuelgamuros figura en su resumen y se entiende sola (la de reparación integral pasa de 80 palabras).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-31ce5d663f", "motivo": "La vuelta a la jubilación a los 65 es una de las dos medidas que presentó en campaña en la manifestación por las pensiones; corta y clara. La del blindaje constitucional con pensión mínima igual al SMI pasa de 80 palabras.", "texto": null, "cambio": null },
+        { "id": "c-4921e52c41", "motivo": "Cubre la subida por encima de la media de las pensiones contributivas más bajas y las no contributivas, lo más cercano a la Pensión Mínima Garantizada que destaca en campaña.", "texto": null, "cambio": null },
+        { "id": "c-67548cec88", "motivo": "Recoge la financiación que explica en campaña: elevar el tope máximo de cotización y una aportación de las empresas más automatizadas.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-f54cc017a4", "motivo": "Unificar Adif y Renfe en un operador público es la propuesta que su nota de campaña pone «en primer lugar» y resume su apuesta por un tren público centrado en las Cercanías. El abono único no tiene medida válida (95 palabras).", "texto": null, "cambio": null },
+        { "id": "c-a943f17e0d", "motivo": "Destinar al tren los casi 13.000 millones del plan de ampliación de aeropuertos es la línea de inversión ferroviaria frente al avión, propuesta por su candidata en campaña.", "texto": null, "cambio": null },
+        { "id": "c-4ac61d560c", "motivo": "Cubre otra línea de su postura: prohibir vuelos domésticos con alternativa en tren de 2,5 horas, coherente con su discurso contra el avión.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-36f9c231cf", "motivo": "Al menos un 2,3 % del PIB adicional a la financiación autonómica es su medida central con cifra en el tema; la línea del Estado federal y plurinacional no tiene medida concreta entre las candidatas.", "texto": null, "cambio": null },
+        { "id": "c-96d9efbb4e", "motivo": "Cubre la financiación municipal: participación de los ayuntamientos en los tributos del Estado hasta el 2,5 % del PIB, con calendario.", "texto": null, "cambio": null },
+        { "id": "c-79abbbeeb8", "motivo": "Cubre la línea de lenguas: ley del plurilingüismo, que figura en su resumen y de la que hablan sus dirigentes en campaña.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-f095286c5c", "motivo": "Es el primer punto de su postura: una ley de transición agroecológica con un 25 % de superficie ecológica en 2030 y el 100 % en 2050.", "texto": null, "cambio": null },
+        { "id": "c-a6d572bbb9", "motivo": "Cubre la reorientación de la PAC hacia explotaciones familiares excluyendo a fondos de inversión, segunda línea de su postura.", "texto": null, "cambio": null },
+        { "id": "c-c4e99a1a54", "motivo": "Cubre la despoblación con su medida más concreta: servicios básicos a menos de 30 minutos fijados por ley.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "corregido",
+      "problemas": [
+        "Orden: la regulación de las grandes plataformas es el bloque con más medidas del tema (unas 25 de 53, apartados 14.1 a 14.3) y la que destaca en campaña su portavoz (Tesh Sidi sobre la supervisión de la CNMC); el 3 % del PIB en I+D+i es un objetivo muy compartido que retrata peor lo propio de su postura. Se pasa la de la CNMC a primera y la de I+D+i a segunda."
+      ],
+      "elegidas": [
+        { "id": "c-926f597edb", "motivo": "Facultar a la CNMC para supervisar a las grandes plataformas y multarlas con hasta el 6 % de su facturación mundial resume el bloque más amplio del tema (gobernanza digital) y es lo que defienden sus portavoces en campaña.", "texto": null, "cambio": null },
+        { "id": "c-a6475b38ae", "motivo": "Cubre la línea de ciencia: inversión en I+D+i del 3 % del PIB en 2030, con cifra y plazo, primer punto de su resumen.", "texto": null, "cambio": null },
+        { "id": "c-64dd02a076", "motivo": "Cubre la línea de cultura con su medida central: una inversión mínima por ley del 0,2 % del PIB.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

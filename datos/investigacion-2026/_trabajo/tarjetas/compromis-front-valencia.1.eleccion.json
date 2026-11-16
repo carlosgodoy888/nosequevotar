@@ -1,0 +1,130 @@
+{
+  "partido": "compromis-front-valencia",
+  "lote": "compromis-front-valencia.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        { "id": "c-2b7dac4194", "motivo": "Primera línea del resumen (inversión pública masiva en vivienda protegida) con cifra concreta; Àgueda Micó repite en campaña «invertir el 1% del PIB en vivienda».", "texto": null, "cambio": null },
+        { "id": "c-0dedad5975", "motivo": "Segunda línea: prohibir la compra de viviendas a fondos y sociedades especulativas, que sus candidatos repiten en campaña («prohibir que los fondos buitre se queden con pisos»).", "texto": null, "cambio": null },
+        { "id": "c-f555b5424b", "motivo": "Tercera línea (protección de inquilinos): Micó dice en campaña que «la primera urgencia es acabar con los desahucios»; corta y clara.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-b6ac8300a9", "por_que_no": "La expropiación a grandes tenedores es parte de la línea 1 y sale en campaña, pero como primera da una imagen más extrema que la inversión del 1% del PIB, que es el eje del resumen." },
+        { "id": "c-17f51a422b", "por_que_no": "El gravamen del 10% desde la tercera vivienda está en el resumen y en campaña (impuestos a quien acumula), pero es larga (64 palabras) y es la cuarta línea del resumen." },
+        { "id": "c-c7c9af6199", "por_que_no": "Control de alquiler vía zonas tensionadas: misma línea que la de desahucios; se prefirió la que la candidata señala como primera urgencia." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        { "id": "c-df3c2a2d9f", "motivo": "Primera línea del resumen: jornada de cuatro días y 32 horas sin bajar el sueldo; concreta, con cifra y corta.", "texto": null, "cambio": null },
+        { "id": "c-bf44449c97", "motivo": "Salario mínimo garantizado por ley al 60% del salario medio, segunda parte de la línea principal y tema que destacan en campaña (subida del SMI).", "texto": null, "cambio": null },
+        { "id": "c-fa57433d3a", "motivo": "Segunda línea del resumen: recuperar la indemnización de 45 días y los salarios de tramitación.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-37fc5e078b", "por_que_no": "Autónomos (un año de pérdidas para el cese de actividad) es una línea del resumen, pero secundaria frente a jornada, SMI y despido." },
+        { "id": "c-ce1e862bff", "por_que_no": "Bonificación de cuota en baja por enfermedad grave de autónomos: línea secundaria." }
+      ],
+      "nota": "La participación de trabajadores en consejos de administración (línea 4 del resumen) está como candidata en el tema economía."
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        { "id": "c-485aceb77d", "motivo": "Primera línea del resumen: banca pública de inversión y crédito para pymes, cooperativas y familias; resume su modelo de más presencia pública en la economía.", "texto": null, "cambio": null },
+        { "id": "c-5ff56e7eb6", "motivo": "Reindustrialización con hojas de ruta financiadas para cerámica, calzado, juguete o automoción; en campaña insisten en diversificar la economía hacia sectores de alto valor añadido.", "texto": null, "cambio": null },
+        { "id": "c-3e4c08e8c0", "motivo": "Línea de pequeño comercio del resumen, con cifra concreta (reducir un 50% los domingos y festivos de apertura).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-534ecb9570", "por_que_no": "Más corta (48 palabras) y de la misma línea 1 (Estado en sectores estratégicos), pero menos concreta que la banca pública, que el resumen pone primero." },
+        { "id": "c-6bd8bf3c6c", "por_que_no": "Ayudas a fondo perdido al comercio: misma línea que la de domingos y festivos, menos distintiva." },
+        { "id": "c-44f77e2b4b", "por_que_no": "Revisar reglas fiscales y de deuda: relacionada con la línea 4, pero genérica; la reforma del artículo 135 está en el tema democracia." }
+      ],
+      "nota": "La tasa de 2 euros por noche en viviendas turísticas (línea 4 del resumen y destacada en campaña) no aparece entre las candidatas de este tema."
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        { "id": "c-2e3e2bd176", "motivo": "Primera línea del resumen: blindar la gestión pública derogando la Ley 15/1997; en campaña piden gestión directa pública de todos los hospitales.", "texto": null, "cambio": null },
+        { "id": "c-9013292324", "motivo": "Segunda línea: atención primaria con financiación mínima, ratios y listas de espera máximas fijadas por ley.", "texto": null, "cambio": null },
+        { "id": "c-c7411ad8da", "motivo": "Tercera línea (ampliar lo que cubre la sanidad pública): dentista, oftalmología, podología y nutrición en el SNS; acción única y clara.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-79e4c54a28", "por_que_no": "Atención sanitaria sin discriminación por origen es parte de la línea 1, pero la gestión pública es el eje que destacan en campaña." },
+        { "id": "c-fcf54151c4", "por_que_no": "Pacto por la salud mental: línea 2, cubierta ya por la de atención primaria." },
+        { "id": "c-b2d750a4c3", "por_que_no": "Supresión del copago de pensionistas: misma línea que la del catálogo, pero mezcla dos acciones (suprimir y reordenar aportaciones)." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        { "id": "c-797162ea89", "motivo": "Primera línea del resumen: regularizar a los migrantes que viven aquí; coincide con el discurso de campaña de tratar igual a quien vive y trabaja aquí.", "texto": null, "cambio": null },
+        { "id": "c-2fe22414dd", "motivo": "Segunda línea: eliminación de los CIE.", "texto": null, "cambio": null },
+        { "id": "c-375e489f14", "motivo": "Tercera línea: ampliar el derecho de voto de las personas migrantes.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-db2a49d91d", "por_que_no": "Prohibir devoluciones encubiertas: misma línea que los CIE; se prefirió el voto para cubrir otra línea." },
+        { "id": "c-795d09ff1c", "por_que_no": "De otro tema y mezcla acuerdos comerciales con el Pacto de Migración; hay medidas propias suficientes." }
+      ],
+      "nota": "«Regularizaremos y daremos derechos a quienes viven aquí» es breve; dentro del tema inmigración se entiende que se refiere a las personas migrantes."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        { "id": "c-7fd32b1d53", "motivo": "Primera línea del resumen (ampliar la participación electoral): voto a los 16 años; concreta y corta.", "texto": null, "cambio": null },
+        { "id": "c-a1cccb7c47", "motivo": "Segunda línea (transparencia): sustituir la ley de secretos oficiales.", "texto": null, "cambio": null },
+        { "id": "c-da4d13d8de", "motivo": "Tercera línea (reforma constitucional): suprimir la prioridad absoluta del pago de la deuda del artículo 135.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-88d69ccef1", "por_que_no": "Eliminar aforamientos: misma línea 1 que el voto a los 16, que el resumen cita primero." },
+        { "id": "c-0f49275783", "por_que_no": "Reforma de la Ley de Transparencia: línea 2, pero más larga (55 palabras) y menos concreta." },
+        { "id": "c-05a1cd8f2c", "por_que_no": "Oficina antifraude: línea 2, cubierta por secretos oficiales." }
+      ],
+      "nota": "Lo que destacan en campaña (continuar la comisión de investigación de la DANA, mayoría de izquierdas) no tiene medida candidata en el tema."
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        { "id": "c-4a5ba092d7", "motivo": "Primera línea del resumen: más inversión en educación pública hasta el 7% del PIB; con cifra.", "texto": null, "cambio": null },
+        { "id": "c-4b7ef4abb9", "motivo": "Segunda línea: comedor escolar gratuito y universal.", "texto": null, "cambio": null },
+        { "id": "c-42e8d4ae51", "motivo": "Tercera línea (universidad): tasas universitarias según recursos.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-2de0ecbc62", "por_que_no": "Concertada subsidiaria de la pública: parte de la línea 1, ya cubierta por la del 7% del PIB." },
+        { "id": "c-d188a1e940", "por_que_no": "Prohibir ceder suelo público a centros privados: misma línea 1." },
+        { "id": "c-4f30ec2f84", "por_que_no": "Becas pagadas a principio de curso: misma línea universitaria que las tasas." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        { "id": "c-c207416820", "motivo": "Primera línea del resumen: sacar de la factura de la luz el impuesto eléctrico y los cargos y pagarlos con los Presupuestos; acción concreta que afecta a todos.", "texto": null, "cambio": null },
+        { "id": "c-bdfa254a5a", "motivo": "Segunda línea: electrificación al 100% en 2030 y abandono de fósiles en 2040; con cifras y plazos.", "texto": null, "cambio": null },
+        { "id": "c-48141869f9", "motivo": "Línea de biodiversidad del resumen, con plazo (primer año de legislatura).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-3003b3e7dd", "por_que_no": "Recuperar la titularidad pública de las eléctricas: línea 1, pero como primera da una imagen más extrema que la rebaja de la factura." },
+        { "id": "c-098f58154f", "por_que_no": "No prorrogar las nucleares: misma línea 2 que la electrificación." },
+        { "id": "c-2b98333fbe", "por_que_no": "Lo más cercano a la línea de la DANA (no construir en zonas amenazadas), pero nombra al PP, mezcla dos acciones y trata de costas, no de zonas inundables." }
+      ],
+      "nota": "La línea 3 del resumen (impedir construir en zonas inundables tras la DANA), muy presente en campaña, no tiene una medida candidata limpia."
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "elegidas": [
+        { "id": "c-4ba028b3a7", "motivo": "Línea de derechos humanos del resumen (romper relaciones con Israel), la postura de política exterior más definida del programa.", "texto": null, "cambio": null },
+        { "id": "c-788f83b8a9", "motivo": "Primera línea del resumen en defensa: auditar todo el gasto en Defensa.", "texto": null, "cambio": null },
+        { "id": "c-7f0826df0e", "motivo": "Tercera línea: 0,7% para la cooperación blindado por ley.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-80f8aab4da", "por_que_no": "Prohibir la venta de armas a países que vulneren los derechos humanos: misma línea que la de Israel." },
+        { "id": "c-1aae3f896f", "por_que_no": "Referéndum en el Sáhara: misma línea 3 que el 0,7%." },
+        { "id": "c-c2ca664761", "por_que_no": "Superar la unanimidad en la UE: línea 4, más técnica." }
+      ],
+      "nota": "La Unión Europea de la Defensa que sustituya a la OTAN (línea 1) no figura entre las candidatas."
+    }
+  ]
+}

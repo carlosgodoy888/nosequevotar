@@ -1,0 +1,92 @@
+{
+  "revisiones": [
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: el resumen omitía el bloque sobre violencia machista y explotación sexual, que es de los más extensos del tema en el programa (refuerzo de juzgados de violencia sobre la mujer, más sanciones por explotación sexual sin sancionar a las personas prostituidas, plan estatal contra la explotación sexual). Se añade una frase.",
+        "Representatividad: la prohibición de las identificaciones por perfil étnico (tres citas: prohibición por ley, formularios de parada y estadísticas) pesa más que el derecho de sindicación policial, que es una sola medida; se sustituye una por otra.",
+        "Fidelidad: el programa dice «impulsaremos el reconocimiento» del derecho de sindicación, no «reconocer» directamente; la frase se rehace y desaparece el problema.",
+        "Forma: se recorta el nombre de la ley y la frase de la DANA para no pasar de 90 palabras con cuatro frases; «ley mordaza» queda como el programa la presenta («conocida como»).",
+        "Queda fuera por espacio la petición de campaña de la candidata de que continúe la comisión de investigación de la DANA y la reforma del acceso a la carrera judicial."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone derogar la Ley de Seguridad Ciudadana, conocida como «ley mordaza», abolir las pelotas de goma y prohibir las identificaciones policiales por perfil étnico.",
+          "apoyos": ["c-f8ae42af7e", "c-2338890586", "c-2b060c4d4e", "c-245bfcf176", "c-e644d0a22a"]
+        },
+        {
+          "texto": "Plantea crear diez juzgados, que el Congreso ratifique al Fiscal General y suprimir la Sala de lo Penal de la Audiencia Nacional.",
+          "apoyos": ["c-407b20c0b0", "c-f9193c2394", "c-bcd0218dd3"]
+        },
+        {
+          "texto": "Pide más sanciones por explotación sexual, sin sancionar a las personas prostituidas, y reforzar los juzgados de violencia sobre la mujer.",
+          "apoyos": ["c-ccde61e8b6", "c-e80a04123a", "c-49b3132bcc"]
+        },
+        {
+          "texto": "Tras la DANA, pide reforzar Protección Civil y la UME, crear un fondo de reconstrucción e impedir construir en zonas inundables.",
+          "apoyos": ["c-41f9ef1ca4", "c-13b036e743", "c-73eb145d1e", "c-e40c60cb98"]
+        }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad: el programa propone suprimir la «prioridad absoluta» del pago de la deuda en el artículo 135, no cualquier prioridad; se añade «absoluta».",
+        "Neutralidad: «mayoría de izquierdas» es expresión del propio programa y va entre comillas y atribuida; la idea de que el PSOE dependa de partidos como el suyo procede de una declaración de campaña de la candidata y va atribuida a ella. Correcto.",
+        "Se mantiene la omisión del calificativo «franquista» que el programa aplica a la ley de secretos oficiales: describir la medida sin él es correcto.",
+        "Ids comprobados: todos existen en las citas del tema."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone rebajar la edad de voto a 16 años, ampliar el voto de las personas migrantes y eliminar el aforamiento parlamentario y judicial.",
+          "apoyos": ["c-7fd32b1d53", "c-375e489f14", "c-88d69ccef1"]
+        },
+        {
+          "texto": "Plantea sustituir la ley de secretos oficiales, reformar la Ley de Transparencia, regular los lobbies y crear una oficina antifraude.",
+          "apoyos": ["c-a1cccb7c47", "c-0f49275783", "c-a85884bdde", "c-05a1cd8f2c"]
+        },
+        {
+          "texto": "Quiere reformar la Constitución para suprimir la prioridad absoluta del pago de la deuda y pasar de un Estado aconfesional a uno laico.",
+          "apoyos": ["c-da4d13d8de", "c-71d0ae839b", "c-7b05ff91e1"]
+        },
+        {
+          "texto": "Dice querer formar parte de «una mayoría de izquierdas» que gobierne; su candidata planteó que el PSOE dependa de partidos como el suyo.",
+          "apoyos": ["c-8c26c4794e", "c-43b2533c85"]
+        }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [
+        "Las medidas de financiación y de competencias se refieren a la Comunidad Valenciana y las frases lo dejan claro al nombrar a la Generalitat Valenciana y la «infrafinanciación valenciana».",
+        "Los términos propios («infrafinanciación valenciana», «concierto económico responsable», «Estado plurinacional») van entre comillas y atribuidos.",
+        "«Pide» condonar la deuda es algo más suave que «exigiremos», pero es un verbo de atribución neutro admitido; la fuerza se mantiene.",
+        "Ids comprobados: todos existen en las citas del tema. Recoge las líneas principales (financiación, competencias, modelo de Estado y municipalismo)."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone reformar la financiación autonómica con criterios de población y servicios para acabar con lo que llama «infrafinanciación valenciana».",
+          "apoyos": ["c-3d2e58f9ff", "c-60e52eb2e3"]
+        },
+        {
+          "texto": "Defiende un «concierto económico responsable» o, en su defecto, que la Generalitat Valenciana recaude la mayor parte de los tributos, y pide condonar su deuda histórica.",
+          "apoyos": ["c-4c9bd157e7", "c-b612b0c8a7", "c-2e146f71b1"]
+        },
+        {
+          "texto": "Quiere traspasar a la Generalitat competencias como Cercanías, puertos, aeropuertos, costas o el Ingreso Mínimo Vital, y avanzar hacia un «Estado plurinacional».",
+          "apoyos": ["c-25a6b5d698", "c-0d65244908", "c-befb538996"]
+        },
+        {
+          "texto": "También plantea suprimir las diputaciones provinciales, reconocer jurídicamente las comarcas valencianas y convertir el Senado en un espacio de representación territorial.",
+          "apoyos": ["c-37cb754815", "c-ba4c036f89", "c-d3e6dacb51"]
+        }
+      ]
+    }
+  ]
+}

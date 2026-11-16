@@ -1,0 +1,73 @@
+{
+  "resumenes": [
+    {
+      "tema": "medio-ambiente-y-energia",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone sacar de la factura el impuesto eléctrico y los cargos de política energética, pagándolos con los Presupuestos, y contratos a precio fijo para renovables.",
+          "apoyos": ["c-c207416820", "c-e0fb2b940b"]
+        },
+        {
+          "texto": "Plantea una empresa pública de energía y la titularidad pública progresiva de las grandes eléctricas y Red Eléctrica.",
+          "apoyos": ["c-feb557d237", "c-3003b3e7dd", "c-81735e0410", "c-9df1336a37"]
+        },
+        {
+          "texto": "Quiere electrificar el sistema al 100 % en 2030, dejar los combustibles fósiles en 2040 y no prorrogar más las nucleares.",
+          "apoyos": ["c-bdfa254a5a", "c-098f58154f"]
+        },
+        {
+          "texto": "También propone un plan de emergencia por la biodiversidad, revertir la reforma de Costas de 2013 y suprimir los espectáculos taurinos con muerte y sufrimiento animal.",
+          "apoyos": ["c-48141869f9", "c-2b98333fbe", "c-9ebd3de6c6"]
+        }
+      ],
+      "nota": "Sobre Red Eléctrica el programa da dos cifras (mínimo 51 % en c-9df1336a37 y 100 % en c-81735e0410); se ha escrito «titularidad pública» sin cifra. El cierre de Cofrents en 2030 solo consta en declaración y queda cubierto por la medida general del programa."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone reforzar la ley de la cadena alimentaria para que los precios cubran los costes de producción y etiquetar la parte del precio que va al productor.",
+          "apoyos": ["c-e3c0e953c7", "c-5fdf60ed36"]
+        },
+        {
+          "texto": "Reivindica una PAC adaptada a la agricultura mediterránea que priorice a los profesionales y defiende un IVA reducido para la producción agraria.",
+          "apoyos": ["c-250d72df03", "c-311530a0f4"]
+        },
+        {
+          "texto": "Plantea un estatuto de los agricultores y ganaderos profesionales, más controles a las importaciones extracomunitarias y apoyo al relevo generacional.",
+          "apoyos": ["c-98db40a62f", "c-5ad87cd4bf", "c-dd1832aeee"]
+        },
+        {
+          "texto": "Propone además un fondo que pague a los municipios rurales por sus servicios ambientales y una moratoria de nuevas macrogranjas.",
+          "apoyos": ["c-a71f0bfc03", "c-c1df017bb9"]
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "transporte",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Plantea eliminar lo que llama «privilegios fiscales» de la aviación y destinar los 6.000 millones anuales recaudados al ferrocarril.",
+          "apoyos": ["c-2b167a6817"]
+        },
+        {
+          "texto": "Quiere limitar los vuelos nacionales con alternativa ferroviaria de menos de dos horas y media y reestructurar Adif con más personal propio e inversión en mantenimiento.",
+          "apoyos": ["c-4145580ad7", "c-3d240c03b6"]
+        },
+        {
+          "texto": "Para el País Valenciano propone un plan de Cercanías de 1.500 millones con 58 trenes nuevos, acelerar el Corredor Mediterráneo y un servicio Avant Alicante-Valencia en una hora.",
+          "apoyos": ["c-f75de9535a", "c-4d9ffd77eb", "c-f10f04cee9"]
+        },
+        {
+          "texto": "Su candidata pide además que la Generalitat asuma Cercanías con la financiación necesaria.",
+          "apoyos": ["c-befb538996", "c-fadc008e44"]
+        }
+      ],
+      "nota": "El traspaso de Cercanías procede solo de declaraciones de la cabeza de lista por Valencia, por eso va atribuido."
+    }
+  ]
+}

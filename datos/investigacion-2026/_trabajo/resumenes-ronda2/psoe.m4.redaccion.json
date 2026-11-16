@@ -1,0 +1,73 @@
+{
+  "resumenes": [
+    {
+      "tema": "democracia-e-instituciones",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone reformar la Constitución para proteger como derechos fundamentales la salud y la vivienda y garantizar en ella las pensiones y el aborto.",
+          "apoyos": ["c-ff9cda1595", "c-35f95c0f4a", "c-44293a5804", "c-ae3d8d7d6a", "c-710673783c", "c-39efebb321"]
+        },
+        {
+          "texto": "Plantea rebajar la edad de voto a 16 años y crear un «escaño ciudadano» sin voto en el Congreso y el Senado.",
+          "apoyos": ["c-f449e653d8", "c-fafb49bb6c", "c-65ab274758"]
+        },
+        {
+          "texto": "Quiere una agencia independiente de integridad pública, un registro obligatorio de grupos de interés y suprimir los aforamientos por delitos ajenos al cargo.",
+          "apoyos": ["c-f2dc12ab09", "c-90013404eb", "c-fcdd0617a2"]
+        },
+        {
+          "texto": "Plantea un mandato de cinco años para la Fiscalía General y dar la investigación penal a la Fiscalía bajo supervisión judicial.",
+          "apoyos": ["c-9d45151e5c"]
+        }
+      ],
+      "nota": "Todo procede del programa de 2026; la declaración del candidato del 14-11-2026 sobre pensiones solo refuerza lo que ya dice el programa. La reforma del Senado se deja para organización territorial por espacio."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende que el Estado autonómico «funcione mejor», con más cooperación entre administraciones y sin «recentralizar ni fragmentar».",
+          "apoyos": ["c-ab35d62a47"]
+        },
+        {
+          "texto": "Propone convertir el Senado en cámara territorial con circunscripciones autonómicas, institucionalizar la Conferencia de Presidentes y aprobar una ley de cooperación interadministrativa.",
+          "apoyos": ["c-783d64d393", "c-ff25719af6", "c-c1dd7ffc42"]
+        },
+        {
+          "texto": "En financiación, defiende el nuevo sistema autonómico, con 21.000 millones adicionales, y que el Estado asuma parte de la deuda autonómica, 83.000 millones.",
+          "apoyos": ["c-529fbc613b", "c-743fd19fad"]
+        },
+        {
+          "texto": "También plantea extender el uso de las lenguas cooficiales a la Administración del Estado en sus territorios y promueve su oficialidad en la Unión Europea.",
+          "apoyos": ["c-3327ce6fc1", "c-49d85abe09"]
+        }
+      ],
+      "nota": "Todo procede del programa de 2026. Quedan fuera por espacio el Régimen 20, la financiación local, el REF de Canarias y el plan para Ceuta y Melilla."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone que las renovables generen el 81 % de la electricidad en 2030 y una hoja de ruta para abandonar progresivamente los combustibles fósiles.",
+          "apoyos": ["c-b9af8eb09a", "c-861b2601d8", "c-7ee98271de"]
+        },
+        {
+          "texto": "Defiende mantener el calendario de cierre de las centrales nucleares hasta 2035 y plantea ampliar las redes eléctricas y el almacenamiento energético.",
+          "apoyos": ["c-4976ef8b1f", "c-d1e54bb2e6", "c-332f9c812b"]
+        },
+        {
+          "texto": "Plantea una Ley de Adaptación al Cambio Climático, bancos públicos de agua y el reconocimiento constitucional del acceso al agua potable.",
+          "apoyos": ["c-95d2635b6c", "c-01a2e3c5f9", "c-e437d6c1f5", "c-fa844fdf0d"]
+        },
+        {
+          "texto": "Quiere proteger al menos el 30 % de los ecosistemas y reducir el vertido de residuos por debajo del 30 % en 2030.",
+          "apoyos": ["c-cd12f59464", "c-c755ea728f"]
+        }
+      ],
+      "nota": "Todo procede del programa de 2026. Quedan fuera por espacio la tasa a jets privados y megayates, el bono social único y las medidas de bienestar animal."
+    }
+  ]
+}

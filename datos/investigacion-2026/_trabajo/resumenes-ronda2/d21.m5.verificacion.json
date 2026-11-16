@@ -1,0 +1,71 @@
+{
+  "revisiones": [
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "corregido",
+      "problemas": [
+        "La frase de energía citaba solo «neutral en las tecnologías» y dejaba fuera la otra mitad de la misma cita (c-8a412e72ce: «exigente con los objetivos de descarbonización»), que c-f203a41b30 repite; recortada así se inclinaba hacia un lado. Se añade.",
+        "La ley de bienestar animal se presentaba «redactada con veterinarios y protectoras», cuando c-a0e821a6c3 nombra a veterinarios, biólogos, protectoras, criadores responsables y familias; elegir dos de esos colectivos sesga la lectura. Se resume como «basada en el consenso técnico».",
+        "«Quiere ... bomberos forestales todo el año» no se entendía bien; c-4019392612 habla de hacer cumplir que trabajen todo el año. Se corrige.",
+        "Para no pasar de 90 palabras se quitan las tarifas progresivas del agua y se mantienen la Comisión Técnica y la cifra de triplicar la renovación de redes. Dejar fuera residuos, olas de calor y la reforma de la profesión veterinaria es aceptable por espacio: energía, incendios, agua y protección animal son los bloques que más pesan."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende una regulación energética exigente con la descarbonización pero «neutral en las tecnologías», prohibir por ley cambios retroactivos sobre proyectos de generación y dejar de penalizar fiscalmente la electricidad.", "apoyos": ["c-8a412e72ce", "c-f203a41b30", "c-77b372fcbc", "c-201872c47c", "c-2d6e54653f"] },
+        { "texto": "En agua, plantea una Comisión Técnica del Agua independiente y triplicar el ritmo de renovación de redes.", "apoyos": ["c-0ee49eb9cd", "c-600802a280"] },
+        { "texto": "Contra los incendios, quiere gestionar un millón de hectáreas al año y que los bomberos forestales trabajen todo el año.", "apoyos": ["c-c63947f808", "c-4019392612", "c-6918dca851"] },
+        { "texto": "Propone una nueva Ley de Bienestar Animal basada en el consenso técnico y bajar del 10% al 4% el IVA de los medicamentos veterinarios.", "apoyos": ["c-a0e821a6c3", "c-a4e2b7853e", "c-d4e9d8e892"] }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide que el marco financiero europeo 2028-2034 incluya una estrategia contra la despoblación, con incentivos fiscales, conectividad y fondos para el relevo generacional en el medio rural.", "apoyos": ["c-3b69c1619d"] },
+        { "texto": "Defiende una PAC y una política pesquera que modernicen el sector primario y aseguren competencia equitativa frente a las importaciones de terceros países.", "apoyos": ["c-f798250bfe"] },
+        { "texto": "Plantea incentivos fiscales al riego inteligente y rebajar el IVA de los trabajos de prevención de incendios, con la ganadería extensiva y los cultivos como cortafuegos.", "apoyos": ["c-a9eebbcbec", "c-af07ba36ae", "c-c63947f808"] }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una Estrategia Estatal de Infraestructuras a 25 años y que ninguna gran obra se apruebe sin demostrar que compensa más que mejorar lo existente.", "apoyos": ["c-ac7fb5a2f1", "c-46db4cadc4"] },
+        { "texto": "Defiende «conservar antes que inaugurar», con programas plurianuales de conservación de firmes, puentes y túneles.", "apoyos": ["c-8d6a6d94c2", "c-571a598ea0", "c-451337aee4"] },
+        { "texto": "En el tren, plantea una revisión independiente de la señalización de toda la alta velocidad en seis meses, extender el ERTMS y planes de fiabilidad para Cercanías.", "apoyos": ["c-bb7fc17ee9", "c-bd2d300bbd", "c-15ef6dd65d"] },
+        { "texto": "Quiere elegir por mérito a los gestores de las empresas públicas de infraestructuras.", "apoyos": ["c-dee4d56e47"] }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: la cuarta frase destacaba el 40% de mujeres en las presidencias federativas (c-11a038a3a3), una medida secundaria, y omitía el reconocimiento de la filiación de los niños sea cual sea su nacimiento, incluida la gestación por sustitución (c-5693c3c255, c-49a1c799c7), que el programa trata en un apartado propio dentro de «Todas las familias cuentan». Se sustituye.",
+        "«Violencia de género» es correcto: el propio programa usa ese término (c-95c7457049) además de «violencia machista»."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Rechaza cualquier retroceso en igualdad entre hombres y mujeres, protección frente a la violencia de género y derechos LGTBIQ+.", "apoyos": ["c-062968ca62", "c-95c7457049", "c-330bdb30ba", "c-dc3c35b5ba"] },
+        { "texto": "Se opone a limitar la ley de plazos del aborto y pide garantizarlo en la sanidad pública de todas las comunidades.", "apoyos": ["c-7012a87ae1", "c-1e910b6147"] },
+        { "texto": "Propone elevar a ley que las parejas de mujeres, casadas o no, inscriban a sus hijos como de ambas, e incluir el método ROPA en la sanidad pública.", "apoyos": ["c-48c6cefd96", "c-4fb55ff19c"] },
+        { "texto": "Quiere reconocer por vía ágil la filiación de los niños sea cual sea su nacimiento, incluida la gestación por sustitución.", "apoyos": ["c-5693c3c255", "c-49a1c799c7"] }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea reforzar el pilar europeo dentro de la OTAN con compras conjuntas de armamento y una base industrial de defensa comunitaria.", "apoyos": ["c-647eda98a7", "c-3a2b317ddf", "c-5a1814b0c0"] },
+        { "texto": "Propone eliminar progresivamente la salida forzosa de soldados y marineros a los 45 años y reconocer la profesión militar como de riesgo.", "apoyos": ["c-bb55e46d93", "c-33b149c651"] },
+        { "texto": "En la UE, pide aplicar los informes Draghi y Letta y congelar fondos a los gobiernos que vulneren el Estado de derecho.", "apoyos": ["c-4fd43fe26b", "c-69e4152e19"] },
+        { "texto": "Para Ceuta y Melilla quiere un estatus europeo de protección específico; su candidata planteó además su entrada plena en la unión aduanera y en Schengen.", "apoyos": ["c-819d4ba6a8", "c-a66a059f9f"] }
+      ]
+    }
+  ]
+}

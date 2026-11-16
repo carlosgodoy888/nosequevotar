@@ -1,0 +1,88 @@
+{
+  "revisiones": [
+    {
+      "tema": "economia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: omitía la protección de los consumidores, uno de los bloques con más citas del programa en el tema (c-5d2d47d76f, c-319e83550d, c-f3a5865f07, c-29a9bdf46c, c-8fbeeba5f3, c-4e97a8f37f, c-8c75e70708, c-ee7754173e, c-5ffaea4a6d); se añade junto al refuerzo de la CNMC.",
+        "Representatividad: omitía el refuerzo del sector público empresarial y la participación del Estado en sectores estratégicos (c-85b450e7d7, c-83fc04b8a4); se incorpora a la primera frase en lugar del objetivo de que la industria gane peso, que es una aspiración y no una medida.",
+        "Para dejar sitio sin pasar de 90 palabras, la I+D y la senda de deuda y déficit se juntan en una frase; se quita el detalle del nuevo plan fiscal.",
+        "Duda del redactor sobre la deducción en el IRPF: se mantiene, porque el programa la presenta como medida contra el coste de la vida (apartado «Coste de vida y poder adquisitivo»), que este tema incluye en su definición."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone movilizar 120.000 millones de euros con el Fondo España Crece, aprobar una Ley de Industria y Autonomía Estratégica y reforzar el sector público empresarial.",
+          "apoyos": ["c-49005d5903", "c-9604cc5edc", "c-0dfc16ac26", "c-85b450e7d7", "c-83fc04b8a4"]
+        },
+        {
+          "texto": "Plantea elevar la inversión pública en I+D hasta el 1,5% del PIB para 2035 y mantener una senda decreciente de deuda y déficit.",
+          "apoyos": ["c-1bbf27aea8", "c-829cfcb16d", "c-fce1814369"]
+        },
+        {
+          "texto": "Ante el coste de la vida, propone un bono social único y automático y una deducción en el IRPF ligada a la subida de precios.",
+          "apoyos": ["c-cef708fde2", "c-036d044955"]
+        },
+        {
+          "texto": "También quiere reforzar la CNMC y proteger a los consumidores frente a prácticas engañosas y costes ocultos.",
+          "apoyos": ["c-93f01d5b49", "c-fb0c251ce7", "c-5d2d47d76f", "c-4e97a8f37f", "c-8c75e70708"]
+        }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad: la cita c-3dbaa1ee69 dice que los tratamientos dentales básicos se incorporarán «progresivamente»; el resumen lo omitía y daba a entender una incorporación inmediata.",
+        "Fidelidad (alcance): la ayuda de hasta 200 euros «empezará por los hogares de rentas medias y bajas» (c-73df85109d); decir solo «por persona» sugería una ayuda para todos desde el principio. Se añade el alcance."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende una sanidad pública y universal y propone acabar con las listas de espera con una financiación pública en torno al 7% del PIB.",
+          "apoyos": ["c-e4fffe396e", "c-5ed0943cdb"]
+        },
+        {
+          "texto": "Plantea limitar la privatización, con la gestión directa como modalidad preferente, y reforzar la atención primaria.",
+          "apoyos": ["c-e5a630ab19", "c-b77b1f8a76"]
+        },
+        {
+          "texto": "Quiere incorporar progresivamente a la sanidad pública los tratamientos dentales básicos de adultos y, entretanto, dar una ayuda de hasta 200 euros anuales, empezando por rentas medias y bajas.",
+          "apoyos": ["c-3dbaa1ee69", "c-73df85109d"]
+        },
+        {
+          "texto": "También propone atención psicológica gratuita, con una primera consulta en un plazo máximo de 30 días.",
+          "apoyos": ["c-fab4f84055"]
+        }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: omitía la Formación Profesional, que tiene apartado propio en el programa con varias medidas (más plazas públicas de FP Media y Superior, ampliar la FP Básica, más becas y ayudas: c-aad1d5e11d, c-b602be3c10, c-d3081d064f); se añade una frase.",
+        "Forma: «limitar la capacidad de las aulas» era ambiguo (podía leerse como capacidad física); la cita habla de la capacidad máxima de alumnado por aula. Se reformula.",
+        "Para no pasar de 90 palabras se acorta la primera frase sin cambiar su contenido. Las becas Erasmus y la ratio de orientadores siguen fuera por espacio, lo que se considera aceptable."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende una educación pública y gratuita de 0 a 18 años y propone universalizar la etapa de 0 a 3 años con más escuelas infantiles públicas.",
+          "apoyos": ["c-860102f13c", "c-a5bcae41f2"]
+        },
+        {
+          "texto": "Plantea ampliar las becas, limitar el alumnado por aula, aprobar un Estatuto del Docente y bajar el abandono escolar temprano por debajo del 10% antes de 2030.",
+          "apoyos": ["c-2750317968", "c-e60801791b", "c-7769732c87"]
+        },
+        {
+          "texto": "En la universidad, propone impulsar la matrícula gratuita del primer curso de grado en las públicas y una ley que les asegure una financiación estable.",
+          "apoyos": ["c-62991e5157", "c-9dd0a803e1", "c-328b48e2d0"]
+        },
+        {
+          "texto": "Para la Formación Profesional, plantea más plazas públicas y más becas.",
+          "apoyos": ["c-aad1d5e11d", "c-b602be3c10", "c-d3081d064f"]
+        }
+      ]
+    }
+  ]
+}

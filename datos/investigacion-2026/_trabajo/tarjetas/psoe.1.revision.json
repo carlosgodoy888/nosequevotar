@@ -1,0 +1,86 @@
+{
+  "partido": "psoe",
+  "lote": "psoe.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-df4346b0f8", "motivo": "El grueso de su programa de vivienda es aumentar la oferta pública y asequible (parque estatal, ICO, suelo, plan estatal, proveedores sociales); el parque público de 100.000 viviendas lo resume con cifra y es más votable que el 1% del PIB. El impuesto a grandes tenedores pesa en campaña, pero es una sola medida dentro de un programa centrado en la oferta pública, así que se mantiene este orden.", "texto": null, "cambio": null },
+        { "id": "c-0f5708d128", "motivo": "Línea fiscal contra la especulación (impuesto progresivo a viviendas de grandes tenedores no destinadas a alquiler asequible), la que más repite Sánchez en campaña; dice lo mismo que c-918d56d137 en la mitad de palabras.", "texto": null, "cambio": null },
+        { "id": "c-5ba7199050", "motivo": "Línea de regulación del alquiler (congelar temporalmente las rentas por encima de los índices de referencia), distinta de la oferta pública y del impuesto y recogida en el resumen.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-9f11b3d30d", "motivo": "Primera línea del resumen: blindar por ley el SMI por encima del 60% del salario medio, con cifra; encaja con el mensaje salarial de campaña.", "texto": null, "cambio": null },
+        { "id": "c-9df3920cad", "motivo": "Segunda línea principal: completar la reducción de jornada a 37,5 horas sin pérdida salarial y avanzar hacia las 35.", "texto": null, "cambio": null },
+        { "id": "c-a5d51f4b24", "motivo": "Prestación de cuatro semanas de permiso al 100% para cuidar a hijos menores de ocho años: está en el resumen y es la promesa laboral que más destaca Sánchez en campaña; se prefiere a la reforma del despido por ese peso en campaña.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-49005d5903", "motivo": "Primera línea del resumen: nueva etapa de inversión productiva con el Fondo España Crece de 120.000 millones; encaja con el mensaje de campaña de más inversión y lleva cifra.", "texto": null, "cambio": null },
+        { "id": "c-cef708fde2", "motivo": "Línea de coste de la vida: bono social único y automático, medida concreta y fácil de votar.", "texto": null, "cambio": null },
+        { "id": "c-0dfc16ac26", "motivo": "Política industrial y de autonomía estratégica (Ley de Industria y Autonomía Estratégica), parte central del resumen y de la campaña; la lista de sectores describe los medios de una misma política, no acciones distintas.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-5ed0943cdb", "motivo": "Primera línea del resumen: acabar con las listas de espera con financiación pública en torno al 7% del PIB y reforzando el carácter público del SNS.", "texto": null, "cambio": null },
+        { "id": "c-3dbaa1ee69", "motivo": "Plan Sonríe: incorporar los tratamientos dentales básicos de adultos a la sanidad pública, línea propia del resumen; la ayuda de 200 euros empieza por «Mientras tanto» y no se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-fab4f84055", "motivo": "Salud mental: atención psicológica gratuita con primera consulta en 30 días como máximo, línea propia del resumen con plazo concreto.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-5137fd8b8e", "motivo": "Integración con derechos y obligaciones: Plan de Integración y Ciudadanía 2026-2030 con 500 millones, con cifra; la línea de migración ordenada y contratación en origen no tiene medida candidata.", "texto": null, "cambio": null },
+        { "id": "c-ced36fa5bd", "motivo": "Línea de asilo y acogida: ampliar las vías legales y seguras de protección internacional y reforzar el sistema público de acogida.", "texto": null, "cambio": null },
+        { "id": "c-565862540c", "motivo": "Vertiente de emigración (plan de retorno del talento joven), medida propia del tema, corta y que se entiende sola; c-9f5d3ae5a3 mezcla el retorno con la reforma consular y las de otro tema no se usan porque hay medidas propias suficientes.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-35f95c0f4a", "motivo": "Primera línea del resumen: reforma constitucional para proteger la salud y la vivienda como derechos fundamentales; la campaña también insiste en reformas constitucionales de derechos sociales.", "texto": null, "cambio": null },
+        { "id": "c-f2dc12ab09", "motivo": "Línea anticorrupción: Ley de Integridad Pública y Agencia Independiente de Integridad Pública, núcleo de la línea 3 del resumen.", "texto": null, "cambio": null },
+        { "id": "c-f449e653d8", "motivo": "Línea de participación: rebajar la edad de voto a 16 años, medida clara para votar; el escaño ciudadano va mezclado con la rebaja de firmas de la ILP.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-a5bcae41f2", "motivo": "Primera línea del resumen: universalizar la educación de 0 a 3 años con más escuelas infantiles públicas.", "texto": null, "cambio": null },
+        { "id": "c-62991e5157", "motivo": "Línea universitaria con su medida más concreta: matrícula gratuita del primer curso de grado en las universidades públicas.", "texto": null, "cambio": null },
+        { "id": "c-2750317968", "motivo": "Línea de becas y alumnos por aula (línea 2 del resumen); el propio programa junta las dos cosas en una medida, ambas en la misma dirección, y no hay otra candidata que las recoja.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-861b2601d8", "motivo": "Primera línea del resumen: renovables hasta el 81% de la generación eléctrica en 2030, con cifra; enlaza con la apuesta por las energías limpias de la campaña.", "texto": null, "cambio": null },
+        { "id": "c-4976ef8b1f", "motivo": "Postura nuclear: mantener el calendario de cierre de las centrales hasta 2035, línea 2 del resumen y claramente votable.", "texto": null, "cambio": null },
+        { "id": "c-95d2635b6c", "motivo": "Adaptación al cambio climático (Ley de Adaptación al Cambio Climático), primera medida de la línea 3 del resumen.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

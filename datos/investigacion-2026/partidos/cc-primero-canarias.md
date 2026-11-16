@@ -4,8 +4,8 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** coalicion. Miembros: Coalición Canaria (CC); Municipalistas Primero Canarias (1.ºCAN)
 - **Cabeza de cartel:** Cristina Valido (Santa Cruz de Tenerife) y Teodoro Sosa (Las Palmas).
-- **Programa para el 29 de noviembre:** publicado (comprobado el 12 de noviembre de 2026)
-- **Citas recogidas:** 223 vigentes: 182 medidas, de ellas 84 concretas, y 41 posiciones. De programa, verificadas contra su página: 111 exactas y 112 normalizadas.
+- **Programa para el 29 de noviembre:** publicado (comprobado el 16 de noviembre de 2026)
+- **Citas recogidas:** 236 vigentes: 187 medidas, de ellas 89 concretas, y 49 posiciones. De programa, verificadas contra su página: 111 exactas y 112 normalizadas. Declaraciones verificadas abriendo su fuente: 13.
 - **Pendiente:** La medida 11 (p. 9) está cortada en el propio PDF («…desplazamientos interinsulares por»); comprobado con la imagen de la página. La cita se conserva tal cual.
 
 ## Lo que dicen sus documentos
@@ -297,4 +297,47 @@ Programa de estas elecciones · 9 de noviembre de 2026 · 23 páginas · en cast
 - **99.** «Cada compromiso deberá contar con financiación, plazos y responsables. Su cumplimiento y los nuevos acuerdos con el Estado y Europa orientarán nuestra posición ante las decisiones de las Cortes Generales.» (p. 21) · medida · _Cumplimiento de compromisos como criterio de posición en las Cortes_
 - **100.** «Rendir cuentas de lo conseguido y de lo pendiente. Impulsaremos un informe público anual sobre las obligaciones estatales con Canarias, que distinga las cantidades presupuestadas, transferidas y efectivamente ejecutadas.» (p. 21) · medida concreta · _Informe público anual sobre obligaciones estatales con Canarias_
 - **100.** «Explicaremos qué leyes se han modificado, qué financiación se ha obtenido, qué convenios se han firmado y qué competencias se han transferido. También rendiremos cuentas sobre los compromisos pendientes y exigiremos su cumplimiento.» (p. 21) · medida · _Rendición de cuentas sobre logros y compromisos pendientes_
+
+## Lo que han dicho sus portavoces
+
+Declaraciones, no programa.
+
+### Vivienda
+
+- «Yo defiendo que se establezcan requisitos de residencia para determinadas situaciones. Por ejemplo, que una persona extranjera no residente tenga que acreditar diez años de residencia para poder comprar una vivienda.» · Teodoro Sosa, candidato al Congreso y cabeza de lista por Las Palmas, (Primero Canarias) · 14 de noviembre de 2026 · [declaración en medios: Atlántico Hoy](https://www.atlanticohoy.com/politica/teodoro-sosa-yo-no-hago-ministro-santiago-abascal-aunque-nuestros-diputados-sean-decisivos_1569922_102.html) · medida concreta · _Diez años de residencia para que extranjeros compren vivienda_
+- «Y hay otras decisiones que corresponden a Madrid, como permitir a los ayuntamientos utilizar su superávit para construir viviendas, mejorar servicios públicos o crear plazas sociosanitarias.» · Teodoro Sosa, candidato al Congreso y cabeza de lista por Las Palmas, (Primero Canarias) · 14 de noviembre de 2026 · [declaración en medios: Atlántico Hoy](https://www.atlanticohoy.com/politica/teodoro-sosa-yo-no-hago-ministro-santiago-abascal-aunque-nuestros-diputados-sean-decisivos_1569922_102.html) · medida concreta · _Que los ayuntamientos usen su superávit para construir vivienda_
+- «No podemos seguir compitiendo. Somos un territorio pequeño, con un suelo muy limitado, y vamos a pelear para que se prohíba la compra de vivienda a quienes no viven aquí» · Cristina Valido, candidata al Congreso y cabeza de lista por Santa Cruz de Tenerife, (Coalición Canaria) · 13 de noviembre de 2026 · [documento del partido: Coalición Canaria (web oficial)](https://coalicioncanaria.org/valido-exige-limitar-la-compra-de-viviendas-a-no-residentes-para-frenar-la-especulacion-en-canarias/) · medida concreta · _Prohibir la compra de vivienda a no residentes en Canarias_
+
+### Economía y empresas
+
+- «El Estado no está cubriendo el coste real del transporte y esa diferencia la estamos pagando los canarios cuando llegamos a la caja del supermercado. No podemos seguir asumiendo unos sobrecostes que deberían estar compensados» · Cristina Valido, candidata al Congreso y cabeza de lista por Santa Cruz de Tenerife, (Coalición Canaria) · 15 de noviembre de 2026 · [documento del partido: Coalición Canaria (web oficial)](https://coalicioncanaria.org/valido-exige-al-estado-que-cubra-el-100-del-coste-real-del-transporte-de-mercancias-para-abaratar-la-cesta-de-la-compra-en-canarias/) · posición · _Compensación estatal del transporte de mercancías y precios_
+
+### Democracia e instituciones
+
+- «Ya lo he dicho una, dos, tres y cinco veces. Y hoy lo repito: yo no hago ministro a Santiago Abascal.» · Teodoro Sosa, candidato al Congreso y cabeza de lista por Las Palmas, (Primero Canarias) · 14 de noviembre de 2026 · [declaración en medios: Atlántico Hoy](https://www.atlanticohoy.com/politica/teodoro-sosa-yo-no-hago-ministro-santiago-abascal-aunque-nuestros-diputados-sean-decisivos_1569922_102.html) · posición · _Rechaza apoyar un Gobierno con ministros de Vox_
+- «Quien quiera nuestro apoyo en la investidura, sea Pedro Sánchez o sea Feijóo, tendrá que llamar a Canarias y tendrá que negociar con Canarias» · Cristina Valido, candidata al Congreso y cabeza de lista por Santa Cruz de Tenerife, (Coalición Canaria) · 13 de noviembre de 2026 · [declaración en medios: Infobae (entrevista de la agencia EFE)](https://www.infobae.com/espana/agencias/2026/11/13/cc-esta-dispuesta-a-apoyar-tanto-a-sanchez-como-a-feijoo-si-hay-compromisos-con-canarias/) · posición · _Investidura abierta a Sánchez o Feijóo a cambio de compromisos con Canarias_
+
+### Educación
+
+- «Nuestros investigadores, nuestro profesorado y el alumnado de las islas tienen dificultades añadidas a las que tienen otras universidades. Por eso venimos exigiendo que ese tratamiento singular se traduzca en una mayor financiación» · Cristina Valido, candidata al Congreso y cabeza de lista por Santa Cruz de Tenerife, (Coalición Canaria) · 10 de noviembre de 2026 · [documento del partido: Coalición Canaria (web oficial)](https://coalicioncanaria.org/valido-exige-al-estado-una-financiacion-justa-para-las-universidades-canarias-que-compense-los-sobrecostes-de-la-ultraperiferia/) · posición · _Más financiación estatal para las universidades canarias_
+
+### Medio ambiente y energía
+
+- «La planta desaladora de Matas Blancas simboliza también una lucha histórica por el agua. Ya hay un proyecto encargado por el Gobierno de Canarias con el ITC para una desaladora de 15.000 m³/día. Es la solución para toda la zona sur. El Cabildo de Fuerteventura ha hecho sus deberes. Exigimos 140 millones de euros al año para toda Canarias. Mientras tanto se hacen créditos de 340 millones de euros del Estado a Marruecos para pagar una desaladora en Casablanca» · Teodoro Sosa, candidato al Congreso y cabeza de lista por Las Palmas, (Primero Canarias) · 16 de noviembre de 2026 · [declaración en medios: Digital Faro Canarias](https://www.digitalfarocanarias.com/index.php/2026/11/16/1ocan-cc-se-compromete-a-defender-las-demandas-de-fuerteventura-ante-el-estado/) · medida concreta · _140 millones anuales del Estado para obras hidráulicas en Canarias_
+
+### Transporte e infraestructuras
+
+- «Si en la Península se financia la gratuidad de los trenes, ¿por qué no se puede financiar la gratuidad de las guaguas en Canarias? Si un vuelo entre Gran Canaria y Madrid cuesta 400 euros y el residente paga 100, los otros 300 no son un privilegio: son una compensación por vivir a 2.000 kilómetros de distancia.» · Teodoro Sosa, candidato al Congreso y cabeza de lista por Las Palmas, (Primero Canarias) · 14 de noviembre de 2026 · [declaración en medios: Atlántico Hoy](https://www.atlanticohoy.com/politica/teodoro-sosa-yo-no-hago-ministro-santiago-abascal-aunque-nuestros-diputados-sean-decisivos_1569922_102.html) · posición · _Financiación estatal de guaguas gratuitas y descuento aéreo de residente_
+- «No podemos seguir permitiendo que quienes trabajan en nuestros aeropuertos vivan situaciones precarias, ni que los ciudadanos tengan que soportar colas interminables o esperar años por las infraestructuras que merecemos» · Cristina Valido, candidata al Congreso y cabeza de lista por Santa Cruz de Tenerife, (Coalición Canaria) · 14 de noviembre de 2026 · [documento del partido: Coalición Canaria (web oficial)](https://coalicioncanaria.org/valido-nuestros-aeropuertos-son-nuestra-alta-velocidad-y-exigimos-al-estado-las-inversiones-que-canarias-merece/) · posición · _Inversiones y condiciones laborales en los aeropuertos canarios_
+
+### Organización territorial
+
+- «También necesitamos una financiación autonómica justa. No podemos reclamar mejores servicios sanitarios, educativos o de dependencia y rechazar al mismo tiempo recursos adicionales para financiarlos. Para nosotros, la sanidad, la educación y la dependencia son intocables. Quien comparta esos principios y sea justo con Canarias nos tendrá a su lado. Quien no los comparta, nos tendrá enfrente.» · Teodoro Sosa, candidato al Congreso y cabeza de lista por Las Palmas, (Primero Canarias) · 14 de noviembre de 2026 · [declaración en medios: Atlántico Hoy](https://www.atlanticohoy.com/politica/teodoro-sosa-yo-no-hago-ministro-santiago-abascal-aunque-nuestros-diputados-sean-decisivos_1569922_102.html) · posición · _Financiación autonómica y servicios públicos como condición de apoyo_
+
+### Campo y medio rural
+
+- «Abaratar la cesta de la compra también exige proteger a quienes producen nuestros alimentos. Por eso seguiremos defendiendo el mantenimiento íntegro del POSEI y la aportación estatal completa a las ayudas agrarias. Canarias sigue teniendo que adelantar a nuestros agricultores y ganaderos un dinero que Madrid no aporta cuando corresponde» · Cristina Valido, candidata al Congreso y cabeza de lista por Santa Cruz de Tenerife, (Coalición Canaria) · 15 de noviembre de 2026 · [documento del partido: Coalición Canaria (web oficial)](https://coalicioncanaria.org/valido-exige-al-estado-que-cubra-el-100-del-coste-real-del-transporte-de-mercancias-para-abaratar-la-cesta-de-la-compra-en-canarias/) · medida concreta · _Mantener íntegro el POSEI y la aportación estatal agraria_
+- «Si las ayudas se quedan en Madrid y Madrid las distribuye, necesitamos tener la fuerza necesaria para exigir que las ayudas que necesita el campo canario sigan llegando a Canarias» · Cristina Valido, candidata al Congreso y cabeza de lista por Santa Cruz de Tenerife, (Coalición Canaria) · 12 de noviembre de 2026 · [documento del partido: Coalición Canaria (web oficial)](https://coalicioncanaria.org/valido-advierte-de-que-el-campo-canario-se-juega-su-futuro-si-las-ayudas-europeas-dejan-de-llegar-directamente-a-las-islas/) · posición · _Que las ayudas europeas al campo lleguen directamente a Canarias_
+
+Sin declaraciones recogidas sobre: Inmigración, Política exterior y defensa, Seguridad y justicia, Impuestos, Igualdad y derechos, Pensiones.
 

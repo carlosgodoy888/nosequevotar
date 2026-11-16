@@ -1,0 +1,181 @@
+{
+  "partido": "eaj-pnv",
+  "lote": "eaj-pnv.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-aebf062003", "motivo": "Representa su línea de regular el alquiler y evitar abusos (puntos 1 y 3 del resumen): que los alquileres de temporada y turísticos no resten vivienda residencial; es la única medida propia centrada en el alquiler.", "texto": null, "cambio": null },
+        { "id": "c-bb4c8818e2", "motivo": "Cubre la línea de rehabilitar edificios (punto 2 del resumen); es la única otra medida disponible en el tema.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-ba1cb982fb", "motivo": "Su medida más propia del tema (punto 2 del resumen): salario mínimo vasco propio y siempre superior al estatal; la repite en campaña Idoia Sagastizabal.", "texto": null, "cambio": null },
+        { "id": "c-1d08187d49", "motivo": "Cubre la línea de protección ante el desempleo (punto 3): ampliar la prestación hasta 36 meses ligada a la empleabilidad; lleva cifra.", "texto": null, "cambio": null },
+        { "id": "c-39fe93737f", "motivo": "Cubre la línea de autónomos (punto 4): acercar su protección por cese de actividad a la prestación por desempleo.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-f7b40a8e7b", "motivo": "Representa la línea de reglas de gasto más flexibles para que las administraciones vascas inviertan (punto 4 del resumen), la que más medidas propias tiene en el tema. La línea industrial (puntos 1 y 2) solo tiene medidas de Medio ambiente y energía, y aquí hay tres propias, así que no se toman de otro tema.", "texto": null, "cambio": null },
+        { "id": "c-044fdb39a2", "motivo": "Cubre la línea de relevo generacional y continuidad de las empresas (punto 3): que las plantillas puedan quedarse empresas viables mediante cooperativas o sociedades laborales.", "texto": null, "cambio": null },
+        { "id": "c-2025cfec43", "motivo": "Completa la línea de inversión pública: que ayuntamientos, diputaciones y Gobierno Vasco puedan usar sus superávits; es la única otra medida propia del tema.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-a952f8d346", "motivo": "Primer punto del resumen: profesionales suficientes adaptando el sistema MIR a las necesidades reales de especialistas.", "texto": null, "cambio": null },
+        { "id": "c-fccab92983", "motivo": "Cubre la línea competencial (punto 2): culminar las transferencias sanitarias pendientes a Euskadi.", "texto": null, "cambio": null },
+        { "id": "c-1388cfa42a", "motivo": "Cubre el punto 3: cumplimiento y financiación de la Ley ELA, que también aparece en su postura sobre familias y cuidados.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-cb5e6fd125", "motivo": "Representa su línea principal (punto 1): más competencias vascas en extranjería, incluidas funciones para la Ertzaintza.", "texto": null, "cambio": null },
+        { "id": "c-24ca40ab61", "motivo": "Cubre la línea de acogida descentralizada y el rechazo a grandes centros como el de Arana (punto 3); 54 palabras, dentro del límite.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-a42ee3d1a5", "motivo": "Única medida propia válida: nueva Ley de Secretos Oficiales con desclasificación automática (punto 2 del resumen). «EAJ-PNV nunca facilitará un gobierno que dependa de Vox» (punto 1) no es una medida votable y, quitando el nombre del partido, la frase se queda sin sujeto y no se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-06d7773569", "motivo": "Cubre el punto 3 del resumen: desclasificar los documentos del 3 de marzo de 1976 en Vitoria-Gasteiz para esclarecer y reparar; se toma de Igualdad y derechos (donde no se elige) porque aquí faltan medidas propias.", "texto": null, "cambio": null },
+        { "id": "c-51f5b0d2d9", "motivo": "También del punto 3: acceso a la documentación sobre la muerte de Mikel Zabalza, que el resumen cita expresamente; tomada de Igualdad y derechos por falta de medidas propias.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-54a5f22618", "motivo": "Única candidata: regular las prácticas formativas garantizando los derechos del alumnado y respetando la FP Dual (puntos 3 y 4 del resumen); se toma de Empleo, donde no se ha elegido.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-06d05af277", "motivo": "Representa su línea principal (punto 1): energía segura y competitiva para la industria, revisando la planificación energética estatal con las necesidades industriales.", "texto": null, "cambio": null },
+        { "id": "c-37a234046b", "motivo": "Cubre el punto 2: compensar al máximo permitido los costes indirectos del CO₂ de la industria; también figura en su postura económica.", "texto": null, "cambio": null },
+        { "id": "c-0a50324145", "motivo": "Cubre el punto 4: reforma integral de la Ley de Costas para adaptar el litoral al cambio climático.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-b337fedfaa", "motivo": "Representa su línea principal (punto 1): voz propia de Euskadi en el Consejo de la UE, en particular en el ECOFIN. «Nuestras competencias» se refiere a Euskadi, no al partido.", "texto": null, "cambio": null },
+        { "id": "c-6912d512fd", "motivo": "Cubre la gestión de los fondos europeos (punto 2): participación de Euskadi en el Marco Financiero Plurianual 2028-2034.", "texto": null, "cambio": null },
+        { "id": "c-fea902d76a", "motivo": "Cubre el punto 4: crear una Macrorregión Atlántica Europea.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-9896d5ce34", "motivo": "Representa su línea principal (punto 1): reconocer a la Ertzaintza como policía judicial con plena capacidad.", "texto": null, "cambio": null },
+        { "id": "c-ea3c37fee6", "motivo": "Cubre el punto 2: que las instancias judiciales culminen en el Tribunal Superior de Justicia del País Vasco; 50 palabras.", "texto": null, "cambio": null },
+        { "id": "c-1b47438e75", "motivo": "Cubre el punto 3: rechazo a la prisión permanente revisable y sistema penitenciario orientado a la reinserción (no hay medida sobre multirreincidencia).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-b9a682caf7", "motivo": "Representa su línea principal (puntos 1 y 2): prestación digna para las personas cuidadoras de familiares dependientes, referenciada al salario mínimo.", "texto": null, "cambio": null },
+        { "id": "c-fe47f231d7", "motivo": "Cubre la línea de servicios y apoyos a los cuidados (punto 1): Fondo Personal para Cuidados que combine prestaciones y servicios.", "texto": null, "cambio": null },
+        { "id": "c-c1bd6c201e", "motivo": "Cubre la protección de familias con menores gravemente enfermos: evaluar y corregir la prestación CUME. Hay cinco medidas propias, así que no se usan las de otros temas (electrodependencia, órganos judiciales de infancia).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-e32a04e74c", "motivo": "Su propuesta fiscal más concreta (punto 3): rebajar de forma permanente el impuesto sobre la electricidad al 0,5 %; lleva cifra. La de las Haciendas Forales (punto 2) tiene 81 palabras y la del Concierto se usa en Organización territorial.", "texto": null, "cambio": null },
+        { "id": "c-9ca7b3202a", "motivo": "Cubre el punto 4: reforma del IVA de bienes esenciales con tipos cero o superreducidos para alimentos básicos; 57 palabras, dentro del límite.", "texto": null, "cambio": null },
+        { "id": "c-5dab8677fc", "motivo": "También del punto 4: eximir del IRPF las indemnizaciones a las víctimas del amianto.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-4d37e6af2d", "motivo": "Representa la línea con más medidas en el tema (punto 2): cumplir íntegramente el Pacto de Estado contra la Violencia de Género.", "texto": null, "cambio": null },
+        { "id": "c-8cdeeb022b", "motivo": "Cubre el punto 3: perímetros de al menos 150 metros alrededor de los centros de IVE; la recogen también sus resúmenes de sanidad y de seguridad, y lleva cifra.", "texto": null, "cambio": null },
+        { "id": "c-e9d875a2e9", "motivo": "Cubre el punto 4: aplicación íntegra de la legislación de memoria histórica y democrática.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-f18c58a2be", "motivo": "Su línea principal (punto 1): revalorizar las pensiones cada año con el IPC; lo repite en campaña Idoia Sagastizabal.", "texto": null, "cambio": null },
+        { "id": "c-a4b035704d", "motivo": "Cubre el punto 2: eliminar las penalizaciones de la jubilación anticipada con más de 40 años cotizados; también lo destaca en campaña.", "texto": null, "cambio": null },
+        { "id": "c-f86e08e9e9", "motivo": "Cubre la línea de cuidados y brecha de género (punto 2, citada en campaña): coeficientes reductores para las personas cuidadoras no profesionales.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-65afa9d348", "motivo": "Su reivindicación central en infraestructuras (punto 2): terminar la Y vasca sin más demoras y con calendario verificable.", "texto": null, "cambio": null },
+        { "id": "c-f363a0d37f", "motivo": "Cubre el punto 3: traspaso de las cercanías que discurren por Euskadi; Maribel Vaquero lo defiende en campaña con el Irun-Brinkola.", "texto": null, "cambio": null },
+        { "id": "c-6e17876414", "motivo": "Cubre el punto 4: inversiones del Corredor Ferroviario Atlántico; en campaña reclama conexiones ferroviarias con Europa.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-df955106fb", "motivo": "Representa su línea principal (punto 1): cumplimiento íntegro del Estatuto de Gernika y culminar las transferencias pendientes.", "texto": null, "cambio": null },
+        { "id": "c-cacef7f6d1", "motivo": "Cubre el punto 2: ampliar la capacidad fiscal modificando la Ley del Concierto Económico; «nuestras capacidades» se refiere al territorio, no al partido.", "texto": null, "cambio": null },
+        { "id": "c-1f5a7c4de1", "motivo": "Cubre el punto 4: transferencia a Euskadi de la gestión del régimen económico de la Seguridad Social; también figura en su postura sobre pensiones.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-4150ab1cf8", "motivo": "Representa su línea principal (puntos 1 y 2): una PAC 2028-2034 con un plan estratégico propio para Euskadi gestionado desde las instituciones vascas.", "texto": null, "cambio": null },
+        { "id": "c-02637d17d3", "motivo": "Cubre el relevo generacional (puntos 1 y 3): cotizaciones reducidas para jóvenes que se incorporen y acceso a la tierra.", "texto": null, "cambio": null },
+        { "id": "c-784bcaccb6", "motivo": "Cubre la línea pesquera (punto 4): revisar la Política Pesquera Común para garantizar la viabilidad de la flota vasca.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-5b2660ae67", "motivo": "Cubre el punto 1: revisar el IVA cultural para artistas y galerías; se toma de Impuestos, donde no se ha elegido.", "texto": null, "cambio": null },
+        { "id": "c-1359d71d3a", "motivo": "Cubre el punto 2: exigir a las plataformas digitales que cumplan el Reglamento europeo de Servicios Digitales frente al odio; se toma de Igualdad y derechos, donde no se ha elegido.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

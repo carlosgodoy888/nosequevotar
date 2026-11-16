@@ -1,0 +1,673 @@
+{
+  "fuente": "d21-contigo-y-con-tu-familia",
+  "partido": "d21",
+  "paginas": [
+    1,
+    7
+  ],
+  "citas": [
+    {
+      "cita": "Quien quiera formar una familia, del modelo que sea, tener hijos o cuidar de una persona dependiente debe poder hacerlo sin que sea un acto de heroicidad.",
+      "pagina": 2,
+      "apartado": [
+        "Contigo y con tu familia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Formar una familia o cuidar sin sobreesfuerzo",
+      "etiquetas": [
+        "familia",
+        "conciliación",
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Compromiso de Estado – Pobreza Infantil a la Mitad: fijaremos por ley un objetivo vinculante: reducir la tasa de pobreza infantil al menos a la mitad a lo largo de la legislatura, del 28% actual a menos del 14%, el nivel de los países más avanzados de Europa.",
+      "pagina": 2,
+      "apartado": [
+        "Ni un niño atrás: pobreza infantil a la mitad",
+        "Compromiso de Estado – Pobreza Infantil a la Mitad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Objetivo legal de reducir la pobreza infantil a la mitad",
+      "etiquetas": [
+        "infancia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada ayuda a la que una familia ya tiene derecho le llegará de oficio, sin solicitudes, gracias a nuestras medidas “Ayudas Que Funcionen” y “Red Inteligente de Alerta Social”; y contarán con un Bono Crianza progresivo.",
+      "pagina": 2,
+      "apartado": [
+        "Ni un niño atrás: pobreza infantil a la mitad",
+        "Compromiso de Estado – Pobreza Infantil a la Mitad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Concesión de oficio de las ayudas familiares",
+      "etiquetas": [
+        "servicios sociales",
+        "familia",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Escudo Social Único (ESU) – Una Sola Prestación, Cero Laberintos: integraremos en una única plataforma digital todas las ayudas sociales hoy dispersas entre ministerios, Comunidades y Ayuntamientos (rentas mínimas, bonos de vivienda y luz, prestaciones por infancia o dependencia…).",
+      "pagina": 2,
+      "apartado": [
+        "Ni un niño atrás: pobreza infantil a la mitad",
+        "Escudo Social Único (ESU) – Una Sola Prestación, Cero Laberintos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plataforma digital única para todas las ayudas sociales",
+      "etiquetas": [
+        "servicios sociales",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El ciudadano recibirá un único ingreso mensual y gestionará desde su móvil un panel visual con los bonos de protección que tiene activos (vivienda, crianza, dependencia…), la cuantía exacta de cada uno y el efecto inmediato de cualquier cambio en su situación familiar o laboral. Y lo diseñaremos para que trabajar siempre compense: aceptar un empleo nunca hará perder más de lo que se gana.",
+      "pagina": 2,
+      "apartado": [
+        "Ni un niño atrás: pobreza infantil a la mitad",
+        "Escudo Social Único (ESU) – Una Sola Prestación, Cero Laberintos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ingreso mensual único compatible con aceptar empleo",
+      "etiquetas": [
+        "servicios sociales",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "hoy las ayudas por hijo son un rompecabezas: unas dependen de tener empleo, otras de hacer la declaración de la renta y otras de saber que existen. Las convertiremos en una cantidad mensual por cada hijo que se activará automáticamente al inscribir al recién nacido, mayor en los primeros años de vida y en los hogares con menos renta, y que se reducirá de forma gradual hasta desaparecer en las rentas más altas. Se financiará en buena parte reordenando la deducción por maternidad, el Complemento de Ayuda para la Infancia y parte del mínimo por descendientes, y se cobrará dentro del Escudo Social Único, sin más trámites aparte.",
+      "pagina": 2,
+      "apartado": [
+        "Ni un niño atrás: pobreza infantil a la mitad",
+        "Bono Crianza – Cada Hijo Cuenta, y Más a Quien Más lo Necesita"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bono mensual por hijo según renta, financiado reordenando deducciones",
+      "etiquetas": [
+        "familia",
+        "infancia",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos una baja médica específica de recuperación posparto, otorgada por criterio clínico y sin necesidad de acreditar complicaciones. No restará días al permiso por nacimiento y cubrirá también a las trabajadoras autónomas.",
+      "pagina": 3,
+      "apartado": [
+        "Tiempo para cuidar, sin frenar tu carrera",
+        "Recuperarse del Parto es Salud"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Baja médica específica de recuperación posparto",
+      "etiquetas": [
+        "conciliación",
+        "seguridad social",
+        "autónomos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por eso, las ocho semanas de permiso parental que hoy no se pagan, pasarán a estar retribuidas por la Seguridad Social al 50% del salario, y formarán una Bolsa de Tiempo Familiar flexible que cada progenitor podrá usar por días o por horas hasta que su hijo cumpla 12 años, solicitándola desde el móvil con un simple preaviso. Las familias monoparentales tendrán bolsa doble y los autónomos una prestación equivalente que no les obligue a cerrar su negocio.",
+      "pagina": 3,
+      "apartado": [
+        "Tiempo para cuidar, sin frenar tu carrera",
+        "Bolsa de Tiempo Familiar – Permisos Flexibles y Pagados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permiso parental de ocho semanas retribuido al 50% y flexible",
+      "etiquetas": [
+        "conciliación",
+        "seguridad social",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Hoy la reducción de jornada por cuidado de hijos solo cotiza al 100% durante tres años: ampliaremos esa protección a todo el periodo, hasta que el menor cumpla 12 años.",
+      "pagina": 3,
+      "apartado": [
+        "Tiempo para cuidar, sin frenar tu carrera",
+        "Criar sin Renunciar – Carreras y Pensiones sin Penalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cotización al 100% en reducción de jornada hasta los 12 años",
+      "etiquetas": [
+        "conciliación",
+        "pensiones",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y como la adolescencia también necesita presencia, madres y padres podrán adaptar su horario o reducir su jornada hasta que sus hijos cumplan 16 años, y no solo hasta los 12 como ahora.",
+      "pagina": 3,
+      "apartado": [
+        "Tiempo para cuidar, sin frenar tu carrera",
+        "Criar sin Renunciar – Carreras y Pensiones sin Penalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Adaptación o reducción de jornada hasta los 16 años del hijo",
+      "etiquetas": [
+        "conciliación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mientras construimos la red pública y universal de 0 a 3 años para saldar décadas de promesas incumplidas, activaremos un plan de choque inmediato: ninguna familia de renta baja o media pagará más de la mitad del coste medio de una plaza en su Comunidad Autónoma. El Estado completará las ayudas autonómicas hasta cubrir ese 50% en cualquier escuela infantil autorizada, integrando la actual deducción por guardería para no duplicar ayudas, y el descuento se aplicará directamente en la factura, sin adelantar dinero ni esperar a la declaración de la renta.",
+      "pagina": 4,
+      "apartado": [
+        "Un país diseñado para conciliar",
+        "Cheque Guardería – 50% Garantizado"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cobertura estatal de la mitad del coste de escuela infantil",
+      "etiquetas": [
+        "educación",
+        "conciliación",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Deducción Directa por Apoyo en el Hogar: aprobaremos una deducción en el IRPF, con un tope anual, por los costes de contratar ayuda en el hogar cuando haya hijos o personas dependientes a cargo. Suprimiremos trabas absurdas: no se exigirá justificar que el empleo se dedica exclusivamente al cuidado, porque cualquier ayuda doméstica libera tiempo esencial para la vida familiar y profesional. Y al exigir el alta en la Seguridad Social, la medida aflorará empleo hoy sumergido, con más derechos para las trabajadoras del hogar y más cotizaciones para el sistema.",
+      "pagina": 4,
+      "apartado": [
+        "Un país diseñado para conciliar",
+        "Deducción Directa por Apoyo en el Hogar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Deducción en IRPF por contratar ayuda en el hogar",
+      "etiquetas": [
+        "impuestos",
+        "conciliación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos un Plan de Familias involucrando a Comunidades Autónomas y Ayuntamientos, para incentivar que se abran los colegios públicos durante los días no lectivos y el verano, con refuerzo educativo, deporte y campamentos urbanos. Los precios irán por tramos de renta, serán gratuitos para las familias vulnerables e incluirán comedor también en verano, porque el hambre infantil no desaparece en vacaciones.",
+      "pagina": 4,
+      "apartado": [
+        "Un país diseñado para conciliar",
+        "El Colegio, Aliado de la Conciliación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Apertura de colegios públicos en días no lectivos y verano",
+      "etiquetas": [
+        "conciliación",
+        "educación",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Auditoría de Impacto y Garantía del 50% Estatal en Dependencia: aseguraremos que la asunción por parte del Estado del 50% de la financiación de la Ley de Dependencia se traduzca de verdad en un salto de calidad en la atención y no en una promesa vacía. Realizaremos una auditoría de eficiencia y crearemos un sistema de evaluación continua con indicadores públicos para comprobar que cada euro transferido reduce las listas de espera, dignifica las retribuciones de los profesionales del sector y garantiza un respiro a las familias cuidadoras.",
+      "pagina": 4,
+      "apartado": [
+        "Un país diseñado para conciliar",
+        "Auditoría de Impacto y Garantía del 50% Estatal en Dependencia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Garantía del 50% estatal y auditoría del gasto en dependencia",
+      "etiquetas": [
+        "dependencia",
+        "gasto público",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por eso, el título de familia monoparental será efectivo en todo el país desde el primer hijo, y la Administración lo reconocerá de oficio con los datos que ya tiene.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Apoyo a la Crianza en Solitario, desde el Primer Hijo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Título de familia monoparental desde el primer hijo y de oficio",
+      "etiquetas": [
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los apoyos irán por necesidad, no por número de hijos: un complemento monoparental dentro del Bono Crianza, prioridad en las plazas de 0 a 3 años y en los colegios abiertos, y Bolsa de Tiempo Familiar doble. Y podrán ceder parte de su permiso por nacimiento a una persona de confianza de su red (una abuela, un hermano) para que el bebé no pierda ni una semana de cuidado.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Apoyo a la Crianza en Solitario, desde el Primer Hijo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Apoyos a familias monoparentales y cesión del permiso por nacimiento",
+      "etiquetas": [
+        "familia",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dos Madres, Mismos Derechos: ningún niño debe tener menos protección por cómo es su familia.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Dos Madres, Mismos Derechos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Igual protección para los hijos de cualquier modelo familiar",
+      "etiquetas": [
+        "familia",
+        "lgtbi",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Elevaremos a rango de ley lo que hoy depende de una simple instrucción administrativa: que las parejas de mujeres, estén casadas o no, puedan inscribir a sus hijos como hijos de ambas desde el propio hospital, eliminando el requisito de matrimonio que todavía recoge la Ley de Reproducción Asistida.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Dos Madres, Mismos Derechos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inscripción por ley de hijos de parejas de mujeres sin matrimonio",
+      "etiquetas": [
+        "lgtbi",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporaremos el método ROPA a la cartera común de la sanidad pública, que hoy solo ofrecen algunas Comunidades, y fijaremos criterios comunes de reproducción asistida en todo el país.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Dos Madres, Mismos Derechos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Método ROPA en la cartera común y criterios de reproducción asistida",
+      "etiquetas": [
+        "sanidad",
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y adaptaremos todos los formularios y registros digitales del Estado para que reflejen cualquier modelo de familia legalmente reconocido, sin rectificaciones ni trámites extra.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Dos Madres, Mismos Derechos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Formularios y registros adaptados a todos los modelos de familia",
+      "etiquetas": [
+        "familia",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Autismo - la Familia, Parte del Equipo: cada niño con autismo es distinto, y nadie lo conoce mejor que su familia. Fijaremos plazos máximos comunes para el diagnóstico y el inicio de la atención temprana, y acompañaremos a cada familia desde el primer momento.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Autismo - la Familia, Parte del Equipo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazos máximos de diagnóstico y atención temprana del autismo",
+      "etiquetas": [
+        "discapacidad",
+        "sanidad",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y, siguiendo la Convención de la ONU sobre los Derechos de las Personas con Discapacidad, las decisiones sobre la escolarización de cada alumno se tomarán con su familia, a partir de su bienestar y sus necesidades reales, y no de criterios administrativos o económicos, sin derivaciones a educación especial que no se hayan acordado con ella.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Autismo - la Familia, Parte del Equipo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Escolarización de alumnos con autismo decidida con la familia",
+      "etiquetas": [
+        "discapacidad",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Una Familia para Cada Niño: en 2022, Gobierno y Comunidades se comprometieron a que ningún niño menor de seis años creciera en un centro de protección; según los últimos datos, todavía son cerca de 1.200. Cumpliremos ese compromiso y daremos el siguiente paso con los menores de diez años, impulsando el acogimiento familiar, que es lo mejor para el niño y mucho más eficiente que un centro.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Una Familia para Cada Niño"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acogimiento familiar en lugar de centros para menores de diez años",
+      "etiquetas": [
+        "infancia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las familias de acogida de urgencia, que reciben a bebés de un día para otro, cotizarán a la Seguridad Social y tendrán un permiso equivalente al de nacimiento; las compensaciones serán homogéneas en todo el país; y al cumplir 18 años, el apoyo económico, educativo y de acompañamiento continuará hasta los 25.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Una Familia para Cada Niño"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cotización y permiso para acogida de urgencia; apoyo hasta 25 años",
+      "etiquetas": [
+        "infancia",
+        "familia",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adoptar sin Laberintos: fijaremos criterios de idoneidad comunes, objetivos y públicos en toda España, basados solo en el interés del menor y en la capacidad real de cuidado, nunca en el modelo de familia. Un expediente digital único evitará repetir informes al cambiar de Comunidad, y habrá plazos máximos de tramitación.",
+      "pagina": 6,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Adoptar sin Laberintos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Criterios comunes de idoneidad y expediente único de adopción",
+      "etiquetas": [
+        "familia",
+        "infancia",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reformaremos el Código Civil para que, cuando la adopción sea lo mejor para un niño que ya vive con su familia de acogida, pueda quedarse con ella en lugar de empezar de cero.",
+      "pagina": 6,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Adoptar sin Laberintos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma del Código Civil para adopción por la familia de acogida",
+      "etiquetas": [
+        "infancia",
+        "familia",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y garantizaremos acompañamiento posadoptivo, incluido apoyo psicológico, para las familias que lo necesiten.",
+      "pagina": 6,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Adoptar sin Laberintos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acompañamiento y apoyo psicológico tras la adopción",
+      "etiquetas": [
+        "familia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ningún Niño en un Limbo Legal: ningún niño quedará en un limbo legal por cómo nació: siguiendo el criterio del Tribunal Europeo de Derechos Humanos, su filiación y documentación se reconocerán por una vía ágil y con plazos rápidos.",
+      "pagina": 6,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Ningún Niño en un Limbo Legal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reconocimiento ágil de filiación según el criterio del TEDH",
+      "etiquetas": [
+        "infancia",
+        "gestación subrogada",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El interés superior del menor será siempre prioritario, asegurando que ningún niño vea comprometidos sus derechos por las circunstancias de su nacimiento –incluida la gestación por sustitución– y garantizando su identidad, filiación, protección jurídica y estabilidad familiar.",
+      "pagina": 6,
+      "apartado": [
+        "Todas las familias cuentan",
+        "Ningún Niño en un Limbo Legal"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Derechos del menor con independencia de cómo nació",
+      "etiquetas": [
+        "infancia",
+        "gestación subrogada"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acompañar desde la Cuna: garantizaremos el cribado de ansiedad y depresión durante el embarazo y el primer año tras el parto, desde la matrona y la pediatría de Atención Primaria, con derivación preferente cuando haga falta.",
+      "pagina": 6,
+      "apartado": [
+        "Salud mental: prevenir en casa, en familia y en el colegio",
+        "Acompañar desde la Cuna"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cribado de ansiedad y depresión en embarazo y posparto",
+      "etiquetas": [
+        "salud mental",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y desplegaremos desde los centros de salud y los servicios sociales Escuelas de Familias gratuitas, presenciales y online, sobre crianza, comunicación, gestión de conflictos y uso saludable de pantallas, con talleres de salud relacional para parejas y jóvenes.",
+      "pagina": 6,
+      "apartado": [
+        "Salud mental: prevenir en casa, en familia y en el colegio",
+        "Acompañar desde la Cuna"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Escuelas de Familias gratuitas desde centros de salud y servicios sociales",
+      "etiquetas": [
+        "salud mental",
+        "familia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prevenir una crisis en casa siempre es mejor que atenderla en urgencias.",
+      "pagina": 6,
+      "apartado": [
+        "Salud mental: prevenir en casa, en familia y en el colegio",
+        "Acompañar desde la Cuna"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Prioridad de la prevención en salud mental",
+      "etiquetas": [
+        "salud mental"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Salud Mental en el Colegio – Unidades de Enlace: tomando como referencia el programa que el Hospital Gregorio Marañón ya ha llevado a 57 colegios e institutos madrileños, crearemos Unidades de Enlace (psiquiatra infantil, psicólogo clínico y enfermera especialista en salud mental) que trabajen junto a los orientadores en los propios centros educativos.",
+      "pagina": 6,
+      "apartado": [
+        "Salud mental: prevenir en casa, en familia y en el colegio",
+        "Salud Mental en el Colegio – Unidades de Enlace"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Unidades de salud mental en los centros educativos",
+      "etiquetas": [
+        "salud mental",
+        "educación",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada unidad atenderá a una red de colegios e institutos, empezando por las zonas con más necesidad, para prevenir el acoso, detectar a tiempo conductas autolesivas o primeros episodios psicóticos con una vía de derivación prioritaria que salte las listas de espera, y acompañar la vuelta al aula tras un ingreso. Todo el profesorado podrá formarse, con acreditación oficial, en la detección de señales de alarma.",
+      "pagina": 6,
+      "apartado": [
+        "Salud mental: prevenir en casa, en familia y en el colegio",
+        "Salud Mental en el Colegio – Unidades de Enlace"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Funciones de las unidades escolares y formación del profesorado",
+      "etiquetas": [
+        "salud mental",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Como el mayor riesgo llega tras un intento, en todas las Comunidades, toda persona atendida por una conducta suicida recibirá una llamada de su equipo de salud en 72 horas y seguimiento durante un año, con una alerta digital a su centro de salud y, si es menor, también a la Unidad de Enlace de su centro escolar.",
+      "pagina": 7,
+      "apartado": [
+        "Salud mental: prevenir en casa, en familia y en el colegio",
+        "Ninguna Familia Sola ante el Suicidio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Seguimiento en 72 horas tras una conducta suicida",
+      "etiquetas": [
+        "salud mental",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las familias recibirán formación para reconocer señales de alarma, quienes pierdan a un ser querido tendrán apoyo psicológico garantizado y daremos a conocer a toda la población la línea 024.",
+      "pagina": 7,
+      "apartado": [
+        "Salud mental: prevenir en casa, en familia y en el colegio",
+        "Ninguna Familia Sola ante el Suicidio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Formación a familias, apoyo en duelo y difusión del 024",
+      "etiquetas": [
+        "salud mental",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

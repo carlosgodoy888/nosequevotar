@@ -1,0 +1,73 @@
+{
+  "revisiones": [
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: la despoblación forma parte de la definición del tema y el programa le dedica un apartado propio (3.6) con una medida concreta, el Plan de recuperación rural (c-c3a39864f0); el resumen no la mencionaba. Se añade una frase.",
+        "Representatividad: la pesca, también en la definición del tema, quedaba fuera; el programa contrapone el apoyo a la agricultura a las subvenciones a la ganadería y a la pesca (c-7b02144d31) y pide retirar las del sector pesquero (c-ca329f4957). Se incorpora en la frase de las ayudas.",
+        "Para no pasar de 90 palabras se funden el impuesto climático y las prohibiciones en una frase y salen la diferencia de IVA de los lácteos y la eliminación de las jaulas, de menos peso que lo añadido.",
+        "Las frases originales eran fieles a sus citas y neutrales."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone no autorizar nuevas explotaciones ganaderas ni ampliaciones, limitar por ley su tamaño y retirarles las subvenciones.", "apoyos": ["c-2bd04b472f", "c-608567bd4f", "c-e0d2ec280b", "c-d37c62464d"] },
+        { "texto": "Plantea un impuesto climático a los alimentos de origen animal según sus emisiones y prohibir las granjas peleteras, la alimentación forzosa y la exportación de animales vivos.", "apoyos": ["c-1bc45a112e", "c-37c9a578e2", "c-9df8f21bb0", "c-b56d76234c", "c-7ef724bbf8"] },
+        { "texto": "Pide pasar ayudas de la ganadería y la pesca a la agricultura, priorizar las explotaciones pequeñas, prohibir el glifosato y fomentar la agricultura ecológica y local.", "apoyos": ["c-656df0cd2e", "c-7b02144d31", "c-edeb77f02c", "c-ae0515519e", "c-b2be7b4eb8", "c-73f16f949c"] },
+        { "texto": "Contra la despoblación plantea un Plan de recuperación rural que asesore a quien quiera vivir y emprender en los pueblos.", "apoyos": ["c-c3a39864f0", "c-bb3a40c44e"] }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende reducir el tráfico rodado favoreciendo los desplazamientos a pie, en bicicleta y en transporte público, y fomentar el teletrabajo con incentivos fiscales y ayudas directas.", "apoyos": ["c-ffef16aca7", "c-bdbe52c0e6", "c-ac34e10acb"] },
+        { "texto": "Propone llevar el transporte de mercancías al ferrocarril eléctrico y potenciar cercanías y media distancia que conecten las comarcas.", "apoyos": ["c-4dbf962677", "c-48c8d0179a"] },
+        { "texto": "Plantea una norma que obligue a adaptar carreteras, tendidos eléctricos y catenarias para reducir la mortalidad de la fauna silvestre.", "apoyos": ["c-e3b92b9ef1", "c-5185a3c072", "c-502b863479", "c-01cc0348e7"] },
+        { "texto": "También pide permitir y regular el acceso de los animales al transporte público.", "apoyos": ["c-814c9938be"] }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad: «prevenir el acoso por orientación sexual» recortaba el alcance de las citas, que hablan de acoso por orientación sexual o identidad de género y de homofobia, lesbofobia, bifobia y transfobia (c-ab66fe78be, c-4bb7080a10). Se reformula como acoso a personas LGTBI+ y se añade c-4bb7080a10 a los apoyos.",
+        "Se mantiene la frase sobre los sacrificios rituales: sus citas de programa están en este tema y la formulación es neutral. Es correcto dejar fuera la composición de candidaturas (c-19c3a4d0e8) por espacio."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone un Pacto de Estado por la Igualdad en el Empleo y actualizar la ley de conciliación para favorecer el empleo de las mujeres.", "apoyos": ["c-7c75bce5ef", "c-6969018a95"] },
+        { "texto": "Contra la violencia sobre la mujer plantea unidades policiales 24 horas, formación judicial especializada, ayudas económicas a las víctimas y acoger también a sus animales.", "apoyos": ["c-de3ff7ab29", "c-b80547dea2", "c-5bf1b2a143", "c-d81be7fb5d"] },
+        { "texto": "Pide más contenidos educativos sobre diversidad sexual, de género y familiar, prevenir el acoso a personas LGTBI+ e incluir a sus familias en las políticas familiares.", "apoyos": ["c-48610789e6", "c-8c35dcff3a", "c-ab66fe78be", "c-4bb7080a10", "c-60ae5b807d"] },
+        { "texto": "Además propone prohibir los sacrificios rituales de animales por motivos religiosos.", "apoyos": ["c-b1a4d5ec6f", "c-59b1c45f47", "c-b615523e75"] }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "corregido",
+      "problemas": [
+        "Fidelidad: «el referéndum de autodeterminación previsto por la ONU» atribuía a la ONU el referéndum; la cita dice que la resolución de la ONU reconoce el derecho de autodeterminación y pide hacer lo posible por que se celebre el referéndum prometido desde 1991. «Favorezca» además rebajaba el «haciendo lo posible por que se celebre». Se reformula con las palabras de la cita.",
+        "Base escasa correcta: solo hay cuatro declaraciones y ninguna cita de programa. Es correcto no adoptar el término «ocupación» y atribuir ambas frases."
+      ],
+      "base": "escasa",
+      "frases": [
+        { "texto": "En septiembre de 2026 el partido pidió protección para la población de Ceuta y alimentos, agua y alojamiento para los migrantes sin plaza de acogida.", "apoyos": ["c-c799e0afcd", "c-c185b5fc35"] },
+        { "texto": "Su presidente pidió en 2023 que España deje de apoyar a Marruecos sobre el Sáhara Occidental y haga lo posible por que se celebre el referéndum de autodeterminación.", "apoyos": ["c-5b7f23e5d3"] }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone prohibir el uso de animales en espectáculos, tradiciones y festejos, retirarles las subvenciones y derogar la ley que protege la tauromaquia como patrimonio cultural.", "apoyos": ["c-7e3267b6be", "c-7ef469db34"] },
+        { "texto": "También pide prohibir que los menores asistan o participen en la tauromaquia y la caza.", "apoyos": ["c-b9ab667506", "c-32b8c7e6e4", "c-78053e864c"] },
+        { "texto": "Plantea una estrategia nacional para acabar con la experimentación con animales y más financiación para los métodos que la sustituyan.", "apoyos": ["c-1ed0ed1cb7", "c-7cfc6cb19b", "c-a13fecde37"] },
+        { "texto": "Propone además más inversión en I+D+i, libre acceso a la investigación financiada con fondos públicos y actividades culturales gratuitas o con descuentos.", "apoyos": ["c-a484ac35f7", "c-a6cc4588ef", "c-95225ea631"] }
+      ]
+    }
+  ]
+}

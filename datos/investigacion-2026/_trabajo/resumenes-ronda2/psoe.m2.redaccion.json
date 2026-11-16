@@ -1,0 +1,69 @@
+{
+  "resumenes": [
+    {
+      "tema": "economia",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone movilizar 120.000 millones de euros con el Fondo España Crece y aprobar una Ley de Industria y Autonomía Estratégica para que la industria gane peso.",
+          "apoyos": ["c-49005d5903", "c-9604cc5edc", "c-0dfc16ac26", "c-82ad75f1f8"]
+        },
+        {
+          "texto": "Plantea elevar la inversión pública en I+D hasta el 1,5% del PIB para 2035.",
+          "apoyos": ["c-1bbf27aea8"]
+        },
+        {
+          "texto": "Defiende mantener una senda decreciente de deuda y déficit con un nuevo plan fiscal ajustado a las reglas europeas.",
+          "apoyos": ["c-829cfcb16d", "c-fce1814369", "c-a42c783e65"]
+        },
+        {
+          "texto": "Ante el coste de la vida, propone un bono social único y automático, una deducción en el IRPF ligada a la subida de precios y reforzar la CNMC.",
+          "apoyos": ["c-cef708fde2", "c-036d044955", "c-93f01d5b49", "c-fb0c251ce7"]
+        }
+      ],
+      "nota": "Todo procede del programa de 2026. Se dejan fuera las medidas de vivienda, impuestos y salarios que el tema reparte a otras secciones, salvo la deducción en el IRPF, que el programa sitúa en el apartado de coste de la vida."
+    },
+    {
+      "tema": "sanidad",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende una sanidad pública y universal y propone acabar con las listas de espera con una financiación pública en torno al 7% del PIB.",
+          "apoyos": ["c-e4fffe396e", "c-5ed0943cdb"]
+        },
+        {
+          "texto": "Plantea limitar la privatización, con la gestión directa como modalidad preferente, y reforzar la atención primaria.",
+          "apoyos": ["c-e5a630ab19", "c-b77b1f8a76"]
+        },
+        {
+          "texto": "Quiere incorporar a la sanidad pública los tratamientos dentales básicos para adultos y, mientras tanto, dar una ayuda de hasta 200 euros anuales por persona.",
+          "apoyos": ["c-3dbaa1ee69", "c-73df85109d"]
+        },
+        {
+          "texto": "También propone atención psicológica gratuita, con una primera consulta en un plazo máximo de 30 días.",
+          "apoyos": ["c-fab4f84055"]
+        }
+      ],
+      "nota": "Todo procede del programa de 2026. La ayuda dental empieza, según el programa, por los hogares de rentas medias y bajas; no cabe en el límite de palabras."
+    },
+    {
+      "tema": "educacion",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende una educación pública y gratuita de los 0 a los 18 años y propone universalizar la etapa de 0 a 3 años con más escuelas infantiles públicas.",
+          "apoyos": ["c-860102f13c", "c-a5bcae41f2"]
+        },
+        {
+          "texto": "Plantea ampliar las becas, limitar la capacidad de las aulas, aprobar un Estatuto del Docente y bajar el abandono escolar temprano por debajo del 10% antes de 2030.",
+          "apoyos": ["c-2750317968", "c-e60801791b", "c-7769732c87"]
+        },
+        {
+          "texto": "En la universidad, propone impulsar la matrícula gratuita del primer curso de grado en las públicas y una ley que les asegure una financiación estable.",
+          "apoyos": ["c-62991e5157", "c-9dd0a803e1", "c-328b48e2d0"]
+        }
+      ],
+      "nota": "Todo procede del programa de 2026. Quedan fuera por espacio las becas Erasmus de hasta 1.000 y 1.500 euros mensuales y la orientación de un profesional por cada 250 estudiantes."
+    }
+  ]
+}

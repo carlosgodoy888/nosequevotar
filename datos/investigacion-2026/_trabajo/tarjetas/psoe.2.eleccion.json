@@ -1,0 +1,145 @@
+{
+  "partido": "psoe",
+  "lote": "psoe.2",
+  "temas": [
+    {
+      "tema": "politica-exterior-y-defensa",
+      "elegidas": [
+        { "id": "c-3d7efc980e", "motivo": "Representa su línea sobre conflictos (dos Estados en Israel y Palestina con sanciones de la UE a quien la obstaculice), la medida exterior más concreta y reconocible de su postura; se prefiere a la de reforma de la ONU porque esa mezcla demasiadas acciones.", "texto": null, "cambio": null },
+        { "id": "c-ac710fe079", "motivo": "Cubre la línea europeísta del resumen: superar los bloqueos de la unanimidad y reforzar el Parlamento Europeo, en una frase breve y votable.", "texto": null, "cambio": null },
+        { "id": "c-a141f0b6d9", "motivo": "Cubre la línea de cooperación al desarrollo con su objetivo cuantificado (0,7 % de la RNB en ayuda oficial al desarrollo).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-bcdad7df47", "por_que_no": "Es la que mejor recoge el multilateralismo y la reforma del veto en la ONU, pero mezcla cinco acciones distintas (ONU, Corte Penal, sedes de la ONU, organizaciones juveniles), y quien vota no sabría qué está votando." },
+        { "id": "c-ae8cdaf332", "por_que_no": "Concreta y votable, pero el tratado de prohibición de armas nucleares no aparece entre sus líneas principales del tema." },
+        { "id": "c-b9a021fe00", "por_que_no": "Trata de protección de la infancia en redes, que es más bien una medida digital que de política exterior; además junta dos acciones." }
+      ],
+      "nota": "No hay candidatas sobre defensa (rechazo al 5 % del PIB en gasto militar, modernización de las Fuerzas Armadas), aunque es línea del resumen y lo ha dicho en campaña."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "elegidas": [
+        { "id": "c-7ac9e01194", "motivo": "Primera línea del resumen: más efectivos de Policía Nacional y Guardia Civil y su redistribución por territorio, concreta y sin mezclar acciones distintas.", "texto": null, "cambio": null },
+        { "id": "c-649537a8d3", "motivo": "Segunda línea del resumen y la más propia de su postura en seguridad: sustituir la Ley de Seguridad Ciudadana de 2015 garantizando reunión y manifestación.", "texto": null, "cambio": null },
+        { "id": "c-c3205f9a30", "motivo": "Cubre la parte de justicia con plazos y cifras (juicios por despido y desahucio en tres meses, desalojo de viviendas ocupadas en 48 horas, más jueces y fiscales), tal como aparece en el resumen.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-acdd6cb63b", "por_que_no": "La Agencia Estatal de Protección Civil y Emergencias está en la primera línea del resumen, pero es menos central en seguridad que el refuerzo de Policía y Guardia Civil." },
+        { "id": "c-9d45151e5c", "por_que_no": "Recoge la línea de la Fiscalía (mandato de cinco años, investigación penal a la Fiscalía), pero son 56 palabras con dos reformas distintas y es menos central." },
+        { "id": "c-8b427d629a", "por_que_no": "Contiene el primer Plan Nacional contra el Narcotráfico, pero mezcla narcotráfico, crimen organizado, trata, terrorismo, el Campo de Gibraltar y la radicalización." }
+      ],
+      "nota": "La declaración de campaña (suspender redes sociales por los menores) no tiene medida en este tema; corresponde a familias o digital. Las medidas sobre trata, prostitución y deepfakes aparecen aquí, pero el resumen las sitúa en igualdad; no se eligen aquí."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "elegidas": [
+        { "id": "c-8a8fb7d108", "motivo": "Su línea principal es el apoyo económico a la crianza; la prestación por crianza pasa de 80 palabras, así que va la Cuenta de Futuro de 1.000 euros al nacer, que es la siguiente medida del resumen y lleva cifra.", "texto": null, "cambio": null },
+        { "id": "c-3e8fa96de8", "motivo": "Cubre la línea de cuidados y servicios sociales del resumen: la primera Ley de Servicios Sociales con cartera común pactada con las comunidades.", "texto": null, "cambio": null },
+        { "id": "c-1f5f867098", "motivo": "Cubre la protección de la infancia en el entorno digital (edad mínima de 16 años en redes), que está en el resumen y que su candidato repite en campaña.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-8dc684f55c", "por_que_no": "Es la más representativa (prestación estatal por crianza para todos los hogares con menores, primera línea del resumen), pero tiene 86 palabras y pasa del límite de 80." },
+        { "id": "c-7c97e38804", "por_que_no": "La unión de amistad la ha destacado el candidato en campaña, pero no figura en el resumen de su postura y es más lateral que la crianza o los servicios sociales." },
+        { "id": "c-fd2c174e35", "por_que_no": "Recoge la reducción de listas de espera en dependencia, pero se apoya en una referencia a «la reforma (Ley 4/2026)» que quien no conozca la ley no entiende bien." }
+      ],
+      "nota": "No hay candidata con la prestación de cuatro semanas al 100 % por cuidado de hijos menores de 8 años que anunció el candidato en campaña."
+    },
+    {
+      "tema": "impuestos",
+      "elegidas": [
+        { "id": "c-f8ac57932f", "motivo": "Primera línea del resumen y eje de su propuesta fiscal: más progresividad en las rentas del capital, con tramos concretos y tipo máximo del 35 % por encima de 300.000 euros.", "texto": null, "cambio": null },
+        { "id": "c-8294729142", "motivo": "Cubre la vertiente de alivio para rentas medias y bajas (mínimo por descendiente convertido en crédito fiscal reembolsable), con cifra de hogares beneficiados.", "texto": null, "cambio": null },
+        { "id": "c-4479a55f51", "motivo": "Cubre la línea de gravar más a grandes empresas y rentas altas con la medida más concreta y votable de ese bloque (más impuestos a cotizadas cuyo ejecutivo cobre más de 100 veces la mediana de su plantilla).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-343088ee39", "por_que_no": "Representa bien el impuesto a los «tecnooligarcas», pero son 75 palabras con mucha explicación y sin concretar qué medida adicional se aplicaría." },
+        { "id": "c-33ea500917", "por_que_no": "La tasa a jets privados, megayates y billetes en business está en el resumen, pero tiene 86 palabras y pasa del límite." },
+        { "id": "c-d350f8ce38", "por_que_no": "La subida de la tasa Tobin del 0,2 % al 0,4 % es concreta y breve, pero es una línea más secundaria que la tributación del capital." }
+      ],
+      "nota": "No hay candidata con el impuesto progresivo a viviendas de grandes tenedores, que es lo que ha destacado el candidato en campaña."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "elegidas": [
+        { "id": "c-4e2d908183", "motivo": "Representa su línea central contra la violencia de género con la nueva medida legislativa que destaca el resumen: una ley orgánica contra la violencia vicaria.", "texto": null, "cambio": null },
+        { "id": "c-582ba84e0b", "motivo": "Cubre la línea de derechos LGTBI del resumen: que la Ley 4/2023 sea el suelo común en toda España frente a retrocesos autonómicos.", "texto": null, "cambio": null },
+        { "id": "c-87105f7e83", "motivo": "Cubre otra línea del resumen, la penalización de las «terapias de conversión», con una medida breve y votable.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-8980b2cae6", "por_que_no": "Las ayudas a huérfanos de la violencia de género hasta los 26 años están en el resumen, pero son de la misma línea que la primera elegida." },
+        { "id": "c-e568b5edfd", "por_que_no": "Incluir las violencias digitales en la Ley Integral es representativa, pero es más larga y técnica que la de violencia vicaria." },
+        { "id": "c-0a1df21806", "por_que_no": "La memoria democrática tiene varias medidas en el programa, pero no aparece entre las líneas principales del resumen." }
+      ],
+      "nota": "No hay candidata con el blindaje constitucional del aborto (primera línea del resumen y tema de campaña); las leyes contra la trata y la prostitución y el delito de deepfakes sexuales están asignadas a seguridad-y-justicia. c-87105f7e83 menciona «la iniciativa legislativa impulsada durante la anterior legislatura» sin nombrar a nadie; no se ha considerado que delate."
+    },
+    {
+      "tema": "pensiones",
+      "elegidas": [
+        { "id": "c-ae3d8d7d6a", "motivo": "Primera línea del resumen y compromiso que su candidato repite en campaña: blindar en la Constitución las pensiones públicas y su revalorización con el IPC.", "texto": null, "cambio": null },
+        { "id": "c-c019c0b0dc", "motivo": "Cubre la línea de consolidar y financiar el sistema: acelerar la cuota de solidaridad durante la próxima legislatura.", "texto": null, "cambio": null },
+        { "id": "c-f7928bb186", "motivo": "Cubre la línea de mejoras de prestaciones concretas del resumen, con cifra (pensión de orfandad del 20 % al 30 %).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-2f79c895ca", "por_que_no": "La separación de fuentes de financiación está en el resumen, pero es más técnica y menos comprensible que la cuota de solidaridad." },
+        { "id": "c-3733d0cf6a", "por_que_no": "El año de cotización por hijo está en el resumen, pero son 61 palabras con varias acciones (complemento, año adicional, normativa europea)." },
+        { "id": "c-26109be896", "por_que_no": "La incapacidad temporal oncológica no está entre sus líneas principales de pensiones y roza las 80 palabras." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "transporte",
+      "elegidas": [
+        { "id": "c-bf97752f36", "motivo": "Primera línea del resumen tras los accidentes ferroviarios de 2026: un Pacto de Estado por la Seguridad Ferroviaria con auditoría técnica en dos meses; es la única candidata de esa línea que se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-e726e17bf1", "motivo": "Cubre la línea de modernización ferroviaria del resumen: Cercanías y Media Distancia y corredores Mediterráneo y Atlántico.", "texto": null, "cambio": null },
+        { "id": "c-2baf3e93dd", "motivo": "Cubre la línea de carreteras con cifra y plazo (5.000 km de firme y 1.629 millones en cuatro años).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-1c66a81408", "por_que_no": "Los 19.000 millones para conservación son línea principal y llevan cifra, pero sin el título no se sabe de qué «red» habla." },
+        { "id": "c-af3bec39ff", "por_que_no": "El ERTMS en la línea Madrid-Sevilla es concreto, pero es técnico y menos central que el pacto de seguridad." },
+        { "id": "c-8214c3a3c4", "por_que_no": "Remite al «plan de choque aprobado por el Gobierno», que delata a quien gobierna y no se entiende sin saber cuál es." }
+      ],
+      "nota": "La primera elegida tiene 72 palabras (más de 50, pero dentro del límite)."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "elegidas": [
+        { "id": "c-743fd19fad", "motivo": "Representa la línea de financiación autonómica con cifra (el Estado asume 83.000 millones de deuda autonómica); se prefiere a la del nuevo sistema de financiación porque esa delata al Gobierno y es más larga.", "texto": null, "cambio": null },
+        { "id": "c-783d64d393", "motivo": "Cubre la línea institucional del resumen: un Senado territorial con circunscripciones autonómicas.", "texto": null, "cambio": null },
+        { "id": "c-3327ce6fc1", "motivo": "Cubre la línea de lenguas cooficiales: extender su uso a la Administración General del Estado en sus territorios.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-529fbc613b", "por_que_no": "El nuevo sistema de financiación con 21.000 millones adicionales es central, pero son 73 palabras y dice «propuesto por el Gobierno de España», que delata a quien gobierna; hay alternativa equivalente sin ese problema." },
+        { "id": "c-c1dd7ffc42", "por_que_no": "La ley de cooperación interadministrativa recoge bien el «Estado autonómico que funciona», pero es menos concreta para el votante que la reforma del Senado." },
+        { "id": "c-ff25719af6", "por_que_no": "Institucionalizar la Conferencia de Presidentes es de la misma línea que el Senado y menos llamativa como cambio." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "elegidas": [
+        { "id": "c-8697d8f3c8", "motivo": "Primera línea del resumen: la Ley de Agricultura Familiar y Profesional dentro de un paquete para el sector agrario; es la única candidata propia que la recoge.", "texto": null, "cambio": null },
+        { "id": "c-0842091f4d", "motivo": "Cubre la línea de pesca del resumen: un Plan de Transición Justa para la pesca y la acuicultura.", "texto": null, "cambio": null },
+        { "id": "c-4b541a70fe", "motivo": "Tercera medida propia del tema (estrategia de alimentación ecológica); se elige porque las de otro tema solo pueden usarse si faltan propias.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-ba6097ffcd", "por_que_no": "El Plan de Empleo Verde Rural representa mejor la línea de despoblación del resumen, pero es de otro tema (empleo) y hay tres medidas propias." },
+        { "id": "c-24dbb1cde9", "por_que_no": "Las oficinas itinerantes en comarcas sin oficina están en el resumen, pero son de otro tema (democracia e instituciones) y mezclan dos acciones." }
+      ],
+      "nota": "c-8697d8f3c8 termina en «permitirá impulsar cinco objetivos:» sin enumerarlos; se puede votar por la ley, pero quien revise debe decidir si se entiende sola. Si se descarta, la sustituiría c-ba6097ffcd (de otro tema). c-4b541a70fe empieza por «Además,», pero se entiende sola. Ninguna candidata recoge la PAC, los controles a importaciones ni los regadíos."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "elegidas": [
+        { "id": "c-3ac9d23e25", "motivo": "Representa la línea de control a las plataformas digitales, que ocupa la mayor parte de sus medidas del tema y que su candidato destaca en campaña (responsabilidad incluso penal de los directivos de las plataformas).", "texto": null, "cambio": null },
+        { "id": "c-1bbf27aea8", "motivo": "Cubre la línea de ciencia con cifras y plazo: subir cada año la inversión pública en I+D hasta el 1,25 % del PIB y el 1,5 % en 2035.", "texto": null, "cambio": null },
+        { "id": "c-ba287dca65", "motivo": "Cubre la línea de inteligencia artificial del resumen: ley con supervisión humana, etiquetado de contenidos generados y multas de hasta 35 millones.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-46f0e99a43", "por_que_no": "La verificación pública y anónima de la edad es de la misma línea de protección en redes y menos completa que la de responsabilidad de las plataformas." },
+        { "id": "c-ce11b0e11c", "por_que_no": "La Ley General de Cultura es su línea principal en cultura, pero esa parte pesa menos en el tema que la digital y la científica." },
+        { "id": "c-1927b3cd31", "por_que_no": "El abono de cine de 15 euros para menores de 25 está en el resumen y lleva cifra, pero es una medida más acotada que la Ley General de Cultura." }
+      ],
+      "nota": "La edad mínima de 16 años en redes (c-1f5f867098) se ha usado en familias-y-cuidados y no se repite aquí. La cultura queda sin medida entre las tres elegidas."
+    }
+  ]
+}

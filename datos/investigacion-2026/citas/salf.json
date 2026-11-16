@@ -1,15 +1,16 @@
 {
   "partido": "salf",
-  "actualizado": "2026-11-11",
+  "actualizado": "2026-11-16",
   "fuentes": [
-    "salf-contrato-electoral-29n",
-    null
+    "salf-contrato-electoral-29n"
   ],
   "resumen": {
-    "vigentes": 254,
-    "medidas": 230,
-    "medidas_concretas": 217,
+    "vigentes": 264,
+    "medidas": 240,
+    "medidas_concretas": 227,
     "posiciones": 24,
+    "de_programa": 245,
+    "declaraciones": 19,
     "exactas": 155,
     "normalizadas": 90,
     "sustituidas": 0
@@ -7187,6 +7188,229 @@
       "verificacion": "fuente-abierta",
       "estado": "vigente",
       "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-f0ad1f8513",
+      "partido": "salf",
+      "tipo": "redes",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "SALF acaba de firmar algo que no vamos a ver en ningún otro partido: Si no cumple su programa, pierde el 100 % de su sueldo.",
+      "idioma": "es",
+      "url": "https://t.me/Alviseperez/15096",
+      "medio": "Canal oficial de Telegram de Alvise Pérez (@Alviseperez)",
+      "quien": "Luis «Alvise» Pérez Fernández",
+      "cargo": "presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid",
+      "partido_de_quien": "Se Acabó La Fiesta (SALF)",
+      "fecha": "2026-11-10",
+      "nota": "Sueldo de sus cargos condicionado al cumplimiento del programa",
+      "temas": [
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-a9cde121bd",
+      "partido": "salf",
+      "tipo": "redes",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "La corrupción no prescribe. El corrupto devuelve el triple y el que lo denuncia cobra el 15 %.",
+      "idioma": "es",
+      "url": "https://t.me/Alviseperez/15096",
+      "medio": "Canal oficial de Telegram de Alvise Pérez (@Alviseperez)",
+      "quien": "Luis «Alvise» Pérez Fernández",
+      "cargo": "presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid",
+      "partido_de_quien": "Se Acabó La Fiesta (SALF)",
+      "fecha": "2026-11-10",
+      "nota": "Imprescriptibilidad de la corrupción y recompensa al denunciante",
+      "temas": [
+        "democracia-e-instituciones",
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-7995f9e2c3",
+      "partido": "salf",
+      "tipo": "redes",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "De 22 ministerios a 10. Fuera el Senado y fuera los 17.621 aforados.",
+      "idioma": "es",
+      "url": "https://t.me/Alviseperez/15096",
+      "medio": "Canal oficial de Telegram de Alvise Pérez (@Alviseperez)",
+      "quien": "Luis «Alvise» Pérez Fernández",
+      "cargo": "presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid",
+      "partido_de_quien": "Se Acabó La Fiesta (SALF)",
+      "fecha": "2026-11-10",
+      "nota": "Reducción de ministerios, supresión del Senado y de aforamientos",
+      "temas": [
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-7fed6019f5",
+      "partido": "salf",
+      "tipo": "redes",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Tu primera vivienda, 100 % libre de impuestos. Un piso de 300.000 € pasa a costar 195.000.",
+      "idioma": "es",
+      "url": "https://t.me/Alviseperez/15096",
+      "medio": "Canal oficial de Telegram de Alvise Pérez (@Alviseperez)",
+      "quien": "Luis «Alvise» Pérez Fernández",
+      "cargo": "presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid",
+      "partido_de_quien": "Se Acabó La Fiesta (SALF)",
+      "fecha": "2026-11-10",
+      "nota": "Compra de primera vivienda sin impuestos",
+      "temas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-790c7338ca",
+      "partido": "salf",
+      "tipo": "redes",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Ni un euro de IRPF por tus primeros 35.000 €.",
+      "idioma": "es",
+      "url": "https://t.me/Alviseperez/15096",
+      "medio": "Canal oficial de Telegram de Alvise Pérez (@Alviseperez)",
+      "quien": "Luis «Alvise» Pérez Fernández",
+      "cargo": "presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid",
+      "partido_de_quien": "Se Acabó La Fiesta (SALF)",
+      "fecha": "2026-11-10",
+      "nota": "Mínimo exento de IRPF de 35.000 euros",
+      "temas": [
+        "impuestos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-ac6b890135",
+      "partido": "salf",
+      "tipo": "redes",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Fuera el IBI y fuera el impuesto de Sucesiones.",
+      "idioma": "es",
+      "url": "https://t.me/Alviseperez/15096",
+      "medio": "Canal oficial de Telegram de Alvise Pérez (@Alviseperez)",
+      "quien": "Luis «Alvise» Pérez Fernández",
+      "cargo": "presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid",
+      "partido_de_quien": "Se Acabó La Fiesta (SALF)",
+      "fecha": "2026-11-10",
+      "nota": "Supresión del IBI y del impuesto de sucesiones",
+      "temas": [
+        "impuestos",
+        "vivienda"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-756acea943",
+      "partido": "salf",
+      "tipo": "redes",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Pensiones blindadas en la Constitución. Mínima de 1.000 € con 35 años cotizados.",
+      "idioma": "es",
+      "url": "https://t.me/Alviseperez/15096",
+      "medio": "Canal oficial de Telegram de Alvise Pérez (@Alviseperez)",
+      "quien": "Luis «Alvise» Pérez Fernández",
+      "cargo": "presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid",
+      "partido_de_quien": "Se Acabó La Fiesta (SALF)",
+      "fecha": "2026-11-10",
+      "nota": "Pensiones en la Constitución y mínima de 1.000 euros",
+      "temas": [
+        "pensiones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-859fbf6c97",
+      "partido": "salf",
+      "tipo": "redes",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "60 días como máximo para operarte.",
+      "idioma": "es",
+      "url": "https://t.me/Alviseperez/15096",
+      "medio": "Canal oficial de Telegram de Alvise Pérez (@Alviseperez)",
+      "quien": "Luis «Alvise» Pérez Fernández",
+      "cargo": "presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid",
+      "partido_de_quien": "Se Acabó La Fiesta (SALF)",
+      "fecha": "2026-11-10",
+      "nota": "Plazo máximo de espera quirúrgica de 60 días",
+      "temas": [
+        "sanidad"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-b5534c51b8",
+      "partido": "salf",
+      "tipo": "redes",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Inmigración ilegal: expulsión en 48 horas y fin de las regularizaciones.",
+      "idioma": "es",
+      "url": "https://t.me/Alviseperez/15096",
+      "medio": "Canal oficial de Telegram de Alvise Pérez (@Alviseperez)",
+      "quien": "Luis «Alvise» Pérez Fernández",
+      "cargo": "presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid",
+      "partido_de_quien": "Se Acabó La Fiesta (SALF)",
+      "fecha": "2026-11-10",
+      "nota": "Expulsiones en 48 horas y fin de regularizaciones",
+      "temas": [
+        "inmigracion"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-7b9c5caa45",
+      "partido": "salf",
+      "tipo": "redes",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Macrocárcel para asesinos, violadores, narcos y políticos corruptos. Sin permisos.",
+      "idioma": "es",
+      "url": "https://t.me/Alviseperez/15096",
+      "medio": "Canal oficial de Telegram de Alvise Pérez (@Alviseperez)",
+      "quien": "Luis «Alvise» Pérez Fernández",
+      "cargo": "presidente de Se Acabó La Fiesta y cabeza de lista al Congreso por Madrid",
+      "partido_de_quien": "Se Acabó La Fiesta (SALF)",
+      "fecha": "2026-11-10",
+      "nota": "Macrocárcel sin permisos penitenciarios para delitos graves y corrupción política",
+      "temas": [
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "fuente-abierta-corregida",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
     }
   ]
 }

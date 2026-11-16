@@ -127,20 +127,22 @@
     {
       "id": "frente-obrero-programa-general",
       "tipo": "programa",
-      "clase": "programa_general",
+      "clase": "programa",
       "partido": "frente-obrero",
       "titulo": "Un programa para recuperar España (programa político del partido)",
       "idioma": "es",
       "publicado": "2026-10-07",
-      "url": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
-      "consultado": "2026-11-10T15:19:20Z",
+      "url": "https://frenteobrero.es/documentos/programa-frente-obrero.pdf",
+      "consultado": "2026-11-16T16:07:11Z",
       "archivo": "fuentes/descargas/programas-2026/2026-11-10-2026-frente-obrero.pdf",
       "sha256": "7b9f423f2c1ada187b6f42ed8dbf4e025356254d7a6b81830e114b818ef2e282",
       "estado": "vigente",
       "usado_en": [
         "citas/frente-obrero.json"
       ],
-      "paginas": 64
+      "paginas": 64,
+      "url_anterior": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+      "nota": "El 16-11-2026 la dirección anterior devuelve 404; la web del partido enlaza el mismo archivo (misma huella SHA-256) en la dirección nueva y lo presenta como «Programa electoral (PDF)», por lo que pasa a clase «programa»."
     },
     {
       "id": "d21-espana-limpia",
@@ -154,17 +156,19 @@
       "consultado": "2026-11-10T15:19:24Z",
       "archivo": "fuentes/descargas/programas-2026/2026-11-10-2026-d21-espana-limpia.pdf",
       "sha256": "bfa89b7218cd6a76d0eff86a1f6aad0a2e8c7c14a5d88f18ea002658bab4e1de",
-      "estado": "vigente",
+      "estado": "sustituida",
       "usado_en": [
         "citas/d21.json"
       ],
       "enlazado_desde": "https://democracia21.es/#soluciones",
-      "paginas": 13
+      "paginas": 13,
+      "sustituida_por": "d21-espana-limpia-v2",
+      "sustituida_el": "2026-11-16"
     },
     {
       "id": "d21-vivienda",
       "tipo": "programa",
-      "clase": "documento_parcial",
+      "clase": "programa",
       "partido": "d21",
       "titulo": "Vivienda, Prioridad Nº1",
       "idioma": "es",
@@ -183,7 +187,7 @@
     {
       "id": "d21-educacion",
       "tipo": "programa",
-      "clase": "documento_parcial",
+      "clase": "programa",
       "partido": "d21",
       "titulo": "La educación en el centro",
       "idioma": "es",
@@ -317,6 +321,565 @@
       ],
       "nota": "Programa electoral de Vox para el 29N, presentado el 12-11-2026 (The Objective, Infobae y Demócrata lo dan ese día): 115 medidas numeradas en 13 bloques, 55 páginas. La web del partido (voxespana.es) bloquea el acceso automático: se usa la copia que publica el diario Demócrata. El PDF tiene fecha interna de creación 5-11-2026. El texto se identifica como de VOX (portada «VOTA … PROGRAMA ELECTORAL 29 de noviembre de 2026», lema «Es sentido común», medida 48: «VOX en el Gobierno será…»).",
       "paginas": 55
+    },
+    {
+      "id": "psoe-programa-2026",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "psoe",
+      "titulo": "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026",
+      "idioma": "es",
+      "publicado": "2026-11-15",
+      "url": "https://www.democrata.es/uploads/s1/35/40/05/6/programapsoe29n26.pdf",
+      "enlazado_desde": "https://www.democrata.es/elecciones-generales-espana/todas-claves-programa-psoe-29n-100000-viviendas-ayudas-por-hijo-nuevos-impuestos/",
+      "consultado": "2026-11-16T15:54:25Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-psoe.pdf",
+      "sha256": "ca99e66265ffaad38be5cbc268dd855dbf54f1808a5c511cd38f0e094872e7e6",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/psoe.json"
+      ],
+      "nota": "Programa del PSOE para el 29N, presentado el 15-11-2026 (Infobae y Demócrata, 15-11-2026). La dirección oficial es https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf, pero psoe.es bloquea el acceso automático: se usa la copia que publica el diario Demócrata. El PDF se titula «PROGRAMA GENERALES 29N26» y tiene fecha interna 15-11-2026.",
+      "paginas": 114
+    },
+    {
+      "id": "frente-amplio-programa-2026",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "frente-amplio",
+      "titulo": "Programa electoral de Frente Amplio",
+      "idioma": "es",
+      "publicado": "2026-11-16",
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "enlazado_desde": "https://frenteamplio.info/programa/",
+      "consultado": "2026-11-16T15:54:25Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-frente-amplio.pdf",
+      "sha256": "df6e4d967a3a41386656273c32c2df3edc6681b6ee047b190b2ebb91f1a36f04",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/frente-amplio.json"
+      ],
+      "nota": "Programa presentado el 16-11-2026 (Infobae y ElNacional.cat, 16-11-2026). PDF de 151 páginas en la web de la coalición, con fecha interna 16-11-2026. El PDF no lleva título en portada: se usa el de la página que lo enlaza.",
+      "paginas": 151
+    },
+    {
+      "id": "compromis-programa-2026",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "compromis-front-valencia",
+      "titulo": "Programa electoral 29N. Compromís-Front Valencià",
+      "idioma": "ca",
+      "publicado": "2026-11-13",
+      "url": "https://frontvalencia.org/programa-compromis-front-valencia.pdf",
+      "enlazado_desde": "https://frontvalencia.org/",
+      "consultado": "2026-11-16T15:54:25Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-compromis.pdf",
+      "sha256": "37b569d6ac31a21a8f972dcfd5be3740c32f50fe1c6f3e87c9a1f68027ee6b55",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/compromis-front-valencia.json"
+      ],
+      "nota": "Programa completo en valenciano, 64 páginas, enlazado desde el botón «Programa sencer» de la web de campaña. Fecha interna del PDF: 13-11-2026; Moncloa.com (15-11-2026) y El Boletín lo dan por publicado.",
+      "paginas": 64
+    },
+    {
+      "id": "pacma-programa-2026",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "pacma",
+      "titulo": "Programa electoral. Elecciones generales del 29 de noviembre de 2026",
+      "idioma": "es",
+      "publicado": "2026-11-13",
+      "url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+      "consultado": "2026-11-16T15:54:25Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-pacma.pdf",
+      "sha256": "6009e569e3bfd4f607b8831ade1d1ef33cbbda6033805e3ebc331d4dd0e30a1d",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/pacma.json"
+      ],
+      "nota": "Programa de 82 páginas anunciado por la cuenta oficial del partido en X el 13-11-2026. Fecha interna del PDF: 12-11-2026.",
+      "paginas": 82
+    },
+    {
+      "id": "eh-bildu-programa-2026",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "eh-bildu",
+      "titulo": "Programa. Garantía y derechos",
+      "idioma": "es",
+      "publicado": "2026-11-16",
+      "url": "https://ehbildu.eus/media/dokumentuak/posibleegin-programa-cas.pdf",
+      "enlazado_desde": "https://ehbildu.eus/es/noticias/eh-bildu-presenta-una-agenda-de-medidas-para-reforzar-los-derechos-sociales-y-ampliar-el-autogobierno-de-euskal-herria",
+      "consultado": "2026-11-16T15:54:25Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-eh-bildu.pdf",
+      "sha256": "ceb655c9c8ebb036a15fa7829865d6e2d178525eb7db92629d702ac5e8d16047",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/eh-bildu.json"
+      ],
+      "nota": "Programa para el Congreso y el Senado presentado el 16-11-2026 (nota de EH Bildu; Infobae y Naiz, 16-11-2026). Versión en castellano, 30 páginas.",
+      "paginas": 30
+    },
+    {
+      "id": "d21-administracion-moderna-digital",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Una Administración moderna y digital que te facilite la vida",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/administracion-moderna-digital-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-administracion-moderna-digital.pdf",
+      "sha256": "8a2336294f000dfba6bfdadcbde32a8a6af04bf4e9bfe3dc336ecceb097673f1",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 5
+    },
+    {
+      "id": "d21-autonomo-estamos-contigo",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Autónomo, estamos contigo",
+      "idioma": "es",
+      "publicado": "2026-11-12",
+      "url": "https://mi.democracia21.es/docs/programa/autonomo-estamos-contigo-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-autonomo-estamos-contigo.pdf",
+      "sha256": "a620f42b303cbea4db98587ea59ca2ff2e934a6d12e9dbf955c9c3688b39ddbc",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 4
+    },
+    {
+      "id": "d21-ciencia",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Talento científico, confiamos en vuestro trabajo",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/ciencia-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-ciencia.pdf",
+      "sha256": "359b1a90a4eff77e308bd6c79a1855b550bd660650ffc651df4410b55a0f636c",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 4
+    },
+    {
+      "id": "d21-contigo-y-con-tu-familia",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Contigo y con tu familia",
+      "idioma": "es",
+      "publicado": "2026-11-12",
+      "url": "https://mi.democracia21.es/docs/programa/contigo-y-con-tu-familia-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-contigo-y-con-tu-familia.pdf",
+      "sha256": "ae48c630c49e2e99c83124d77606bf8cd01d04e08d27ca216b767f611cf71190",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 7
+    },
+    {
+      "id": "d21-cultura",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Cultura y talento que proyecten a España al mundo",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/cultura-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-cultura.pdf",
+      "sha256": "4b9711b1bcfb22ac27eafdbb78c1ef14e4c9b86ae309c8782db853e766df0e41",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 6
+    },
+    {
+      "id": "d21-deporte",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Deporte para un país sano y vital",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/deporte-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-deporte.pdf",
+      "sha256": "bdcb112ba953a6c975852555ff35320afc3dc8aa12ff71255540730c64719202",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 4
+    },
+    {
+      "id": "d21-derechos-sociales",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Ni un paso atrás en derechos sociales",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/derechos-sociales-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-derechos-sociales.pdf",
+      "sha256": "fc8334b02641276a89beebd4e0561abe6b87d437e8a396e4f32cfdf39839f0c7",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 3
+    },
+    {
+      "id": "d21-espana-limpia-v2",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "España Limpia",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/espana-limpia-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-espana-limpia-v2.pdf",
+      "sha256": "f18d1809edd200af0466d716f0fb532202db14f8c919f149aef8b0fb6d934041",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 13
+    },
+    {
+      "id": "d21-estado-proactivo",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/estado-proactivo-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-estado-proactivo.pdf",
+      "sha256": "b1416ade66742a135399973be48d10129e585f4d7c5ef8fe862ddf9916668a98",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 4
+    },
+    {
+      "id": "d21-funcion-publica-independiente",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Una función pública independiente y al servicio del ciudadano",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/funcion-publica-independiente-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-funcion-publica-independiente.pdf",
+      "sha256": "91d0bec605bfccfadcd7182a3b9593c176062efb1a2ab5f29086190ef6b45103",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 3
+    },
+    {
+      "id": "d21-impuestos-justificados-que-se-entiendan",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Impuestos justificados y que se entiendan",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/impuestos-justificados-que-se-entiendan-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-impuestos-justificados-que-se-entiendan.pdf",
+      "sha256": "bcd079ab7c4fbf6713a7168f931922ab326d865c992756fdd9551653c604b5b6",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 4
+    },
+    {
+      "id": "d21-infraestructuras-y-crecimiento-sostenibles",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Infraestructuras y crecimiento sostenibles",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/infraestructuras-y-crecimiento-sostenibles-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-infraestructuras-y-crecimiento-sostenibles.pdf",
+      "sha256": "d235f1f0ac5bfaf2eecac9982774b4c2feaa2327c18160dd054578b719d5eefa",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 4
+    },
+    {
+      "id": "d21-mas-salario-mas-productividad",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Más salario, más productividad",
+      "idioma": "es",
+      "publicado": "2026-11-13",
+      "url": "https://mi.democracia21.es/docs/programa/mas-salario-mas-productividad-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-mas-salario-mas-productividad.pdf",
+      "sha256": "562972bc1b58cef5b8db684b956fbe7d0c528ac2a66663f99848054f6903b804",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 3
+    },
+    {
+      "id": "d21-medio-ambiente-anticipacion-climatica",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Medio ambiente y adaptación climática: anticipar para proteger",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/medio-ambiente-anticipacion-climatica-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-medio-ambiente-anticipacion-climatica.pdf",
+      "sha256": "ac225ec73d4ada5a711df256508533335b162b76c950ae8eae3247febf81bc9e",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 5
+    },
+    {
+      "id": "d21-menos-normas-mas-claras-y-estables",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Menos normas, más claras, estables y coordinadas",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/menos-normas-mas-claras-y-estables-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-menos-normas-mas-claras-y-estables.pdf",
+      "sha256": "6e8ec5e212765be20111e72ac57a7959987d3548763dd5a2cb475f93e675fbfe",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 3
+    },
+    {
+      "id": "d21-politica-migratoria-con-cabeza",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Una política migratoria con cabeza",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/politica-migratoria-con-cabeza-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-politica-migratoria-con-cabeza.pdf",
+      "sha256": "ade885a8e64451177f5428897788c92e061f659f418ce916ed01d5b4a4c11569",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 5
+    },
+    {
+      "id": "d21-potencia-energetica",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Ser una potencia energética",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/potencia-energetica-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-potencia-energetica.pdf",
+      "sha256": "95b5139bc3c9b3505d7fb9b008a0cd62163753f97f1ead1fa3622c570a2f7aa7",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 4
+    },
+    {
+      "id": "d21-proteccion-animal-veterinarios",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Protección animal con los veterinarios",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/proteccion-animal-veterinarios-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-proteccion-animal-veterinarios.pdf",
+      "sha256": "2de9695ea6c88aa92d6dc71f143598c77d667e750d1d4fdcb70b4e037159e588",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 3
+    },
+    {
+      "id": "d21-redefiniendo-el-envejecimiento",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Redefiniendo el envejecimiento",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/redefiniendo-el-envejecimiento-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-redefiniendo-el-envejecimiento.pdf",
+      "sha256": "045e6d65785346cf26ee75727f27a17754f604165c37b80dabe29765c6ed51c5",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 3
+    },
+    {
+      "id": "d21-revolucion-pyme",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Revolución pyme",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/revolucion-pyme-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-revolucion-pyme.pdf",
+      "sha256": "18eeaa7c6f7c2ae8b9d8ec3858ad09515a3ea030677a636eeaf6c0d5121e2368",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 4
+    },
+    {
+      "id": "d21-sanidad-publica",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Sanidad pública: cuidar a quienes nos cuidan",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/sanidad-publica-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-sanidad-publica.pdf",
+      "sha256": "165a4f1a50f9f1a3315d672ba9f3f9793c9b240b2227a643fb39636bb47de957",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 6
+    },
+    {
+      "id": "d21-seguridad-defensa-mundo-hoy",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Seguridad y defensa para el mundo de hoy",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/seguridad-defensa-mundo-hoy-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-seguridad-defensa-mundo-hoy.pdf",
+      "sha256": "e98693b13019c85af02053d57607df2ecad8379538cfc508664b72617291351c",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 5
+    },
+    {
+      "id": "d21-union-europea-siglo-21",
+      "tipo": "programa",
+      "clase": "programa",
+      "partido": "d21",
+      "titulo": "Construir la Unión Europea del siglo 21",
+      "idioma": "es",
+      "publicado": "2026-11-11",
+      "url": "https://mi.democracia21.es/docs/programa/union-europea-siglo-21-democracia21.pdf",
+      "enlazado_desde": "https://mi.democracia21.es/programa",
+      "consultado": "2026-11-16T16:02:08Z",
+      "archivo": "fuentes/descargas/programas-2026/2026-11-16-2026-d21-union-europea-siglo-21.pdf",
+      "sha256": "3231cf5812753a5bfcb0d8ef852a5a36926d8cd8c96301d399a10a9912e3dd94",
+      "estado": "vigente",
+      "usado_en": [
+        "citas/d21.json"
+      ],
+      "nota": "Uno de los 25 documentos temáticos en que la candidatura publica su programa «La España que merecemos» (112 medidas, 5 bloques y 32 temas). No hay PDF del programa completo: la web lo ofrece como aplicación y enlaza un PDF por tema.",
+      "paginas": 4
     }
   ]
 }

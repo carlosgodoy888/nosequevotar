@@ -1,0 +1,73 @@
+{
+  "resumenes": [
+    {
+      "tema": "campo-y-medio-rural",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone una Ley de Agricultura Familiar y Profesional, con renovación de maquinaria, refuerzo de los seguros agrarios y apoyo al relevo generacional.",
+          "apoyos": ["c-8697d8f3c8", "c-cdac92d081", "c-d3c0f2f30b", "c-6e35088a67"]
+        },
+        {
+          "texto": "Defiende una PAC que priorice las explotaciones familiares y profesionales, más controles a las importaciones y evitar que fondos de inversión concentren tierras fértiles.",
+          "apoyos": ["c-7df355dad1", "c-60e73b346a", "c-1cba7b7275"]
+        },
+        {
+          "texto": "Para la pesca plantea un Plan de Transición Justa y un reparto «justo y transparente» de cuotas.",
+          "apoyos": ["c-0842091f4d", "c-3b42079b63"]
+        },
+        {
+          "texto": "Contra la despoblación propone un Plan de Empleo Verde Rural, vivienda asequible en el medio rural, el «mecanismo de garantía rural» y oficinas itinerantes del Estado.",
+          "apoyos": ["c-acc6ab2e04", "c-ba6097ffcd", "c-da9d242394", "c-0d06a4b69b", "c-24dbb1cde9"]
+        }
+      ],
+      "nota": "Todo sale del programa de 2026. Se dejan fuera citas de servicios generales (sanidad, comedor escolar, celiaquía) que no tratan del campo, y las declaraciones antiguas de la ponencia de 2024 (banco público de agua, desaladoras)."
+    },
+    {
+      "tema": "transporte",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Tras los accidentes ferroviarios de 2026, propone un Pacto de Estado por la Seguridad Ferroviaria y 19.000 millones para conservar la red hasta 2030.",
+          "apoyos": ["c-e7bcf90749", "c-bf97752f36", "c-1c66a81408", "c-feeeebe8df"]
+        },
+        {
+          "texto": "Plantea implantar el ERTMS de nivel 2 en la línea Madrid-Sevilla, modernizar Cercanías y Media Distancia y culminar los corredores Mediterráneo y Atlántico.",
+          "apoyos": ["c-af3bec39ff", "c-e726e17bf1", "c-ef2669c7c3"]
+        },
+        {
+          "texto": "En carreteras, quiere reparar el firme de 5.000 km de la red estatal con 1.629 millones en cuatro años.",
+          "apoyos": ["c-2baf3e93dd"]
+        },
+        {
+          "texto": "Defiende un transporte público integrado con tarifas sencillas y asequibles, las Zonas de Bajas Emisiones e incentivos a los vehículos de cero emisiones.",
+          "apoyos": ["c-1094cf918d", "c-12f5447f81", "c-95fa2c2cb6", "c-0a725a3400"]
+        }
+      ],
+      "nota": "Programa de 2026. El programa habla de «tragedias ferroviarias»; se escribe «accidentes». Quedan fuera la tasa a jets privados y megayates (fiscalidad), las redes eléctricas y de telecomunicaciones, y las declaraciones de la ponencia de 2024 (billete único, empresas que paguen el 50 % del transporte de sus empleados)."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone reformar el artículo 43 de la Constitución para reforzar el derecho al aborto y blindar el matrimonio igualitario y la eutanasia.",
+          "apoyos": ["c-710673783c", "c-20e8e270cc"]
+        },
+        {
+          "texto": "Ante la violencia de género plantea una ley orgánica contra la violencia vicaria y ampliar las ayudas a huérfanos hasta los 26 años.",
+          "apoyos": ["c-4e2d908183", "c-8980b2cae6", "c-fa8accfd14"]
+        },
+        {
+          "texto": "Quiere aprobar leyes orgánicas contra la trata y para abolir la prostitución, prohibiendo el proxenetismo, y penalizar las llamadas «terapias de conversión».",
+          "apoyos": ["c-18732a6f2b", "c-87105f7e83"]
+        },
+        {
+          "texto": "Quiere que la Ley 4/2023 sea el «suelo común» de derechos LGTBI en toda España y reforzar la igualdad salarial.",
+          "apoyos": ["c-582ba84e0b", "c-82330b4668", "c-7d37ad9329", "c-913a610aba"]
+        }
+      ],
+      "nota": "Tema con 116 citas, casi todas del programa de 2026; se eligen las medidas más concretas. Quedan fuera por espacio la memoria democrática (exhumaciones, Cuelgamuros), la «unión de amistad», los deepfakes sexuales como delito y la nueva Ley de Seguridad Ciudadana. El programa usa «violencias machistas»; se escribe «violencia de género», que también usa el programa."
+    }
+  ]
+}

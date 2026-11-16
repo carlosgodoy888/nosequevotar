@@ -1,10 +1,15 @@
 // Test sin siglas: recorrido completo en el navegador. Todo se calcula aquí; nada sale del dispositivo.
-// El estado vive en memoria y en sessionStorage (se pierde al cerrar la pestaña).
-// El banco es un parámetro de la página (data-banco), para pasar a 2026 sin tocar este código.
-import { calcularActa, partidosEnJuego, temasDelModo, papeletasDelTema, maxImportantes, MIN_PAPELETAS } from './motor.mjs';
+//
+// Recorrido: provincia → temas que interesan → rápido o completo → papeletas → resultado → compartir.
+// El progreso vive en memoria y en sessionStorage (se pierde al cerrar la pestaña). La provincia no se
+// guarda: solo se usa para saber qué candidaturas entran, y lo que se guarda es esa lista.
+// El banco es un parámetro de la página (data-banco), para cambiar de edición sin tocar este código.
+import {
+  calcularResultado, partidosEnJuego, partidosSinPrograma, papeletasDelTema, contarPreguntas,
+  minutos, textoMinutos, temasEnOrden, listaNombres, MIN_TEMAS,
+} from './motor.mjs';
 import { barajar } from './azar.mjs';
-import { esc, textoConTerminos, iniciarGlosario } from './glosario.mjs';
-import { dibujar, textoResultado, textoFavorita, compartir, descargar, copiar, enlaceWhatsApp } from './compartir.mjs';
+import { dibujar, textoResultado, compartir, descargar, copiar, enlaceWhatsApp } from './compartir.mjs';
 
 const raiz = document.getElementById('juego');
 const pantalla = document.getElementById('pantalla');
@@ -12,29 +17,43 @@ const anuncio = document.getElementById('anuncio');
 const ANIO = raiz.dataset.anio;
 const CLAVE = `nsqv-test-${ANIO}`;
 const sinMovimiento = window.matchMedia('(prefers-reduced-motion: reduce)');
-const DURACION_RECUENTO = 1500;
+const VOTOS = { favor: 'A favor', contra: 'En contra', abstencion: 'Me abstengo' };
+const VOTADO = { favor: 'Votaste a favor', contra: 'Votaste en contra', abstencion: 'Te abstuviste' };
+const IDIOMAS = { ca: 'catalán', gl: 'gallego', eu: 'euskera' };
 
-let banco, partidos, circunscripciones, glosario;
+let banco, partidos, circunscripciones;
 let estado = nuevoEstado();
-let recuento = null;
 let animando = false;
 
 function nuevoEstado() {
   return {
-    fase: 'entrada', modo: null, circunscripcion: null, temas: [], orden: {}, temaIdx: 0, papeletaIdx: 0,
-    respuestas: {}, historial: [], favoritas: {}, importantes: [], vista: 'partidos', abierta: null,
-    revelacionIdx: 0, reveladas: [], compartir: { que: 'resultado', favorita: null, formato: 'vertical' },
+    fase: 'provincia', partidos: [], sinPrograma: [], temas: [], modo: null, orden: {}, temaIdx: 0, papeletaIdx: 0,
+    respuestas: {}, historial: [], abierta: null, formato: 'cuadrada',
   };
 }
+
+const esc = (t) => String(t ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 function guardar() {
   try { sessionStorage.setItem(CLAVE, JSON.stringify(estado)); } catch { /* Sin almacenamiento: sigue en memoria. */ }
 }
 
+function borrarGuardado() {
+  try { sessionStorage.removeItem(CLAVE); } catch { /* nada */ }
+}
+
+// Un test a medias solo se recupera si todo lo que guarda sigue existiendo en el banco.
 function recuperar() {
   try {
     const e = JSON.parse(sessionStorage.getItem(CLAVE));
-    if (e && e.fase && e.fase !== 'entrada' && e.temas?.every(t => banco.temas.some(x => x.id === t))) return e;
+    if (!e || !e.fase || e.fase === 'provincia' || !e.partidos?.length) return null;
+    const hayTema = id => banco.temas.some(t => t.id === id);
+    const hayPartido = id => partidos.some(p => p.id === id);
+    const hayTarjeta = id => banco.tarjetas.some(t => t.id === id);
+    if (!e.temas.every(hayTema) || !e.partidos.every(hayPartido) || !(e.sinPrograma || []).every(hayPartido)) return null;
+    if (!Object.keys(e.orden || {}).every(hayTema) || !Object.values(e.orden || {}).flat().every(hayTarjeta)) return null;
+    if (!Object.keys(e.respuestas || {}).every(hayTarjeta)) return null;
+    return { ...nuevoEstado(), ...e };
   } catch { /* Estado guardado ilegible: se empieza de cero. */ }
   return null;
 }
@@ -42,15 +61,33 @@ function recuperar() {
 const avisar = (texto) => { anuncio.textContent = ''; requestAnimationFrame(() => { anuncio.textContent = texto; }); };
 const tema = (id) => banco.temas.find(t => t.id === id);
 const tarjeta = (id) => banco.tarjetas.find(t => t.id === id);
-const nombre = (id) => partidos.find(p => p.id === id)?.nombre || id;
-const enJuego = () => partidosEnJuego(partidos, estado.circunscripcion);
+const partido = (id) => partidos.find(p => p.id === id);
+const nombre = (id) => partido(id)?.nombre || id;
+const documento = (id) => banco.documentos.find(d => d.id === id);
+const enJuego = () => estado.partidos.map(partido);
 const temaActual = () => estado.temas[estado.temaIdx];
 const ordenActual = () => estado.orden[temaActual()] || [];
 const plural = (n, uno, varios) => `${n} ${n === 1 ? uno : varios}`;
+const totalPapeletas = () => estado.temas.reduce((n, t) => n + (estado.orden[t] || []).length, 0);
+const hechas = () => estado.temas.slice(0, estado.temaIdx).reduce((n, t) => n + estado.orden[t].length, 0) + estado.papeletaIdx;
+// «3 temas: vivienda, empleo y sanidad». Con muchos temas, solo la cuenta: la lista no cabría en una línea.
+const cuentaTemas = () => (estado.temas.length <= 6 ? `${plural(estado.temas.length, 'tema', 'temas')}: ${listaNombres(estado.temas.map(t => tema(t).nombre.toLowerCase()))}` : (estado.temas.length === banco.temas.length ? `los ${estado.temas.length} temas` : `${estado.temas.length} temas`));
+// Los temas elegidos, siempre en el orden estándar del banco.
+const enOrden = (ids) => temasEnOrden(banco).map(t => t.id).filter(id => ids.includes(id));
 
-function fechaHoy() {
-  return new Intl.DateTimeFormat('es-ES', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'Europe/Madrid' }).format(new Date());
+// Barra de proporción dibujada con SVG: la página no admite estilos en línea.
+const barra = (clase, porcentaje) => `<svg class="${clase}" viewBox="0 0 100 4" preserveAspectRatio="none" aria-hidden="true" focusable="false"><rect class="${clase}__fondo" width="100" height="4"/><rect class="${clase}__valor" width="${Math.max(0, Math.min(100, porcentaje)).toFixed(2)}" height="4"/></svg>`;
+
+// Barra de la afinidad, de −100 a +100: sale del centro hacia la derecha (a favor) o hacia la izquierda (en contra).
+function barraSaldo(porcentaje) {
+  const p = Math.max(-100, Math.min(100, porcentaje));
+  const ancho = Math.abs(p) / 2;
+  const valor = ancho < 0.05 ? '' : `<rect class="saldo__valor saldo__valor--${p < 0 ? 'menos' : 'mas'}" x="${(p < 0 ? 50 - ancho : 50).toFixed(2)}" y="2" width="${ancho.toFixed(2)}" height="10"/>`;
+  return `<svg class="saldo" viewBox="0 0 100 14" preserveAspectRatio="none" aria-hidden="true" focusable="false"><rect class="saldo__fondo" y="2" width="100" height="10"/>${valor}<rect class="saldo__eje" x="49.7" width="0.6" height="14"/></svg>`;
 }
+
+// «5 a favor · 2 en contra · 1 abstención»
+const recuento = (c) => `${c.favor} a favor · ${c.contra} en contra${c.abstencion ? ` · ${plural(c.abstencion, 'abstención', 'abstenciones')}` : ''}`;
 
 // ───── Pintado ─────
 
@@ -70,47 +107,35 @@ function ir(fase) {
 }
 
 function render() {
-  const fases = { entrada, provincia, papeleta, finTema, importantes, sobre, acta, revelacion, compartirPantalla };
-  const alias = { compartir: 'compartirPantalla', recuento: 'acta' };
-  (fases[alias[estado.fase] || estado.fase] || entrada)();
+  const fases = { provincia, temas: elegirTemas, modo: elegirModo, papeleta, resultado, compartir: compartirPantalla };
+  (fases[estado.fase] || provincia)();
 }
 
-// 1. Entrada
-function entrada() {
-  const guardado = recuperar();
-  pintar(`<div class="juego__entrada">
-<h1>¿Con qué programa de ${ANIO} coincides?</h1>
-<p class="entradilla">Lee propuestas reales una a una, sin saber de qué partido son, y di si te convencen. Al final verás con qué programa coincides más y quién firmaba cada propuesta.</p>
-<p class="juego__aviso"><span class="casilla casilla--pequena" aria-hidden="true"></span>Con los programas de ${ANIO}. Lo actualizaremos con los de 2026.</p>
-${guardado ? `<div class="juego__seguir"><p>Tienes un test a medias en esta pestaña.</p><div class="botones"><button type="button" class="boton" data-accion="seguir">Seguir donde lo dejaste</button><button type="button" class="boton boton--claro" data-accion="borrar">Empezar de nuevo</button></div></div>` : ''}
-<div class="juego__modos">
-<button type="button" class="boton juego__modo" data-accion="modo" data-modo="corto"><span class="juego__modo-titulo">3 temas · unos 4 minutos</span><span class="juego__modo-texto">${esc(temasDelModo(banco, 'corto').map(t => t.nombre).join(', '))}</span></button>
-<button type="button" class="boton boton--claro juego__modo" data-accion="modo" data-modo="completo"><span class="juego__modo-titulo">6 temas · unos 8 minutos</span><span class="juego__modo-texto">Los tres anteriores y ${esc(temasDelModo(banco, 'completo').filter(t => !t.corto).map(t => t.nombre.toLowerCase()).join(', '))}</span></button>
-</div>
-<ul class="garantias juego__garantias">
-<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Sin registro.</strong> No te pedimos nada.</span></li>
-<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Nada sale de tu móvil.</strong> El resultado se calcula aquí y se borra al cerrar la pestaña.</span></li>
-<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Cada propuesta, con su página.</strong> Al final ves la frase del programa y puedes abrirlo en esa página.</span></li>
-</ul>
-<p class="mas"><a href="/metodo/">Cómo hemos elegido y escrito las propuestas</a></p>
-</div>`, { enfocar: false });
-}
-
-// 2. Provincia
-const sinTildes = (t) => t.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+// 1. Provincia (la entrada del test)
+const sinTildes = (t) => t.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
 
 function provincia() {
-  pintar(`<div class="juego__bloque">
-<p class="juego__rotulo">Antes de empezar</p>
-<h2>¿En qué provincia votas?</h2>
-<p class="juego__ayuda">Así entran también los partidos que solo se presentan allí. No se guarda ni se envía.</p>
-<label class="buscador__etiqueta" for="buscador">Escribe tu provincia</label>
+  const guardado = recuperar();
+  pintar(`<div class="juego__entrada">
+<h1>¿Con qué partidos encajas?</h1>
+<p class="entradilla">Vota medidas reales de los programas electorales, una a una y sin saber de qué partido son. Al final verás con qué candidaturas encajas más en los temas que te importan.</p>
+${guardado ? `<div class="juego__seguir"><p>Tienes un test a medias en esta pestaña.</p><div class="botones"><button type="button" class="boton" data-accion="seguir">Seguir donde lo dejaste</button><button type="button" class="boton boton--claro" data-accion="borrar">Empezar de nuevo</button></div></div>` : ''}
+<section class="juego__paso" aria-labelledby="paso-provincia">
+<p class="juego__rotulo">Paso 1 de 3</p>
+<h2 id="paso-provincia">¿En qué provincia votas?</h2>
+<p class="juego__ayuda">Solo usamos este dato para enseñarte los partidos que se presentan en tu circunscripción. No se guarda ni se envía a ningún sitio.</p>
+<label class="buscador__etiqueta" for="buscador">Escribe tu provincia o elígela en la lista</label>
 <input class="buscador" id="buscador" type="search" autocomplete="off" spellcheck="false" aria-describedby="buscador-cuenta">
 <p class="solo-lector" id="buscador-cuenta" aria-live="polite"></p>
 <ul class="provincias" id="provincias"></ul>
-<button type="button" class="boton boton--claro" data-accion="sin-provincia">Prefiero no decirlo</button>
-<p class="juego__ayuda">Si prefieres no decirlo, solo entran los partidos que se presentaban en toda España.</p>
-</div>`);
+</section>
+<ul class="garantias juego__garantias">
+<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Sin registro.</strong> No te pedimos nada más.</span></li>
+<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Nada sale de tu móvil.</strong> El resultado se calcula aquí y se borra al cerrar la pestaña.</span></li>
+<li><span class="casilla marcada" aria-hidden="true"></span><span><strong>Medidas tal como están escritas.</strong> Copiadas del programa de cada partido, con su página.</span></li>
+</ul>
+<p class="mas"><a href="/metodo/">Cómo hemos elegido las medidas</a></p>
+</div>`, { enfocar: false });
   const input = document.getElementById('buscador');
   const lista = document.getElementById('provincias');
   const cuenta = document.getElementById('buscador-cuenta');
@@ -124,64 +149,156 @@ function provincia() {
   filtrar();
 }
 
-function empezar(circunscripcion) {
-  estado.circunscripcion = circunscripcion;
-  const ids = enJuego().map(p => p.id);
+// Con la provincia se calcula qué candidaturas entran, y solo eso se guarda.
+function elegirProvincia(id) {
+  estado = nuevoEstado();
+  estado.partidos = partidosEnJuego(partidos, id).map(p => p.id);
+  estado.sinPrograma = partidosSinPrograma(partidos, id).map(p => p.id);
+  ir('temas');
+}
+
+// 2. Temas que interesan
+function textoCuentaTemas() {
+  const n = estado.temas.length;
+  if (!n) return `Elige al menos ${MIN_TEMAS} temas.`;
+  if (n < MIN_TEMAS) return `Llevas ${plural(n, 'tema', 'temas')}. Elige al menos ${MIN_TEMAS}.`;
+  return `Has elegido ${plural(n, 'tema', 'temas')}.`;
+}
+
+function quienesEntran() {
+  const fuera = estado.sinPrograma.map(nombre);
+  return `<details class="juego__quienes"><summary>En tu provincia entran ${plural(estado.partidos.length, 'candidatura', 'candidaturas')}</summary>
+<p>${esc(listaNombres(estado.partidos.map(nombre)))}.</p>
+${fuera.length ? `<p>${esc(listaNombres(fuera))} también ${fuera.length === 1 ? 'se presenta' : 'se presentan'}, pero no ${fuera.length === 1 ? 'entra' : 'entran'} en el test porque no ${fuera.length === 1 ? 'ha' : 'han'} publicado programa.</p>` : ''}
+<p>Las demás candidaturas de tu provincia no están en esta web.</p>
+</details>`;
+}
+
+function elegirTemas() {
+  const todos = temasEnOrden(banco);
+  pintar(`<div class="juego__bloque">
+<p class="juego__rotulo">Paso 2 de 3</p>
+<h2>Elige los temas que te interesan</h2>
+<p class="juego__ayuda">Solo te preguntaremos por ellos. Cuantos más elijas, más completo será el resultado y más largo el test. Elige al menos ${MIN_TEMAS}.</p>
+${quienesEntran()}
+<ul class="opciones temas-lista" role="group" aria-label="Temas">
+${todos.map((t) => {
+    const marcado = estado.temas.includes(t.id);
+    return `<li><button type="button" class="opcion opcion--tema" data-accion="tema" data-id="${esc(t.id)}" aria-pressed="${marcado}"><span class="casilla${marcado ? ' marcada' : ''}" aria-hidden="true"></span><span class="opcion__cuerpo"><span class="opcion__nombre">${esc(t.nombre)}</span><span class="opcion__texto">${esc(t.definicion)}</span></span></button></li>`;
+  }).join('\n')}
+</ul>
+${banco.ordenTemas ? `<p class="juego__nota">Los temas van ordenados según lo que más preocupa a la población, de acuerdo con el ${esc(banco.ordenTemas.encuesta)}.</p>` : ''}
+<div class="juego__fijo">
+<p class="juego__cuenta-temas" id="temas-cuenta" aria-live="polite">${esc(textoCuentaTemas())}</p>
+<div class="juego__fijo-botones">
+<button type="button" class="boton" data-accion="a-modo"${estado.temas.length >= MIN_TEMAS ? '' : ' disabled'}>Seguir</button>
+<button type="button" class="enlace-boton" data-accion="todos">${estado.temas.length === todos.length ? 'Quitar todos' : 'Elegir todos'}</button>
+</div>
+</div>
+<button type="button" class="enlace-boton" data-accion="a-provincia">Cambiar de provincia</button>
+</div>`);
+}
+
+// Marcar un tema no repinta la pantalla: se actualiza lo justo y el foco se queda donde estaba.
+function alternarTema(id) {
+  estado.temas = enOrden(estado.temas.includes(id) ? estado.temas.filter(t => t !== id) : [...estado.temas, id]);
+  guardar();
+  actualizarTemas();
+}
+
+function actualizarTemas() {
+  for (const b of pantalla.querySelectorAll('[data-accion="tema"]')) {
+    const marcado = estado.temas.includes(b.dataset.id);
+    b.setAttribute('aria-pressed', String(marcado));
+    b.querySelector('.casilla').classList.toggle('marcada', marcado);
+  }
+  document.getElementById('temas-cuenta').textContent = textoCuentaTemas();
+  pantalla.querySelector('[data-accion="a-modo"]').disabled = estado.temas.length < MIN_TEMAS;
+  pantalla.querySelector('[data-accion="todos"]').textContent = estado.temas.length === banco.temas.length ? 'Quitar todos' : 'Elegir todos';
+}
+
+// 3. Rápido o completo
+function elegirModo() {
+  const boton = (modo, titulo, texto) => {
+    const n = contarPreguntas(banco, estado.temas, estado.partidos, modo);
+    return `<button type="button" class="boton juego__modo" data-accion="modo" data-modo="${modo}"><span class="juego__modo-titulo">${titulo}: ${esc(textoMinutos(minutos(n)))}</span><span class="juego__modo-texto">${plural(n, 'pregunta', 'preguntas')} · ${texto}</span></button>`;
+  };
+  pintar(`<div class="juego__bloque">
+<p class="juego__rotulo">Paso 3 de 3</p>
+<h2>¿Test rápido o completo?</h2>
+<p class="juego__ayuda">Has elegido ${esc(cuentaTemas())}.</p>
+<div class="juego__modos">
+${boton('rapido', 'Rápido', 'una medida de cada candidatura en cada tema')}
+${boton('completo', 'Completo', 'hasta tres medidas de cada candidatura en cada tema')}
+</div>
+<p class="juego__ayuda">El completo afina más el resultado, sobre todo si has elegido pocos temas. Puedes dejarlo a medias y seguir después en esta misma pestaña.</p>
+<button type="button" class="enlace-boton" data-accion="a-temas">Cambiar los temas</button>
+</div>`);
+}
+
+function empezar(modo) {
+  estado.modo = modo;
   estado.orden = {};
-  for (const t of estado.temas) estado.orden[t] = barajar(papeletasDelTema(banco, t, ids).map(x => x.id));
+  for (const t of estado.temas) estado.orden[t] = barajar(papeletasDelTema(banco, t, estado.partidos, modo).map(x => x.id));
+  // Un tema sin ninguna medida de las candidaturas que entran no se pregunta.
+  estado.temas = estado.temas.filter(t => estado.orden[t].length);
   estado.temaIdx = 0;
   estado.papeletaIdx = 0;
+  estado.respuestas = {};
+  estado.historial = [];
+  estado.abierta = null;
   ir('papeleta');
 }
 
-// 3. Papeletas
-function bandejas(temaId) {
+// 4. Papeletas
+function marcador(temaId) {
   const ids = estado.orden[temaId] || [];
   const n = (d) => ids.filter(id => estado.respuestas[id] === d).length;
-  const bandeja = (clase, titulo, cuantas) => `<li class="bandeja bandeja--${clase}"><span class="bandeja__pila" aria-hidden="true">${'<span></span>'.repeat(Math.min(cuantas, 6))}</span><span class="bandeja__texto">${titulo} · ${cuantas}</span></li>`;
-  return `<ul class="bandejas" aria-label="Tus papeletas de este tema">${bandeja('sobre', 'En el sobre', n('si'))}${bandeja('apartadas', 'Apartadas', n('no'))}${bandeja('paso', 'Sin decidir', n('paso'))}</ul>`;
+  const caja = (clase, titulo, cuantas) => `<li class="bandeja bandeja--${clase}"><span class="bandeja__pila" aria-hidden="true">${'<span></span>'.repeat(Math.min(cuantas, 6))}</span><span class="bandeja__texto">${titulo} · ${cuantas}</span></li>`;
+  return `<ul class="bandejas" aria-label="Tus votos en este tema">${caja('sobre', 'A favor', n('favor'))}${caja('apartadas', 'En contra', n('contra'))}${caja('paso', 'Abstención', n('abstencion'))}</ul>`;
 }
 
 function progreso() {
-  return `${tema(temaActual()).nombre} · papeleta ${estado.papeletaIdx + 1} de ${ordenActual().length} · tema ${estado.temaIdx + 1} de ${estado.temas.length}`;
-}
-
-function hoja(id, { pie = '' } = {}) {
-  return `<article class="hoja" id="hoja">
-<header class="hoja__cabeza"><span>Elecciones generales ${ANIO}</span><span>Programa electoral</span></header>
-<p class="hoja__candidatura"><span class="hoja__rotulo">Candidatura</span><span class="hoja__tapa" aria-hidden="true"></span><span class="solo-lector">Partido oculto hasta el final</span></p>
-<p class="hoja__texto">${textoConTerminos(tarjeta(id).texto, id, glosario)}</p>
-${pie}
-</article>`;
+  return `${tema(temaActual()).nombre} · tema ${estado.temaIdx + 1} de ${estado.temas.length}`;
 }
 
 function papeleta() {
   const ids = ordenActual();
-  if (estado.papeletaIdx >= ids.length) { ir('finTema'); return; }
+  if (estado.papeletaIdx >= ids.length) { siguienteTema(); return; }
   const id = ids[estado.papeletaIdx];
+  const total = totalPapeletas();
+  const van = hechas();
   pintar(`<div class="juego__bloque juego__bloque--papeleta">
+<div class="juego__avance">
 <p class="juego__progreso" id="progreso" data-enfocar>${esc(progreso())}</p>
-<div class="mesa">
-${hoja(id, { pie: `<p class="hoja__pie"><span>Propuesta ${estado.papeletaIdx + 1} de ${ids.length}</span><span>Quién la firma se ve al final</span></p>` })}
+<p class="juego__cuenta">Medida ${van + 1} de ${total}</p>
+${barra('avance', (van / total) * 100)}
 </div>
-<div class="decision" role="group" aria-label="Tu decisión">
-<button type="button" class="decision__boton" data-accion="decidir" data-decision="no" aria-keyshortcuts="ArrowLeft"><span class="decision__signo decision__signo--no" aria-hidden="true"></span>No me convence</button>
-<button type="button" class="decision__boton" data-accion="decidir" data-decision="si" aria-keyshortcuts="ArrowRight"><span class="decision__signo decision__signo--si" aria-hidden="true"></span>Me convence</button>
+<div class="mesa">
+<article class="hoja" id="hoja">
+<header class="hoja__cabeza"><span>${esc(tema(temaActual()).nombre)}</span><span>Elecciones generales ${ANIO}</span></header>
+<p class="hoja__candidatura"><span class="hoja__rotulo">Candidatura</span><span class="hoja__tapa" aria-hidden="true"></span><span class="solo-lector">Partido oculto hasta el final</span></p>
+<p class="hoja__texto">${esc(tarjeta(id).texto)}</p>
+</article>
+</div>
+<div class="decision" role="group" aria-label="Tu voto">
+<button type="button" class="decision__boton" data-accion="votar" data-decision="contra" aria-keyshortcuts="ArrowLeft"><span class="decision__signo decision__signo--no" aria-hidden="true"></span>En contra</button>
+<button type="button" class="decision__boton" data-accion="votar" data-decision="favor" aria-keyshortcuts="ArrowRight"><span class="decision__signo decision__signo--si" aria-hidden="true"></span>A favor</button>
+<button type="button" class="decision__boton decision__boton--abstencion" data-accion="votar" data-decision="abstencion" aria-keyshortcuts="ArrowDown"><span class="decision__signo decision__signo--abstencion" aria-hidden="true"></span>Me abstengo</button>
 </div>
 <div class="decision__secundaria">
-<button type="button" class="enlace-boton" data-accion="decidir" data-decision="paso" aria-keyshortcuts="ArrowDown">Paso, no lo tengo claro</button>
-<button type="button" class="enlace-boton" data-accion="deshacer" aria-keyshortcuts="Backspace"${estado.historial.length ? '' : ' disabled'}>Deshacer</button>
+<button type="button" class="enlace-boton" data-accion="deshacer" aria-keyshortcuts="Backspace"${estado.historial.length ? '' : ' disabled'}>Deshacer el último voto</button>
 </div>
-${bandejas(temaActual())}
-<p class="juego__teclas">Con teclado: ← no me convence · → me convence · ↓ paso · Retroceso deshace.</p>
+${marcador(temaActual())}
+<p class="juego__teclas">Con teclado: ← en contra · → a favor · ↓ me abstengo · Retroceso deshace.</p>
 </div>`);
-  avisar(`${progreso()}. ${tarjeta(id).texto}`);
+  avisar(`${progreso()}. Medida ${van + 1} de ${total}. ${tarjeta(id).texto}`);
 }
 
-function decidir(decision) {
+function votar(decision) {
   const ids = ordenActual();
   const id = ids[estado.papeletaIdx];
-  if (!id || animando) return;
+  if (!id || animando || !VOTOS[decision]) return;
   const hojaEl = document.getElementById('hoja');
   const seguir = () => {
     animando = false;
@@ -199,329 +316,176 @@ function decidir(decision) {
   } else seguir();
 }
 
-function deshacer() {
-  const id = estado.historial.pop();
-  if (!id) return;
-  delete estado.respuestas[id];
-  const t = tarjeta(id).tema;
-  delete estado.favoritas[t];
-  estado.temaIdx = estado.temas.indexOf(t);
-  estado.papeletaIdx = estado.orden[t].indexOf(id);
-  estado.fase = 'papeleta';
-  guardar();
-  render();
-  avisar(`Deshecha. ${progreso()}`);
-}
-
-// 4. Fin de cada tema
-function finTema() {
-  const t = tema(temaActual());
-  const si = ordenActual().filter(id => estado.respuestas[id] === 'si');
-  if (si.length === 1) estado.favoritas[t.id] = si[0];
-  const ultimo = estado.temaIdx === estado.temas.length - 1;
-  const siguiente = ultimo ? 'Terminar las papeletas' : `Siguiente tema: ${tema(estado.temas[estado.temaIdx + 1]).nombre}`;
-  let cuerpo;
-  if (!si.length) cuerpo = `<p class="juego__ayuda">No te convenció ninguna propuesta de ${esc(t.nombre.toLowerCase())}. No pasa nada: seguimos.</p>`;
-  else if (si.length === 1) cuerpo = `<p class="juego__ayuda">Te convenció una. Es tu favorita del tema y cuenta doble.</p><ul class="favoritas">${opcionFavorita(si[0], true, false)}</ul>`;
-  else cuerpo = `<p class="juego__ayuda">Te convencieron ${si.length}. ¿Cuál es tu favorita? Cuenta doble.</p>
-<ul class="favoritas" role="group" aria-label="Elige tu favorita">${si.map(id => opcionFavorita(id, estado.favoritas[t.id] === id, true)).join('')}</ul>`;
-  const listo = si.length < 2 || estado.favoritas[t.id];
-  pintar(`<div class="juego__bloque">
-<p class="juego__rotulo">Tema ${estado.temaIdx + 1} de ${estado.temas.length}</p>
-<h2>${esc(t.nombre)}, terminado</h2>
-${cuerpo}
-${bandejas(t.id)}
-<div class="botones">
-<button type="button" class="boton" data-accion="siguiente-tema"${listo ? '' : ' disabled'}>${esc(siguiente)}</button>
-<button type="button" class="boton boton--claro" data-accion="deshacer">Deshacer la última</button>
-</div>
-${listo ? '' : '<p class="juego__ayuda" id="falta-favorita">Elige tu favorita para seguir.</p>'}
-</div>`);
-  guardar();
-}
-
-function opcionFavorita(id, elegida, elegible) {
-  const texto = textoConTerminos(tarjeta(id).texto, id, glosario);
-  if (!elegible) return `<li class="favorita favorita--elegida"><span class="casilla marcada" aria-hidden="true"></span><span>${texto}</span></li>`;
-  return `<li><div class="favorita${elegida ? ' favorita--elegida' : ''}"><button type="button" class="favorita__boton" data-accion="favorita" data-id="${esc(id)}" aria-pressed="${elegida}"><span class="casilla${elegida ? ' marcada' : ''}" aria-hidden="true"></span><span class="favorita__rotulo">${elegida ? 'Tu favorita' : 'Elegir esta'}</span></button><p class="favorita__texto">${texto}</p></div></li>`;
-}
-
 function siguienteTema() {
   if (estado.temaIdx < estado.temas.length - 1) {
     estado.temaIdx++;
     estado.papeletaIdx = 0;
     ir('papeleta');
-  } else ir('importantes');
+  } else ir('resultado');
 }
 
-// 5. Lo que más te importa
-function importantes() {
-  const max = maxImportantes(estado.modo);
-  pintar(`<div class="juego__bloque">
-<p class="juego__rotulo">Último paso</p>
-<h2>${max === 1 ? '¿Qué tema te importa más?' : '¿Qué temas te importan más?'}</h2>
-<p class="juego__ayuda">${max === 1 ? 'Si eliges uno, cuenta doble en el resultado.' : `Elige hasta ${max}. Cuentan doble en el resultado.`} También puedes saltarte este paso.</p>
-<ul class="opciones" role="group" aria-label="Temas">
-${estado.temas.map(id => {
-    const marcada = estado.importantes.includes(id);
-    const lleno = !marcada && estado.importantes.length >= max;
-    return `<li><button type="button" class="opcion" data-accion="importante" data-id="${id}" aria-pressed="${marcada}"${lleno ? ' aria-disabled="true"' : ''}><span class="casilla${marcada ? ' marcada' : ''}" aria-hidden="true"></span>${esc(tema(id).nombre)}${marcada ? '<span class="opcion__nota">cuenta doble</span>' : ''}</button></li>`;
-  }).join('')}
-</ul>
-<p class="juego__ayuda" aria-live="polite">${estado.importantes.length ? `Elegidos: ${estado.importantes.length} de ${max}.` : ''}</p>
-<div class="botones">
-<button type="button" class="boton" data-accion="a-sobre">${estado.importantes.length ? 'Seguir' : 'Saltar este paso'}</button>
-</div>
-</div>`, { enfocar: estado.fase !== 'importantes' || !pantalla.querySelector('.opciones') });
+function deshacer() {
+  const id = estado.historial.pop();
+  if (!id) return;
+  delete estado.respuestas[id];
+  const t = tarjeta(id).tema;
+  estado.temaIdx = estado.temas.indexOf(t);
+  estado.papeletaIdx = estado.orden[t].indexOf(id);
+  estado.fase = 'papeleta';
+  guardar();
+  render();
+  avisar(`Voto deshecho. ${progreso()}`);
 }
 
-// 6. El sobre y el escrutinio
-function respuestasActa() {
-  return Object.entries(estado.respuestas).map(([id, decision]) => ({ tarjeta: id, decision, favorita: estado.favoritas[tarjeta(id).tema] === id }));
+// 5. Resultado
+function resultadoActual() {
+  const respuestas = Object.entries(estado.respuestas).map(([id, decision]) => ({ tarjeta: id, decision }));
+  return calcularResultado({ banco, partidos: enJuego(), temas: estado.temas, modo: estado.modo, respuestas });
 }
 
-function actaActual() {
-  return calcularActa({ banco, anio: ANIO, partidos: enJuego(), temas: estado.temas, importantes: estado.importantes, respuestas: respuestasActa() });
+function enlaceFuente(t) {
+  const doc = documento(t.documento);
+  const que = doc.clase === 'programa' ? 'Programa' : 'Documento';
+  return `<a href="${esc(`${doc.url}#page=${t.pagina}`)}" rel="external noopener" target="_blank">${que}, página ${t.pagina}<span class="solo-lector"> (abre el PDF en otra pestaña)</span></a>`;
 }
 
-function sobre() {
-  const a = actaActual();
-  pintar(`<div class="juego__bloque">
-<p class="juego__rotulo">Escrutinio</p>
-<h2>Tu sobre está listo</h2>
-<p class="juego__ayuda">Has respondido ${plural(a.respondidas, 'papeleta', 'papeletas')} en ${plural(estado.temas.length, 'tema', 'temas')}.${estado.importantes.length ? ` ${listaTemas(estado.importantes)} ${estado.importantes.length === 1 ? 'cuenta' : 'cuentan'} doble.` : ''}</p>
-<div class="sobre" aria-hidden="true"><span class="sobre__solapa"></span><span class="sobre__cuerpo">${plural(a.respondidas, 'papeleta', 'papeletas')}</span></div>
-<div class="botones"><button type="button" class="boton" data-accion="abrir-sobre">Abrir el sobre</button></div>
-</div>`);
+function detalle(f) {
+  const p = partido(f.partido);
+  const bloques = f.desglose.map((d) => {
+    const titulo = tema(d.tema).nombre;
+    if (d.sinMedidas) return `<div class="detalle__tema"><h4>${esc(titulo)}</h4><p class="detalle__nota">Sin medidas concretas en este tema: no cuenta en su porcentaje.</p></div>`;
+    const cuenta = d.afinidad === null ? 'sin votar' : recuento(d);
+    return `<div class="detalle__tema"><h4>${esc(titulo)} <span class="detalle__cuenta">· ${cuenta}</span></h4>
+<ul class="detalle__medidas">${d.tarjetas.map((x) => {
+      const t = tarjeta(x.id);
+      const notas = [t.idioma ? `Traducida del ${IDIOMAS[t.idioma] || t.idioma}.` : '', t.cambiada ? 'Hemos quitado el nombre del partido.' : ''].filter(Boolean).join(' ');
+      return `<li class="detalle__medida detalle__medida--${x.decision || 'sin'}"><p class="detalle__voto"><span class="casilla casilla--pequena${x.decision === 'favor' ? ' marcada' : ''}" aria-hidden="true"></span>${esc(VOTADO[x.decision] || 'Sin votar')}</p><p class="detalle__texto">${esc(t.texto)}</p><p class="detalle__fuente">${enlaceFuente(t)}${notas ? ` · ${esc(notas)}` : ''}</p></li>`;
+    }).join('')}</ul></div>`;
+  }).join('\n');
+  return `<div class="detalle" id="detalle-${esc(f.partido)}"${estado.abierta === f.partido ? '' : ' hidden'}>
+${p.documento === 'programa_general' ? '<p class="detalle__nota">No ha publicado programa para estas elecciones: las medidas son de un documento general del partido.</p>' : ''}
+${bloques}
+<p class="detalle__mas"><a href="/partidos/${esc(f.partido)}/">Todo lo que propone ${esc(f.nombre)}</a></p>
+</div>`;
 }
 
-function listaTemas(ids) {
-  const n = ids.map(id => tema(id).nombre);
-  return n.length > 1 ? `${n.slice(0, -1).join(', ')} y ${n.at(-1)}` : n[0];
-}
-
-function palotesHtml(n) {
-  let html = '';
-  for (let resto = n; resto > 0; resto -= 5) {
-    const k = Math.min(5, resto);
-    html += `<span class="grupo${k === 5 ? ' grupo--cerrado' : ''}">${'<span class="palote"></span>'.repeat(k === 5 ? 4 : k)}${k === 5 ? '<span class="tachon"></span>' : ''}</span>`;
-  }
-  return html;
-}
-
-function abrirSobre() {
-  const a = actaActual();
-  if (a.sinRanking || sinMovimiento.matches || !a.palotes.length) { ir('acta'); avisar(a.frase); return; }
-  // Durante el recuento: filas en orden alfabético y sin porcentaje.
-  const filas = [...a.filas].sort((x, y) => x.nombre.localeCompare(y.nombre, 'es'));
-  estado.fase = 'recuento';
-  pintar(`<div class="juego__bloque acta acta--recuento">
-<p class="juego__rotulo">Escrutinio</p>
-<h2>Contando las papeletas…</h2>
-<ol class="acta__filas">${filas.map(f => `<li class="acta__fila"><div class="acta__resumen"><span class="acta__nombre">${esc(f.nombre)}</span><span class="acta__palotes" data-partido="${esc(f.partido)}" aria-hidden="true"></span><span class="acta__cuenta" data-cuenta="${esc(f.partido)}">0</span></div></li>`).join('')}</ol>
-<div class="botones"><button type="button" class="boton boton--claro" data-accion="saltar-recuento">Saltar el recuento</button></div>
-</div>`);
-  avisar(`Contando ${plural(a.palotes.length, 'palote', 'palotes')}.`);
-  const orden = barajar(a.palotes);
-  const cuentas = {};
-  const paso = Math.max(20, Math.floor(DURACION_RECUENTO / orden.length));
-  let i = 0;
-  recuento = setInterval(() => {
-    if (i >= orden.length) { terminarRecuento(); return; }
-    const p = orden[i++];
-    cuentas[p] = (cuentas[p] || 0) + 1;
-    const celda = pantalla.querySelector(`[data-partido="${CSS.escape(p)}"]`);
-    if (celda) celda.innerHTML = palotesHtml(cuentas[p]);
-    const num = pantalla.querySelector(`[data-cuenta="${CSS.escape(p)}"]`);
-    if (num) num.textContent = cuentas[p];
-  }, paso);
-}
-
-function terminarRecuento() {
-  clearInterval(recuento);
-  recuento = null;
-  ir('acta');
-  avisar(`Recuento terminado. ${actaActual().frase}.`);
-}
-
-// 7. El acta
-function filaActa(f, a) {
+function filaResultado(f) {
   const abierta = estado.abierta === f.partido;
-  const descripcion = `${f.x} de ${f.y} palotes, ${f.porcentajeTexto}`;
-  const desglose = f.desglose.map((d) => {
-    const nombreTema = `${tema(d.tema).nombre}${d.doble ? ' (cuenta doble)' : ''}`;
-    let que;
-    if (d.sinPropuesta) que = `sin propuesta en su programa de ${ANIO}: este tema no cuenta`;
-    else if (d.decision === 'paso') que = 'pasaste: no cuenta';
-    else if (d.decision === 'si') que = `te convenció${d.favorita ? ' y fue tu favorita' : ''} · ${d.puntos} de ${d.maximo}`;
-    else if (d.decision === 'no') que = `no te convenció · 0 de ${d.maximo}`;
-    else que = 'sin responder';
-    const texto = d.tarjeta && d.decision === 'si' ? `<span class="desglose__texto">«${esc(tarjeta(d.tarjeta).texto)}»</span>` : '';
-    return `<li><span class="desglose__tema">${esc(nombreTema)}:</span> ${esc(que)}${texto}</li>`;
-  }).join('');
+  const medidas = recuento(f);
+  const sin =f.sinMedidas.length ? ` · sin medidas en ${listaNombres(f.sinMedidas.map(t => tema(t).nombre.toLowerCase()))}` : '';
   return `<li class="acta__fila${abierta ? ' acta__fila--abierta' : ''}">
-<button type="button" class="acta__resumen" data-accion="fila" data-partido="${esc(f.partido)}" aria-expanded="${abierta}" aria-controls="desglose-${esc(f.partido)}">
+<button type="button" class="acta__resumen" data-accion="fila" data-partido="${esc(f.partido)}" aria-expanded="${abierta}" aria-controls="detalle-${esc(f.partido)}">
 <span class="acta__puesto">${f.puesto}.º${f.empate ? '<span class="solo-lector"> (empate)</span>' : ''}</span>
 <span class="acta__nombre">${esc(f.nombre)}</span>
 <span class="acta__pct">${esc(f.porcentajeTexto)}</span>
-<span class="acta__palotes" aria-hidden="true">${palotesHtml(f.x)}</span>
-<span class="acta__cuenta">${f.x} de ${f.y} palotes</span>
-<span class="solo-lector">${esc(descripcion)}. Toca para ver de dónde salen.</span>
+<span class="acta__barra">${barraSaldo(f.porcentaje)}</span>
+<span class="acta__cuenta">${esc(medidas + sin)}</span>
+<span class="acta__ver">${abierta ? 'Ocultar medidas' : 'Ver medidas'}</span>
 </button>
-<ul class="desglose" id="desglose-${esc(f.partido)}"${abierta ? '' : ' hidden'}>${desglose}</ul>
+${detalle(f)}
 </li>`;
 }
 
-function vistaTemas(a) {
-  return `<ol class="por-temas">${a.porTema.map((t) => {
-    const nombreTema = `${tema(t.tema).nombre}${t.doble ? ' (cuenta doble)' : ''}`;
-    let texto;
-    if (t.favorita) {
-      const otros = t.convencieron.filter(p => p !== t.favorita).map(nombre);
-      texto = `<strong>${esc(nombre(t.favorita))}</strong>, tu favorita${otros.length ? `. También te convenció: ${esc(otros.join(', '))}` : ''}.`;
-    } else texto = 'Ninguna propuesta te convenció.';
-    return `<li><span class="por-temas__tema">${esc(nombreTema)}</span><span class="por-temas__texto">${texto}</span></li>`;
-  }).join('')}</ol>`;
+function lineaTema(t) {
+  const enlace = `<a href="/temas/${esc(t.tema)}/">${esc(tema(t.tema).nombre)}</a>`;
+  if (t.estado === 'mejores') return `<li>${enlace}: encajas más con <strong>${esc(listaNombres(t.mejores.map(nombre)))}</strong>.</li>`;
+  if (t.estado === 'ninguna') return `<li>${enlace}: no encajas con ninguna candidatura.</li>`;
+  return `<li>${enlace}: te has abstenido en todas las medidas.</li>`;
 }
 
-function acta() {
-  const a = actaActual();
-  if (a.sinRanking) {
+function notasResultado(r) {
+  const notas = [];
+  if (r.apartes.length) notas.push(`<strong>Aparte, sin porcentaje:</strong> ${esc(listaNombres(r.apartes.map(f => f.nombre)))}. ${r.apartes.length === 1 ? 'Tiene' : 'Tienen'} medidas concretas en menos de la mitad de tus temas.`);
+  const generales = enJuego().filter(p => p.documento === 'programa_general').map(p => p.nombre);
+  if (generales.length) notas.push(`${esc(listaNombres(generales))} no ${generales.length === 1 ? 'ha' : 'han'} publicado programa para estas elecciones: sus medidas son de un documento general del partido.`);
+  if (estado.sinPrograma.length) notas.push(`${esc(listaNombres(estado.sinPrograma.map(nombre)))} no ${estado.sinPrograma.length === 1 ? 'entra' : 'entran'} en el test porque no ${estado.sinPrograma.length === 1 ? 'ha' : 'han'} publicado programa.`);
+  return notas.map(n => `<p>${n}</p>`).join('\n');
+}
+
+function resultado() {
+  const r = resultadoActual();
+  const seguir = `<section class="resultado__seguir" aria-labelledby="seguir-titulo">
+<h3 id="seguir-titulo">El test es solo una muestra</h3>
+<p>Has visto ${plural(r.preguntas, 'medida', 'medidas')} y los programas tienen cientos. Antes de decidir tu voto, mira todo lo que propone cada partido y compáralos tema a tema.</p>
+<div class="resultado__botones">
+<a class="boton resultado__boton" href="/partidos/"><span class="resultado__boton-titulo">Partidos</span><span class="resultado__boton-texto">Todo lo que propone cada uno</span></a>
+<a class="boton resultado__boton" href="/temas/"><span class="resultado__boton-titulo">Temas</span><span class="resultado__boton-texto">Compara los partidos tema a tema</span></a>
+</div>
+</section>`;
+  if (r.sinRanking) {
     pintar(`<div class="juego__bloque">
-<p class="juego__rotulo">Escrutinio</p>
-<h2>Aún no podemos darte un resultado</h2>
-<p class="juego__ayuda">${esc(a.frase)} Con tan pocas respuestas, cualquier porcentaje sería casualidad.</p>
-<div class="botones"><button type="button" class="boton" data-accion="reiniciar">Volver a empezar</button><button type="button" class="boton boton--claro" data-accion="a-revelacion">Ver quién firmaba cada propuesta</button></div>
+<p class="juego__rotulo">Tu resultado</p>
+<h2 data-enfocar>Aún no podemos darte un resultado</h2>
+<p class="juego__ayuda">${esc(r.frase)} Las abstenciones ni suman ni restan, y con tan pocos votos cualquier porcentaje sería casualidad.</p>
+<div class="botones"><button type="button" class="boton" data-accion="reiniciar">Volver a empezar</button></div>
+${seguir}
 </div>`);
     return;
   }
   // Una tabla no se deja recortar a 1 px: el envoltorio sí, y así no desborda la página.
-  const tabla = `<div class="solo-lector"><table><caption>Resultado: ${esc(a.frase)}</caption><thead><tr><th scope="col">Puesto</th><th scope="col">Partido</th><th scope="col">Palotes</th><th scope="col">Porcentaje</th></tr></thead><tbody>${a.clasificados.map(f => `<tr><td>${f.puesto}</td><th scope="row">${esc(f.nombre)}</th><td>${f.x} de ${f.y}</td><td>${esc(f.porcentajeTexto)}</td></tr>`).join('')}${a.apartes.map(f => `<tr><td>Aparte</td><th scope="row">${esc(f.nombre)}</th><td colspan="2">Pocas papeletas respondidas para darte un porcentaje</td></tr>`).join('')}</tbody></table></div>`;
-  pintar(`<div class="acta" id="acta">
-<section class="acta__hoja" aria-labelledby="acta-frase">
-<p class="acta__rotulo"><span>Escrutinio</span><span>Programas de ${ANIO}</span></p>
-<h2 class="acta__frase" id="acta-frase" data-enfocar>${esc(a.frase)}</h2>
-<div class="acta__vistas" role="group" aria-label="Cómo verlo">
-<button type="button" class="acta__vista" data-accion="vista" data-vista="partidos" aria-pressed="${estado.vista === 'partidos'}">Por partidos</button>
-<button type="button" class="acta__vista" data-accion="vista" data-vista="temas" aria-pressed="${estado.vista === 'temas'}">Ver por temas</button>
+  const tabla = `<div class="solo-lector"><table><caption>Resultado: ${esc(r.frase)}</caption><thead><tr><th scope="col">Puesto</th><th scope="col">Candidatura</th><th scope="col">Afinidad</th><th scope="col">Medidas</th></tr></thead><tbody>${r.clasificados.map(f => `<tr><td>${f.puesto}</td><th scope="row">${esc(f.nombre)}</th><td>${esc(f.porcentajeTexto)}</td><td>${esc(recuento(f))}</td></tr>`).join('')}</tbody></table></div>`;
+  pintar(`<div class="acta" id="resultado">
+<section class="acta__hoja" aria-labelledby="resultado-frase">
+<p class="acta__rotulo"><span>Tu resultado</span><span>Programas de ${ANIO}</span></p>
+<h2 class="acta__frase" id="resultado-frase" data-enfocar>${esc(r.frase)}</h2>
+<p class="acta__base">En ${esc(cuentaTemas())}. Test ${estado.modo === 'rapido' ? 'rápido' : 'completo'}, ${plural(r.respondidas, 'medida votada', 'medidas votadas')} a favor o en contra${r.abstenciones ? ` y ${plural(r.abstenciones, 'abstención', 'abstenciones')}` : ''}.</p>
+<p class="acta__escala" aria-hidden="true"><span>← En contra</span><span>0</span><span>A favor →</span></p>
+<ol class="acta__filas">${r.clasificados.map(filaResultado).join('')}</ol>
+<div class="acta__pie">
+${notasResultado(r)}
+<p>Cada medida que votas a favor suma, cada una que votas en contra resta y las abstenciones ni suman ni restan. <strong>+100&nbsp;%</strong> es que has votado a favor de todas las medidas de una candidatura; <strong>−100&nbsp;%</strong>, en contra de todas; <strong>0&nbsp;%</strong>, tantas a favor como en contra, o solo abstenciones. Se calcula tema a tema y todos los temas pesan lo mismo.</p>
+<p><strong>Esto no es un consejo de voto.</strong></p>
 </div>
-${estado.vista === 'temas' ? vistaTemas(a) : `<ol class="acta__filas" aria-hidden="false">${a.clasificados.map(f => filaActa(f, a)).join('')}</ol>
-${a.apartes.length ? `<div class="acta__aparte"><p class="acta__aparte-titulo">Aparte</p><ul>${a.apartes.map(f => `<li><strong>${esc(f.nombre)}</strong>: pocas papeletas respondidas para darte un porcentaje.</li>`).join('')}</ul></div>` : ''}`}
-<footer class="acta__pie">
-<p>Calculado sobre ${plural(a.respondidas, 'papeleta', 'papeletas')}${estado.importantes.length ? `. ${esc(listaTemas(estado.importantes))} ${estado.importantes.length === 1 ? 'cuenta' : 'cuentan'} doble` : ''}.</p>
-<p><strong>Esto no es un consejo de voto.</strong> ${esc(fechaHoy())} · nosequevotar.es</p>
-<p>Frente Amplio, Podemos, Se Acabó La Fiesta y otros no tenían programa propio en ${ANIO}; entrarán cuando publiquen el de 2026.</p>
-</footer>
 </section>
 ${tabla}
+<section class="acta__hoja" aria-labelledby="por-temas-titulo">
+<h3 class="acta__subtitulo" id="por-temas-titulo">Tema a tema</h3>
+<ul class="por-temas">${r.porTema.map(lineaTema).join('')}</ul>
+</section>
+${seguir}
 <div class="botones acta__acciones">
-<button type="button" class="boton" data-accion="a-revelacion">Ver quién firmaba cada propuesta</button>
-<button type="button" class="boton boton--claro" data-accion="a-compartir">Compartir</button>
+<button type="button" class="boton boton--claro" data-accion="a-compartir">Compartir mi resultado</button>
 <button type="button" class="boton boton--claro" data-accion="reiniciar">Volver a empezar</button>
 </div>
-</div>`, { enfocar: !pantalla.querySelector('#acta') });
+<p class="mas"><a href="/metodo/">Cómo hemos elegido las medidas y cómo se calcula el resultado</a></p>
+</div>`, { enfocar: !pantalla.querySelector('#resultado') });
 }
 
-// 8. Revelación, tema a tema
-function revelacion() {
-  const idx = estado.revelacionIdx;
-  const t = tema(estado.temas[idx]);
-  const ids = estado.orden[t.id];
-  const etiqueta = (id) => {
-    const d = estado.respuestas[id];
-    if (d === 'si') return estado.favoritas[t.id] === id ? 'Te convenció · tu favorita' : 'Te convenció';
-    if (d === 'no') return 'No te convenció';
-    return 'Pasaste';
+// 6. Compartir
+function datosCompartir(r) {
+  return {
+    formato: estado.formato, anio: ANIO, frase: r.frase,
+    filas: r.clasificados.map(f => ({ nombre: f.nombre, porcentaje: f.porcentaje, porcentajeTexto: f.porcentajeTexto, primero: r.primeros.includes(f.partido) })),
+    temas: estado.temas.map(t => tema(t).nombre),
   };
-  const tarjetaRevelada = (id) => {
-    const x = tarjeta(id);
-    const abierta = estado.reveladas.includes(id);
-    const lang = { erc: 'ca', junts: 'ca', bng: 'gl' }[x.partido];
-    return `<li class="revelada${abierta ? ' revelada--abierta' : ''}" data-tarjeta="${esc(id)}">
-<p class="revelada__decision revelada__decision--${estado.respuestas[id] || 'paso'}"><span class="casilla${estado.respuestas[id] === 'si' ? ' marcada' : ''}" aria-hidden="true"></span>${esc(etiqueta(id))}</p>
-<p class="revelada__texto">${textoConTerminos(x.texto, id, glosario)}</p>
-<div class="revelada__firma"><span class="revelada__rotulo">La firmaba:</span> <span class="franja${abierta ? ' revelada' : ''}"><span class="franja__nombre"${abierta ? '' : ' aria-hidden="true"'}>${esc(nombre(x.partido))}</span><span class="franja__tapa" aria-hidden="true"></span></span></div>
-${abierta ? `<div class="revelada__fuente">
-<blockquote class="revelada__cita"${lang ? ` lang="${lang}"` : ''}>«${esc(x.cita)}»</blockquote>
-${x.traduccion ? `<p class="revelada__traduccion"><span>Traducción:</span> «${esc(x.traduccion)}»</p>` : ''}
-<p class="revelada__pagina">Programa de ${ANIO}, página ${x.pagina}</p>
-<a class="revelada__enlace" href="${esc(x.enlace)}" rel="external noopener" target="_blank">Ver en el programa<span class="solo-lector"> (abre el PDF en otra pestaña)</span></a>
-</div>` : `<button type="button" class="boton boton--claro revelada__boton" data-accion="revelar" data-id="${esc(id)}">Revelar quién la firmaba</button>`}
-</li>`;
-  };
-  const pendientes = ids.filter(id => !estado.reveladas.includes(id)).length;
-  pintar(`<div class="juego__bloque">
-<p class="juego__rotulo">Quién firmaba cada propuesta</p>
-<nav class="temas-nav" aria-label="Temas">${estado.temas.map((id, i) => `<button type="button" class="temas-nav__boton" data-accion="ver-tema" data-idx="${i}"${i === idx ? ' aria-current="true"' : ''}>${esc(tema(id).nombre)}</button>`).join('')}</nav>
-<h2>${esc(t.nombre)}</h2>
-${pendientes ? `<button type="button" class="enlace-boton" data-accion="revelar-todas">Revelar las ${ids.length} de ${esc(t.nombre.toLowerCase())}</button>` : ''}
-<ol class="reveladas">${ids.map(tarjetaRevelada).join('')}</ol>
-<div class="botones">
-${idx < estado.temas.length - 1 ? `<button type="button" class="boton" data-accion="ver-tema" data-idx="${idx + 1}">Siguiente tema: ${esc(tema(estado.temas[idx + 1]).nombre)}</button>` : ''}
-<button type="button" class="boton boton--claro" data-accion="a-acta">Volver al resultado</button>
-<button type="button" class="boton boton--claro" data-accion="a-compartir">Compartir</button>
-</div>
-</div>`, { enfocar: !pantalla.querySelector('.reveladas') || pantalla.dataset.tema !== t.id });
-  pantalla.dataset.tema = t.id;
 }
 
-function revelar(ids) {
-  const nuevos = ids.filter(id => !estado.reveladas.includes(id));
-  if (!nuevos.length) return;
-  estado.reveladas.push(...nuevos);
-  guardar();
-  // La franja se retira (0,7 s) antes de enseñar la cita; sin movimiento si se pide.
-  const animar = !sinMovimiento.matches;
-  for (const id of nuevos) {
-    const li = pantalla.querySelector(`[data-tarjeta="${CSS.escape(id)}"]`);
-    li?.querySelector('.franja')?.classList.add('revelada');
-    li?.querySelector('.franja__nombre')?.removeAttribute('aria-hidden');
-  }
-  const foco = nuevos.length === 1 ? nuevos[0] : null;
-  setTimeout(() => {
-    revelacion();
-    if (foco) pantalla.querySelector(`[data-tarjeta="${CSS.escape(foco)}"] .revelada__enlace`)?.focus();
-  }, animar ? 700 : 0);
-  avisar(nuevos.length === 1 ? `La firmaba ${nombre(tarjeta(nuevos[0]).partido)}.` : `Reveladas ${nuevos.length} propuestas.`);
-}
-
-// 9. Compartir
 function compartirPantalla() {
-  const a = actaActual();
-  const favoritas = estado.temas.map(t => estado.favoritas[t]).filter(Boolean);
-  const c = estado.compartir;
-  if (a.sinRanking && c.que === 'resultado') c.que = favoritas.length ? 'favorita' : 'resultado';
-  if (c.que === 'favorita' && !favoritas.includes(c.favorita)) c.favorita = favoritas[0] || null;
-  const texto = c.que === 'resultado' ? textoResultado(a.clasificados.slice(0, 3), ANIO) : (c.favorita ? textoFavorita(tarjeta(c.favorita).texto) : '');
-  const opcion = (accion, valor, actual, rotulo, deshabilitada = false) => `<button type="button" class="opcion" data-accion="${accion}" data-valor="${valor}" aria-pressed="${actual === valor}"${deshabilitada ? ' disabled' : ''}><span class="casilla${actual === valor ? ' marcada' : ''}" aria-hidden="true"></span>${rotulo}</button>`;
+  const r = resultadoActual();
+  if (r.sinRanking) { ir('resultado'); return; }
+  // El texto nombra, como mucho, a las tres primeras candidaturas con afinidad positiva.
+  const texto = textoResultado(r.clasificados.filter(f => f.porcentaje > 0).slice(0, 3), r.primeros.length);
+  const opcion = (valor, rotulo) => `<button type="button" class="opcion" data-accion="formato" data-valor="${valor}" aria-pressed="${estado.formato === valor}"><span class="casilla${estado.formato === valor ? ' marcada' : ''}" aria-hidden="true"></span>${rotulo}</button>`;
   pintar(`<div class="juego__bloque">
 <p class="juego__rotulo">Compartir</p>
-<h2>¿Qué quieres compartir?</h2>
-<p class="juego__ayuda">La imagen y el texto no llevan tu provincia ni ningún dato tuyo.</p>
-<div class="opciones opciones--fila" role="group" aria-label="Qué compartir">
-${opcion('compartir-que', 'resultado', c.que, 'Mi resultado', a.sinRanking)}
-${opcion('compartir-que', 'favorita', c.que, 'Mi propuesta favorita', !favoritas.length)}
-</div>
-${c.que === 'favorita' && favoritas.length > 1 ? `<ul class="favoritas" role="group" aria-label="Elige la propuesta">${favoritas.map(id => `<li><button type="button" class="opcion opcion--texto" data-accion="compartir-favorita" data-valor="${esc(id)}" aria-pressed="${c.favorita === id}"><span class="casilla${c.favorita === id ? ' marcada' : ''}" aria-hidden="true"></span><span>${esc(tema(tarjeta(id).tema).nombre)}: ${esc(tarjeta(id).texto)}</span></button></li>`).join('')}</ul>` : ''}
+<h2>Comparte tu resultado</h2>
+<p class="juego__ayuda">Tú decides si lo enseñas y a quién. La imagen y el texto no llevan tu provincia ni ningún dato tuyo.</p>
 <div class="opciones opciones--fila" role="group" aria-label="Formato de la imagen">
-${opcion('compartir-formato', 'vertical', c.formato, 'Vertical, para estados e historias')}
-${opcion('compartir-formato', 'horizontal', c.formato, 'Horizontal, para chats y enlaces')}
+${opcion('cuadrada', 'Para chats y publicaciones')}
+${opcion('historia', 'Vertical, para estados e historias')}
 </div>
-<div class="lienzo lienzo--${c.formato}"><canvas id="lienzo" role="img" aria-label="Vista previa de la imagen para compartir"></canvas></div>
+<div class="lienzo lienzo--${estado.formato}"><canvas id="lienzo" role="img" aria-label="Vista previa de la imagen: ${esc(r.frase)}"></canvas></div>
 <div class="botones">
 <button type="button" class="boton" data-accion="compartir">Compartir</button>
-<button type="button" class="boton boton--claro" data-accion="descargar">Descargar imagen</button>
-<button type="button" class="boton boton--claro" data-accion="copiar">Copiar texto</button>
-<a class="boton boton--claro" href="${esc(enlaceWhatsApp(texto))}" rel="external noopener" target="_blank">WhatsApp</a>
+<button type="button" class="boton boton--claro" data-accion="descargar">Descargar la imagen</button>
+<button type="button" class="boton boton--claro" data-accion="copiar">Copiar el texto</button>
+<a class="boton boton--claro" href="${esc(enlaceWhatsApp(texto))}" rel="external noopener" target="_blank">Enviar por WhatsApp</a>
 </div>
 <p class="juego__ayuda" id="compartir-estado" aria-live="polite"></p>
-<textarea class="compartir__texto" id="compartir-texto" readonly rows="3" aria-label="Texto para compartir">${esc(texto)}</textarea>
-<div class="botones"><button type="button" class="boton boton--claro" data-accion="a-acta">Volver al resultado</button></div>
+<textarea class="compartir__texto" id="compartir-texto" readonly rows="4" aria-label="Texto para compartir">${esc(texto)}</textarea>
+<div class="botones"><button type="button" class="boton boton--claro" data-accion="a-resultado">Volver al resultado</button></div>
 </div>`, { enfocar: !pantalla.querySelector('#lienzo') });
-  dibujar(document.getElementById('lienzo'), {
-    tipo: c.que, formato: c.formato, frase: a.frase, anio: ANIO,
-    filas: a.clasificados.slice(0, 3), texto: c.favorita ? tarjeta(c.favorita).texto : '',
-  });
+  dibujar(document.getElementById('lienzo'), datosCompartir(r));
   guardar();
 }
 
@@ -529,13 +493,13 @@ async function accionCompartir(accion) {
   const lienzo = document.getElementById('lienzo');
   const salida = document.getElementById('compartir-estado');
   const texto = document.getElementById('compartir-texto').value;
-  const nombreArchivo = `nosequevotar-test-${estado.compartir.que}-${estado.compartir.formato}.png`;
+  const archivo = `nosequevotar-mi-resultado-${estado.formato}.png`;
   try {
     if (accion === 'compartir') {
-      const r = await compartir(lienzo, nombreArchivo, texto);
-      salida.textContent = r === 'descargada' ? 'Tu dispositivo no permite compartir la imagen: la hemos descargado.' : r === 'compartida' ? 'Compartida.' : '';
+      const hecho = await compartir(lienzo, archivo, texto);
+      salida.textContent = hecho === 'descargada' ? 'Tu dispositivo no permite compartir la imagen: la hemos descargado.' : hecho === 'compartida' ? 'Compartida.' : '';
     } else if (accion === 'descargar') {
-      await descargar(lienzo, nombreArchivo);
+      await descargar(lienzo, archivo);
       salida.textContent = 'Imagen descargada.';
     } else if (accion === 'copiar') {
       if (await copiar(texto)) salida.textContent = 'Texto copiado.';
@@ -546,7 +510,7 @@ async function accionCompartir(accion) {
       }
     }
   } catch {
-    salida.textContent = 'No se ha podido. Prueba con «Descargar imagen» o «Copiar texto».';
+    salida.textContent = 'No se ha podido. Prueba con «Descargar la imagen» o «Copiar el texto».';
   }
 }
 
@@ -557,64 +521,44 @@ pantalla.addEventListener('click', (e) => {
   if (!b || b.disabled || b.getAttribute('aria-disabled') === 'true') return;
   const { accion } = b.dataset;
   switch (accion) {
-    case 'modo':
-      estado = nuevoEstado();
-      estado.modo = b.dataset.modo;
-      estado.temas = temasDelModo(banco, estado.modo).map(t => t.id);
-      ir('provincia');
+    case 'seguir': estado = recuperar() || nuevoEstado(); render(); break;
+    case 'borrar': case 'reiniciar': case 'a-provincia': borrarGuardado(); estado = nuevoEstado(); render(); break;
+    case 'provincia': elegirProvincia(b.dataset.id); break;
+    case 'tema': alternarTema(b.dataset.id); break;
+    case 'todos':
+      estado.temas = estado.temas.length === banco.temas.length ? [] : temasEnOrden(banco).map(t => t.id);
+      guardar(); actualizarTemas();
       break;
-    case 'seguir': estado = recuperar() || nuevoEstado(); if (estado.fase === 'recuento') estado.fase = 'acta'; render(); break;
-    case 'borrar': try { sessionStorage.removeItem(CLAVE); } catch { /* nada */ } estado = nuevoEstado(); render(); break;
-    case 'provincia': empezar(b.dataset.id); break;
-    case 'sin-provincia': empezar(null); break;
-    case 'decidir': decidir(b.dataset.decision); break;
+    case 'a-modo': if (estado.temas.length >= MIN_TEMAS) ir('modo'); break;
+    case 'a-temas': ir('temas'); break;
+    case 'modo': empezar(b.dataset.modo); break;
+    case 'votar': votar(b.dataset.decision); break;
     case 'deshacer': deshacer(); break;
-    case 'favorita': estado.favoritas[temaActual()] = b.dataset.id; finTema(); pantalla.querySelector(`[data-id="${CSS.escape(b.dataset.id)}"]`)?.focus(); avisar('Favorita elegida.'); break;
-    case 'siguiente-tema': siguienteTema(); break;
-    case 'importante': {
-      const id = b.dataset.id;
-      estado.importantes = estado.importantes.includes(id) ? estado.importantes.filter(x => x !== id) : [...estado.importantes, id].slice(0, maxImportantes(estado.modo));
-      guardar(); importantes();
-      pantalla.querySelector(`[data-id="${CSS.escape(id)}"]`)?.focus();
-      break;
-    }
-    case 'a-sobre': ir('sobre'); break;
-    case 'abrir-sobre': abrirSobre(); break;
-    case 'saltar-recuento': terminarRecuento(); break;
     case 'fila': {
       const p = b.dataset.partido;
       estado.abierta = estado.abierta === p ? null : p;
-      guardar(); acta();
+      guardar(); resultado();
       pantalla.querySelector(`[data-accion="fila"][data-partido="${CSS.escape(p)}"]`)?.focus();
       break;
     }
-    case 'vista': estado.vista = b.dataset.vista; estado.abierta = null; guardar(); acta(); pantalla.querySelector(`[data-vista="${b.dataset.vista}"]`)?.focus(); break;
-    case 'a-revelacion': estado.revelacionIdx = 0; ir('revelacion'); break;
-    case 'ver-tema': estado.revelacionIdx = Number(b.dataset.idx); ir('revelacion'); break;
-    case 'revelar': revelar([b.dataset.id]); break;
-    case 'revelar-todas': revelar(estado.orden[estado.temas[estado.revelacionIdx]]); break;
-    case 'a-acta': ir('acta'); break;
+    case 'a-resultado': ir('resultado'); break;
     case 'a-compartir': ir('compartir'); break;
-    case 'compartir-que': estado.compartir.que = b.dataset.valor; compartirPantalla(); break;
-    case 'compartir-favorita': estado.compartir.favorita = b.dataset.valor; compartirPantalla(); break;
-    case 'compartir-formato': estado.compartir.formato = b.dataset.valor; compartirPantalla(); break;
+    case 'formato': estado.formato = b.dataset.valor; compartirPantalla(); pantalla.querySelector(`[data-valor="${CSS.escape(b.dataset.valor)}"]`)?.focus(); break;
     case 'compartir': case 'descargar': case 'copiar': accionCompartir(accion); break;
-    case 'reiniciar': try { sessionStorage.removeItem(CLAVE); } catch { /* nada */ } estado = nuevoEstado(); render(); break;
     default: break;
   }
 });
 
-// Teclado en las papeletas: ← no, → sí, ↓ paso, Retroceso deshace.
+// Teclado en las papeletas: ← en contra, → a favor, ↓ me abstengo, Retroceso deshace.
 document.addEventListener('keydown', (e) => {
   if (estado.fase !== 'papeleta' || e.altKey || e.ctrlKey || e.metaKey) return;
-  if (e.target.closest('input, textarea, select') || glosarioPanel.abierto()) return;
-  const teclas = { ArrowLeft: () => decidir('no'), ArrowRight: () => decidir('si'), ArrowDown: () => decidir('paso'), Backspace: () => deshacer() };
+  if (e.target.closest('input, textarea, select')) return;
+  const teclas = { ArrowLeft: () => votar('contra'), ArrowRight: () => votar('favor'), ArrowDown: () => votar('abstencion'), Backspace: () => deshacer() };
   if (teclas[e.key]) { e.preventDefault(); teclas[e.key](); }
 });
 
 // ───── Arranque ─────
 
-let glosarioPanel;
 async function arrancar() {
   const leer = async (url) => {
     const r = await fetch(url, { credentials: 'same-origin' });
@@ -627,10 +571,6 @@ async function arrancar() {
     pantalla.innerHTML = '<div class="juego__bloque"><h2>No se ha podido cargar el test</h2><p class="juego__ayuda">Comprueba tu conexión y vuelve a cargar la página.</p></div>';
     return;
   }
-  glosario = banco.glosario;
-  const panel = document.getElementById('definicion');
-  document.body.append(panel);
-  glosarioPanel = iniciarGlosario(glosario, panel);
   raiz.classList.add('juego--listo');
   render();
 }

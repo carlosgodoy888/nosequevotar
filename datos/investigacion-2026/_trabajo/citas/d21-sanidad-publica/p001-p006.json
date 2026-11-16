@@ -1,0 +1,638 @@
+{
+  "fuente": "d21-sanidad-publica",
+  "partido": "d21",
+  "paginas": [
+    1,
+    6
+  ],
+  "citas": [
+    {
+      "cita": "Defender nuestra sanidad pública no es gastar a ciegas: implica impulsar una revolución tecnológica que rescate cada euro mal gestionado para reinvertirlo íntegramente en pagar sueldos dignos, modernizar los centros y devolver a los pacientes una atención ágil y excelente.",
+      "pagina": 2,
+      "apartado": [
+        "Sanidad pública: cuidar a quienes nos cuidan"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo de sanidad pública basado en eficiencia y tecnología",
+      "etiquetas": [
+        "sanidad",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "suprimiremos los nombramientos políticos a dedo de gerentes y cargos directivos en la sanidad pública.",
+      "pagina": 2,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "Despolitización Total de la Dirección Hospitalaria"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de nombramientos políticos de directivos sanitarios",
+      "etiquetas": [
+        "sanidad",
+        "función pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La dirección de hospitales y áreas de salud se cubrirá exclusivamente mediante concurso público de mérito, capacidad y competencia profesional acreditada, con mandatos evaluados periódicamente en función de resultados, encuestas de satisfacción y eficiencia en la gestión.",
+      "pagina": 2,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "Despolitización Total de la Dirección Hospitalaria"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Concurso público de méritos para dirigir hospitales y áreas de salud",
+      "etiquetas": [
+        "sanidad",
+        "función pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "acabaremos con las miles de consultas médicas y turnos de quirófano que se pierden cada semana por inasistencias previsibles o fallos de cruce de datos.",
+      "pagina": 2,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "Cero Huecos Perdidos - Reasignación Automática de Citas y Quirófanos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Evitar consultas y quirófanos perdidos por inasistencias",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implantaremos un sistema automatizado que detecte con antelación cancelaciones previsibles (por ejemplo, identificando en tiempo real si un paciente citado acaba de ser ingresado por otra patología) y reasigne de forma instantánea ese hueco al siguiente paciente en espera.",
+      "pagina": 2,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "Cero Huecos Perdidos - Reasignación Automática de Citas y Quirófanos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sistema automatizado de reasignación de citas y quirófanos",
+      "etiquetas": [
+        "sanidad",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "un quirófano cerrado por las tardes es un despilfarro inasumible.",
+      "pagina": 3,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "Rendimiento Máximo de Quirófanos y Reinversión en Listas de Espera"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Uso de los quirófanos públicos por las tardes",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Abriremos las instalaciones públicas en turno de tarde con prioridad absoluta para los pacientes de la sanidad pública, remunerando dignamente a los profesionales voluntarios.",
+      "pagina": 3,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "Rendimiento Máximo de Quirófanos y Reinversión en Listas de Espera"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Apertura de quirófanos públicos en turno de tarde",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y para asegurar que ningún recurso quede desaprovechado, habilitaremos un marco transparente que permita a mutuas y aseguradoras alquilar los tramos horarios vacantes bajo tarifas públicas prefijadas. Blindaremos por ley que el 100% de estos ingresos extra se reinvierta íntegramente en reducir listas de espera, mejorar sueldos, renovar tecnología y financiar nuestra sanidad pública.",
+      "pagina": 3,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "Rendimiento Máximo de Quirófanos y Reinversión en Listas de Espera"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Alquiler de quirófanos vacantes a mutuas y reinversión de ingresos",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "en una única legislatura impulsaremos desde el Ministerio de Sanidad, en coordinación con las Comunidades Autónomas, la creación de una Red Sanitaria Compartida que digitalice, estandarice y conecte el 100% de los procesos organizativos, gestión de plantillas, flujos de pacientes y compra de medicamentos.",
+      "pagina": 3,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "Auditar, Optimizar y Reinvertir"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Red Sanitaria Compartida que digitalice la gestión sanitaria",
+      "etiquetas": [
+        "sanidad",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sobre esta red integrada, un sistema IA de auditoría continua evaluará en tiempo real, bajo supervisión humana, el uso de presupuestos, quirófanos, camas, maquinaria y material, detectando con precisión ineficiencias y cuellos de botella. Esta tecnología generará recomendaciones personalizadas de mejora para los equipos gestores de cada centro médico y propondrá optimizaciones estratégicas conjuntas a escala autonómica e interautonómica.",
+      "pagina": 3,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "Auditar, Optimizar y Reinvertir"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Auditoría continua con inteligencia artificial de los recursos sanitarios",
+      "etiquetas": [
+        "sanidad",
+        "inteligencia artificial",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestro objetivo será innegociable: cada euro rescatado se reinvertirá íntegramente en mejorar los sueldos del personal, financiar la investigación y elevar la calidad material de la atención al paciente.",
+      "pagina": 3,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "Auditar, Optimizar y Reinvertir"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reinversión del ahorro de gestión en personal e investigación",
+      "etiquetas": [
+        "sanidad",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "realizaremos una auditoría inmediata sobre la red de infraestructuras sanitarias de todo el país para frenar la inauguración de centros de salud y consultorios promovidos como reclamo electoral sin capacidad real de contratación.",
+      "pagina": 3,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "No Más Centros Sanitarios Fantasma"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Auditoría de infraestructuras sanitarias sin personal asegurado",
+      "etiquetas": [
+        "sanidad",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estará prohibido abrir nuevas instalaciones que no cuenten de antemano con una dotación presupuestaria y de plantilla médica plenamente garantizada.",
+      "pagina": 3,
+      "apartado": [
+        "Que cada euro salve vidas: gestión inteligente para proteger nuestra sanidad pública",
+        "No Más Centros Sanitarios Fantasma"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir abrir centros sanitarios sin presupuesto ni plantilla",
+      "etiquetas": [
+        "sanidad",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "erradicar las jornadas presenciales de 24 horas es un compromiso férreo. Frente a promesas vacías que ignoran la actual escasez de especialistas, ejecutaremos una transición realista y sin marcha atrás hacia turnos máximos de 12 horas. Iniciaremos el modelo en los servicios con mayor sobrecarga clínica, extendiéndolo gradualmente a toda la red.",
+      "pagina": 3,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Fin Progresivo de las Guardias de 24 Horas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sustitución progresiva de guardias de 24 horas por turnos de 12",
+      "etiquetas": [
+        "sanidad",
+        "empleo público",
+        "salud laboral"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para blindar la asistencia durante este proceso, reorganizaremos las plantillas con equipos nocturnos específicos y crearemos Unidades Provinciales de Respuesta Rápida que cubran urgencias entre hospitales de forma ágil, garantizando por fin el descanso del profesional y la máxima seguridad del paciente.",
+      "pagina": 3,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Fin Progresivo de las Guardias de 24 Horas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Equipos nocturnos y Unidades Provinciales de Respuesta Rápida",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "saldaremos una deuda histórica reconociendo la categoría profesional del Grupo A1 para los profesionales de enfermería, acorde con su titulación universitaria de Grado y su nivel de responsabilidad clínica.",
+      "pagina": 3,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Reconocimiento del Grupo A1 y Especialidades para Enfermería"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Clasificación de la enfermería en el grupo A1",
+      "etiquetas": [
+        "sanidad",
+        "función pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En paralelo, ampliaremos y consolidaremos el catálogo oficial de especialidades de enfermería, vinculándolas a puestos específicos en las plantillas del Sistema Nacional de Salud y asegurando que la alta cualificación del personal se traduzca de forma directa en una atención excelente al paciente.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Reconocimiento del Grupo A1 y Especialidades para Enfermería"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliación de especialidades de enfermería con puestos específicos",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "elaboraremos, en colaboración directa con los facultativos y sus órganos representativos, un nuevo marco estatutario específico para la profesión médica que sustituya una legislación con más de dos décadas de desfase y dé respuesta a las exigencias asistenciales del presente. Este estatuto supondrá una modernización integral de la carrera profesional: garantizará una mayor autonomía organizativa, blindará el tiempo de valor dedicado al paciente frente a la burocracia, consolidará una estructura retributiva acorde a la exigencia de su itinerario formativo y su responsabilidad diagnóstica, y reforzará la gobernanza compartida y el trabajo en equipo con el resto de disciplinas sanitarias.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Estatuto de la Profesión Médica para el Siglo 21"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevo estatuto específico de la profesión médica",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "realizaremos una auditoría de cargas de trabajo por Comunidades Autónomas para adecuar las ratios de médicos, enfermeros y técnicos en cuidados auxiliares de enfermería (TCAE) por paciente a los estándares medios de la Unión Europea.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Auditoría de Ratios y Convergencia Europea"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ratios de personal sanitario por paciente según la media europea",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estableceremos un calendario vinculante de incremento de plazas estructurales para acabar con la sobrecarga asistencial y garantizar unos cuidados de calidad que protejan la salud de los pacientes y los profesionales.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Auditoría de Ratios y Convergencia Europea"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Calendario vinculante de aumento de plazas sanitarias estructurales",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "transformaremos el sistema opaco y precario de llamamientos telefónicos de última hora sustituyéndolo por plataformas digitales fácilmente accesibles.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Bolsas de Empleo del Siglo 21 y Fin a las Penalizaciones Abusivas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plataformas digitales para los llamamientos de las bolsas sanitarias",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los profesionales dispondrán de un margen de tiempo razonable para valorar las ofertas y organizar su vida, suprimiendo las sanciones y expulsiones de las bolsas por rechazar contratos de solo unos días o en unidades de alta complejidad para las que no cuenten con formación previa.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Bolsas de Empleo del Siglo 21 y Fin a las Penalizaciones Abusivas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fin de las penalizaciones por rechazar contratos cortos en bolsas",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "aprobaremos una Ley Estatal de Protección del Personal Sanitario que endurecerá las penas por amenazas o agresiones, impondrá órdenes de alejamiento inmediatas y creará un Registro Nacional de Agresores para impedir el acceso al mismo profesional agredido.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Blindaje Legal Contra las Agresiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley estatal contra agresiones al personal sanitario",
+      "etiquetas": [
+        "sanidad",
+        "justicia",
+        "salud laboral"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La Administración asumirá la derivación obligatoria del agresor a otro centro y la dotación de botones de pánico y sistemas de alerta integrados en la historia clínica de los pacientes.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Blindaje Legal Contra las Agresiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derivación del agresor y botones de pánico en centros sanitarios",
+      "etiquetas": [
+        "sanidad",
+        "salud laboral"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "facilitaremos el regreso de los médicos, enfermeros y profesionales sanitarios españoles que trabajan en el extranjero mediante un paquete especial de deducciones en el IRPF durante los primeros tres años tras su reincorporación al Sistema Nacional de Salud. Este incentivo fiscal irá acompañado de una homologación facilitada de la experiencia e investigaciones que hayan desarrollado en el extranjero.",
+      "pagina": 4,
+      "apartado": [
+        "Dignidad para todos los profesionales sanitarios",
+        "Bono Fiscal para el Retorno del Talento Sanitario"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Deducciones en el IRPF para sanitarios que regresen del extranjero",
+      "etiquetas": [
+        "sanidad",
+        "impuestos",
+        "emigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos un estándar técnico común y obligatorio para todo el Sistema Nacional de Salud. Con él, cualquier profesional autorizado, en cualquier centro público de España, accederá en tiempo real y desde su propio puesto de trabajo a tu historial completo (diagnósticos, alergias, tratamientos, analíticas e imágenes) con solo leer tu tarjeta física o virtual. Tú decidirás quién lo consulta y verás cada acceso desde tu móvil. Completaremos el despliegue incorporando progresivamente a la sanidad privada y nos adelantaremos al calendario del Espacio Europeo de Datos de Salud.",
+      "pagina": 5,
+      "apartado": [
+        "Llevar la sanidad pública a lo más alto: especialización + IA",
+        "Tu Historial Clínico, Contigo en Cualquier Parte de España"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Historia clínica completa accesible en toda España",
+      "etiquetas": [
+        "sanidad",
+        "ciencia y tecnología",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "revolucionaremos el acceso al sistema sanitario mediante una aplicación móvil —de uso voluntario pero recomendado— con la que cualquier ciudadano podrá conversar por voz o chat en lenguaje natural cuando sienta un síntoma o malestar.",
+      "pagina": 5,
+      "apartado": [
+        "Llevar la sanidad pública a lo más alto: especialización + IA",
+        "Triaje Inteligente en tu Móvil con Lenguaje Natural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aplicación móvil de triaje sanitario con lenguaje natural",
+      "etiquetas": [
+        "sanidad",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Diseñada y supervisada por un Comité Científico Médico e integrada de forma segura con su historial clínico personal, esta IA evaluará la situación al instante para ofrecer una recomendación clínica fiable (evitando el peligro de consultar en buscadores o IAs genéricas): indicará si conviene solicitar cita en Atención Primaria o acudir a Urgencias, y en este último caso recomendará a qué hospital dirigirse según la ubicación del paciente y el nivel de saturación en tiempo real de cada centro, descongestionando las urgencias, ahorrando recursos y salvando vidas.",
+      "pagina": 5,
+      "apartado": [
+        "Llevar la sanidad pública a lo más alto: especialización + IA",
+        "Triaje Inteligente en tu Móvil con Lenguaje Natural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Funcionamiento del triaje con IA y derivación según saturación",
+      "etiquetas": [
+        "sanidad",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Integraremos asistentes de IA seguros que, conectados a la historia clínica única del paciente, redacten automáticamente borradores de informes clínicos, altas hospitalarias y registros de enfermería. El profesional siempre los revisará y validará.",
+      "pagina": 5,
+      "apartado": [
+        "Llevar la sanidad pública a lo más alto: especialización + IA",
+        "IA Clínica para Liberar Tiempo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Asistentes de IA para redactar informes clínicos",
+      "etiquetas": [
+        "sanidad",
+        "inteligencia artificial",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "reorganizaremos el mapa hospitalario bajo la evidencia de que la especialización multiplica la calidad médica y la eficiencia económica.",
+      "pagina": 5,
+      "apartado": [
+        "Llevar la sanidad pública a lo más alto: especialización + IA",
+        "Red de Hospitales Monotemáticos y de Proximidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reorganización del mapa hospitalario por especialización",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos redes de Hospitales Monotemáticos de Referencia tanto para áreas críticas (oncología, cardiología avanzada, daño cerebral…) como para procedimientos quirúrgicos rutinarios de alta demanda (prótesis de cadera y rodilla, cataratas, hernias…), logrando que equipos hiperespecializados operen con altísima precisión, menores tasas de complicación y tiempos de espera mínimos.",
+      "pagina": 5,
+      "apartado": [
+        "Llevar la sanidad pública a lo más alto: especialización + IA",
+        "Red de Hospitales Monotemáticos y de Proximidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Redes de hospitales monotemáticos de referencia",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los hospitales generales y comarcales se fortalecerán en atención integral, diagnóstico rápido y urgencias de proximidad.",
+      "pagina": 5,
+      "apartado": [
+        "Llevar la sanidad pública a lo más alto: especialización + IA",
+        "Red de Hospitales Monotemáticos y de Proximidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de hospitales generales y comarcales",
+      "etiquetas": [
+        "sanidad",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "desplazaremos el cuidado de los pacientes crónicos hacia la comodidad y seguridad de su hogar mediante dispositivos conectados y seguimiento telemático diario por parte de enfermería.",
+      "pagina": 6,
+      "apartado": [
+        "Llevar la sanidad pública a lo más alto: especialización + IA",
+        "Monitorización Domiciliaria y Tele-Enfermería Proactiva"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Monitorización domiciliaria de pacientes crónicos",
+      "etiquetas": [
+        "sanidad",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Algoritmos de alerta temprana supervisados por profesionales detectarán patrones sutiles de empeoramiento antes de que deriven en una crisis aguda, adelantando el tratamiento y evitando miles de ingresos hospitalarios urgentes.",
+      "pagina": 6,
+      "apartado": [
+        "Llevar la sanidad pública a lo más alto: especialización + IA",
+        "Monitorización Domiciliaria y Tele-Enfermería Proactiva"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Algoritmos de alerta temprana para pacientes crónicos",
+      "etiquetas": [
+        "sanidad",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "consolidaremos el liderazgo mundial de España creando un Centro Nacional de Trasplantes impulsado por la Organización Nacional de Trasplantes (ONT), con autonomía operativa y plantilla propia de élite.",
+      "pagina": 6,
+      "apartado": [
+        "Llevar la sanidad pública a lo más alto: especialización + IA",
+        "Centro Nacional de Trasplantes para Descongestionar los Hospitales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Creación de un Centro Nacional de Trasplantes",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

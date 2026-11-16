@@ -1,0 +1,447 @@
+{
+  "fuente": "d21-politica-migratoria-con-cabeza",
+  "partido": "d21",
+  "paginas": [
+    1,
+    5
+  ],
+  "citas": [
+    {
+      "cita": "La inmigración es hoy una de las grandes ventajas competitivas de España: entre 2022 y 2025 aportó cerca de la mitad del crecimiento de nuestra economía, sostiene sectores enteros y rejuvenece un país que envejece. Y precisamente porque es un activo, el Estado debe tener control de la política migratoria: decidir quién entra, cómo entra, cuándo entra y, si tiene que salir, cuándo sale.",
+      "pagina": 2,
+      "apartado": [
+        "Una política migratoria con cabeza"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Inmigración como activo económico y control estatal de los flujos",
+      "etiquetas": [
+        "inmigración",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nosotros proponemos otra cosa: tolerancia cero con la xenofobia y una política de inmigración con cabeza. Vías legales que funcionen, una ley que se cumpla, una convivencia con derechos y deberes, y las puertas abiertas para los españoles que un día se fueron y hoy quieren volver.",
+      "pagina": 2,
+      "apartado": [
+        "Una política migratoria con cabeza"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Vías legales, cumplimiento de la ley y retorno de emigrantes",
+      "etiquetas": [
+        "inmigración",
+        "emigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos un visado de búsqueda de empleo de 6 meses (prorrogable a 9), inspirado en la Chancenkarte alemana: sin oferta previa, con baremo de puntos (titulación, experiencia, idioma y demanda sectorial), cupo anual según las vacantes reales y resolución online en máximo dos meses.",
+      "pagina": 2,
+      "apartado": [
+        "Que el talento entre por la puerta grande",
+        "Un Visado para Buscar Trabajo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Visado de búsqueda de empleo de seis meses por puntos",
+      "etiquetas": [
+        "inmigración",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Quien encuentre un empleo formal obtendrá su permiso sin tener que salir de España; quien no, volverá a su país, con su salida verificada y sin acceso a futuras vías legales si no lo cumple.",
+      "pagina": 2,
+      "apartado": [
+        "Que el talento entre por la puerta grande",
+        "Un Visado para Buscar Trabajo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permiso sin salir de España o retorno verificado al acabar el visado",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Formados en Origen, Contratados Antes de Viajar: pondremos en marcha un programa pionero de formación profesional en los principales países de origen, financiado con parte de los fondos de cooperación al desarrollo e inspirado en las Global Skills Partnerships y las Asociaciones de Talento europeas.",
+      "pagina": 2,
+      "apartado": [
+        "Que el talento entre por la puerta grande",
+        "Formados en Origen, Contratados Antes de Viajar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Formación profesional en países de origen con fondos de cooperación",
+      "etiquetas": [
+        "inmigración",
+        "cooperación al desarrollo",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Con convenios bilaterales, profesorado español y estándares homologados por España, formaremos trabajadores para los sectores con vacantes estructurales: cuidados, agricultura, construcción, hostelería o tecnología. Quien supere el itinerario viajará con visado de trabajo y contrato firmado.",
+      "pagina": 2,
+      "apartado": [
+        "Que el talento entre por la puerta grande",
+        "Formados en Origen, Contratados Antes de Viajar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Formación para sectores con vacantes y visado con contrato",
+      "etiquetas": [
+        "inmigración",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Llevaremos la extranjería al siglo 21: expediente único 100% digital con seguimiento en tiempo real, citas asignadas por el sistema y nominativas, plazos máximos garantizados y renovaciones automáticas cuando la Administración ya tenga los datos de cotización y antecedentes penales.",
+      "pagina": 3,
+      "apartado": [
+        "Que el talento entre por la puerta grande",
+        "Extranjería Sin Colas, Sin Mafias y Sin Papeles Caducados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Expediente digital de extranjería, citas nominativas y renovaciones automáticas",
+      "etiquetas": [
+        "inmigración",
+        "administración pública",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Con una vía ordinaria que funcione, la irregularidad no se acumulará hasta forzar regularizaciones extraordinarias.",
+      "pagina": 3,
+      "apartado": [
+        "Que el talento entre por la puerta grande",
+        "Extranjería Sin Colas, Sin Mafias y Sin Papeles Caducados"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Vía ordinaria frente a regularizaciones extraordinarias",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Que se Cumpla lo que Dicta la Ley: en 2023 España dictó 64.260 órdenes de expulsión y ejecutó 3.090, menos del 5%, y el propio Gobierno reconoce que no sabe cuántas siguen pendientes. Una orden que no se cumple desprestigia al Estado y no ayuda a la población inmigrante.",
+      "pagina": 3,
+      "apartado": [
+        "El Estado decide: una ley que se cumpla",
+        "Que se Cumpla lo que Dicta la Ley"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Necesidad de ejecutar las órdenes de expulsión",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos un registro digital único que seguirá cada orden de expulsión desde que se dicta hasta que se ejecuta. La prioridad serán quienes cometen delitos, especialmente los reincidentes.",
+      "pagina": 3,
+      "apartado": [
+        "El Estado decide: una ley que se cumpla",
+        "Que se Cumpla lo que Dicta la Ley"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro digital único de órdenes de expulsión y prioridades",
+      "etiquetas": [
+        "inmigración",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vincularemos la política de visados y de cooperación a acuerdos de readmisión con los países de origen, e impulsaremos el retorno voluntario asistido. Si en un año la tasa de ejecución no mejora de forma sustancial, el Gobierno presentará ante las Cortes un plan para reformar el sistema.",
+      "pagina": 3,
+      "apartado": [
+        "El Estado decide: una ley que se cumpla",
+        "Que se Cumpla lo que Dicta la Ley"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Readmisión, retorno voluntario y plan si no mejoran las expulsiones",
+      "etiquetas": [
+        "inmigración",
+        "cooperación al desarrollo",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos una plataforma pública de interoperabilidad que cruzará de forma automatizada, y con plenas garantías de protección de datos, la información de Interior, Seguridad Social, empleo, padrón, sanidad y educación.",
+      "pagina": 3,
+      "apartado": [
+        "El Estado decide: una ley que se cumpla",
+        "Un Solo Sistema, con Datos en Tiempo Real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plataforma de interoperabilidad de datos sobre inmigración",
+      "etiquetas": [
+        "inmigración",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sabremos en tiempo real cuántas personas llegan y por qué vía, qué impacto tienen en los servicios públicos y dónde se concentra el empleo sumergido. Aportar datos será obligatorio para ministerios, Comunidades Autónomas y Ayuntamientos, con retención de transferencias para quien incumpla.",
+      "pagina": 3,
+      "apartado": [
+        "El Estado decide: una ley que se cumpla",
+        "Un Solo Sistema, con Datos en Tiempo Real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligación de las administraciones de aportar datos migratorios",
+      "etiquetas": [
+        "inmigración",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y los indicadores serán abiertos: el debate sobre inmigración se hará con hechos, no con desinformación.",
+      "pagina": 3,
+      "apartado": [
+        "El Estado decide: una ley que se cumpla",
+        "Un Solo Sistema, con Datos en Tiempo Real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Indicadores abiertos sobre inmigración",
+      "etiquetas": [
+        "inmigración",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fronteras Europeas, Inteligentes y Seguras: desde junio de 2026 se aplica el Pacto Europeo de Migración y Asilo, y un sistema digital debe registrar con datos biométricos cada entrada y salida de quienes vienen de fuera de la UE. Lo aplicaremos completo y sin retrasos: identificación y control sanitario y de seguridad de cada llegada irregular, y un asilo rápido y con garantías: quien necesita protección la tendrá pronto; quien no, lo sabrá en semanas, no en años. Conectaremos ese registro con nuestro Sistema Integrado para detectar automáticamente a quien excede su estancia.",
+      "pagina": 3,
+      "apartado": [
+        "El Estado decide: una ley que se cumpla",
+        "Fronteras Europeas, Inteligentes y Seguras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aplicación del Pacto Europeo de Migración y Asilo y control de estancias",
+      "etiquetas": [
+        "inmigración",
+        "asilo",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y cooperaremos con los países de origen y tránsito contra las mafias que trafican con vidas, sin dejar nunca de rescatar a quien está en peligro en el mar.",
+      "pagina": 4,
+      "apartado": [
+        "El Estado decide: una ley que se cumpla",
+        "Fronteras Europeas, Inteligentes y Seguras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cooperación contra el tráfico de personas y salvamento marítimo",
+      "etiquetas": [
+        "inmigración",
+        "política exterior",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos una Tarjeta de Oportunidad, una autorización de residencia y trabajo de 9 meses para quienes hayan completado al menos un año de formación secundaria o profesional, acrediten buen comportamiento cívico continuado en su centro de acogida y tengan verificadas su identidad y edad. Incluirá un mentor y una bolsa de empleo con empresas colaboradoras. Quien firme un contrato y cotice pasará al permiso ordinario; si no, la tarjeta decaerá.",
+      "pagina": 4,
+      "apartado": [
+        "Convivencia: derechos, deberes y cero xenofobia",
+        "Tarjeta de Oportunidad para Jóvenes Extutelados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permiso de residencia y trabajo de nueve meses para jóvenes extutelados",
+      "etiquetas": [
+        "inmigración",
+        "infancia",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Toda persona que obtenga su primera autorización de residencia tendrá acceso gratuito a un itinerario de acogida: español (y la lengua cooficial donde la haya), orientación laboral y un módulo sobre la Constitución, nuestros derechos y deberes y el funcionamiento de los servicios públicos, también en formato digital para compatibilizarlo con el trabajo. Completarlo agilizará las renovaciones y preparará directamente los exámenes de idioma y cultura que exige la nacionalidad.",
+      "pagina": 4,
+      "apartado": [
+        "Convivencia: derechos, deberes y cero xenofobia",
+        "Incentivos a la Integración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Itinerario gratuito de acogida para nuevos residentes",
+      "etiquetas": [
+        "inmigración",
+        "nacionalidad",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Rechazamos frontalmente el discurso xenófobo y racista, y lo combatiremos.",
+      "pagina": 4,
+      "apartado": [
+        "Convivencia: derechos, deberes y cero xenofobia",
+        "Tolerancia Cero con la Xenofobia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo del discurso xenófobo y racista",
+      "etiquetas": [
+        "inmigración",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos con fiscales y medios la persecución de los delitos de odio y extenderemos las pruebas de discriminación en el alquiler de vivienda y en los procesos de selección, con sanciones para quien cierre la puerta por un color de piel o un apellido.",
+      "pagina": 4,
+      "apartado": [
+        "Convivencia: derechos, deberes y cero xenofobia",
+        "Tolerancia Cero con la Xenofobia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Persecución de delitos de odio y pruebas de discriminación",
+      "etiquetas": [
+        "justicia",
+        "vivienda",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y quien sea víctima de un delito de odio o de explotación laboral podrá denunciarlo sin que su denuncia active un expediente de expulsión, como ya ocurre con las víctimas de violencia de género y de trata.",
+      "pagina": 4,
+      "apartado": [
+        "Convivencia: derechos, deberes y cero xenofobia",
+        "Tolerancia Cero con la Xenofobia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Denuncia de delitos de odio sin riesgo de expediente de expulsión",
+      "etiquetas": [
+        "inmigración",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Volver a Casa No Saldrá Caro: miles de científicos y profesionales formados en España no vuelven porque nuestro sistema fiscal penaliza la carrera que hicieron fuera, sobre todo sus ahorros para la jubilación, y acaban en países que sí los quieren. Crearemos un régimen sencillo para investigadores, docentes y profesionales cualificados que regresan, pensado para sueldos reales y no solo para los grandes salarios del actual régimen de impatriados, y tramitado en una ventanilla única digital.",
+      "pagina": 5,
+      "apartado": [
+        "Españoles en el mundo: encontraréis las puertas abiertas",
+        "Volver a Casa No Saldrá Caro"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Régimen fiscal para profesionales emigrados que regresan",
+      "etiquetas": [
+        "emigración",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vuelve con tu Trabajo: muchos españoles volverían mañana si pudieran seguir trabajando en remoto para su empresa extranjera. Hoy esa empresa debe darse de alta en nuestra Seguridad Social con trámites complejos y teme que un solo empleado en España le genere obligaciones fiscales imprevistas. Lo haremos fácil: un alta exprés, 100% digital y también en inglés, para empleadores extranjeros con un trabajador que retorna, y reglas claras y por escrito de Hacienda para que un empleado en teletrabajo no convierta a su empresa en contribuyente en España.",
+      "pagina": 5,
+      "apartado": [
+        "Españoles en el mundo: encontraréis las puertas abiertas",
+        "Vuelve con tu Trabajo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Alta exprés y reglas fiscales para teletrabajadores que retornan",
+      "etiquetas": [
+        "emigración",
+        "seguridad social",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizaremos que la residencia del cónyuge o pareja y de los hijos extranjeros de quien retorna se resuelva en un mes por una vía prioritaria y digital, tarjeta sanitaria y empadronamiento desde el primer día, con convalidación automática de los estudios escolares de los sistemas educativos más habituales.",
+      "pagina": 5,
+      "apartado": [
+        "Españoles en el mundo: encontraréis las puertas abiertas",
+        "Volver en Familia, Sin Papeleo Interminable"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Residencia en un mes para familiares extranjeros de retornados",
+      "etiquetas": [
+        "emigración",
+        "familia",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

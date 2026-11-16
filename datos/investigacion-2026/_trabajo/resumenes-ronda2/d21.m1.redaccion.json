@@ -1,0 +1,96 @@
+{
+  "resumenes": [
+    {
+      "tema": "vivienda",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Plantea un plan de choque inmediato y un «Plan Nacional de Barrios» a diez años para construir barrios completos de vivienda asequible con colaboración público-privada.",
+          "apoyos": ["c-d8c45f4bfc", "c-19f38e34b6", "c-7333578648", "c-6f3e86746d", "c-080ad8ee4e", "c-ff479ca45c"]
+        },
+        {
+          "texto": "Propone limitar temporalmente los alquileres en zonas tensionadas a cambio de que el Estado garantice al propietario el cobro ante impagos.",
+          "apoyos": ["c-ce7ec192d5", "c-e0858dde10", "c-7c3dc600c4"]
+        },
+        {
+          "texto": "Quiere suprimir IVA, ITP y AJD en la compra de vivienda habitual a menores de 35 años, hasta 400.000 euros, y rebajarlos al resto.",
+          "apoyos": ["c-58d6ab03bc", "c-fcf52293f2", "c-a7112f8cb5"]
+        },
+        {
+          "texto": "También propone destinar 10.000 millones de fondos europeos no ejecutados a un fondo público de vivienda protegida.",
+          "apoyos": ["c-e3c6d1b9b3", "c-3a196a6b76", "c-1e7d3e8925"]
+        }
+      ],
+      "nota": "Se omite la declaración de la candidata sobre «despolitizar el Ministerio de la Vivienda» (c-98b6126bbf) por espacio; el programa cubre el tema con detalle. Se evita el término «inquiokupación» de las citas."
+    },
+    {
+      "tema": "empleo",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende elevar la productividad y reducir las cargas fiscales al trabajo para que suban los salarios.",
+          "apoyos": ["c-36b1576d57"]
+        },
+        {
+          "texto": "Propone que un órgano técnico independiente fije el salario mínimo, con el objetivo de que no baje de dos tercios de la mediana salarial.",
+          "apoyos": ["c-284f62c0a0", "c-1c49ba0785"]
+        },
+        {
+          "texto": "Plantea que los pluses por productividad tributen al 5% hasta 5.000 euros anuales y deducciones en Sociedades a empresas que suban sueldos por encima del IPC.",
+          "apoyos": ["c-913c6688f0", "c-d837756e7b"]
+        },
+        {
+          "texto": "Para autónomos, propone una cuota opcional según lo facturado el mes anterior y un cese parcial de actividad ante caídas de ingresos.",
+          "apoyos": ["c-338346a920", "c-c89de8dc64", "c-caf9dc5966", "c-24dc741385"]
+        }
+      ],
+      "nota": "El tema reúne muchas medidas sectoriales (FP y prácticas, sanidad, fuerzas de seguridad, investigación); se priorizan las de salarios y autónomos del documento «Más salario, más productividad» y «Autónomo, estamos contigo»."
+    },
+    {
+      "tema": "pensiones",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone que en los primeros cien días una asamblea de 150 personas elegidas por sorteo delibere un año y eleve recomendaciones al Pacto de Toledo.",
+          "apoyos": ["c-71e7e1ef27", "c-af9f01a1c0"]
+        },
+        {
+          "texto": "Defiende una reforma basada en tranquilidad para quienes ya cobran, sostenibilidad y justicia entre generaciones, con más medios para la AIReF y un simulador público.",
+          "apoyos": ["c-cf3a7e91b4", "c-af4de59076", "c-4bd19e0a21"]
+        },
+        {
+          "texto": "También plantea ampliar la base de cotizantes con más empleo y la jubilación anticipada sin recorte para policías, guardias civiles y militares.",
+          "apoyos": ["c-e7d9d017eb", "c-d124d9c83f", "c-33b149c651"]
+        },
+        {
+          "texto": "Su candidata señaló que las pensiones se pagan en parte con deuda y transferencias de otras partidas.",
+          "apoyos": ["c-d260eb6392"]
+        }
+      ],
+      "nota": "La última frase procede de una declaración (Onda Cero, 12-11-2026) y va atribuida; es un diagnóstico, no una propuesta."
+    },
+    {
+      "tema": "impuestos",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende que no hace falta subir ni bajar impuestos, sino un sistema progresivo, transparente y sencillo centrado en perseguir el fraude.",
+          "apoyos": ["c-6a6496d98e", "c-9452f5a88f"]
+        },
+        {
+          "texto": "Propone actualizar cada año el IRPF con el IPC y que las ganancias de activos mantenidos menos de un año tributen como rentas del trabajo.",
+          "apoyos": ["c-84d575954b", "c-e1ad2e485c"]
+        },
+        {
+          "texto": "Plantea un impuesto de sociedades del 5% sobre los beneficios que las pymes reinviertan y eliminar las deducciones y exenciones que no cumplan su objetivo.",
+          "apoyos": ["c-8e0ce5d16e", "c-0eb47159be"]
+        },
+        {
+          "texto": "También quiere suprimir IVA, ITP y AJD en la compra de vivienda habitual a menores de 35 años.",
+          "apoyos": ["c-58d6ab03bc", "c-fcf52293f2"]
+        }
+      ],
+      "nota": "El programa combina la idea de no subir ni bajar impuestos en conjunto con numerosas rebajas sectoriales (vivienda, IVA cultural, deportivo, veterinario); se recoge la de vivienda como la más destacada."
+    }
+  ]
+}

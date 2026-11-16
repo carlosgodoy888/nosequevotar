@@ -1,0 +1,2324 @@
+{
+  "fuente": "psoe-programa-2026",
+  "partido": "psoe",
+  "paginas": [
+    77,
+    95
+  ],
+  "citas": [
+    {
+      "cita": "La igualdad real no se alcanza únicamente con el reconocimiento de derechos, sino garantizando la autonomía económica de las mujeres.",
+      "pagina": 77,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Autonomía económica de las mujeres como condición de igualdad",
+      "etiquetas": [
+        "igualdad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El cuidado debe reconocerse como un derecho de todas las personas y una responsabilidad colectiva, garantizando también los derechos de quienes cuidan.",
+      "pagina": 77,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Cuidados como derecho y responsabilidad colectiva",
+      "etiquetas": [
+        "conciliación",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestro reto es que mujeres y niñas víctimas de cualquier forma de violencia de género cuenten con la protección, justicia y acompañamiento necesarios para recuperar su proyecto de vida.",
+      "pagina": 77,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Protección y acompañamiento a víctimas de violencia de género",
+      "etiquetas": [
+        "violencia de género"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, nos comprometemos a continuar avanzando hacia la igualdad salarial, el empleo de calidad y la autonomía económica de las mujeres.",
+      "pagina": 78,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Igualdad salarial y empleo de calidad para las mujeres",
+      "etiquetas": [
+        "igualdad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la transparencia retributiva y la igualdad salarial, revisando categorías profesionales y complementos que infravaloran los trabajos feminizados, fortaleciendo la negociación colectiva, la Inspección de Trabajo y el cumplimiento efectivo de los planes de igualdad.",
+      "pagina": 78,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "306",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Transparencia retributiva y revisión de categorías profesionales",
+      "etiquetas": [
+        "igualdad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar el acceso de las mujeres a puestos de responsabilidad y liderazgo, eliminando barreras profesionales y favoreciendo la presencia femenina en sectores estratégicos y de mayor valor añadido.",
+      "pagina": 78,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "307",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Acceso de mujeres a puestos de responsabilidad",
+      "etiquetas": [
+        "igualdad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Combatir la parcialidad involuntaria y la precariedad laboral, garantizando empleos estables, jornadas previsibles y protección frente a la discriminación por embarazo, maternidad o ejercicio de derechos de conciliación.",
+      "pagina": 78,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "308",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Parcialidad involuntaria y discriminación por maternidad",
+      "etiquetas": [
+        "empleo",
+        "igualdad",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporar la perspectiva de género en la prevención de riesgos laborales, reconociendo y previniendo los riesgos y enfermedades que afectan específicamente a las mujeres.",
+      "pagina": 78,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "309",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Perspectiva de género en prevención de riesgos laborales",
+      "etiquetas": [
+        "salud laboral",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar hacia la plena igualdad en ciencia e innovación, mediante una Estrategia Nacional de Género que elimine las brechas existentes, promueva la participación de las mujeres en todos los ámbitos científicos y proteja la libertad de investigación en materia de igualdad.",
+      "pagina": 78,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "310",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia Nacional de Género en ciencia e innovación",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar el liderazgo de las mujeres en la tecnología y promover una orientación académica y profesional libre de estereotipos de género, fomentando la presencia de niñas y jóvenes en disciplinas STEAM y de hombres en los sectores educativos y de cuidados.",
+      "pagina": 79,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "311",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mujeres en tecnología y orientación sin estereotipos",
+      "etiquetas": [
+        "igualdad",
+        "educación",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reducir la brecha digital de género, garantizando conectividad, formación y acompañamiento para mujeres mayores, rurales o en situación de vulnerabilidad.",
+      "pagina": 79,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "312",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Brecha digital de género",
+      "etiquetas": [
+        "igualdad",
+        "telecomunicaciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la igualdad en la universidad y la investigación, impulsando los estudios feministas, la perspectiva de género en la ciencia y una mayor presencia y visibilidad de las mujeres investigadoras.",
+      "pagina": 79,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "313",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Igualdad en universidad e investigación",
+      "etiquetas": [
+        "universidad",
+        "igualdad",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar una Estrategia Estatal contra la feminización de la pobreza, reforzando la protección social, el acceso al empleo digno y el acceso prioritario a la vivienda de las mujeres en situación de vulnerabilidad, teniendo en cuenta el impacto de los cuidados sobre sus trayectorias laborales y pensiones.",
+      "pagina": 79,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "314",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia Estatal contra la pobreza femenina",
+      "etiquetas": [
+        "igualdad",
+        "servicios sociales",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejorar la medición y la protección frente a la pobreza de las mujeres, incorporando indicadores multidimensionales, abordando específicamente el sinhogarismo femenino y reforzando el complemento para reducir la brecha de género en las pensiones.",
+      "pagina": 79,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "315",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Medición de la pobreza femenina y complemento de brecha en pensiones",
+      "etiquetas": [
+        "igualdad",
+        "servicios sociales",
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover el emprendimiento femenino, facilitando financiación, formación, acompañamiento y redes de apoyo para proyectos liderados por mujeres, especialmente en el medio rural y en la economía digital.",
+      "pagina": 79,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "316",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo al emprendimiento de mujeres",
+      "etiquetas": [
+        "igualdad",
+        "autónomos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la autonomía económica de las mujeres rurales, impulsando su participación en sectores estratégicos, promoviendo la titularidad compartida de las explotaciones agrarias, el cooperativismo femenino, el acceso a servicios y el retorno del talento al medio rural.",
+      "pagina": 79,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "317",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mujeres rurales y titularidad compartida de explotaciones",
+      "etiquetas": [
+        "igualdad",
+        "medio rural",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Facilitar la reincorporación al empleo tras periodos dedicados a los cuidados, mediante itinerarios de recualificación, reconocimiento de cualificaciones, formación digital, acreditación de competencias y acompañamiento hacia empleos de calidad.",
+      "pagina": 79,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Mismo trabajo, mismo salario, mismas oportunidades: más igualdad para combatir la feminización de la pobreza"
+      ],
+      "numero": "318",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reincorporación laboral tras periodos de cuidados",
+      "etiquetas": [
+        "empleo",
+        "conciliación",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello nos comprometemos a reconocer los cuidados como un derecho social y una responsabilidad colectiva, desarrollando un sistema público de cuidados suficiente, accesible, coordinado y con cobertura en todo el territorio.",
+      "pagina": 80,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más corresponsabilidad y más tiempo para vivir en igualdad: por el derecho a unos cuidados dignos, compartidos y garantizados"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Sistema público de cuidados como derecho social",
+      "etiquetas": [
+        "conciliación",
+        "dependencia",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobar una Ley de Usos del Tiempo de Trabajo, promoviendo horarios racionales, la reducción del tiempo de trabajo sin pérdida salarial, la desconexión digital y la conciliación sin penalizaciones profesionales.",
+      "pagina": 80,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más corresponsabilidad y más tiempo para vivir en igualdad: por el derecho a unos cuidados dignos, compartidos y garantizados"
+      ],
+      "numero": "319",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de Usos del Tiempo de Trabajo y reducción de jornada",
+      "etiquetas": [
+        "empleo",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear un Indicador Nacional de Brechas de Tiempo, que permita evaluar periódicamente la distribución de los cuidados y del tiempo entre mujeres y hombres.",
+      "pagina": 80,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más corresponsabilidad y más tiempo para vivir en igualdad: por el derecho a unos cuidados dignos, compartidos y garantizados"
+      ],
+      "numero": "320",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Indicador sobre reparto del tiempo y los cuidados",
+      "etiquetas": [
+        "igualdad",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la corresponsabilidad de los hombres en los cuidados y las tareas domésticas, impulsando cambios educativos, culturales y laborales que favorezcan una participación equilibrada.",
+      "pagina": 80,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más corresponsabilidad y más tiempo para vivir en igualdad: por el derecho a unos cuidados dignos, compartidos y garantizados"
+      ],
+      "numero": "321",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Corresponsabilidad masculina en cuidados y tareas domésticas",
+      "etiquetas": [
+        "conciliación",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dignificar y reconocer el trabajo de cuidados, reforzando la financiación de los servicios, la profesionalización del sector y la protección de los derechos de las trabajadoras del hogar y de los cuidados, así como de las cuidadoras principales igualando su remuneración al SMI.",
+      "pagina": 80,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más corresponsabilidad y más tiempo para vivir en igualdad: por el derecho a unos cuidados dignos, compartidos y garantizados"
+      ],
+      "numero": "322",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Trabajo de cuidados y remuneración de cuidadoras al SMI",
+      "etiquetas": [
+        "dependencia",
+        "empleo",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar los servicios de apoyo ante necesidades familiares sobrevenidas, asegurando recursos de cuidados para situaciones de urgencia y horarios no convencionales.",
+      "pagina": 80,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más corresponsabilidad y más tiempo para vivir en igualdad: por el derecho a unos cuidados dignos, compartidos y garantizados"
+      ],
+      "numero": "323",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Servicios de cuidados para urgencias familiares",
+      "etiquetas": [
+        "conciliación",
+        "familias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la conciliación durante todo el año, ampliando los recursos educativos, de ocio y de cuidados en periodos no lectivos y prestando especial atención al medio rural, las familias monoparentales y las personas dependientes.",
+      "pagina": 80,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más corresponsabilidad y más tiempo para vivir en igualdad: por el derecho a unos cuidados dignos, compartidos y garantizados"
+      ],
+      "numero": "324",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Recursos de conciliación en periodos no lectivos",
+      "etiquetas": [
+        "conciliación",
+        "familias",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliar y fortalecer los derechos de conciliación familiar, mediante la retribución de los permisos parentales y por cuidados, su extensión a familias monoparentales y personas autónomas, y la mejora de las medidas de adaptación y reducción de jornada para el cuidado de menores hasta los 16 años.",
+      "pagina": 80,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más corresponsabilidad y más tiempo para vivir en igualdad: por el derecho a unos cuidados dignos, compartidos y garantizados"
+      ],
+      "numero": "325",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permisos parentales retribuidos y reducción de jornada hasta 16 años",
+      "etiquetas": [
+        "conciliación",
+        "familias",
+        "autónomos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliar y fortalecer los derechos de conciliación familiar, mediante la retribución de los permisos parentales y por cuidados, adaptándolos además a familias monoparentales y personas autónomas; mejorando las medidas de adaptación y reducción de jornada para el cuidado de menores y ampliándolas hasta los 16 años",
+      "pagina": 80,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más corresponsabilidad y más tiempo para vivir en igualdad: por el derecho a unos cuidados dignos, compartidos y garantizados"
+      ],
+      "numero": "326",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permisos parentales y reducción de jornada (repite la medida 325)",
+      "etiquetas": [
+        "conciliación",
+        "familias",
+        "autónomos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, nos comprometemos a defender una sanidad pública que investigue con perspectiva de género y garantice el acceso efectivo a todos los derechos sexuales y reproductivos.",
+      "pagina": 81,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más salud, más libertad para decidir: en defensa de los derechos sexuales y reproductivos de las mujeres y de una sanidad sin sesgos de género"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Sanidad con perspectiva de género y derechos reproductivos",
+      "etiquetas": [
+        "sanidad",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Blindar constitucionalmente el derecho a la interrupción voluntaria del embarazo. Impulsaremos la reforma del artículo 43 de la Constitución, iniciada en 2026, para reforzar la garantía del derecho al aborto en condiciones de igualdad en todo el territorio frente a los intentos de retroceso.",
+      "pagina": 81,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más salud, más libertad para decidir: en defensa de los derechos sexuales y reproductivos de las mujeres y de una sanidad sin sesgos de género"
+      ],
+      "numero": "327",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma del artículo 43 para incluir el aborto",
+      "etiquetas": [
+        "reforma constitucional",
+        "derechos y libertades",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar el acceso efectivo a la salud sexual y reproductiva, reforzando la educación, la prevención y la atención específica a las mujeres con discapacidad.",
+      "pagina": 81,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más salud, más libertad para decidir: en defensa de los derechos sexuales y reproductivos de las mujeres y de una sanidad sin sesgos de género"
+      ],
+      "numero": "328",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Acceso a salud sexual y reproductiva",
+      "etiquetas": [
+        "sanidad",
+        "igualdad",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fortalecer la protección frente a la explotación reproductiva, reforzando la prohibición de la gestación por sustitución y la persecución de las actividades de intermediación y promoción.",
+      "pagina": 81,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más salud, más libertad para decidir: en defensa de los derechos sexuales y reproductivos de las mujeres y de una sanidad sin sesgos de género"
+      ],
+      "numero": "329",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prohibición de la gestación por sustitución y su intermediación",
+      "etiquetas": [
+        "gestación subrogada",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar las garantías y controles en los procesos de donación de óvulos, asegurando la protección de la salud, la dignidad y los derechos de las mujeres.",
+      "pagina": 81,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más salud, más libertad para decidir: en defensa de los derechos sexuales y reproductivos de las mujeres y de una sanidad sin sesgos de género"
+      ],
+      "numero": "330",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Controles en la donación de óvulos",
+      "etiquetas": [
+        "sanidad",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar una Estrategia de Salud de las Mujeres, incorporando la perspectiva de género en la investigación, el diagnóstico y los tratamientos, con especial atención a la menopausia, la endometriosis, las enfermedades cardiovasculares, el dolor crónico y la salud mental.",
+      "pagina": 81,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más salud, más libertad para decidir: en defensa de los derechos sexuales y reproductivos de las mujeres y de una sanidad sin sesgos de género"
+      ],
+      "numero": "331",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia de Salud de las Mujeres",
+      "etiquetas": [
+        "sanidad",
+        "igualdad",
+        "salud mental"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar y desarrollar el trabajo del Observatorio de Salud de las Mujeres, para detectar, evaluar y corregir los sesgos de género presentes en el sistema sanitario.",
+      "pagina": 81,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Más salud, más libertad para decidir: en defensa de los derechos sexuales y reproductivos de las mujeres y de una sanidad sin sesgos de género"
+      ],
+      "numero": "332",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Observatorio de Salud de las Mujeres y sesgos sanitarios",
+      "etiquetas": [
+        "sanidad",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La violencia contra las mujeres es el sostén de la desigualdad y adapta sus formas a cada avance tecnológico y social.",
+      "pagina": 82,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Violencia contra las mujeres y desigualdad",
+      "etiquetas": [
+        "violencia machista",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, nos comprometemos a garantizar una protección efectiva y evitar la revictimización a través de recursos especializados, respuestas coordinadas y una evaluación permanente de la actuación institucional.",
+      "pagina": 82,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Protección de víctimas y evitar la revictimización",
+      "etiquetas": [
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobar una nueva Estrategia Estatal para combatir las Violencias Machistas, profundizando en la prevención, protección y respuesta frente a las nuevas formas de violencia contra las mujeres.",
+      "pagina": 82,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "333",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva Estrategia Estatal contra violencias machistas",
+      "etiquetas": [
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar un Plan Estatal de Formación en Violencia de Género, con formación obligatoria, continua y evaluable para operadores jurídicos, personal judicial y Fuerzas y Cuerpos de Seguridad.",
+      "pagina": 82,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "334",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Formación obligatoria en violencia de género para operadores jurídicos",
+      "etiquetas": [
+        "violencia de género",
+        "justicia",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobar una Ley Orgánica contra la Violencia Vicaria como manifestación de la violencia de género, para garantizar la protección, prevención y atención a las víctimas.",
+      "pagina": 82,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "335",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley Orgánica contra la Violencia Vicaria",
+      "etiquetas": [
+        "violencia de género",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear unidades especializadas de atención y acompañamiento a familiares y víctimas ante los feminicidios.",
+      "pagina": 82,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "336",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Unidades de atención a familiares de víctimas de feminicidio",
+      "etiquetas": [
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la valoración forense del riesgo en todos los juzgados de violencia sobre la mujer, mediante equipos multidisciplinares especializados.",
+      "pagina": 82,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "337",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Valoración forense del riesgo en juzgados de violencia",
+      "etiquetas": [
+        "violencia de género",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliar la protección a los huérfanos y huérfanas de la violencia de género, extendiendo las ayudas hasta los 26 años y reforzando los sistemas de seguimiento y evaluación.",
+      "pagina": 82,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "338",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas a huérfanos de violencia de género hasta 26 años",
+      "etiquetas": [
+        "violencia de género",
+        "infancia",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la prevención, detección y actuación frente al acoso sexual y por razón de sexo en el trabajo, garantizando protocolos efectivos, comités especializados, protección frente a represalias y atención integral a las víctimas.",
+      "pagina": 82,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "339",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Acoso sexual y por razón de sexo en el trabajo",
+      "etiquetas": [
+        "violencia machista",
+        "empleo",
+        "salud laboral"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear una red pública de salud mental especializada en trauma complejo y violencia machista, dirigida a mujeres, niñas, niños y adolescentes víctimas de cualquier forma de violencia de género.",
+      "pagina": 83,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "340",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Red pública de salud mental para víctimas de violencia",
+      "etiquetas": [
+        "salud mental",
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la atención especializada a las víctimas con discapacidad y a las mujeres mayores de 65 años, garantizando el ejercicio efectivo de sus derechos y el reconocimiento de las familias monomarentales formadas por víctimas de violencia de género y sus hijos e hijas.",
+      "pagina": 83,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "341",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Atención a víctimas con discapacidad y mayores de 65",
+      "etiquetas": [
+        "violencia de género",
+        "discapacidad",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobar una Ley Orgánica contra la Trata de Seres Humanos, y una Ley Orgánica Abolicionista del Sistema Prostitucional, prohibiendo el proxenetismo en todas sus formas y reconociendo a las personas prostituidas como víctimas con plenos derechos",
+      "pagina": 83,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "342",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Leyes contra la trata y abolicionista de la prostitución",
+      "etiquetas": [
+        "prostitución",
+        "violencia machista",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar un Programa Estatal de Liberación, Protección y Reparación para mujeres víctimas de servidumbre por deudas en el sistema prostitucional, garantizando alojamiento seguro, apoyo económico, asistencia jurídica y psicológica, alternativas laborales y protección efectiva de sus derechos.",
+      "pagina": 83,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "343",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Programa estatal para mujeres en servidumbre por deudas en prostitución",
+      "etiquetas": [
+        "prostitución",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la coeducación y la educación afectivo-sexual obligatorias en todas las etapas educativas, como herramientas fundamentales para prevenir la violencia de género y promover relaciones igualitarias.",
+      "pagina": 83,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "344",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Educación afectivo-sexual obligatoria en todas las etapas",
+      "etiquetas": [
+        "educación",
+        "violencia de género"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar un protocolo integral de prevención, detección y actuación frente a la violencia de género y la violencia vicaria en el ámbito educativo, reforzando la formación del profesorado y la coordinación con los servicios especializados.",
+      "pagina": 83,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "345",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Protocolo educativo frente a violencia de género y vicaria",
+      "etiquetas": [
+        "educación",
+        "violencia de género"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporar la agravante de género en los delitos económicos, cuando la víctima sea la esposa, exesposa o mujer con la que exista o haya existido una relación de pareja.",
+      "pagina": 83,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "346",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Agravante de género en delitos económicos",
+      "etiquetas": [
+        "violencia de género",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear un registro público de deudores por impago de pensiones de alimentos, alquileres o cuotas hipotecarias vinculadas a la vivienda familiar.",
+      "pagina": 83,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "El negacionismo mata: por una sociedad libre de violencias machistas"
+      ],
+      "numero": "347",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro público de deudores de pensiones de alimentos",
+      "etiquetas": [
+        "familias",
+        "violencia de género",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nos comprometemos a garantizar un entorno digital seguro, democrático y libre de violencia, que proteja los derechos de las mujeres y su participación en igualdad.",
+      "pagina": 84,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Entorno digital libre de violencia contra las mujeres",
+      "etiquetas": [
+        "derechos digitales",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Combatir la violencia sexual digital y el acoso, vigilancia y control digital contra las mujeres. Reforzaremos la prevención, persecución y reparación frente a los deepfakes sexuales, la difusión no consentida de imágenes íntimas, la pornovenganza, la difusión de agresiones sexuales y las nuevas formas de explotación sexual a través de plataformas digitales.",
+      "pagina": 84,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "348",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Violencia sexual digital, deepfakes e imágenes íntimas",
+      "etiquetas": [
+        "violencia machista",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y pondremos coto a la geolocalización abusiva, el uso de software espía, la suplantación de identidad, la difusión de datos personales y las campañas organizadas de hostigamiento en redes sociales.",
+      "pagina": 84,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "348",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Control digital, software espía y hostigamiento en redes",
+      "etiquetas": [
+        "violencia machista",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tipificar como delito específico la creación y difusión de deepfakes sexuales, adaptando el Código Penal a los desafíos planteados por la inteligencia artificial generativa.",
+      "pagina": 84,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "349",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Delito específico de deepfakes sexuales",
+      "etiquetas": [
+        "justicia",
+        "inteligencia artificial",
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporar las violencias digitales a la Ley Integral contra la Violencia de Género, ampliando su alcance más allá de la pareja o expareja y actualizando los protocolos de atención frente al acoso en redes, la difusión de imágenes sin consentimiento, la suplantación de identidad y el control digital.",
+      "pagina": 84,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "350",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Violencia digital en la Ley Integral de Violencia de Género",
+      "etiquetas": [
+        "violencia de género",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transponer plenamente la Directiva Europea contra la violencia hacia las mujeres, reforzando la persecución del ciberacoso, el ciberacecho, la difusión de imágenes íntimas y la incitación al odio y la violencia en línea.",
+      "pagina": 84,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "351",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transposición de la directiva europea sobre violencia contra mujeres",
+      "etiquetas": [
+        "violencia machista",
+        "unión europea",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer medidas cautelares y penas digitales, incluyendo la prohibición de acceso a redes sociales y servicios de mensajería utilizados para delinquir, así como órdenes de alejamiento digital.",
+      "pagina": 84,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "352",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Penas digitales y órdenes de alejamiento digital",
+      "etiquetas": [
+        "justicia",
+        "derechos digitales",
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Extender el modelo abolicionista a la explotación sexual en entornos digitales y combatir el proxenetismo digital y las nuevas formas de explotación sexual en internet, sancionando a las plataformas que obtienen beneficios de estas prácticas y reforzando la protección de las víctimas.",
+      "pagina": 84,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "353",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sanciones a plataformas por explotación sexual en internet",
+      "etiquetas": [
+        "prostitución",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar que la inteligencia artificial y los algoritmos respeten la igualdad entre mujeres y hombres, previniendo sesgos discriminatorios en ámbitos como el empleo, la contratación, el acceso al crédito y los servicios públicos.",
+      "pagina": 84,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "354",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Sesgos de género en algoritmos e inteligencia artificial",
+      "etiquetas": [
+        "inteligencia artificial",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exigir una mayor responsabilidad a las plataformas digitales, garantizando la retirada inmediata de contenidos íntimos difundidos sin consentimiento y sancionando la difusión o monetización de la violencia digital machista.",
+      "pagina": 84,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "355",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Responsabilidad de plataformas y retirada de contenidos íntimos",
+      "etiquetas": [
+        "derechos digitales",
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Combatir la difusión de estereotipos de género y la hipersexualización en los entornos digitales, protegiendo especialmente a niñas y adolescentes frente a los impactos sobre su salud mental, autoestima y bienestar.",
+      "pagina": 85,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "356",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estereotipos e hipersexualización en entornos digitales",
+      "etiquetas": [
+        "derechos digitales",
+        "infancia",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar una publicidad digital responsable, evitando la financiación de contenidos que promuevan el odio o la discriminación contra las mujeres.",
+      "pagina": 85,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "357",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Publicidad digital y contenidos de odio contra mujeres",
+      "etiquetas": [
+        "publicidad",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la protección de niñas y adolescentes en los entornos digitales, restringiendo los algoritmos adictivos y exigiendo transparencia sobre los contenidos manipulados mediante filtros o inteligencia artificial.",
+      "pagina": 85,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "358",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Algoritmos adictivos y contenidos manipulados para menores",
+      "etiquetas": [
+        "infancia",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyar los litigios estratégicos contra las violencias digitales, fortaleciendo la protección jurídica de las víctimas.",
+      "pagina": 85,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "359",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a litigios contra violencias digitales",
+      "etiquetas": [
+        "justicia",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporar la violencia digital a las estadísticas oficiales, mejorando su medición y seguimiento en los sistemas públicos de información.",
+      "pagina": 85,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Iguales también en la red: más derechos y más seguridad para las mujeres en el entorno digital"
+      ],
+      "numero": "360",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Violencia digital en estadísticas oficiales",
+      "etiquetas": [
+        "violencia machista",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La violencia y la ciberviolencia deben abordarse como una cuestión estructural de igualdad y democracia, y no como una suma de episodios aislados.",
+      "pagina": 85,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Igualdad en las instituciones, voz en la vida pública"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Violencia política contra mujeres como problema estructural",
+      "etiquetas": [
+        "igualdad",
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, nos comprometemos a reforzar los mecanismos de prevención, protección y respuesta, para que ninguna mujer tenga que elegir entre su seguridad y su participación en la vida pública.",
+      "pagina": 85,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Igualdad en las instituciones, voz en la vida pública"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Protección de mujeres con participación pública",
+      "etiquetas": [
+        "igualdad",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear un Cuerpo Superior de Especialistas en Políticas de Igualdad en la Administración General del Estado, garantizando una aplicación profesional, estable y transversal de las políticas de igualdad.",
+      "pagina": 85,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Igualdad en las instituciones, voz en la vida pública"
+      ],
+      "numero": "361",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cuerpo Superior de Especialistas en Igualdad",
+      "etiquetas": [
+        "función pública",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear un Observatorio sobre Violencia Política contra las Mujeres y Desinformación de Género, para investigar, analizar y prevenir estas formas de violencia.",
+      "pagina": 85,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Igualdad en las instituciones, voz en la vida pública"
+      ],
+      "numero": "362",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Observatorio sobre violencia política contra las mujeres",
+      "etiquetas": [
+        "igualdad",
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la protección de las mujeres con presencia pública (periodistas, representantes políticas, activistas y creadoras de contenido) frente al odio y el silenciamiento digital, garantizando asesoramiento jurídico, apoyo psicológico, acompañamiento especializado y mecanismos eficaces frente al acoso y la violencia digital, al tiempo que se facilita la identificación de los autores de conductas delictivas en redes y plataformas digitales.",
+      "pagina": 85,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Igualdad en las instituciones, voz en la vida pública"
+      ],
+      "numero": "363",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Protección de mujeres con presencia pública frente al acoso",
+      "etiquetas": [
+        "igualdad",
+        "derechos digitales",
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar el seguimiento y cumplimiento de la Ley de Paridad, mediante la elaboración de informes públicos periódicos sobre la representación equilibrada de mujeres y hombres en los ámbitos político, económico e institucional.",
+      "pagina": 86,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres",
+        "Igualdad en las instituciones, voz en la vida pública"
+      ],
+      "numero": "364",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Informes periódicos sobre la Ley de Paridad",
+      "etiquetas": [
+        "igualdad",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde 2018, el Gobierno progresista ha demostrado que la mejor respuesta al odio es más democracia, más derechos y más libertades. También en el mundo, donde hemos situado a España en el lado correcto de la historia: con Ucrania frente a Putin, con el reconocimiento del Estado de Palestina y con la defensa de la paz en Gaza, y sin aceptar el 5 % del PIB en gasto militar, porque la seguridad de Europa no puede construirse a costa de nuestro Estado del bienestar.",
+      "pagina": 88,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Ucrania, Palestina y rechazo al 5 % en gasto militar",
+      "etiquetas": [
+        "política exterior",
+        "defensa",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los socialistas proponemos avanzar con nuevas reformas acordadas que refuercen el carácter social de la Constitución y amplíen los derechos fundamentales.",
+      "pagina": 89,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Reformas constitucionales de carácter social",
+      "etiquetas": [
+        "reforma constitucional",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC, garantizando el derecho de las personas mayores a una pensión digna, suficiente y actualizada.",
+      "pagina": 89,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+      ],
+      "numero": "365",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pensiones públicas y revalorización con el IPC en la Constitución",
+      "etiquetas": [
+        "pensiones",
+        "reforma constitucional",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la garantía constitucional de los derechos sociales, avanzando en la protección efectiva como derechos fundamentales de la salud y la vivienda",
+      "pagina": 89,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+      ],
+      "numero": "366",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Salud y vivienda como derechos fundamentales",
+      "etiquetas": [
+        "reforma constitucional",
+        "vivienda",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reconocer constitucionalmente el derecho a la seguridad climática y el acceso al agua potable.",
+      "pagina": 89,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+      ],
+      "numero": "367",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Seguridad climática y agua potable en la Constitución",
+      "etiquetas": [
+        "reforma constitucional",
+        "medio ambiente",
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Blindar los principales avances en derechos y libertades civiles, garantizando la máxima protección jurídica del matrimonio igualitario, el derecho a la interrupción voluntaria del embarazo y la eutanasia.",
+      "pagina": 89,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+      ],
+      "numero": "368",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Protección jurídica del matrimonio igualitario, aborto y eutanasia",
+      "etiquetas": [
+        "derechos y libertades",
+        "lgtbi",
+        "reforma constitucional"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Profundizar en el reconocimiento pleno de los derechos de las personas con discapacidad, consolidando la actualización constitucional iniciada con la reforma del artículo 49.",
+      "pagina": 89,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+      ],
+      "numero": "369",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Derechos de las personas con discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "reforma constitucional"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incluir en el código civil la figura de la unión de amistad. Crearemos una nueva figura jurídica de unión de amistad que dotará de un amparo legal a aquellas situaciones en las que personas unidas por un vínculo de amistad o compañerismo deciden asumir un compromiso mutuo de cuidados. La constitución de esta unión permitirá desplegar beneficios para quienes formen parte de ellos.",
+      "pagina": 89,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+      ],
+      "numero": "370",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Figura jurídica de unión de amistad en el Código Civil",
+      "etiquetas": [
+        "familias",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear un escaño ciudadano en el Congreso y en el Senado, sin voto, para que la sociedad civil pueda preguntar al Gobierno y presentar iniciativas y enmiendas, y reducir las firmas necesarias para la iniciativa legislativa popular.",
+      "pagina": 90,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+      ],
+      "numero": "371",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Escaño ciudadano y menos firmas para la ILP",
+      "etiquetas": [
+        "participación ciudadana",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la participación juvenil y la profundización democrática, rebajando la edad de voto a los 16 años, fortaleciendo los consejos de juventud y ampliando los mecanismos de participación ciudadana en las decisiones públicas.",
+      "pagina": 90,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+      ],
+      "numero": "372",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Voto a los 16 años y participación ciudadana",
+      "etiquetas": [
+        "sistema electoral",
+        "juventud",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Suprimir los aforamientos de los cargos públicos para los delitos ajenos al ejercicio de su cargo.",
+      "pagina": 90,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Reforzar la Constitución y el ordenamiento jurídico para una nueva generación de derechos"
+      ],
+      "numero": "373",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de aforamientos para delitos ajenos al cargo",
+      "etiquetas": [
+        "instituciones",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la participación juvenil y la profundización democrática, fortaleciendo los consejos de juventud, apoyando el asociacionismo juvenil y rebajando la edad de voto a los 16 años.",
+      "pagina": 90,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Juventud"
+      ],
+      "numero": "374",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Voto a los 16 años y asociacionismo juvenil",
+      "etiquetas": [
+        "juventud",
+        "sistema electoral",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear la figura del Defensor de las Generaciones Futuras, vinculada al Consejo de la Juventud de España para garantizar que las decisiones públicas incorporen una visión de largo plazo y de justicia intergeneracional.",
+      "pagina": 90,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Juventud"
+      ],
+      "numero": "375",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Defensor de las Generaciones Futuras",
+      "etiquetas": [
+        "juventud",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Regular por ley el Consejo de la Juventud de España y establecer un marco jurídico para los consejos de juventud autonómicos y locales que garantice su personalidad jurídica, independencia, autonomía, autogestión, pluralidad y financiación estable, reconociéndolos como interlocutores institucionales de la juventud y vinculando a este sistema de participación la figura del Defensor de las Generaciones Futuras.",
+      "pagina": 90,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Juventud"
+      ],
+      "numero": "376",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley del Consejo de la Juventud y consejos territoriales",
+      "etiquetas": [
+        "juventud",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Combatir la precariedad laboral juvenil y mejorar las condiciones de trabajo, aprobando el Estatuto del Becario.",
+      "pagina": 91,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Juventud"
+      ],
+      "numero": "377",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estatuto del Becario y precariedad juvenil",
+      "etiquetas": [
+        "juventud",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la educación pública y la igualdad de oportunidades, aumentando la financiación educativa y ampliando becas y ayudas.",
+      "pagina": 91,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Juventud"
+      ],
+      "numero": "378",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Financiación educativa y becas para jóvenes",
+      "etiquetas": [
+        "educación",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fortalecer la sanidad pública y la atención a la salud mental, mejorando el acceso de la juventud a la atención psicológica.",
+      "pagina": 91,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Juventud"
+      ],
+      "numero": "379",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Atención psicológica para la juventud",
+      "etiquetas": [
+        "salud mental",
+        "juventud",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover el acceso a la cultura, el deporte y un ocio saludable.",
+      "pagina": 91,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Juventud"
+      ],
+      "numero": "380",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Acceso juvenil a cultura, deporte y ocio",
+      "etiquetas": [
+        "juventud",
+        "cultura",
+        "deporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar el acceso a una vivienda asequible y facilitar la emancipación juvenil.",
+      "pagina": 91,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Juventud"
+      ],
+      "numero": "381",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Vivienda asequible y emancipación juvenil",
+      "etiquetas": [
+        "vivienda",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Casi cincuenta años después, el reto no es recentralizar ni fragmentar, sino hacer que el Estado autonómico funcione mejor: con más cooperación entre administraciones, con instituciones que representen de verdad a los territorios y con un compromiso firme con la igualdad de derechos, se viva donde se viva.",
+      "pagina": 91,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Un Estado autonómico que funciona: cooperación, autogobierno y cohesión"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo autonómico sin recentralizar ni fragmentar",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reformar el Senado para convertirlo en una auténtica Cámara de representación territorial, haciendo coincidir sus circunscripciones con el ámbito autonómico.",
+      "pagina": 91,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Un Estado autonómico que funciona: cooperación, autogobierno y cohesión"
+      ],
+      "numero": "382",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma del Senado con circunscripciones autonómicas",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones",
+        "sistema electoral"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Institucionalizar la Conferencia de Presidentes. La convocaremos con una periodicidad fija y un reglamento que garantice el seguimiento de sus acuerdos, y reforzaremos las conferencias sectoriales como espacio ordinario de cogobernanza.",
+      "pagina": 91,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Un Estado autonómico que funciona: cooperación, autogobierno y cohesión"
+      ],
+      "numero": "383",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Conferencia de Presidentes con periodicidad fija",
+      "etiquetas": [
+        "organización territorial",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobar una ley de cooperación interadministrativa. Ordenará los instrumentos de colaboración entre el Estado, las comunidades autónomas y los gobiernos locales, incluida la respuesta coordinada ante emergencias, y reducirá la conflictividad competencial.",
+      "pagina": 91,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Un Estado autonómico que funciona: cooperación, autogobierno y cohesión"
+      ],
+      "numero": "384",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de cooperación entre administraciones",
+      "etiquetas": [
+        "organización territorial",
+        "emergencias",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reconocer la pluralidad lingüística en las instituciones comunes. Consolidaremos el uso de las lenguas cooficiales en las Cortes Generales y lo extenderemos a la atención de la Administración General del Estado en los territorios donde son oficiales.",
+      "pagina": 91,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Un Estado autonómico que funciona: cooperación, autogobierno y cohesión"
+      ],
+      "numero": "385",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Lenguas cooficiales en Cortes y Administración del Estado",
+      "etiquetas": [
+        "lenguas",
+        "instituciones",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la autonomía local. Actualizaremos la Ley Reguladora de las Bases del Régimen Local para clarificar las competencias municipales y el papel de diputaciones, cabildos, consejos insulares y áreas metropolitanas, de modo que puedan prestar con garantías los servicios que la ciudadanía les reclama.",
+      "pagina": 91,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Un Estado autonómico que funciona: cooperación, autogobierno y cohesión"
+      ],
+      "numero": "386",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la Ley de Bases del Régimen Local",
+      "etiquetas": [
+        "municipios",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Atender las singularidades territoriales. Desarrollaremos plenamente el Régimen Económico y Fiscal de Canarias y su condición de región ultraperiférica, y aprobaremos un plan integral para Ceuta y Melilla que refuerce su conectividad, sus servicios públicos y su desarrollo económico.",
+      "pagina": 92,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Un Estado autonómico que funciona: cooperación, autogobierno y cohesión"
+      ],
+      "numero": "387",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Régimen fiscal canario y plan para Ceuta y Melilla",
+      "etiquetas": [
+        "insularidad",
+        "ceuta y melilla",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "España necesita una migración ordenada, legal y segura, que responda a sus necesidades demográficas y económicas.",
+      "pagina": 92,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Impulsar una política migratoria regular, humana y eficaz"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Migración legal ligada a necesidades demográficas y económicas",
+      "etiquetas": [
+        "inmigración",
+        "población"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Queremos seguir avanzando en esta dirección: simplificar los trámites, dar seguridad jurídica, impulsar la contratación en origen, agilizar la homologación de títulos y facilitar el acceso al empleo, para aprovechar el talento de quienes vienen a vivir y trabajar aquí.",
+      "pagina": 92,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Impulsar una política migratoria regular, humana y eficaz"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Trámites, contratación en origen y homologación de títulos",
+      "etiquetas": [
+        "inmigración",
+        "empleo",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ante el aumento de las crisis humanitarias, España seguirá siendo un puerto seguro para las personas refugiadas, con una política migratoria unida a la cooperación al desarrollo y a la defensa del derecho internacional.",
+      "pagina": 92,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Impulsar una política migratoria regular, humana y eficaz"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Acogida de refugiados y cooperación al desarrollo",
+      "etiquetas": [
+        "asilo",
+        "cooperación al desarrollo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La integración es un compromiso de doble sentido, con derechos y obligaciones para todos.",
+      "pagina": 92,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Impulsar una política migratoria regular, humana y eficaz"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Integración con derechos y obligaciones",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desplegar el Plan de Integración y Ciudadanía 2026-2030, con una dotación inicial de 500 millones de euros y la colaboración de las administraciones públicas y los agentes sociales, para favorecer la integración y la convivencia, promoviendo la igualdad de derechos, el cumplimiento de las obligaciones y la participación de las personas migrantes en la sociedad.",
+      "pagina": 92,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Impulsar una política migratoria regular, humana y eficaz"
+      ],
+      "numero": "388",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de Integración 2026-2030 con 500 millones",
+      "etiquetas": [
+        "inmigración",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliar las vías legales y seguras de protección internacional y reforzar el sistema público de acogida y asilo, con mecanismos para el reasentamiento y visados humanitarios, financiación estable y atención especializada en salud mental, educación, traducción e integración social.",
+      "pagina": 92,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Impulsar una política migratoria regular, humana y eficaz"
+      ],
+      "numero": "389",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Vías legales de asilo, reasentamiento y visados humanitarios",
+      "etiquetas": [
+        "asilo",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la integración participación social, cívica y política de las personas inmigrantes, apoyando el asociacionismo, reforzando los espacios de participación ciudadana e impulsando su implicación en la vida pública.",
+      "pagina": 93,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Impulsar una política migratoria regular, humana y eficaz"
+      ],
+      "numero": "390",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación social y política de personas inmigrantes",
+      "etiquetas": [
+        "inmigración",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar un sistema de acogida digno, robusto y una protección internacional efectiva, reforzando la protección especialmente de los niños, niñas y adolescentes que lleguen solos, situando siempre el interés superior del menor en el centro de nuestra política.",
+      "pagina": 93,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Impulsar una política migratoria regular, humana y eficaz"
+      ],
+      "numero": "391",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Acogida y protección de menores migrantes no acompañados",
+      "etiquetas": [
+        "asilo",
+        "infancia",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nadie debe sufrir discriminación por su sexo, origen étnico o racial, orientación o identidad sexual, expresión de género, discapacidad o edad.",
+      "pagina": 93,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Fomentar la diversidad, luchar contra el racismo y garantizar la igualdad de trato"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Principio de no discriminación",
+      "etiquetas": [
+        "igualdad",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguiremos combatiendo los bulos que culpan a las personas migrantes de problemas sociales complejos, con información rigurosa y basada en datos, y daremos a conocer su contribución a nuestra economía y a nuestra sociedad.",
+      "pagina": 93,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Fomentar la diversidad, luchar contra el racismo y garantizar la igualdad de trato"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Información sobre la contribución de los inmigrantes frente a informaciones falsas",
+      "etiquetas": [
+        "inmigración",
+        "medios de comunicación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar plenamente la Ley Zerolo, poniendo en funcionamiento la Autoridad Independiente para la Igualdad de Trato y la No Discriminación.",
+      "pagina": 93,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Fomentar la diversidad, luchar contra el racismo y garantizar la igualdad de trato"
+      ],
+      "numero": "392",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Puesta en marcha de la Autoridad de Igualdad de Trato",
+      "etiquetas": [
+        "igualdad",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la aprobación de la Estrategia Estatal para la Igualdad de Trato y la No Discriminación, reforzar la lucha contra los discursos de odio y la discriminación en el entorno digital, combatiendo los bulos y la desinformación.",
+      "pagina": 93,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Fomentar la diversidad, luchar contra el racismo y garantizar la igualdad de trato"
+      ],
+      "numero": "393",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia Estatal de Igualdad de Trato y discursos de odio",
+      "etiquetas": [
+        "igualdad",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoveremos un Pacto de Estado contra los Discursos y Delitos de Odio con la participación de las fuerzas políticas y las organizaciones sociales para reforzar el compromiso político y social con la prevención, la sensibilización y la protección de las víctimas de discursos y delitos de odio hacia los colectivos vulnerables.",
+      "pagina": 93,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Fomentar la diversidad, luchar contra el racismo y garantizar la igualdad de trato"
+      ],
+      "numero": "394",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pacto de Estado contra discursos y delitos de odio",
+      "etiquetas": [
+        "derechos humanos",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estableceremos una dotación presupuestaria adecuada y suficiente para la Autoridad Independiente para la Igualdad de Trato y la No Discriminación (AINODI), garantizando el correcto desempeño de sus funcione",
+      "pagina": 93,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Fomentar la diversidad, luchar contra el racismo y garantizar la igualdad de trato"
+      ],
+      "numero": "395",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Presupuesto de la Autoridad de Igualdad de Trato",
+      "etiquetas": [
+        "igualdad",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Continuaremos impulsando políticas públicas contra el antigitanismo, aprobando el segundo plan operativo de la Estrategia Nacional para la Igualdad, Inclusión y Participación del Pueblo Gitano 2021-2030 y promoviendo su participación en la vida pública y en los espacios de representación.",
+      "pagina": 93,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Fomentar la diversidad, luchar contra el racismo y garantizar la igualdad de trato"
+      ],
+      "numero": "396",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Segundo plan operativo de la estrategia del pueblo gitano",
+      "etiquetas": [
+        "igualdad",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos, junto a las organizaciones representativas del pueblo gitano, una Comisión Estatal de Trabajo para desarrollar la igualdad de trato, la participación institucional, la inclusión social y el reconocimiento cultural, incluyendo un Plan Estatal para la modernización y continuidad del comercio ambulante.",
+      "pagina": 94,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Fomentar la diversidad, luchar contra el racismo y garantizar la igualdad de trato"
+      ],
+      "numero": "397",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comisión estatal con el pueblo gitano y comercio ambulante",
+      "etiquetas": [
+        "igualdad",
+        "comercio"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar la Estrategia Nacional del Pueblo Gitano 2021-2030 con su segundo plan operativo y más financiación, reforzando la lucha contra el antigitanismo, el Instituto de Cultura Gitana y el Consejo Estatal del Pueblo Gitano.",
+      "pagina": 94,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Fomentar la diversidad, luchar contra el racismo y garantizar la igualdad de trato"
+      ],
+      "numero": "398",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Financiación de la Estrategia Nacional del Pueblo Gitano",
+      "etiquetas": [
+        "igualdad",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Porque no basta con alejar a los menores de las redes: las plataformas tienen que ser seguras por diseño, y lo que es delito fuera de internet no puede quedar impune dentro.",
+      "pagina": 94,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Plataformas seguras por diseño y delitos en internet",
+      "etiquetas": [
+        "derechos digitales",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ahora daremos el siguiente paso: en el primer año de legislatura aprobaremos la ley de protección de los menores en los entornos digitales y la ley de gobernanza de la inteligencia artificial.",
+      "pagina": 94,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Leyes de menores en entornos digitales y gobernanza de IA",
+      "etiquetas": [
+        "derechos digitales",
+        "inteligencia artificial",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y las denuncias de las organizaciones de protección de la infancia tendrán prioridad, para que las plataformas retiren cuanto antes los contenidos y las cuentas que ponen en riesgo a niños y niñas.",
+      "pagina": 94,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prioridad a denuncias de organizaciones de infancia",
+      "etiquetas": [
+        "infancia",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No estamos en contra de la tecnología, estamos a favor de que tenga reglas.",
+      "pagina": 94,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Regulación de la tecnología",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer a 16 años la edad mínima para usar redes sociales.",
+      "pagina": 95,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente",
+        "Proteger a la infancia y la juventud en los entornos digitales"
+      ],
+      "numero": "399",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Edad mínima de 16 años para redes sociales",
+      "etiquetas": [
+        "infancia",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobar en el primer año de legislatura la Ley de protección de las personas menores de edad en los entornos digitales. La edad mínima solo podrá rebajarse cuando las plataformas demuestren que son seguras por defecto. La ley incluirá la verificación obligatoria de la edad, la restricción de los diseños y algoritmos adictivos y la responsabilidad de los directivos por los delitos que toleran en sus plataformas.",
+      "pagina": 95,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente",
+        "Proteger a la infancia y la juventud en los entornos digitales"
+      ],
+      "numero": "399",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de menores en entornos digitales y verificación de edad",
+      "etiquetas": [
+        "infancia",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Hacer invisibles a los menores para los adultos desconocidos. Obligar por ley a que el contenido de las cuentas de menores sea invisible por defecto para los adultos que no conocen: sin comentarios de quienes no les siguen, sin aparecer en las recomendaciones de tipo “Para ti” y sin plantillas de edad y foto ni tendencias de “novio virtual” en sus cuentas. Pedir además expresamente a la Comisión Europea que lo exija en el procedimiento abierto contra TikTok en el marco del Reglamento de Servicios Digitales.",
+      "pagina": 95,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente",
+        "Proteger a la infancia y la juventud en los entornos digitales"
+      ],
+      "numero": "400",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cuentas de menores invisibles para adultos desconocidos",
+      "etiquetas": [
+        "infancia",
+        "derechos digitales",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Verificar la edad sin entregar datos a las plataformas. Generalizar una herramienta pública y anónima de verificación de la edad, integrada en la cartera digital, para que las plataformas comprueben que el usuario tiene la edad mínima sin conocer su identidad.",
+      "pagina": 95,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente",
+        "Proteger a la infancia y la juventud en los entornos digitales"
+      ],
+      "numero": "401",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Herramienta pública y anónima de verificación de edad",
+      "etiquetas": [
+        "derechos digitales",
+        "infancia",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proteger a los menores frente a los chatbots de inteligencia artificial. Restringir el uso libre de los asistentes conversacionales de IA a menores de 16 años sin consentimiento parental, y obligar a las empresas a detectar conductas de riesgo (autolesiones, dependencia emocional o contenidos sexuales) y a activar alertas.",
+      "pagina": 95,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente",
+        "Proteger a la infancia y la juventud en los entornos digitales"
+      ],
+      "numero": "402",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Restricción de chatbots de IA a menores de 16 años",
+      "etiquetas": [
+        "inteligencia artificial",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Liderar la protección de la infancia en Europa y en Naciones Unidas. Impulsar una edad mínima común de acceso a las redes sociales en toda la Unión Europea y ampliar la coalición internacional para proteger a la infancia frente a la inteligencia artificial.",
+      "pagina": 95,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente",
+        "Proteger a la infancia y la juventud en los entornos digitales"
+      ],
+      "numero": "403",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Edad mínima común en la UE para redes sociales",
+      "etiquetas": [
+        "unión europea",
+        "infancia",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dar rango de ley a la Carta de Derechos Digitales. Convertir en ley la Carta de Derechos Digitales de 2021, incluido el derecho a ser atendido por una persona en cualquier servicio público y a que ninguna decisión que nos afecte se tome solo de forma automatizada, sin revisión humana.",
+      "pagina": 95,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente",
+        "Derechos en la era de la inteligencia artificial"
+      ],
+      "numero": "404",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rango de ley para la Carta de Derechos Digitales",
+      "etiquetas": [
+        "derechos digitales",
+        "inteligencia artificial",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proteger nuestra imagen y nuestra voz frente a la inteligencia artificial. Aprobar una nueva Ley Orgánica del derecho al honor, a la intimidad y a la propia imagen adaptada a la realidad digital, que proteja frente al uso no consentido de la imagen y la voz, limite la reutilización de contenidos privados publicados en redes y refuerce las garantías para los menores aunque haya consentimiento formal.",
+      "pagina": 95,
+      "apartado": [
+        "Calidad democrática, convivencia y derechos",
+        "Una tecnología al servicio de la gente",
+        "Derechos en la era de la inteligencia artificial"
+      ],
+      "numero": "405",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva ley orgánica de honor, intimidad e imagen",
+      "etiquetas": [
+        "derechos digitales",
+        "inteligencia artificial",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

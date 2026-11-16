@@ -1,0 +1,96 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Infobae (despacho etiquetado EuropaPress), publicado el 2026-11-14T14:01Z, mitin de Santiago. Son dos frases entrecomilladas seguidas y atribuidas a Feijóo («Conmigo la vivienda estará dentro de una Vicepresidencia porque es el mayor problema de España» y «Pero lo importante no es que esté dentro de una Vicepresidencia, lo importante es que vamos a hacer un millón de viviendas»), con el texto exacto. La pp.es del mismo acto lo confirma en tercera persona. Tema, fecha y cargo correctos (número 1 por Madrid, según partidos/pp.md).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "comprobada",
+      "motivo": "Nota de pp.es publicada el 2026-11-13, mitin de Madrid con NNGG. La frase está literal entre comillas y atribuida a Feijóo, como su «propuesta para el primer sueldo de los jóvenes». La cita sola no dice que se refiere al primer sueldo de los jóvenes: lo aclara la nota.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "comprobada",
+      "motivo": "Infobae (Información de Europa Press), publicado el 2026-11-16, visita a una explotación de Lleida. La cita está literal entre comillas y atribuida a Feijóo. pp.es del mismo día recoge la misma propuesta.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "comprobada",
+      "motivo": "Infobae (Europa Press), publicado el 2026-11-16. La cita está literal entre comillas y atribuida a Feijóo. Es una postura sobre la expulsión de inmigrantes que no respeten las leyes.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 5,
+      "veredicto": "comprobada",
+      "motivo": "pp.es, publicado el 2026-11-16 (acto de Lleida). La frase está literal entre comillas y atribuida a Feijóo («avisa»); Infobae/Europa Press la recoge en dos fragmentos. Es una postura genérica, sin medida concreta; está bien marcada como posicion con medida_concreta false.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 6,
+      "veredicto": "comprobada",
+      "motivo": "Infobae (Europa Press), publicado el 2026-11-16. Está literal entre comillas y atribuida al «candidato del PP a la Presidencia del Gobierno».",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 7,
+      "veredicto": "corregida",
+      "motivo": "pp.es, publicado el 2026-11-14 (mitin de Santiago). El texto está literal entre comillas y atribuido a Feijóo («advierte»). La cita sola no dice de quién es la gestión que se audita («lo que han tocado y saqueado»); según la nota, es el Gobierno de Sánchez. Se precisa la nota para que se entienda sola.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Auditoría de la gestión del Gobierno saliente desde el primer Consejo de Ministros"
+    },
+    {
+      "n": 8,
+      "veredicto": "comprobada",
+      "motivo": "pp.es, publicado el 2026-11-14. Está literal entre comillas y atribuida a Feijóo («dice»). Incluye el lema «El cambio es decencia», pero lo principal es un compromiso concreto: no indultar a condenados por corrupción.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 9,
+      "veredicto": "comprobada",
+      "motivo": "pp.es, publicado el 2026-11-10T12:57 (presentación del programa con Alma Ezcurra), dentro del periodo. La cita está literal entre comillas y atribuida a Feijóo («afirma»).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 10,
+      "veredicto": "comprobada",
+      "motivo": "pp.es, publicado el 2026-11-10. La cita está literal entre comillas y atribuida a Feijóo («afirma»). En la nota va justo después de que «su Gobierno auditará el gasto de la administración en los primeros cien días»; esa auditoría no forma parte de la cita, así que posicion con medida_concreta false es correcto.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 11,
+      "veredicto": "comprobada",
+      "motivo": "pp.es, publicado el 2026-11-12, reunión en Girona con sindicatos y asociaciones de las FyCSE. Es texto literal de la nota oficial del PP, en tercera persona, sin entrecomillado, y está bien atribuido a «el partido». Nombra medidas comprobables (multas de hasta 3.000 euros, agravante por rostro oculto).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 12,
+      "veredicto": "corregida",
+      "motivo": "pp.es, publicado el 2026-11-16 (Vallfogona de Balaguer, Lleida). Es texto literal de la nota oficial del PP; solo «será derogada» es palabra textual de Feijóo. Empieza por «Señala que» y el sujeto implícito es Feijóo, no el partido: quien lea la cita sola no sabe quién «asista» al Consejo Europeo. Se mantiene como texto oficial del partido y se precisa la nota.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Feijóo se sumará a la moratoria regulatoria europea y derogará las exigencias añadidas por España"
+    },
+    {
+      "n": 13,
+      "veredicto": "corregida",
+      "motivo": "pp.es, publicado el 2026-11-16. Es texto literal de la nota oficial del PP; solo «el que reduce la contaminación debería de cobrar» es palabra textual de Feijóo. Empieza por «Apuesta por», con Feijóo como sujeto implícito. Se precisa la nota para que se entienda quién hace la propuesta. La cifra de 40.000 millones está en la página.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Feijóo propone agricultura del carbono y un Pacto Nacional del Agua con 40.000 millones en infraestructuras"
+    }
+  ],
+  "notas": "Robots.txt leídos: infobae.com (User-agent: *, solo prohíbe /buscador) y pp.es (permite todo). Ninguno nombra a agentes de IA. Se abrieron las 7 urls con curl y se cotejó el texto extraído palabra por palabra. Fechas tomadas de datePublished / article:published_time: todas entre el 10 y el 16 de noviembre de 2026. Las citas 11, 12 y 13 son texto oficial del PP en tercera persona (resumen de la oficina de prensa del partido), no palabras textuales de Feijóo. Las 12 y 13 empiezan con un verbo cuyo sujeto implícito es Feijóo, por eso conviene que la nota lo diga. Si se prefiere usar solo entrecomillados del candidato, esas tres citas tendrían que salir; esa decisión la toma quien edita."
+}

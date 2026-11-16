@@ -1,0 +1,27 @@
+{
+  "resumenes": [
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone fijar por ley una inversión pública en ciencia de al menos el 1,25 % del PIB en 2030.",
+          "apoyos": ["c-ebc4d70716", "c-0f383e2c00"]
+        },
+        {
+          "texto": "En cultura plantea elegir por concurso de méritos a los directores de instituciones culturales y un incentivo fiscal del 35 % al cine.",
+          "apoyos": ["c-c1f054459b", "c-594c650193", "c-6acba045e6"]
+        },
+        {
+          "texto": "Pide licencia y pago por las obras con que se entrena la IA y un registro de los algoritmos públicos.",
+          "apoyos": ["c-93b283be8b", "c-e94335cf83", "c-05ad9f6880"]
+        },
+        {
+          "texto": "En deporte propone computar a efectos de cotización la carrera de los deportistas de alto nivel desde 1980 y un IVA del 10 % en servicios deportivos.",
+          "apoyos": ["c-845ece1843", "c-f3bd805529"]
+        }
+      ],
+      "nota": "Las 123 citas son de programa (varios documentos sectoriales de estas elecciones) y abarcan ciencia, cultura, IA y administración digital, ciberseguridad y deporte. Con el límite de 90 palabras se ha elegido una medida con cifra por bloque; quedan fuera, entre otras, la presidencia del CSIC por concurso internacional, la Agencia Nacional de Ciberseguridad Independiente, el IVA del 10 % para la música grabada y los usos de IA en sanidad, Hacienda o policía, que pertenecen más a otros temas."
+    }
+  ]
+}

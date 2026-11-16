@@ -1,0 +1,339 @@
+{
+  "fuente": "d21-deporte",
+  "partido": "d21",
+  "paginas": [
+    1,
+    4
+  ],
+  "citas": [
+    {
+      "cita": "Nuestro país es, y debe seguir siendo, una potencia deportiva mundial.",
+      "pagina": 2,
+      "apartado": [
+        "Deporte para un país sano y vital"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "España como potencia deportiva mundial",
+      "etiquetas": [
+        "deporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Queremos construir una estructura sólida, profesionalizada y equitativa que respalde a nuestros atletas desde la infancia hasta la jubilación, consolidando al mismo tiempo el deporte base como pilar de salud pública.",
+      "pagina": 2,
+      "apartado": [
+        "Deporte para un país sano y vital"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Apoyo a deportistas en toda su vida y deporte base",
+      "etiquetas": [
+        "deporte",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos una ley integral que reconozca a efectos de cotización los años de carrera de todos los deportistas de alto nivel y de selección nacional desde 1980, aunque no tuvieran contrato laboral. El Estado asumirá el coste.",
+      "pagina": 2,
+      "apartado": [
+        "Un estatuto del deportista para nuestra élite",
+        "Jubilación Justa para Quienes Nos Representaron"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley que reconoce cotización a deportistas de alto nivel desde 1980",
+      "etiquetas": [
+        "deporte",
+        "pensiones",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Bases de Cotización Justas y Reparación Automática: los años reconocidos se calcularán según el importe real de las becas percibidas, actualizado a valor de hoy, para que cada deportista cotice por lo que recibió.",
+      "pagina": 2,
+      "apartado": [
+        "Un estatuto del deportista para nuestra élite",
+        "Bases de Cotización Justas y Reparación Automática"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cálculo de la cotización según las becas percibidas",
+      "etiquetas": [
+        "deporte",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y recalcularemos de oficio las pensiones de quienes ya estén jubilados, recayendo en la Administración (a través de sus archivos, los del COE y las federaciones) la carga de acreditar la trayectoria, liberando al deportista de trámites burocráticos.",
+      "pagina": 2,
+      "apartado": [
+        "Un estatuto del deportista para nuestra élite",
+        "Bases de Cotización Justas y Reparación Automática"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Recálculo de oficio de pensiones de deportistas jubilados",
+      "etiquetas": [
+        "deporte",
+        "pensiones",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ningún Deportista de Alto Nivel (DAN) volverá a competir sin cotizar: estará dado de alta en la Seguridad Social desde el mismo momento en que su federación lo proponga como DAN, y el Consejo Superior de Deportes emitirá una certificación digital que acreditará después esa cotización, sin papeleo para el deportista. La cotización será proporcional al importe de su beca y la abonará la entidad otorgante.",
+      "pagina": 2,
+      "apartado": [
+        "Un estatuto del deportista para nuestra élite",
+        "Cotización desde el Primer Día para Nuestros Deportistas de Alto Nivel"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Alta automática en la Seguridad Social de deportistas de alto nivel",
+      "etiquetas": [
+        "deporte",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y equipararemos a los deportistas paralímpicos con los olímpicos en los criterios de acceso a la condición de DAN.",
+      "pagina": 2,
+      "apartado": [
+        "Un estatuto del deportista para nuestra élite",
+        "Cotización desde el Primer Día para Nuestros Deportistas de Alto Nivel"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mismos criterios de alto nivel para deportistas paralímpicos",
+      "etiquetas": [
+        "deporte",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Maternidad sin Penalización: blindaremos por ley que ninguna deportista pierda sus becas públicas durante el embarazo y, al menos, hasta dos años después de dar a luz, y extenderemos a los contratos de patrocinio privado la nulidad de las cláusulas \"antiembarazo\" que hoy la Ley del Deporte solo aplica a los contratos laborales.",
+      "pagina": 3,
+      "apartado": [
+        "Un estatuto del deportista para nuestra élite",
+        "Maternidad sin Penalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Protección de becas y patrocinios de deportistas embarazadas",
+      "etiquetas": [
+        "deporte",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transición Laboral tras la Retirada: la experiencia de nuestros deportistas tendrá valor oficial: les permitiremos acreditar las competencias adquiridas durante su carrera para obtener titulaciones de Formación Profesional y de técnico deportivo.",
+      "pagina": 3,
+      "apartado": [
+        "Un estatuto del deportista para nuestra élite",
+        "Transición Laboral tras la Retirada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acreditación de competencias de deportistas para títulos de FP",
+      "etiquetas": [
+        "deporte",
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, crearemos una red de mentoring en la que exdeportistas ya integrados en el mercado laboral acompañen a quienes se retiran.",
+      "pagina": 3,
+      "apartado": [
+        "Un estatuto del deportista para nuestra élite",
+        "Transición Laboral tras la Retirada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Red de mentoría para deportistas que se retiran",
+      "etiquetas": [
+        "deporte",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reconociendo la actividad física como una herramienta preventiva esencial que ahorra millones en gasto hospitalario, reduciremos el IVA de todos los servicios deportivos al 10%.",
+      "pagina": 3,
+      "apartado": [
+        "Salud ciudadana a través del deporte",
+        "El Deporte es Salud - Reducción del IVA al 10%"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "IVA del 10% para los servicios deportivos",
+      "etiquetas": [
+        "impuestos",
+        "deporte",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En paralelo, incentivaremos fiscalmente a las empresas que promuevan programas de deporte saludable entre sus empleados.",
+      "pagina": 3,
+      "apartado": [
+        "Salud ciudadana a través del deporte",
+        "El Deporte es Salud - Reducción del IVA al 10%"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Incentivos fiscales a empresas con programas deportivos",
+      "etiquetas": [
+        "deporte",
+        "impuestos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan de Choque Contra el Abandono Deportivo Adolescente y Femenino: junto a Comunidades Autónomas y Ayuntamientos, competentes en deporte base, garantizaremos actividades deportivas extraescolares gratuitas en los propios centros educativos públicos, diseñadas con los propios jóvenes y con especial atención a las niñas de 12 a 16 años.",
+      "pagina": 3,
+      "apartado": [
+        "Salud ciudadana a través del deporte",
+        "Plan de Choque Contra el Abandono Deportivo Adolescente y Femenino"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Actividades deportivas extraescolares gratuitas en centros públicos",
+      "etiquetas": [
+        "deporte",
+        "educación",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para premiar la constancia, crearemos el Pasaporte Deportivo Joven, un carné digital con recompensas como entradas a competiciones, material deportivo o actividades de ocio.",
+      "pagina": 3,
+      "apartado": [
+        "Salud ciudadana a través del deporte",
+        "Plan de Choque Contra el Abandono Deportivo Adolescente y Femenino"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Carné digital con recompensas por práctica deportiva juvenil",
+      "etiquetas": [
+        "deporte",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Quienes mantengan una práctica regular obtendrán una Mención en Actividad Física y Vida Saludable en su título de ESO y Bachillerato, y a partir de los 16 años podrán formarse y certificarse como monitores para guiar a los más pequeños, convirtiéndose en referentes para ellos.",
+      "pagina": 3,
+      "apartado": [
+        "Salud ciudadana a través del deporte",
+        "Plan de Choque Contra el Abandono Deportivo Adolescente y Femenino"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mención deportiva en títulos y formación como monitores desde 16 años",
+      "etiquetas": [
+        "deporte",
+        "educación",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuevo Modelo de Mecenazgo y Profesionalización Federativa: impulsaremos un régimen específico de mecenazgo deportivo, que vaya más allá de la ley general vigente, para incentivar el patrocinio privado mediante beneficios fiscales atractivos para las empresas y crear un Fondo Estatal para el deporte base con participación privada, aliviando la dependencia exclusiva del presupuesto público.",
+      "pagina": 3,
+      "apartado": [
+        "Salud ciudadana a través del deporte",
+        "Nuevo Modelo de Mecenazgo y Profesionalización Federativa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Régimen de mecenazgo deportivo y fondo estatal para deporte base",
+      "etiquetas": [
+        "deporte",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exigiremos a las Federaciones Nacionales criterios de gobernanza profesional, vinculando las subvenciones públicas a hitos de igualdad y a una senda progresiva de autofinanciación adaptada al tamaño de cada federación.",
+      "pagina": 3,
+      "apartado": [
+        "Salud ciudadana a través del deporte",
+        "Nuevo Modelo de Mecenazgo y Profesionalización Federativa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subvenciones a federaciones ligadas a gobernanza e igualdad",
+      "etiquetas": [
+        "deporte",
+        "subvenciones",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En igualdad, iremos más allá de la actual ley de paridad: el objetivo del 40% de mujeres se aplicará no solo a las juntas directivas, sino también al conjunto de las presidencias federativas.",
+      "pagina": 3,
+      "apartado": [
+        "Salud ciudadana a través del deporte",
+        "Nuevo Modelo de Mecenazgo y Profesionalización Federativa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Objetivo del 40% de mujeres en presidencias federativas",
+      "etiquetas": [
+        "deporte",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

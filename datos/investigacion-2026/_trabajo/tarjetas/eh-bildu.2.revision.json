@@ -1,0 +1,116 @@
+{
+  "partido": "eh-bildu",
+  "lote": "eh-bildu.2",
+  "temas": [
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-52b2e53caf", "motivo": "Primera línea de su postura (revisar al alza el PNIEC y adelantar la descarbonización al menos a 2045); es la medida marco del apartado de energía y clima y lleva fecha.", "texto": null, "cambio": null },
+        { "id": "c-5733455045", "motivo": "Segunda línea: eliminar las subvenciones a los combustibles fósiles, incluida la exención al queroseno de aviación; acción concreta y distinta de la planificación.", "texto": null, "cambio": null },
+        { "id": "c-612d6fae33", "motivo": "Tercera línea (intervención en precios de la energía): recuperar el «tope al gas»; más concreta y votable que la reforma genérica del mercado eléctrico.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-90e041683c", "motivo": "Primera línea de su postura (rechazo a la OTAN y al aumento del gasto en defensa); breve y se entiende sola pese al «Igualmente» inicial.", "texto": null, "cambio": null },
+        { "id": "c-a07b06dc08", "motivo": "Tercera línea: aislamiento económico y político de Israel y ruptura del Tratado de Amistad UE-Israel; medida central de su apartado sobre Palestina.", "texto": null, "cambio": null },
+        { "id": "c-a752c877c9", "motivo": "Segunda línea: cerrar y desmantelar el campo de tiro de las Bardenas, con planes de reconversión; medida propia que el resumen destaca.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-a1d3396319", "motivo": "Primera línea de su postura (sustituir las pelotas de goma por medios menos lesivos); la medida sobre la «Ley Mordaza» no se ofrece en este tema, así que esta es la de la línea 1 disponible aquí.", "texto": null, "cambio": null },
+        { "id": "c-ccb04b8722", "motivo": "Tercera línea: aplicar a todos los presos la legislación penitenciaria ordinaria y acabar con las medidas de excepción.", "texto": null, "cambio": null },
+        { "id": "c-68de5838a3", "motivo": "Tercera línea, segunda parte: repliegue de las Fuerzas y Cuerpos de Seguridad del Estado en la CAV y Navarra; acción distinta de la política penitenciaria.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-dccc624ab1", "motivo": "Primera línea de su postura (escudo social): hacer permanente la prohibición de cortar suministros básicos a hogares vulnerables; no hay otra medida equivalente (el Suministro Mínimo Vital es otra cosa), así que se elige con el cambio mínimo.", "texto": "Hacer estructural y permanente la garantía de suministros básicos para personas vulnerables, la cual impide el corte de los mismos a hogares vulnerables, en vigor hasta 31 de diciembre gracias a los acuerdos de prórroga alcanzados los últimos 3 años.", "cambio": "Se ha quitado «por EH Bildu» después de «alcanzados»." },
+        { "id": "c-1c15d4228c", "motivo": "Segunda línea (dependencia): pagar las prestaciones desde la fecha de solicitud; corta y concreta.", "texto": null, "cambio": null },
+        { "id": "c-e700c6dd64", "motivo": "Tercera línea: transferir el Ingreso Mínimo Vital y, mientras tanto, ampliar su acceso y cuantías; recoge esa línea tal como la formula el resumen.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-19b12fbfbb", "motivo": "Línea principal (que las grandes empresas paguen) en su medida más repetida en campaña: gravar de forma permanente los beneficios extraordinarios de las energéticas; equivalente a c-6333e03d13 sin nombrar a otros partidos.", "texto": null, "cambio": null },
+        { "id": "c-39f8d9d35b", "motivo": "Misma línea 2 en otro impuesto: más peso al impuesto a la banca y grandes fortunas; Matute cita expresamente a los bancos en campaña.", "texto": null, "cambio": null },
+        { "id": "c-79c9895775", "motivo": "Tercera línea: IVA del 21 % para los alojamientos turísticos de corta duración; medida corta y distinta de la fiscalidad a grandes empresas.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-8fa1d812f9", "motivo": "Línea de derechos LGTBIQ+: prohibir las terapias de conversión; no hay candidata sobre aborto (línea 1), y esta es la más clara y votable de las restantes.", "texto": null, "cambio": null },
+        { "id": "c-891b71258f", "motivo": "Línea 3: acabar con la «Ley Mordaza» volviendo a presentar su proposición de ley; medida de primer plano en su programa, sin alternativa equivalente que quepa (c-f893fcffa3 pasa de 80 palabras).", "texto": "Acabar con la Ley Mordaza. Volveremos a presentar la Proposición de Ley de Protección de las Libertades y Seguridad Ciudadana para acabar con la Ley Mordaza basada en el acuerdo que hace dos años se logró para acabar con todos los artículos contrarios a la libertad de expresión y los derechos y libertades básicas de la ciudadanía, la cual, tras su admisión a trámite por mayoría, ha sido bloqueada por diferentes grupos durante su tramitación.", "cambio": "Se ha sustituido «EH Bildu» por «se» en «el acuerdo que hace dos años EH Bildu logró»." },
+        { "id": "c-2bcf8a9457", "motivo": "Línea 4: ampliar la Ley de Memoria Democrática a víctimas del franquismo, la tortura y la guerra sucia.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-f2ddab0c6b", "motivo": "Línea 2: subir las pensiones mínimas al menos a 1.220 € ligadas al SMI; lleva cifra y es lo que repite Etxebarrieta en campaña.", "texto": null, "cambio": null },
+        { "id": "c-077caca8e1", "motivo": "Línea 3: subir al menos un 15 % las pensiones de viudedad y no contributivas, también citada en campaña.", "texto": null, "cambio": null },
+        { "id": "c-e0a6429136", "motivo": "Líneas 1 y 2: blindar la revalorización anual con el IPC, la medida más cercana a su defensa del sistema público.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-c642ad36fc", "motivo": "Línea 3: transferencia completa a la CAPV y Navarra de las competencias ferroviarias, portuarias y aeroportuarias; la medida de renovación ferroviaria, su línea 1, pasa de 80 palabras.", "texto": null, "cambio": null },
+        { "id": "c-8e80113984", "motivo": "Línea 3, otra parte: mantener y ampliar los descuentos al transporte con financiación estatal.", "texto": null, "cambio": null },
+        { "id": "c-425206922e", "motivo": "Otra línea del apartado de movilidad: ayudas al coche eléctrico según renta y leasing social, sin subvencionar híbridos; concreta y distinta de las anteriores.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-137172a80f", "motivo": "Línea 2: exigir la transferencia de todas las competencias pendientes del Estatuto Vasco y el Amejoramiento; la más central de las disponibles (no hay candidata sobre nación ni sobre SMI propio, y la del Concierto depende del título de su apartado).", "texto": null, "cambio": null },
+        { "id": "c-df3e991c36", "motivo": "Lenguas cooficiales: exigir conocimiento de euskera en la administración estatal en la CAV y Navarra; el programa le dedica un apartado propio y esta versión cabe en 80 palabras.", "texto": null, "cambio": null },
+        { "id": "c-529c0b1ae8", "motivo": "Lenguas, en otro ámbito: oficialidad del euskera, catalán y gallego en la Unión Europea.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-cf388dc976", "motivo": "Línea 1: desarrollar la Ley de la Cadena Alimentaria con inspección y control para garantizar precios justos en origen; se entiende sola, a diferencia de c-4e7f7de51d.", "texto": null, "cambio": null },
+        { "id": "c-78377976bd", "motivo": "Línea 4: ampliar la agricultura y ganadería ecológica con un sello de prácticas regenerativas.", "texto": null, "cambio": null },
+        { "id": "c-620059ad70", "motivo": "Alimentación: restringir la publicidad de ultraprocesados y bebidas azucaradas a menores; línea distinta de la cadena alimentaria y concreta.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-25f4c5d8c8", "motivo": "Líneas 1 y 2: centros de datos condicionados a sostenibilidad, con control democrático de los datos y menos dependencia de las grandes tecnológicas; encaja con lo que destacan en campaña sobre gobernar la IA.", "texto": null, "cambio": null },
+        { "id": "c-f7a177e80d", "motivo": "Línea 4: cambiar la ley para que las selecciones vascas compitan internacionalmente; medida con apartado propio en el programa.", "texto": null, "cambio": null },
+        { "id": "c-7776847087", "motivo": "Línea 3: al menos el 15 % del Fondo de Protección de la Cinematografía para proyectos en lenguas cooficiales; lleva cifra.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

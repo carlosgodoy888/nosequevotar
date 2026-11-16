@@ -4,14 +4,14 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Roberto Vaquero Arribas, presidente del partido, cabeza de lista por Madrid
-- **Programa para el 29 de noviembre:** solo un programa general, no específico de estas elecciones (comprobado el 12 de noviembre de 2026)
-- **Citas recogidas:** 248 vigentes: 189 medidas, de ellas 96 concretas, y 59 posiciones. De programa, verificadas contra su página: 244 exactas y 4 normalizadas.
+- **Programa para el 29 de noviembre:** publicado (comprobado el 16 de noviembre de 2026)
+- **Citas recogidas:** 249 vigentes: 189 medidas, de ellas 96 concretas, y 60 posiciones. De programa, verificadas contra su página: 244 exactas y 4 normalizadas. Declaraciones verificadas abriendo su fuente: 1.
 
 ## Lo que dicen sus documentos
 
 ### Un programa para recuperar España (programa político del partido)
 
-Programa general del partido · 7 de octubre de 2026 · 64 páginas · en castellano · [documento original](https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf) · 248 citas
+Programa de estas elecciones · 7 de octubre de 2026 · 64 páginas · en castellano · [documento original](https://frenteobrero.es/documentos/programa-frente-obrero.pdf) · 248 citas
 
 #### 01 La España que debemos ser
 
@@ -323,4 +323,14 @@ Programa general del partido · 7 de octubre de 2026 · 64 páginas · en castel
 - **3.** «Se acabará con el cese de contrato a los 45 años sin dar alternativas laborales para su vuelta al mundo civil.» (p. 63) · medida concreta · _Fin del cese de contrato militar a los 45 años sin alternativa_
 - **4.** «Todas estas medidas contribuirán en el futuro a refundar al ejército en uno diferente al actual, en un Ejército al servicio del pueblo, dejando lo reaccionario y represivo en el pasado.» (p. 63) · medida · _Refundación futura del ejército_
 - **5.** «Los soldados españoles dejarán de poner en riesgo sus vidas en misiones en el extranjero que solo buscan defender intereses extranjeros ajenos a nuestros intereses.» (p. 63) · medida concreta · _Fin de misiones en el extranjero que defiendan intereses ajenos_
+
+## Lo que han dicho sus portavoces
+
+Declaraciones, no programa.
+
+### Empleo y salarios
+
+- «un sindicalismo de clase, independiente y combativo, que no viva de las subvenciones ni de los pactos con el poder» · Roberto Vaquero Arribas, presidente del Frente Obrero y candidato por Madrid, (Frente Obrero) · 11 de noviembre de 2026 · [declaración en medios: El Enclave](https://elenclave.es/frente-obrero-munecos-pepe-alvarez-unai-sordo-sede-ccoo-madrid-569-millones-vender-a-trabajadores/) · posición · _Modelo sindical sin subvenciones públicas, durante la huelga general_
+
+Sin declaraciones recogidas sobre: Vivienda, Economía y empresas, Sanidad, Inmigración, Democracia e instituciones, Educación, Medio ambiente y energía, Política exterior y defensa, Seguridad y justicia, Familias y servicios sociales, Impuestos, Igualdad y derechos, Pensiones, Transporte e infraestructuras, Organización territorial, Campo y medio rural, Ciencia, cultura y digital.
 

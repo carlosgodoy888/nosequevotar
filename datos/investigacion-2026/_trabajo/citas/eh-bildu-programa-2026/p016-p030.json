@@ -1,0 +1,2657 @@
+{
+  "fuente": "eh-bildu-programa-2026",
+  "partido": "eh-bildu",
+  "paginas": [
+    16,
+    30
+  ],
+  "citas": [
+    {
+      "cita": "Comunidades energéticas y autoconsumo: Facilitar, a través del marco normativo, el marco fiscal y el apoyo económico directo, la expansión del autoconsumo, las comunidades energéticas y comunidades ciudadanas de energías.",
+      "pagina": 16,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.1 Energía y clima"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Facilitar autoconsumo y comunidades energéticas",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección social y automatización del bono social eléctrico: Automatizar el acceso al bono social eléctrico y térmico para cerrar la brecha actual de NON TAKE UP, y favorecer la participación de hogares vulnerables en comunidades energéticas.",
+      "pagina": 16,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.1 Energía y clima"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Automatizar el acceso al bono social eléctrico y térmico",
+      "etiquetas": [
+        "energía",
+        "servicios sociales",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar una estrategia legislativa estatal y europea para desarrollar el Made in Europe como instrumento de soberanía industrial, transición ecológica y justicia social, dentro del ámbito del Industrial Accelerator Act para reforzar las capacidades productivas europeas, ampliar los sectores estratégicos y vincular las ayudas públicas y la contratación a criterios de descarbonización, empleo digno y valor añadido industrial. Impulsar estos principios mediante reformas legislativas que condicionen los recursos públicos al retorno social y productivo, refuercen la participación pública en sectores estratégicos y garanticen el protagonismo de Euskal Herria en la construcción de la soberanía económica y tecnológica europea.",
+      "pagina": 16,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.2 Industria y transformación productiva"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estrategia legislativa Made in Europe y condiciones a ayudas públicas",
+      "etiquetas": [
+        "industria",
+        "unión europea",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Electrificación y descarbonización: Impulsar una estrategia de descarbonización y electrificación competitiva de la industria, apoyando inversiones en electrificación, eficiencia energética y sustitución progresiva del gas fósil por alternativas técnicamente viables (primando la electrificación), que permitan reducir emisiones y costes energéticos y reforzar la competitividad industrial.",
+      "pagina": 16,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.2 Industria y transformación productiva"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estrategia de electrificación y descarbonización de la industria",
+      "etiquetas": [
+        "industria",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar una estrategia legislativa de soberanía digital europea en el marco del Cloud and AI Development Act, promoviendo infraestructuras públicas y europeas de computación, servicios cloud y desarrollo de inteligencia artificial que respondan prioritariamente a las necesidades de la ciudadanía, los servicios públicos y el tejido productivo, especialmente las pymes y la industria.",
+      "pagina": 16,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.2 Industria y transformación productiva"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estrategia legislativa de soberanía digital europea",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "inteligencia artificial",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Condicionar el despliegue de centros de datos a criterios de sostenibilidad energética y territorial, eficiencia en el uso de recursos y contribución al desarrollo económico local, garantizando el control democrático de los datos y reduciendo la dependencia de las grandes corporaciones tecnológicas.",
+      "pagina": 16,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.2 Industria y transformación productiva"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Condiciones de sostenibilidad para instalar centros de datos",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "medio ambiente",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar el desarrollo de la economía social como modelo estratégico de reindustrialización ecosocial, tomando como referencia la experiencia cooperativa de Euskal Herria y su proyección internacional.",
+      "pagina": 16,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.2 Industria y transformación productiva"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Economía social como modelo de reindustrialización",
+      "etiquetas": [
+        "economía social",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover reformas legislativas y políticas públicas que faciliten la creación, consolidación y crecimiento de cooperativas industriales, fomenten la participación de las personas trabajadoras en la propiedad y gestión de las empresas, y favorezcan la recuperación de empresas en crisis mediante fórmulas de propiedad colectiva. Reforzar asimismo los instrumentos públicos de financiación, innovación y acompañamiento empresarial para extender este modelo, vinculando la competitividad industrial a la democracia económica, el arraigo territorial y la distribución social del valor generado.",
+      "pagina": 16,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.2 Industria y transformación productiva"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reformas para cooperativas y participación de trabajadores en empresas",
+      "etiquetas": [
+        "economía social",
+        "empresas",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Soberanía alimentaria y capacidad de decisión sobre la PAC: Impulsar una mayor capacidad de gestión y decisión de la Política Agraria Común, avanzando hacia su renacionalización y territorialización, para que Euskal Herria pueda diseñar y desarrollar una política agraria propia dentro del marco europeo, priorizando los intereses estratégicos del sector productor y construyendo un sistema agroalimentario resiliente, sostenible y orientado al futuro.",
+      "pagina": 16,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.3 Primer sector, medio rural y territorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Renacionalización y territorialización de la Política Agraria Común",
+      "etiquetas": [
+        "agricultura y pesca",
+        "unión europea",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Soberanía pesquera y capacidad de decisión sobre la Política Pesquera Común: Impulsar una mayor descentralización y regionalización de la Política Pesquera Común, reforzando la capacidad de gestión y decisión de las comunidades y regiones pesqueras para que Euskal Herria pueda desarrollar una política pesquera propia dentro del marco europeo, adaptada a las características de su flota y litoral, que garantice la sostenibilidad de los recursos marinos, la viabilidad económica del sector, el relevo generacional y el mantenimiento de las comunidades pesqueras.",
+      "pagina": 17,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.3 Primer sector, medio rural y territorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Descentralización de la Política Pesquera Común",
+      "etiquetas": [
+        "agricultura y pesca",
+        "unión europea",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Alimentación como derecho y precios justos: Avanzar hacia un modelo que garantice el derecho universal a una alimentación saludable y de calidad, asegurando precios justos para las personas productoras y precios asequibles para las consumidoras.",
+      "pagina": 17,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.3 Primer sector, medio rural y territorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Derecho a la alimentación y precios justos",
+      "etiquetas": [
+        "alimentación",
+        "agricultura y pesca",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar herramientas como la Seguridad Social Alimentaria y reforzar el carácter social de la agricultura y la pesca como actividades esenciales para garantizar este derecho.",
+      "pagina": 17,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.3 Primer sector, medio rural y territorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Impulsar la Seguridad Social Alimentaria",
+      "etiquetas": [
+        "alimentación",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Compra pública alimentaria sostenible y de proximidad: Reforzar la legislación que permita la contratación pública alimentaria mediante objetivos de adquisición de productos saludables, sostenibles y de proximidad en comedores escolares, hospitales, residencias y otros servicios públicos, utilizando la compra pública como instrumento de desarrollo rural, sostenibilidad ambiental y fortalecimiento del sector productor local.",
+      "pagina": 17,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.3 Primer sector, medio rural y territorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Compra pública de alimentos de proximidad en servicios públicos",
+      "etiquetas": [
+        "alimentación",
+        "contratación pública",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Regulación de la cadena alimentaria y distribución del valor: Desarrollar toda la potencialidad de la Ley de la Cadena Alimentaria, los mecanismos de inspección y los sistemas de control para garantizar precios justos en origen y evitar prácticas comerciales abusivas.",
+      "pagina": 17,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.3 Primer sector, medio rural y territorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aplicar la Ley de la Cadena Alimentaria e inspecciones",
+      "etiquetas": [
+        "alimentación",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar el Observatorio de la Cadena Alimentaria como instrumento efectivo de seguimiento de los precios y de transparencia en la distribución del valor entre producción, transformación, distribución y consumo.",
+      "pagina": 17,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.3 Primer sector, medio rural y territorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desarrollar el Observatorio de la Cadena Alimentaria",
+      "etiquetas": [
+        "alimentación",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulso a la producción ecológica y regenerativa: Expandir la superficie destinada a la agricultura y ganadería ecológica e implantar el sello de reconocimiento ECOREGENERATIVA para explotaciones que combinen producción ecológica con prácticas regenerativas del suelo.",
+      "pagina": 17,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.3 Primer sector, medio rural y territorio"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Agricultura ecológica y sello ECOREGENERATIVA",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Competencias íntegras en materia de movilidad: transferencia completa y efectiva a la CAPV y Nafarroa de las competencias ferroviarias, aeroportuarias y portuarias. Impulsar el traspaso efectivo de todas las competencias.",
+      "pagina": 17,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.4 Movilidad y transporte"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transferir competencias ferroviarias, aeroportuarias y portuarias",
+      "etiquetas": [
+        "transporte",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Renovación de la red ferroviaria: Apostar por una renovación integral de las vías en aquellos corredores en los que es posible ofrecer una alternativa de renovación a la Alta Velocidad (especialmente el corredor navarro y la conexión de la CAPV con Burgos). Desarrollar la alternativa bajo el principio de “una plataforma, tres servicios” donde, además de un servicio de media y larga distancia de velocidad alta (200 km/h) se garantice un servicio de cercanías de calidad y la posibilidad de transportar mercancías.",
+      "pagina": 17,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.4 Movilidad y transporte"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Renovar vías como alternativa a la Alta Velocidad",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo de Cercanías, Media Distancia y conexiones con Ipar Euskal Herria: “Más tren para la movilidad cotidiana”. Reforzar las redes de Cercanías y Media Distancia, mejorando las infraestructuras para poder aumentar frecuencias y mejorar los servicios, impulsando además las conexiones con Ipar Euskal Herria.",
+      "pagina": 17,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.4 Movilidad y transporte"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforzar Cercanías, Media Distancia y conexiones con Iparralde",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ayudas progresivas y leasing social de vehículos eléctricos: Reorientar las ayudas a la movilidad eléctrica mediante criterios de renta y programas de leasing social para vehículos eléctricos puros (BEV) en hogares vulnerables, eliminando subvenciones a vehículos híbridos.",
+      "pagina": 17,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.4 Movilidad y transporte"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas al coche eléctrico por renta y fin de ayudas a híbridos",
+      "etiquetas": [
+        "transporte",
+        "subvenciones",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Trasvase de mercancías al tren: Fijar objetivos ambiciosos de trasvase de mercancías de la carretera al ferrocarril.",
+      "pagina": 18,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.4 Movilidad y transporte"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Objetivos de paso de mercancías de carretera a tren",
+      "etiquetas": [
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cofinanciación estatal para las políticas de descuentos al transporte público: Mientras existan servicios de movilidad de titularidad estatal, garantizar que las aportaciones estatales destinadas a la bonificación del transporte público puedan gestionarse desde nuestras instituciones, permitiendo adaptar los descuentos y ayudas a la realidad social y territorial de Euskal Herria.",
+      "pagina": 18,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.4 Movilidad y transporte"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gestión vasca de las bonificaciones estatales al transporte",
+      "etiquetas": [
+        "transporte",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Interoperabilidad en el transporte y reconocimiento de los sistemas tarifarios propios: Garantizar la plena interoperabilidad de los servicios de transporte de titularidad estatal con los sistemas tarifarios y de billetaje de Euskal Herria, permitiendo que nuestras instituciones puedan integrar dichos servicios en sus propios modelos de descuentos, títulos de transporte y políticas de movilidad.",
+      "pagina": 18,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.4 Movilidad y transporte"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Integrar el transporte estatal en los sistemas tarifarios vascos",
+      "etiquetas": [
+        "transporte",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Financiación para la rehabilitación: Establecer mecanismos de financiación anticipada y subvenciones progresivas en función del nivel de renta que, para las personas más vulnerables puede llegar al 100%, destinadas a la rehabilitación energética profunda de las viviendas.",
+      "pagina": 18,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.5 Rehabilitación energética y edificación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subvenciones por renta para rehabilitación energética de viviendas",
+      "etiquetas": [
+        "vivienda",
+        "energía",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Electrificación térmica de los edificios y protección frente a olas de calor: Otorgar ayudas específicas para sustituir calderas de combustibles fósiles por alternativas eléctricas de alta eficiencia como las bombas de calor (aerotermia y geotermia) combinadas con mejoras de aislamiento. Incluyendo en los programas la instalación de sistemas de refrigeración eléctrica, enfocados especialmente en los edificios públicos y los hogares vulnerables.",
+      "pagina": 18,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.5 Rehabilitación energética y edificación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas para sustituir calderas fósiles por bombas de calor",
+      "etiquetas": [
+        "vivienda",
+        "energía",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección del alquiler y del derecho a la vivienda: Condicionar las subvenciones públicas a la rehabilitación a compromisos de permanencia de las personas inquilinas y límites al precio del alquiler para evitar subidas abusivas o desahucios indirectos.",
+      "pagina": 18,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.5 Rehabilitación energética y edificación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas a rehabilitación condicionadas a límites de alquiler",
+      "etiquetas": [
+        "vivienda",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Captura de beneficios extraordinarios: Articular un mecanismo permanente que grave los beneficios extraordinarios o windfall profits de las grandes corporaciones energéticas, tanto las vinculadas a los precios altos de la electricidad como los márgenes extraordinarios en el sector fósil.",
+      "pagina": 18,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.6 Fiscalidad y financiación de la transición ecosocial"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gravamen permanente a beneficios extraordinarios de energéticas",
+      "etiquetas": [
+        "impuestos",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Fin de subvenciones a combustibles fósiles: Eliminar las subvenciones directas e indirectas a los combustibles fósiles, desde la equiparación del impuesto especial de hidrocarburos hasta la eliminación de la exención al queroseno de aviación.",
+      "pagina": 18,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.6 Fiscalidad y financiación de la transición ecosocial"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar subvenciones y exenciones a combustibles fósiles",
+      "etiquetas": [
+        "energía",
+        "impuestos",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fiscalidad favorable a la electrificación: Revisión completa de la fiscalidad energética orientada a revertir la penalización impositiva de la electricidad con respecto a los combustibles fósiles.",
+      "pagina": 18,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.6 Fiscalidad y financiación de la transición ecosocial"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisar la fiscalidad energética a favor de la electricidad",
+      "etiquetas": [
+        "impuestos",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tributación de la movilidad aérea: Introducción de un gravamen especial a los vuelos privados e implementar una tasación finalista a los billetes de aviación para promover combustibles alternativos como el e-SAF.",
+      "pagina": 18,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.6 Fiscalidad y financiación de la transición ecosocial"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Impuesto a vuelos privados y tasa a billetes de avión",
+      "etiquetas": [
+        "impuestos",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Respeto a las Haciendas Forales y concertación tributaria: Someter cualquier nueva figura o modificación fiscal ambiental promovida a nivel estatal a los mecanismos de concertación previa con el Concierto Económico en la CAPV y el Convenio Económico en Nafarroa.",
+      "pagina": 18,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.6 Fiscalidad y financiación de la transición ecosocial"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Concertar con las haciendas forales la fiscalidad ambiental estatal",
+      "etiquetas": [
+        "impuestos",
+        "financiación autonómica",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los derechos fundamentales ganados han sido fruto de años de trabajo y es imprescindible garantizar la defensa y el blindaje a favor de lo logrado.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de los derechos ya reconocidos a las mujeres",
+      "etiquetas": [
+        "igualdad",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Blindar el derecho al aborto. Para ello, daremos los pasos y propondremos todas las medidas necesarias para garantizar el acceso libre, seguro, confidencial y digno al aborto.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Garantizar el derecho y el acceso al aborto",
+      "etiquetas": [
+        "sanidad",
+        "igualdad",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar en medidas de protección frente al acoso en el acceso al aborto. Particularmente defenderemos medidas concretas de protección en torno a los centros sanitarios que practican interrupciones voluntarias del embarazo como perímetros de protección, protocolos preventivos y recogida de datos sobre posibles coacciones, acoso o intimidaciones.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Perímetros de protección en centros que practican abortos",
+      "etiquetas": [
+        "sanidad",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar campañas de sensibilización para la ciudadanía en general, advirtiendo de los riesgos de contenido sexual que normalice la violencia contra las mujeres.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Campañas sobre contenido sexual que normaliza la violencia",
+      "etiquetas": [
+        "violencia machista",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prevenir las violencias sexuales en el ámbito digital, que comprenden la difusión de actos de violencia sexual a través de medios tecnológicos. Se pondrá especial atención en que las Administraciones públicas y entidades del sector privado utilicen un lenguaje accesible, inclusivo, no sexista, con enfoque de género y adaptado en las comunicaciones dirigidas a personas menores de edad.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prevención de violencias sexuales en el ámbito digital",
+      "etiquetas": [
+        "violencia machista",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar en el reconocimiento y penalización de la violencia vicaria. Identificar así tanto sus causas como consecuencias. Desarrollaremos medidas de prevención y reparación para combatirla.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reconocimiento y penalización de la violencia vicaria",
+      "etiquetas": [
+        "violencia machista",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Combatir los discursos antifeministas y los discursos que niegan y normalizan la violencia machista.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Combatir discursos que niegan la violencia machista",
+      "etiquetas": [
+        "violencia machista",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Analizar y revisar los recursos y sistemas existentes en la actualidad para la protección y reparación de mujeres víctimas de violencia machista.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Revisar los recursos de protección a víctimas",
+      "etiquetas": [
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Lucharemos a favor del reconocimiento de la identidad sexual y de género de las personas LGBTIQ+ y no aceptaremos retrocesos en los derechos adquiridos, especialmente en la despatologización de las personas Trans.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo",
+        "1.10.1 LGTBIQ+"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Reconocimiento de la identidad de género y sin retrocesos",
+      "etiquetas": [
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibir las terapias de conversión, ya que estas violan, entre otros, el derecho a la no discriminación, a la salud, a la identidad personal, a la integridad física y psicológica y a no ser sujeto a torturas.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo",
+        "1.10.1 LGTBIQ+"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir las terapias de conversión",
+      "etiquetas": [
+        "lgtbi",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Continuar con la lucha contra la LGTBIQ+fobia y por los derechos del colectivo",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo",
+        "1.10.1 LGTBIQ+"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Lucha contra la LGTBIfobia",
+      "etiquetas": [
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adoptar medidas de prevención y reforzar la investigación de los delitos de odio hacia el colectivo LGTBIQ+ con especial atención en las redes sociales y en las plataformas digitales.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo",
+        "1.10.1 LGTBIQ+"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Investigación de delitos de odio contra personas LGTBI",
+      "etiquetas": [
+        "lgtbi",
+        "seguridad",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar las campañas de prevención de las ITS y VIH, sobre todo en el ámbito educativo y de ocio.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo",
+        "1.10.1 LGTBIQ+"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Campañas de prevención de ITS y VIH",
+      "etiquetas": [
+        "sanidad",
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar el contenido del artículo 50 de la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI sobre la adecuación de los documentos expedidos a personas extranjeras.",
+      "pagina": 19,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.10. Feminismo",
+        "1.10.1 LGTBIQ+"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Documentos de personas trans extranjeras según la Ley 4/2023",
+      "etiquetas": [
+        "lgtbi",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todas las medidas propuestas por Euskal Herria Bildu en materia de migración tendrán como principios rectores la perspectiva feminista e interseccional, el enfoque de derechos humanos y la consideración primordial del interés superior de la infancia, garantizando que su diseño, desarrollo y aplicación contribuyan a eliminar las desigualdades y discriminaciones múltiples, así como a asegurar el ejercicio efectivo de los derechos de todas las personas.",
+      "pagina": 20,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.11. Migración"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Principios de la política migratoria propuesta",
+      "etiquetas": [
+        "inmigración",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Regularización y nueva Ley de Extranjería: Garantizar una regularización efectiva, accesible y estable.",
+      "pagina": 20,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.11. Migración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Regularización de personas migrantes",
+      "etiquetas": [
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Facilitar las autorizaciones de residencia y trabajo y prevenir la irregularidad sobrevenida.",
+      "pagina": 20,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.11. Migración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Facilitar autorizaciones de residencia y trabajo",
+      "etiquetas": [
+        "inmigración",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar hacia una nueva legislación de extranjería basada en los derechos humanos.",
+      "pagina": 20,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.11. Migración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva ley de extranjería",
+      "etiquetas": [
+        "inmigración",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantía del derecho de asilo y fin de las políticas migratorias que vulneran derechos: Rechazar las disposiciones restrictivas del Pacto Europeo sobre Migración y Asilo, las devoluciones sumarias, la externalización de fronteras y los CIE, garantizando procedimientos individuales con todas las garantías jurídicas.",
+      "pagina": 20,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.11. Migración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rechazo al Pacto Europeo de Migración, devoluciones sumarias y CIE",
+      "etiquetas": [
+        "asilo",
+        "inmigración",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derecho universal a la acogida y a los servicios públicos: Garantizar un sistema público de acogida integral, con acompañamiento social, jurídico y laboral, homologación de títulos, acceso efectivo al padrón y eliminación de barreras para acceder a la sanidad, educación, vivienda y protección social, independientemente de la situación administrativa.",
+      "pagina": 20,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.11. Migración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acogida pública y acceso a servicios sin importar situación administrativa",
+      "etiquetas": [
+        "inmigración",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Lucha integral contra el racismo institucional y estructural: Reforzar la prevención, denuncia y sanción del racismo institucional, laboral, inmobiliario y policial, con mecanismos independientes de supervisión, reparación y protección de las personas afectadas.",
+      "pagina": 20,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.11. Migración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prevención y sanción del racismo institucional",
+      "etiquetas": [
+        "inmigración",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ciudadanía plena y reconocimiento de los derechos políticos: Impulsar las reformas necesarias para ampliar el derecho al voto y a la representación política de las personas de origen extranjero residentes, avanzando hacia un modelo de ciudadanía basado en la residencia efectiva y la participación democrática.",
+      "pagina": 20,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.11. Migración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derecho de voto para residentes de origen extranjero",
+      "etiquetas": [
+        "inmigración",
+        "sistema electoral",
+        "nacionalidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dotar a las oficinas de extranjería de Nafarroa y de la Comunidad Autónoma del País Vasco de recursos humanos suficientes para no vulnerar los derechos de los y las solicitantes.",
+      "pagina": 20,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.11. Migración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más personal en oficinas de extranjería vascas y navarras",
+      "etiquetas": [
+        "inmigración",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transferencia integral de las competencias migratorias que nos permitan desarrollar un modelo vasco de acogida propio.",
+      "pagina": 20,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.11. Migración"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transferir las competencias migratorias",
+      "etiquetas": [
+        "inmigración",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, la IA debe ponerse al servicio de los derechos de las personas, de los intereses de los trabajadores, del medio ambiente y del interés general, garantizando un control democrático y una justa distribución de beneficios.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "IA al servicio del interés general y control democrático",
+      "etiquetas": [
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Europa también reivindica la soberanía digital y la autonomía estratégica; nuestro reto es convertir esas aspiraciones en auténticas capacidades propias.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Soberanía digital con capacidades tecnológicas propias",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Gobernanza democrática y control público de IA. Poner al servicio del interés público el desarrollo y uso de la IA.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Control público del desarrollo y uso de la IA",
+      "etiquetas": [
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la transparencia, la superficialidad, la auditoría y la protección de los derechos de los ciudadanos en las decisiones automatizadas tomando como referencia el Reglamento de la IA Europea (AI Act).",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Transparencia y auditoría de decisiones automatizadas",
+      "etiquetas": [
+        "inteligencia artificial",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Potenciar la soberanía digital, desarrollar infraestructuras tecnológicas propias, gobernanza de datos y capacidad de computación.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Infraestructuras tecnológicas y capacidad de computación propias",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la participación de agentes tecnológicos y científicos del País Vasco en los proyectos de gigafactores de la futura IA en la red europea de supercomputación (EuroHPC).",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Participación vasca en la red europea EuroHPC",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "inteligencia artificial",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Atracción, formación y retención del talento.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Atracción y retención de talento tecnológico",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Priorizar el software libre, el código abierto y los estándares abiertos, en línea con la soberanía digital europea y la tecnología abierta, para reducir la dependencia de los proveedores externos.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Priorizar software libre y código abierto",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Empleo, distribución de la riqueza y justicia social. Prevenir las transformaciones laborales de la IA, garantizando los derechos de los trabajadores y las condiciones de trabajo dignas.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Derechos laborales ante los cambios de la IA",
+      "etiquetas": [
+        "empleo",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Poner en beneficio de la IA y del conjunto de la sociedad lo generado por la automatización.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reparto social de lo generado por la automatización",
+      "etiquetas": [
+        "inteligencia artificial",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la reducción de jornada sin reducción de salario aprovechando los beneficios de la IA.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reducción de jornada sin reducción de salario",
+      "etiquetas": [
+        "empleo",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la formación y el reciclaje profesional de acuerdo con la estrategia europea de competencias digitales.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación y reciclaje en competencias digitales",
+      "etiquetas": [
+        "empleo",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar una IA ética, no discriminatoria, feminista y segura. Garantizando los derechos humanos, la igualdad de género, la transparencia, la protección de datos y la ciberseguridad, evitando riesgos y usos perjudiciales.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "IA ética, no discriminatoria y segura",
+      "etiquetas": [
+        "inteligencia artificial",
+        "derechos digitales",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la presencia y participación efectiva de las mujeres en el diseño, desarrollo y toma de decisiones de la IA, poniendo sus beneficios en beneficio de toda la sociedad.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación de las mujeres en el desarrollo de la IA",
+      "etiquetas": [
+        "igualdad",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Empoderamiento digital de la ciudadanía. Promover el empoderamiento digital de toda la ciudadanía y el conocimiento sobre la IA, potenciando la capacidad crítica y el uso responsable. Formación educativa y social en su conjunto, tomando como referencia el marco europeo de competencias digitales.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación de la ciudadanía en competencias digitales e IA",
+      "etiquetas": [
+        "inteligencia artificial",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la financiación y los recursos específicos a nivel estatal para el desarrollo de las tecnologías lingüísticas y de los modelos lingüísticos, conjuntos de datos, tecnologías de voz y sistemas de traducción automática en euskera.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Financiación estatal de tecnologías lingüísticas en euskera",
+      "etiquetas": [
+        "lenguas",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporar el euskera y el resto de lenguas oficiales de forma igualitaria en el desarrollo de la IA, en sintonía con las políticas de protección de la diversidad lingüística en Europa.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Lenguas cooficiales en el desarrollo de la IA",
+      "etiquetas": [
+        "lenguas",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sostenibilidad ambiental y verde IA. Reducir el impacto ambiental de la IA fomentando los algoritmos verdes y el uso responsable de los recursos.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducir el impacto ambiental de la IA",
+      "etiquetas": [
+        "inteligencia artificial",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tener en cuenta, en consonancia con los objetivos del Tratado Verde Europeo, el consumo energético y de agua y la ubicación de los centros de datos, para priorizar las infraestructuras proporcionales y sostenibles.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Consumo de energía y agua de los centros de datos",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "energía",
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Medidas para proteger a los/as menores de edad en los entornos digitales, como desactivar por defecto la recomendación algorítmica basada en perfiles para menores, que tengan en cuenta la perspectiva de género, ofreciendo opciones de diseño ético como los límites de tiempo y las notificaciones no adictivas.",
+      "pagina": 21,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.12. Inteligencia artificial y digitalización"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desactivar por defecto la recomendación algorítmica a menores",
+      "etiquetas": [
+        "infancia",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Frente a la amenaza reaccionaria de recorte de derechos y libertades, trabajaremos para blindar lo conquistado sin permitir pasos atrás, y avanzar en el fin de aquellas normas aún en vigor que suponen la negación de las libertades individuales y colectivas de la ciudadanía.",
+      "pagina": 22,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.13. Libertad de expresión"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Mantener derechos reconocidos y derogar normas sobre libertades",
+      "etiquetas": [
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acabar con la Ley Mordaza. Volveremos a presentar la Proposición de Ley de Protección de las Libertades y Seguridad Ciudadana para acabar con la Ley Mordaza basada en el acuerdo que hace dos años EH Bildu logró para acabar con todos los artículos contrarios a la libertad de expresión y los derechos y libertades básicas de la ciudadanía, la cual, tras su admisión a trámite por mayoría, ha sido bloqueada por diferentes grupos durante su tramitación.",
+      "pagina": 22,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.13. Libertad de expresión"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reformar la Ley de Seguridad Ciudadana",
+      "etiquetas": [
+        "derechos y libertades",
+        "seguridad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acabar con el uso de las pelotas de goma mediante su sustitución por medios menos lesivos y la implantación de protocolos específicos de actuación. Estos deberán incluir las directrices para el uso de los medios y actuaciones menos lesivas para la ciudadanía y evitar el uso de materiales que causen lesiones irreparables.",
+      "pagina": 22,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.13. Libertad de expresión"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sustituir las pelotas de goma por medios menos lesivos",
+      "etiquetas": [
+        "seguridad",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acabar con las sanciones injustificadas o basadas en interpretaciones policiales subjetivas, blindando la libertad de expresión y estableciendo su cancelación en caso de retractación de la persona denunciada.",
+      "pagina": 22,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.13. Libertad de expresión"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cancelar sanciones de seguridad ciudadana si hay retractación",
+      "etiquetas": [
+        "seguridad",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se establecen criterios objetivos para las acusaciones de desobediencia, que pasa de grave a leve, y que serán sancionables sólo cuando esta esté ajustada a la legalidad u ordenamiento jurídico, impidiendo la discrecionalidad policial sobre requerimientos y sanciones.",
+      "pagina": 22,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.13. Libertad de expresión"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desobediencia a la autoridad como infracción leve",
+      "etiquetas": [
+        "seguridad",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se establece la modificación de la Ley de Extranjería para aplicar los criterios de Derechos Humanos y protección internacional, estableciendo para para ello el acceso y evaluación de las solicitudes de protección internacional previas acordes al derecho internacional humanitario.",
+      "pagina": 22,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.13. Libertad de expresión"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Modificar la Ley de Extranjería sobre protección internacional",
+      "etiquetas": [
+        "asilo",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminar los delitos del código penal que restringen la libertad de expresión y opinión. Por ello propondremos despenalizar los artículos sobre las criticas a la corona y las instituciones del estado como los gobiernos o las fuerzas de seguridad; las que penalizan y censuran la critica a sentimientos religiosos, que amparan la censura ideológica frente a la religión; también los artículos sobre el enaltecimiento del terrorismo que permiten una interpretación tan amplia y subjetiva que supone la criminalización de expresiones artísticas, humorísticas o de critica política.",
+      "pagina": 22,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.13. Libertad de expresión"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Despenalizar injurias a la Corona, ofensas religiosas y enaltecimiento",
+      "etiquetas": [
+        "derechos y libertades",
+        "justicia",
+        "religión"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Delimitar el concepto de “discurso de odio” para que cumpla con el objetivo de proteger a colectivos vulnerables, discriminados o sectores sociales que, efectivamente, reciban odio por su condición social, sexual, ideológica, religiosa, de origen o raza para evitar la instrumentalización sobre esta figura que sectores no discriminados o instituciones del estado utilizan para perseguir la disidencia política o ideológica.",
+      "pagina": 22,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.13. Libertad de expresión"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Delimitar legalmente el delito de discurso de odio",
+      "etiquetas": [
+        "derechos y libertades",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la reforma de la Ley de Publicidad y Comunicación Institucional para garantizar que el dinero público esté al servicio del derecho de la ciudadanía a recibir información veraz y plural, y no de intereses políticos o económicos. Para ello, propondremos impedir la financiación de prácticas acreditadas de desinformación y manipulación informativa, exigiendo transparencia y control sobre las plataformas digitales y sus algoritmos, y asegurando un reparto de los recursos públicos transparente, objetivo y no discriminatorio que proteja el pluralismo mediático y garantice la inclusión de los medios que informan, sobre todo, en euskara, catalán y gallego.",
+      "pagina": 22,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.13. Libertad de expresión"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reformar la Ley de Publicidad y Comunicación Institucional",
+      "etiquetas": [
+        "medios de comunicación",
+        "publicidad",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es por eso que es necesaria una profunda democratización que acabe con las imposiciones que como nación y clase aún padecemos, abriendo las puertas a un nuevo ciclo histórico en los que sean posibles nuevos escenarios basados en el respeto a los derechos nacionales, sociales, lingüísticos y culturales de nuestro pueblo y nuestra sociedad.",
+      "pagina": 23,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Democratización del Estado y derechos nacionales vascos",
+      "etiquetas": [
+        "organización territorial",
+        "reforma constitucional"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Lograr el reconocimiento efectivo del carácter plurinacional del estado, lo que deberá suponer:",
+      "pagina": 23,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.1. Reconocimiento de Euskal Herria como nación y plurinacionalidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reconocimiento del carácter plurinacional del Estado",
+      "etiquetas": [
+        "organización territorial",
+        "reforma constitucional"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El respeto y reconocimiento de Euskal Herria como nación, así como de las diferentes naciones que actualmente componen el estado español.",
+      "pagina": 23,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.1. Reconocimiento de Euskal Herria como nación y plurinacionalidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reconocimiento de Euskal Herria como nación",
+      "etiquetas": [
+        "organización territorial",
+        "reforma constitucional"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "El reconocimiento del carácter político del conflicto entre Euskal Herria y el estado y, en consecuencia, el compromiso de lograr una solución política y democrática para el mismo.",
+      "pagina": 23,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.1. Reconocimiento de Euskal Herria como nación y plurinacionalidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Solución política al conflicto entre Euskal Herria y el Estado",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El reconocimiento del derecho a decidir del pueblo vasco como mecanismo democrático y legítimo para dicha solución, basado en la voluntad y decisión de la ciudadanía vasca libre y democráticamente expresada.",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.1. Reconocimiento de Euskal Herria como nación y plurinacionalidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reconocimiento del derecho a decidir del pueblo vasco",
+      "etiquetas": [
+        "organización territorial",
+        "reforma constitucional",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El compromiso de respetar los acuerdos, propuestas y normas que emanen de las instituciones vascas en cualquier ámbito, respetando la legitimidad y capacidad de decisión de nuestras instituciones, evitando las injerencias que desde las diferentes instituciones del estado se producen.",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.1. Reconocimiento de Euskal Herria como nación y plurinacionalidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Respeto estatal a las decisiones de las instituciones vascas",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El respeto a los acuerdos sobre los nuevos marcos de relación con el estado/los nuevos estatus que puedan producirse mediante amplios acuerdos y cuando estos resulten refrendados por la sociedad vasca.",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.1. Reconocimiento de Euskal Herria como nación y plurinacionalidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Respeto a nuevos estatus refrendados por la sociedad vasca",
+      "etiquetas": [
+        "organización territorial",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exigiremos la transferencia de todas las competencias contempladas en el Estatuto Vasco y el Amejoramiento Navarro aún pendientes tras más de 40 años.",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.2. Autogobierno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transferir las competencias estatutarias pendientes",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Propondremos la asunción de nuevas competencias plenas e instrumentos para ampliar nuestras capacidades de autogobierno que nos permitan decidir, diseñar y desarrollar políticas propias adaptadas a las realidades y necesidades de nuestro país y nuestra sociedad:",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.2. Autogobierno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Asumir nuevas competencias plenas de autogobierno",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Migración",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.2. Autogobierno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Competencia plena en migración para las instituciones vascas",
+      "etiquetas": [
+        "inmigración",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "contexto": true,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguridad Social",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.2. Autogobierno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Competencia plena en Seguridad Social para las instituciones vascas",
+      "etiquetas": [
+        "seguridad social",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "contexto": true,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección social y desempleo",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.2. Autogobierno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Competencia plena en protección social y desempleo",
+      "etiquetas": [
+        "servicios sociales",
+        "empleo",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "contexto": true,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Puertos y aeropuertos",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.2. Autogobierno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Competencia plena en puertos y aeropuertos",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "contexto": true,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Energía",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.2. Autogobierno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Competencia plena en energía para las instituciones vascas",
+      "etiquetas": [
+        "energía",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "contexto": true,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Marco Vasco y Navarro de Relaciones Laborales",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.2. Autogobierno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Marco propio vasco y navarro de relaciones laborales",
+      "etiquetas": [
+        "empleo",
+        "sindicatos",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "contexto": true,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos también, por encima de cualquier intento de re-centralización o retroceso, el autogobierno y todas las capacidades y competencias asociadas al mismo:",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.2. Autogobierno"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa del autogobierno frente a la recentralización",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Velaremos por que ninguna norma que pueda ser propuesta por el Gobierno, el Congreso o el Senado, conlleve ningún tipo de invasión competencial, para lo que trabajaremos caso por caso para corregir y eliminar las posibles invasiones.",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.2. Autogobierno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Vigilar invasiones competenciales en normas estatales",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Trabajaremos para que cualquier nueva figura, ley o medida que interfiera y/o resulte complementaria a nuestras propias herramientas y/o competencias, sean transferidas y asumidas por las instituciones vascas, ensanchando así nuestras capacidades y autogobierno.",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.2. Autogobierno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Transferir nuevas figuras o leyes que afecten a competencias vascas",
+      "etiquetas": [
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos estas herramientas como uno de los pilares de nuestro bienestar social y autogobierno económico, fiscal y financiero. Igualmente, trabajaremos para lograr ensanchar estos instrumentos, dotándolos de nuevas capacidades y, además, acordar un nuevo modelo de negociación y cálculo para el Cupo y la Aportación, que acabe con la actual situación de desigualdad que perjudica los intereses de la sociedad vasca.",
+      "pagina": 24,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.3. Concierto Económico Vasco y Convenio Económico Navarro"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliar Concierto y Convenio y nuevo cálculo del Cupo",
+      "etiquetas": [
+        "financiación autonómica",
+        "organización territorial",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "contexto": true,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Trabajaremos para que se respeten y aseguren los derechos lingüísticos de la ciudadanía vasca en todos los ámbitos, terminando con la exclusión y discriminación que las diferentes estructuras y administraciones del estado mantienen.",
+      "pagina": 25,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.4. Euskera"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Derechos lingüísticos de la ciudadanía vascohablante",
+      "etiquetas": [
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la atención y uso del euskera en todas las administraciones del estado, asegurando el derecho de la ciudadanía vasca a interactuar y ser atendida en nuestra lengua tanto de manera presencial como telemática o telefónica. Para ello se deberán modificar las diferentes leyes que establecen los criterios de funcionamiento, selección y acceso a la administración estatal, mediante la Proposición de Ley que, junto al resto de grupos soberanistas, presentamos y que, pese a ser tomada en consideración, decayó en la tramitación debido al final anticipado de la legislatura.",
+      "pagina": 25,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.4. Euskera"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Atención en euskera en la Administración General del Estado",
+      "etiquetas": [
+        "lenguas",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover medidas para ampliar y extender el euskera en el ámbito digital y audiovisual, para alcanzar nuevos objetivos tanto en la producción como en el consumo de contenidos audiovisuales en euskera por parte de plataformas de contenido digitales.",
+      "pagina": 25,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.4. Euskera"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Euskera en plataformas digitales y audiovisuales",
+      "etiquetas": [
+        "lenguas",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyar y acompañar los esfuerzos conjuntos para que todas las lenguas propias de las diferentes naciones del Estado como el catalá, el galego, el asturiano o el aragonés cuenten con el reconocimiento y respeto que merecen.",
+      "pagina": 25,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.4. Euskera"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reconocimiento de catalán, gallego, asturiano y aragonés",
+      "etiquetas": [
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguir trabajando para lograr la oficialidad del euskera, el catalá y el galego en la Unión Europea y sus instituciones, para que nuestra lengua conviva en igualdad de condiciones con el resto de las lenguas de europa.",
+      "pagina": 25,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.4. Euskera"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Oficialidad del euskera, catalán y gallego en la UE",
+      "etiquetas": [
+        "lenguas",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos nuestra cultura y su creación como valor de país para que, en tiempos de expansión del consumo audiovisual, musical y creativo, las creaciones en euskera, en cualquiera de sus ámbitos, no sean discriminadas ni relegadas frente a la uniformización de contenidos , sino que nuestras producciones puedan llegar y alcanzar a toda la sociedad, sosteniendo, ayudando y promoviendo la cultura vasca.",
+      "pagina": 25,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.5. Cultura y producción audiovisual"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de la cultura y las creaciones en euskera",
+      "etiquetas": [
+        "cultura",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Blindar legislativamente ayudas a las producciones en euskera y el resto de lenguas oficiales diferentes al castellano.",
+      "pagina": 25,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.5. Cultura y producción audiovisual"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas por ley a producciones en lenguas cooficiales",
+      "etiquetas": [
+        "cultura",
+        "lenguas",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Que un mínimo del 15% del presupuesto del Fondo de Protección de la Cinematografía se destine específicamente a proyectos en lenguas oficiales distintas al castellano, asegurando la financiación y el desarrollo del cine en euskara.",
+      "pagina": 25,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.5. Cultura y producción audiovisual"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "15% del fondo de cine para lenguas cooficiales",
+      "etiquetas": [
+        "cultura",
+        "lenguas",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Defensa de la producción independiente delimitando estrictamente la definición de \"productor independiente\", evitando que los grandes grupos de comunicación y las plataformas de streaming absorban las ayudas públicas destinadas originalmente al tejido de pequeñas y medianas productoras, mayoritarias en nuestro país.",
+      "pagina": 25,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.5. Cultura y producción audiovisual"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Delimitar la definición de productor independiente",
+      "etiquetas": [
+        "cultura",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reservas de cuotas para la diversidad, estableciendo porcentajes mínimos de ayudas para proyectos liderados por mujeres, jóvenes o creados en lenguas oficiales distintas al castellano, además de elevar las reservas para películas dirigidas por mujeres.",
+      "pagina": 25,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.5. Cultura y producción audiovisual"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cuotas de ayudas al cine para mujeres, jóvenes y lenguas",
+      "etiquetas": [
+        "cultura",
+        "igualdad",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Propondremos la modificación de la actual legislación que impide que nuestras selecciones, las selecciones vascas, puedan competir en cualquier ámbito y disciplina, en igual de condiciones que el resto de selecciones en el ámbito internacional, y con la participación de deportistas de los siete territorios que componen nuestro país, Euskal Herria.",
+      "pagina": 26,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.6. Euskal Herriko selekzioak"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Selecciones deportivas vascas en competiciones internacionales",
+      "etiquetas": [
+        "deporte",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Así mismo, trabajaremos para eliminar el régimen sancionador que se aplica a los y las deportistas que no deseen participar de las selecciones españolas, constituyendo una imposición y una amenaza inaceptables para los y las deportistas vascas.",
+      "pagina": 26,
+      "apartado": [
+        "2. Reconocimiento de Euskal Herria como nación y autogobierno",
+        "2.6. Euskal Herriko selekzioak"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar sanciones a deportistas que rechacen la selección española",
+      "etiquetas": [
+        "deporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EH Bildu está comprometida en continuar aportando para recorrer, de la mano de la sociedad vasca, el proceso de construcción de la convivencia.",
+      "pagina": 27,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.1. Convivencia y Memoria Democrática"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Compromiso con la construcción de la convivencia",
+      "etiquetas": [
+        "memoria democrática"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La sociedad vasca tiene un compromiso firme con lograr una memoria inclusiva, basada en el respeto y reconocimiento de todas las víctimas, de todos los sufrimientos y vivencias, que vele por los derechos de todas ellas sin excepción.",
+      "pagina": 27,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.1. Convivencia y Memoria Democrática"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Memoria inclusiva y reconocimiento de todas las víctimas",
+      "etiquetas": [
+        "memoria democrática",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliar la Ley de Memoria Democrática para reconocer la condición de víctimas de vulneraciones de derechos humanos a colectivos que todavía no tienen tal reconocimiento, como las víctimas del franquismo, las de la tortura, las de la guerra sucia o los grupos de ultraderecha.",
+      "pagina": 27,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.1. Convivencia y Memoria Democrática"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliar las víctimas reconocidas en la Ley de Memoria Democrática",
+      "etiquetas": [
+        "memoria democrática",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogar la Ley de Secretos Oficiales, en vigor desde el franquismo, para asegurar una legislación que garantice la transparencia, la accesibilidad, la información y la protección respecto a todos los oscuros episodios que aún continúan bajo un manto de impunidad y que marcaron nuestra historia, como la muerte de Mikel Zabalza y Germán Rodríguez o la masacre del 3 de Marzo de Gasteiz, sucesos que aún siguen sin esclarecer y en los que, a pesar de los avances producidos, continúa sin haber una asunción de responsabilidades ni un reconocimiento efectivo de sus víctimas.",
+      "pagina": 27,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.1. Convivencia y Memoria Democrática"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogar la Ley de Secretos Oficiales",
+      "etiquetas": [
+        "transparencia",
+        "memoria democrática"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la aplicación de la legislación penitenciaria ordinaria a todas las personas presas y poner fin a todas las medidas de excepción en esta materia. Las decisiones penitenciarias deberán adoptarse de forma individualizada, conforme a los requisitos y garantías establecidos por la ley.",
+      "pagina": 27,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.1. Convivencia y Memoria Democrática"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Legislación penitenciaria ordinaria para todas las personas presas",
+      "etiquetas": [
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Retirar las condecoraciones a los agentes de las Fuerzas y Cuerpos de Seguridad del Estado involucrados en vulneraciones de derechos humanos.",
+      "pagina": 27,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.1. Convivencia y Memoria Democrática"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Retirar condecoraciones a agentes implicados en vulneraciones",
+      "etiquetas": [
+        "seguridad",
+        "derechos humanos",
+        "memoria democrática"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar en la Comunidad Autónoma Vasca y en la Comunidad Foral de Navarra, el repliegue de las Fuerzas y Cuerpos de Seguridad del Estado, en el marco del respeto y pleno desarrollo de las competencias de ambas comunidades en materia de seguridad ciudadana y orden público y en coherencia con el carácter integral de la Ertzaintza y de la Policía Foral.",
+      "pagina": 27,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.1. Convivencia y Memoria Democrática"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Repliegue de Policía Nacional y Guardia Civil en Euskadi y Navarra",
+      "etiquetas": [
+        "seguridad",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos la soberanía de los pueblos frente a las injerencias externas, rechazando las diferentes formas que las diferentes potencias mundiales están adoptando en el contexto de la lucha por la hegemonía mundial y económica y la influencia geopolítica.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.1 Por los pueblos, contra las injerencias"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Soberanía de los pueblos frente a injerencias externas",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La mejor herramienta para la resolución de los conflictos son el diálogo, la diplomacia y el acuerdo.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.2 Por la paz, contra las guerras"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Diálogo y diplomacia para resolver conflictos",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello respaldaremos los procesos de paz y diálogo frente a las intervenciones y escaladas militares.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.2 Por la paz, contra las guerras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a procesos de paz frente a intervenciones militares",
+      "etiquetas": [
+        "política exterior",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Rechazaremos, por tanto, el envío de armas y la financiación para las mismas, que no harán sino recrudecer las guerras derivadas de estos conflictos.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.2 Por la paz, contra las guerras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rechazo al envío y financiación de armas",
+      "etiquetas": [
+        "defensa",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Igualmente, rechazaremos el aumento del gasto en defensa que la OTAN está exigiendo.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.2 Por la paz, contra las guerras"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rechazo al aumento del gasto en defensa",
+      "etiquetas": [
+        "defensa",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Europa necesita un proyecto de seguridad integral que no puede ser dependiente de los Estados Unidos y debe apostar por el diálogo y la diplomacia.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.3 Seguridad europea, seguridad indivisible"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Seguridad europea no dependiente de Estados Unidos",
+      "etiquetas": [
+        "defensa",
+        "unión europea",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En este sentido reivindicaremos una revisión de la arquitectura de paz y seguridad existente hasta la fecha: los Acuerdos de Helsinki, las convenciones de Ginebra, el Protocolo de Viena, la OSCE… y reivindicaremos de manera central el principio de la seguridad indivisible, ya que la seguridad en Europa no puede construirse en detrimento de la seguridad de otros.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.3 Seguridad europea, seguridad indivisible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Revisar la arquitectura de seguridad europea",
+      "etiquetas": [
+        "defensa",
+        "política exterior",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Rechazamos la OTAN y la pertenencia de Euskal Herria a la misma, adoptando y reconociendo así la decisión adoptada por la sociedad vasca expresada con su voto en el referéndum de 1986. Por ello, apostaremos por terminar con el modelo de dependencia actual hacia esta organización y EEUU.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.4 No a la OTAN"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Rechazo a la pertenencia a la OTAN",
+      "etiquetas": [
+        "defensa",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Frente a ello, abogaremos por la construcción de un proyecto de seguridad estratégica europeo que establezca nuevos principios en base a la diplomacia, el respeto al derecho internacional, los acuerdos de y la autonomía estratégica, contraponiendo un nuevo modelo integral respetuoso con los pueblos y naciones y su derecho a la paz, frente a la visión ofensiva, injerencista y bélica de EEUU y la alianza atlántica.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.4 No a la OTAN"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Proyecto de seguridad europeo alternativo a la OTAN",
+      "etiquetas": [
+        "defensa",
+        "unión europea",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Propondremos cerrar y desmantelar el campo de tiro de las Bardenas, un entorno protegido de alto valor ecológico, que es utilizado para maniobras con fuego real por el ejército español y la OTAN, lo cual ha generado numerosos accidentes y molestias constantes a la ciudadanía del entorno. Para ello, propondremos planes de reconversión y financiación suficiente que aseguren el futuro de los municipios.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.5 Bases fuera, Bardeak herriarentzat"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cerrar el polígono de tiro de las Bardenas",
+      "etiquetas": [
+        "defensa",
+        "medio ambiente",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Así mismo, apostaremos por impedir el uso que Estados Unidos hace de las más de 275 bases e instalaciones en Europa, incluidas Rota y Morón, que son utilizadas como centros de operaciones para las guerras que EEUU mantiene, así como la salida de los más de 100.000 soldados estadounidenses en activo en Europa.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.5 Bases fuera, Bardeak herriarentzat"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bases de Estados Unidos en Europa, incluidas Rota y Morón",
+      "etiquetas": [
+        "defensa",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Propondremos el impulso y la adhesión al Tratado sobre la Prohibición de Armas Nucleares (TPAN) frente al aumento del riesgo y la amenaza de su uso por parte de las potencias nucleares mundiales.",
+      "pagina": 28,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.6 Desarme nuclear"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Adhesión al Tratado sobre la Prohibición de Armas Nucleares",
+      "etiquetas": [
+        "defensa",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El genocidio que Palestina sufre por parte de Israel es consecuencia de décadas de ocupación, negación y vulneración de los derechos del pueblo palestino.",
+      "pagina": 29,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.7 Frente al genocidio y la ocupacion, libertad para Palestina"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Postura sobre el conflicto entre Israel y Palestina",
+      "etiquetas": [
+        "política exterior",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por eso, más allá de la denuncia, propondremos tomar todas las medidas que busquen el aislamiento económico y político de Israel, rompiendo para ello el Tratado de Amistad que la UE mantiene con Israel, así como la finalización de las relaciones económicas y comerciales con empresas o capital israelíes.",
+      "pagina": 29,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.7 Frente al genocidio y la ocupacion, libertad para Palestina"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ruptura de acuerdos y relaciones económicas con Israel",
+      "etiquetas": [
+        "política exterior",
+        "unión europea",
+        "comercio exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, propondremos endurecer el embargo de armas para un embargo real y efectivo, bloqueando por completo la venta de armas.",
+      "pagina": 29,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.7 Frente al genocidio y la ocupacion, libertad para Palestina"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Embargo total de armas a Israel",
+      "etiquetas": [
+        "política exterior",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tambien será necesario que el reconocimiento del Estado Palestino, mas alla del reconocimeinto diplomatico, se dote de politicas especificas y efectividad material.",
+      "pagina": 29,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.7 Frente al genocidio y la ocupacion, libertad para Palestina"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Políticas concretas tras el reconocimiento de Palestina",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Propondremos, de nuevo, revertir el cambio de posicionamiento del Gobierno español con respecto al Sahara, recuperando el reconocimiento, apoyo y respeto al derecho de autodeterminación del Pueblo Saharaui así como el rechazo a la política de ocupación de Marruecos.",
+      "pagina": 29,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.8 En defensa del pueblo saharaui y su derecho a la autodeterminación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revertir la posición del Gobierno sobre el Sáhara",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Así mismo, impulsaremos iniciativas legislativas que amplíen y reconozcan los derechos de las y los saharauis.",
+      "pagina": 29,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.8 En defensa del pueblo saharaui y su derecho a la autodeterminación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Iniciativas sobre derechos de las personas saharauis",
+      "etiquetas": [
+        "política exterior",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Presentaremos iniciativas para exigir el fin del bloqueo energético, económico, comercial y financiero que EEUU impone a Cuba, como inicio del fin de las sanciones y el castigo aplicado durante décadas al pueblo cubano.",
+      "pagina": 29,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.9 Acabar con el bloqueo contra Cuba y su pueblo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Exigir el fin del embargo de Estados Unidos a Cuba",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asimismo, volveremos a impulsar el intergrupo por Cuba constituido en el Congreso, manteniendo la solidaridad y el apoyo.",
+      "pagina": 29,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.9 Acabar con el bloqueo contra Cuba y su pueblo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Impulsar el intergrupo parlamentario sobre Cuba",
+      "etiquetas": [
+        "política exterior",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mantendremos la posición en defensa del Derecho Internacional y el multilateralismo.",
+      "pagina": 29,
+      "apartado": [
+        "3. Paz y convivencia",
+        "3.2. Paz",
+        "3.2.10 Por el multilateralismo y el derecho internacional"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa del derecho internacional y el multilateralismo",
+      "etiquetas": [
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

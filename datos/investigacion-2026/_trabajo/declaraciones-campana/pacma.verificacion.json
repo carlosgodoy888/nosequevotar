@@ -1,0 +1,26 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "corregida",
+      "motivo": "La frase está literalmente en la nota de prensa oficial de pacma.es (publicada el 15-11-2026, datePublished 2026-11-15T06:47), pero no se entiende sola: «ambas vías judiciales» y «esa declaración» remiten al párrafo anterior. La misma nota trae en su subtítulo una frase equivalente que sí se entiende sola (nombra los tribunales y la declaración como Bien de Interés Cultural); se propone usar esa. Fecha, autoría (texto oficial del partido) y tema son correctos.",
+      "cita_corregida": "El Partido Animalista seguirá reclamando en los tribunales la prohibición del festejo y la anulación de su declaración como Bien de Interés Cultural.",
+      "campos_corregidos": "nota: Recurrirá en los tribunales para prohibir el Toro Júbilo de Medinaceli y anular su declaración como Bien de Interés Cultural"
+    },
+    {
+      "n": 2,
+      "veredicto": "rechazada",
+      "motivo": "El texto es literal y está atribuido a Asier Esparza, candidato de PACMA a la presidencia del Gobierno, en AION SUR (12-11-2026), pero es un reproche a Frente Amplio por no haber contactado con PACMA, no una propuesta, un compromiso sobre pactos ni una postura sobre el tema. Además no se entiende sola: «la componen» remite a una coalición que no se nombra en la cita.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "rechazada",
+      "motivo": "El texto es literal y está atribuido a Asier Esparza en AION SUR (12-11-2026), pero es una petición dirigida al programa La Revuelta para que invite al propio partido, no una propuesta ni una postura sobre democracia e instituciones. Tampoco se entiende sola: «Aprovechen ahora que están hablando de nosotros» se dirige a un interlocutor que no se identifica en la cita.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    }
+  ],
+  "notas": "Se leyeron los robots.txt de pacma.es y aionsur.com: ninguno prohíbe el acceso a agentes de IA ni a las páginas consultadas. La nota de pacma.es menciona que Asier Esparza intervino en la concentración de Medinaceli, pero no recoge ninguna frase suya. En la noticia de AION SUR solo aparece «candidato a la presidencia del Gobierno», sin el segundo apellido ni la cabeza de lista por Madrid; esos datos coinciden con partidos/pacma.md. El vídeo de Esparza responde a la intervención de Colau en La Revuelta del martes 10-11-2026, así que es de campaña."
+}

@@ -1,0 +1,79 @@
+{
+  "revisiones": [
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone reforzar la lucha contra la violencia machista, garantizar el aborto gratuito en la sanidad pública y reforzar la prohibición de la gestación subrogada.",
+          "apoyos": ["c-28b7704342", "c-49b3132bcc", "c-e7f9015d5e", "c-1c2f119f6e", "c-e513e0a473"]
+        },
+        {
+          "texto": "Quiere tipificar como delito las terapias de conversión y «blindar» la ley trans y el matrimonio igualitario.",
+          "apoyos": ["c-f152f6f494", "c-fd471d0bfe"]
+        },
+        {
+          "texto": "Pide sustituir la aconfesionalidad del Estado por el laicismo, retirar la mención a la Iglesia católica de la Constitución y poner fin a su financiación pública.",
+          "apoyos": ["c-7b05ff91e1", "c-71d0ae839b", "c-82e48a2a05"]
+        },
+        {
+          "texto": "También propone derogar la Ley de Protección de la Seguridad Ciudadana y la Ley de Amnistía de 1977.",
+          "apoyos": ["c-f8ae42af7e", "c-9405a433fc"]
+        }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: «Quiere construir» endurece la cita c-d90414cd75, que dice «Trabajaremos por la construcción»; se cambia a «Plantea». Se precisa «todo el gasto en Defensa», como dice c-788f83b8a9.",
+        "Frase 4: «elevar el presupuesto comunitario» presenta como decisión propia lo que la cita c-36cdee31f2 plantea como negociación con los socios europeos («Negociaremos ... hasta al menos el 2% RNB»); se cambia a «negociar un presupuesto de al menos el 2 %»."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Plantea una Unión Europea de la Defensa que pueda sustituir el marco de la OTAN y propone auditar todo el gasto en Defensa.",
+          "apoyos": ["c-d90414cd75", "c-788f83b8a9"]
+        },
+        {
+          "texto": "Propone romper relaciones diplomáticas y comerciales con Israel y prohibir la venta de armas a países que vulneren los derechos humanos.",
+          "apoyos": ["c-4ba028b3a7", "c-80f8aab4da", "c-0a85a71c7c"]
+        },
+        {
+          "texto": "Pide un referéndum de autodeterminación en el Sáhara Occidental y blindar por ley el 0,7 % para la cooperación al desarrollo.",
+          "apoyos": ["c-1aae3f896f", "c-7f0826df0e"]
+        },
+        {
+          "texto": "En la UE, plantea superar la unanimidad en política exterior y fiscal y negociar un presupuesto de al menos el 2 % de la RNB.",
+          "apoyos": ["c-c2ca664761", "c-36cdee31f2"]
+        }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende una financiación de la investigación que supere el 3 % del PIB y una «cláusula de no retroceso» que impida recortar la ciencia en tiempos de crisis.",
+          "apoyos": ["c-fdbf459283", "c-f72bd7fc8d"]
+        },
+        {
+          "texto": "Propone una carrera investigadora estable que sustituya los contratos precarios encadenados.",
+          "apoyos": ["c-33f4432c43", "c-d25f54ca05", "c-4d97c24551"]
+        },
+        {
+          "texto": "En cultura, plantea desplegar el Estatuto del Artista, extender el Bono Cultural Joven a los 16-30 años y reforzar la financiación de las instituciones culturales valencianas.",
+          "apoyos": ["c-4a5236e380", "c-d1a818eca2", "c-59b85eb4bf", "c-d442fa7092"]
+        },
+        {
+          "texto": "En lo digital, quiere regular de forma estricta la inteligencia artificial y promover una ley de protección de la infancia en entornos digitales.",
+          "apoyos": ["c-2e95ebdcb9", "c-51d5fcad9e"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la entrevista de EFE publicada por Infobae el 13-11-2026 (06:46 UTC), atribuido a Cristina Valido, «su cabeza de lista». Postura sobre la investidura, coherente con el tema de pactos.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "comprobada",
+      "motivo": "Respuesta literal de Teodoro Sosa en la entrevista de pregunta y respuesta de Atlántico Hoy, publicada el 14-11-2026; el artículo lo presenta como cabeza de la candidatura Primero Canarias-Coalición Canaria al Congreso por Las Palmas. Es un compromiso sobre gobernabilidad que se entiende solo.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la nota de prensa de coalicioncanaria.org fechada el 13-11-2026, atribuido a Cristina Valido, candidata por Santa Cruz de Tenerife. Propone una acción determinada (prohibir la compra de vivienda a no residentes).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "comprobada",
+      "motivo": "Respuesta literal de Teodoro Sosa en la entrevista de Atlántico Hoy (14-11-2026). Concreta un requisito: diez años de residencia para que un extranjero no residente compre vivienda.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 5,
+      "veredicto": "comprobada",
+      "motivo": "Respuesta literal de Teodoro Sosa en la entrevista de Atlántico Hoy (14-11-2026), en la parte sobre vivienda. Se entiende sola a pesar de empezar por «Y».",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 6,
+      "veredicto": "comprobada",
+      "motivo": "Respuesta literal de Teodoro Sosa en la entrevista de Atlántico Hoy (14-11-2026). Es una postura sobre la financiación autonómica, ligada a sanidad, educación y dependencia.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 7,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la nota de coalicioncanaria.org fechada el 15-11-2026, atribuido a Cristina Valido.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 8,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la misma nota de coalicioncanaria.org (15-11-2026), atribuido a Cristina Valido. Nombra una acción determinada: mantener íntegro el POSEI y la aportación estatal completa a las ayudas agrarias.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 9,
+      "veredicto": "corregida",
+      "motivo": "Texto literal entre comillas en la nota de coalicioncanaria.org fechada el 12-11-2026, atribuido a Cristina Valido. Se corrige el tema secundario: la frase trata de si las ayudas al campo las reparte Madrid o llegan directamente a Canarias, que es un asunto de reparto entre el Estado y la comunidad. No es política exterior ni defensa, y la frase no menciona Europa.",
+      "cita_corregida": "",
+      "campos_corregidos": "temas_secundarios: organizacion-territorial"
+    },
+    {
+      "n": 10,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en Digital Faro Canarias, publicado el 16-11-2026, atribuido a Teodoro Sosa, candidato de Primero Canarias-Coalición Canaria al Congreso por Las Palmas. Incluye cifras comprobables (desaladora de 15.000 m³/día y 140 millones de euros al año). La última frase es una crítica al Gobierno, pero sirve de contexto a la exigencia.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 11,
+      "veredicto": "comprobada",
+      "motivo": "Respuesta literal de Teodoro Sosa en la entrevista de Atlántico Hoy (14-11-2026). Es una postura sobre la financiación estatal del transporte en Canarias.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 12,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la nota de coalicioncanaria.org fechada el 14-11-2026, atribuido a Cristina Valido.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 13,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la nota de coalicioncanaria.org fechada el 10-11-2026, dentro del periodo de campaña, atribuido a Cristina Valido. Pide más financiación estatal para las universidades canarias.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    }
+  ],
+  "notas": "Se leyeron enteros los robots.txt de infobae.com, atlanticohoy.com, coalicioncanaria.org y digitalfarocanarias.com: ninguno bloquea a los agentes de IA ni a todos los agentes en las rutas usadas. Las ocho páginas se descargaron con curl, sin muros de pago. Todas las fechas van del 10 al 16 de noviembre de 2026. Las notas de coalicioncanaria.org son comunicados de prensa del propio partido. La entrevista de Atlántico Hoy está en formato de pregunta y respuesta, así que las respuestas de Sosa son literales. Para quien edite: en la cita 1, el mismo artículo de EFE añade que Valido está abierta a apoyar la investidura de Feijóo aunque luego pacte Gobierno con Vox. Eso contrasta con la cita 2 de Sosa; la nota del investigador ya lo recoge."
+}

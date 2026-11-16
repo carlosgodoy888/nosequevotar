@@ -1,0 +1,118 @@
+{
+  "partido": "pp",
+  "lote": "pp.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        { "id": "c-cf9eee0af6", "motivo": "Es la línea principal del resumen (construir un millón de viviendas) y la que Feijóo repite en campaña («lo importante es que vamos a hacer un millón de viviendas»); lleva cifra y se vota sola.", "texto": null, "cambio": null },
+        { "id": "c-f32f0dd897", "motivo": "Segunda línea del resumen: derogar la Ley de Vivienda; es más general y clara que la de eliminar zonas tensionadas, que es una concreción de esta.", "texto": null, "cambio": null },
+        { "id": "c-a0d837b348", "motivo": "Tercera línea del resumen (ayudas a la compra para jóvenes): IVA del 4% en la primera vivienda de menores de 40, con cifra y destinatarios concretos.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-3f4d5ac916", "por_que_no": "Ocupación en 48 horas es la cuarta línea del resumen y destacada en el programa, pero es más secundaria que el millón de viviendas, la derogación de la ley y la ayuda a la compra; con tres huecos queda fuera." },
+        { "id": "c-608d59491b", "por_que_no": "El aval público para la entrada es de la misma línea que el IVA del 4% y pasa de 50 palabras (77)." },
+        { "id": "c-41f0cbee99", "por_que_no": "Licencias en tres meses es una medida instrumental de la línea del millón de viviendas, que ya representa la primera." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        { "id": "c-64f6a0239d", "motivo": "Primera línea del resumen (apoyo al autónomo): cuota cero el primer año para los nuevos autónomos, medida titular del apartado y con plazo concreto.", "texto": null, "cambio": null },
+        { "id": "c-76dc096756", "motivo": "Segunda línea del resumen (abaratar la contratación): bonificar el 100% de las cotizaciones por el primer trabajador durante un año, con cifras.", "texto": null, "cambio": null },
+        { "id": "c-a6e2cb2de7", "motivo": "Tercera línea del resumen (formación): cheque de formación para cada trabajador; se elige esta y no el titular sobre IA porque explica la medida completa.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-df4a4a1685", "por_que_no": "No cobrar ni declarar IVA por debajo de 85.000 euros es de la misma línea del autónomo que la primera y es más una medida fiscal." },
+        { "id": "c-358513e7c2", "por_que_no": "Cotizar menos por desempleo con plantillas estables es de la misma línea que la bonificación del primer trabajador, que es más concreta y con cifras." },
+        { "id": "c-f7745060b2", "por_que_no": "Es el titular del cheque de formación, pero mezcla un diagnóstico sobre la IA con la medida; la c-a6e2cb2de7 la explica mejor." }
+      ],
+      "nota": "La declaración de campaña sobre el IRPF no tiene medida equivalente en las candidatas de este tema; la de cupos de inmigración se ha tenido en cuenta en el tema de inmigración."
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        { "id": "c-90746e7c86", "motivo": "Primera línea del resumen: auditoría de todo el gasto en cien días; Feijóo la destaca en campaña («en el primer Consejo de Ministros arrancará una auditoría») y lleva plazo. Tiene 73 palabras, dentro del límite.", "texto": null, "cambio": null },
+        { "id": "c-99a2971e1d", "motivo": "Segunda línea del resumen (disciplina fiscal): ningún gasto nuevo sin garantizar su financiación; breve y votable.", "texto": null, "cambio": null },
+        { "id": "c-7f3d9f1807", "motivo": "Cuarta línea del resumen (impulso a la industria): proyectos de al menos cien empleos declarados estratégicos con tramitación acelerada; aporta la vertiente empresarial que no cubren las dos anteriores.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-e451ad9cde", "por_que_no": "«Ningún gasto se renovará por inercia» lo repite Feijóo en campaña, pero es la continuación de la auditoría (misma línea que la primera)." },
+        { "id": "c-bc6bcb2eae", "por_que_no": "La revisión de ayudas, contratos y subvenciones es parte de la misma línea de la auditoría, que es más amplia y es la que se destaca en campaña." },
+        { "id": "c-f6dfdaefc8", "por_que_no": "La licencia válida en todas las comunidades es también línea del resumen, pero es más larga (59 palabras) y menos central que la aceleración de inversiones industriales." }
+      ],
+      "nota": "La reducción de cargas administrativas del 25% (línea 3 del resumen) no figura entre las candidatas de este tema; está en el de democracia e instituciones."
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        { "id": "c-4dee3ad7e2", "motivo": "Línea de refuerzo de profesionales del resumen: al menos 4.500 médicos más en Atención Primaria; es la medida más concreta, con cifra, y transmite su apuesta por reforzar la sanidad pública.", "texto": null, "cambio": null },
+        { "id": "c-b315c478f1", "motivo": "Primera línea del resumen: plan urgente de reducción de listas de espera acordado con las comunidades; más concreta que el Pacto de Estado del que forma parte.", "texto": null, "cambio": null },
+        { "id": "c-3df3730856", "motivo": "Tercera línea del resumen: Plan Nacional de Salud Mental 2027-2037 con financiación garantizada, con plazo.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-0b304938ee", "por_que_no": "El Pacto de Estado por la Sanidad Pública encabeza el resumen, pero es un compromiso de proceso sin contenido concreto que votar; el plan de listas de espera lo concreta." },
+        { "id": "c-f3f816ac49", "por_que_no": "La ley de cuidados paliativos es la cuarta línea del resumen; empieza por «Para ello», que remite al texto anterior, y es más secundaria." },
+        { "id": "c-20166b0fd5", "por_que_no": "La historia clínica única está en el resumen, pero ocupa 76 palabras y es una medida de coordinación menos central." }
+      ],
+      "nota": "La c-b315c478f1 empieza por «Con ese objetivo,» (remite al Pacto de Estado), pero se entiende sola; quien revise puede valorarlo. Si se descarta, la alternativa es c-0b304938ee."
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        { "id": "c-b562855e14", "motivo": "Línea central de su postura (inmigración legal y ordenada según el empleo): cupos anuales de trabajadores por sectores; es lo que Feijóo repite en campaña («establecer cupos máximos y vías legales»).", "texto": null, "cambio": null },
+        { "id": "c-dc9956ce1c", "motivo": "Tercera línea del resumen: prohibir por ley las regularizaciones masivas y hacer excepcional el arraigo; titular destacado del programa y distinto del de los cupos.", "texto": null, "cambio": null },
+        { "id": "c-4d95eed4ed", "motivo": "Primera línea del resumen (control de la frontera): más agentes y apoyo de las Fuerzas Armadas en la frontera sur; breve y clara.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-c41f227abb", "por_que_no": "La expulsión de condenados es la cuarta línea del resumen y Feijóo habla en campaña de expulsar a quien no respete las leyes, pero con tres huecos se priorizan la vía legal, las regularizaciones y la frontera, más centrales en el programa." },
+        { "id": "c-8dab6bccf3", "por_que_no": "Identificación en siete días y devoluciones sin demora es de la línea de frontera, pero pasa de 50 palabras y es menos general que la c-4d95eed4ed." },
+        { "id": "c-0ad99f4f81", "por_que_no": "El compromiso de integración lo menciona Feijóo en campaña, pero es una línea más secundaria que los cupos y la prohibición de regularizaciones." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        { "id": "c-a6fef7e916", "motivo": "Línea de lucha contra la corrupción del resumen (restablecer las penas por malversación); es la que Feijóo destaca en campaña («quien haya robado, lo pagará»). Breve y votable.", "texto": null, "cambio": null },
+        { "id": "c-1430346a3e", "motivo": "Primera línea del resumen (adelgazar la estructura política): menos ministerios, altos cargos y asesores.", "texto": null, "cambio": null },
+        { "id": "c-70ae146b02", "motivo": "Segunda línea del resumen (independencia de las instituciones): reforma de RTVE y EFE en los primeros cien días; se prefiere a la del CIS o el INE porque lleva plazo y es la de mayor alcance público.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-171d0336e0", "por_que_no": "Segunda prórroga presupuestaria con elecciones está en el resumen y conecta con la declaración de campaña sobre presentar presupuestos cada año, pero es más técnica y secundaria que la malversación." },
+        { "id": "c-315f789cb3", "por_que_no": "Eliminar tres normas por cada nueva es del resumen, pero es de simplificación administrativa, línea ya cubierta por la reducción de estructura política." },
+        { "id": "c-513616f137", "por_que_no": "Publicar íntegros los pactos de investidura está en el resumen, pero es menos central que la malversación en su discurso de campaña." }
+      ],
+      "nota": "La derogación de la Ley de Amnistía y la auditoría del gasto (resumen) no figuran entre las candidatas de este tema; la auditoría se ha elegido en economía."
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        { "id": "c-e4c1903b9d", "motivo": "Primera línea del resumen: sustituir la LOMLOE por un nuevo marco acordado; es el cambio de fondo del que cuelgan las demás medidas.", "texto": null, "cambio": null },
+        { "id": "c-61fd806392", "motivo": "Segunda línea del resumen: libre elección de colegio y mantener los conciertos donde haya demanda; titular destacado del programa.", "texto": null, "cambio": null },
+        { "id": "c-141cb3adf3", "motivo": "Tercera línea del resumen: escuela infantil de 0 a 3 años gratuita, con reparto de financiación y plazo (al final de la legislatura).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-6a59c0c202", "por_que_no": "Pasar de curso en la ESO con las asignaturas aprobadas es de la misma línea que la sustitución de la LOMLOE, que es más general." },
+        { "id": "c-4be0d26c24", "por_que_no": "La enseñanza en castellano es de la segunda línea del resumen, pero la libertad de elección y los conciertos ocupan más espacio en su postura educativa." },
+        { "id": "c-195749fa4a", "por_que_no": "La beca como derecho por ley es la cuarta línea del resumen; con tres huecos queda por detrás de la escuela infantil gratuita, que lleva cifra y plazo." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        { "id": "c-d28657f2f3", "motivo": "Primera línea del resumen: eliminar el calendario de cierre de las nucleares y extender su vida útil en los primeros cien días; la medida titular de su política energética, con plazo.", "texto": null, "cambio": null },
+        { "id": "c-d0629e0d0f", "motivo": "Tercera línea del resumen: Pacto Nacional del Agua con 40.000 millones hasta 2030; el partido lo destaca en campaña.", "texto": null, "cambio": null },
+        { "id": "c-aad647fc71", "motivo": "Segunda línea del resumen: suprimir de inmediato el impuesto del 7% a la producción eléctrica y bajar la carga fiscal del recibo.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-0b883f5cb2", "por_que_no": "La Tarifa Social Única es de la misma línea que la rebaja fiscal de la luz, que es la que encabeza el apartado." },
+        { "id": "c-59aab8ff14", "por_que_no": "Reforzar el sistema eléctrico contra apagones está en el resumen, pero es una medida más técnica (actualizar reglas) y menos central que la nuclear." },
+        { "id": "c-2e2417b116", "por_que_no": "La estrategia nuclear y los reactores modulares es de la misma línea que la primera, menos concreta." }
+      ],
+      "nota": "La c-aad647fc71 lleva en su titular también la Tarifa Social Única, pero el texto desarrolla solo la rebaja fiscal; quien revise puede valorar si la mezcla de dos acciones es aceptable."
+    }
+  ]
+}

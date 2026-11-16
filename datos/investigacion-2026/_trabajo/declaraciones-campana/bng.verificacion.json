@@ -1,0 +1,103 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Nota de prensa de bng.gal publicada el 10-11-2026 (article:published_time 2026-11-10T17:07). La frase está literal entre comillas, atribuida a la portavoz nacional Ana Pontón en un encuentro sobre vivienda en A Coruña. Propone una acción determinada (compra de vivienda vacía ya construida para alquiler social).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "comprobada",
+      "motivo": "Entrevista de El Salto publicada el 10-11-2026 (datePublished 2026-11-10T06:00). Respuesta literal de Néstor Rego, presentado como candidato del BNG al Congreso por A Coruña y diputado. Enumera medidas concretas (tope a alquileres e hipotecas, viviendas de la Sareb, expropiación de vacías de fondos).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en la entrevista de El Salto (10-11-2026), respuesta de Néstor Rego a la pregunta sobre condiciones para una nueva investidura. Compromiso sobre gobernabilidad que se entiende solo.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "corregida",
+      "motivo": "El texto está literal en la entrevista de El Salto (10-11-2026), pero empieza por «La segunda es que», que remite a la enumeración de la cita anterior y no se entiende sola. Se propone el mismo fragmento literal sin ese arranque. La nota original («Apoyo a una investidura sin acuerdo de legislatura») sugiere un apoyo que la frase no anuncia; se ajusta a lo que dice.",
+      "cita_corregida": "tampoco vamos a dar un cheque en blanco a nadie. Nunca lo hicimos. Lo que firmamos con el Partido Socialista en 2020 y 2023 no fue un acuerdo de legislatura, sino solo de investidura.",
+      "campos_corregidos": "nota: No dará un cheque en blanco; sus acuerdos con el PSOE en 2020 y 2023 fueron solo de investidura"
+    },
+    {
+      "n": 5,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en la entrevista de El Salto (10-11-2026), Néstor Rego. Condiciones para una investidura: financiación e inversiones ferroviarias. Tema y temas secundarios adecuados.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 6,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en la entrevista de El Salto (10-11-2026), Néstor Rego. Arranca con «Pero», pero se entiende sola: anuncia voto en contra y enmienda a la totalidad al nuevo sistema de financiación y pide un concierto económico, acciones determinadas.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 7,
+      "veredicto": "comprobada",
+      "motivo": "Nota de prensa de bng.gal publicada el 16-11-2026. La frase está literal entre comillas, atribuida a Néstor Rego, cabeza de lista por A Coruña y diputado. Objetivo concreto: gratuidad de la AP-9.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 8,
+      "veredicto": "comprobada",
+      "motivo": "Nota de prensa de bng.gal publicada el 13-11-2026. Frase literal entre comillas, atribuida a la portavoz nacional Ana Pontón en un acto en Monforte. Actuación ferroviaria concreta (Corredor Atlántico en Ourense-Monforte-Lugo y León-Monforte).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 9,
+      "veredicto": "comprobada",
+      "motivo": "Nota de prensa de bng.gal publicada el 13-11-2026. Frase literal entre comillas, atribuida a Noa Presas, cabeza de lista del BNG por Ourense. El contexto de la nota confirma que «os dispositivos» son los de control telemático de protección de las víctimas, como dice la nota.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 10,
+      "veredicto": "comprobada",
+      "motivo": "Nota de prensa de bng.gal publicada el 14-11-2026. Frase literal entre comillas, atribuida a Olalla Rodil, cabeza de lista del BNG por Lugo. Es un compromiso genérico (no detalla las propuestas), pero tiene contenido sobre el tema y está bien marcado como medida_concreta false. La misma nota recoge otro fragmento más concreto, también entre comillas: que el BNG defenderá «todas as reformas lexislativas necesarias para garantir os dereitos da poboación inmigrante».",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 11,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en la entrevista de El Salto (10-11-2026), Néstor Rego, en respuesta a la pregunta sobre un mayor gasto militar en Europa. Postura clara sobre el tema.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 12,
+      "veredicto": "comprobada",
+      "motivo": "Nota de prensa de bng.gal publicada el 13-11-2026. Frase literal entre comillas, atribuida a Noa Presas, cabeza de lista por Ourense. En la misma nota dice que el BNG está en contra de aplicar el acuerdo UE-Mercosur, lo que respalda la nota de la cita.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 13,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en la entrevista de El Salto (10-11-2026), Néstor Rego. Medidas concretas (35 horas sin reducción salarial, derogación de la reforma laboral y de la ley mordaza). Como tema secundario de la ley mordaza también encajaría democracia-e-instituciones, pero igualdad-y-derechos es defendible.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 14,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en la entrevista de El Salto (10-11-2026), Néstor Rego. Propone un tope al precio de los combustibles y gravar los beneficios extraordinarios de las energéticas.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    }
+  ],
+  "notas": "Revisadas las 14 citas abriendo sus 7 fuentes (cinco notas de prensa de bng.gal y una entrevista de El Salto). Los robots.txt de www.bng.gal y www.elsaltodiario.com no restringen a agentes de IA; las páginas usadas no están en rutas prohibidas. Fechas confirmadas con los metadatos de publicación: 10, 13, 14 y 16 de noviembre de 2026. Cargos confirmados en las fuentes: Ana Pontón, portavoz nacional; Néstor Rego, diputado y cabeza de lista por A Coruña; Noa Presas, cabeza de lista por Ourense; Olalla Rodil, cabeza de lista por Lugo. La entrevista de El Salto se hizo antes de la huelga general del 11-N y se publicó el 10-11-2026."
+}

@@ -1,0 +1,153 @@
+{
+  "revisiones": [
+    {
+      "tema": "vivienda",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: se atribuye a la cabeza de lista por Las Palmas pero se apoya también en c-237e824d27, que es de Marisol Collado (cabeza de lista por Santa Cruz de Tenerife) y no propone ninguna medida; se quita ese apoyo.",
+        "Frase 2: la cita c-8af2166a70 pide «facilitar» que los ayuntamientos declaren zonas tensionadas; «que los ayuntamientos declaren» endurecía el alcance. Se pasa a «puedan declarar».",
+        "Frase 3: la cita de vivienda vacacional se refiere a Canarias («En Canarias hoy no cabe…») y la frase lo omitía; la de desahucios pide impedirlos y además ampliar el parque de vivienda, y la frase fundía las dos ideas («sin solución habitacional») y dejaba fuera la ampliación del parque.",
+        "Frase 4: el tipo del 20 % de Transmisiones Patrimoniales sale de una nota de prensa de NC-BC de septiembre sobre un impuesto cedido a las comunidades; la cita no dice que sea una propuesta estatal y es probable que sea autonómica, así que no se presenta como propuesta para estas elecciones. Se sustituye por la petición al Estado de intervenir en el mercado (c-dee409300f), que antes figuraba como apoyo sin estar en el texto.",
+        "Dudas del redactor resueltas: el 20 % se deja fuera por ámbito incierto; la derogación de la RIC queda en economía."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Su cabeza de lista por Las Palmas propone expropiar viviendas de «fondos buitre» en Canarias e impedir que las compren extranjeros no residentes.",
+          "apoyos": ["c-dc6a77f15e"]
+        },
+        {
+          "texto": "Pide la vivienda como derecho fundamental constitucional, que los ayuntamientos puedan declarar zonas tensionadas y que las viviendas vacías sean «un bien social».",
+          "apoyos": ["c-695bd1db78", "c-8af2166a70", "c-7caa1735d8"]
+        },
+        {
+          "texto": "Quiere impedir desahucios de personas vulnerables, ampliar el parque de vivienda y no admitir más viviendas vacacionales en suelo residencial canario.",
+          "apoyos": ["c-44ade07616", "c-ffc2da2209"]
+        },
+        {
+          "texto": "Dirigentes de Nueva Canarias-Bloque Canarista piden al Estado intervenir en el mercado y subir impuestos a grandes tenedores, sin descartar expropiaciones.",
+          "apoyos": ["c-dee409300f", "c-b8beed546e"]
+        }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: los límites al crecimiento se piden para las Islas (c-22744e9141 habla del aumento demográfico «que padecen las Islas» y c-e9e88294df de Fuerteventura); la frase no decía el ámbito y podía leerse como propuesta para toda España. Se añade «en Canarias».",
+        "Frase 3: «derogar el uso de la RIC en alquiler sin límite de renta» recortaba el alcance de la cita, que se refiere a vivienda libre destinada al alquiler; se precisa.",
+        "Frase 4: el sujeto heredado eran «dirigentes de Nueva Canarias-Bloque Canarista», pero el precio justo para agricultores y ganaderos lo pide Iratxe Serrano, número 2 de la candidatura por Las Palmas; se atribuye a ella.",
+        "Duda del redactor resuelta: el 3,2 % de I+D+i se refiere a enmiendas a una ley canaria de febrero y queda bien fuera."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Su cabeza de lista por Las Palmas plantea seguir subiendo las pensiones y el salario mínimo.",
+          "apoyos": ["c-23dbf5027d"]
+        },
+        {
+          "texto": "Dirigentes de Nueva Canarias-Bloque Canarista piden limitar el crecimiento turístico en Canarias y redistribuir sus beneficios con mejores salarios y «una contribución fiscal justa».",
+          "apoyos": ["c-22744e9141", "c-b138b97cf0", "c-e9e88294df"]
+        },
+        {
+          "texto": "Quieren orientar los incentivos del REF al empleo y la diversificación y derogar el uso de la RIC en alquiler libre sin límite de renta.",
+          "apoyos": ["c-b138b97cf0", "c-88f8c1de5c", "c-ee93075d15"]
+        },
+        {
+          "texto": "Defienden mantener el Fondo RUP con cofinanciación del 85 %; su número dos en Las Palmas pide un precio justo para agricultores y ganaderos.",
+          "apoyos": ["c-7db61d6338", "c-454ea00b9e"]
+        }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: el sujeto implícito es el cabeza de lista por Las Palmas, pero se apoyaba también en c-237e824d27, de Marisol Collado, que no plantea ninguna medida; se quita ese apoyo y se precisa que se trata de extranjeros que no residen en Canarias.",
+        "Frase 4: atribuida a «un dirigente» (Román Rodríguez) pero apoyada también en c-6609b01065, que es de Luis Campos; se quita ese apoyo. «No descarta debatir» se ajusta a la cita («No obviamos el debate») como «no elude debatir», y se precisa que los jóvenes quieren poder quedarse en Canarias."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Su cabeza de lista por Las Palmas defiende que las políticas migratorias tengan los derechos humanos «en el centro».",
+          "apoyos": ["c-3a80978ff4"]
+        },
+        {
+          "texto": "Reivindica haber propuesto reformar el artículo 35 de la Ley de Extranjería para que el traslado de menores migrantes desde Canarias sea obligatorio cuando sus recursos estén tensionados.",
+          "apoyos": ["c-1686320573"]
+        },
+        {
+          "texto": "Plantea además impedir que compren vivienda en Canarias los extranjeros que no residen allí.",
+          "apoyos": ["c-dc6a77f15e"]
+        },
+        {
+          "texto": "Un dirigente de Nueva Canarias-Bloque Canarista no elude debatir una Ley de Residencia, pese a su «complicado encaje» europeo, y pide que los jóvenes cualificados puedan quedarse en Canarias.",
+          "apoyos": ["c-5e3463b87f", "c-16b8c3f8ca"]
+        }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [
+        "Sin fallos: ambas frases se ajustan a sus citas, con la misma fuerza y atribuidas al cabeza de lista. La base escasa es correcta (solo declaraciones de posición). Duda del redactor resuelta: c-0bcb5f98b5 no dice a qué asunto se refiere y está bien no usarla."
+      ],
+      "base": "escasa",
+      "frases": [
+        {
+          "texto": "Su cabeza de lista por Las Palmas afirma que nunca apoyará una investidura del Partido Popular y Vox.",
+          "apoyos": ["c-fb920471fb"]
+        },
+        {
+          "texto": "Sostiene que sus diputados decidirán el voto desde Canarias, sin instrucciones de partidos de ámbito estatal.",
+          "apoyos": ["c-6b2b16ba55", "c-e55ad796c8", "c-483c1ec737"]
+        }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [
+        "Sin fallos de fidelidad ni de neutralidad: financiación, REF, decisión desde Canarias, zonas tensionadas municipales, fondos europeos y aeropuertos están en las citas con la misma fuerza. Se deja constancia de que la cita de aeropuertos reconoce que el acuerdo «mejora lo que teníamos»; la frase recoge solo la objeción, que es lo que la cita reclama, sin desvirtuarla. Bien fuera la Selección Canaria (2025) y la bonificación del transporte, que es un logro pasado."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Sus dirigentes piden una financiación autonómica que tenga en cuenta la insularidad, la lejanía, el desempleo y la pobreza de Canarias para sostener los servicios públicos.",
+          "apoyos": ["c-3edad794e1", "c-88f8c1de5c"]
+        },
+        {
+          "texto": "Defienden mantener el Régimen Económico y Fiscal canario y darle «un contenido mucho más social».",
+          "apoyos": ["c-88f8c1de5c"]
+        },
+        {
+          "texto": "Quieren que «cualquier decisión que afecte a Canarias se tome en Canarias» y que los ayuntamientos puedan declarar zonas tensionadas de vivienda.",
+          "apoyos": ["c-483c1ec737", "c-6b2b16ba55", "c-8af2166a70"]
+        },
+        {
+          "texto": "También piden una gestión regionalizada de los fondos europeos y critican que el acuerdo de cogestión de aeropuertos no sitúe a Canarias en «los centros de decisión».",
+          "apoyos": ["c-7db61d6338", "c-0cd0c3256e"]
+        }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: las dos citas de apoyo son de una sola persona (Román Rodríguez), no de varios «dirigentes»; y se refieren a las Islas, ámbito que la frase no indicaba. Se corrige a «un dirigente» y se añade «en Canarias».",
+        "Duda del redactor resuelta: c-4661c802d9 no identifica el proyecto y está bien no usarla. La base escasa es correcta."
+      ],
+      "base": "escasa",
+      "frases": [
+        {
+          "texto": "Un dirigente de Nueva Canarias-Bloque Canarista pide poner límites al crecimiento turístico en Canarias, al que atribuye ocupar territorio, contaminar y consumir recursos energéticos e hídricos.",
+          "apoyos": ["c-22744e9141", "c-17042aa43e"]
+        },
+        {
+          "texto": "En el ámbito canario, rechazan una macrogranja en la costa de La Aldea y critican los intentos de explotar tierras raras en Fuerteventura.",
+          "apoyos": ["c-50918d55e4", "c-046cb3068f"]
+        }
+      ]
+    }
+  ]
+}

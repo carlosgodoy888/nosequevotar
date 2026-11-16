@@ -1,0 +1,47 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas atribuido a Pedro Sánchez en elDiario.es (publicado el 15-11-2026, mitin de Alcorcón «este domingo»). Propuesta fiscal sobre grandes propietarios con viviendas vacías o turísticas; tema y clase correctos; sin cifra ni figura tributaria concreta, así que medida_concreta false es correcto.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "corregida",
+      "motivo": "Texto literal correcto en elDiario.es (15-11-2026, mitin de Alcorcón), atribuido a Pedro Sánchez. Tema y medida_concreta correctos. El tema secundario «pensiones» no corresponde: es una prestación de la Seguridad Social por cuidado de hijos, no una pensión; se deja solo «empleo».",
+      "cita_corregida": "",
+      "campos_corregidos": "temas_secundarios: empleo"
+    },
+    {
+      "n": 3,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en elDiario.es (15-11-2026, mitin de Alcorcón), atribuido a Pedro Sánchez; solo difieren las comillas internas de «unión de amistad». La crónica confirma que la presenta como propuesta del programa electoral. Acción determinada (reconocer la figura en el Código Civil).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en mallorcadiario.com (publicado el 14-11-2026, mitin de Son Fusteret, Palma, «este sábado»), atribuido a Pedro Sánchez. Propuesta concreta de reforma constitucional sobre la revalorización de las pensiones; se entiende sola pese al vocativo «querida Francina».",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 5,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en mallorcadiario.com (14-11-2026, Palma), atribuido a Pedro Sánchez. Es una postura sobre la sostenibilidad del sistema público de pensiones; clase «posicion» y medida_concreta false correctos.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 6,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en mallorcadiario.com (14-11-2026, Palma), atribuido a Pedro Sánchez. Postura sobre negociación colectiva y subida de salarios; tema empleo y clase «posicion» correctos.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    }
+  ],
+  "notas": "robots.txt de eldiario.es y mallorcadiario.com leídos enteros: solo reglas para User-agent: *, sin bloqueo a agentes de IA ni a las rutas de noticias. Ambas páginas se abrieron con curl. Fechas comprobadas con datePublished (eldiario.es 2026-11-15T13:50; mallorcadiario.com 2026-11-14T20:25) y con las referencias «este domingo» / «este sábado» de las crónicas. Las fuentes presentan a Sánchez como presidente del Gobierno y candidato del PSOE; la secretaría general del PSOE y el número 1 por Madrid no figuran en estas páginas, pero coinciden con la ficha del partido en el proyecto (partidos/psoe.md)."
+}

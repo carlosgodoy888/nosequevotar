@@ -1,0 +1,206 @@
+{
+  "partido": "d21",
+  "lote": "d21.3",
+  "temas": [
+    {
+      "tema": "impuestos",
+      "elegidas": [
+        {
+          "id": "c-84d575954b",
+          "motivo": "Su medida fiscal más concreta y de mayor alcance (punto 2 del resumen): actualizar por ley cada año el IRPF con el IPC, con fecha de entrada; refleja la idea de no subir impuestos por la puerta de atrás sin prometer bajadas generales.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-8e0ce5d16e",
+          "motivo": "Cubre la línea empresarial del resumen (punto 3): impuesto de sociedades del 5% para los beneficios que las pymes reinviertan, medida con cifra y título propio en el programa.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-9452f5a88f",
+          "motivo": "Representa el eje de su filosofía fiscal (punto 1 del resumen): centrar el esfuerzo en perseguir el fraude real, con inspección y datos y rendición de cuentas anual.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        { "id": "c-e1ad2e485c", "por_que_no": "Gravar como trabajo las ganancias a menos de un año es línea del resumen, pero es más técnica y de menor alcance que la deflactación del IRPF; buena alternativa a la tercera." },
+        { "id": "c-0eb47159be", "por_que_no": "Eliminar beneficios fiscales que no cumplan su objetivo encaja en el punto 3, pero empieza con un diagnóstico y es menos concreta sobre qué se suprime." },
+        { "id": "c-bb760d3a28", "por_que_no": "La renta preparada por Hacienda es una medida de gestión (punto 4), menos central para la postura sobre qué impuestos se pagan." }
+      ],
+      "nota": "Sin declaraciones de campaña en el tema. c-14cbedfdda pasa de 80 palabras."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "elegidas": [
+        {
+          "id": "c-7012a87ae1",
+          "motivo": "Resume los dos primeros puntos del resumen: ningún retroceso en derechos y rechazo a limitar la ley de plazos del aborto; es su compromiso más general y claro en el tema.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-48c6cefd96",
+          "motivo": "Línea propia distinta (punto 3): elevar a ley la inscripción de los hijos de parejas de mujeres como hijos de ambas sin exigir matrimonio.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-5693c3c255",
+          "motivo": "Cubre el punto 4 del resumen (reconocer de forma ágil la filiación de todo niño, sea cual sea su nacimiento); solo hay dos medidas propias del tema, así que se toma una de otro tema.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        { "id": "c-1e910b6147", "por_que_no": "Garantizar el aborto en la sanidad pública es del punto 2, pero sería una variante de la primera; además su tema principal es sanidad." },
+        { "id": "c-4fb55ff19c", "por_que_no": "El método ROPA en la sanidad pública complementa el punto 3, pero repetiría la línea de la segunda y su tema principal es sanidad." }
+      ],
+      "nota": "c-5693c3c255 es de familias-y-cuidados: si se elige allí, sustituirla aquí por c-1e910b6147 o c-4fb55ff19c para no repetirla en dos temas."
+    },
+    {
+      "tema": "pensiones",
+      "elegidas": [
+        {
+          "id": "c-4bd19e0a21",
+          "motivo": "Representa su enfoque de reforma basada en datos y sostenibilidad (punto 2): reforzar por ley la AIReF, publicar sus proyecciones con un simulador y debatirlas en las Cortes; enlaza con su mensaje de campaña de que las pensiones se pagan en parte con deuda.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-9503d1f20a",
+          "motivo": "Cubre el punto 3: simplificar la compatibilidad entre pensión y trabajo y combatir la discriminación por edad.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-33b149c651",
+          "motivo": "Cubre el punto 4 (jubilación anticipada sin recorte para profesiones de riesgo) con la versión que trata solo de jubilación; no hay más medidas propias válidas.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        { "id": "c-71e7e1ef27", "por_que_no": "La asamblea ciudadana de 150 personas por sorteo es el punto 1 del resumen y medida de los primeros cien días, pero tiene 87 palabras (más de 80)." },
+        { "id": "c-d124d9c83f", "por_que_no": "Jubilación anticipada sin recorte para Policía Nacional, Guardia Civil y Vigilancia Aduanera: misma línea que la tercera, pero mezcla la equiparación salarial y su tema principal es seguridad-y-justicia." },
+        { "id": "c-7bd0c585d2", "por_que_no": "Remite a algo anterior («esa mejora») y no se entiende sola." }
+      ],
+      "nota": "La medida que mejor representaría su postura (asamblea ciudadana, c-71e7e1ef27) queda fuera solo por longitud. c-33b149c651 es de politica-exterior-y-defensa: si se elige allí, sustituirla por c-d124d9c83f (si no se usa en seguridad-y-justicia) o dejar dos medidas."
+    },
+    {
+      "tema": "transporte",
+      "elegidas": [
+        {
+          "id": "c-571a598ea0",
+          "motivo": "Representa su lema «conservar antes que inaugurar» (punto 2) con programas plurianuales de conservación y financiación estable; es lo que destaca en campaña (caída de la inversión en mantenimiento desde 2008).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-ac7fb5a2f1",
+          "motivo": "Cubre el punto 1: Estrategia Estatal de Infraestructuras a 25 años y programas de inversión a 6 años con amplio acuerdo.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-bb7fc17ee9",
+          "motivo": "Cubre el punto 3 (seguridad ferroviaria): revisión independiente de la señalización de toda la alta velocidad en los primeros seis meses, con plazo.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        { "id": "c-46db4cadc4", "por_que_no": "Ninguna gran obra sin demostrar que compensa más que mejorar lo existente: muy representativa (punto 1), pero la de la estrategia a 25 años abarca más; alternativa clara a la segunda." },
+        { "id": "c-451337aee4", "por_que_no": "Planes de conservación por infraestructura: misma línea que la primera, menos concreta sobre financiación." },
+        { "id": "c-15ef6dd65d", "por_que_no": "Planes de fiabilidad de Cercanías: línea del punto 3, pero empieza con un diagnóstico y la revisión de la alta velocidad lleva plazo." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "organizacion-territorial",
+      "elegidas": [
+        {
+          "id": "c-02c0417698",
+          "motivo": "Su línea principal en el tema (punto 2): reconocimiento mutuo, de modo que cualquier licencia, título o requisito de una comunidad valga en toda España.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-3820f2dce0",
+          "motivo": "Cubre el punto 3: la comunidad autónoma asume la competencia urbanística del ayuntamiento que bloquee proyectos o incumpla sus objetivos de vivienda; se toma de otro tema porque solo hay dos medidas propias válidas.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-3e6878e6ce",
+          "motivo": "Completa el punto 2 con la prohibición por ley de duplicar trámites y tasas entre regiones.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        { "id": "c-819d4ba6a8", "por_que_no": "Estatus europeo de protección para Ceuta y Melilla (punto 4, y lo destaca la candidata en campaña), pero remite a «este marco de insularidad adaptada», que viene de antes, y sin él no se entiende." },
+        { "id": "c-25eca5c566", "por_que_no": "Remite a un plazo anterior («Si incumplen el plazo») y no se entiende sola." }
+      ],
+      "nota": "La línea de Ceuta y Melilla, destacada en campaña, queda sin tarjeta porque su única medida no se entiende sola. c-3820f2dce0 es de vivienda: si se elige allí, quitarla de aquí y dejar las dos propias."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "elegidas": [
+        {
+          "id": "c-3b69c1619d",
+          "motivo": "Única medida propia y punto 1 del resumen: exigir en el marco financiero europeo 2028-2034 una estrategia contra la despoblación con incentivos fiscales, conectividad y fondos para el relevo generacional.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-a9eebbcbec",
+          "motivo": "Cubre el punto 3 en su parte agrícola: incentivos fiscales al riego inteligente para explotaciones; de otro tema porque solo hay una propia.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-c63947f808",
+          "motivo": "Cubre el punto 3 en su parte de incendios: ganadería extensiva y cultivos como cortafuegos vivos que dan renta al mundo rural.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        { "id": "c-af07ba36ae", "por_que_no": "Rebajar el IVA de los trabajos de prevención está en el resumen, pero sin el apartado no se sabe que habla de incendios y mezcla dos acciones." },
+        { "id": "c-d68bf47a4f", "por_que_no": "Incentivos a pescadores por retirar basura del mar: de pesca, pero no es línea del resumen." }
+      ],
+      "nota": "La línea de PAC y política pesquera (punto 2) no tiene medida candidata. c-a9eebbcbec y c-c63947f808 son de medio-ambiente-y-energia: si se eligen allí, quitarlas de aquí."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "elegidas": [
+        {
+          "id": "c-ebc4d70716",
+          "motivo": "Punto 1 del resumen y medida con cifra y plazo: ley que fije una inversión pública en ciencia de al menos el 1,25% del PIB en 2030.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-93b283be8b",
+          "motivo": "Cubre el punto 3 (IA y cultura): que quien entrene modelos de IA informe de las obras usadas, obtenga licencia y pague a sus titulares.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-845ece1843",
+          "motivo": "Cubre el punto 4 (deporte): reconocer como cotizados los años de carrera de los deportistas de alto nivel desde 1980.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        { "id": "c-c1f054459b", "por_que_no": "Directores de instituciones culturales por concurso de méritos (punto 2), pero tiene 95 palabras." },
+        { "id": "c-d097f3760c", "por_que_no": "Centro Nacional del Cine independiente y dirigido por méritos: representa el punto 2 y es alternativa válida a la segunda o la tercera, pero la de IA abarca más del resumen." },
+        { "id": "c-6acba045e6", "por_que_no": "Incentivo fiscal al cine del 35% (punto 2), pero empieza con «Su prioridad» (remite a la ley del cine) y sin eso no se sabe a qué se aplica." }
+      ],
+      "nota": "Con tres plazas y cuatro líneas, la de cultura por méritos y cine queda fuera; si se prefiere, c-d097f3760c puede sustituir a c-845ece1843."
+    }
+  ]
+}

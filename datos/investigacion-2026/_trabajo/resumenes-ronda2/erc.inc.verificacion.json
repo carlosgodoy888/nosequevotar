@@ -1,0 +1,21 @@
+{
+  "revisiones": [
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Peso del programa: la frase de campaña sustituía por completo la de autonomía local y reforma de la ley de bases del régimen local, que el programa respalda con cinco citas (c-a25b4837ea, c-1a1fd8b03f, c-21ed99cf4c, c-09fc72e9ea, c-3a4f42ad84). Una sola declaración sobre pactos de gobierno, que además toca de forma lateral la definición del tema, no puede desplazar una línea principal del programa. Se recupera la reforma del régimen local uniéndola a la frase de lenguas ante la administración y se acortan las frases 1 y 3 para mantener 4 frases y 90 palabras.",
+        "Forma y precisión, frase 4: Gabriel Rufián es cabeza de lista por Barcelona, no de toda la candidatura; «su cabeza de lista» sin más podía leerse como cabeza de lista general. Se cambia por «su candidato por Barcelona». La cita se reproduce con la misma fuerza («quiere») y el término «izquierdas soberanistas» va entre comillas y atribuido. Mencionar al PSOE es el contenido de la declaración, no una comparación.",
+        "Apoyos, frase 2: c-76281980b4 (que las administraciones se relacionen entre sí en las lenguas oficiales) no aparece en la frase y se retira; se añade c-21ed99cf4c para la reforma del régimen local.",
+        "Frases 1 y 3: fieles a sus citas; solo se acortan sin cambiar alcance ni fuerza."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Apoya fiscalizar al rey y la Casa Real, eliminar sus privilegios e impulsar iniciativas para poner fin a la monarquía.", "apoyos": ["c-a83dc15e2a", "c-ad05f47b62"] },
+        { "texto": "Pide que la ciudadanía pueda usar cualquier lengua oficial ante el Estado, con plena validez jurídica, y propone reformar la ley de régimen local para facilitar remunicipalizar servicios.", "apoyos": ["c-b65338cc78", "c-e6f9d51cae", "c-21ed99cf4c"] },
+        { "texto": "Al trasponer la ley electoral europea, propone el voto desde los 16 años y que umbrales y circunscripciones no bloqueen a minorías nacionales.", "apoyos": ["c-a9317aaf86", "c-3e02ffcdc2"] },
+        { "texto": "En campaña, su candidato por Barcelona ha dicho que quiere un gobierno del PSOE «sometido a las izquierdas soberanistas».", "apoyos": ["c-bdf5095ad4"] }
+      ]
+    }
+  ]
+}

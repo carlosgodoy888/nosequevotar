@@ -1,0 +1,174 @@
+{
+  "partido": "cc-primero-canarias",
+  "lote": "cc-primero-canarias.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-a943e85fb6", "motivo": "Limitar la compra de vivienda por extranjeros es una línea del resumen (punto 3) y la que repiten en campaña sus dos cabezas de lista (Sosa y Valido); se usa la versión del programa, más moderada que las declaraciones. Encaja con el lema del apartado, «derecho a vivir y permanecer en Canarias».", "texto": null, "cambio": null },
+        { "id": "c-5fd07ba38f", "motivo": "Cubre la otra gran línea: el fondo estatal de ocho años para cofinanciar vivienda pública y asequible (punto 2), con plazo concreto.", "texto": null, "cambio": null },
+        { "id": "c-a654df545e", "motivo": "Cubre la línea de vivienda vacacional (punto 1 del resumen): que Canarias pueda limitar los usos turísticos donde haya presión sobre la vivienda.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-23fafa3df3", "motivo": "Incentivos fiscales y bonificaciones ligados a mejoras salariales pactadas: concreta su línea principal de mejores salarios (puntos 1 y 2 del resumen).", "texto": null, "cambio": null },
+        { "id": "c-24866b478f", "motivo": "Cubre la línea de financiación estatal del Plan Integral de Empleo de Canarias (punto 3).", "texto": null, "cambio": null },
+        { "id": "c-4f0d32d3cf", "motivo": "Cubre el plan cuatrienal de empleo para menores de 35 años (punto 3), distinto del plan general. 69 palabras, dentro del límite.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-68ad78aeb0", "motivo": "Actualizar las compensaciones por los sobrecostes de la insularidad para abaratar la cesta de la compra: línea del resumen (punto 3) y mensaje central de Valido en campaña. La medida propia del REF (c-600909794b) no se entiende sola («las operaciones»).", "texto": null, "cambio": null },
+        { "id": "c-c882ff93d8", "motivo": "Que las administraciones canarias puedan usar sus remanentes en vivienda, sanidad o educación (punto 4); Sosa lo destaca en campaña.", "texto": null, "cambio": null },
+        { "id": "c-10884edd51", "motivo": "Cubre la línea de un turismo que contribuya al bienestar de los residentes (punto 2 del resumen).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-ef4a040cb3", "motivo": "Compensación estatal por los sobrecostes sanitarios de la insularidad: concreta su línea de financiación que reconozca el coste de atender ocho islas (puntos 1 y 2) y enlaza con el mensaje de campaña sobre financiación justa.", "texto": null, "cambio": null },
+        { "id": "c-a64dc8004f", "motivo": "Cubre la línea de reforzar la salud mental en los Presupuestos (punto 3).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-722960b759", "motivo": "Traslados obligatorios y automáticos a otras comunidades al superarse los umbrales: línea central del resumen (punto 2) y única medida propia válida. La de otro tema (c-9e8db7040a) no se entiende sola.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-60a3db2af5", "motivo": "Informe público anual sobre las obligaciones estatales con Canarias (punto 3): única medida propia del tema, clara y votable; refleja su idea de exigir y rendir cuentas. c-4158d388b9 recoge el punto 2 y la campaña, pero quien no conoce la «Agenda Canaria» no sabe bien qué vota, así que no es claramente mejor como primera.", "texto": null, "cambio": null },
+        { "id": "c-4158d388b9", "motivo": "Cumplir en las Cortes la Agenda Canaria y el Decreto Canarias (punto 2), coherente con su mensaje de campaña de exigir negociar con Canarias. De otro tema, usada porque solo hay una propia y no se usa en organización territorial. Nombra al Gobierno de Canarias como institución, no como gobierno propio: no se cambia.", "texto": null, "cambio": null },
+        { "id": "c-1379b41eeb", "motivo": "Que una eventual reforma constitucional recoja la singularidad canaria (punto 4). De otro tema, no usada allí.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-cbb988189c", "motivo": "Becas del REF para quien debe estudiar fuera de su isla (punto 3): su propuesta más propia en educación y la más cercana al mensaje de campaña sobre las dificultades añadidas del alumnado de las islas.", "texto": null, "cambio": null },
+        { "id": "c-4a1462a326", "motivo": "Cubre la línea de inversión estatal en infraestructuras educativas (punto 1).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-8063b09892", "motivo": "Sustituir progresivamente las centrales térmicas obsoletas por soluciones más eficientes y renovables: resume su línea principal de transición energética y suministro (puntos 1 y 2).", "texto": null, "cambio": null },
+        { "id": "c-2c4aa021a0", "motivo": "Cubre la línea del agua: compensar el sobrecoste de la desalación, que Sosa destaca en campaña con la cifra de 140 millones anuales.", "texto": null, "cambio": null },
+        { "id": "c-f0c488288c", "motivo": "Cubre la línea de adaptación de pueblos y ciudades al calor (punto 4).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-91a3b396ef", "motivo": "Que Canarias participe en la posición española y en las negociaciones con Marruecos: primera línea del resumen. Se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-e54e8312e9", "motivo": "Cubre la línea de defender ante la UE los fondos específicos de las regiones ultraperiféricas (punto 2).", "texto": null, "cambio": null },
+        { "id": "c-0d21f8f8f0", "motivo": "Cubre la línea de recuperar terrenos militares para uso civil, como el campo de tiro de Pájara (punto 3).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-cb9983342a", "motivo": "Financiación estatal de las 1.400 plazas de la Policía Canaria: primera línea del resumen y lleva cifra. 61 palabras.", "texto": null, "cambio": null },
+        { "id": "c-45dfacb378", "motivo": "Cubre la línea de emergencias: activación temprana de la UME en incendios de nivel 1 (punto 2).", "texto": null, "cambio": null },
+        { "id": "c-727b452d88", "motivo": "Desplazar preventivamente medios estatales ante fenómenos extremos (punto 2). La alternativa de recuperación de La Palma (c-e142625a92) mezcla dos acciones y habla de «el plan especial de empleo» sin decir cuál; no es claramente mejor.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-8644ecb729", "motivo": "Estrategia de envejecimiento y cuidados de larga duración: línea principal (punto 1), ligada a la dependencia que su candidato califica de intocable en campaña.", "texto": null, "cambio": null },
+        { "id": "c-a185e9cea7", "motivo": "Cubre la línea de que Canarias pueda tramitar el ingreso mínimo vital (punto 3).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-3adac91bc1", "motivo": "Mantener la deducción del 60 % del IRPF en La Palma y extenderla a La Gomera y El Hierro: medida fiscal concreta con cifra (punto 2 del resumen).", "texto": null, "cambio": null },
+        { "id": "c-ce0a4cbb7c", "motivo": "Mantener el diferencial fiscal canario para el audiovisual: concreta la línea de proteger el régimen fiscal canario (punto 1).", "texto": null, "cambio": null },
+        { "id": "c-e348fccac6", "motivo": "Acceso del Instituto Canario de Estadística a la información tributaria para evaluar el REF (punto 1). Con tres medidas propias válidas no se usan las de otros temas, aunque la línea de incentivos fiscales (punto 3) queda sin representar.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": []
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-55a63d3bef", "motivo": "Compatibilizar los complementos de renta canarios con las pensiones no contributivas sin tributar ni reducirlas: es toda su postura en el tema.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-5ae9b21bca", "motivo": "Proteger el descuento del 75 % para residentes en avión y barco: primera línea del resumen, con cifra, y Sosa la defiende en campaña.", "texto": null, "cambio": null },
+        { "id": "c-76341256e0", "motivo": "Compensar el 100 % del coste real del transporte de mercancías (punto 3), mensaje central de Valido en campaña.", "texto": null, "cambio": null },
+        { "id": "c-80cabc5861", "motivo": "Cubre la línea ferroviaria: convenio de diez años para el Tren de Gran Canaria y trato equivalente en Tenerife (punto 2). 69 palabras.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-ee78507df0", "motivo": "Financiación autonómica que reconozca el coste real del archipiélago (punto 3): lo que más repiten sus candidatos en campaña («financiación autonómica justa»).", "texto": null, "cambio": null },
+        { "id": "c-82bf9d3d51", "motivo": "Calendario verificable para completar los traspasos del Estatuto: concreta su aspiración al máximo autogobierno (puntos 1 y 2).", "texto": null, "cambio": null },
+        { "id": "c-3229dbe958", "motivo": "Que el REF no compute como financiación ordinaria de los servicios (punto 3), distinta de la financiación general.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-34e7c14ba9", "motivo": "Defender íntegramente el POSEI: primera línea del resumen y la que Valido repite en campaña.", "texto": null, "cambio": null },
+        { "id": "c-a0af7e92e7", "motivo": "Reclamar cada año el 100 % de la aportación estatal a las ayudas adicionales (punto 1), que la campaña también destaca. Dentro del tema Campo se entiende que son ayudas agrarias; las alternativas son de otro tema y ya usadas o no se entienden solas.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-cb988545a3", "motivo": "Centro Nacional de Vulcanología en La Palma con el 50 % del mantenimiento a cargo del Estado: línea propia del resumen (punto 2), con cifra. 69 palabras.", "texto": null, "cambio": null },
+        { "id": "c-26bc920420", "motivo": "Cubre la línea cultural: ayudas para los desplazamientos de artistas canarios (punto 3).", "texto": null, "cambio": null },
+        { "id": "c-50d69b6123", "motivo": "Mecanismos de acuerdo sobre infraestructuras científicas estratégicas en Canarias: completa la línea de investigación (punto 1). De otro tema, no usada allí.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

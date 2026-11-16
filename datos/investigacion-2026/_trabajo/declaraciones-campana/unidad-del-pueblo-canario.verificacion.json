@@ -1,0 +1,54 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en elDiario.es (Canarias Ahora), publicado el 16-11-2026, atribuido a Luis Campos, presentado como cabeza de lista de UPC al Congreso y candidato por Las Palmas. El párrafo anterior sitúa la medida en la movilización de viviendas vacías de fondos de inversión, entidades financieras y grandes tenedores, así que la nota se ajusta al contexto.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en La Voz de Lanzarote (entrevista de EFE), publicado el 12-11-2026, atribuido a Luis Campos, candidato de UPC al Congreso por Las Palmas y cabeza de lista; la misma pieza lo llama líder de NC. Es una postura sobre la vivienda vacacional.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la entrevista de Atlántico Hoy publicada el 13-11-2026. Marisol Collado encabeza la lista de UPC por Santa Cruz de Tenerife, y el artículo dice que coordinaba Movimiento Sumar en Canarias. Es una postura sobre la compra de viviendas por extranjeros y se entiende sola.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en elDiario.es (Canarias Ahora), publicado el 16-11-2026 y atribuido a Luis Campos. Es una postura contra el crecimiento hotelero por falta de vivienda, y los temas economía y vivienda son adecuados.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 5,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en elDiario.es (Canarias Ahora), publicado el 16-11-2026 y atribuido a Luis Campos. Es una postura contra la explotación mercantil del suelo, las playas y las tierras raras de Fuerteventura.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 6,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en Atlántico Hoy, publicado el 13-11-2026 y atribuido a Luis Campos, candidato de UPC por Las Palmas. Gramaticalmente es un fragmento sin verbo principal, pero se entiende como postura: que el voto de los diputados en el Congreso se decida desde Canarias y no por disciplina de partidos estatales.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 7,
+      "veredicto": "rechazada",
+      "motivo": "El texto es literal y la fecha es correcta: elDiario.es, 15-11-2026, mercadillo de Teror. Pero lo dice Iratxe Serrano, número dos de UPC al Congreso por Las Palmas, que no es cabeza de lista, ni líder, ni portavoz nacional o parlamentario. Es el mismo criterio que usó el investigador para descartar al candidato al Senado Fernando Jiménez. Además, la fuente no dice que pertenezca a Podemos (partido_de_quien sin comprobar), y una búsqueda no ha encontrado ningún cargo suyo de portavoz.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    }
+  ],
+  "notas": "Las cinco urls se abrieron con curl tras leer los robots.txt de eldiario.es, lavozdelanzarote.com y atlanticohoy.com, que no bloquean a agentes de IA. Fechas tomadas de datePublished y de la firma: p1 16-11-2026, p2 12-11-2026, p3 y p4 13-11-2026, p5 15-11-2026. Si se acepta como portavoz a los números dos de lista, la cita 7 pasaría a comprobada salvo partido_de_quien, que habría que confirmar o dejar vacío."
+}

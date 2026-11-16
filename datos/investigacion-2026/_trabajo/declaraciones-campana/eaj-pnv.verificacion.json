@@ -1,0 +1,82 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en eaj-pnv.eus (noticia 58724, 13 de noviembre), entrecomillado y atribuido a Aitor Esteban, presidente del EBB, en una entrevista en Onda Vasca. Es un compromiso sobre su apoyo parlamentario: lo condiciona a la agenda vasca.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en Infobae (despacho de EFE del 14 de noviembre, entrevista), entrecomillado y atribuido a Maribel Vaquero. EFE la presenta como candidata por Gipuzkoa y «portavoz jeltzale en el Congreso». Es un compromiso concreto sobre pactos: no facilitar un Gobierno de PP y Vox.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "rechazada",
+      "motivo": "El texto es literal y es de Aitor Esteban (eaj-pnv.eus, noticia 58723, 12 de noviembre). Pero son preguntas retóricas («Quién estará cuando…») de un llamamiento al voto. La respuesta implícita (el PNV) no aparece en la cita y no se dice qué propone el partido sobre el Concierto, el Cupo o las competencias. Fuera de contexto no se entiende sola como propuesta ni como postura.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en eaj-pnv.eus (noticia 58723, 12 de noviembre), entrecomillado y atribuido a Idoia Sagastizabal, cabeza de lista al Congreso por Bizkaia, en el mitin de inicio de campaña en Gasteiz. Son propuestas determinadas sobre pensiones.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 5,
+      "veredicto": "comprobada",
+      "motivo": "Fragmento literal en eaj-pnv.eus (noticia 58727, 13 de noviembre), entrecomillado tras «ha reclamado» y atribuido a Idoia Sagastizabal en el acto con Euzko Gaztedi. Es una reivindicación que se entiende sola; la del salario mínimo propio es una medida determinada.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 6,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en eaj-pnv.eus (noticia 58732, 15 de noviembre), entrecomillado y atribuido a Gorka Urtaran en Dulantzi. La noticia 58723 lo presenta como cabeza de lista al Congreso por Araba. Es una postura general sobre cómo debe hacerse la política de vivienda (acuerdos entre administraciones y agentes).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 7,
+      "veredicto": "corregida",
+      "motivo": "Texto literal en eaj-pnv.eus (noticia 58727, 13 de noviembre), atribuido a Idoia Sagastizabal; en la fuente el punto final queda dentro de las comillas. La nota habla de «igual trato», que es una interpretación: la cita habla de libertad para elegir entre comprar y alquilar. Se ajusta la nota a lo que dice.",
+      "cita_corregida": "",
+      "campos_corregidos": "nota: Libertad para elegir entre comprar o alquilar vivienda"
+    },
+    {
+      "n": 8,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en eaj-pnv.eus (noticia 58728, 14 de noviembre), entrecomillado y atribuido a Maribel Vaquero en Tolosa. Va dentro del apartado sobre seguir avanzando en el autogobierno ferroviario. Es una propuesta concreta sobre la línea Irun-Brinkola.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 9,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en eaj-pnv.eus (noticia 58728, 14 de noviembre), atribuido a Maribel Vaquero (es la primera parte de una cita más larga). Es una postura sobre el modelo ferroviario, en un contexto que la noticia dedica al Corredor Atlántico.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 10,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en eaj-pnv.eus (noticia 58725, 13 de noviembre), atribuido a Gorka Urtaran en Amurrio; es la parte final de una cita más larga. Pide una acción determinada: que la SEPI intervenga en Tubos Reunidos.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 11,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en Infobae (despacho de EFE del 14 de noviembre en Bilbao). La frase cierra los párrafos sobre la cabeza de lista por Gipuzkoa («ha concluido»), así que la atribución a Maribel Vaquero es correcta. Expresa la postura a favor de la oficialidad de la selección vasca de fútbol, aunque en forma de llamamiento al voto. El tema más cercano es ciencia-cultura-y-digital.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    }
+  ],
+  "notas": "Se abrieron las 8 URL distintas con curl. Se leyeron enteros los robots.txt de eaj-pnv.eus y de infobae.com: ninguno prohíbe el acceso a agentes de IA ni a todos los agentes, solo a una lista de rastreadores antiguos y algunas rutas. La cita 3 se rechaza porque, tal como está, es un llamamiento retórico al voto; en la misma noticia no hay otra frase entrecomillada de Esteban que formule propuestas territoriales concretas («Nuestro autogobierno no se toca; y con Vox, nada» es un lema). La cita 11 es un llamamiento al voto con contenido (oficialidad de la selección de fútbol) y se aceptó; conviene tenerlo en cuenta si se aplica un criterio más estricto con los lemas. Los cargos se comprobaron en las propias fuentes: Esteban, presidente del EBB; Vaquero, cabeza de lista por Gipuzkoa y portavoz en el Congreso según EFE; Sagastizabal, cabeza de lista por Bizkaia; Urtaran, cabeza de lista por Araba."
+}
