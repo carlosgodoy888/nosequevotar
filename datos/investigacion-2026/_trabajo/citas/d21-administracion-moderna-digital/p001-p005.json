@@ -1,0 +1,464 @@
+{
+  "fuente": "d21-administracion-moderna-digital",
+  "partido": "d21",
+  "paginas": [
+    1,
+    5
+  ],
+  "citas": [
+    {
+      "cita": "Por suerte, la tecnología ahora nos permite construir (¡y en muy poco tiempo!) un Estado inteligente y descentralizado que trabaje para las personas, donde la Administración actúe como un ente a tu servicio, sin colas, sin papeles redundantes y con eficacia.",
+      "pagina": 2,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo de Estado digital al servicio del ciudadano",
+      "etiquetas": [
+        "administración pública",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Pondremos en marcha en una sola legislatura una infraestructura digital de vanguardia que transformará nuestro actual Estado obstaculizador en un Estado facilitador.",
+      "pagina": 2,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "La autopista digital española"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Infraestructura digital de la Administración en una legislatura",
+      "etiquetas": [
+        "administración pública",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Partiendo de la infraestructura y herramientas que ya existen (Carpeta Ciudadana, Cl@ve y la app MiDNI) e integrándolo con la Cartera Europea de Identidad Digital prevista en el Reglamento eIDAS2, a través de una interfaz única, simple e intuitiva, cualquier persona accederá al instante a su historial médico, educativo o fiscal, y podrá gestionar trámites, solicitar servicios o hacer la declaración de la renta desde su móvil, en minutos, viva donde viva.",
+      "pagina": 2,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "La autopista digital española"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Interfaz única móvil para trámites e historiales personales",
+      "etiquetas": [
+        "administración pública",
+        "burocracia",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Publicaremos un calendario con hitos anuales verificables para que la ciudadanía pueda seguir su despliegue.",
+      "pagina": 2,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "La autopista digital española"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Calendario público de hitos de la digitalización",
+      "etiquetas": [
+        "administración pública",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestro modelo de Comunidades Autónomas es una fortaleza arquitectónica ideal para activar una red digital integral que transformará nuestra descentralización en una red interconectada y más cibersegura.",
+      "pagina": 2,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "La autopista digital española"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Autonomías como base de una red digital interconectada",
+      "etiquetas": [
+        "administración pública",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada comunidad autónoma, ayuntamiento y ministerio mantendrá intacta la soberanía y custodia de sus datos, pero el ciudadano experimentará la Administración como un ente único y a su entero servicio. Para ello aprobaremos una Ley de Interoperabilidad que haga obligatorios estándares técnicos comunes, desarrollando y perfeccionando las previsiones del Esquema Nacional de Interoperabilidad y creando un órgano de gobernanza digital en el que participen Estado, Comunidades Autónomas y Entidades Locales, se vinculará la financiación estatal de proyectos digitales a su cumplimiento.",
+      "pagina": 2,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "La autopista digital española"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de Interoperabilidad y órgano de gobernanza digital compartido",
+      "etiquetas": [
+        "administración pública",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Esta nueva Administración proactiva avisará y gestionará automáticamente los derechos del ciudadano (becas, ayudas, deducciones o programas de formación) y le notificará con antelación de sus obligaciones (plazos, trámites o pagos).",
+      "pagina": 3,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "La autopista digital española"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gestión automática de ayudas y avisos de obligaciones",
+      "etiquetas": [
+        "administración pública",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Toda actuación automatizada contará con garantías: identificación del órgano responsable, explicación comprensible de la decisión, derecho a solicitar revisión por una persona y a recurrir, evaluaciones de impacto previas y un registro público de los algoritmos utilizados por la Administración.",
+      "pagina": 3,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "La autopista digital española"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Garantías y registro público de algoritmos administrativos",
+      "etiquetas": [
+        "inteligencia artificial",
+        "derechos digitales",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cumplir Por Fin el Principio de “Una Sola Vez”: esta Autopista Digital garantizará por fin el cumplimiento real de la Ley 39/2015, que ya reconoce este derecho pero no se aplica de forma efectiva: que ninguna Administración vuelva a solicitar un dato o documento que ya obre en poder del sector público.",
+      "pagina": 3,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "La autopista digital española",
+        "Cumplir Por Fin el Principio de “Una Sola Vez”"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "No volver a pedir documentos que ya tiene la Administración",
+      "etiquetas": [
+        "burocracia",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si un organismo exige un documento que ya posee el Estado, la responsabilidad de localizarlo recaerá automática y exclusivamente sobre la Administración, sin que esto paralice los plazos del expediente ni perjudique en ningún caso la resolución a favor del ciudadano.",
+      "pagina": 3,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "La autopista digital española",
+        "Cumplir Por Fin el Principio de “Una Sola Vez”"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "La Administración localiza documentos que ya posee",
+      "etiquetas": [
+        "burocracia",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Conectaremos este sistema con la plataforma europea “once-only”, de modo que tampoco haya que aportar de nuevo documentos ya emitidos en otro Estado miembro, y publicaremos indicadores de cumplimiento por organismo.",
+      "pagina": 3,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "La autopista digital española",
+        "Cumplir Por Fin el Principio de “Una Sola Vez”"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Conexión con la plataforma europea once-only e indicadores",
+      "etiquetas": [
+        "burocracia",
+        "unión europea",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Servicios Presenciales Sin Colas Ni Retrasos: se mantendrán los servicios presenciales para quienes no puedan o no deseen usar la vía digital, garantizando de forma efectiva el derecho, ya reconocido en la Ley 39/2015, a relacionarse con la Administración por medios no electrónicos, asegurando la atención presencial sin cita previa obligatoria y con tiempos máximos de espera.",
+      "pagina": 3,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "Nadie se quedará atrás",
+        "Servicios Presenciales Sin Colas Ni Retrasos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Atención presencial sin cita previa obligatoria",
+      "etiquetas": [
+        "administración pública",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se activará una Red de Asistencia Digital con personal público cualificado que ofrecerá soporte físico y personalizado en las bibliotecas municipales de todo el país, complementada con una línea telefónica gratuita de ayuda instantánea.",
+      "pagina": 3,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "Nadie se quedará atrás",
+        "Servicios Presenciales Sin Colas Ni Retrasos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Red de Asistencia Digital en bibliotecas y teléfono gratuito",
+      "etiquetas": [
+        "administración pública",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todos los servicios digitales cumplirán los requisitos de accesibilidad, se simplificará el apoderamiento para que familiares o personas de confianza puedan realizar trámites en nombre de otros, y se desarrollarán programas de capacitación digital dirigidos a personas mayores y al medio rural.",
+      "pagina": 3,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "Nadie se quedará atrás",
+        "Servicios Presenciales Sin Colas Ni Retrasos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Accesibilidad, apoderamiento simplificado y formación digital",
+      "etiquetas": [
+        "administración pública",
+        "mayores",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cumplimiento Real de los Plazos y Compensación Económica por Retraso: la falta de agilidad de la Administración tendrá consecuencias reales. Si la Administración incumple el plazo tasado para la resolución de un trámite, se compensará económicamente al ciudadano por el perjuicio y la pérdida de tiempo ocasionados, conforme a un baremo público y sin necesidad de iniciar un procedimiento de reclamación.",
+      "pagina": 4,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "El Estado cumplirá con su palabra",
+        "Cumplimiento Real de los Plazos y Compensación Económica por Retraso"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Compensación económica automática por retrasos administrativos",
+      "etiquetas": [
+        "administración pública",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si la Administración incumple el plazo tasado para la resolución de un trámite, se compensará económicamente al ciudadano por el perjuicio y la pérdida de tiempo ocasionados, conforme a un baremo público y sin necesidad de iniciar un procedimiento de reclamación. Esta medida se implantará primero en los trámites de mayor volumen, con dotación presupuestaria específica, y se reforzará el silencio administrativo positivo.",
+      "pagina": 4,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "El Estado cumplirá con su palabra",
+        "Cumplimiento Real de los Plazos y Compensación Económica por Retraso"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Implantación gradual y refuerzo del silencio administrativo positivo",
+      "etiquetas": [
+        "administración pública",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mando Único Civil de Ciberseguridad: frente al aumento exponencial de ciberataques que amenazan a empresas e instituciones públicas, crearemos la Agencia Nacional de Ciberseguridad Independiente (ANCI), con estatuto de autoridad administrativa independiente. Esta agencia unificará las competencias civiles hoy dispersas (INCIBE, CCN, CNPIC), liderando la protección de administraciones y empresas, y actuará como autoridad competente y punto de contacto único en aplicación de la Directiva europea NIS2.",
+      "pagina": 4,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "Ciberseguridad y protección digital para todos los ciudadanos",
+        "Mando Único Civil de Ciberseguridad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Agencia Nacional de Ciberseguridad Independiente que unifica organismos",
+      "etiquetas": [
+        "seguridad",
+        "derechos digitales",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Al mismo tiempo, segregaremos las funciones de ciberseguridad civil del CNI, permitiendo que la inteligencia nacional se concentre exclusivamente en cuestiones vinculadas al espionaje y amenazas geopolíticas (APT).",
+      "pagina": 4,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "Ciberseguridad y protección digital para todos los ciudadanos",
+        "Mando Único Civil de Ciberseguridad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Separar la ciberseguridad civil de las funciones del CNI",
+      "etiquetas": [
+        "seguridad",
+        "defensa"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La ANCI mantendrá mecanismos de coordinación permanente con Defensa, Interior y las agencias autonómicas de ciberseguridad, y la integración de organismos se hará de forma ordenada, garantizando la continuidad de servicios y de su personal.",
+      "pagina": 4,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "Ciberseguridad y protección digital para todos los ciudadanos",
+        "Mando Único Civil de Ciberseguridad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Coordinación de la agencia de ciberseguridad con otros organismos",
+      "etiquetas": [
+        "seguridad",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Soberanía Tecnológica y Repositorio Abierto: para optimizar el gasto público y reducir la dependencia crónica de grandes consultoras externas, crearemos el Repositorio Nacional de Ciberseguridad Abierta, aprovechando el Centro de Transferencia de Tecnología y las herramientas ya desarrolladas por el CCN-CERT.",
+      "pagina": 4,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "Ciberseguridad y protección digital para todos los ciudadanos",
+        "Soberanía Tecnológica y Repositorio Abierto"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Repositorio Nacional de Ciberseguridad Abierta",
+      "etiquetas": [
+        "seguridad",
+        "ciencia y tecnología",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "A partir de ahora, las herramientas de defensa digital y el software financiados con dinero público se desarrollarán bajo licencias abiertas por defecto, salvo excepciones motivadas por razones de seguridad.",
+      "pagina": 4,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "Ciberseguridad y protección digital para todos los ciudadanos",
+        "Soberanía Tecnológica y Repositorio Abierto"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Licencias abiertas por defecto para el software público",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "administración pública",
+        "contratación pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transparencia Sobre Tus Datos: cada ciudadano tendrá acceso a un registro transparente en tiempo real donde podrá verificar qué organismo, persona o unidad administrativa ha accedido a sus datos, cuándo lo ha hecho y con qué justificación legal.",
+      "pagina": 5,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "Ciberseguridad y protección digital para todos los ciudadanos",
+        "Transparencia Sobre Tus Datos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro de accesos a los datos personales de cada ciudadano",
+      "etiquetas": [
+        "derechos digitales",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cuando el acceso se produzca en el marco de investigaciones tributarias, policiales o judiciales, la información se mostrará una vez concluidas, y cualquier acceso injustificado podrá denunciarse directamente ante la Agencia Española de Protección de Datos.",
+      "pagina": 5,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "Ciberseguridad y protección digital para todos los ciudadanos",
+        "Transparencia Sobre Tus Datos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Excepciones por investigaciones y denuncia ante la AEPD",
+      "etiquetas": [
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantía de Protección de Tus Datos: para garantizar que se apliquen medidas reales de ciberseguridad y protección digital, dotaremos a todas las administraciones (estatales, autonómicas y locales) de medios técnicos compartidos a través de las diputaciones y de centros de operaciones de ciberseguridad, con un periodo de adaptación suficiente.",
+      "pagina": 5,
+      "apartado": [
+        "Una Administración moderna y digital que te facilite la vida",
+        "Ciberseguridad y protección digital para todos los ciudadanos",
+        "Garantía de Protección de Tus Datos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Medios de ciberseguridad compartidos para todas las administraciones",
+      "etiquetas": [
+        "seguridad",
+        "administración pública",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

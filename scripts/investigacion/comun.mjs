@@ -77,3 +77,25 @@ export function verificar(paginas, cita, pagina) {
   }
   return 'no-encontrada';
 }
+
+// Nombres, siglas y gentilicios de partido que delatan a quien firma (o señalan a un rival).
+export const NOMBRES_DE_PARTIDO = {
+  pp: /\bPP\b|Partido Popular|\bpopulares\b/,
+  psoe: /\bPSOE\b|Partido Socialista|\bsocialistas?\b|\bPSC\b/i,
+  vox: /\bVOX\b/i,
+  'frente-amplio': /Frente Amplio|\bSumar\b|Izquierda Unida|\bComuns\b|Más Madrid/,
+  podemos: /\bPodemos\b/,
+  erc: /\bERC\b|Esquerra Republicana|\bEsquerra\b/,
+  'compromis-front-valencia': /Compromís|Front Valencià/i,
+  junts: /\bJunts\b/,
+  'eh-bildu': /\bBildu\b/i,
+  'eaj-pnv': /\bEAJ\b|\bPNV\b|jeltzale/i,
+  pacma: /\bPACMA\b|Partido Animalista/i,
+  bng: /\bBNG\b|Bloque Nacionalista Galego/i,
+  'cc-primero-canarias': /Coalición Canaria|Primero Canarias/i,
+  'unidad-del-pueblo-canario': /Unidad del Pueblo Canario|\bUPC\b|Nueva Canarias/,
+  'upn-pp': /\bUPN\b|Unión del Pueblo Navarro/,
+  salf: /\bSALF\b|Se Acabó La Fiesta/i,
+  d21: /Democracia ?21|\bD21\b/i,
+  'frente-obrero': /Frente Obrero/i,
+};

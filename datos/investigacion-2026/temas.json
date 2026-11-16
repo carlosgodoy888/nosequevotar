@@ -1,5 +1,5 @@
 {
-  "nota": "Temas aprobados por el responsable del proyecto el 10 de noviembre de 2026 para las páginas de partidos y de temas. Los del test se elegirán cuando lleguen los programas que faltan. Cada etiqueta que pusieron los agentes al extraer las citas se asigna a un tema; una cita cae en todos los temas de sus etiquetas. Las etiquetas transversales (juventud, mayores) no tienen tema propio: sus citas van al tema de sus otras etiquetas y, si no tienen otra, al indicado aquí. Se edita a mano; los recuentos los calcula scripts/investigacion/temas.mjs.",
+  "nota": "Temas aprobados por el responsable del proyecto el 10 de noviembre de 2026 para las páginas de partidos y de temas; el test usa los mismos. El orden en que están es el orden estándar del proyecto (página de temas, temas dentro de cada partido y test): de más a menos citado como problema en la encuesta de orden-temas.json; lo calcula y lo aplica scripts/investigacion/ordenar-temas.mjs, no se cambia a mano. Cada etiqueta que pusieron los agentes al extraer las citas se asigna a un tema; una cita cae en todos los temas de sus etiquetas. Las etiquetas transversales (juventud, mayores) no tienen tema propio: sus citas van al tema de sus otras etiquetas y, si no tienen otra, al indicado aquí. Se edita a mano; los recuentos los calcula scripts/investigacion/temas.mjs.",
   "estado": "aprobado",
   "temas": [
     {
@@ -23,24 +23,6 @@
         "conciliación",
         "economía social",
         "empleo público"
-      ]
-    },
-    {
-      "id": "pensiones",
-      "nombre": "Pensiones",
-      "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
-      "etiquetas": [
-        "pensiones",
-        "seguridad social"
-      ]
-    },
-    {
-      "id": "impuestos",
-      "nombre": "Impuestos",
-      "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
-      "etiquetas": [
-        "impuestos",
-        "ahorro"
       ]
     },
     {
@@ -79,30 +61,6 @@
       ]
     },
     {
-      "id": "educacion",
-      "nombre": "Educación",
-      "definicion": "Escuela, formación profesional, universidad y becas.",
-      "etiquetas": [
-        "educación",
-        "universidad"
-      ]
-    },
-    {
-      "id": "familias-y-cuidados",
-      "nombre": "Familias y servicios sociales",
-      "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
-      "etiquetas": [
-        "servicios sociales",
-        "familia",
-        "infancia",
-        "dependencia",
-        "discapacidad",
-        "soledad no deseada",
-        "población",
-        "familias"
-      ]
-    },
-    {
       "id": "inmigracion",
       "nombre": "Inmigración",
       "definicion": "Entrada y control de fronteras, regularización, integración, asilo, nacionalidad y emigración.",
@@ -111,20 +69,6 @@
         "asilo",
         "nacionalidad",
         "emigración"
-      ]
-    },
-    {
-      "id": "seguridad-y-justicia",
-      "nombre": "Seguridad y justicia",
-      "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
-      "etiquetas": [
-        "seguridad",
-        "justicia",
-        "terrorismo",
-        "narcotráfico",
-        "emergencias",
-        "seguridad vial",
-        "prostitución"
       ]
     },
     {
@@ -152,17 +96,12 @@
       ]
     },
     {
-      "id": "organizacion-territorial",
-      "nombre": "Organización territorial",
-      "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+      "id": "educacion",
+      "nombre": "Educación",
+      "definicion": "Escuela, formación profesional, universidad y becas.",
       "etiquetas": [
-        "organización territorial",
-        "financiación autonómica",
-        "municipios",
-        "financiación local",
-        "lenguas",
-        "insularidad",
-        "ceuta y melilla"
+        "educación",
+        "universidad"
       ]
     },
     {
@@ -180,24 +119,52 @@
       ]
     },
     {
-      "id": "campo-y-medio-rural",
-      "nombre": "Campo y medio rural",
-      "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+      "id": "politica-exterior-y-defensa",
+      "nombre": "Política exterior y defensa",
+      "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
       "etiquetas": [
-        "agricultura y pesca",
-        "medio rural",
-        "despoblación",
-        "alimentación"
+        "política exterior",
+        "defensa",
+        "unión europea",
+        "cooperación al desarrollo"
       ]
     },
     {
-      "id": "transporte",
-      "nombre": "Transporte e infraestructuras",
-      "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+      "id": "seguridad-y-justicia",
+      "nombre": "Seguridad y justicia",
+      "definicion": "Policía, delitos y penas, terrorismo, narcotráfico, emergencias y funcionamiento de los juzgados.",
       "etiquetas": [
-        "transporte",
-        "infraestructuras",
-        "telecomunicaciones"
+        "seguridad",
+        "justicia",
+        "terrorismo",
+        "narcotráfico",
+        "emergencias",
+        "seguridad vial",
+        "prostitución"
+      ]
+    },
+    {
+      "id": "familias-y-cuidados",
+      "nombre": "Familias y servicios sociales",
+      "definicion": "Familias, infancia, natalidad, dependencia, discapacidad, pobreza y servicios sociales.",
+      "etiquetas": [
+        "servicios sociales",
+        "familia",
+        "infancia",
+        "dependencia",
+        "discapacidad",
+        "soledad no deseada",
+        "población",
+        "familias"
+      ]
+    },
+    {
+      "id": "impuestos",
+      "nombre": "Impuestos",
+      "definicion": "Qué impuestos se suben, se bajan, se crean o se eliminan, y la lucha contra el fraude.",
+      "etiquetas": [
+        "impuestos",
+        "ahorro"
       ]
     },
     {
@@ -218,14 +185,47 @@
       ]
     },
     {
-      "id": "politica-exterior-y-defensa",
-      "nombre": "Política exterior y defensa",
-      "definicion": "Relaciones internacionales, Unión Europea, conflictos, cooperación al desarrollo y Fuerzas Armadas.",
+      "id": "pensiones",
+      "nombre": "Pensiones",
+      "definicion": "Cuantía y revalorización de las pensiones, jubilación y Seguridad Social.",
       "etiquetas": [
-        "política exterior",
-        "defensa",
-        "unión europea",
-        "cooperación al desarrollo"
+        "pensiones",
+        "seguridad social"
+      ]
+    },
+    {
+      "id": "transporte",
+      "nombre": "Transporte e infraestructuras",
+      "definicion": "Tren, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones.",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras",
+        "telecomunicaciones"
+      ]
+    },
+    {
+      "id": "organizacion-territorial",
+      "nombre": "Organización territorial",
+      "definicion": "Reparto de poder entre el Estado, las comunidades autónomas y los ayuntamientos, su financiación, autogobierno y lenguas cooficiales.",
+      "etiquetas": [
+        "organización territorial",
+        "financiación autonómica",
+        "municipios",
+        "financiación local",
+        "lenguas",
+        "insularidad",
+        "ceuta y melilla"
+      ]
+    },
+    {
+      "id": "campo-y-medio-rural",
+      "nombre": "Campo y medio rural",
+      "definicion": "Agricultura, ganadería, pesca, alimentación y despoblación.",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio rural",
+        "despoblación",
+        "alimentación"
       ]
     },
     {

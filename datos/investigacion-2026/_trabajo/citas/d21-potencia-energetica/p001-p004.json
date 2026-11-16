@@ -1,0 +1,480 @@
+{
+  "fuente": "d21-potencia-energetica",
+  "partido": "d21",
+  "paginas": [
+    1,
+    4
+  ],
+  "citas": [
+    {
+      "cita": "España tiene ante sí la oportunidad histórica más transformadora de las últimas décadas: convertirse en el verdadero motor de energía limpia, barata y competitiva de todo el continente europeo.",
+      "pagina": 2,
+      "apartado": [
+        "Ser una potencia energética"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "España como motor de energía limpia y barata en Europa",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostaremos por una regulación exigente con los objetivos de descarbonización, pero neutral en las tecnologías y respetuosa con las señales de mercado.",
+      "pagina": 2,
+      "apartado": [
+        "Ser una potencia energética"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Regulación energética con descarbonización y neutralidad tecnológica",
+      "etiquetas": [
+        "energía",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Convertiremos la abundancia verde en empleo industrial estable, reindustrialización puntera y facturas de la luz estructuralmente asequibles para todos los españoles.",
+      "pagina": 2,
+      "apartado": [
+        "Ser una potencia energética"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Energía renovable como base de empleo industrial y facturas asequibles",
+      "etiquetas": [
+        "energía",
+        "industria",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "pondremos fin a la inseguridad regulatoria que ha costado a España miles de millones de euros en arbitrajes internacionales y lastrado nuestra credibilidad.",
+      "pagina": 2,
+      "apartado": [
+        "Ser una potencia energética",
+        "Reglas claras, seguridad jurídica y precios reales",
+        "Blindaje Contra la Retroactividad y Fin de las Distorsiones Arbitrarias"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fin de la inseguridad regulatoria en el sector energético",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibiremos por ley cualquier cambio normativo con carácter retroactivo sobre proyectos de generación ya comprometidos.",
+      "pagina": 2,
+      "apartado": [
+        "Ser una potencia energética",
+        "Reglas claras, seguridad jurídica y precios reales",
+        "Blindaje Contra la Retroactividad y Fin de las Distorsiones Arbitrarias"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición legal de cambios normativos retroactivos en proyectos de generación",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sustituiremos los regímenes de penalización bruscos (\"efectos acantilado\") por escalas continuas, graduales y predecibles, asegurando que los organismos reguladores como la CNMC actúen con estricta independencia técnica frente a la injerencia política.",
+      "pagina": 2,
+      "apartado": [
+        "Ser una potencia energética",
+        "Reglas claras, seguridad jurídica y precios reales",
+        "Blindaje Contra la Retroactividad y Fin de las Distorsiones Arbitrarias"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Escalas graduales de penalización e independencia de los reguladores",
+      "etiquetas": [
+        "energía",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "el Estado no debe decidir qué tecnología gana o pierde, sino fijar objetivos ambiciosos de descarbonización, eficiencia y seguridad de suministro.",
+      "pagina": 2,
+      "apartado": [
+        "Ser una potencia energética",
+        "Reglas claras, seguridad jurídica y precios reales",
+        "Neutralidad Tecnológica Sin Tutelas Ideológicas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Neutralidad tecnológica del Estado en política energética",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizaremos un marco competitivo donde las energías verdes, los sistemas de almacenamiento de última generación y el respaldo firme compitan en igualdad de condiciones para ofrecer la combinación más eficiente y económica al consumidor.",
+      "pagina": 2,
+      "apartado": [
+        "Ser una potencia energética",
+        "Reglas claras, seguridad jurídica y precios reales",
+        "Neutralidad Tecnológica Sin Tutelas Ideológicas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Competencia en igualdad entre renovables, almacenamiento y respaldo firme",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "sustituiremos la intervención política indiscriminada de precios y tarifas —que desincentiva la inversión y distorsiona el mercado— por mecanismos reales de competencia que trasladen de inmediato el abaratamiento de la generación limpia al usuario final.",
+      "pagina": 2,
+      "apartado": [
+        "Ser una potencia energética",
+        "Reglas claras, seguridad jurídica y precios reales",
+        "Precios Transparentes y Escudo Social Hiperfocalizado"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mecanismos de competencia en lugar de intervención de precios eléctricos",
+      "etiquetas": [
+        "energía",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Frente a subsidios generalizados que benefician a rentas altas, focalizaremos los recursos públicos en un bono social eléctrico automático, directo y reforzado para proteger con total dignidad a los hogares más vulnerables.",
+      "pagina": 2,
+      "apartado": [
+        "Ser una potencia energética",
+        "Reglas claras, seguridad jurídica y precios reales",
+        "Precios Transparentes y Escudo Social Hiperfocalizado"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bono social eléctrico automático en lugar de subsidios generalizados",
+      "etiquetas": [
+        "energía",
+        "coste de la vida",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "reestructuraremos de forma integral los tributos energéticos para dejar de penalizar a la electricidad frente a los combustibles fósiles.",
+      "pagina": 3,
+      "apartado": [
+        "Ser una potencia energética",
+        "Reglas claras, seguridad jurídica y precios reales",
+        "Fiscalidad Energética Orientada a la Electrificación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la fiscalidad energética a favor de la electricidad",
+      "etiquetas": [
+        "impuestos",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reduciremos las cargas fiscales que soportan las familias y las empresas en su consumo eléctrico diario, impulsando el despliegue de bombas de calor, el transporte limpio y la sustitución de procesos industriales contaminantes por soluciones 100% eléctricas.",
+      "pagina": 3,
+      "apartado": [
+        "Ser una potencia energética",
+        "Reglas claras, seguridad jurídica y precios reales",
+        "Fiscalidad Energética Orientada a la Electrificación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rebaja de impuestos sobre el consumo eléctrico",
+      "etiquetas": [
+        "impuestos",
+        "energía",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "despolitizaremos totalmente la gestión eléctrica segregando de forma transparente la operación del sistema respecto a la titularidad de la red de transporte.",
+      "pagina": 3,
+      "apartado": [
+        "Ser una potencia energética",
+        "Redes modernas, almacenamiento e inteligencia en el sistema",
+        "Independencia del Operador del Sistema y Apertura de Redes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Separación entre operador del sistema y titular de la red",
+      "etiquetas": [
+        "energía",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Facilitaremos la entrada de financiación y capital privado en el desarrollo y despliegue de las redes de distribución y transporte para desatascar los cuellos de botella que hoy bloquean la conexión de nuevas industrias, estableciendo un sistema dinámico y bienal de capacidad que impida el acaparamiento especulativo.",
+      "pagina": 3,
+      "apartado": [
+        "Ser una potencia energética",
+        "Redes modernas, almacenamiento e inteligencia en el sistema",
+        "Independencia del Operador del Sistema y Apertura de Redes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Capital privado en redes eléctricas y sistema bienal de capacidad",
+      "etiquetas": [
+        "energía",
+        "infraestructuras",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "reconoceremos normativamente el almacenamiento (grandes baterías, bombeo y calor) como un pilar estratégico indispensable para la estabilidad del sistema. Fomentaremos su despliegue comercial rápido junto a los parques renovables existentes para evitar el desperdicio de energía limpia durante las horas punta de generación y asegurar el suministro durante los picos de demanda.",
+      "pagina": 3,
+      "apartado": [
+        "Ser una potencia energética",
+        "Redes modernas, almacenamiento e inteligencia en el sistema",
+        "Apuesta Masiva por el Almacenamiento y la Flexibilidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reconocimiento normativo y despliegue del almacenamiento energético",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "incorporaremos gemelos digitales e Inteligencia Artificial en el despacho energético para optimizar la previsión horaria, anticipar averías en la red y balancear la variabilidad renovable con máxima precisión técnica.",
+      "pagina": 3,
+      "apartado": [
+        "Ser una potencia energética",
+        "Redes modernas, almacenamiento e inteligencia en el sistema",
+        "Gestión Inteligente de la Red con IA y Presión por las Interconexiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gemelos digitales e inteligencia artificial en la gestión de la red",
+      "etiquetas": [
+        "energía",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En el ámbito europeo, ejerceremos una presión diplomática continua para romper el aislamiento eléctrico de la península, acelerando las interconexiones transfronterizas con el resto de Europa para exportar de forma masiva nuestros excedentes verdes.",
+      "pagina": 3,
+      "apartado": [
+        "Ser una potencia energética",
+        "Redes modernas, almacenamiento e inteligencia en el sistema",
+        "Gestión Inteligente de la Red con IA y Presión por las Interconexiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Interconexiones eléctricas con el resto de Europa",
+      "etiquetas": [
+        "energía",
+        "unión europea",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "ninguna fábrica debería perder años entre ventanillas y trámites duplicados antes de producir.",
+      "pagina": 4,
+      "apartado": [
+        "Ser una potencia energética",
+        "Una gran reindustrialización verde para España",
+        "Suelo Industrial Listo para Enchufar"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a los trámites duplicados para abrir fábricas",
+      "etiquetas": [
+        "industria",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Junto a Comunidades Autónomas y puertos, habilitaremos zonas industriales verdes con la evaluación ambiental resuelta, el planeamiento aprobado y la capacidad de red reservada de antemano.",
+      "pagina": 4,
+      "apartado": [
+        "Ser una potencia energética",
+        "Una gran reindustrialización verde para España",
+        "Suelo Industrial Listo para Enchufar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Zonas industriales verdes con tramitación y red ya resueltas",
+      "etiquetas": [
+        "industria",
+        "energía",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Toda la tramitación se hará en un expediente digital único, con plazos máximos vinculantes y seguimiento público en tiempo real: una verdadera ventanilla única.",
+      "pagina": 4,
+      "apartado": [
+        "Ser una potencia energética",
+        "Una gran reindustrialización verde para España",
+        "Suelo Industrial Listo para Enchufar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Expediente digital único con plazos vinculantes para proyectos industriales",
+      "etiquetas": [
+        "burocracia",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "los contratos estables de suministro renovable (PPA) no pueden seguir siendo un privilegio de las grandes corporaciones.",
+      "pagina": 4,
+      "apartado": [
+        "Ser una potencia energética",
+        "Una gran reindustrialización verde para España",
+        "Luz Limpia a Largo Plazo, También para las PYMES"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Acceso de las pymes a contratos renovables a largo plazo",
+      "etiquetas": [
+        "energía",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos plataformas de compra agregada para que nuestras PYMES industriales contraten energía limpia a 10 o 15 años en condiciones de gran consumidor, con el respaldo de las garantías públicas ya existentes.",
+      "pagina": 4,
+      "apartado": [
+        "Ser una potencia energética",
+        "Una gran reindustrialización verde para España",
+        "Luz Limpia a Largo Plazo, También para las PYMES"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Compra agregada de energía renovable a largo plazo para pymes",
+      "etiquetas": [
+        "energía",
+        "empresas",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para la industria electrointensiva sumaremos contratos por diferencias, que dan certidumbre sin borrar las señales del mercado.",
+      "pagina": 4,
+      "apartado": [
+        "Ser una potencia energética",
+        "Una gran reindustrialización verde para España",
+        "Luz Limpia a Largo Plazo, También para las PYMES"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Contratos por diferencias para la industria electrointensiva",
+      "etiquetas": [
+        "energía",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "abriremos por completo los mercados de flexibilidad a la industria para que la energía abundante se convierta en ventaja competitiva.",
+      "pagina": 4,
+      "apartado": [
+        "Ser una potencia energética",
+        "Una gran reindustrialización verde para España",
+        "Fábricas que Ganan Aportando Flexibilidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Apertura de los mercados de flexibilidad eléctrica a la industria",
+      "etiquetas": [
+        "energía",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Facilitaremos además el almacenamiento térmico (las “baterías de calor”) para electrificar el calor de los procesos industriales, uno de los grandes retos pendientes de nuestra industria.",
+      "pagina": 4,
+      "apartado": [
+        "Ser una potencia energética",
+        "Una gran reindustrialización verde para España",
+        "Fábricas que Ganan Aportando Flexibilidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Almacenamiento térmico para electrificar procesos industriales",
+      "etiquetas": [
+        "energía",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

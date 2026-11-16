@@ -1,0 +1,257 @@
+{
+  "fuente": "d21-proteccion-animal-veterinarios",
+  "partido": "d21",
+  "paginas": [
+    1,
+    3
+  ],
+  "citas": [
+    {
+      "cita": "Ha llegado el momento de modernizar nuestro marco legal, aprobando una regulación que escuche de verdad al sector veterinario, a las protectoras y a las familias.",
+      "pagina": 2,
+      "apartado": [
+        "Protección animal con los veterinarios"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modernizar la regulación animal escuchando a veterinarios y protectoras",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "modificaremos la Ley de Ordenación de las Profesiones Sanitarias (LOPS) para que el reconocimiento de los veterinarios como profesionales sanitarios, hoy meramente formal, sea pleno y efectivo: la atención clínica veterinaria tendrá la consideración de servicio sanitario asistencial y las clínicas y hospitales veterinarios, la de centros sanitarios.",
+      "pagina": 2,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Estatus sanitario pleno para la profesión veterinaria",
+        "IVA Sanitario para Mascotas y Reconocimiento Sanitario Pleno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la LOPS: veterinarios como profesión sanitaria plena",
+      "etiquetas": [
+        "bienestar animal",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En coherencia con ese reconocimiento, defenderemos en la Unión Europea la reforma de la Directiva del IVA necesaria para que los servicios veterinarios a animales de compañía dejen de tributar al 21% y pasen a tener un IVA sanitario.",
+      "pagina": 2,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Estatus sanitario pleno para la profesión veterinaria",
+        "IVA Sanitario para Mascotas y Reconocimiento Sanitario Pleno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma europea del IVA para rebajar los servicios veterinarios",
+      "etiquetas": [
+        "impuestos",
+        "bienestar animal",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mientras tanto, bajaremos el IVA de los medicamentos veterinarios del 10% al 4%, igualándolo al de los medicamentos de uso humano.",
+      "pagina": 2,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Estatus sanitario pleno para la profesión veterinaria",
+        "IVA Sanitario para Mascotas y Reconocimiento Sanitario Pleno"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "IVA de los medicamentos veterinarios del 10% al 4%",
+      "etiquetas": [
+        "impuestos",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "trasladaremos la dependencia de la profesión veterinaria en exclusiva al Ministerio de Sanidad (exceptuando el ámbito estrictamente ganadero o productivo) para cumplir con el enfoque europeo de One Health (Una Sola Salud).",
+      "pagina": 2,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Estatus sanitario pleno para la profesión veterinaria",
+        "Integración en Sanidad (One Health) y Acreditación Oficial de Especialidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Profesión veterinaria bajo el Ministerio de Sanidad",
+      "etiquetas": [
+        "sanidad",
+        "bienestar animal",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ordenaremos el desarrollo de la profesión veterinaria mediante un marco estatal público de especialidades, inspirado en la ordenación de las especialidades sanitarias, en el que Sanidad y Educación fijarán un currículo oficial con criterios científicos. Ese currículo será la referencia común para todas las instituciones que ofrezcan formación especializada, de modo que todas las acreditaciones sean rigurosas, transparentes y homologables en todo el país.",
+      "pagina": 2,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Estatus sanitario pleno para la profesión veterinaria",
+        "Integración en Sanidad (One Health) y Acreditación Oficial de Especialidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Marco estatal de especialidades veterinarias con currículo oficial",
+      "etiquetas": [
+        "sanidad",
+        "educación",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "para que los veterinarios puedan dispensar directamente a sus pacientes el tratamiento prescrito, modificaremos la Ley de Garantías y Uso Racional de los Medicamentos.",
+      "pagina": 2,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Estatus sanitario pleno para la profesión veterinaria",
+        "Libertad de Dispensación y Autonomía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma legal para que los veterinarios dispensen medicamentos",
+      "etiquetas": [
+        "bienestar animal",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "También derogaremos el Real Decreto 666/2023, cuya aplicación ha exigido sucesivas modificaciones, y lo sustituiremos por una norma mínima que aplique directamente el Reglamento (UE) 2019/6 y regule únicamente los aspectos que este deja en manos de cada Estado.",
+      "pagina": 2,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Estatus sanitario pleno para la profesión veterinaria",
+        "Libertad de Dispensación y Autonomía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogación del Real Decreto 666/2023 sobre medicamentos veterinarios",
+      "etiquetas": [
+        "bienestar animal",
+        "sanidad",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizaremos la autonomía del profesional veterinario en las decisiones clínicas complejas, eliminando trabas burocráticas indebidas y respetando su condición legal de único profesional habilitado para los actos clínicos en animales.",
+      "pagina": 3,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Estatus sanitario pleno para la profesión veterinaria",
+        "Libertad de Dispensación y Autonomía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Autonomía clínica del veterinario y menos trabas burocráticas",
+      "etiquetas": [
+        "bienestar animal",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cumpliremos la obligación europea de recoger datos sobre el uso de antimicrobianos mediante la integración automatizada de la información desde los programas de gestión clínica, sustituyendo la notificación manual e individual de cada receta que hoy asfixia administrativamente a los veterinarios.",
+      "pagina": 3,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Estatus sanitario pleno para la profesión veterinaria",
+        "Libertad de Dispensación y Autonomía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro automatizado del uso de antimicrobianos en lugar de notificación manual",
+      "etiquetas": [
+        "bienestar animal",
+        "sanidad",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "pondremos en marcha una nueva Ley de Bienestar Animal redactada desde el consenso técnico con veterinarios, biólogos, protectoras, criadores responsables y familias.",
+      "pagina": 3,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Ley de bienestar animal 2.0 y lucha contra el maltrato animal",
+        "Reforma Integral de la Ley de Bienestar Animal Basada en Evidencia Científica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva Ley de Bienestar Animal consensuada con el sector",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sustituiremos los conceptos jurídicamente indefinidos por criterios científicos rigurosos y evaluables, y someteremos a revisión técnica las cuestiones que más controversia han generado para construir una ley que proteja realmente el bienestar animal sin imponer cargas incoherentes a quienes conviven a diario con los animales.",
+      "pagina": 3,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Ley de bienestar animal 2.0 y lucha contra el maltrato animal",
+        "Reforma Integral de la Ley de Bienestar Animal Basada en Evidencia Científica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Criterios científicos y revisión técnica de la ley de bienestar animal",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "crearemos un Fondo Estatal de Peritaje Veterinario Forense, nutrido directamente con las sanciones económicas impuestas por maltrato y abandono animal. A través de convenios marco entre la Administración de Justicia y los colegios profesionales y asociaciones de peritos veterinarios, este fondo garantizará la provisión inmediata de fondos no solo para los honorarios periciales, sino también para la cobertura de pruebas diagnósticas complementarias esenciales (necropsias, análisis toxicológicos y radiodiagnóstico forense), poniendo fin a la impunidad de agresores cuyos casos hoy se archivan por falta del respaldo pericial necesario para una sanción efectiva.",
+      "pagina": 3,
+      "apartado": [
+        "Protección animal con los veterinarios",
+        "Ley de bienestar animal 2.0 y lucha contra el maltrato animal",
+        "Justicia Asegurada contra el Maltrato Animal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondo estatal de peritaje veterinario forense contra el maltrato animal",
+      "etiquetas": [
+        "bienestar animal",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

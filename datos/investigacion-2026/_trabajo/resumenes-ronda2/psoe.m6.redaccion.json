@@ -1,0 +1,50 @@
+{
+  "resumenes": [
+    {
+      "tema": "politica-exterior-y-defensa",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende el multilateralismo y propone reformar el Consejo de Seguridad de la ONU limitando el veto y fortalecer la Corte Penal Internacional.",
+          "apoyos": ["c-97d0aa3a0a", "c-bcdad7df47", "c-845fbedd47"]
+        },
+        {
+          "texto": "Plantea promover la solución de los dos Estados en Israel y Palestina, impulsar que la UE sancione a quienes la obstaculicen y respaldar la soberanía de Ucrania.",
+          "apoyos": ["c-3d7efc980e", "c-7f189d8b56"]
+        },
+        {
+          "texto": "Pide reforzar la defensa común europea y modernizar las Fuerzas Armadas, y rechaza elevar el gasto militar al 5 % del PIB.",
+          "apoyos": ["c-7a8c9e6844", "c-3976f027c8", "c-bf8b6e65fd", "c-6c47bf4e63", "c-5826d985d4", "c-b9d431cecd"]
+        },
+        {
+          "texto": "Quiere cerrar la brecha con el 0,7 % de la renta nacional bruta en ayuda oficial al desarrollo.",
+          "apoyos": ["c-a141f0b6d9", "c-04cc1b9c2d"]
+        }
+      ],
+      "nota": "Hay muchas medidas sobre la UE (fin de la unanimidad, Balcanes, Ceuta y Melilla, Gibraltar, armas nucleares) que quedan fuera por espacio. Varias citas del tema son en realidad de clima, pesca, PAC o fiscalidad europea y no se han usado."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone subir cada año la inversión pública en I+D hasta el 1,25 % del PIB, con el 1,5 % como objetivo para 2035.",
+          "apoyos": ["c-1bbf27aea8", "c-97af197805"]
+        },
+        {
+          "texto": "Plantea una edad mínima de 16 años en redes sociales y una ley de protección de menores en entornos digitales con verificación obligatoria de edad.",
+          "apoyos": ["c-1f5f867098", "c-02f9f982c5", "c-bc623e1bf5", "c-46f0e99a43"]
+        },
+        {
+          "texto": "Pide una ley de inteligencia artificial con supervisión humana, etiquetado de contenidos generados y sanciones de hasta 35 millones de euros.",
+          "apoyos": ["c-ba287dca65", "c-ccf9e0dcd4"]
+        },
+        {
+          "texto": "En cultura, propone una Ley General de Cultura y un abono de cine de 15 euros mensuales para menores de 25 años.",
+          "apoyos": ["c-ce11b0e11c", "c-1927b3cd31"]
+        }
+      ],
+      "nota": "Tema muy amplio (ciencia, IA, protección de menores, violencia digital, cultura y deporte); se han elegido las medidas con cifra o más desarrolladas. Quedan fuera el impuesto a las grandes tecnológicas, al que el programa llama «tecnooligarcas», y las medidas de deporte."
+    }
+  ]
+}

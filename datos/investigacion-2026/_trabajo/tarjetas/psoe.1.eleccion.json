@@ -1,0 +1,117 @@
+{
+  "partido": "psoe",
+  "lote": "psoe.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        { "id": "c-df4346b0f8", "motivo": "Representa su línea central de aumentar la oferta pública de vivienda asequible, con la cifra estrella del programa (100.000 viviendas en un parque público estatal); es más concreta y votable que el objetivo genérico del 1% del PIB.", "texto": null, "cambio": null },
+        { "id": "c-0f5708d128", "motivo": "Cubre la línea fiscal contra la especulación (impuesto progresivo a viviendas de grandes tenedores no destinadas a alquiler asequible), que es lo que más repite Sánchez en campaña; se prefiere a c-918d56d137 por longitud (33 frente a 68 palabras).", "texto": null, "cambio": null },
+        { "id": "c-5ba7199050", "motivo": "Cubre la línea de regulación del alquiler (congelar temporalmente rentas por encima de los índices de referencia), una de las medidas destacadas en el resumen y distinta de la oferta pública y del impuesto.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-918d56d137", "por_que_no": "Es la versión del impuesto que más se parece a lo que dice Sánchez en campaña, pero tiene 68 palabras; c-0f5708d128 dice lo mismo en 33." },
+        { "id": "c-4540d1d2f3", "por_que_no": "El 1% del PIB encabeza el resumen, pero sola no dice qué se hará con ese dinero; quien la lea se lleva menos idea de la propuesta que con el parque público de 100.000 viviendas." },
+        { "id": "c-44293a5804", "por_que_no": "La reforma constitucional para hacer la vivienda derecho fundamental es importante, pero es más declarativa que las medidas de oferta, fiscalidad y alquiler; además esa reforma ya se cubre en democracia-e-instituciones con c-35f95c0f4a." }
+      ],
+      "nota": "Entre el parque público (línea 2 del resumen) y el impuesto a grandes tenedores (lo más repetido en campaña) la elección de la primera es ajustada; si el revisor prioriza la campaña, intercambiar el orden de las dos primeras."
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        { "id": "c-9f11b3d30d", "motivo": "Primera línea del resumen: blindar por ley el SMI por encima del 60% del salario medio, con cifra; resume su enfoque de subida salarial, que también destaca en campaña al hablar de salarios.", "texto": null, "cambio": null },
+        { "id": "c-9df3920cad", "motivo": "Segunda línea principal: completar la reducción de jornada a 37,5 horas sin pérdida salarial y avanzar hacia las 35; medida bandera distinta de la salarial.", "texto": null, "cambio": null },
+        { "id": "c-a5d51f4b24", "motivo": "Cubre la nueva prestación de cuatro semanas de permiso al 100% para cuidar a hijos menores de ocho años, la promesa laboral que más destaca Sánchez en campaña (15 de noviembre).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-f764364f2c", "por_que_no": "La reforma del despido improcedente es la línea 3 del resumen y buena candidata a tercera, pero se prefiere el permiso de cuidados por el peso que le da la campaña." },
+        { "id": "c-cb151b7212", "por_que_no": "El registro horario digital forma parte de la línea de jornada, ya cubierta por c-9df3920cad." },
+        { "id": "c-f7f58c338b", "por_que_no": "El Pacto de Estado por los salarios es menos concreto que el SMI por ley; más difícil de votar." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        { "id": "c-49005d5903", "motivo": "Primera línea del resumen: nueva etapa de inversión productiva con el Fondo España Crece de 120.000 millones; encaja con el mensaje de campaña de «mucha más inversión» y lleva cifra.", "texto": null, "cambio": null },
+        { "id": "c-cef708fde2", "motivo": "Cubre la línea de coste de la vida (bono social único y automático), medida concreta y fácil de votar, en sintonía con la protección frente a la subida de precios que defiende en campaña.", "texto": null, "cambio": null },
+        { "id": "c-0dfc16ac26", "motivo": "Cubre la política industrial y de autonomía estratégica (Ley de Industria y Autonomía Estratégica), que el resumen sitúa en su línea principal y Sánchez destaca en campaña.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-feeeebe8df", "por_que_no": "Mantener la inversión pública tras los fondos europeos encaja con la campaña, pero se solapa con c-49005d5903 y se centra en las infraestructuras." },
+        { "id": "c-93f01d5b49", "por_que_no": "Reforzar la CNMC es la línea 4 del resumen; queda por detrás de la inversión, el coste de la vida y la industria." },
+        { "id": "c-fce1814369", "por_que_no": "El plan fiscal de medio plazo representa la senda de deuda y déficit, pero es técnico y poco votable para quien no sabe de política." }
+      ],
+      "nota": "c-49005d5903 (70 palabras) y c-0dfc16ac26 (69) superan las 50 palabras recomendadas, pero no las 80; no hay alternativas más cortas que representen igual esas líneas."
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        { "id": "c-5ed0943cdb", "motivo": "Primera línea del resumen: acabar con las listas de espera con una financiación pública en torno al 7% del PIB y reforzando el carácter público del SNS; resume por sí sola su postura.", "texto": null, "cambio": null },
+        { "id": "c-3dbaa1ee69", "motivo": "Cubre el Plan Sonríe (incorporar los tratamientos dentales básicos de adultos a la sanidad pública), la propuesta sanitaria nueva más concreta del programa; se prefiere a la ayuda de 200 euros, que empieza por «Mientras tanto» y no se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-fab4f84055", "motivo": "Cubre la salud mental: atención psicológica gratuita con primera consulta en 30 días como máximo, una línea propia del resumen y con plazo concreto.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-e5a630ab19", "por_que_no": "Limitar la privatización es la línea 2 del resumen, pero junta dos acciones (gestión directa y Ley de Buen Gobierno) y el carácter público ya aparece en c-5ed0943cdb." },
+        { "id": "c-73df85109d", "por_que_no": "La ayuda de 200 euros empieza por «Mientras tanto» y remite a la medida anterior; sola no se entiende." },
+        { "id": "c-b77b1f8a76", "por_que_no": "Reforzar la atención primaria es menos concreto y menos distintivo que las tres elegidas." }
+      ],
+      "nota": "Sin declaraciones de campaña sobre el tema."
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        { "id": "c-5137fd8b8e", "motivo": "Representa su enfoque de integración con derechos y obligaciones (Plan de Integración y Ciudadanía 2026-2030 con 500 millones), con cifra; la línea 1 del resumen (migración ordenada y contratación en origen) no tiene medida candidata propia.", "texto": null, "cambio": null },
+        { "id": "c-ced36fa5bd", "motivo": "Cubre la línea de asilo: ampliar las vías legales y seguras de protección internacional y reforzar la acogida.", "texto": null, "cambio": null },
+        { "id": "c-565862540c", "motivo": "Cubre la vertiente de emigración (plan de retorno del talento joven), medida propia del tema, corta y votable.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-9f5d3ae5a3", "por_que_no": "También trata el retorno, pero lo mezcla con la reforma de la red consular; c-565862540c es más limpia." },
+        { "id": "c-3cffc3902f", "por_que_no": "La Unidad de Apoyo a la Infancia Migrante encaja con la línea 3 del resumen (menores que llegan solos), pero es de otro tema (familias-y-cuidados) y aquí hay medidas propias suficientes." }
+      ],
+      "nota": "Sin declaraciones de campaña sobre el tema."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        { "id": "c-35f95c0f4a", "motivo": "Primera línea del resumen: reforma constitucional para proteger la salud y la vivienda como derechos fundamentales; Sánchez anuncia en campaña una reforma constitucional (de las pensiones), lo que confirma que es una línea destacada.", "texto": null, "cambio": null },
+        { "id": "c-f2dc12ab09", "motivo": "Cubre la línea anticorrupción: Ley de Integridad Pública y Agencia Independiente de Integridad Pública, núcleo de la línea 3 del resumen.", "texto": null, "cambio": null },
+        { "id": "c-f449e653d8", "motivo": "Cubre la línea de participación: rebajar la edad de voto a 16 años (línea 2 del resumen), medida clara para votar; se prefiere a c-fafb49bb6c porque pone el voto a los 16 en primer plano.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-65ab274758", "por_que_no": "El escaño ciudadano es de la línea 2, pero lo junta con la rebaja de firmas para la iniciativa legislativa popular; el voto a los 16 es más claro." },
+        { "id": "c-fcdd0617a2", "por_que_no": "Suprimir los aforamientos es clara y corta, pero la agencia de integridad es el centro de su propuesta anticorrupción." },
+        { "id": "c-710673783c", "por_que_no": "Blindar el aborto en la Constitución es parte de la línea 1, pero el tema central de la medida es el aborto y alude a la reforma «iniciada en 2026»; se prefiere la de derechos sociales." }
+      ],
+      "nota": "La línea de la Fiscalía (mandato de cinco años, investigación penal) no tiene medida candidata."
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        { "id": "c-a5bcae41f2", "motivo": "Primera línea del resumen: universalizar la educación de 0 a 3 años con más escuelas infantiles públicas.", "texto": null, "cambio": null },
+        { "id": "c-62991e5157", "motivo": "Cubre la línea universitaria con su medida más concreta: matrícula gratuita del primer curso de grado en las universidades públicas.", "texto": null, "cambio": null },
+        { "id": "c-2750317968", "motivo": "Cubre la línea de becas y ratios por aula (línea 2 del resumen); es la única candidata que recoge las dos cosas.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-e60801791b", "por_que_no": "El Estatuto del Docente está en la línea 2, pero las becas y las ratios son más reconocibles para quien vota." },
+        { "id": "c-7769732c87", "por_que_no": "Bajar el abandono escolar del 10% es un objetivo más que una medida; menos votable." },
+        { "id": "c-9dd0a803e1", "por_que_no": "La ley de financiación universitaria tiene 57 palabras y es más técnica que la matrícula gratuita." }
+      ],
+      "nota": "c-2750317968 tiene 66 palabras (por encima de 50, por debajo de 80). Sin declaraciones de campaña sobre el tema."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        { "id": "c-861b2601d8", "motivo": "Primera línea del resumen: renovables hasta el 81% de la generación eléctrica en 2030, con cifra; enlaza con la apuesta por las energías limpias que Sánchez destaca en campaña.", "texto": null, "cambio": null },
+        { "id": "c-4976ef8b1f", "motivo": "Cubre la postura nuclear: mantener el calendario de cierre de las centrales hasta 2035, línea 2 del resumen y medida claramente votable.", "texto": null, "cambio": null },
+        { "id": "c-95d2635b6c", "motivo": "Cubre la línea de adaptación al cambio climático (Ley de Adaptación al Cambio Climático), primera de la línea 3 del resumen.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-7ee98271de", "por_que_no": "La hoja de ruta para abandonar los combustibles fósiles es de la misma línea que las renovables, ya cubierta por la primera." },
+        { "id": "c-cd12f59464", "por_que_no": "Proteger el 30% de los ecosistemas es la línea 4; buena alternativa a la tercera, pero la adaptación climática va antes en el resumen." },
+        { "id": "c-fa844fdf0d", "por_que_no": "El acceso al agua potable blindado en la Constitución es de la línea 3, pero mezcla un mínimo vital y una reforma constitucional." }
+      ],
+      "nota": ""
+    }
+  ]
+}

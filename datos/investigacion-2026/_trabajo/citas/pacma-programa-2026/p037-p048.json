@@ -1,0 +1,1237 @@
+{
+  "fuente": "pacma-programa-2026",
+  "partido": "pacma",
+  "paginas": [
+    37,
+    48
+  ],
+  "citas": [
+    {
+      "cita": "Por todo ello, es imprescindible minimizar el consumo de alimentos de origen animal y fomentar una dieta basada en plantas.",
+      "pagina": 37,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Freno al cambio climático",
+        "Disminución del consumo de alimentos de origen animal y fomento de una dieta vegetal"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Reducir el consumo de alimentos de origen animal",
+      "etiquetas": [
+        "alimentación",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mayor carga impositiva a los productos de origen animal, aplicando un impuesto climático, cuyo gravamen se calcule en función de las emisiones generadas asociadas a la producción de cada alimento y cuya recaudación se destine a compensar el daño climático que causa su producción.",
+      "pagina": 37,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Freno al cambio climático",
+        "Disminución del consumo de alimentos de origen animal y fomento de una dieta vegetal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Impuesto climático sobre productos de origen animal según emisiones",
+      "etiquetas": [
+        "impuestos",
+        "alimentación",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Etiquetado de los productos alimenticios que incluya la huella de carbono asociada a su producción, así como una advertencia en todas las carnes procesadas que hayan sido declaradas cancerígenas por la OMS.",
+      "pagina": 37,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Freno al cambio climático",
+        "Disminución del consumo de alimentos de origen animal y fomento de una dieta vegetal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Etiquetado con huella de carbono y advertencia en carnes procesadas",
+      "etiquetas": [
+        "consumo",
+        "alimentación",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cese de campañas institucionales de promoción y publicidad del sector y sus productos.",
+      "pagina": 37,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Freno al cambio climático",
+        "Disminución del consumo de alimentos de origen animal y fomento de una dieta vegetal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fin de campañas institucionales que promocionan productos de origen animal",
+      "etiquetas": [
+        "publicidad",
+        "agricultura y pesca",
+        "alimentación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Puesta en marcha de campañas sobre los beneficios para la salud de una dieta vegetal, así como de campañas que muestren la situación real en la que viven los animales en las granjas y las consecuencias medioambientales de la ganadería intensiva.",
+      "pagina": 37,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Freno al cambio climático",
+        "Disminución del consumo de alimentos de origen animal y fomento de una dieta vegetal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Campañas públicas sobre dieta vegetal y ganadería intensiva",
+      "etiquetas": [
+        "alimentación",
+        "bienestar animal",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Subvenciones a los alimentos vegetales saludables, cuya producción es más respetuosa con el medio ambiente, como frutas, verduras, legumbres, semillas, cereales o algas.",
+      "pagina": 38,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Freno al cambio climático",
+        "Disminución del consumo de alimentos de origen animal y fomento de una dieta vegetal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subvencionar alimentos vegetales como frutas, verduras y legumbres",
+      "etiquetas": [
+        "subvenciones",
+        "alimentación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mayor tipo impositivo a las leches, yogures, quesos y demás productos lácteos de origen animal y menor a sus equivalentes de origen vegetal, dado que, actualmente, los de origen animal tienen un IVA superreducido del 4%, mientras que los de origen vegetal tributan al 10%.",
+      "pagina": 38,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Freno al cambio climático",
+        "Disminución del consumo de alimentos de origen animal y fomento de una dieta vegetal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subir IVA de lácteos animales y bajarlo a sus equivalentes vegetales",
+      "etiquetas": [
+        "impuestos",
+        "alimentación",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las macrogranjas son fábricas industriales de carne, leche y huevos, pero también de sufrimiento, contaminación y cambio climático.",
+      "pagina": 38,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "NO a las macrogranjas"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a las macrogranjas",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cese de autorizaciones para la instalación de nuevas explotaciones ganaderas y avícolas, y/o para la ampliación de las existentes.",
+      "pagina": 39,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "NO a las macrogranjas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "No autorizar nuevas granjas ni ampliaciones",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisión de las autorizaciones concedidas con evaluaciones de impacto ambiental acumulado sobre el conjunto de proyectos.",
+      "pagina": 39,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "NO a las macrogranjas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisar autorizaciones de granjas con impacto ambiental acumulado",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Normativa estatal que limite el tamaño y el número de animales de las explotaciones ganaderas y avícolas; que establezca como requisito la presentación de estudios específicos sobre afecciones al medio, así como de planes de abonado en todos los casos; y que regule la gestión de los purines.",
+      "pagina": 39,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "NO a las macrogranjas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley estatal que limite tamaño de granjas y regule purines",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente",
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implantación de un mayor número de controles e inspecciones de las instalaciones, más exhaustivos, estrictos y regulares.",
+      "pagina": 39,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "NO a las macrogranjas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más inspecciones a las explotaciones ganaderas",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cese de las subvenciones al sector.",
+      "pagina": 39,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "NO a las macrogranjas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar subvenciones a la ganadería",
+      "etiquetas": [
+        "subvenciones",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impuesto climático a las explotaciones ganaderas y avícolas, cuyo gravamen se calcule en función de las emisiones generadas asociadas a su producción, y cuya recaudación se destine a compensar el daño climático que causan.",
+      "pagina": 39,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "NO a las macrogranjas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Impuesto climático a explotaciones ganaderas según emisiones",
+      "etiquetas": [
+        "impuestos",
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Pero, más allá de los impactos locales y contaminantes, el principal problema de la acuicultura, que desmonta el mito de su supuesta sostenibilidad, es que, para alimentar y engordar a los peces criados en estas instalaciones, es necesario capturar en el mar a otros tantos peces en estado salvaje.",
+      "pagina": 40,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Contra las piscifactorías"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Cuestiona la sostenibilidad de la acuicultura",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA apostamos también por una reconversión de la industria pesquera hacia otros sectores, y el cese de las subvenciones al sector.",
+      "pagina": 40,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Contra las piscifactorías"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reconversión de la industria pesquera y fin de sus subvenciones",
+      "etiquetas": [
+        "agricultura y pesca",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, desde PACMA defendemos el fin de la comercialización de carne y aletas de tiburón.",
+      "pagina": 41,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Fin a la comercialización de carne y aletas de tiburón"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir la venta de carne y aletas de tiburón",
+      "etiquetas": [
+        "agricultura y pesca",
+        "bienestar animal",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Criar pulpos con un nivel de bienestar alto es imposible, dado que mantener un gran número de pulpos juntos, generaría estrés, conflicto y una alta mortalidad.",
+      "pagina": 41,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Veto a las granjas de pulpos. Protección para los crustáceos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a la cría de pulpos en granjas",
+      "etiquetas": [
+        "bienestar animal",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, desde PACMA impulsaremos, por un lado, una norma nacional que prohíba tanto la producción como la importación de pulpos criados en cautividad.",
+      "pagina": 42,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Veto a las granjas de pulpos. Protección para los crustáceos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley que prohíba producir e importar pulpos de granja",
+      "etiquetas": [
+        "bienestar animal",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, desde PACMA impulsaremos, por un lado, una norma nacional que prohíba tanto la producción como la importación de pulpos criados en cautividad. Por otro, la modificación del delito de maltrato animal de manera que los invertebrados queden protegidos en todos los casos, puesto que, como hemos señalado anteriormente, la pésima redacción de la reforma realizada en 2023 protege a los animales invertebrados solo cuando se encuentran bajo control humano y el maltrato a animales tan inteligentes y sensibles como pulpos y otros cefalópodos que viven en libertad continúa siendo impune.",
+      "pagina": 42,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Veto a las granjas de pulpos. Protección para los crustáceos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reformar el delito de maltrato animal para incluir invertebrados",
+      "etiquetas": [
+        "bienestar animal",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por los mismos motivos, es una necesidad urgente proteger a los crustáceos que se destinan al consumo humano, al menos, prohibiendo que sean mantenidos en hielo y/o con las pinzas atadas, y que sean cocidos vivos.",
+      "pagina": 42,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Veto a las granjas de pulpos. Protección para los crustáceos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir cocer vivos o mantener en hielo a crustáceos",
+      "etiquetas": [
+        "bienestar animal",
+        "alimentación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "PACMA quiere impulsar la prohibición del uso del glifosato, así como el de otros herbicidas y plaguicidas peligrosos.",
+      "pagina": 43,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Restricción a los productos químicos. Prohibición del glifosato y fomento de la producción orgánica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir el glifosato y otros plaguicidas peligrosos",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En contrapartida, queremos fomentar y apoyar la producción orgánica, como sistema de gestión y producción agroalimentaria que combina las mejores prácticas ambientales junto con un elevado nivel de biodiversidad y de preservación de los recursos naturales.",
+      "pagina": 43,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Restricción a los productos químicos. Prohibición del glifosato y fomento de la producción orgánica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomento de la producción agrícola ecológica",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "A pesar de que la industria química haya pretendido convencernos de que no es posible mantener la agricultura sin recurrir a fertilizantes, herbicidas y plaguicidas sintéticos, la agricultura ecológica demuestra cada día que sí es posible, convirtiéndose en la mejor opción para proteger nuestra salud y el medio ambiente, generando también empleo verde de manera creciente.",
+      "pagina": 43,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Restricción a los productos químicos. Prohibición del glifosato y fomento de la producción orgánica"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa de la agricultura sin productos químicos sintéticos",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostamos por la defensa y el apoyo a la agricultura, en contraposición a las millonarias subvenciones que se conceden actualmente a la ganadería y a la pesca.",
+      "pagina": 43,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Apoyo a la agricultura frente a ganadería y pesca",
+      "etiquetas": [
+        "agricultura y pesca",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA apostamos por el desarrollo de la agricultura local, orientada a la comercialización de ámbito comarcal.",
+      "pagina": 43,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Desarrollo de la agricultura local y comarcal",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El sector agrícola vinculado a los productos locales ofrece una gran oportunidad para el crecimiento económico. Por ello, es fundamental la implicación del Estado y las comunidades autónomas en su desarrollo, mediante una oferta estructurada de apoyos técnicos y tecnológicos.",
+      "pagina": 43,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo técnico público a la agricultura local",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defendemos una agricultura al servicio de la ciudadanía, en la que se favorezcan las explotaciones agrícolas frente a los grandes latifundios, y que permita recuperar los espacios rurales tradicionales.",
+      "pagina": 43,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo agrícola de explotaciones pequeñas frente a latifundios",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyamos los principios básicos de la Soberanía Alimentaria, que coloca la producción alimentaria, la distribución y el consumo sobre la base de la sostenibilidad medioambiental, social y económica, como forma de avanzar hacia un modelo sostenible, ecológico, respetuoso con el medio ambiente y los animales, garante de alimento de calidad para todas las personas, que dinamice las economías locales.",
+      "pagina": 43,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Apoyo a los principios de la soberanía alimentaria",
+      "etiquetas": [
+        "alimentación",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario poner en marcha medidas para garantizar el futuro de la agricultura, como el impulso de la innovación, la formación y la puesta en marcha de ayudas a la inversión.",
+      "pagina": 43,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Innovación, formación y ayudas a la inversión agrícola",
+      "etiquetas": [
+        "agricultura y pesca",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incrementar las subvenciones a la agricultura en detrimento de las que recibe la ganadería.",
+      "pagina": 43,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Trasladar subvenciones de la ganadería a la agricultura",
+      "etiquetas": [
+        "subvenciones",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Redistribuir las ayudas directas hacia las explotaciones más pequeñas y respetuosas con el medio ambiente.",
+      "pagina": 43,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas directas hacia explotaciones pequeñas y sostenibles",
+      "etiquetas": [
+        "subvenciones",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Preservar los métodos de producción tradicionales, regionales y locales.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Preservar métodos de producción tradicionales",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la creación de canales cooperativos y solidarios para la comercialización de productos, al margen de las multinacionales.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Canales cooperativos de venta de productos agrícolas",
+      "etiquetas": [
+        "agricultura y pesca",
+        "economía social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Favorecer la puesta en marcha de medidas de apoyo para el almacenamiento, la conservación y transformación de los productos hortofrutícolas.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo al almacenamiento y transformación hortofrutícola",
+      "etiquetas": [
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover medidas de apoyo técnico a los/as profesionales del sector.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo técnico a profesionales agrícolas",
+      "etiquetas": [
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar los sistemas para la vigilancia, el análisis de alimentos y la alerta temprana.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Vigilancia, análisis de alimentos y alerta temprana",
+      "etiquetas": [
+        "alimentación",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la formación a través de cursos de especialización y de formación profesional agrícola.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación profesional agrícola",
+      "etiquetas": [
+        "agricultura y pesca",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar una mayor transparencia en la comercialización de los productos agrícolas, con un aumento en el grado de participación del sector en el proceso.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Transparencia en la comercialización agrícola",
+      "etiquetas": [
+        "agricultura y pesca",
+        "comercio"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentar la revitalización de los suelos de uso agrícola perjudicados por la actividad industrial.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Recuperar suelos agrícolas dañados por la industria",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desincentivar la agricultura basada en monocultivos que agota el suelo y perjudica la biodiversidad, y reorientarla hacia una agricultura diversificada y agroecológica, que utilice los principios regenerativos, de permacultura y naturales que restauran el suelo y los ecosistemas, mejoran la seguridad alimentaria y proporcionan alimentos ricos en nutrientes.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Desincentivar monocultivos y promover agroecología",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incentivar el consumo de producto local, evitando costes de transporte y perjuicios al medio ambiente.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fomento del consumo de producto local",
+      "etiquetas": [
+        "consumo",
+        "alimentación",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implementar que los servicios de bares, cafeterías, restaurantes y comedores de dependencias públicas sean abastecidos por productos locales, procedentes de la agricultura ecológica.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Productos locales ecológicos en comedores de edificios públicos",
+      "etiquetas": [
+        "contratación pública",
+        "alimentación",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyar y subvencionar las energías renovables en las que se sustenten los sistemas de riego inteligentes de presión y caudal constante, que ahorran agua, son más eficientes y ecológicos.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "En defensa de la agricultura ecológica"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subvenciones a renovables para riego eficiente",
+      "etiquetas": [
+        "subvenciones",
+        "agua",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "PACMA apuesta por el consumo responsable y sostenible. Para ello es necesario poner en marcha políticas para desincentivar la producción y compraventa de los productos que tienen un mayor impacto ambiental, encarecer y limitar el sobre-embalaje y el uso de materiales no reciclables.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Consumo responsable. Uso sostenible de los recursos y limitación a la producción de residuos. Fin a la obsolescencia programada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Desincentivar productos de alto impacto y limitar embalajes",
+      "etiquetas": [
+        "consumo",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario incentivar la utilización de productos biodegradables, la reutilización de los consumibles y el reciclaje de los residuos como materias primas, implantando sistemas de retorno de envases.",
+      "pagina": 44,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Consumo responsable. Uso sostenible de los recursos y limitación a la producción de residuos. Fin a la obsolescencia programada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reciclaje y sistemas de retorno de envases",
+      "etiquetas": [
+        "medio ambiente",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, desde el Partido Animalista proponemos políticas que impulsen la puesta en el mercado de productos duraderos, reparables, reutilizables y reciclables, con el objetivo de reducir el uso y consumo de recursos naturales, disminuir la producción de residuos, impulsar el sector de la reparación, relocalizar la creación de empleo y la generación de riqueza.",
+      "pagina": 45,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Consumo responsable. Uso sostenible de los recursos y limitación a la producción de residuos. Fin a la obsolescencia programada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Productos duraderos, reparables y reciclables",
+      "etiquetas": [
+        "consumo",
+        "medio ambiente",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para combatir la obsolescencia programada, la legislación debe exigir a los fabricantes que amplíen las garantías, permitan extraer y sustituir piezas fácilmente para reparar los dispositivos, y que los usuarios puedan acudir a cualquier tienda de reparación para arreglar sus productos, sin verse obligados a acudir necesariamente a los servicios oficiales de los fabricantes.",
+      "pagina": 45,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Consumo responsable. Uso sostenible de los recursos y limitación a la producción de residuos. Fin a la obsolescencia programada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Garantías más largas y derecho a reparar dispositivos",
+      "etiquetas": [
+        "consumo",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello es fundamental también la puesta en marcha de campañas de difusión y reeducación hacia un consumo responsable, planificado y sostenible.",
+      "pagina": 45,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Consumo responsable. Uso sostenible de los recursos y limitación a la producción de residuos. Fin a la obsolescencia programada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Campañas sobre consumo responsable",
+      "etiquetas": [
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En este sentido, para proteger y recuperar acuíferos, humedales y ríos, como ya hemos advertido en anteriores epígrafes, es imprescindible reducir el consumo de alimentos de origen animal y desterrar la ganadería intensiva, pero también promover tecnologías innovadoras y eficientes en la agricultura, la industria, el transporte, la energía, el turismo o el urbanismo, como la utilización de la IA para la predicción de consumos, la sectorización y digitalización de las redes de distribución para la detección de las fugas.",
+      "pagina": 46,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Ríos vivos y ahorro efectivo de agua"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Proteger el agua reduciendo ganadería y digitalizando redes",
+      "etiquetas": [
+        "agua",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para garantizar el buen estado de las masas de agua son necesarias políticas sectoriales que minimicen su consumo, garanticen caudales ambientales parecidos al régimen natural y aseguren la calidad del agua disponible.",
+      "pagina": 46,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Ríos vivos y ahorro efectivo de agua"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducir consumo de agua y garantizar caudales ambientales",
+      "etiquetas": [
+        "agua",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las administraciones responsables deben respetar las llanuras de inundación y evitar la contaminación difusa o los usos excesivos.",
+      "pagina": 46,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Ríos vivos y ahorro efectivo de agua"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Respetar llanuras de inundación y evitar contaminación difusa del agua",
+      "etiquetas": [
+        "agua",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario promover el ahorro y la depuración del agua y garantizar una buena gestión pública.",
+      "pagina": 46,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Ríos vivos y ahorro efectivo de agua"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Ahorro, depuración y gestión pública del agua",
+      "etiquetas": [
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Son necesarias campañas informativas destinadas a concienciar sobre los perjuicios medioambientales de utilizar detergentes y químicos tóxicos en el ámbito doméstico, como en la limpieza del hogar y la ropa, y fomentar, en su lugar, el uso de productos ecológicos o inocuos.",
+      "pagina": 46,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Ríos vivos y ahorro efectivo de agua"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Campañas sobre contaminación del agua por productos domésticos",
+      "etiquetas": [
+        "agua",
+        "medio ambiente",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "PACMA propone ampliar las zonas marinas y terrestres protegidas, de manera que las áreas naturales protegidas de bosques, humedales, turberas, pastizales y ecosistemas costeros, que, actualmente solo suponen un 18% del territorio, abarquen, al menos, un 30% para 2030. Este objetivo debe ser vinculante a nivel nacional, en cooperación con los gobiernos autonómicos y locales, siendo fundamental, además, que la protección de la biodiversidad se tenga en cuenta en todas las políticas, de manera transversal.",
+      "pagina": 47,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Contención a la pérdida de la biodiversidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Proteger al menos el 30% del territorio en 2030",
+      "etiquetas": [
+        "medio ambiente",
+        "costas",
+        "montes"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Balsas de regadío: limitación de profundidad y pendiente de las paredes y colocación de rampas de escape.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rampas de escape y límites en balsas de riego",
+      "etiquetas": [
+        "bienestar animal",
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Canales de regadío: instalación de barreras flotantes y rampas de salida suficientes.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Barreras y rampas en canales de riego",
+      "etiquetas": [
+        "bienestar animal",
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Pozos y aljibes: colocación de cerramientos adecuados.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cerramientos en pozos y aljibes para la fauna",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Piscinas: instalación de plataformas flotantes con rampas de salida.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rampas de salida en piscinas para la fauna",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Carreteras: construcción de puentes o túneles de paso naturalizados; reducción de velocidad, señalización de alto impacto visual y sistemas inteligentes de señalización dinámica en los puntos sensibles.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pasos de fauna y señalización en carreteras",
+      "etiquetas": [
+        "bienestar animal",
+        "infraestructuras",
+        "seguridad vial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Pantallas acústicas en carreteras, grandes cristaleras en edificios, pistas de pádel y similares: opacidad o colocación de elementos que las hagan visibles para las aves y los murciélagos, evitando las colisiones.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Hacer visibles cristaleras y pantallas para evitar colisiones de aves",
+      "etiquetas": [
+        "bienestar animal",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aerogeneradores: sustitución de los aerogeneradores de aspas por aerogeneradores de vibración.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sustituir aerogeneradores de aspas por otros de vibración",
+      "etiquetas": [
+        "energía",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tendidos eléctricos y catenarias ferroviarias: señalización, separadores de fases, recubrimiento aislante y soterramiento en los puntos de mayor impacto, que eviten la colisión y/o electrocución de aves.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Adaptar tendidos eléctricos para evitar muertes de aves",
+      "etiquetas": [
+        "bienestar animal",
+        "energía",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Construcciones hidráulicas: habilitación de pasos o escaleras para peces, como escalas de estanques sucesivos, ranuras verticales y rampas naturalizadas.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Escalas para peces en presas y azudes",
+      "etiquetas": [
+        "bienestar animal",
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cercados y vallados de terrenos cinegéticos: eliminación o, al menos, habilitación de zonas sin cerramiento que permitan el paso y/o la huida de los animales frente a los incendios.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar o abrir vallados en terrenos de caza",
+      "etiquetas": [
+        "caza",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA impulsaremos el desarrollo de una norma que aborde las distintas problemáticas derivadas de las diferentes infraestructuras, que prevea medidas de protección de la fauna silvestre y establezca la obligatoriedad de adoptarlas, ya se trate de infraestructuras de titularidad pública como privada, adaptando las existentes y exigiendo que las nuevas las incorporen desde su construcción o instalación, con la finalidad de evitar o, al menos, reducir la mortalidad de la fauna silvestre.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Protección de la fauna silvestre frente al impacto de las infraestructuras humanas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley que obligue a proteger la fauna en infraestructuras",
+      "etiquetas": [
+        "bienestar animal",
+        "infraestructuras",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En nuestro país, urge una política forestal que ponga en valor los montes, que proteja los bosques y a los animales que los habitan; que ponga fin a la deforestación, combatiendo la tala ilegal e impulsando la reforestación con especies autóctonas; que prevenga los incendios forestales y recupere las zonas degradadas; que promueva en la sociedad los valores ambientales y sociales que atesoran.",
+      "pagina": 48,
+      "apartado": [
+        "Nuestro compromiso con el Medio Ambiente",
+        "Preservación de bosques. Freno a la deforestación. Prevención de incendios"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Política forestal: reforestación, tala ilegal e incendios",
+      "etiquetas": [
+        "montes",
+        "medio ambiente",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

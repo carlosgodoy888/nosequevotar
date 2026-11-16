@@ -4,8 +4,8 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Néstor Rego (A Coruña), único diputado saliente. Otras cabezas de lista: Carme da Silva (Pontevedra), Olalla Rodil (Lugo) y Noa Presas (Ourense). La portavoz nacional es Ana Pontón.
-- **Programa para el 29 de noviembre:** publicado (comprobado el 12 de noviembre de 2026)
-- **Citas recogidas:** 669 vigentes: 600 medidas, de ellas 430 concretas, y 69 posiciones. De programa, verificadas contra su página: 669 exactas y 0 normalizadas.
+- **Programa para el 29 de noviembre:** publicado (comprobado el 16 de noviembre de 2026)
+- **Citas recogidas:** 683 vigentes: 609 medidas, de ellas 438 concretas, y 74 posiciones. De programa, verificadas contra su página: 669 exactas y 0 normalizadas. Declaraciones verificadas abriendo su fuente: 14.
 
 ## Lo que dicen sus documentos
 
@@ -1531,4 +1531,60 @@ Programa de estas elecciones · 3 de noviembre de 2026 · 91 páginas · en gall
   - Traducción propia: «Renegociar los acuerdos Schengen en favor de una acción decidida en pro de políticas nuevas de migraciones internacionales y de desarrollo.»
 - «Do mesmo xeito, oporse de pleno a calquera reforma regresiva en materia de dereitos e de liberdades individuais e civís coa desculpa de ameazas antiterroristas.» (p. 91) · medida · _Oposición a reformas regresivas de libertades con pretexto antiterrorista_
   - Traducción propia: «Del mismo modo, oponerse de pleno a cualquier reforma regresiva en materia de derechos y de libertades individuales y civiles con la excusa de amenazas antiterroristas.»
+
+## Lo que han dicho sus portavoces
+
+Declaraciones, no programa.
+
+### Vivienda
+
+- «Desde o BNG levamos moito tempo propoñendo que se mobilice vivenda baleira, que se compre aquela que xa está construída para destinala a alugueiro social porque temos máis de 90.000 pisos baleiros só nas cidades deste País» · Ana Pontón, portavoz nacional del BNG, (BNG) · 10 de noviembre de 2026 · [documento del partido: BNG (web oficial)](https://www.bng.gal/novas/ana-ponton-propon-compra-masiva-vivenda-baleira-crear-gran-parque-publico-pisos-alugueiro-social/20261110170713043856.html) · medida concreta · _Compra pública de vivienda vacía para alquiler social_
+  - Traducción propia: «Desde el BNG llevamos mucho tiempo proponiendo que se movilice vivienda vacía, que se compre aquella que ya está construida para destinarla a alquiler social porque tenemos más de 90.000 pisos vacíos solo en las ciudades de este país»
+- «Llevamos años defendiendo medidas eficaces para garantizar el acceso a una vivienda digna: topar los precios de los alquileres y de las hipotecas, poner en el mercado todas las viviendas que tiene la Sareb, impulsar una política de vivienda pública y expropiar las viviendas vacías de los fondos buitre.» · Néstor Rego, diputado y cabeza de lista del BNG al Congreso por A Coruña, (BNG) · 10 de noviembre de 2026 · [declaración en medios: El Salto](https://www.elsaltodiario.com/politica/nestor-rego-alianzas-del-pasado-fuerzas-estatales-debilitaron-capacidad-politica-galicia) · medida concreta · _Tope a alquileres e hipotecas, Sareb y expropiación de vacías_
+
+### Empleo y salarios
+
+- «Fuimos la única fuerza del Congreso que llevó al Pleno una proposición de ley para reducir la jornada laboral a 35 horas sin reducción salarial. Defendemos la subida de las pensiones, la derogación íntegra de la reforma laboral del PP y la derogación de la ley mordaza, incumplimientos del Gobierno.» · Néstor Rego, diputado y cabeza de lista del BNG al Congreso por A Coruña, (BNG) · 10 de noviembre de 2026 · [declaración en medios: El Salto](https://www.elsaltodiario.com/politica/nestor-rego-alianzas-del-pasado-fuerzas-estatales-debilitaron-capacidad-politica-galicia) · medida concreta · _Jornada de 35 horas y derogar reforma laboral y ley mordaza_
+
+### Economía y empresas
+
+- «El Gobierno también pudo adoptar medidas eficaces para contener la subida de los precios de los combustibles y no lo hizo. Defendemos ponerles un tope y gravar los beneficios extraordinarios de las grandes energéticas, que continúan enriqueciéndose a costa de la precariedad de muchas personas.» · Néstor Rego, diputado y cabeza de lista del BNG al Congreso por A Coruña, (BNG) · 10 de noviembre de 2026 · [declaración en medios: El Salto](https://www.elsaltodiario.com/politica/nestor-rego-alianzas-del-pasado-fuerzas-estatales-debilitaron-capacidad-politica-galicia) · medida concreta · _Tope al precio de los combustibles e impuesto a energéticas_
+
+### Inmigración
+
+- «levaremos ao Congreso unha batería de propostas para garantir a inclusión das persoas migrantes na vida pública» · Olalla Rodil, cabeza de lista del BNG al Congreso por Lugo, (BNG) · 14 de noviembre de 2026 · [documento del partido: BNG (web oficial)](https://www.bng.gal/novas/olalla-rodil-avance-dos-discursos-odio-bng-temos-moi-claro-que-ningunha-persoa-ilegal-que-traballaremos-galiza-inclusiva/20261114170131043932.html) · medida · _Propuestas de inclusión de la población migrante_
+  - Traducción propia: «llevaremos al Congreso una batería de propuestas para garantizar la inclusión de las personas migrantes en la vida pública»
+
+### Democracia e instituciones
+
+- «Quiero dejar dos cosas claras, porque para nosotros son clave. La primera es que el BNG, si depende de nosotros, no le va a dar ninguna oportunidad a un gobierno de la derecha y de la ultraderecha. Vamos a hacer lo posible, todo lo que esté en nuestra mano, por evitarlo. Es un compromiso firme con la sociedad gallega.» · Néstor Rego, diputado y cabeza de lista del BNG al Congreso por A Coruña, (BNG) · 10 de noviembre de 2026 · [declaración en medios: El Salto](https://www.elsaltodiario.com/politica/nestor-rego-alianzas-del-pasado-fuerzas-estatales-debilitaron-capacidad-politica-galicia) · posición · _Descarta facilitar un gobierno de PP y Vox_
+- «tampoco vamos a dar un cheque en blanco a nadie. Nunca lo hicimos. Lo que firmamos con el Partido Socialista en 2020 y 2023 no fue un acuerdo de legislatura, sino solo de investidura.» · Néstor Rego, diputado y cabeza de lista del BNG al Congreso por A Coruña, (BNG) · 10 de noviembre de 2026 · [declaración en medios: El Salto](https://www.elsaltodiario.com/politica/nestor-rego-alianzas-del-pasado-fuerzas-estatales-debilitaron-capacidad-politica-galicia) · posición · _No dará un cheque en blanco; sus acuerdos con el PSOE en 2020 y 2023 fueron solo de investidura_
+
+### Política exterior y defensa
+
+- «Nuestra propuesta va a ser la de siempre: rechazar ese incremento del gasto militar y denunciar todas las políticas imperialistas y de injerencia de unos países en la vida de otros. Esa fue siempre nuestra posición, en defensa de la soberanía de los pueblos y de las vías pacíficas y democráticas para resolver los conflictos.» · Néstor Rego, diputado y cabeza de lista del BNG al Congreso por A Coruña, (BNG) · 10 de noviembre de 2026 · [declaración en medios: El Salto](https://www.elsaltodiario.com/politica/nestor-rego-alianzas-del-pasado-fuerzas-estatales-debilitaron-capacidad-politica-galicia) · posición · _Rechazo al aumento del gasto militar en Europa_
+
+### Igualdad y derechos
+
+- «Non podemos deixar en mans de terceiros un servizo esencial como a protección da vida e da integridade das mulleres. Defendemos unha xestión pública e directa, con medios suficientes, para dar resposta a esta lacra e garantir que os dispositivos cumpran a súa encomenda» · Noa Presas, cabeza de lista del BNG al Congreso por Ourense, (BNG) · 13 de noviembre de 2026 · [documento del partido: BNG (web oficial)](https://www.bng.gal/novas/bng-propon-xestion-publica-directa-dos-dispositivos-proteccion-das-vitimas-violencia-machista/20261113195045043922.html) · medida concreta · _Gestión pública de los dispositivos telemáticos para víctimas_
+  - Traducción propia: «No podemos dejar en manos de terceros un servicio esencial como la protección de la vida y de la integridad de las mujeres. Defendemos una gestión pública y directa, con medios suficientes, para dar respuesta a esta lacra y garantizar que los dispositivos cumplan su cometido»
+
+### Transporte e infraestructuras
+
+- «o obxectivo principal do BNG para a próxima lexislatura é que a AP-9 sexa gratuíta» · Néstor Rego, diputado y cabeza de lista del BNG al Congreso por A Coruña, (BNG) · 16 de noviembre de 2026 · [documento del partido: BNG (web oficial)](https://www.bng.gal/novas/nestor-rego-asegura-que-seguinte-obxectivo-do-bng-ap-9-gratuita/20261116130511043956.html) · medida concreta · _Supresión de los peajes de la autopista AP-9_
+  - Traducción propia: «el objetivo principal del BNG para la próxima legislatura es que la AP-9 sea gratuita»
+- «E todo sen esquecernos do transporte de mercadorías, completando o Corredor Atlántico no eixo Ourense-Monforte-Lugo e no tramo León-Monforte» · Ana Pontón, portavoz nacional del BNG, (BNG) · 13 de noviembre de 2026 · [documento del partido: BNG (web oficial)](https://www.bng.gal/novas/ponton-compromete-traballo-do-bng-madrid-impulsar-monforte-como-estratexico-da-rede-ferroviaria-galiza/20261113145709043912.html) · medida concreta · _Corredor Atlántico de mercancías por el interior gallego_
+  - Traducción propia: «Y todo sin olvidarnos del transporte de mercancías, completando el Corredor Atlántico en el eje Ourense-Monforte-Lugo y en el tramo León-Monforte»
+
+### Organización territorial
+
+- «Para una hipotética investidura queremos que no se discrimine a nuestro país, especialmente en la financiación: tiene que haber una propuesta diferente que nos permita ganar recursos para mejorar la calidad de vida y el bienestar. También debe haber inversiones concretas en infraestructuras, especialmente ferroviarias.» · Néstor Rego, diputado y cabeza de lista del BNG al Congreso por A Coruña, (BNG) · 10 de noviembre de 2026 · [declaración en medios: El Salto](https://www.elsaltodiario.com/politica/nestor-rego-alianzas-del-pasado-fuerzas-estatales-debilitaron-capacidad-politica-galicia) · posición · _Condiciones para apoyar una investidura: financiación e infraestructuras_
+- «Pero sobre la mesa había una propuesta para iniciar la tramitación de un nuevo sistema de financiación y ya dijimos que estábamos en contra. Si la presentasen, votaríamos en contra y presentaríamos una enmienda a la totalidad, porque es perjudicial para Galicia. Queremos otro modelo de concierto económico que acabe con el expolio fiscal.» · Néstor Rego, diputado y cabeza de lista del BNG al Congreso por A Coruña, (BNG) · 10 de noviembre de 2026 · [declaración en medios: El Salto](https://www.elsaltodiario.com/politica/nestor-rego-alianzas-del-pasado-fuerzas-estatales-debilitaron-capacidad-politica-galicia) · medida concreta · _Rechazo al nuevo sistema de financiación; pide concierto económico gallego_
+
+### Campo y medio rural
+
+- «O sector agrogandeiro, fundamental para Ourense, non pode ser a moeda de cambio dos grandes acordos comerciais internacionais» · Noa Presas, cabeza de lista del BNG al Congreso por Ourense, (BNG) · 13 de noviembre de 2026 · [documento del partido: BNG (web oficial)](https://www.bng.gal/novas/presas-situa-bng-como-unica-voz-rebelde-insubmisa-decisions-que-prexudican-sector-agrogandeiro/20261113174848043920.html) · posición · _Oposición al acuerdo comercial UE-Mercosur_
+  - Traducción propia: «El sector agroganadero, fundamental para Ourense, no puede ser la moneda de cambio de los grandes acuerdos comerciales internacionales»
+
+Sin declaraciones recogidas sobre: Sanidad, Educación, Familias y servicios sociales, Ciencia, cultura y digital.
 

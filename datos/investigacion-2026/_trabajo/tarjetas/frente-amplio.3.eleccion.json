@@ -1,0 +1,158 @@
+{
+  "partido": "frente-amplio",
+  "lote": "frente-amplio.3",
+  "temas": [
+    {
+      "tema": "politica-exterior-y-defensa",
+      "elegidas": [
+        {
+          "id": "c-b8e36a1d9b",
+          "motivo": "Primera línea del resumen: rechazo del 5 % de la OTAN y reducción del gasto militar en favor de la «seguridad humana»; es una sola acción clara y Colau la repite en campaña («sería inadmisible que se recorte de los servicios públicos para entrar en la escalada armamentística»).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-fd3b60df16",
+          "motivo": "Segunda línea (Israel y Palestina): suspensión del Acuerdo de Asociación UE-Israel y reconocimiento de Palestina por todos los Estados miembros, en 37 palabras; la ley de embargo integral de armas a Israel, que la candidata destaca en campaña, pasa de 80 palabras.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-b13843188c",
+          "motivo": "Tercera línea (Sáhara Occidental): retirar el apoyo al plan de autonomía marroquí, que es el cambio concreto de política que propone; la campaña insiste en su «compromiso total» con el Sáhara.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-4e1c7bec16",
+          "por_que_no": "Ley de embargo integral de armas a Israel: es la medida más destacada en campaña (material bélico por los puertos), pero tiene 89 palabras."
+        },
+        {
+          "id": "c-5a40645d0c",
+          "por_que_no": "Ayuda al desarrollo del 0,27 % al 0,7 % de la RNB: es la cuarta línea del resumen, pero no se menciona en campaña y las otras tres líneas pesan más en su postura."
+        },
+        {
+          "id": "c-471caeb6aa",
+          "por_que_no": "Referéndum sobre el Sáhara con opción de independencia: igual de representativa que la elegida, pero repite la misma línea; se prefirió el cambio concreto de posición del Gobierno."
+        }
+      ],
+      "nota": "La medida del embargo de armas a Israel (c-4e1c7bec16) es central en su postura y en campaña, pero supera las 80 palabras. La reforma general de la ley de comercio de armas (c-f733afe530) no nombra a Israel y añade «cualquier país que vulnere los derechos humanos», así que no la sustituye bien."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "elegidas": [
+        {
+          "id": "c-48c22d1f3e",
+          "motivo": "Línea de control de la policía, que es la más desarrollada del tema: recoge la prohibición de las pelotas de goma y de los controles por perfil racial que cita el resumen; todas sus acciones van en la misma dirección (limitar el uso de la fuerza y garantizar derechos ante la policía).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-135cd36d61",
+          "motivo": "Línea de la justicia: alcanzar en dos legislaturas la media europea de jueces y fiscales por habitante, tal como dice el resumen; lleva plazo y es una sola acción.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-da86180f51",
+          "motivo": "Otra pieza del modelo policial que cita el resumen, distinta de la primera: desmilitarizar la Guardia Civil; es breve y se vota con claridad.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-1d1d8ec1d0",
+          "por_que_no": "El órgano externo de control de la policía está en el resumen, pero va en la misma línea de rendición de cuentas que la primera elegida, que la representa mejor."
+        },
+        {
+          "id": "c-718264a8e0",
+          "por_que_no": "La ampliación de la asistencia jurídica gratuita está en el resumen, pero ya hay una medida de justicia (más jueces), y con 72 palabras es larga."
+        },
+        {
+          "id": "c-42cf8f6b0f",
+          "por_que_no": "Las penas no privativas de libertad encajan con su enfoque preventivo, pero no aparecen entre las líneas principales del resumen."
+        }
+      ],
+      "nota": "Entre las candidatas no hay medidas sobre la derogación de la «Ley Mordaza» ni sobre los delitos contra la Corona o de enaltecimiento, que el resumen menciona (líneas 1 y 4). La primera elegida agrupa varias acciones policiales; si se considera demasiado mezcla, la alternativa es c-1d1d8ec1d0."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "elegidas": [
+        {
+          "id": "c-b95badd8c3",
+          "motivo": "Primera línea del resumen y su medida estrella: Prestación Universal por Crianza de 200 € al mes por menor sin depender de ingresos; lleva cifra, y Bustinduy dice en campaña que trabajan para que se adopte antes de las elecciones.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-462093eb69",
+          "motivo": "Línea de dependencia: subir la inversión del 0,8 % al 1,7 % del PIB en 2030, con cifra y plazo, como recoge el resumen.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-64d001d319",
+          "motivo": "Línea de la Ley de Familias que reconozca la diversidad familiar, que Colau destaca en campaña; es la única medida de esa línea que no pasa de 80 palabras.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-018503bb6f",
+          "por_que_no": "Libre designación de personas de referencia en la Ley de Familias: es justo lo que Colau defiende en campaña, pero tiene 81 palabras."
+        },
+        {
+          "id": "c-a61dd18da8",
+          "por_que_no": "Incluye la prestación de 200 €, pero mezcla tres cosas distintas (prestación, Pacto de Estado por los Cuidados y feminismo)."
+        },
+        {
+          "id": "c-625e824dbc",
+          "por_que_no": "Duplicar las horas de ayuda a domicilio está en el resumen, pero repite la línea de dependencia, que ya representa la medida del 1,7 % del PIB."
+        }
+      ],
+      "nota": "Entre las candidatas no está el permiso por nacimiento de 20 semanas (línea 2 del resumen). Las medidas de la libre designación (c-018503bb6f, 81 palabras; c-a286077bb3, 96) pasan de 80 palabras. La elegida c-64d001d319 nombra tres leyes o pactos muy relacionados."
+    },
+    {
+      "tema": "impuestos",
+      "elegidas": [
+        {
+          "id": "c-a9de281ff2",
+          "motivo": "Primera línea del resumen: que el esfuerzo fiscal recaiga sobre las grandes empresas, con un tipo mínimo real del 20 % en Sociedades sin subir a las pymes; la nota de campaña del 5 de noviembre insiste en que la gran empresa y la banca pagan entre el 7 y el 9 %.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-947178d4ea",
+          "motivo": "Segunda línea: un mínimo del 2 % para patrimonios de más de un millón y 3 puntos más desde 50 millones; la repiten dos notas de campaña (5 de noviembre y 24 de octubre).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-86af3051ff",
+          "motivo": "Tercera línea: bajar el IRPF a los salarios de hasta 27.000 euros, la parte de rebajas de su reforma; sin ella el retrato quedaría solo en subidas.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-66c5401699",
+          "por_que_no": "Tope de 10 millones por heredero: la destaca la nota de campaña más reciente, pero roza las 80 palabras (79), es la línea 4 y es más llamativa que central."
+        },
+        {
+          "id": "c-0557791d28",
+          "por_que_no": "Resume toda su reforma fiscal, pero mezcla varias acciones distintas (Sociedades, impuesto a ultrarricos, IRPF e IVA) y empieza con «Nuestra reforma fiscal»."
+        },
+        {
+          "id": "c-6f9d4bf2ee",
+          "por_que_no": "El impuesto del 10 % sobre pisos lo destaca la campaña (28 de octubre), pero en el resumen es parte de la línea 4, que es secundaria."
+        }
+      ],
+      "nota": ""
+    }
+  ]
+}

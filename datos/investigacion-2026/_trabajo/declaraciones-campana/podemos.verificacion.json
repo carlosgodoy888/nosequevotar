@@ -1,0 +1,68 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la crónica de Europa Press publicada por Infobae el lunes 16 de noviembre de 2026, atribuido a Irene Montero, «eurodiputada y candidata de Podemos a las elecciones generales del 29 de noviembre», en declaraciones a los medios en Elche. Propuesta concreta (cuadruplicar lo que pagan las viviendas vacías). Tema vivienda e impuestos correctos.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la misma crónica de Infobae (Europa Press) del 16 de noviembre de 2026, atribuido a Irene Montero. Medidas concretas (rebaja del 40 % de los alquileres, expropiación de más de 650.000 viviendas, prohibición de pisos turísticos).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "comprobada",
+      "motivo": "Respuesta literal de Irene Montero en la entrevista de elDiario.es publicada el 14 de noviembre de 2026 (datePublished 2026-11-14), a la pregunta de qué medida proponen para bajar los alquileres. Se entiende sola: rebaja del 40 % por real decreto. La entrevista se grabó el jueves 12 de noviembre, también dentro del periodo.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la crónica de Infobae (Europa Press) del 16 de noviembre de 2026, atribuido a Irene Montero, en el contexto de una posible oposición de la UE a intervenir el mercado de la vivienda. Es una postura sobre la relación con las instituciones europeas, con vivienda como tema secundario. El final («quienes defienden, en ese caso, en la Comisión Europea») es algo confuso, pero se entiende la postura.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 5,
+      "veredicto": "comprobada",
+      "motivo": "Respuesta literal de Irene Montero en la entrevista de elDiario.es del 14 de noviembre de 2026, a la pregunta de si es línea roja para la investidura que el PSOE se comprometa a reducir el gasto militar. Postura sobre gasto en defensa que se entiende sola; la nota describe correctamente la pregunta a la que responde.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 6,
+      "veredicto": "corregida",
+      "motivo": "El texto es literal (Infobae, Europa Press, 16 de noviembre de 2026, Irene Montero en Elche), pero empieza por «ese dinero» y no se entiende solo: se refiere al gasto en armas aprobado en los consejos de ministros que cita en la frase anterior. Se propone incluir la frase previa con las cifras (77 palabras en total), sin la valoración «Los últimos consejos de ministros han sido un escándalo».",
+      "cita_corregida": "2.200 millones en armas, 4.200 en el siguiente consejo de ministros, 11.900 en el siguiente consejo de ministros. Nosotras pensamos que ese dinero tiene que servir para garantizar pensiones, para subir las pensiones no contributivas de muchas mujeres, como las que viven en Elche y sostienen esa economía en Elche, y para tener empleos dignos y salarios dignos y condiciones de vida dignas, también precios justos de los alimentos y, por supuesto, para atajar la crisis de vivienda",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 7,
+      "veredicto": "comprobada",
+      "motivo": "Respuesta literal de Irene Montero en la entrevista de elDiario.es del 14 de noviembre de 2026, a la pregunta de si volverían a compartir Gobierno con el PSOE. Postura sobre gobernabilidad y condiciones de gobierno que se entiende sola.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 8,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal al final de una respuesta de Irene Montero en la entrevista de elDiario.es del 14 de noviembre de 2026, sobre la concurrencia conjunta al Senado. Postura sobre alianzas electorales y negociación con el PSOE que se entiende sola.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 9,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal en la respuesta de Irene Montero en la entrevista de elDiario.es del 14 de noviembre de 2026, a la pregunta sobre el plazo para el salario mínimo de 1.800 euros (responde «Una legislatura»). Medida concreta: SMI de 1.800 euros y jornada de 30 horas semanales.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    }
+  ],
+  "notas": "Se abrieron las dos fuentes con curl tras leer sus robots.txt (infobae.com y eldiario.es no restringen a agentes de IA; solo bloquean el buscador y rutas internas). Las nueve citas aparecen literalmente en la página. Infobae reproduce una crónica de Europa Press del lunes 16 de noviembre de 2026 (declaraciones a los medios en Elche). La entrevista de elDiario.es se publicó el 14 de noviembre de 2026 y, según el propio texto, se grabó el jueves anterior (12 de noviembre), en ambos casos después del 10 de noviembre. El cargo se confirma en las dos fuentes: candidata de Podemos a las generales, eurodiputada y número uno por Madrid (elDiario.es). Ninguna de las dos fuentes usa literalmente «candidata a la presidencia del Gobierno»; dicen «candidata de Podemos a las elecciones generales»."
+}

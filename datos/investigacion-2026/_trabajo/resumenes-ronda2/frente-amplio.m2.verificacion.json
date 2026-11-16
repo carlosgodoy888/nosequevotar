@@ -1,0 +1,61 @@
+{
+  "revisiones": [
+    {
+      "tema": "empleo",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: «entre un tercio y la mitad de los consejos de administración» para empresas desde 50 trabajadores se lee como una horquilla a elegir; el programa (c-9f8a150172) fija un tercio en empresas de 50 a 1.000 trabajadores y la mitad en las de más de 1.000. Se precisa el tramo.",
+        "Frase 3: «se repartan» cambiado por «reciban» para no pasar de 30 palabras; el programa establece el reparto obligatorio del 10 % del beneficio entre la plantilla (c-157a40fe42), que puede cobrarse en metálico o en acciones.",
+        "Resto correcto: la jornada (37,5 horas inmediatas y 32 progresivas sin rebaja salarial), el suelo del SMI al 60 % del salario medio neto, la prestación por desempleo al 80 % y el Plan de Empleo Garantizado están en el programa con esa fuerza. La selección sigue las tres líneas que el programa destaca en su introducción (jornada, SMI, democracia en las empresas). Quedan fuera, por espacio y de forma aceptable, el gravamen del 30 % sobre beneficios no compartidos, la reforma del despido improcedente, la autorización previa de despidos colectivos y la prevalencia del convenio sectorial. Las declaraciones no añaden medidas distintas del programa, así que no se usan."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone bajar la jornada máxima a 37,5 horas de inmediato y, progresivamente, a 32 horas semanales sin rebaja salarial.",
+          "apoyos": ["c-a3f8516cdf", "c-44d5e18056", "c-1f4d99238d"]
+        },
+        {
+          "texto": "Quiere fijar por ley el salario mínimo en al menos el 60 % del salario medio neto.",
+          "apoyos": ["c-b1902764c9", "c-a3f8516cdf"]
+        },
+        {
+          "texto": "Plantea que, en empresas desde 50 trabajadores, las plantillas ocupen un tercio de los consejos de administración, la mitad si superan 1.000, y reciban el 10 % del beneficio.",
+          "apoyos": ["c-9f8a150172", "c-157a40fe42", "c-e7966fe96f"]
+        },
+        {
+          "texto": "Propone además subir la prestación por desempleo al 80 % de la base reguladora los seis primeros meses y crear un Plan de Empleo Garantizado.",
+          "apoyos": ["c-f00ff97d76", "c-07faa7b1a8", "c-1667f0d087"]
+        }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: «incluir en la Constitución la pensión pública» no es exacto; la pensión ya figura en la Constitución y lo que propone el programa (c-7a9bccedda) es reforzar su protección constitucional, trasladando el derecho, la revalorización con el IPC y la pensión mínima igual al SMI a la Sección 2.ª del Capítulo II del Título I. Se cambia a «reforzar en la Constitución».",
+        "Representatividad: la eliminación de los coeficientes reductores en la jubilación anticipada involuntaria con más de 40 años cotizados (c-e6b900bb21) figura en el propio título del apartado del programa junto a la jubilación a los 65; se incorpora a la frase 2, a cambio de quitar los ejemplos de oficios (construcción, limpieza).",
+        "Frases 3 y 4 correctas y con la misma fuerza que las citas (c-67548cec88, c-814894a2c3, c-4921e52c41, c-5a7bc125c5). Las frases 3 y 4 se reordenan o acortan («más que la media») para no pasar de 90 palabras.",
+        "Bien resuelto no usar las declaraciones del 24 de octubre: el programa ya recoge la pensión mínima igual al SMI, la jubilación a los 65 y su financiación por el tope de cotización y la aportación de las empresas automatizadas. La supresión de las deducciones por planes privados (c-4356e58f50) está en el capítulo fiscal y puede quedar fuera."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone reforzar en la Constitución el derecho a la pensión pública, su revalorización con el IPC y que ninguna sea inferior al salario mínimo.",
+          "apoyos": ["c-7a9bccedda", "c-ceba06889f", "c-a3f8516cdf"]
+        },
+        {
+          "texto": "Quiere la jubilación a los 65 años, a los 60 en oficios de especial penosidad y sin coeficientes reductores para la anticipada involuntaria con más de 40 años cotizados.",
+          "apoyos": ["c-31ce5d663f", "c-7629158d18", "c-e6b900bb21"]
+        },
+        {
+          "texto": "Plantea elevar progresivamente el tope de cotización y añadir una aportación de las empresas más automatizadas para reforzar la Seguridad Social.",
+          "apoyos": ["c-67548cec88", "c-814894a2c3"]
+        },
+        {
+          "texto": "Propone subir más que la media las pensiones contributivas más bajas y las no contributivas.",
+          "apoyos": ["c-4921e52c41", "c-5a7bc125c5"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "revisiones": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Quiere que la vivienda asequible sea la prioridad de la legislatura, con el 1% del PIB al año, y reformar la Constitución para hacerla derecho fundamental.",
+          "apoyos": ["c-a30b1511d6", "c-4540d1d2f3", "c-44293a5804"]
+        },
+        {
+          "texto": "Propone un parque público estatal de 100.000 viviendas y más de 25.000 millones del ICO para vivienda asequible.",
+          "apoyos": ["c-df4346b0f8", "c-bc54b42bea", "c-d63ea7e883"]
+        },
+        {
+          "texto": "En alquiler plantea contratos más largos, congelar temporalmente las rentas por encima de los índices de referencia y un seguro público de impago para jóvenes.",
+          "apoyos": ["c-28d308f84f", "c-5ba7199050", "c-948a199412"]
+        },
+        {
+          "texto": "Pide un impuesto progresivo a las viviendas de grandes tenedores no destinadas a alquiler asequible, como las vacías o las turísticas.",
+          "apoyos": ["c-918d56d137", "c-0f5708d128", "c-db87e4d1a2"]
+        }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: entrecomillar solo «disuasoria» aísla una palabra de la fórmula del programa («efectiva, proporcionada y disuasoria») y le da un matiz que la cita no tiene; no es un término cargado, así que se describe sin comillas.",
+        "Representatividad: falta la prestación que paga al 100% cuatro semanas de permiso parental para hijos menores de ocho años, medida concreta del programa que el candidato presentó como compromiso de campaña (15 de noviembre); se añade una frase y se ajusta la redacción para no pasar de 90 palabras.",
+        "Frase 2: «quiere… un registro horario digital» queda sin verbo propio; se reescribe con «implantar»."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone fijar por ley el salario mínimo por encima del 60% del salario medio y un pacto de Estado por los salarios.",
+          "apoyos": ["c-9f11b3d30d", "c-f7f58c338b"]
+        },
+        {
+          "texto": "Quiere completar la reducción de jornada a 37,5 horas sin pérdida salarial, incentivar que la negociación colectiva avance hacia las 35 e implantar un registro horario digital.",
+          "apoyos": ["c-9df3920cad", "c-cb151b7212"]
+        },
+        {
+          "texto": "Plantea reformar el despido improcedente para que la reparación sea efectiva y disuasoria, recuperar los salarios de tramitación y aprobar un Estatuto del Becario.",
+          "apoyos": ["c-f764364f2c", "c-86c73800aa", "c-589b10414f", "c-4d42fe2cf5"]
+        },
+        {
+          "texto": "Propone además pagar al 100% cuatro semanas de permiso para cuidar a hijos menores de ocho años.",
+          "apoyos": ["c-a5d51f4b24", "c-75f105f42d"]
+        }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone blindar en la Constitución el sistema público de pensiones y su revalorización conforme al IPC, compromiso que su candidato repitió en campaña.",
+          "apoyos": ["c-ae3d8d7d6a", "c-39efebb321", "c-72114d0823"]
+        },
+        {
+          "texto": "Quiere consolidar las reformas de los últimos años, acelerar la cuota de solidaridad y que el Estado financie las prestaciones de naturaleza no contributiva.",
+          "apoyos": ["c-958b2a1e9c", "c-c019c0b0dc", "c-2f79c895ca"]
+        },
+        {
+          "texto": "Plantea elevar la pensión de orfandad del 20% al 30%, sumar un año de cotización por cada hijo y evaluar menores penalizaciones a la jubilación anticipada involuntaria.",
+          "apoyos": ["c-f7928bb186", "c-3733d0cf6a", "c-9db91ea3e1"]
+        }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: omite la Ley de Salarios Justos (más tributación para las cotizadas cuyo ejecutivo principal cobre más de 100 veces la mediana de su plantilla), medida concreta y propia del apartado de fiscalidad del programa; se incorpora a la frase de nuevos gravámenes.",
+        "Para hacer sitio se quita «seguir sin gravar las rentas más bajas», que es continuidad de lo vigente, y se agrupan la tasa a las transacciones financieras y el impuesto a viviendas de grandes tenedores en una misma frase."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone subir la tributación de las rentas del capital desde 50.000 euros, hasta un tipo del 35% por encima de 300.000.",
+          "apoyos": ["c-f8ac57932f"]
+        },
+        {
+          "texto": "Plantea gravar más a grandes tecnológicas, jets privados, megayates, billetes en business y cotizadas cuyo ejecutivo principal cobre más de 100 veces la mediana de su plantilla.",
+          "apoyos": ["c-343088ee39", "c-33ea500917", "c-4479a55f51"]
+        },
+        {
+          "texto": "Para rentas medias y bajas propone convertir el mínimo por descendiente del IRPF en crédito reembolsable.",
+          "apoyos": ["c-8294729142"]
+        },
+        {
+          "texto": "Pide subir la tasa a las transacciones financieras del 0,2% al 0,4% y un impuesto progresivo a viviendas de grandes tenedores no destinadas a alquiler asequible.",
+          "apoyos": ["c-d350f8ce38", "c-918d56d137", "c-0f5708d128", "c-db87e4d1a2"]
+        }
+      ]
+    }
+  ]
+}

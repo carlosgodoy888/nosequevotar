@@ -1,0 +1,32 @@
+{
+  "revisiones": [
+    {
+      "tema": "empleo",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: omitía el endurecimiento de penas por contratar extranjeros no regulados (c-cd96f82877), medida concreta del apartado central «02 Los trabajadores primero»; se añade a la última frase junto a la derogación del Real Decreto 17/1977, ajustando palabras en otras frases para quedar en 90.",
+        "Fidelidad: «eliminar la cuota de los autónomos» se reformula como «eximir de cuota a los autónomos», más fiel a «eliminación de la cuota para los autónomos que no llegan al SMI».",
+        "Resto verificado: ids existen en el tema, verbos con la misma fuerza que las citas, valoraciones del partido atribuidas con «a su juicio», sin adjetivos valorativos ni etiquetas; la declaración de sindicalismo (c-b86e850fbf) queda bien fuera porque el programa cubre el tema; conciliación y prácticas remuneradas son secundarias frente a las medidas del apartado laboral."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Pide subir los salarios según el coste de la vida y derogar las reformas laborales que, a su juicio, abaratan el despido.",
+          "apoyos": ["c-1163ff5a01", "c-f06f7dad67"]
+        },
+        {
+          "texto": "Plantea prohibir las empresas de trabajo temporal, restringir contratos temporales y fijos discontinuos y exigir representación de los trabajadores en empresas desde diez empleados.",
+          "apoyos": ["c-b860847f05", "c-e23afc7117", "c-4cb42ef3ef"]
+        },
+        {
+          "texto": "Quiere eximir de cuota a los autónomos que no llegan al salario mínimo y acabar con los falsos autónomos.",
+          "apoyos": ["c-a97ce9c006", "c-6e8ce736b7"]
+        },
+        {
+          "texto": "Propone derogar el Real Decreto 17/1977, que a su juicio limita el derecho de huelga, y endurecer las penas por contratar extranjeros en situación irregular.",
+          "apoyos": ["c-41a60cb2ee", "c-cd96f82877"]
+        }
+      ]
+    }
+  ]
+}

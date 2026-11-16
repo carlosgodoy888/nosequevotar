@@ -1,0 +1,27 @@
+{
+  "resumenes": [
+    {
+      "tema": "medio-ambiente-y-energia",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende acelerar la transición a una economía sin emisiones con energías renovables, y considera insostenible el modelo basado en combustibles fósiles y nuclear.",
+          "apoyos": ["c-b47be457ad", "c-50634dd802", "c-6f6ecb6c03"]
+        },
+        {
+          "texto": "Propone no autorizar nuevas explotaciones ganaderas ni ampliaciones, limitar su tamaño y crear un impuesto climático sobre la ganadería y los productos de origen animal.",
+          "apoyos": ["c-2bd04b472f", "c-608567bd4f", "c-201758641c", "c-1bc45a112e"]
+        },
+        {
+          "texto": "Plantea proteger al menos el 30 % del territorio en 2030 y prohibir el glifosato y la pirotecnia.",
+          "apoyos": ["c-7f70f35564", "c-ae0515519e", "c-5bc51577d4"]
+        },
+        {
+          "texto": "Quiere una ley que proteja a todos los animales sin excepciones, abolir la caza y prohibir el uso de animales en espectáculos y festejos.",
+          "apoyos": ["c-a88521aec1", "c-c993784671", "c-a534ac9aa4", "c-7e3267b6be"]
+        }
+      ],
+      "nota": "Todo procede del programa de 2026; las 15 declaraciones solo repiten o completan líneas del programa (caza, fauna e infraestructuras, pirotecnia, comunidades energéticas) y no se usan. El tema mezcla medio ambiente con bienestar animal, que ocupa más de la mitad de las 252 citas; se resume en una frase para dejar sitio a energía, ganadería, espacios protegidos y contaminación. No se nombra la tauromaquia: queda dentro de la prohibición de espectáculos y festejos con animales."
+    }
+  ]
+}

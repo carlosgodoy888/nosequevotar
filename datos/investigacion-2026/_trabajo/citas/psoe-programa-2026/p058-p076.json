@@ -1,0 +1,2510 @@
+{
+  "fuente": "psoe-programa-2026",
+  "partido": "psoe",
+  "paginas": [
+    58,
+    76
+  ],
+  "citas": [
+    {
+      "cita": "Ampliar los servicios de asistencia personal, centros de día y programas de respiro familiar, favoreciendo la permanencia digna en el entorno elegido y liberando a las familias de la sobrecarga de cuidados.",
+      "pagina": 58,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Sistema de dependencia, cuidados y políticas sociales"
+      ],
+      "numero": "208",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ampliar asistencia personal, centros de día y respiro familiar",
+      "etiquetas": [
+        "dependencia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la atención pública integral y personalizada a las personas con ELA en situación de dependencia extrema (Grado III+), acordando con las CC.AA. la exención de copagos, la atención domiciliaria continuada y la compatibilidad de las prestaciones de apoyo.",
+      "pagina": 58,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Sistema de dependencia, cuidados y políticas sociales"
+      ],
+      "numero": "209",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Atención a personas con ELA y exención de copagos",
+      "etiquetas": [
+        "dependencia",
+        "sanidad",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proteger el derecho a la salud de los pacientes con electrodependencia, creando un registro estatal, garantizando una respuesta adecuada a sus necesidades y compensando el sobrecoste energético derivado del uso de equipos médicos y soportes vitales.",
+      "pagina": 58,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Sistema de dependencia, cuidados y políticas sociales"
+      ],
+      "numero": "210",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro estatal y compensación energética a pacientes electrodependientes",
+      "etiquetas": [
+        "sanidad",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar la accesibilidad universal efectiva, reforzando la inspección y dotando de una financiación estable y suficiente al Programa Estatal de Promoción de la Accesibilidad Universal.",
+      "pagina": 58,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Sistema de dependencia, cuidados y políticas sociales"
+      ],
+      "numero": "211",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inspección y financiación de la accesibilidad universal",
+      "etiquetas": [
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desplegar el Marco Estratégico Estatal de las Soledades 2026-2030, en alianza con el tercer sector, garantizando servicios de proximidad y apoyos personalizados.",
+      "pagina": 58,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Sistema de dependencia, cuidados y políticas sociales"
+      ],
+      "numero": "212",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Marco estatal contra la soledad 2026-2030",
+      "etiquetas": [
+        "soledad no deseada",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar en la prevención y erradicación del sinhogarismo, reforzando los recursos de emergencia en colaboración con las administraciones competentes e impulsando soluciones estables de alojamiento y acompañamiento social bajo el modelo Housing First.",
+      "pagina": 58,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Sistema de dependencia, cuidados y políticas sociales"
+      ],
+      "numero": "213",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Sinhogarismo: recursos de emergencia y modelo Housing First",
+      "etiquetas": [
+        "servicios sociales",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desplegar el Plan “A Tu Lado” para envejecer en casa, con autonomía y compañía.",
+      "pagina": 58,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Nueva longevidad: vivir más, vivir mejor"
+      ],
+      "numero": "214",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan A Tu Lado para envejecer en casa",
+      "etiquetas": [
+        "mayores",
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ayudas para instalar ascensores y eliminar barreras, para que ninguna persona mayor o con movilidad reducida se quede atrapada en su casa.",
+      "pagina": 58,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Nueva longevidad: vivir más, vivir mejor"
+      ],
+      "numero": "214",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas para ascensores y eliminación de barreras",
+      "etiquetas": [
+        "mayores",
+        "vivienda",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "A partir de los 80 años, una visita periódica a domicilio de enfermería o trabajo social para detectar a tiempo la fragilidad y la soledad.",
+      "pagina": 58,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Nueva longevidad: vivir más, vivir mejor"
+      ],
+      "numero": "214",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Visita domiciliaria periódica a mayores de 80 años",
+      "etiquetas": [
+        "mayores",
+        "sanidad",
+        "soledad no deseada"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar una nueva industria de los cuidados mediante un PERTE financiado con el Fondo España Crece, movilizando inversión pública y privada desarrollar una industria de los cuidados puntera, que incorpore tecnología, robótica y domótica, aumentando la productividad del sector y aliviando la dureza del trabajo en un sector fuertemente feminizado y con alta incidencia de dolencias musculoesqueléticas.",
+      "pagina": 58,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Nueva longevidad: vivir más, vivir mejor"
+      ],
+      "numero": "215",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "PERTE de la industria de los cuidados",
+      "etiquetas": [
+        "dependencia",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar un programa de suelo público para cooperativas sénior. Ceder suelo público destinado a la construcción de viviendas colaborativas y asequibles para personas mayores, ofreciendo espacios y servicios compartidos que favorezcan su autonomía, los cuidados y la lucha contra la soledad no deseada.",
+      "pagina": 58,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Nueva longevidad: vivir más, vivir mejor"
+      ],
+      "numero": "216",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suelo público para cooperativas de vivienda sénior",
+      "etiquetas": [
+        "mayores",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar un Pacto de Estado por los derechos de las personas mayores, reforzando su participación efectiva en las políticas públicas y desplegando en su seno la Estrategia Estatal contra el Maltrato y la Soledad no Deseada, con mecanismos de detección temprana, coordinación sociosanitaria y apoyos comunitarios.",
+      "pagina": 59,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Nueva longevidad: vivir más, vivir mejor"
+      ],
+      "numero": "217",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pacto de Estado por los derechos de las personas mayores",
+      "etiquetas": [
+        "mayores",
+        "soledad no deseada"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desplegar una Estrategia Nacional para la Nueva Longevidad orientada a promover un envejecimiento activo, saludable y autónomo, la atención a la cronicidad, la consolidación de los cuidados a domicilio, el refuerzo de la salud mental, el aprendizaje a lo largo de la vida, el acceso universal a las competencias digitales, el aprovechamiento del talento sénior y la lucha contra el edadismo.",
+      "pagina": 59,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Nueva longevidad: vivir más, vivir mejor"
+      ],
+      "numero": "218",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia Nacional para la Nueva Longevidad",
+      "etiquetas": [
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover la autonomía y la permanencia digna en el hogar de las personas mayores, favoreciendo la adaptación de sus viviendas, con especial atención al medio rural.",
+      "pagina": 59,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Nueva longevidad: vivir más, vivir mejor"
+      ],
+      "numero": "219",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Adaptación de viviendas de personas mayores",
+      "etiquetas": [
+        "mayores",
+        "vivienda",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizaremos el ejercicio efectivo de los derechos de las personas con discapacidad reconocidos en el artículo 49 de la CE, desplegando la reciente reforma de la Ley General de Derechos de las Personas con Discapacidad y de su Inclusión Social.",
+      "pagina": 59,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Derechos de las personas con discapacidad"
+      ],
+      "numero": "220",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desarrollo de la reforma de la ley de discapacidad",
+      "etiquetas": [
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desplegaremos un marco de apoyos a la vida independiente que facilite el acceso efectivo a asistencia personal, vivienda accesible y servicios comunitarios.",
+      "pagina": 59,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Derechos de las personas con discapacidad"
+      ],
+      "numero": "221",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyos a la vida independiente de personas con discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Pondremos en marcha el Programa Estatal de Promoción de la Accesibilidad Universal.",
+      "pagina": 59,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Derechos de las personas con discapacidad"
+      ],
+      "numero": "222",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Programa estatal de accesibilidad universal",
+      "etiquetas": [
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollaremos la figura de la persona facilitadora procesal, para cubrir las necesidades de apoyo de las personas con discapacidad relacionadas con la comprensión, comunicación e interacción con el entorno de los actos procesales en los que deban participar.",
+      "pagina": 60,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Derechos de las personas con discapacidad"
+      ],
+      "numero": "223",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Figura de la persona facilitadora procesal",
+      "etiquetas": [
+        "discapacidad",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desplegar el Plan Estratégico de Educación Inclusiva 2026-2031, en colaboración con las comunidades autónomas, reforzando los recursos y apoyos educativos y garantizando criterios comunes de calidad y seguimiento para que el lugar de residencia no condicione el acceso a una educación inclusiva y de calidad.",
+      "pagina": 60,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Derechos de las personas con discapacidad"
+      ],
+      "numero": "224",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan Estratégico de Educación Inclusiva 2026-2031",
+      "etiquetas": [
+        "educación",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Continuar fortaleciendo al Tercer Sector de la discapacidad, promoviendo la participación de las organizaciones y las familias en el diseño, ejecución y evaluación de las políticas públicas.",
+      "pagina": 60,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Derechos de las personas con discapacidad"
+      ],
+      "numero": "225",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo al tercer sector de la discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisaremos los criterios establecidos en el Real Decreto 888/2022 para garantizar que se tengan adecuadamente en cuenta las secuelas, comorbilidades y limitaciones funcionales de las personas mayores y de larga evolución con VIH.",
+      "pagina": 60,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Derechos de las personas con discapacidad"
+      ],
+      "numero": "226",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión del baremo de discapacidad para personas con VIH",
+      "etiquetas": [
+        "discapacidad",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar el cumplimiento de la cuota de reserva de empleo de personas con discapacidad en las empresas.",
+      "pagina": 60,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Derechos de las personas con discapacidad"
+      ],
+      "numero": "227",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cumplimiento de la cuota de empleo de personas con discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos el buen uso de las zonas de estacionamiento reservadas a las personas con discapacidad, para evitar el mal uso que se hace de ellas por parte de otras personas usuarias.",
+      "pagina": 60,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Derechos de las personas con discapacidad"
+      ],
+      "numero": "228",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Uso de plazas de aparcamiento reservadas a personas con discapacidad",
+      "etiquetas": [
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestra prioridad es reforzar el Estado del bienestar, con una sanidad y una educación públicas de calidad, una atención digna a la dependencia y unos servicios sociales sólidos que garanticen la protección y mejoren la vida de las clases medias y trabajadoras.",
+      "pagina": 60,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Financiación territorial justa para garantizar los servicios públicos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Prioridad declarada: reforzar los servicios públicos del Estado de bienestar",
+      "etiquetas": [
+        "servicios públicos",
+        "financiación autonómica"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos el nuevo sistema de financiación autonómica propuesto por el Gobierno de España y aprobado en el Consejo de Política Fiscal y Financiera, que aporta 21.000 millones de euros adicionales con el objetivo de garantizar que las Comunidades Autónomas, responsables de gestionar y prestar servicios públicos fundamentales como la sanidad, la educación y los servicios sociales, cuenten con los recursos necesarios para prestar unos servicios de calidad y fortalecer nuestro Estado del bienestar.",
+      "pagina": 60,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Financiación territorial justa para garantizar los servicios públicos"
+      ],
+      "numero": "229",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevo sistema de financiación autonómica con 21.000 millones adicionales",
+      "etiquetas": [
+        "financiación autonómica",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Actualizaremos y potenciaremos los mecanismos de cohesión y convergencia territorial como el Fondo de Compensación Interterritorial y los incentivos regionales para atender los principales retos de cada territorio, como la reindustrialización, la digitalización y la innovación, la despoblación, las externalidades asociadas al turismo masivo, los riesgos derivados de la masa forestal y la insularidad y extrapeninsularidad.",
+      "pagina": 60,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Financiación territorial justa para garantizar los servicios públicos"
+      ],
+      "numero": "230",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondo de Compensación Interterritorial e incentivos regionales",
+      "etiquetas": [
+        "financiación autonómica",
+        "organización territorial",
+        "despoblación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzaremos en la asunción parcial por el Estado de 83.000 millones de euros de deuda autonómica, reduciendo la carga financiera de las Comunidades Autónomas y liberando recursos para reforzar los servicios públicos y el Estado del bienestar.",
+      "pagina": 61,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Financiación territorial justa para garantizar los servicios públicos"
+      ],
+      "numero": "231",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Asunción estatal de 83.000 millones de deuda autonómica",
+      "etiquetas": [
+        "financiación autonómica",
+        "deuda pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizaremos una financiación local suficiente y justa, adaptada a las distintas realidades territoriales (municipios, diputaciones provinciales, cabildos y consejos insulares, comarcas, mancomunidades, áreas metropolitanas y entidades locales menores) y con especial apoyo a los municipios con mayores dificultades financieras.",
+      "pagina": 61,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Financiación territorial justa para garantizar los servicios públicos"
+      ],
+      "numero": "232",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Financiación de las entidades locales",
+      "etiquetas": [
+        "financiación local",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos el compromiso con la España rural y los territorios afectados por la despoblación, garantizando el acceso a servicios públicos de calidad con independencia del lugar de residencia e impulsando oportunidades que permitan fijar y atraer población.",
+      "pagina": 61,
+      "apartado": [
+        "Un Estado de bienestar fuerte: servicios públicos de calidad para todas las etapas de la vida",
+        "Un Estado de bienestar para todos los hogares y todas las edades",
+        "Financiación territorial justa para garantizar los servicios públicos"
+      ],
+      "numero": "233",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Servicios públicos en la España rural y despoblada",
+      "etiquetas": [
+        "despoblación",
+        "medio rural",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestro modelo parte de una convicción: la transición ecológica debe mejorar la vida de la gente y protegerla frente a los efectos del cambio climático.",
+      "pagina": 64,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Enfoque declarado de la transición ecológica",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Porque la transición ecológica no debe ser un esfuerzo que recaiga sobre quienes menos tienen, sino una oportunidad de prosperidad compartida.",
+      "pagina": 64,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Reparto de los costes de la transición ecológica",
+      "etiquetas": [
+        "medio ambiente",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestra ambición para 2030 es clara: una España que produzca la mayor parte de su electricidad con energía limpia y barata, que proteja a su gente frente a los extremos climáticos y que ofrezca oportunidades de futuro en cada rincón del país.",
+      "pagina": 64,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivos generales para 2030 en energía y clima",
+      "etiquetas": [
+        "energía",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las renovables son autonomía estratégica, precios estables, empresas más competitivas y seguridad frente a las guerras fósiles.",
+      "pagina": 65,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Valoración de las energías renovables",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Continuaremos promoviendo la transición energética, para que el sol, el viento y la industria españolas reviertan en beneficios y oportunidades en todos los territorios y para toda la sociedad.",
+      "pagina": 65,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Continuidad de la transición energética",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar el despliegue de energías renovables, para alcanzar el 81% de generación eléctrica en 2030, priorizando su ubicación en las Zonas de Aceleración Renovable para garantizar el máximo consenso social y la compatibilidad con la preservación de la biodiversidad y la actividad agroganadera.",
+      "pagina": 65,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "234",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Objetivo de 81 % de electricidad renovable en 2030",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la electrificación como elemento crucial para aprovechar el despliegue de renovables, y aprobar un plan nacional para promover el bombeo hidroeléctrico.",
+      "pagina": 65,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "235",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Electrificación y plan nacional de bombeo hidroeléctrico",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobar una hoja de ruta para el abandono progresivo de los combustibles fósiles",
+      "pagina": 65,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "235",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Hoja de ruta para abandonar los combustibles fósiles",
+      "etiquetas": [
+        "energía",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Extender el autoconsumo y la eficiencia energética en viviendas, edificios públicos, pymes e industrias, trasladando los beneficios de las energías renovables a hogares, empresas y administraciones públicas.",
+      "pagina": 65,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "236",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Extensión del autoconsumo y la eficiencia energética",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acelerar el despliegue del almacenamiento energético, la gestión de la demanda, el hidrógeno renovable y las interconexiones internacionales para reforzar la seguridad y flexibilidad del sistema eléctrico.",
+      "pagina": 65,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "237",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Almacenamiento energético, hidrógeno e interconexiones",
+      "etiquetas": [
+        "energía",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acelerar el refuerzo y la extensión de la red troncal de gasoductos preparados para el transporte de hidrógeno verde, consolidando las interconexiones estratégicas con Francia para posicionar a nuestro país como el principal nodo de energía limpia y renovable del sur de Europa.",
+      "pagina": 65,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "238",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Red de gasoductos para hidrógeno e interconexión con Francia",
+      "etiquetas": [
+        "energía",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defender la reforma del mercado eléctrico europeo para garantizar que los beneficios de las energías renovables se trasladen de forma efectiva a consumidores, hogares y empresas.",
+      "pagina": 66,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "239",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforma del mercado eléctrico europeo",
+      "etiquetas": [
+        "energía",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mantener el calendario de cierre de las centrales nucleares hasta 2035 y desarrollar proyectos de transición justa en las comarcas afectadas, preservando las capacidades tecnológicas y de conocimiento vinculadas al sector.",
+      "pagina": 66,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "240",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mantener el calendario de cierre nuclear hasta 2035",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reorientar la fiscalidad para la transición ecológica, eliminando barreras y reduciendo costes para las tecnologías limpias.",
+      "pagina": 66,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "241",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fiscalidad orientada a la transición ecológica",
+      "etiquetas": [
+        "impuestos",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desplegar el Plan Social para el Clima para proteger a los hogares vulnerables, las microempresas y las personas usuarias del transporte frente a los costes de la transición.",
+      "pagina": 66,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "242",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan Social para el Clima",
+      "etiquetas": [
+        "medio ambiente",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar las capacidades industriales nacionales en las cadenas de valor verdes en sectores estratégicos como los bienes de equipo para energías renovables, almacenamiento energético y acero verde. Para ello, se promoverá la I+D, la transferencia de conocimiento y la compra pública innovadora.",
+      "pagina": 66,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "243",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Industria nacional en cadenas de valor verdes",
+      "etiquetas": [
+        "industria",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Formar y recualificar a las personas trabajadoras para los empleos verdes del futuro, reforzando la FP Dual y los programas de capacitación permanente.",
+      "pagina": 66,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "244",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación para empleos verdes",
+      "etiquetas": [
+        "empleo",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar una gestión sostenible de las materias primas minerales y aprobar una nueva Ley de Minas alineada con la transición ecológica.",
+      "pagina": 66,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Energía renovable para una vida asequible, una industria competitiva y un país más seguro"
+      ],
+      "numero": "245",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva Ley de Minas",
+      "etiquetas": [
+        "minería"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguiremos impulsando la economía circular en todas las fases del proceso productivo, buscando reforzar la competitividad de la industria española, aumentar nuestra autonomía estratégica, y promover una sociedad más consciente de los impactos ambientales del actual modelo de producción y consumo.",
+      "pagina": 66,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Economía circular para reducir desechos y proteger la justicia social"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Apuesta por la economía circular",
+      "etiquetas": [
+        "medio ambiente",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reducir el vertido de residuos por debajo del 30 % en 2030, impulsando la prevención, la reutilización y el reciclaje; fomentando el retorno de envases; y reforzando la transparencia y la trazabilidad en la gestión de residuos.",
+      "pagina": 66,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Economía circular para reducir desechos y proteger la justicia social"
+      ],
+      "numero": "246",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Vertido de residuos por debajo del 30 % en 2030",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentar el ecodiseño, la reparación y la reutilización en procesos productivos, especialmente en sectores como el textil, la electrónica, la industria química y muy especialmente en las palas eólicas, paneles solares y baterías para recuperar materias primas críticas.",
+      "pagina": 66,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Economía circular para reducir desechos y proteger la justicia social"
+      ],
+      "numero": "247",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ecodiseño, reparación y reutilización en la industria",
+      "etiquetas": [
+        "medio ambiente",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover una contratación pública más sostenible, priorizando empresas circulares e incorporando criterios de huella de carbono en las compras públicas.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Economía circular para reducir desechos y proteger la justicia social"
+      ],
+      "numero": "248",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Criterios de huella de carbono en la contratación pública",
+      "etiquetas": [
+        "contratación pública",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar el compostaje y la valorización de residuos orgánicos mediante biogás, especialmente en entornos rurales y actividades agrarias y ganaderas.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Economía circular para reducir desechos y proteger la justicia social"
+      ],
+      "numero": "249",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Compostaje y biogás a partir de residuos orgánicos",
+      "etiquetas": [
+        "medio ambiente",
+        "agricultura y pesca",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reconocer el derecho a la reparación y crear un Fondo de Reparación financiado por los productores, para prolongar la vida útil de los productos y reducir residuos.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Economía verde",
+        "Economía circular para reducir desechos y proteger la justicia social"
+      ],
+      "numero": "250",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derecho a la reparación y Fondo de Reparación",
+      "etiquetas": [
+        "consumo",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ante incrementos de temperaturas, lluvias más torrenciales y sequías e incendios más intensos, anticiparse a los fenómenos extremos del cambio climático es la mejor forma de proteger a la población.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Anticiparnos a la emergencia climática para proteger mejor"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Prevención ante fenómenos climáticos extremos",
+      "etiquetas": [
+        "emergencias",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestra propuesta de Pacto de Estado frente a la Emergencia Climática sirve como hoja de ruta para hacernos más resilientes, salvar vidas y reducir daños.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Anticiparnos a la emergencia climática para proteger mejor"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Propuesta de Pacto de Estado frente a la Emergencia Climática",
+      "etiquetas": [
+        "medio ambiente",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear un Centro Estatal de Predicción y Seguimiento de Fenómenos Extremos, integrando la información meteorológica, hidrológica y de prevención y extinción de incendios forestales.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Anticiparnos a la emergencia climática para proteger mejor"
+      ],
+      "numero": "251",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Centro Estatal de Predicción de Fenómenos Extremos",
+      "etiquetas": [
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear la Agencia Estatal de Protección Civil y Emergencias para mejorar la coordinación y la capacidad de respuesta ante riesgos y catástrofes, en colaboración con las comunidades autónomas.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Anticiparnos a la emergencia climática para proteger mejor"
+      ],
+      "numero": "252",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Agencia Estatal de Protección Civil y Emergencias",
+      "etiquetas": [
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobar una Ley de Adaptación al Cambio Climático y reforzar la ejecución del Plan Nacional de Adaptación con más recursos y mecanismos de seguimiento.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Anticiparnos a la emergencia climática para proteger mejor"
+      ],
+      "numero": "253",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de Adaptación al Cambio Climático",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear un Cuerpo Facultativo de Técnicos de Protección Civil y profesionalizar los servicios de gestión de emergencias mediante equipos permanentes, formación continua, empleo estable y condiciones laborales dignas.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Anticiparnos a la emergencia climática para proteger mejor"
+      ],
+      "numero": "254",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cuerpo Facultativo de Técnicos de Protección Civil",
+      "etiquetas": [
+        "emergencias",
+        "función pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliar la red de refugios climáticos para reforzar la protección de la población frente a los impactos del cambio climático.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Anticiparnos a la emergencia climática para proteger mejor"
+      ],
+      "numero": "255",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ampliación de la red de refugios climáticos",
+      "etiquetas": [
+        "medio ambiente",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la adaptación climática de viviendas y equipamientos públicos, fomentando la rehabilitación energética y el confort térmico en hogares, centros educativos, sanitarios y espacios de trabajo vulnerables.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Anticiparnos a la emergencia climática para proteger mejor"
+      ],
+      "numero": "256",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Adaptación climática y rehabilitación energética de edificios",
+      "etiquetas": [
+        "vivienda",
+        "energía",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incrementar los medios aéreos y terrestres estatales para la lucha contra los incendios forestales, continuando con la mejora de las condiciones laborales de sus efectivos.",
+      "pagina": 67,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Anticiparnos a la emergencia climática para proteger mejor"
+      ],
+      "numero": "257",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más medios estatales contra incendios forestales",
+      "etiquetas": [
+        "emergencias",
+        "montes"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la interoperabilidad de los sistemas de emergencias y alerta temprana, incorporando tecnologías avanzadas e inteligencia artificial para anticipar riesgos y mejorar la respuesta.",
+      "pagina": 68,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Anticiparnos a la emergencia climática para proteger mejor"
+      ],
+      "numero": "258",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Interoperabilidad de sistemas de emergencias y alerta temprana",
+      "etiquetas": [
+        "emergencias",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear un Fondo Nacional de Resiliencia Climática para proteger a las personas, territorios y comunidades más vulnerables, especialmente en zonas rurales y litorales.",
+      "pagina": 68,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Anticiparnos a la emergencia climática para proteger mejor"
+      ],
+      "numero": "259",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondo Nacional de Resiliencia Climática",
+      "etiquetas": [
+        "medio ambiente",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporando las últimas recomendaciones científicas, mejoraremos la gestión de nuestros recursos hídricos para garantizar que el agua llegue a todos nuestros hogares, campos e industrias, con independencia de su renta, ubicación o tamaño.",
+      "pagina": 68,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Agua garantizada en cantidad y en calidad en un clima cambiante"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Gestión de los recursos hídricos",
+      "etiquetas": [
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar una planificación territorial y urbana compatible con la disponibilidad de recursos hídricos, que garantice el acceso universal al agua potable, consolidando su calidad, accesibilidad y asequibilidad mediante un mínimo vital para los hogares vulnerables.",
+      "pagina": 68,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Agua garantizada en cantidad y en calidad en un clima cambiante"
+      ],
+      "numero": "260",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Planificación urbana ligada a la disponibilidad de agua",
+      "etiquetas": [
+        "agua",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar el acceso universal al agua potable, consolidando su calidad, accesibilidad y asequibilidad mediante un mínimo vital para los hogares vulnerables con su blindaje en la Constitución.",
+      "pagina": 68,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Agua garantizada en cantidad y en calidad en un clima cambiante"
+      ],
+      "numero": "261",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mínimo vital de agua y su inclusión en la Constitución",
+      "etiquetas": [
+        "agua",
+        "reforma constitucional"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adaptar la Estrategia Nacional de Resiliencia Hídrica, que refuerce la prevención frente a inundaciones y sequías, actualizando la cartografía de zonas inundables, mejorando los sistemas de alerta temprana e incorporando estos riesgos en la planificación hidrológica. Esta estrategia deberá, además, promover la reducción del consumo de agua, incrementar la desalación y la reutilización con energías renovables e incorporar criterios de resiliencia hídrica en la contratación pública. E incentivar la digitalización del ciclo integral del agua.",
+      "pagina": 68,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Agua garantizada en cantidad y en calidad en un clima cambiante"
+      ],
+      "numero": "262",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia Nacional de Resiliencia Hídrica y desalación",
+      "etiquetas": [
+        "agua",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear bancos públicos de agua en las confederaciones hidrográficas para mejorar la gestión, disponibilidad y reasignación de recursos hídricos, previniendo la sobreexplotación y contaminación de ríos, humedales y acuíferos.",
+      "pagina": 68,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Agua garantizada en cantidad y en calidad en un clima cambiante"
+      ],
+      "numero": "263",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bancos públicos de agua en las confederaciones hidrográficas",
+      "etiquetas": [
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Modernizar los regadíos, mejorando la eficiencia hídrica y energética sin aumentar el consumo total de agua. Para ello, se financiarán programas para la adopción de tecnologías de precisión, energías renovables y sistemas digitales.",
+      "pagina": 68,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Agua garantizada en cantidad y en calidad en un clima cambiante"
+      ],
+      "numero": "264",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Modernización de regadíos sin aumentar el consumo de agua",
+      "etiquetas": [
+        "agua",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar soluciones basadas en la naturaleza para la gestión del agua, aumentando la resiliencia frente a fenómenos extremos.",
+      "pagina": 68,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Agua garantizada en cantidad y en calidad en un clima cambiante"
+      ],
+      "numero": "265",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Soluciones basadas en la naturaleza para el agua",
+      "etiquetas": [
+        "agua",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar que los centros de datos operen con energías renovables, reutilización del calor y un uso responsable del agua, minimizando su impacto ambiental.",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Resiliencia climática",
+        "Agua garantizada en cantidad y en calidad en un clima cambiante"
+      ],
+      "numero": "266",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Requisitos de energía y agua para centros de datos",
+      "etiquetas": [
+        "agua",
+        "energía",
+        "telecomunicaciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La soberanía alimentaria empieza en suelos vivos, agua segura, mares sanos y pueblos habitados.",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Concepto de soberanía alimentaria",
+      "etiquetas": [
+        "agricultura y pesca",
+        "alimentación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mantendremos la apuesta por un sector agroalimentario competitivo, resiliente y compatible con la conservación de la biodiversidad y el equilibrio de los ecosistemas.",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo de sector agroalimentario",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defender una PAC fuerte, suficiente y orientada a quienes viven del campo, priorizando las explotaciones profesionales, familiares y de pequeña y mediana dimensión.",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "267",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa de la PAC y de las explotaciones familiares",
+      "etiquetas": [
+        "agricultura y pesca",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asimismo, defenderemos en la UE una competencia justa, reforzando controles a las importaciones y exigiendo reciprocidad en los estándares ambientales, sanitarios y laborales.",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "267",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Controles y reciprocidad en importaciones agrarias",
+      "etiquetas": [
+        "agricultura y pesca",
+        "comercio exterior",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobar un paquete de medidas para garantizar la viabilidad económica, el reconocimiento social y el papel estratégico del sector agrario. El paquete comenzará por la aprobación de una Ley de Agricultura Familiar y Profesional y permitirá impulsar cinco objetivos:",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "268",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de Agricultura Familiar y Profesional",
+      "etiquetas": [
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "modernizar el sector mediante la renovación de maquinaria y el impulso de la agricultura de precisión;",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "268",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Renovación de maquinaria agrícola y agricultura de precisión",
+      "etiquetas": [
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "reducir vulnerabilidades reforzando los seguros agrarios;",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "268",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de los seguros agrarios",
+      "etiquetas": [
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "incentivar la integración cooperativa;",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "268",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Integración cooperativa en el sector agrario",
+      "etiquetas": [
+        "agricultura y pesca",
+        "economía social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "promover el relevo generacional, impulsando el apoyo a jóvenes, mujeres e innovación agroalimentaria",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "268",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Relevo generacional en el campo",
+      "etiquetas": [
+        "agricultura y pesca",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "y evitar la concentración de los terrenos fértiles en manos de fondos de inversión.",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "268",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Concentración de tierras agrícolas en fondos de inversión",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover una política nacional de bancos de tierras, facilitando el acceso de jóvenes y nuevos agricultores a explotaciones viables y sostenibles",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "269",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Política nacional de bancos de tierras",
+      "etiquetas": [
+        "agricultura y pesca",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Facilitar la gestión administrativa de las explotaciones agrarias, reduciendo cargas burocráticas y desarrollando nuevas herramientas digitales de asesoramiento que permitan simplificar la relación de agricultores y ganaderos con la administración sin menoscabar las garantías ambientales, sanitarias y laborales.",
+      "pagina": 69,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "270",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Simplificación administrativa para explotaciones agrarias",
+      "etiquetas": [
+        "agricultura y pesca",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Recompensar las prácticas de agroganadería sostenible y en particular en la ganadería extensiva y la agricultura regenerativa. Nuestros agricultores y ganaderos prestan un servicio a la conservación y la gestión sostenible del territorio. Reconocerlo, mediante sistemas de certificación, asesoramiento y compensación, permitirá impulsar estas prácticas y favorecerá una mayor autonomía productiva. Con especial atención también a la ganadería extensiva sostenible.",
+      "pagina": 70,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "271",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Compensación a ganadería extensiva y agricultura regenerativa",
+      "etiquetas": [
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar un Plan de Transición Justa para una pesca y una acuicultura sostenibles, resilientes y competitivas.",
+      "pagina": 70,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "272",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de Transición Justa para pesca y acuicultura",
+      "etiquetas": [
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la financiación de la Política Pesquera Común y sus cuotas pesqueras, garantizando un reparto justo y transparente de las cuotas pesqueras e intensificando la lucha contra la pesca ilegal y la explotación insostenible de los recursos marinos.",
+      "pagina": 70,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "273",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Política Pesquera Común, cuotas y pesca ilegal",
+      "etiquetas": [
+        "agricultura y pesca",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defender la calidad de los productos y la gastronomía española, dentro y fuera de nuestras fronteras.",
+      "pagina": 70,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "274",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Promoción de productos y gastronomía españoles",
+      "etiquetas": [
+        "alimentación",
+        "comercio exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentaremos los canales cortos de comercialización, la venta de proximidad y la proyección de nuestra gastronomía como motor de desarrollo económico y turístico.",
+      "pagina": 70,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "274",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Canales cortos y venta de proximidad",
+      "etiquetas": [
+        "alimentación",
+        "comercio",
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, desarrollaremos una Estrategia Nacional de Alimentación Ecológica.",
+      "pagina": 70,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Agroganadería y pesca: fuente de riqueza y protección ambiental"
+      ],
+      "numero": "274",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia Nacional de Alimentación Ecológica",
+      "etiquetas": [
+        "alimentación",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Trabajaremos para volver a dinamizar estos territorios, garantizando que poder vivir en cualquier ciudad o pueblo vuelva a ser una opción libre, viable y digna.",
+      "pagina": 70,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Un mundo rural conectado y con futuro"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Dinamización de los territorios rurales",
+      "etiquetas": [
+        "medio rural",
+        "despoblación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar el acceso a servicios básicos y soluciones de movilidad en todo el territorio, avanzando hacia el “País de los 30 minutos” para reforzar la igualdad de oportunidades con independencia del lugar de residencia.",
+      "pagina": 70,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Un mundo rural conectado y con futuro"
+      ],
+      "numero": "275",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Acceso a servicios básicos en todo el territorio",
+      "etiquetas": [
+        "medio rural",
+        "servicios públicos",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporar la perspectiva rural en las leyes, presupuestos y políticas públicas, mediante la aplicación efectiva del mecanismo de garantía rural.",
+      "pagina": 70,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Un mundo rural conectado y con futuro"
+      ],
+      "numero": "276",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mecanismo de garantía rural en leyes y presupuestos",
+      "etiquetas": [
+        "medio rural",
+        "despoblación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar un Plan de Empleo Verde Rural con perspectiva de género, generando oportunidades laborales y fijando población en los municipios de menor tamaño.",
+      "pagina": 70,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Un mundo rural conectado y con futuro"
+      ],
+      "numero": "277",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de Empleo Verde Rural",
+      "etiquetas": [
+        "empleo",
+        "medio rural",
+        "despoblación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Facilitar el acceso a una vivienda asequible en el medio rural, promoviendo el alquiler para nuevos residentes, la rehabilitación de viviendas vacías y la ampliación del parque público.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Un mundo rural conectado y con futuro"
+      ],
+      "numero": "278",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Vivienda asequible en el medio rural",
+      "etiquetas": [
+        "vivienda",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la innovación, el emprendimiento y las oportunidades para la juventud rural, consolidando los Centros de Innovación Territorial y ampliando programas como Campus Rural.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Un mundo rural conectado y con futuro"
+      ],
+      "numero": "279",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Oportunidades para la juventud rural",
+      "etiquetas": [
+        "juventud",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acercar la Administración General del Estado a la ciudadanía, descentralizando servicios y facilitando trámites y sedes administrativas fuera de las grandes ciudades.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Un mundo rural conectado y con futuro"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Sedes de la Administración del Estado fuera de grandes ciudades",
+      "etiquetas": [
+        "administración pública",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La movilidad sostenible significa aire limpio, más salud, menos ruido, menos atascos y más igualdad, sin depender de renta ni código postal.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Movilidad sostenible"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Concepto de movilidad sostenible",
+      "etiquetas": [
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguiremos apostando por la transformación del modelo de transportes en España, para hacerlo más justo, eficiente y sostenible.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Movilidad sostenible"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Transformación del modelo de transportes",
+      "etiquetas": [
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Consolidar un sistema integrado de transporte público con financiación estable, tarifas sencillas y asequibles, más frecuencias y mejores conexiones, facilitando su uso cotidiano por parte de toda la ciudadanía.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Movilidad sostenible"
+      ],
+      "numero": "280",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Sistema integrado de transporte público",
+      "etiquetas": [
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar los programas de apoyo a la movilidad de los jóvenes, manteniendo el acceso al transporte durante los periodos vacacionales y de ocio.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Movilidad sostenible"
+      ],
+      "numero": "281",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas de transporte para jóvenes",
+      "etiquetas": [
+        "transporte",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la red ferroviaria de Cercanías, Media Distancia y corredores estratégicos, mejorando la conectividad territorial y la integración con la red europea.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Movilidad sostenible"
+      ],
+      "numero": "282",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de Cercanías, Media Distancia y corredores",
+      "etiquetas": [
+        "transporte",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transformar pueblos y ciudades para favorecer los desplazamientos a pie y en bicicleta, mediante calles más accesibles, caminos escolares seguros, corredores verdes, redes ciclistas y aparcamientos para bicicletas.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Movilidad sostenible"
+      ],
+      "numero": "283",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Desplazamientos a pie y en bicicleta",
+      "etiquetas": [
+        "transporte",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acelerar la descarbonización del transporte de personas y mercancías, extendiendo la infraestructura de recarga eléctrica y facilitando el acceso a vehículos de cero emisiones mediante incentivos ágiles, financiación accesible y apoyo a hogares, autónomos y empresas.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Movilidad sostenible"
+      ],
+      "numero": "284",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Recarga eléctrica e incentivos a vehículos de cero emisiones",
+      "etiquetas": [
+        "transporte",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adaptar las infraestructuras de transporte a los efectos del cambio climático, reforzando su resiliencia frente a fenómenos meteorológicos extremos y otros riesgos derivados de la emergencia climática.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Movilidad sostenible"
+      ],
+      "numero": "285",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Adaptación climática de infraestructuras de transporte",
+      "etiquetas": [
+        "infraestructuras",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar las Zonas de Bajas Emisiones y la movilidad sostenible en las ciudades, promoviendo medidas eficaces para reducir las emisiones y mejorar la calidad del aire.",
+      "pagina": 71,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Movilidad sostenible"
+      ],
+      "numero": "286",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Zonas de Bajas Emisiones en las ciudades",
+      "etiquetas": [
+        "transporte",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Invertir en reforzar la adaptación y la restauración de nuestros ecosistemas no solo es cuidar la naturaleza, es también invertir en seguridad.",
+      "pagina": 72,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Proteger la biodiversidad, cuidar la naturaleza"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Restauración de ecosistemas como inversión en seguridad",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la restauración y recuperación de ecosistemas degradados, tanto marinos como terrestres, desarrollando el Plan Nacional de Restauración de la Naturaleza con mayor ambición, transparencia y financiación público-privada.",
+      "pagina": 72,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Proteger la biodiversidad, cuidar la naturaleza"
+      ],
+      "numero": "287",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan Nacional de Restauración de la Naturaleza",
+      "etiquetas": [
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proteger y recuperar la biodiversidad terrestre y marina, avanzando hacia la conservación efectiva de las especies amenazadas y de los espacios de alto valor ecológico, protegiendo al menos el 30 % de los ecosistemas y hasta el 10% de las áreas marinas con protección estricta.",
+      "pagina": 72,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Proteger la biodiversidad, cuidar la naturaleza"
+      ],
+      "numero": "288",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Protección del 30 % de ecosistemas y 10 % marino estricto",
+      "etiquetas": [
+        "medio ambiente",
+        "costas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la protección de cetáceos y otras especies marinas vulnerables, incorporando las mejores evidencias científicas y medidas obligatorias de reducción de la velocidad del transporte marítimo.",
+      "pagina": 72,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Proteger la biodiversidad, cuidar la naturaleza"
+      ],
+      "numero": "289",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Protección de cetáceos y límites de velocidad marítima",
+      "etiquetas": [
+        "medio ambiente",
+        "transporte"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Culminar la restauración de los principales espacios naturales estratégicos, con actuaciones integrales en Doñana, el Mar Menor, la Albufera, el Delta del Ebro y las Tablas de Daimiel.",
+      "pagina": 72,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Proteger la biodiversidad, cuidar la naturaleza"
+      ],
+      "numero": "290",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Restauración de Doñana, Mar Menor, Albufera y otros espacios",
+      "etiquetas": [
+        "medio ambiente",
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover una gestión forestal sostenible y resiliente frente a los incendios, favoreciendo bosques más diversos, saludables y adaptados al cambio climático, así como paisajes en mosaico que reduzcan el riesgo de grandes fuegos. Impulsar esta gestión requiere una aproximación múltiple: facilitar la gestión activa y sostenible de la propiedad forestal infrautilizada; fortalecer las cadenas de valor ligadas a los recursos forestales locales para incentivar la bioeconomía forestal e integrar la gestión forestal en las políticas agrarias y de desarrollo rural.",
+      "pagina": 72,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Proteger la biodiversidad, cuidar la naturaleza"
+      ],
+      "numero": "291",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Gestión forestal frente a los incendios",
+      "etiquetas": [
+        "montes",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adaptar la gestión del litoral al cambio climático mediante una gobernanza coordinada entre administraciones, actualizando la normativa de costas e incorporando soluciones basadas en la naturaleza compatibles con la actividad humana y la seguridad de las poblaciones costeras.",
+      "pagina": 72,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Proteger la biodiversidad, cuidar la naturaleza"
+      ],
+      "numero": "292",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Actualización de la normativa de costas",
+      "etiquetas": [
+        "costas",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar una ocupación responsable y sostenible del dominio público marítimo-terrestre, reforzando la seguridad jurídica y la adaptación de los usos del litoral a los riesgos climáticos.",
+      "pagina": 72,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Proteger la biodiversidad, cuidar la naturaleza"
+      ],
+      "numero": "293",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ocupación del dominio público marítimo-terrestre",
+      "etiquetas": [
+        "costas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar un modelo de turismo sostenible y resiliente, promoviendo la eficiencia hídrica y energética y la adaptación de los destinos a los efectos del cambio climático.",
+      "pagina": 73,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Territorio vivo y sostenible",
+        "Proteger la biodiversidad, cuidar la naturaleza"
+      ],
+      "numero": "294",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Turismo sostenible y adaptación de destinos",
+      "etiquetas": [
+        "turismo",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La protección y el bienestar animal son una cuestión de reconocimiento, avance democrático, conservación y convivencia.",
+      "pagina": 73,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Protección y bienestar animal"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Concepción del bienestar animal",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El reto ahora es consolidar estos avances, combatir el abandono, promover la tenencia responsable y reforzar la protección de los animales más vulnerables.",
+      "pagina": 73,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Protección y bienestar animal"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivos en protección animal",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar tolerancia cero al maltrato, retirando financiación pública a prácticas que lo amparen e impulsando la presencia del bienestar animal y tenencia responsable en la formación docente, los proyectos educativos de los centros.",
+      "pagina": 73,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Protección y bienestar animal"
+      ],
+      "numero": "295",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Retirada de financiación pública a prácticas de maltrato animal",
+      "etiquetas": [
+        "bienestar animal",
+        "subvenciones",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar en la transformación de nuestros zoológicos y parques marinos al siglo XXI, impulsando el bienestar de los animales y reorientando sus funciones hacia recuperación, conservación, investigación y educación ambiental.",
+      "pagina": 73,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Protección y bienestar animal"
+      ],
+      "numero": "296",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Transformación de zoológicos y parques marinos",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la protección y el cuidado a los animales de compañía.",
+      "pagina": 73,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Protección y bienestar animal"
+      ],
+      "numero": "297",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Protección de los animales de compañía",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporaremos a los animales a la legislación de violencia vicaria con protocolos en violencia de género, impulsaremos una Estrategia Estatal de abandono cero con adopción responsable y facilitaremos la convivencia con animales de compañía y asistencia.",
+      "pagina": 73,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Protección y bienestar animal"
+      ],
+      "numero": "297",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Animales en la ley de violencia vicaria y estrategia de abandono cero",
+      "etiquetas": [
+        "bienestar animal",
+        "violencia de género"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporar evacuación y rescate animal en protección civil ante emergencias.",
+      "pagina": 73,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Protección y bienestar animal"
+      ],
+      "numero": "298",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rescate animal en protección civil",
+      "etiquetas": [
+        "bienestar animal",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Frente a los ataques al orden multilateral, España seguirá defendiendo el mantenimiento y la profundización de los espacios de diálogo y los compromisos adoptados en la UE y en el mundo.",
+      "pagina": 73,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Liderazgo climático"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa del multilateralismo climático",
+      "etiquetas": [
+        "política exterior",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, impulsaremos medidas que aseguren un papel central a la participación ciudadana, la ciencia, la coordinación institucional y la lucha contra la desinformación.",
+      "pagina": 73,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Liderazgo climático"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Participación, ciencia y desinformación en política climática",
+      "etiquetas": [
+        "medio ambiente",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defender y profundizar el Pacto Verde Europeo, garantizando que la simplificación administrativa no suponga una reducción de la ambición climática y ambiental y manteniendo objetivos ambiciosos de inversión en clima, biodiversidad y sostenibilidad en el presupuesto de la Unión Europea.",
+      "pagina": 73,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Liderazgo climático"
+      ],
+      "numero": "299",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Defensa del Pacto Verde Europeo",
+      "etiquetas": [
+        "unión europea",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar la aplicación de la Ley de Restauración de la Naturaleza, del Marco Europeo de Resiliencia Climática y del marco europeo de protección de los recursos hídricos, asegurando recursos adecuados para los programas europeos de adaptación, conservación y recuperación.",
+      "pagina": 74,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Liderazgo climático"
+      ],
+      "numero": "300",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aplicación de normas europeas de restauración y resiliencia",
+      "etiquetas": [
+        "unión europea",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar una unidad europea permanente de prevención y respuesta ante catástrofes climáticas, reforzando la cooperación frente a incendios forestales, inundaciones y fenómenos meteorológicos extremos.",
+      "pagina": 74,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Liderazgo climático"
+      ],
+      "numero": "301",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Unidad europea permanente ante catástrofes climáticas",
+      "etiquetas": [
+        "unión europea",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promover alianzas internacionales para el abandono progresivo de los combustibles fósiles y la aprobación del tratado global contra la contaminación por plásticos.",
+      "pagina": 74,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Liderazgo climático"
+      ],
+      "numero": "302",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Alianzas internacionales sobre fósiles y plásticos",
+      "etiquetas": [
+        "política exterior",
+        "medio ambiente",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear la Agencia de Evaluación Ambiental de Proyectos y Planes, reforzando el rigor técnico, la independencia y la calidad de las evaluaciones ambientales.",
+      "pagina": 74,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Liderazgo climático"
+      ],
+      "numero": "303",
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Agencia de Evaluación Ambiental de Proyectos y Planes",
+      "etiquetas": [
+        "medio ambiente",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fortalecer la participación y la gobernanza climática.",
+      "pagina": 74,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Liderazgo climático"
+      ],
+      "numero": "304",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación y gobernanza climática",
+      "etiquetas": [
+        "medio ambiente",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se ampliará la representación social y científica en los órganos de gobernanza climática, incorporando de forma estable a la comunidad científica, la juventud, las mujeres y el medio rural.",
+      "pagina": 74,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Liderazgo climático"
+      ],
+      "numero": "304",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Representación social y científica en órganos climáticos",
+      "etiquetas": [
+        "medio ambiente",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Combatir la desinformación climática, apoyando el periodismo especializado, la divulgación científica y la protección de investigadores y comunicadores.",
+      "pagina": 74,
+      "apartado": [
+        "Un país que combate el cambio climático y aprovecha la transición verde",
+        "Liderazgo climático"
+      ],
+      "numero": "305",
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Desinformación climática y apoyo al periodismo especializado",
+      "etiquetas": [
+        "medios de comunicación",
+        "medio ambiente",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "España tiene una deuda histórica con las mujeres. Les debemos siglos de voz, oportunidades e igualdad arrebatados. Por eso hoy, frente a una ola reaccionaria que amenaza décadas de conquistas, reafirmamos nuestra ambición de seguir avanzando.",
+      "pagina": 76,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Planteamiento general sobre igualdad entre mujeres y hombres",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Porque cuando las mujeres avanzan, avanza toda la sociedad.",
+      "pagina": 76,
+      "apartado": [
+        "La fuerza de la gente, la fuerza de las mujeres"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Igualdad de las mujeres como avance social",
+      "etiquetas": [
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

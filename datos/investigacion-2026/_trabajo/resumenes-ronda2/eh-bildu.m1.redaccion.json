@@ -1,0 +1,91 @@
+{
+  "resumenes": [
+    {
+      "tema": "vivienda",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende la vivienda como un derecho básico y propone intervenir el mercado, regular los precios e impedir los desahucios.", "apoyos": ["c-24b27b0d87", "c-f4dadd2c14"] },
+        { "texto": "Plantea contratos de alquiler con prórroga automática, un tope del 2 % a la subida anual de la renta y prohibir los desahucios de personas vulnerables sin alternativa habitacional.", "apoyos": ["c-25c764082b", "c-64d9e07653", "c-2904a26dc7"] },
+        { "texto": "Quiere prohibir la compra especulativa de vivienda por fondos y grandes tenedores, eliminar las SOCIMI y fijar un IVA del 21 % a los alojamientos turísticos de corta duración.", "apoyos": ["c-e08c341469", "c-bf51c78362", "c-1911dba441"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "empleo",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una jornada de 32 horas semanales o de cuatro días sin rebaja salarial, con una transición de hasta tres años para las pymes.", "apoyos": ["c-7a1a24e7f6", "c-ffa0d8d3a4"] },
+        { "texto": "Plantea que las comunidades autónomas puedan fijar su propio salario mínimo, con el estatal como suelo.", "apoyos": ["c-786a169ae8", "c-9aee4313ef", "c-41b82bd0dd"] },
+        { "texto": "Pide indemnizaciones por despido improcedente de al menos 45 días y recuperar la autorización previa de la autoridad laboral en los ERE.", "apoyos": ["c-d739696e9f", "c-07a85406fa"] },
+        { "texto": "Quiere además transferir la Inspección de Trabajo y reconocer un «Marco Vasco y Navarro de Relaciones Laborales».", "apoyos": ["c-f38b046760", "c-c7a0c579b8", "c-1a18a1e4d9"] }
+      ],
+      "nota": "Se omite por espacio el registro horario contra las horas extra no pagadas (c-20f8aded39)."
+    },
+    {
+      "tema": "pensiones",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende el sistema público de pensiones y rechaza recortes, privatización o subir la edad de jubilación y el periodo de cómputo.", "apoyos": ["c-18f12f4550", "c-e26f311f0d"] },
+        { "texto": "Propone blindar la revalorización anual con el IPC y subir las pensiones mínimas hasta al menos 1.220 euros, ligadas al salario mínimo.", "apoyos": ["c-e0a6429136", "c-f2ddab0c6b", "c-10712e1c13"] },
+        { "texto": "Pide además subir al menos un 15 % las pensiones de viudedad y no contributivas y culminar la ley de jubilación sin penalización con 40 años cotizados.", "apoyos": ["c-077caca8e1", "c-670c79b1b5", "c-10712e1c13"] },
+        { "texto": "Quiere transferir el régimen económico de la Seguridad Social a las instituciones vascas y navarras.", "apoyos": ["c-dfa067b9ca", "c-4aa5837cb9"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "impuestos",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende la política fiscal como herramienta de redistribución y pide que las grandes empresas «aporten lo que deben».", "apoyos": ["c-8f3820ade6", "c-5bd1db45bd"] },
+        { "texto": "Propone recuperar y hacer permanente el impuesto a las energéticas, aumentar el de la banca y grandes fortunas y crear otro sobre los beneficios de las grandes distribuidoras alimentarias.", "apoyos": ["c-6333e03d13", "c-39f8d9d35b", "c-208a4bbb2c"] },
+        { "texto": "Plantea un IVA del 21 % para los alojamientos turísticos de corta duración y un gravamen especial a los vuelos privados.", "apoyos": ["c-79c9895775", "c-1911dba441", "c-2f51500650"] },
+        { "texto": "Quiere que esos impuestos se concierten con las haciendas forales y ampliar las capacidades del Concierto vasco y el Convenio navarro.", "apoyos": ["c-6333e03d13", "c-208a4bbb2c", "c-9b48339712", "c-2f2254058a"] }
+      ],
+      "nota": "Las declaraciones contra bajar el IVA o los impuestos a la energía (c-bd58ba7862, c-2f9f71ef9e) no se recogen por espacio."
+    },
+    {
+      "tema": "economia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende la intervención pública en la formación de los precios para evitar que las crisis enriquezcan a las grandes corporaciones.", "apoyos": ["c-688ff876c3", "c-0bff8be59d"] },
+        { "texto": "Propone obligar a las grandes empresas energéticas y alimentarias a absorber con sus márgenes parte de las subidas de costes en situaciones de crisis.", "apoyos": ["c-5813161106", "c-e57e928846", "c-88efab05e7"] },
+        { "texto": "Plantea recuperar el «tope al gas», reformar el sistema marginalista de precios eléctricos y controlar los márgenes de las grandes distribuidoras.", "apoyos": ["c-612d6fae33", "c-c09db18fc5", "c-70821d229d", "c-4e7f7de51d"] },
+        { "texto": "Pide derogar la reforma del artículo 135 de la Constitución, que prioriza el pago de la deuda, y rechaza volver a la austeridad.", "apoyos": ["c-87d685216c", "c-1ba7089d7e"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "sanidad",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Quiere asumir las competencias sanitarias que aún ejerce el Ministerio de Sanidad.", "apoyos": ["c-a383bbf772", "c-cc517ad6d4", "c-e61878aaf0"] },
+        { "texto": "Propone derogar la Ley 15/1997, que a su juicio permite privatizar servicios sanitarios, y crear con las comunidades autónomas una farmacia pública.", "apoyos": ["c-59a97ecf0c", "c-e962006ade"] },
+        { "texto": "Plantea ampliar la cartera común con salud bucodental y visual para colectivos vulnerables y reformar la ley de eutanasia para que cubra también el sufrimiento psíquico.", "apoyos": ["c-e46654ecb5", "c-b81e4e8f63"] },
+        { "texto": "Mientras no llegue la transferencia, pide reservar el 53 % de las plazas MIR, EIR y PIR a profesionales que dominen las dos lenguas oficiales del País Vasco.", "apoyos": ["c-3b18027c27"] }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "educacion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende un sistema educativo propio para Euskal Herria, que describe como «de calidad, inclusivo, coeducativo, participativo, laiko, euskaldun y soberano».", "apoyos": ["c-dc1f809e49"] },
+        { "texto": "Propone aumentar la financiación hasta acercarse progresivamente al 6 % de inversión definido por la UNESCO, bajar las ratios y estabilizar al personal docente.", "apoyos": ["c-4d073d399d", "c-ad6f5f9d6f", "c-3f9e6fca89"] },
+        { "texto": "También apoya cambios normativos para reforzar la atención al alumnado con necesidades educativas especiales.", "apoyos": ["c-7120dd33e9"] },
+        { "texto": "En 2025, una diputada del partido defendió que la regulación universitaria se haga desde el País Vasco, con leyes propias.", "apoyos": ["c-53dbe40916"] }
+      ],
+      "nota": "Programa con pocas medidas concretas en este tema; la última frase procede de una declaración y va atribuida."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Quiere mantener y reforzar el «escudo social» y hacer permanente la prohibición de cortar suministros básicos a hogares vulnerables.", "apoyos": ["c-8ec85e4522", "c-dccc624ab1"] },
+        { "texto": "En dependencia, plantea que las prestaciones se paguen desde la fecha de solicitud y eliminar el copago de los cuidados personales, avanzando hacia la gratuidad.", "apoyos": ["c-1c15d4228c", "c-9c60702d35", "c-116fb556f8"] },
+        { "texto": "Pide transferir el Ingreso Mínimo Vital y, entretanto, ampliar su acceso y sus cuantías.", "apoyos": ["c-e700c6dd64"] },
+        { "texto": "Propone crear permisos de maternidad preparto y puerperal retribuidos y equiparar los permisos de las familias monoparentales con los de las biparentales.", "apoyos": ["c-308554356e", "c-4839d9b2cf"] }
+      ],
+      "nota": ""
+    }
+  ]
+}

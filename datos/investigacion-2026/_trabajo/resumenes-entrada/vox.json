@@ -240,7 +240,8 @@
      "concreta": true,
      "texto": "Lo que esa familia necesita es que ustedes renuncien a su parte del botín, que bajen los impuestos a la compra de la primera vivienda, la que es para vivir, que los bajen, que permitan además su pago diferido en el tiempo y sin intereses y que ―sí, entonces sí― le pongan unos impuestos altísimos y disuasorios, ostensiblemente disuasorios, a los compradores extranjeros y a las fortunas extranjeras.",
      "quien": "Carlos Hernández Quero, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-be65ec5d90",
@@ -249,7 +250,8 @@
      "concreta": true,
      "texto": "En primer lugar, porque la ley de vivienda, cuyos resultados ya se han comprobado, no ha de ser reformada ni modificada, ha de ser derogada como toda legislación antisocial y antipopular que atenta contra el bien común",
      "quien": "Carlos Hernández Quero, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-efe073293a",
@@ -258,7 +260,8 @@
      "concreta": true,
      "texto": "La solución a la okupación pasa por garantizar de forma tajante la restitución inmediata del inmueble al propietario en el momento en que se produzca un impago, un incumplimiento de contrato o el vencimiento del plazo, aportando plena certeza jurídica.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-f11d344652",
@@ -267,7 +270,8 @@
      "concreta": true,
      "texto": "Pueden pasar años desde que se señala un suelo hasta que se pone un ladrillo, y cuando por fin se construye más de la mitad de lo que pagamos son impuestos. Proponemos más suelo y plazos cerrados, y que la primera vivienda esté libre de carga impositiva",
      "quien": "Maribel Cerezo, Candidata de Vox al Congreso por Baleares",
-     "fecha": "2026-10-24"
+     "fecha": "2026-10-24",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-d4b49387ce",
@@ -276,7 +280,8 @@
      "concreta": false,
      "texto": "Yo creo que el Estado tiene que intervenir cuando hay una práctica abusiva en el mercado",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-09"
+     "fecha": "2026-11-09",
+     "medio": "Infobae (Europa Press), entrevista en La Revuelta"
     },
     {
      "id": "c-bfba4df28f",
@@ -285,7 +290,8 @@
      "concreta": false,
      "texto": "La oferta y la demanda no casan, no se construye y cada vez entra más gente",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-09"
+     "fecha": "2026-11-09",
+     "medio": "Infobae (Europa Press), entrevista en La Revuelta"
     },
     {
      "id": "c-05f4bed9b8",
@@ -294,7 +300,8 @@
      "concreta": true,
      "texto": "En la parte alta proponemos una fiscalidad diferenciada: que las fortunas extranjeras que adquieran vivienda en España paguen impuestos superiores.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-0ed80c0af1",
@@ -303,7 +310,18 @@
      "concreta": false,
      "texto": "Señorías, España necesita más vivienda, menos impuestos, menos burocracia, energía más barata, seguridad jurídica, competencia y mejores condiciones para que nuestras empresas produzcan y nuestros trabajadores prosperen.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
+    },
+    {
+     "id": "c-6786d050e9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Han abierto la puerta a 6 millones de personas en España y no han construido prácticamente ni una puñetera vivienda. No es posible dar vivienda a la gente si abrimos nuestras puertas, decimos que cabe toda África o toda América en España y no se construye vivienda",
+     "quien": "Santiago Abascal Conde, presidente de Vox, candidato a la presidencia del Gobierno y número 1 por Madrid",
+     "fecha": "2026-11-15",
+     "medio": "Demócrata"
     }
    ]
   },
@@ -670,7 +688,8 @@
      "concreta": false,
      "texto": "No hace falta un protocolo oficial registrado por triplicado para apagar el móvil al salir del trabajo",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     },
     {
      "id": "c-cf6f5e523f",
@@ -679,7 +698,8 @@
      "concreta": true,
      "texto": "quien quiera fichar, que fiche",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     },
     {
      "id": "c-e12db46f3e",
@@ -688,7 +708,8 @@
      "concreta": false,
      "texto": "la aplicación universal y acrítica de la normativa a cualquier microempresa ha llenado el día a día de las pymes de cursos, protocolos y certificaciones sin utilidad práctica",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     },
     {
      "id": "c-ce6e38a2d5",
@@ -697,7 +718,8 @@
      "concreta": false,
      "texto": "Respecto al mercado laboral, el empleo creado es de baja calidad y con salarios reducidos: el 75 % de los trabajadores cobra igual o menos de dos veces el SMI, situándose el salario más frecuente en 16.000 euros anuales.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-a587f312e4",
@@ -706,7 +728,8 @@
      "concreta": false,
      "texto": "Es una huelga política, con lo cual debería estar prohibida.",
      "quien": "Juan José Aizcorbe, Diputado y cabeza de lista de Vox por Barcelona",
-     "fecha": "2026-11-10"
+     "fecha": "2026-11-10",
+     "medio": "El Debate"
     },
     {
      "id": "c-8e9650d654",
@@ -715,7 +738,8 @@
      "concreta": true,
      "texto": "Si llegamos, tenemos la intención de acabar con el saqueo a las propinas, una injusticia absoluta",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-10-24"
+     "fecha": "2026-10-24",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-ba25aad126",
@@ -724,7 +748,8 @@
      "concreta": true,
      "texto": "Por ejemplo, nosotros defendemos un estatuto médico propio.",
      "quien": "García Gomis, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-22"
+     "fecha": "2026-09-22",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-c772333f84",
@@ -733,7 +758,8 @@
      "concreta": false,
      "texto": "obligar a cada empresa a redactar, negociar, registrar y revisar un plan de igualdad es burocracia ideológica disfrazada de progreso",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     }
    ]
   },
@@ -812,7 +838,8 @@
      "concreta": false,
      "texto": "La solución que plantea Vox requiere una reforma estructural hacia un modelo mixto que combine el reparto con la capitalización individual, como han hecho con éxito otros países europeos.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-da4eeed7de",
@@ -821,7 +848,8 @@
      "concreta": false,
      "texto": "El único modo de mantener el sistema es rebajar impuestos y recortar en gasto político ideológico. Pueden estar tranquilos los pensionistas que tienen derechos adquiridos, porque las pensiones se van a pagar de la manera que haga falta",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-10-24"
+     "fecha": "2026-10-24",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-019ba64b8a",
@@ -830,7 +858,8 @@
      "concreta": false,
      "texto": "Asumimos el compromiso de trabajar sobre las largas carreras de cotización. Hay que atender especialmente a quienes llegaron a la jubilación anticipada por un despido o un ERE, valorar los años y las bases realmente cotizadas y distinguir según el tiempo en que se adelanta la jubilación. También debemos reconocer mejor a quienes continúan trabajando después de la edad ordinaria y siguen aportando cuando ya podrían retirarse.",
      "quien": "Juan José Aizcorbe, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-22"
+     "fecha": "2026-09-22",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     }
    ]
   },
@@ -1089,7 +1118,8 @@
      "concreta": true,
      "texto": "Lo que esa familia necesita es que ustedes renuncien a su parte del botín, que bajen los impuestos a la compra de la primera vivienda, la que es para vivir, que los bajen, que permitan además su pago diferido en el tiempo y sin intereses y que ―sí, entonces sí― le pongan unos impuestos altísimos y disuasorios, ostensiblemente disuasorios, a los compradores extranjeros y a las fortunas extranjeras.",
      "quien": "Carlos Hernández Quero, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-f11d344652",
@@ -1098,7 +1128,8 @@
      "concreta": true,
      "texto": "Pueden pasar años desde que se señala un suelo hasta que se pone un ladrillo, y cuando por fin se construye más de la mitad de lo que pagamos son impuestos. Proponemos más suelo y plazos cerrados, y que la primera vivienda esté libre de carga impositiva",
      "quien": "Maribel Cerezo, Candidata de Vox al Congreso por Baleares",
-     "fecha": "2026-10-24"
+     "fecha": "2026-10-24",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-da4eeed7de",
@@ -1107,7 +1138,8 @@
      "concreta": false,
      "texto": "El único modo de mantener el sistema es rebajar impuestos y recortar en gasto político ideológico. Pueden estar tranquilos los pensionistas que tienen derechos adquiridos, porque las pensiones se van a pagar de la manera que haga falta",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-10-24"
+     "fecha": "2026-10-24",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-eae93dd328",
@@ -1116,7 +1148,8 @@
      "concreta": true,
      "texto": "Suprimiendo únicamente las subvenciones superiores a 100.000 euros al año se obtendrían los fondos para financiar la reforma del IRPF que propone Vox. Nuestra propuesta plantea un sistema simplificado con un mínimo exento de 22.000 euros y dos tramos únicos: un 15 % hasta los 70.000 euros de renta y un 25 % para importes superiores, sin deducciones ni bonificaciones.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-8e9650d654",
@@ -1125,7 +1158,8 @@
      "concreta": true,
      "texto": "Si llegamos, tenemos la intención de acabar con el saqueo a las propinas, una injusticia absoluta",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-10-24"
+     "fecha": "2026-10-24",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-88fa5aefde",
@@ -1134,7 +1168,8 @@
      "concreta": true,
      "texto": "Lo que se necesita es una reducción drástica y permanente de los impuestos a la energía, eliminando o reduciendo el impuesto sobre el valor de la producción eléctrica, el impuesto especial sobre hidrocarburos y el IVA correspondiente, que actualmente incurren en una doble imposición fiscal.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-d37fa0da85",
@@ -1143,7 +1178,8 @@
      "concreta": true,
      "texto": "Vienen y nos cuentan que en este decreto introducen una rebaja al IVA de la luz y del gas, medida que, por cierto, VOX lleva exigiendo que adopten con carácter permanente desde hace años; los bienes esenciales deberían tener un IVA superreducido o sin IVA.",
      "quien": "José María Figaredo, Diputado de Vox en el Congreso",
-     "fecha": "2026-10-16"
+     "fecha": "2026-10-16",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-05f4bed9b8",
@@ -1152,7 +1188,8 @@
      "concreta": true,
      "texto": "En la parte alta proponemos una fiscalidad diferenciada: que las fortunas extranjeras que adquieran vivienda en España paguen impuestos superiores.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-2e7be62278",
@@ -1161,7 +1198,8 @@
      "concreta": false,
      "texto": "Queremos abaratar la cesta de la compra reduciendo impuestos, cotizaciones y costes regulatorios; favorecer la competencia y defender a nuestros agricultores y ganaderos frente a la competencia desleal.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-b9f3106f31",
@@ -1170,7 +1208,8 @@
      "concreta": false,
      "texto": "Hemos propuesto importantes reducciones y deducciones por hijo en el IRPF. La diferencia es que ustedes quieren que el Estado decida por las familias; nosotros queremos que el Estado ayude a las familias a decidir.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-51fb53b572",
@@ -1179,7 +1218,18 @@
      "concreta": false,
      "texto": "Señor ministro, la igualdad no consiste en repartir las consecuencias de la mala gestión. La igualdad consiste en aplicar las mismas reglas para todos. Señor ministro, este proyecto de ley rompe el principio de quien gasta responde, que es la base de cualquier sistema fiscal serio.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado del Grupo Parlamentario VOX, defensor de su enmienda de totalidad en el Pleno",
-     "fecha": "2026-07-23"
+     "fecha": "2026-07-23",
+     "medio": "Diario de Sesiones del Congreso de los Diputados, Pleno núm. 199"
+    },
+    {
+     "id": "c-f9e46ca141",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Es de sentido común la prioridad nacional, exigir el fin de la sobrerregulación que nos impide competir en un mundo muy difícil, el fin del asedio fiscal contra las clases medias que está ahogando a nuestro pueblo, con servicios públicos decadentes y tercermundistas, y basta ya de invasión migratoria, repatriación de los ilegales y de los legales que delincan o vivan de las ayudas sociales",
+     "quien": "Santiago Abascal Conde, presidente de Vox, candidato a la presidencia del Gobierno y número 1 por Madrid",
+     "fecha": "2026-11-13",
+     "medio": "The Objective"
     }
    ]
   },
@@ -1978,7 +2028,8 @@
      "concreta": false,
      "texto": "Yo creo que el Estado tiene que intervenir cuando hay una práctica abusiva en el mercado",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-09"
+     "fecha": "2026-11-09",
+     "medio": "Infobae (Europa Press), entrevista en La Revuelta"
     },
     {
      "id": "c-d5607f1d94",
@@ -1987,7 +2038,8 @@
      "concreta": false,
      "texto": "No hace falta un protocolo oficial registrado por triplicado para apagar el móvil al salir del trabajo",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     },
     {
      "id": "c-e12db46f3e",
@@ -1996,7 +2048,8 @@
      "concreta": false,
      "texto": "la aplicación universal y acrítica de la normativa a cualquier microempresa ha llenado el día a día de las pymes de cursos, protocolos y certificaciones sin utilidad práctica",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     },
     {
      "id": "c-eae93dd328",
@@ -2005,7 +2058,8 @@
      "concreta": true,
      "texto": "Suprimiendo únicamente las subvenciones superiores a 100.000 euros al año se obtendrían los fondos para financiar la reforma del IRPF que propone Vox. Nuestra propuesta plantea un sistema simplificado con un mínimo exento de 22.000 euros y dos tramos únicos: un 15 % hasta los 70.000 euros de renta y un 25 % para importes superiores, sin deducciones ni bonificaciones.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-d37fa0da85",
@@ -2014,7 +2068,8 @@
      "concreta": true,
      "texto": "Vienen y nos cuentan que en este decreto introducen una rebaja al IVA de la luz y del gas, medida que, por cierto, VOX lleva exigiendo que adopten con carácter permanente desde hace años; los bienes esenciales deberían tener un IVA superreducido o sin IVA.",
      "quien": "José María Figaredo, Diputado de Vox en el Congreso",
-     "fecha": "2026-10-16"
+     "fecha": "2026-10-16",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-2e7be62278",
@@ -2023,7 +2078,8 @@
      "concreta": false,
      "texto": "Queremos abaratar la cesta de la compra reduciendo impuestos, cotizaciones y costes regulatorios; favorecer la competencia y defender a nuestros agricultores y ganaderos frente a la competencia desleal.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-0ed80c0af1",
@@ -2032,7 +2088,8 @@
      "concreta": false,
      "texto": "Señorías, España necesita más vivienda, menos impuestos, menos burocracia, energía más barata, seguridad jurídica, competencia y mejores condiciones para que nuestras empresas produzcan y nuestros trabajadores prosperen.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-72bc5133bc",
@@ -2041,7 +2098,8 @@
      "concreta": false,
      "texto": "Basta ya de legislaturas que añaden miles de normas y no retiran ninguna: los españoles no pueden seguir cargando con un Boletín Oficial que crece sin parar mientras su libertad mengua",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     },
     {
      "id": "c-dba5c43b07",
@@ -2050,7 +2108,8 @@
      "concreta": true,
      "texto": "Cada ley nueva tendrá que identificar, en su propio texto, qué tres normas vigentes deroga",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     },
     {
      "id": "c-554ec8d7f2",
@@ -2059,7 +2118,8 @@
      "concreta": false,
      "texto": "Para minimizar ese impacto, debemos explotar nuestros recursos de hidrocarburos y reforzar la red eléctrica de distribución.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-fac906c4c4",
@@ -2068,7 +2128,8 @@
      "concreta": false,
      "texto": "No puede ser que España sea una nación indefensa, necesitamos muchas inversiones y además poner de manifiesto que la industria de seguridad y defensa en España es una industria modélica",
      "quien": "Jorge Buxadé, Eurodiputado y jefe de la delegación de Vox en el Parlamento Europeo",
-     "fecha": "2026-10-31"
+     "fecha": "2026-10-31",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-51fb53b572",
@@ -2077,7 +2138,18 @@
      "concreta": false,
      "texto": "Señor ministro, la igualdad no consiste en repartir las consecuencias de la mala gestión. La igualdad consiste en aplicar las mismas reglas para todos. Señor ministro, este proyecto de ley rompe el principio de quien gasta responde, que es la base de cualquier sistema fiscal serio.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado del Grupo Parlamentario VOX, defensor de su enmienda de totalidad en el Pleno",
-     "fecha": "2026-07-23"
+     "fecha": "2026-07-23",
+     "medio": "Diario de Sesiones del Congreso de los Diputados, Pleno núm. 199"
+    },
+    {
+     "id": "c-f9e46ca141",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Es de sentido común la prioridad nacional, exigir el fin de la sobrerregulación que nos impide competir en un mundo muy difícil, el fin del asedio fiscal contra las clases medias que está ahogando a nuestro pueblo, con servicios públicos decadentes y tercermundistas, y basta ya de invasión migratoria, repatriación de los ilegales y de los legales que delincan o vivan de las ayudas sociales",
+     "quien": "Santiago Abascal Conde, presidente de Vox, candidato a la presidencia del Gobierno y número 1 por Madrid",
+     "fecha": "2026-11-13",
+     "medio": "The Objective"
     }
    ]
   },
@@ -2273,7 +2345,8 @@
      "concreta": true,
      "texto": "establecer la prioridad nacional en el acceso al sistema sanitario con carácter general",
      "quien": "el partido, Grupo Parlamentario Vox, proposición no de ley",
-     "fecha": "2026-04-24"
+     "fecha": "2026-04-24",
+     "medio": "Infobae (EFE)"
     },
     {
      "id": "c-d54d17cc86",
@@ -2282,7 +2355,8 @@
      "concreta": true,
      "texto": "derogar el decreto que reconoce el derecho a la protección de la salud y la atención sanitaria con cargo a fondos públicos de las personas extranjeras que encontrándose en España no tengan su residencia legal en el territorio español",
      "quien": "el partido, Grupo Parlamentario Vox, proposición no de ley",
-     "fecha": "2026-04-24"
+     "fecha": "2026-04-24",
+     "medio": "Infobae (EFE)"
     },
     {
      "id": "c-ba25aad126",
@@ -2291,7 +2365,8 @@
      "concreta": true,
      "texto": "Por ejemplo, nosotros defendemos un estatuto médico propio.",
      "quien": "García Gomis, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-22"
+     "fecha": "2026-09-22",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-67fed6f039",
@@ -2300,7 +2375,8 @@
      "concreta": false,
      "texto": "la gente muere esperando una cita médica o esperando una intervención quirúrgica",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-07"
+     "fecha": "2026-11-07",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-8d87e33693",
@@ -2309,7 +2385,18 @@
      "concreta": false,
      "texto": "España no puede seguir sosteniendo los problemas de todo el mundo, pagando la sanidad de todo el mundo y condenando a los españoles a perder su prosperidad",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-10-24"
+     "fecha": "2026-10-24",
+     "medio": "Infobae (Europa Press)"
+    },
+    {
+     "id": "c-f502b1ea3b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Si hay recursos limitados, los recursos limitados son para los nuestros",
+     "quien": "Santiago Abascal Conde, presidente de Vox, candidato a la presidencia del Gobierno y número 1 por Madrid",
+     "fecha": "2026-11-12",
+     "medio": "El Debate"
     }
    ]
   },
@@ -2550,7 +2637,8 @@
      "concreta": true,
      "texto": "La gravedad de los resultados en PISA hace igualmente necesario recuperar un sistema sólido de evaluación externa, objetiva y común a toda la nación.",
      "quien": "Robles López, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-22"
+     "fecha": "2026-09-22",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-2b1b4095aa",
@@ -2559,7 +2647,8 @@
      "concreta": false,
      "texto": "La escuela debe proporcionar a todos los alumnos una base sólida de conocimientos que les permitan desenvolverse con autonomía y continuar su formación en igualdad de condiciones, y no puede ser una eterna sucesión de festivales emocionales y de extrañas habilidades competenciales que no resisten un mínimo examen de conocimientos como la evaluación PISA.",
      "quien": "Robles López, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-22"
+     "fecha": "2026-09-22",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-140592624f",
@@ -2568,7 +2657,8 @@
      "concreta": false,
      "texto": "Y exigimos, además, que cualquier libro, material pedagógico o recurso financiado con dinero público respete la neutralidad ideológica y el derecho de los padres a decidir sobre la educación de sus hijos.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-b89b0be870",
@@ -2577,7 +2667,8 @@
      "concreta": false,
      "texto": "Las segundas proceden de la transferencia a las comunidades autónomas de las competencias educativas y, sobre todo, a aquellas que tienen como fin formar una nación cultural mediante la inmersión lingüística.",
      "quien": "Robles López, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-22"
+     "fecha": "2026-09-22",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     }
    ]
   },
@@ -2863,7 +2954,8 @@
      "concreta": false,
      "texto": "Y exigimos, además, que cualquier libro, material pedagógico o recurso financiado con dinero público respete la neutralidad ideológica y el derecho de los padres a decidir sobre la educación de sus hijos.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-b9f3106f31",
@@ -2872,7 +2964,8 @@
      "concreta": false,
      "texto": "Hemos propuesto importantes reducciones y deducciones por hijo en el IRPF. La diferencia es que ustedes quieren que el Estado decida por las familias; nosotros queremos que el Estado ayude a las familias a decidir.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-50f30bd0b9",
@@ -2881,7 +2974,8 @@
      "concreta": false,
      "texto": "Todo el presupuesto que, desde los poderes públicos, se destine al fomento de la natalidad no ha de concebirse como un gasto, sino como una inversión necesaria y rentable en el futuro de nuestro país",
      "quien": "el partido, Grupo Parlamentario Vox, proposición no de ley sobre natalidad",
-     "fecha": "2025-01-20"
+     "fecha": "2025-01-20",
+     "medio": "El Debate"
     },
     {
      "id": "c-684987f34f",
@@ -2890,7 +2984,8 @@
      "concreta": false,
      "texto": "Señorías, pretender que no existe una única definición de familia y sustituirla por una pluralidad de modelos de familia es de locos.",
      "quien": "Ruiz Solás, Diputada de Vox en el Congreso",
-     "fecha": "2026-09-22"
+     "fecha": "2026-09-22",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-b6e3818f68",
@@ -2899,7 +2994,8 @@
      "concreta": false,
      "texto": "Nosotros primero, si no es mucho pedir, pues nos vamos a ocupar de los nuestros y después si sobra, pues ya nos ocuparemos de los vecinos",
      "quien": "Pepa Millán, Portavoz de Vox en el Congreso",
-     "fecha": "2026-04-28"
+     "fecha": "2026-04-28",
+     "medio": "The Objective"
     },
     {
      "id": "c-1d7b810eae",
@@ -2908,7 +3004,8 @@
      "concreta": false,
      "texto": "Cuando uno va a un país y no pretende pagar sino vivir de las ayudas públicas debe irse",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-10-24"
+     "fecha": "2026-10-24",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-0631600f3d",
@@ -2917,7 +3014,18 @@
      "concreta": false,
      "texto": "Una cosa es impedir el acceso de los menores a contenidos pornográficos o protegerlos de comportamientos pedófilos en Internet, y otra bien distinta es utilizar este problema como coartada para imponer una visión totalitaria y única de un relato de los hechos en los que no quepa la discrepancia.",
      "quien": "José María Figaredo Álvarez-Sala, Portavoz adjunto del Grupo Parlamentario VOX en el Congreso (firma la enmienda)",
-     "fecha": "2025-06-18"
+     "fecha": "2025-06-18",
+     "medio": "Boletín Oficial de las Cortes Generales (Congreso), serie A, núm. 52-3"
+    },
+    {
+     "id": "c-f502b1ea3b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Si hay recursos limitados, los recursos limitados son para los nuestros",
+     "quien": "Santiago Abascal Conde, presidente de Vox, candidato a la presidencia del Gobierno y número 1 por Madrid",
+     "fecha": "2026-11-12",
+     "medio": "El Debate"
     }
    ]
   },
@@ -3311,7 +3419,8 @@
      "concreta": false,
      "texto": "La oferta y la demanda no casan, no se construye y cada vez entra más gente",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-09"
+     "fecha": "2026-11-09",
+     "medio": "Infobae (Europa Press), entrevista en La Revuelta"
     },
     {
      "id": "c-5e53de2a26",
@@ -3320,7 +3429,8 @@
      "concreta": true,
      "texto": "establecer la prioridad nacional en el acceso al sistema sanitario con carácter general",
      "quien": "el partido, Grupo Parlamentario Vox, proposición no de ley",
-     "fecha": "2026-04-24"
+     "fecha": "2026-04-24",
+     "medio": "Infobae (EFE)"
     },
     {
      "id": "c-d54d17cc86",
@@ -3329,7 +3439,8 @@
      "concreta": true,
      "texto": "derogar el decreto que reconoce el derecho a la protección de la salud y la atención sanitaria con cargo a fondos públicos de las personas extranjeras que encontrándose en España no tengan su residencia legal en el territorio español",
      "quien": "el partido, Grupo Parlamentario Vox, proposición no de ley",
-     "fecha": "2026-04-24"
+     "fecha": "2026-04-24",
+     "medio": "Infobae (EFE)"
     },
     {
      "id": "c-b6e3818f68",
@@ -3338,7 +3449,8 @@
      "concreta": false,
      "texto": "Nosotros primero, si no es mucho pedir, pues nos vamos a ocupar de los nuestros y después si sobra, pues ya nos ocuparemos de los vecinos",
      "quien": "Pepa Millán, Portavoz de Vox en el Congreso",
-     "fecha": "2026-04-28"
+     "fecha": "2026-04-28",
+     "medio": "The Objective"
     },
     {
      "id": "c-7b63a6e168",
@@ -3347,7 +3459,8 @@
      "concreta": false,
      "texto": "El segundo paso es ejecutar un proceso de remigración rápido y agilizado para los inmigrantes en situación ilegal, los que hayan cometido delitos, los que se nieguen a integrarse imponiendo su cultura y aquellos que viven de subsidios públicos.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-1d7b810eae",
@@ -3356,7 +3469,8 @@
      "concreta": false,
      "texto": "Cuando uno va a un país y no pretende pagar sino vivir de las ayudas públicas debe irse",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-10-24"
+     "fecha": "2026-10-24",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-8d87e33693",
@@ -3365,7 +3479,8 @@
      "concreta": false,
      "texto": "España no puede seguir sosteniendo los problemas de todo el mundo, pagando la sanidad de todo el mundo y condenando a los españoles a perder su prosperidad",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-10-24"
+     "fecha": "2026-10-24",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-1dfc14ad44",
@@ -3374,7 +3489,8 @@
      "concreta": true,
      "texto": "la pena de pérdida de nacionalidad española se impondrá a quienes, no siendo españoles de origen, hubieren adquirido la nacionalidad española y fueren condenados por sentencia firme por la comisión de cualquier delito previsto en este Código o en las leyes penales especiales, sin perjuicio de las demás penas previstas para el delito correspondiente",
      "quien": "el partido, Grupo Parlamentario Vox, proposición de ley de reforma del Código Penal",
-     "fecha": "2026-07-03"
+     "fecha": "2026-07-03",
+     "medio": "Libertad Digital"
     },
     {
      "id": "c-014ace0c1c",
@@ -3383,7 +3499,8 @@
      "concreta": false,
      "texto": "la primera medida y más urgente para Vox, si los españoles nos dan su confianza, va a ser recuperar Ceuta, recuperar el control de nuestras fronteras, nuestra soberanía nacional y devolver la seguridad a los ceutíes porque Ceuta es España y no puede ser que las decisiones de Rabat tengan efecto en nuestro país",
      "quien": "Isabel Pérez Moñino, Portavoz nacional de Vox de Agenda España",
-     "fecha": "2026-11-06"
+     "fecha": "2026-11-06",
+     "medio": "Infobae (EFE)"
     },
     {
      "id": "c-959d40cd3b",
@@ -3392,7 +3509,8 @@
      "concreta": true,
      "texto": "E instamos también al Gobierno, primero, a que de manera inmediata proceda a la expulsión de todos los invasores que aún continúan en la ciudad y, también, a la devolución inmediata de todos los menores.",
      "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-176c78a008",
@@ -3401,7 +3519,8 @@
      "concreta": true,
      "texto": "garantizar que la emisión de informes de vulnerabilidad se base en hechos únicamente objetivamente acreditados, mediante una evaluación técnica completa con verificación de la situación laboral, patrimonial, de empadronamiento y de acceso a otras ayudas",
      "quien": "Pepa Millán, Portavoz de Vox en el Congreso",
-     "fecha": "2026-04-28"
+     "fecha": "2026-04-28",
+     "medio": "The Objective"
     },
     {
      "id": "c-843623564f",
@@ -3410,7 +3529,8 @@
      "concreta": true,
      "texto": "Segundo, a que proceda de manera urgente y permanente al refuerzo de efectivos de las fuerzas y cuerpos de seguridad y Fuerzas Armadas desplegados en Ceuta y Melilla, con el fin de evitar cualquier otro intento de invasión; a que fortalezca de inmediato la todavía desprotegida frontera terrestre de Ceuta; a que reconozca el carácter de agentes de autoridad a los miembros de las Fuerzas Armadas desplegados en Ceuta, y a que igualmente despliegue a la Armada española para la defensa de nuestra frontera marítima.",
      "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-d86ef1b937",
@@ -3419,7 +3539,8 @@
      "concreta": false,
      "texto": "No puede aceptarse que la alegación de un determinado grado de arraigo atribuya un privilegio de inmunidad frente a las consecuencias jurídicas derivadas de la conducta delictiva.",
      "quien": "el partido, Grupo Parlamentario Vox, proposición de ley de reforma del Código Penal",
-     "fecha": "2026-07-03"
+     "fecha": "2026-07-03",
+     "medio": "Libertad Digital"
     },
     {
      "id": "c-945782c223",
@@ -3428,7 +3549,8 @@
      "concreta": false,
      "texto": "Creo que hay que pedirle dos cosas muy claras, que creo que son poquitas y que son razonables, y es que no nos invada y que no reclame el territorio nacional de Ceuta y de Melilla. Creo que con eso es suficiente para empezar a hablar",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-03"
+     "fecha": "2026-11-03",
+     "medio": "El Debate, entrevista en El Programa de Ana Rosa"
     },
     {
      "id": "c-76b75b1c4d",
@@ -3437,7 +3559,58 @@
      "concreta": true,
      "texto": "Lo que propone el Grupo VOX es que se añada, a continuación de «terrorismo», lo siguiente: «y la inmigración ilegal». Es decir, que las Fuerzas Armadas apoyen a las fuerzas de orden público en la lucha contra el terrorismo «y la inmigración ilegal».",
      "quien": "José María Sánchez García, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
+    },
+    {
+     "id": "c-f9e46ca141",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Es de sentido común la prioridad nacional, exigir el fin de la sobrerregulación que nos impide competir en un mundo muy difícil, el fin del asedio fiscal contra las clases medias que está ahogando a nuestro pueblo, con servicios públicos decadentes y tercermundistas, y basta ya de invasión migratoria, repatriación de los ilegales y de los legales que delincan o vivan de las ayudas sociales",
+     "quien": "Santiago Abascal Conde, presidente de Vox, candidato a la presidencia del Gobierno y número 1 por Madrid",
+     "fecha": "2026-11-13",
+     "medio": "The Objective"
+    },
+    {
+     "id": "c-1330930f67",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Es la hora de sacar a todos los invasores de Ceuta y de Canarias, hay que proteger nuestras fronteras, hay que militarizar las fronteras, hay que acabar con todo tipo de subvenciones a las ONG que son colaboracionistas de la inmigración ilegal",
+     "quien": "Ignacio Garriga, vicepresidente y secretario general de Vox",
+     "fecha": "2026-11-16",
+     "medio": "Demócrata"
+    },
+    {
+     "id": "c-6786d050e9",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Han abierto la puerta a 6 millones de personas en España y no han construido prácticamente ni una puñetera vivienda. No es posible dar vivienda a la gente si abrimos nuestras puertas, decimos que cabe toda África o toda América en España y no se construye vivienda",
+     "quien": "Santiago Abascal Conde, presidente de Vox, candidato a la presidencia del Gobierno y número 1 por Madrid",
+     "fecha": "2026-11-15",
+     "medio": "Demócrata"
+    },
+    {
+     "id": "c-f502b1ea3b",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Si hay recursos limitados, los recursos limitados son para los nuestros",
+     "quien": "Santiago Abascal Conde, presidente de Vox, candidato a la presidencia del Gobierno y número 1 por Madrid",
+     "fecha": "2026-11-12",
+     "medio": "El Debate"
+    },
+    {
+     "id": "c-88a7f4168f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La prioridad nacional hoy es recuperar Ceuta en primer lugar para que la dignidad nacional sea restaurada",
+     "quien": "Santiago Abascal Conde, presidente de Vox, candidato a la presidencia del Gobierno y número 1 por Madrid",
+     "fecha": "2026-11-14",
+     "medio": "Infobae (Europa Press)"
     }
    ]
   },
@@ -3912,7 +4085,8 @@
      "concreta": true,
      "texto": "La solución a la okupación pasa por garantizar de forma tajante la restitución inmediata del inmueble al propietario en el momento en que se produzca un impago, un incumplimiento de contrato o el vencimiento del plazo, aportando plena certeza jurídica.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-7b63a6e168",
@@ -3921,7 +4095,8 @@
      "concreta": false,
      "texto": "El segundo paso es ejecutar un proceso de remigración rápido y agilizado para los inmigrantes en situación ilegal, los que hayan cometido delitos, los que se nieguen a integrarse imponiendo su cultura y aquellos que viven de subsidios públicos.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-1dfc14ad44",
@@ -3930,7 +4105,8 @@
      "concreta": true,
      "texto": "la pena de pérdida de nacionalidad española se impondrá a quienes, no siendo españoles de origen, hubieren adquirido la nacionalidad española y fueren condenados por sentencia firme por la comisión de cualquier delito previsto en este Código o en las leyes penales especiales, sin perjuicio de las demás penas previstas para el delito correspondiente",
      "quien": "el partido, Grupo Parlamentario Vox, proposición de ley de reforma del Código Penal",
-     "fecha": "2026-07-03"
+     "fecha": "2026-07-03",
+     "medio": "Libertad Digital"
     },
     {
      "id": "c-959d40cd3b",
@@ -3939,7 +4115,8 @@
      "concreta": true,
      "texto": "E instamos también al Gobierno, primero, a que de manera inmediata proceda a la expulsión de todos los invasores que aún continúan en la ciudad y, también, a la devolución inmediata de todos los menores.",
      "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-843623564f",
@@ -3948,7 +4125,8 @@
      "concreta": true,
      "texto": "Segundo, a que proceda de manera urgente y permanente al refuerzo de efectivos de las fuerzas y cuerpos de seguridad y Fuerzas Armadas desplegados en Ceuta y Melilla, con el fin de evitar cualquier otro intento de invasión; a que fortalezca de inmediato la todavía desprotegida frontera terrestre de Ceuta; a que reconozca el carácter de agentes de autoridad a los miembros de las Fuerzas Armadas desplegados en Ceuta, y a que igualmente despliegue a la Armada española para la defensa de nuestra frontera marítima.",
      "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-d86ef1b937",
@@ -3957,7 +4135,8 @@
      "concreta": false,
      "texto": "No puede aceptarse que la alegación de un determinado grado de arraigo atribuya un privilegio de inmunidad frente a las consecuencias jurídicas derivadas de la conducta delictiva.",
      "quien": "el partido, Grupo Parlamentario Vox, proposición de ley de reforma del Código Penal",
-     "fecha": "2026-07-03"
+     "fecha": "2026-07-03",
+     "medio": "Libertad Digital"
     },
     {
      "id": "c-810070418b",
@@ -3966,7 +4145,8 @@
      "concreta": false,
      "texto": "Hay hombres que agreden a las mujeres, la inmensa mayoría de los hombres quieren a las mujeres. Los que las agreden merecen todo el reproche penal y los violadores no deben salir de la prisión",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-09"
+     "fecha": "2026-11-09",
+     "medio": "El Debate, entrevista en La Revuelta"
     }
    ]
   },
@@ -4648,7 +4828,8 @@
      "concreta": false,
      "texto": "Es una huelga política, con lo cual debería estar prohibida.",
      "quien": "Juan José Aizcorbe, Diputado y cabeza de lista de Vox por Barcelona",
-     "fecha": "2026-11-10"
+     "fecha": "2026-11-10",
+     "medio": "El Debate"
     },
     {
      "id": "c-72bc5133bc",
@@ -4657,7 +4838,8 @@
      "concreta": false,
      "texto": "Basta ya de legislaturas que añaden miles de normas y no retiran ninguna: los españoles no pueden seguir cargando con un Boletín Oficial que crece sin parar mientras su libertad mengua",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     },
     {
      "id": "c-dba5c43b07",
@@ -4666,7 +4848,8 @@
      "concreta": true,
      "texto": "Cada ley nueva tendrá que identificar, en su propio texto, qué tres normas vigentes deroga",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     },
     {
      "id": "c-a7da1f12ce",
@@ -4675,7 +4858,8 @@
      "concreta": true,
      "texto": "El ciudadano no volverá a entregar un papel, un certificado o un dato que la Administración ya tiene. Se acabó el peregrinaje de ventanilla en ventanilla",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     },
     {
      "id": "c-feb87f85fd",
@@ -4684,7 +4868,18 @@
      "concreta": false,
      "texto": "Justicia, carreteras, comercio, sanidad, fiscalidad, educación o urbanismo no pueden seguir siendo un laberinto donde cada español tiene unos derechos, unas obligaciones y unos trámites distintos según el lugar en el que viva o trabaje. Un solo país, mismas reglas",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "El Debate"
+    },
+    {
+     "id": "c-641ada758a",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "Con el PP nos llevamos bien, nos hemos entendido bien en Andalucía, Aragón... No estamos satisfechos con lo que pasa en Andalucía, pero es la fuerza que nos han dado. Por eso pedimos más fuerza para que el cambio sea profundo",
+     "quien": "Santiago Abascal Conde, presidente de Vox, candidato a la presidencia del Gobierno y número 1 por Madrid",
+     "fecha": "2026-11-14",
+     "medio": "Libertad Digital"
     }
    ]
   },
@@ -4952,7 +5147,8 @@
      "concreta": false,
      "texto": "Justicia, carreteras, comercio, sanidad, fiscalidad, educación o urbanismo no pueden seguir siendo un laberinto donde cada español tiene unos derechos, unas obligaciones y unos trámites distintos según el lugar en el que viva o trabaje. Un solo país, mismas reglas",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "El Debate"
     },
     {
      "id": "c-b89b0be870",
@@ -4961,7 +5157,8 @@
      "concreta": false,
      "texto": "Las segundas proceden de la transferencia a las comunidades autónomas de las competencias educativas y, sobre todo, a aquellas que tienen como fin formar una nación cultural mediante la inmersión lingüística.",
      "quien": "Robles López, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-22"
+     "fecha": "2026-09-22",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-ef4432ad2a",
@@ -4970,7 +5167,8 @@
      "concreta": false,
      "texto": "El «Estado de las autonomías» ha provocado un verdadero caos en la atribución y el ejercicio de las distintas competencias y, lo que es mucho peor, ha fortalecido enormemente a las fuerzas separatistas, con lo que ha debilitado la unidad nacional y el principio de igualdad de los españoles.",
      "quien": "José María Figaredo Álvarez-Sala, Portavoz del Grupo Parlamentario VOX en el Congreso (firma la enmienda)",
-     "fecha": "2026-07-08"
+     "fecha": "2026-07-08",
+     "medio": "Boletín Oficial de las Cortes Generales (Congreso), serie A, núm. 79-2"
     },
     {
      "id": "c-51fb53b572",
@@ -4979,7 +5177,18 @@
      "concreta": false,
      "texto": "Señor ministro, la igualdad no consiste en repartir las consecuencias de la mala gestión. La igualdad consiste en aplicar las mismas reglas para todos. Señor ministro, este proyecto de ley rompe el principio de quien gasta responde, que es la base de cualquier sistema fiscal serio.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado del Grupo Parlamentario VOX, defensor de su enmienda de totalidad en el Pleno",
-     "fecha": "2026-07-23"
+     "fecha": "2026-07-23",
+     "medio": "Diario de Sesiones del Congreso de los Diputados, Pleno núm. 199"
+    },
+    {
+     "id": "c-5f833f2001",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "son dos lenguas hermanas que nunca nos deben enfrentar, sino que han de convivir ambas con serenidad y mucha paz",
+     "quien": "Juan José Aizcorbe, cabeza de lista de Vox al Congreso por Barcelona",
+     "fecha": "2026-11-16",
+     "medio": "Demócrata"
     }
    ]
   },
@@ -5400,7 +5609,8 @@
      "concreta": true,
      "texto": "Lo que se necesita es una reducción drástica y permanente de los impuestos a la energía, eliminando o reduciendo el impuesto sobre el valor de la producción eléctrica, el impuesto especial sobre hidrocarburos y el IVA correspondiente, que actualmente incurren en una doble imposición fiscal.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-0ed80c0af1",
@@ -5409,7 +5619,8 @@
      "concreta": false,
      "texto": "Señorías, España necesita más vivienda, menos impuestos, menos burocracia, energía más barata, seguridad jurídica, competencia y mejores condiciones para que nuestras empresas produzcan y nuestros trabajadores prosperen.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-95b0efaa16",
@@ -5418,7 +5629,8 @@
      "concreta": false,
      "texto": "No solo con los molinos y placas solares podemos alimentar a nuestra sociedad",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-09"
+     "fecha": "2026-11-09",
+     "medio": "El Debate, entrevista en La Revuelta"
     },
     {
      "id": "c-554ec8d7f2",
@@ -5427,7 +5639,8 @@
      "concreta": false,
      "texto": "Para minimizar ese impacto, debemos explotar nuestros recursos de hidrocarburos y reforzar la red eléctrica de distribución.",
      "quien": "José María Figaredo, Diputado y portavoz económico de Vox",
-     "fecha": "2026-10-04"
+     "fecha": "2026-10-04",
+     "medio": "El Debate"
     },
     {
      "id": "c-13832c565e",
@@ -5436,7 +5649,8 @@
      "concreta": true,
      "texto": "Tenemos la oportunidad de poner en marcha un plan nacional del agua que interconecte todas las cuencas para que ningún rincón de España pase sed.",
      "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
-     "fecha": "2026-10-07"
+     "fecha": "2026-10-07",
+     "medio": "El Debate"
     },
     {
      "id": "c-1bf5c451c5",
@@ -5445,7 +5659,8 @@
      "concreta": false,
      "texto": "Los objetivos climáticos se sustituirán por la recuperación y el refuerzo de la soberanía alimentaria",
      "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
-     "fecha": "2026-10-07"
+     "fecha": "2026-10-07",
+     "medio": "El Debate"
     }
    ]
   },
@@ -5749,7 +5964,8 @@
      "concreta": false,
      "texto": "Queremos abaratar la cesta de la compra reduciendo impuestos, cotizaciones y costes regulatorios; favorecer la competencia y defender a nuestros agricultores y ganaderos frente a la competencia desleal.",
      "quien": "Pablo Sáez Alonso-Muñumer, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-13832c565e",
@@ -5758,7 +5974,8 @@
      "concreta": true,
      "texto": "Tenemos la oportunidad de poner en marcha un plan nacional del agua que interconecte todas las cuencas para que ningún rincón de España pase sed.",
      "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
-     "fecha": "2026-10-07"
+     "fecha": "2026-10-07",
+     "medio": "El Debate"
     },
     {
      "id": "c-1bf5c451c5",
@@ -5767,7 +5984,8 @@
      "concreta": false,
      "texto": "Los objetivos climáticos se sustituirán por la recuperación y el refuerzo de la soberanía alimentaria",
      "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
-     "fecha": "2026-10-07"
+     "fecha": "2026-10-07",
+     "medio": "El Debate"
     },
     {
      "id": "c-ce3c426c40",
@@ -5776,7 +5994,8 @@
      "concreta": false,
      "texto": "No vamos a permitir que la competencia desleal siga sustituyendo el principio de preferencia comunitaria como ocurre con el acuerdo comercial UE-Marruecos, declarado ilegal por el Tribunal de Justicia de la UE. Los tomates de España serán los primeros.",
      "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
-     "fecha": "2026-10-07"
+     "fecha": "2026-10-07",
+     "medio": "El Debate"
     }
    ]
   },
@@ -5999,7 +6218,8 @@
      "concreta": true,
      "texto": "Lo primero que hay que hacer es una auditoría de seguridad para saber cómo están las vías.",
      "quien": "Juan José Aizcorbe, Diputado y cabeza de lista de Vox por Barcelona",
-     "fecha": "2026-11-10"
+     "fecha": "2026-11-10",
+     "medio": "El Debate"
     },
     {
      "id": "c-a45889b4ac",
@@ -6008,7 +6228,8 @@
      "concreta": false,
      "texto": "Lo que hay que hacer es poner técnicos que sepan cómo funciona, asegurar la seguridad en todos los trayectos y minimizar los tiempos.",
      "quien": "Juan José Aizcorbe, Diputado y cabeza de lista de Vox por Barcelona",
-     "fecha": "2026-11-10"
+     "fecha": "2026-11-10",
+     "medio": "El Debate"
     },
     {
      "id": "c-6571e980ff",
@@ -6017,7 +6238,8 @@
      "concreta": false,
      "texto": "Ellos hablan de una prioridad; nosotros, en VOX, en nuestras enmiendas, reconocemos el carácter estratégico para la soberanía y la competitividad nacional. Pero en VOX somos aún más ambiciosos. ¿Y qué queremos? Completar las actuaciones para dotarlas de plena funcionalidad y garantizar su explotación",
      "quien": "Rueda Perelló, Diputada de Vox en el Congreso",
-     "fecha": "2026-09-22"
+     "fecha": "2026-09-22",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-bc2741b2ae",
@@ -6026,7 +6248,8 @@
      "concreta": false,
      "texto": "Hay un problema técnico, de degradación, de falta de inversiones, de falta de inversiones de los fondos europeos, también de decisiones de naturaleza ideológica",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-03"
+     "fecha": "2026-11-03",
+     "medio": "El Debate, entrevista en El Programa de Ana Rosa"
     }
    ]
   },
@@ -6204,7 +6427,8 @@
      "concreta": false,
      "texto": "Señorías, pretender que no existe una única definición de familia y sustituirla por una pluralidad de modelos de familia es de locos.",
      "quien": "Ruiz Solás, Diputada de Vox en el Congreso",
-     "fecha": "2026-09-22"
+     "fecha": "2026-09-22",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-810070418b",
@@ -6213,7 +6437,8 @@
      "concreta": false,
      "texto": "Hay hombres que agreden a las mujeres, la inmensa mayoría de los hombres quieren a las mujeres. Los que las agreden merecen todo el reproche penal y los violadores no deben salir de la prisión",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-09"
+     "fecha": "2026-11-09",
+     "medio": "El Debate, entrevista en La Revuelta"
     },
     {
      "id": "c-c772333f84",
@@ -6222,7 +6447,8 @@
      "concreta": false,
      "texto": "obligar a cada empresa a redactar, negociar, registrar y revisar un plan de igualdad es burocracia ideológica disfrazada de progreso",
      "quien": "el partido, Programa de Desregulación de Vox",
-     "fecha": "2026-06-27"
+     "fecha": "2026-06-27",
+     "medio": "Infobae"
     },
     {
      "id": "c-e78c08a445",
@@ -6231,7 +6457,8 @@
      "concreta": false,
      "texto": "Es lo único, lo demás, lo único que busca es un enfrentamiento entre nosotros",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-09"
+     "fecha": "2026-11-09",
+     "medio": "Infobae (Europa Press), entrevista en La Revuelta"
     },
     {
      "id": "c-0631600f3d",
@@ -6240,7 +6467,8 @@
      "concreta": false,
      "texto": "Una cosa es impedir el acceso de los menores a contenidos pornográficos o protegerlos de comportamientos pedófilos en Internet, y otra bien distinta es utilizar este problema como coartada para imponer una visión totalitaria y única de un relato de los hechos en los que no quepa la discrepancia.",
      "quien": "José María Figaredo Álvarez-Sala, Portavoz adjunto del Grupo Parlamentario VOX en el Congreso (firma la enmienda)",
-     "fecha": "2025-06-18"
+     "fecha": "2025-06-18",
+     "medio": "Boletín Oficial de las Cortes Generales (Congreso), serie A, núm. 52-3"
     }
    ]
   },
@@ -6679,7 +6907,8 @@
      "concreta": false,
      "texto": "la primera medida y más urgente para Vox, si los españoles nos dan su confianza, va a ser recuperar Ceuta, recuperar el control de nuestras fronteras, nuestra soberanía nacional y devolver la seguridad a los ceutíes porque Ceuta es España y no puede ser que las decisiones de Rabat tengan efecto en nuestro país",
      "quien": "Isabel Pérez Moñino, Portavoz nacional de Vox de Agenda España",
-     "fecha": "2026-11-06"
+     "fecha": "2026-11-06",
+     "medio": "Infobae (EFE)"
     },
     {
      "id": "c-843623564f",
@@ -6688,7 +6917,8 @@
      "concreta": true,
      "texto": "Segundo, a que proceda de manera urgente y permanente al refuerzo de efectivos de las fuerzas y cuerpos de seguridad y Fuerzas Armadas desplegados en Ceuta y Melilla, con el fin de evitar cualquier otro intento de invasión; a que fortalezca de inmediato la todavía desprotegida frontera terrestre de Ceuta; a que reconozca el carácter de agentes de autoridad a los miembros de las Fuerzas Armadas desplegados en Ceuta, y a que igualmente despliegue a la Armada española para la defensa de nuestra frontera marítima.",
      "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-ce3c426c40",
@@ -6697,7 +6927,8 @@
      "concreta": false,
      "texto": "No vamos a permitir que la competencia desleal siga sustituyendo el principio de preferencia comunitaria como ocurre con el acuerdo comercial UE-Marruecos, declarado ilegal por el Tribunal de Justicia de la UE. Los tomates de España serán los primeros.",
      "quien": "Rodrigo Alonso, Portavoz nacional de Trabajo y Campo de Vox",
-     "fecha": "2026-10-07"
+     "fecha": "2026-10-07",
+     "medio": "El Debate"
     },
     {
      "id": "c-945782c223",
@@ -6706,7 +6937,8 @@
      "concreta": false,
      "texto": "Creo que hay que pedirle dos cosas muy claras, que creo que son poquitas y que son razonables, y es que no nos invada y que no reclame el territorio nacional de Ceuta y de Melilla. Creo que con eso es suficiente para empezar a hablar",
      "quien": "Santiago Abascal, Presidente de Vox y candidato a la Presidencia del Gobierno",
-     "fecha": "2026-11-03"
+     "fecha": "2026-11-03",
+     "medio": "El Debate, entrevista en El Programa de Ana Rosa"
     },
     {
      "id": "c-a71e60c40f",
@@ -6715,7 +6947,8 @@
      "concreta": true,
      "texto": "Mientras no se produzca esa declaración expresa de Marruecos, pedimos que el Gobierno suspenda inmediatamente la aplicación del Tratado de Amistad, Buena Vecindad y Cooperación con Marruecos, y que inste a la Unión Europea a revisar o suspender el Acuerdo Euromediterráneo de Asociación con Marruecos, así como todas las ayudas, preferencias y fondos que pueda en este momento estar recibiendo procedentes de Bruselas.",
      "quien": "Ignacio Gil Lázaro, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-76b75b1c4d",
@@ -6724,7 +6957,8 @@
      "concreta": true,
      "texto": "Lo que propone el Grupo VOX es que se añada, a continuación de «terrorismo», lo siguiente: «y la inmigración ilegal». Es decir, que las Fuerzas Armadas apoyen a las fuerzas de orden público en la lucha contra el terrorismo «y la inmigración ilegal».",
      "quien": "José María Sánchez García, Diputado de Vox en el Congreso",
-     "fecha": "2026-09-15"
+     "fecha": "2026-09-15",
+     "medio": "Diario de Sesiones del Congreso de los Diputados"
     },
     {
      "id": "c-fac906c4c4",
@@ -6733,7 +6967,8 @@
      "concreta": false,
      "texto": "No puede ser que España sea una nación indefensa, necesitamos muchas inversiones y además poner de manifiesto que la industria de seguridad y defensa en España es una industria modélica",
      "quien": "Jorge Buxadé, Eurodiputado y jefe de la delegación de Vox en el Parlamento Europeo",
-     "fecha": "2026-10-31"
+     "fecha": "2026-10-31",
+     "medio": "Infobae (Europa Press)"
     },
     {
      "id": "c-f204a6a40c",
@@ -6742,7 +6977,28 @@
      "concreta": false,
      "texto": "A nosotros nos interesa seguir, aportar más y tener más responsabilidades. No se trata de sustituir a Estados Unidos, sino de ser mejores aliados.",
      "quien": "Alberto Asarta, Portavoz de Defensa de Vox en el Congreso",
-     "fecha": "2026-06-24"
+     "fecha": "2026-06-24",
+     "medio": "El Español"
+    },
+    {
+     "id": "c-1330930f67",
+     "origen": "declaracion",
+     "clase": "medida",
+     "concreta": true,
+     "texto": "Es la hora de sacar a todos los invasores de Ceuta y de Canarias, hay que proteger nuestras fronteras, hay que militarizar las fronteras, hay que acabar con todo tipo de subvenciones a las ONG que son colaboracionistas de la inmigración ilegal",
+     "quien": "Ignacio Garriga, vicepresidente y secretario general de Vox",
+     "fecha": "2026-11-16",
+     "medio": "Demócrata"
+    },
+    {
+     "id": "c-88a7f4168f",
+     "origen": "declaracion",
+     "clase": "posicion",
+     "concreta": false,
+     "texto": "La prioridad nacional hoy es recuperar Ceuta en primer lugar para que la dignidad nacional sea restaurada",
+     "quien": "Santiago Abascal Conde, presidente de Vox, candidato a la presidencia del Gobierno y número 1 por Madrid",
+     "fecha": "2026-11-14",
+     "medio": "Infobae (Europa Press)"
     }
    ]
   },
@@ -6965,7 +7221,8 @@
      "concreta": false,
      "texto": "Lo que sí tengo es el deber de exigir respeto a la cultura de todos los españoles, a la cultura que podemos compartir; ustedes pueden no tener devoción por los festejos taurinos o tenerla, pero no pueden prohibírselo a los demás.",
      "quien": "José Ramírez del Río, Portavoz del Grupo Parlamentario VOX en la Comisión de Cultura del Congreso",
-     "fecha": "2025-11-11"
+     "fecha": "2025-11-11",
+     "medio": "Diario de Sesiones del Congreso de los Diputados, Comisión de Cultura núm. 445"
     },
     {
      "id": "c-0631600f3d",
@@ -6974,7 +7231,8 @@
      "concreta": false,
      "texto": "Una cosa es impedir el acceso de los menores a contenidos pornográficos o protegerlos de comportamientos pedófilos en Internet, y otra bien distinta es utilizar este problema como coartada para imponer una visión totalitaria y única de un relato de los hechos en los que no quepa la discrepancia.",
      "quien": "José María Figaredo Álvarez-Sala, Portavoz adjunto del Grupo Parlamentario VOX en el Congreso (firma la enmienda)",
-     "fecha": "2025-06-18"
+     "fecha": "2025-06-18",
+     "medio": "Boletín Oficial de las Cortes Generales (Congreso), serie A, núm. 52-3"
     }
    ]
   }

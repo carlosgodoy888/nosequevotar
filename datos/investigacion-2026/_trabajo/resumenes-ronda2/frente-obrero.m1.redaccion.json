@@ -1,0 +1,27 @@
+{
+  "resumenes": [
+    {
+      "tema": "empleo",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Pide subir los salarios en relación con el coste de la vida y derogar las reformas laborales que, a su juicio, abaratan el despido.",
+          "apoyos": ["c-1163ff5a01", "c-f06f7dad67"]
+        },
+        {
+          "texto": "Plantea prohibir las empresas de trabajo temporal, restringir los contratos temporales y fijos discontinuos y exigir representación de los trabajadores en empresas de diez o más empleados.",
+          "apoyos": ["c-b860847f05", "c-e23afc7117", "c-4cb42ef3ef"]
+        },
+        {
+          "texto": "Quiere eliminar la cuota de los autónomos que no llegan al salario mínimo y acabar con los falsos autónomos.",
+          "apoyos": ["c-a97ce9c006", "c-6e8ce736b7"]
+        },
+        {
+          "texto": "También propone derogar el Real Decreto 17/1977, que a su juicio limita el derecho de huelga.",
+          "apoyos": ["c-41a60cb2ee"]
+        }
+      ],
+      "nota": "Todo sale del programa de 2026. Por el límite de 90 palabras quedan fuera el endurecimiento de penas por contratar extranjeros en situación irregular (c-cd96f82877), las medidas de conciliación y prácticas remuneradas y la declaración sobre sindicalismo (c-b86e850fbf)."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "partido": "frente-amplio",
+  "lote": "frente-amplio.3",
+  "temas": [
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "corregido",
+      "problemas": [
+        "La tercera elegida (c-b13843188c) no se entiende sola: habla de «retirar el apoyo al plan de autonomía marroquí» y de «autodeterminación» sin nombrar en ningún momento el Sáhara Occidental ni al pueblo saharaui; quien no sigue la política no sabe a qué territorio se refiere. La alternativa c-471caeb6aa es igual de representativa de la misma línea del resumen (referéndum con opción de independencia), nombra al pueblo saharaui, es más corta y encaja con el «compromiso total con el Sáhara y con las personas saharauis» de la campaña.",
+        "Primera y segunda elegidas correctas: el rechazo al 5 % de la OTAN es la línea 1 del resumen y la campaña insiste en no entrar en la escalada armamentística; la ley de embargo de armas a Israel pasa de 80 palabras, así que la suspensión del Acuerdo UE-Israel y el reconocimiento de Palestina cubren bien esa línea."
+      ],
+      "elegidas": [
+        {
+          "id": "c-b8e36a1d9b",
+          "motivo": "Primera línea del resumen: rechazo del 5 % de la OTAN y reducción del gasto militar en favor de la «seguridad humana»; es una sola acción clara y Colau la repite en campaña («sería inadmisible que se recorte de los servicios públicos para entrar en la escalada armamentística»).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-fd3b60df16",
+          "motivo": "Segunda línea (Israel y Palestina): suspensión del Acuerdo de Asociación UE-Israel y reconocimiento de Palestina por todos los Estados miembros, en 37 palabras; la ley de embargo integral de armas a Israel, que la candidata destaca en campaña, pasa de 80 palabras.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-471caeb6aa",
+          "motivo": "Tercera línea (Sáhara Occidental): referéndum de autodeterminación supervisado por la ONU con opción de independencia, tal como lo recoge el resumen; a diferencia de c-b13843188c, nombra al pueblo saharaui y se entiende sola. La campaña insiste en su «compromiso total» con el Sáhara.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [
+        "Ninguno que obligue a cambiar. La primera (c-48c22d1f3e) junta varias acciones, pero todas son límites al uso de la fuerza policial en la misma dirección y coinciden con lo que el resumen da como línea 2; quien la lee sabe qué está votando. No hay medidas candidatas sobre la «Ley Mordaza» ni sobre los delitos contra la Corona o de enaltecimiento (líneas 1 y 4 del resumen). La tercera (desmilitarizar la Guardia Civil) es una pieza distinta del modelo policial que cita el resumen, no una variante de la primera."
+      ],
+      "elegidas": [
+        {
+          "id": "c-48c22d1f3e",
+          "motivo": "Línea de control de la policía, que es la más desarrollada del tema: recoge la prohibición de las pelotas de goma y de los controles por perfil racial que cita el resumen; todas sus acciones van en la misma dirección (limitar el uso de la fuerza y garantizar derechos ante la policía).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-135cd36d61",
+          "motivo": "Línea de la justicia: alcanzar en dos legislaturas la media europea de jueces y fiscales por habitante, tal como dice el resumen; lleva plazo y es una sola acción.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-da86180f51",
+          "motivo": "Otra pieza del modelo policial que cita el resumen, distinta de la primera: desmilitarizar la Guardia Civil; es breve y se vota con claridad.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [
+        "Ninguno que obligue a cambiar. La tercera (c-64d001d319) nombra tres leyes o pactos, pero todos van en la misma dirección y es la única medida de la línea de la Ley de Familias que no pasa de 80 palabras (c-018503bb6f tiene 81 y c-a286077bb3, 96); esa línea la destacan Colau y Urtasun en campaña. El permiso de 20 semanas (línea 2 del resumen) no está entre las candidatas."
+      ],
+      "elegidas": [
+        {
+          "id": "c-b95badd8c3",
+          "motivo": "Primera línea del resumen y su medida estrella: Prestación Universal por Crianza de 200 € al mes por menor sin depender de ingresos; lleva cifra, y Bustinduy dice en campaña que trabajan para que se adopte antes de las elecciones.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-462093eb69",
+          "motivo": "Línea de dependencia: subir la inversión del 0,8 % al 1,7 % del PIB en 2030, con cifra y plazo, como recoge el resumen.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-64d001d319",
+          "motivo": "Línea de la Ley de Familias que reconozca la diversidad familiar, que Colau destaca en campaña; es la única medida de esa línea que no pasa de 80 palabras.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [
+        "Ninguno. Las tres siguen el orden de las líneas del resumen (Sociedades al 20 %, patrimonio al 2 %, rebaja del IRPF hasta 27.000 euros). El tope de 10 millones por heredero (c-66c5401699) es lo más reciente de la campaña, pero es la línea 4 del resumen, roza el límite (79 palabras) y acaba de forma confusa («hasta un máximo de 5»); cambiar la rebaja del IRPF por ella dejaría el retrato solo en subidas y lo haría más extremo que el programa."
+      ],
+      "elegidas": [
+        {
+          "id": "c-a9de281ff2",
+          "motivo": "Primera línea del resumen: que el esfuerzo fiscal recaiga sobre las grandes empresas, con un tipo mínimo real del 20 % en Sociedades sin subir a las pymes; la nota de campaña del 5 de noviembre insiste en que la gran empresa y la banca pagan entre el 7 y el 9 %.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-947178d4ea",
+          "motivo": "Segunda línea: un mínimo del 2 % para patrimonios de más de un millón y 3 puntos más desde 50 millones; la repiten dos notas de campaña (5 de noviembre y 24 de octubre).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-86af3051ff",
+          "motivo": "Tercera línea: bajar el IRPF a los salarios de hasta 27.000 euros, la parte de rebajas de su reforma; sin ella el retrato quedaría solo en subidas.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    }
+  ]
+}

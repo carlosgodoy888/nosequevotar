@@ -1,0 +1,393 @@
+{
+  "fuente": "d21-estado-proactivo",
+  "partido": "d21",
+  "paginas": [
+    1,
+    4
+  ],
+  "citas": [
+    {
+      "cita": "El mayor fracaso del Estado de Bienestar en España no es la falta de recursos, sino la barrera burocrática que separa a los ciudadanos de sus propios derechos.",
+      "pagina": 2,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La burocracia como barrera de acceso a derechos sociales",
+      "etiquetas": [
+        "burocracia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Estado ya dispone de nuestros datos y su deber es ponerlos directamente al servicio inmediato y automático de las personas.",
+      "pagina": 2,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Uso de datos públicos para prestaciones automáticas",
+      "etiquetas": [
+        "administración pública",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ayudas Que Funcionen: el Estado dejará de esperar a que el ciudadano descubra, solicite y justifique los derechos que legalmente le corresponden. Una Ley de Administración Proactiva reconocerá el derecho a no tener que pedir lo que ya te corresponde, y fijará qué prestaciones se conceden de oficio, qué datos se cruzan, con qué finalidad exclusiva y cómo puede cada persona oponerse o corregir sus datos.",
+      "pagina": 2,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado al servicio del ciudadano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de Administración Proactiva con prestaciones de oficio",
+      "etiquetas": [
+        "administración pública",
+        "servicios sociales",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mediante el cruce inteligente de datos públicos, la Administración resolverá de oficio y concederá automáticamente prestaciones y deducciones, notificando directamente al ciudadano en su teléfono móvil o por correo postal si así lo prefiere. Cuando falte algún dato, recibirá una propuesta ya calculada que podrá aceptar con un clic o en persona a través de la administración competente, garantizando la atención con o sin cita previa.",
+      "pagina": 2,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado al servicio del ciudadano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Concesión automática de prestaciones y deducciones por cruce de datos",
+      "etiquetas": [
+        "administración pública",
+        "servicios sociales",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Así funcionará, por ejemplo, en la asignación directa de becas de estudio (cruzando renta y expediente académico sin formularios) o en el caso de un nacimiento (activando al instante deducciones en IRPF o prestaciones familiares de forma automática al registrar al recién nacido, como ya recomienda la AIReF).",
+      "pagina": 2,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado al servicio del ciudadano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Becas y ayudas por nacimiento concedidas automáticamente",
+      "etiquetas": [
+        "educación",
+        "familia",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Red Inteligente de Alerta Social: desplegaremos un sistema público de alerta prioritaria que cruzará datos de empleo, ingresos fiscales y Seguridad Social para detectar de forma temprana a los hogares en situación de exclusión o pobreza infantil.",
+      "pagina": 2,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado al servicio del ciudadano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sistema de alerta para detectar exclusión y pobreza infantil",
+      "etiquetas": [
+        "servicios sociales",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Esos datos solo podrán usarse para ofrecer ayudas, nunca para sancionar ni para controlar el fraude, y el sistema estará sujeto a la supervisión de la Agencia Española de Protección de Datos. En lugar de exigir a familias vulnerables que naveguen por la burocracia, a través de los servicios sociales la Administración se pondrá en contacto proactivamente con ellas para tramitar de oficio el Ingreso Mínimo Vital (IMV), el Complemento de Ayuda para la Infancia (CAPI) u otras prestaciones sociales esenciales.",
+      "pagina": 2,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado al servicio del ciudadano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Uso limitado de datos y tramitación de oficio del IMV y CAPI",
+      "etiquetas": [
+        "servicios sociales",
+        "infancia",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Gestión Proactiva y Liquidez en Máximo 72 horas: crearemos una plataforma unificada que combinará los datos de todas las administraciones y organismos públicos, incluido el Consorcio de Compensación de Seguros, y que se activará de oficio.",
+      "pagina": 3,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Plataforma estatal de gestión de ayudas ante catástrofes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plataforma unificada de ayudas ante catástrofes activada de oficio",
+      "etiquetas": [
+        "emergencias",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se aplicará el principio de generosidad y presunción de buena fe inicial para entregar liquidez inmediata: los pagos de urgencia de hasta 1.000€ se realizarán por transferencia inmediata a la cuenta que ya conste en Hacienda o la Seguridad Social (o por Bizum, si el ciudadano lo prefiere; y mediante tarjeta prepago o en los puntos de atención para quien no tenga cuenta bancaria) y el resto de las cuantías mediante transferencia bancaria en un plazo máximo de 72 horas fijado por ley.",
+      "pagina": 3,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Plataforma estatal de gestión de ayudas ante catástrofes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pagos de urgencia de hasta 1.000 euros en 72 horas",
+      "etiquetas": [
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El primer pago alcanzará también a autónomos y pequeños negocios afectados, para que puedan reabrir cuanto antes, garantizando además puntos móviles de atención presencial en zonas sin conectividad.",
+      "pagina": 3,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Plataforma estatal de gestión de ayudas ante catástrofes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Primer pago a autónomos y negocios; puntos móviles de atención presencial",
+      "etiquetas": [
+        "emergencias",
+        "autónomos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para la concesión de mayores ayudas, se evaluarán los daños materiales en el menor tiempo posible mediante imágenes satelitales (empleando para ello el sistema Copernicus), drones, datos del Catastro o la DGT, e información e imágenes proporcionadas por los propios afectados a través de sus teléfonos móviles, con un mapa de afectación disponible en 24 horas que determine quién recibe el primer pago sin pedirlo.",
+      "pagina": 3,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Plataforma estatal de gestión de ayudas ante catástrofes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Evaluación de daños por satélite y mapa de afectación en 24 horas",
+      "etiquetas": [
+        "emergencias",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Todo el proceso estará monitorizado a través de un Portal Público de Transparencia que garantice la máxima trazabilidad del dinero público, mostrando para cada municipio cuánto se ha prometido, cuánto se ha pagado y a cuántas personas, y permitiendo a los ciudadanos ampliar posteriormente las declaraciones de daños no detectados.",
+      "pagina": 3,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Plataforma estatal de gestión de ayudas ante catástrofes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Portal público sobre ayudas prometidas y pagadas por municipio",
+      "etiquetas": [
+        "transparencia",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si un pago resulta indebido por error de la Administración, se reclamará sin recargos y a plazos; si el error es de un ciudadano de buena fe, la devolución será sin recargos ni sanción.",
+      "pagina": 3,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Plataforma estatal de gestión de ayudas ante catástrofes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Devolución de pagos indebidos sin recargos ni sanción",
+      "etiquetas": [
+        "emergencias",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reconstrucción Sin Cuellos de Botella: crearemos una unidad estatal de apoyo técnico a los ayuntamientos afectados, que asumirá proyectos, contratación y ejecución de obras cuando lo soliciten, porque es ahí donde hoy se atasca la reconstrucción. Ofreceremos este modelo como parte operativa de un acuerdo de país frente a la emergencia climática, con ayudas diseñadas por ley antes de que ocurra la próxima catástrofe.",
+      "pagina": 3,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Plataforma estatal de gestión de ayudas ante catástrofes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Unidad estatal de apoyo a ayuntamientos y ayudas fijadas por ley",
+      "etiquetas": [
+        "emergencias",
+        "municipios",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Capacidades Públicas y Compra Innovadora: reforzaremos los equipos tecnológicos propios de la Administración para no depender de consultoras ni de un único proveedor.",
+      "pagina": 4,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado innovador y con algoritmos transparentes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Equipos tecnológicos propios de la Administración",
+      "etiquetas": [
+        "administración pública",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Estado no se limitará a comprar tecnología: la impulsará para que startups, PYMES y centros de investigación españoles desarrollen soluciones como la evaluación de daños por satélite o los sistemas de alerta temprana.",
+      "pagina": 4,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado innovador y con algoritmos transparentes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Compra pública innovadora a empresas y centros españoles",
+      "etiquetas": [
+        "contratación pública",
+        "ciencia y tecnología",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y lo que se financie con dinero público será reutilizable por todas las administraciones, con retorno para el contribuyente.",
+      "pagina": 4,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado innovador y con algoritmos transparentes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tecnología financiada con dinero público reutilizable entre administraciones",
+      "etiquetas": [
+        "administración pública",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Inteligencia Artificial y Algoritmos con Garantías: todo algoritmo público que decida sobre derechos se inscribirá en un registro público, con su finalidad, los datos que usa y sus resultados, y con código abierto por defecto en línea con la sentencia BOSCO del Tribunal Supremo, para que ningún ciudadano tenga que litigar para conocerlo.",
+      "pagina": 4,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado innovador y con algoritmos transparentes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro público y código abierto de algoritmos públicos",
+      "etiquetas": [
+        "inteligencia artificial",
+        "transparencia",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada sistema contará con evaluación de impacto sobre derechos fundamentales y auditorías independientes bajo la supervisión de la Agencia Española de Supervisión de la Inteligencia Artificial (AESIA), y cumplirá el Reglamento Europeo de IA.",
+      "pagina": 4,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado innovador y con algoritmos transparentes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Evaluación de impacto y auditorías de algoritmos públicos",
+      "etiquetas": [
+        "inteligencia artificial",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Publicaremos cada año un informe de errores con cuántas ayudas se han concedido, denegado o revisado y con qué tasa de error.",
+      "pagina": 4,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado innovador y con algoritmos transparentes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Informe anual de errores en la concesión de ayudas",
+      "etiquetas": [
+        "transparencia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ninguna denegación la decidirá solo una máquina: siempre la revisará una persona.",
+      "pagina": 4,
+      "apartado": [
+        "Un Estado proactivo que llegue antes de que tengas que pedirlo",
+        "Un Estado innovador y con algoritmos transparentes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión humana obligatoria de denegaciones automatizadas",
+      "etiquetas": [
+        "inteligencia artificial",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

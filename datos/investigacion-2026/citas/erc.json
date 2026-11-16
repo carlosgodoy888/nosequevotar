@@ -1,14 +1,16 @@
 {
   "partido": "erc",
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-16",
   "fuentes": [
     "erc-programa-2026"
   ],
   "resumen": {
-    "vigentes": 527,
-    "medidas": 453,
+    "vigentes": 532,
+    "medidas": 454,
     "medidas_concretas": 280,
-    "posiciones": 74,
+    "posiciones": 78,
+    "de_programa": 527,
+    "declaraciones": 5,
     "exactas": 522,
     "normalizadas": 5,
     "sustituidas": 0
@@ -14589,6 +14591,119 @@
       "verificacion": "exacta",
       "estado": "vigente",
       "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-8f29ca0ff1",
+      "partido": "erc",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": false,
+      "cita": "Cal prohibir l’especulació o fregir a impostos qui es vulgui fer ric amb l’habitatge",
+      "traduccion": "Hay que prohibir la especulación o freír a impuestos a quien se quiera hacer rico con la vivienda",
+      "idioma": "ca",
+      "url": "https://www.tarragonaradio.cat/rufian-reivindica-a-tarragona-erc-com-lunic-cami-per-a-catalunya/",
+      "medio": "Tarragona Ràdio",
+      "quien": "Gabriel Rufián",
+      "cargo": "cabeza de lista de ERC al Congreso por Barcelona y portavoz de ERC en el Congreso",
+      "partido_de_quien": "ERC",
+      "fecha": "2026-11-12",
+      "nota": "Prohibir la especulación o gravar fuertemente la vivienda especulativa",
+      "temas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-cc2697259c",
+      "partido": "erc",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Hacen falta impuestos a las grandes fortunas y no al trabajo",
+      "idioma": "es",
+      "url": "https://www.elnacional.cat/es/politica/rufian-aboga-por-gobierno-psoe-sometido-izquierdas-soberanistas-despues-29n_1725497_102.html",
+      "medio": "ElNacional.cat",
+      "quien": "Gabriel Rufián",
+      "cargo": "cabeza de lista de ERC al Congreso por Barcelona y portavoz de ERC en el Congreso",
+      "partido_de_quien": "ERC",
+      "fecha": "2026-11-13",
+      "nota": "Trasladar la carga fiscal del trabajo a las grandes fortunas",
+      "temas": [
+        "impuestos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-bdf5095ad4",
+      "partido": "erc",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Me gustaría que una izquierda española pudiera ganar, pero soy realista e intento tratar a la gente como los adultos que son y quiero un gobierno del PSOE sometido a las izquierdas soberanistas",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/catalunya/rufian-montero-defienden-palma-izquierda-no-someta-psoe-frente_1_13663237.html",
+      "medio": "elDiario.es",
+      "quien": "Gabriel Rufián",
+      "cargo": "cabeza de lista de ERC al Congreso por Barcelona y portavoz de ERC en el Congreso",
+      "partido_de_quien": "ERC",
+      "fecha": "2026-11-13",
+      "nota": "Prefiere un Gobierno del PSOE condicionado por partidos soberanistas",
+      "temas": [
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-348321bb10",
+      "partido": "erc",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "En este país hay un problema con la multirreincidencia, no con la delincuencia",
+      "idioma": "es",
+      "url": "https://www.elnacional.cat/es/politica/rufian-pone-rumbo-29n-avisando-efectos-mayoria-pp-vox-acusando-junts-colaboracionismo_1724819_102.html",
+      "medio": "ElNacional.cat",
+      "quien": "Gabriel Rufián",
+      "cargo": "cabeza de lista de ERC al Congreso por Barcelona y portavoz de ERC en el Congreso",
+      "partido_de_quien": "ERC",
+      "fecha": "2026-11-12",
+      "nota": "Sitúa el problema de seguridad en la multirreincidencia",
+      "temas": [
+        "seguridad-y-justicia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-0ee3b08983",
+      "partido": "erc",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "por mucho que le pongas a un tren una estación de Rodalies y un maquinista indepe, no llegará antes. Hay que poner pasta donde toca porque queremos competir con China mientras se olvidan de la clase trabajadora",
+      "idioma": "es",
+      "url": "https://www.eldiario.es/catalunya/rufian-ironiza-posible-gobierno-pp-vox-viene-figo-ministro-deportes-e-iker-jimenez-telediario_1_13659975.html",
+      "medio": "elDiario.es",
+      "quien": "Gabriel Rufián",
+      "cargo": "cabeza de lista de ERC al Congreso por Barcelona y portavoz de ERC en el Congreso",
+      "partido_de_quien": "ERC",
+      "fecha": "2026-11-12",
+      "nota": "Pide más inversión en Rodalies en lugar de cambios simbólicos en el servicio",
+      "temas": [
+        "transporte",
+        "organizacion-territorial"
+      ],
+      "verificacion": "fuente-abierta-corregida",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
     }
   ]
 }

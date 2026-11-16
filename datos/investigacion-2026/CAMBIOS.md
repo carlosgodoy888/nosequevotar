@@ -32,3 +32,30 @@ Lo escribe `scripts/investigacion/unir-citas.mjs` cada vez que cambian las citas
 - 2026-11-11 · podemos · podemos-documento-politico-2025: 99 citas nuevas y 0 sustituidas. Quedan 160 vigentes.
 - 2026-11-12 · vox · vox-programa-2026, vox-programa-desregulacion-2026: 229 citas nuevas y 0 sustituidas. Quedan 413 vigentes.
 - 2026-11-12 · pacma · declaraciones: 16 citas nuevas. Quedan 59 vigentes.
+- 2026-11-16 · d21 · d21-espana-limpia → d21-espana-limpia-v2: edición nueva del mismo documento. 83 citas pasan a la paginación nueva; ninguna se pierde.
+- 2026-11-16 · d21 · d21-vivienda, d21-educacion, d21-administracion-moderna-digital, d21-autonomo-estamos-contigo, d21-ciencia, d21-contigo-y-con-tu-familia, d21-cultura, d21-deporte, d21-derechos-sociales, d21-estado-proactivo, d21-funcion-publica-independiente, d21-impuestos-justificados-que-se-entiendan, d21-infraestructuras-y-crecimiento-sostenibles, d21-mas-salario-mas-productividad, d21-medio-ambiente-anticipacion-climatica, d21-menos-normas-mas-claras-y-estables, d21-politica-migratoria-con-cabeza, d21-potencia-energetica, d21-proteccion-animal-veterinarios, d21-redefiniendo-el-envejecimiento, d21-revolucion-pyme, d21-sanidad-publica, d21-seguridad-defensa-mundo-hoy, d21-union-europea-siglo-21: 488 citas nuevas y 0 sustituidas. Quedan 671 vigentes.
+- 2026-11-16 · eh-bildu · eh-bildu-programa-2026: 278 citas nuevas y 0 sustituidas. Quedan 343 vigentes.
+- 2026-11-16 · compromis-front-valencia · compromis-programa-2026: 587 citas nuevas y 0 sustituidas. Quedan 651 vigentes.
+- 2026-11-16 · frente-amplio · frente-amplio-programa-2026: 1136 citas nuevas y 0 sustituidas. Quedan 1194 vigentes.
+- 2026-11-16 · pacma · pacma-programa-2026: 519 citas nuevas y 0 sustituidas. Quedan 578 vigentes.
+- 2026-11-16 · psoe · psoe-programa-2026: 693 citas nuevas y 0 sustituidas. Quedan 755 vigentes.
+- 2026-11-16 · bng · declaraciones: 14 citas nuevas. Quedan 683 vigentes.
+- 2026-11-16 · cc-primero-canarias · declaraciones: 13 citas nuevas. Quedan 236 vigentes.
+- 2026-11-16 · compromis-front-valencia · declaraciones: 14 citas nuevas. Quedan 665 vigentes.
+- 2026-11-16 · d21 · declaraciones: 7 citas nuevas. Quedan 678 vigentes.
+- 2026-11-16 · eaj-pnv · declaraciones: 10 citas nuevas. Quedan 314 vigentes.
+- 2026-11-16 · eh-bildu · declaraciones: 12 citas nuevas. Quedan 355 vigentes.
+- 2026-11-16 · erc · declaraciones: 5 citas nuevas. Quedan 532 vigentes.
+- 2026-11-16 · frente-amplio · declaraciones: 13 citas nuevas. Quedan 1207 vigentes.
+- 2026-11-16 · frente-obrero · declaraciones: 1 citas nuevas. Quedan 249 vigentes.
+- 2026-11-16 · junts · declaraciones: 7 citas nuevas. Quedan 97 vigentes.
+- 2026-11-16 · pacma · declaraciones: 1 citas nuevas. Quedan 579 vigentes.
+- 2026-11-16 · podemos · declaraciones: 9 citas nuevas. Quedan 169 vigentes.
+- 2026-11-16 · pp · declaraciones: 13 citas nuevas. Quedan 804 vigentes.
+- 2026-11-16 · psoe · declaraciones: 6 citas nuevas. Quedan 761 vigentes.
+- 2026-11-16 · salf · declaraciones: 10 citas nuevas. Quedan 264 vigentes.
+- 2026-11-16 · unidad-del-pueblo-canario · declaraciones: 6 citas nuevas. Quedan 60 vigentes.
+- 2026-11-16 · upn-pp · declaraciones: 6 citas nuevas. Quedan 84 vigentes.
+- 2026-11-16 · vox · declaraciones: 7 citas nuevas. Quedan 420 vigentes.
+- 2026-11-16 · temas · orden estándar: de más a menos citado como problema en el barómetro del CIS de octubre de 2026 (estudio 3582). Ver orden-temas.md.
+- 2026-11-16 · test · banco de tarjetas de 2026: 746 tarjetas de 15 candidaturas en 18 temas (tarjetas/seleccion.json). Aprobado el 2026-11-16.

@@ -1,0 +1,673 @@
+{
+  "fuente": "d21-cultura",
+  "partido": "d21",
+  "paginas": [
+    1,
+    6
+  ],
+  "citas": [
+    {
+      "cita": "La cultura es un derecho, no un privilegio: es parte de nuestra identidad y nuestra convivencia.",
+      "pagina": 2,
+      "apartado": [
+        "Cultura y talento que proyecten a España al mundo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La cultura como derecho e identidad compartida",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde democracia21 defendemos una cultura despolitizada, accesible y con ambición internacional.",
+      "pagina": 2,
+      "apartado": [
+        "Cultura y talento que proyecten a España al mundo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo de cultura despolitizada, accesible e internacional",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proponemos un cambio de mirada: merecemos un Estado comprometido con el arte y la cultura, que acompañe sin tutelar.",
+      "pagina": 2,
+      "apartado": [
+        "Cultura y talento que proyecten a España al mundo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Papel del Estado en la cultura sin tutela",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Una Ley del Cine para Competir y Ganar: aprobaremos una nueva ley, escrita con el sector, que por fin distinga entre el cine y el resto del audiovisual, dos realidades industriales que las últimas reformas han confundido.",
+      "pagina": 2,
+      "apartado": [
+        "España, potencia audiovisual de Europa",
+        "Una Ley del Cine para Competir y Ganar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva ley del cine separada del resto del audiovisual",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Su prioridad será la competitividad: unificaremos el incentivo fiscal estatal en un 35% desde el primer euro, con el 40% como horizonte, y elevaremos los topes por proyecto; Hacienda medirá el retorno fiscal real del audiovisual en impuestos y empleo para seguir avanzando con datos.",
+      "pagina": 2,
+      "apartado": [
+        "España, potencia audiovisual de Europa",
+        "Una Ley del Cine para Competir y Ganar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivo fiscal estatal al audiovisual del 35%",
+      "etiquetas": [
+        "cultura",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y reduciremos la brecha entre Comunidades Autónomas, para que el lugar donde se rueda dependa del talento y no del código postal. Reglas estables por fin y una ventanilla única digital que resuelva en 30 días.",
+      "pagina": 2,
+      "apartado": [
+        "España, potencia audiovisual de Europa",
+        "Una Ley del Cine para Competir y Ganar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Igualar incentivos al rodaje entre comunidades y ventanilla única",
+      "etiquetas": [
+        "cultura",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Modelo Francés, a la Española: convertiremos el ICAA en un Centro Nacional del Cine y el Audiovisual independiente y dirigido por méritos, con un fondo plurianual fijado por ley para cinco años y vinculado al retorno fiscal que el propio sector genera, para que no dependa de cada presupuesto anual.",
+      "pagina": 2,
+      "apartado": [
+        "España, potencia audiovisual de Europa",
+        "El Modelo Francés, a la Española"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transformar el ICAA en un centro nacional independiente",
+      "etiquetas": [
+        "cultura",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada euro de taquilla, audiencia o venta internacional generará derechos que la productora reinvertirá en su siguiente proyecto, y las ayudas selectivas se concentrarán en lo que el mercado no cubre: nuevos talentos, guion, documental y riesgo creativo.",
+      "pagina": 2,
+      "apartado": [
+        "España, potencia audiovisual de Europa",
+        "El Modelo Francés, a la Española"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas automáticas por resultados y selectivas para nuevos talentos",
+      "etiquetas": [
+        "cultura",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentar la Inversión: nuestro talento no necesita tutela política, necesita capital.",
+      "pagina": 3,
+      "apartado": [
+        "España, potencia audiovisual de Europa",
+        "Fomentar la Inversión"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Prioridad de la inversión privada sobre la tutela pública",
+      "etiquetas": [
+        "cultura",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos las Sociedades de Inversión Cultural, inspiradas en las SOFICA francesas, para que cualquier ciudadano o empresa invierta en carteras de películas, series, discos, libros o videojuegos españoles con una deducción fiscal atractiva.",
+      "pagina": 3,
+      "apartado": [
+        "España, potencia audiovisual de Europa",
+        "Fomentar la Inversión"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sociedades de inversión cultural con deducción fiscal",
+      "etiquetas": [
+        "cultura",
+        "impuestos",
+        "ahorro"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Junto al ICO, como inversor ancla, reforzaremos las sociedades de garantía recíproca especializadas para que las productoras independientes obtengan crédito bancario con su catálogo como aval.",
+      "pagina": 3,
+      "apartado": [
+        "España, potencia audiovisual de Europa",
+        "Fomentar la Inversión"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Garantías para crédito a productoras independientes con el ICO",
+      "etiquetas": [
+        "cultura",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "RTVE de Todos, Gobierne Quien Gobierne: un comité de expertos independientes evaluará en concurso público los proyectos de los candidatos al Consejo de RTVE. Los defenderán en audiencias abiertas, y las Cortes elegirán entre los mejor valorados por dos tercios, sin atajos, un consejo reducido y profesional con mandatos de seis años.",
+      "pagina": 3,
+      "apartado": [
+        "Instituciones culturales libres de partidismo",
+        "RTVE de Todos, Gobierne Quien Gobierne"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Elección del Consejo de RTVE por concurso y dos tercios",
+      "etiquetas": [
+        "medios de comunicación",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y para que su apoyo al cine no dependa de quién dirija RTVE, un contrato-programa plurianual y vinculante garantizará su financiación, y su inversión en cine y producción independiente será un porcentaje mínimo de sus ingresos fijado por ley.",
+      "pagina": 3,
+      "apartado": [
+        "Instituciones culturales libres de partidismo",
+        "RTVE de Todos, Gobierne Quien Gobierne"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Contrato-programa de RTVE e inversión mínima en cine",
+      "etiquetas": [
+        "medios de comunicación",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La Agencia EFE tendrá su propia ley con el mismo modelo.",
+      "pagina": 3,
+      "apartado": [
+        "Instituciones culturales libres de partidismo",
+        "RTVE de Todos, Gobierne Quien Gobierne"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley propia para la Agencia EFE con el modelo de RTVE",
+      "etiquetas": [
+        "medios de comunicación",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Publicidad Institucional para Informar, No para Influir: la publicidad institucional existe para contar al ciudadano lo que le importa, no para premiar o castigar a los medios y a través de ellos al sector cultural. Fijaremos por ley criterios objetivos de reparto basados en audiencias verificadas y en la eficacia de cada campaña, y el cumplimiento de esos objetivos se auditará de forma periódica, haciéndose públicos los resultados.",
+      "pagina": 3,
+      "apartado": [
+        "Instituciones culturales libres de partidismo",
+        "Publicidad Institucional para Informar, No para Influir"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Criterios legales de reparto de la publicidad institucional",
+      "etiquetas": [
+        "publicidad",
+        "medios de comunicación",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La CNMC, como autoridad audiovisual independiente, vigilará que la prohibición de la autopromoción se cumpla de verdad, y cualquier otra ayuda a los medios se concederá solo por convocatoria pública y competitiva.",
+      "pagina": 3,
+      "apartado": [
+        "Instituciones culturales libres de partidismo",
+        "Publicidad Institucional para Informar, No para Influir"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Control de la CNMC y ayudas a medios por convocatoria",
+      "etiquetas": [
+        "medios de comunicación",
+        "publicidad",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cultura Dirigida por los Mejores, No por los Afines: las direcciones de los museos nacionales, los teatros y auditorios públicos, la Biblioteca Nacional o la Filmoteca se elegirán por concurso internacional de méritos, con un comité independiente y un proyecto de gestión defendido en público. Sus mandatos serán de cinco años, desligados del calendario electoral, y solo podrán terminar antes por causas tasadas. A cambio, cada dirección asumirá objetivos públicos (visitantes, ingresos propios, proyección internacional) evaluados con datos abiertos, y ganará autonomía para contratar, programar y atraer patrocinio con agilidad, como ya hace el Prado.",
+      "pagina": 3,
+      "apartado": [
+        "Instituciones culturales libres de partidismo",
+        "Cultura Dirigida por los Mejores, No por los Afines"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Direcciones de instituciones culturales por concurso de méritos",
+      "etiquetas": [
+        "cultura",
+        "instituciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Inteligencia Artificial que Respete a Quien Crea: la IA es una gran oportunidad, pero sin autores, artistas, ejecutantes, editores y productores no hay contenidos de calidad que la alimenten.",
+      "pagina": 4,
+      "apartado": [
+        "Crear con derechos en la era de la IA",
+        "Inteligencia Artificial que Respete a Quien Crea"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La inteligencia artificial depende del trabajo de los creadores",
+      "etiquetas": [
+        "inteligencia artificial",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exigiremos, en España y liderando el debate en Europa, que los desarrolladores informen de las obras con las que entrenan sus modelos, obtengan licencia y remuneren de forma justa a sus titulares, y que el uso de la IA en los procesos creativos sea transparente: los códigos voluntarios no han bastado.",
+      "pagina": 4,
+      "apartado": [
+        "Crear con derechos en la era de la IA",
+        "Inteligencia Artificial que Respete a Quien Crea"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Licencia y remuneración por las obras usadas para entrenar IA",
+      "etiquetas": [
+        "inteligencia artificial",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Como en algunas plataformas más de un tercio de la música nueva ya es generada por IA, haremos obligatorio y visible el etiquetado “Generado por IA” o “Asistido por IA”, partiendo del estándar que la industria musical internacional lanzó este año.",
+      "pagina": 4,
+      "apartado": [
+        "Crear con derechos en la era de la IA",
+        "Inteligencia Artificial que Respete a Quien Crea"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Etiquetado obligatorio de contenidos generados por IA",
+      "etiquetas": [
+        "inteligencia artificial",
+        "cultura",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El público tiene derecho a saber qué escucha, qué lee y qué ve.",
+      "pagina": 4,
+      "apartado": [
+        "Crear con derechos en la era de la IA",
+        "Inteligencia Artificial que Respete a Quien Crea"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Derecho del público a identificar contenidos hechos con IA",
+      "etiquetas": [
+        "inteligencia artificial",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Propiedad Intelectual que se Cumpla: pondremos en marcha la Oficina Española de Derechos de Autor, como una agencia digital y ágil, y dotaremos de medios reales a la Comisión de Propiedad Intelectual, actualizando la compensación por copia privada.",
+      "pagina": 4,
+      "apartado": [
+        "Crear con derechos en la era de la IA",
+        "Propiedad Intelectual que se Cumpla"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Oficina Española de Derechos de Autor y copia privada",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vivir de Crear: completaremos el Estatuto del Artista, que acogerá también al personal técnico y de apoyo, e impulsará la profesionalización de todos sus oficios. Tendrá una fiscalidad que reconozca de verdad la irregularidad de los ingresos y la alternancia entre etapas de creación y de representación, protección real de la maternidad en carreras intermitentes y programas de transición profesional para quienes, como bailarines o intérpretes, ven acortarse su carrera. Y todos sus trámites (altas, contratos, prestaciones) en una sola ventanilla digital.",
+      "pagina": 4,
+      "apartado": [
+        "Crear con derechos en la era de la IA",
+        "Vivir de Crear"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Completar el Estatuto del Artista con fiscalidad y protección propias",
+      "etiquetas": [
+        "cultura",
+        "empleo",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "España, Potencia Musical: impulsaremos un incentivo fiscal a la producción discográfica, como los que ya funcionan en otros países europeos, y mejoraremos las deducciones de la música en directo.",
+      "pagina": 4,
+      "apartado": [
+        "Todas las artes, en toda España",
+        "España, Potencia Musical"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivo fiscal a la producción discográfica",
+      "etiquetas": [
+        "cultura",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Bajaremos al 10% el IVA de la música grabada, que sigue al 21%, y frenaremos la reventa especulativa.",
+      "pagina": 4,
+      "apartado": [
+        "Todas las artes, en toda España",
+        "España, Potencia Musical"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "IVA del 10% para la música grabada y freno a la reventa",
+      "etiquetas": [
+        "impuestos",
+        "cultura",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acompañaremos a los artistas emergentes de todo el país con programas de formación junto a empresas, instituciones y tercer sector (entre otros actores, la Federación de la Música en España), para que puedan construir carreras sostenibles.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las artes, en toda España",
+        "España, Potencia Musical"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas de formación para artistas emergentes",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Videojuego, Obra Compleja e Industria de Futuro: defenderemos que las reglas del mercado digital se fijen en Europa, sin trabas nacionales que dejen en desventaja a nuestros estudios. Aprobaremos un crédito fiscal del 30% para su producción y financiación.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las artes, en toda España",
+        "El Videojuego, Obra Compleja e Industria de Futuro"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Crédito fiscal del 30% para el videojuego",
+      "etiquetas": [
+        "cultura",
+        "impuestos",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Recuperaremos ayudas estables a los prototipos, crearemos con el ICO un mecanismo de coinversión para que nazcan publishers españoles que financien grandes proyectos sin ceder su propiedad intelectual, y lanzaremos el Spain Video Games Hub.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las artes, en toda España",
+        "El Videojuego, Obra Compleja e Industria de Futuro"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas a prototipos y coinversión del ICO en videojuegos",
+      "etiquetas": [
+        "cultura",
+        "subvenciones",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Escena Viva en Cada Rincón: las ayudas a compañías, salas y festivales serán plurianuales y se resolverán antes de empezar la temporada, no a mitad. Con un sistema de datos de taquilla en tiempo real que permitirá programar con información.",
+      "pagina": 5,
+      "apartado": [
+        "Todas las artes, en toda España",
+        "Escena Viva en Cada Rincón"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas plurianuales a artes escénicas y datos de taquilla",
+      "etiquetas": [
+        "cultura",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cultura para Todos, Sin Excepción: fomentamos que ningún estudiante termine la ESO sin haber ido al teatro, a un concierto, a un museo y a una sala de cine.",
+      "pagina": 5,
+      "apartado": [
+        "Cultura sin barreras ni fronteras",
+        "Cultura para Todos, Sin Excepción"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Acceso de todo el alumnado de la ESO a la cultura",
+      "etiquetas": [
+        "cultura",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y reforzaremos las enseñanzas artísticas, de los conservatorios a las escuelas de arte dramático.",
+      "pagina": 5,
+      "apartado": [
+        "Cultura sin barreras ni fronteras",
+        "Cultura para Todos, Sin Excepción"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de las enseñanzas artísticas",
+      "etiquetas": [
+        "educación",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Toda obra con apoyo público incorporará desde su origen subtitulado, audiodescripción y lengua de signos, y cines y teatros ofrecerán sesiones accesibles regulares, apoyadas en aplicaciones que sincronizan estos servicios en el móvil.",
+      "pagina": 5,
+      "apartado": [
+        "Cultura sin barreras ni fronteras",
+        "Cultura para Todos, Sin Excepción"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Accesibilidad obligatoria en obras con apoyo público",
+      "etiquetas": [
+        "cultura",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos la gratuidad de la entrada a los museos públicos para todos los españoles durante los fines de semana, comenzando por los museos de titularidad estatal y promoviendo acuerdos con las Comunidades Autónomas y los Ayuntamientos para extender progresivamente esta medida.",
+      "pagina": 5,
+      "apartado": [
+        "Cultura sin barreras ni fronteras",
+        "Cultura para Todos, Sin Excepción"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Entrada gratuita a museos públicos los fines de semana",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "España Crea, el Mundo Mira: la cultura es uno de los principales activos de España y una fuente de influencia internacional tanto para España como para Europa.",
+      "pagina": 5,
+      "apartado": [
+        "Cultura sin barreras ni fronteras",
+        "España Crea, el Mundo Mira"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "La cultura como fuente de influencia internacional",
+      "etiquetas": [
+        "cultura",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos un Plan de Internacionalización de la Cultura española y en español, con una sola estrategia, una marca país y una ventanilla única, inspirado en la continuidad y la especialización de Unifrance.",
+      "pagina": 5,
+      "apartado": [
+        "Cultura sin barreras ni fronteras",
+        "España Crea, el Mundo Mira"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de internacionalización de la cultura con estrategia única",
+      "etiquetas": [
+        "cultura",
+        "política exterior"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Arte y la Cultura como Motores de Innovación y Transformación: abriremos líneas específicas en ENISA y el CDTI para la innovación y el desarrollo tecnológico aplicados a las artes y a las industrias culturales y creativas, e impulsaremos itinerarios formativos adaptados a sus necesidades técnicas, que profesionalicen el sector y retengan su talento.",
+      "pagina": 6,
+      "apartado": [
+        "Cultura sin barreras ni fronteras",
+        "El Arte y la Cultura como Motores de Innovación y Transformación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Líneas de ENISA y CDTI para innovación cultural",
+      "etiquetas": [
+        "cultura",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y cuidaremos los datos culturales (públicos, catálogos, archivos y colecciones) como el activo estratégico que son: bien gestionados y protegidos, son una palanca de desarrollo económico y social.",
+      "pagina": 6,
+      "apartado": [
+        "Cultura sin barreras ni fronteras",
+        "El Arte y la Cultura como Motores de Innovación y Transformación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Gestión y protección de los datos culturales",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

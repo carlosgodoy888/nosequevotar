@@ -1,0 +1,196 @@
+{
+  "partido": "frente-amplio",
+  "lote": "frente-amplio.2",
+  "temas": [
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        {
+          "id": "c-24161a37cc",
+          "motivo": "Representa su línea central de sanidad «100 % pública y de gestión directa»: derogar la ley que abrió la gestión privada y dejar la indirecta como excepción; es más concreta que la ley de gestión pública (c-e49e746046) y no lleva el «de nuevo» que alude a su trabajo anterior.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-06e335b5f8",
+          "motivo": "Línea de ampliar la cartera pública a la salud bucodental, la que más destaca en campaña (nota de prensa y Colau el 14-11), con la cifra del 50 % de la población que repiten.",
+          "texto": "Salud bucodental: Continuaremos la ampliación de la cobertura bucodental (menores hasta 14 años, embarazadas, mayores de 65 años, pacientes oncológicos específicos) hasta alcanzar al menos el 50 % de la población residente al final de la legislatura.",
+          "cambio": "Se ha quitado «realizada en esta legislatura» detrás de «cobertura bucodental», porque delata que la candidatura ha gobernado; no hay otra medida de bucodental equivalente."
+        },
+        {
+          "id": "c-2bf59bfd94",
+          "motivo": "Línea de financiación: suelo del 8 % del PIB para la sanidad pública, cifra que encabeza su postura en el tema.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-0db002f962",
+          "por_que_no": "Resume bien su postura, pero mezcla sanidad con educación (7 % del PIB, ratios, gratuidad): no se sabría qué se vota."
+        },
+        {
+          "id": "c-e49e746046",
+          "por_que_no": "Misma línea de gestión directa que la primera, menos concreta y con «Apostaremos de nuevo», que alude a su trabajo previo."
+        },
+        {
+          "id": "c-65a3b01437",
+          "por_que_no": "25 % del presupuesto para Atención Primaria es parte de su línea de financiación, pero el 8 % del PIB la representa mejor y ya está elegida."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        {
+          "id": "c-3f876c5370",
+          "motivo": "Su línea principal: reformar la Ley de Extranjería para tener un procedimiento estable y permanente de regularización; más general y duradera que culminar la regularización de 2026.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-04551aa623",
+          "motivo": "Línea de fronteras y detención: cierre de los CIE, medida clara y central de su bloque sobre la Frontera Sur.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-75dd491a02",
+          "motivo": "Línea de asilo: garantizar el acceso registrando la solicitud en 5 días, con plazos y consecuencia automática; más tangible para quien lee que la agencia unificada.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-80be2bcca3",
+          "por_que_no": "Culminar la regularización de 2026 es parte de su línea principal, pero es puntual; el procedimiento estable la representa mejor."
+        },
+        {
+          "id": "c-e932950acd",
+          "por_que_no": "Derogar el «rechazo en frontera» es de la misma línea que el cierre de los CIE; se prefiere esta, más sencilla de entender."
+        },
+        {
+          "id": "c-2d5a4126bc",
+          "por_que_no": "Cita en extranjería en 7 días está en su postura, pero es una línea más secundaria que regularización, CIE y asilo."
+        }
+      ],
+      "nota": "Ninguna medida candidata trata la ley integral contra el racismo que menciona el resumen."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        {
+          "id": "c-7dba353248",
+          "motivo": "Línea anticorrupción, la que más destaca en campaña (nota de prensa y Colau el 13-11): veto de veinte años a la contratación pública para condenados por corrupción, con cifra.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-0e33e41461",
+          "motivo": "Línea de reforma del sistema electoral: proporcionalidad directa a nivel nacional, el centro de sus propuestas de participación.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-76fa17bdc3",
+          "motivo": "Línea de transparencia en los medios: registro público de su propiedad y de la publicidad institucional que reciben.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-e4444c38be",
+          "por_que_no": "Oficina Independiente contra la Corrupción, igual de central, pero el veto de veinte años es lo que repiten en campaña."
+        },
+        {
+          "id": "c-f36fd088c3",
+          "por_que_no": "Voto a los 16 años es de la misma línea electoral que la proporcionalidad directa; se ha preferido cubrir los medios."
+        },
+        {
+          "id": "c-008adf13c5",
+          "por_que_no": "Rebajar las firmas de la ILP es de la línea de participación; menos central que el sistema electoral."
+        }
+      ],
+      "nota": "Su primera línea (República Federal, Jefatura del Estado elegida, derecho a decidir) no tiene ninguna medida candidata en el lote."
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        {
+          "id": "c-e546522172",
+          "motivo": "Su línea principal: ley que blinde el gasto en educación pública hasta el 7 % del PIB en 2030, con cifra y plazo.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-6477f813b4",
+          "motivo": "Línea de gratuidad: comedor escolar gratuito y universal en Infantil y Primaria públicas.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-d1ccf6002d",
+          "motivo": "Línea de que todos los fondos públicos vayan a la red pública: prohibir las cuotas en los concertados mientras existan, con el objetivo del 100 % de fondos a la pública.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-3fe9c7fa79",
+          "por_que_no": "Las ratios (15/20/23) son una línea principal, pero el texto empieza por «15 en Primaria…» y no se entiende solo; c-5d6862e291 termina en dos puntos."
+        },
+        {
+          "id": "c-22e7b626e4",
+          "por_que_no": "Universalizar 0-3 años es de su postura, pero mezcla 0-3 y comedor gratuito en una sola medida."
+        },
+        {
+          "id": "c-e554f3e2fd",
+          "por_que_no": "Retirar conciertos a centros que segregan es parte de la línea de fondos públicos, pero más parcial que la elegida."
+        }
+      ],
+      "nota": "Las ratios por aula quedan fuera porque ninguna de sus dos medidas se entiende sola."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        {
+          "id": "c-3cb6a198ab",
+          "motivo": "Su línea principal: compromiso legal de destinar el 3,5 % del PIB anual a la transición ecológica, cifra que encabeza su programa; más concreta que la versión de la introducción.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-be296fb898",
+          "motivo": "Línea de intervención pública en la energía: tres horas de luz gratis al día con la comercializadora pública, medida que el programa pone en su introducción.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-4b7f3026d7",
+          "motivo": "Línea nuclear: cumplir el calendario de cierre, con Almaraz en 2027-2028.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-6d646fc7e5",
+          "por_que_no": "Misma cifra del 3,5 % del PIB, pero redactada de forma más retórica («con valentía»)."
+        },
+        {
+          "id": "c-ac16169348",
+          "por_que_no": "Resume su línea energética, pero mezcla redes, comercializadora, luz gratis y autoconsumo en una sola medida."
+        },
+        {
+          "id": "c-24155a7783",
+          "por_que_no": "Titularidad pública de las redes, de la misma línea de intervención pública que la luz gratis; se ha preferido la que destaca la introducción."
+        }
+      ],
+      "nota": "La línea del agua pública, las zonas inundables, el 30 % protegido y las macrogranjas queda sin tarjeta en el test completo."
+    }
+  ]
+}

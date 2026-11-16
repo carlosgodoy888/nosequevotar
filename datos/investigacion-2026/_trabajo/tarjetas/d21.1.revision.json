@@ -1,0 +1,156 @@
+{
+  "partido": "d21",
+  "lote": "d21.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-ce7ec192d5",
+          "motivo": "Primera de sus tres medidas de emergencia y la que mejor resume su enfoque de «reconciliación»: limitar temporalmente los alquileres a cambio de que el Estado proteja a los pequeños propietarios (línea 2 del resumen); se entiende sola y tiene 63 palabras.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-7333578648",
+          "motivo": "Plan Nacional de Barrios a diez años, la «solución para siempre» del programa (línea 1 del resumen); la versión del apartado principal (c-19f38e34b6) pasa de 80 palabras. El «Por eso» inicial no impide entenderla.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-58d6ab03bc",
+          "motivo": "Cero impuestos en la compra de vivienda habitual a menores de 35 y rebaja para todos hasta 400.000 euros (línea 3 del resumen), con cifras; cubre la vertiente fiscal, distinta de las dos anteriores.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-284f62c0a0",
+          "motivo": "Despolitizar el salario mínimo encargándolo a un órgano técnico independiente (línea 2 del resumen); es la medida laboral más característica de su enfoque y se entiende sola.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-338346a920",
+          "motivo": "Cuota de autónomos optativa, automática y a mes vencido según lo facturado (línea 4 del resumen); a diferencia de c-c89de8dc64, deja claro que se refiere a los autónomos.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-24dc741385",
+          "motivo": "Cese de actividad parcial, un «ERTE» del autónomo ante caídas de ingresos (la otra medida de autónomos que recoge el resumen); concreta y distinta de la cuota. Las líneas 1 y 3 del resumen no tienen medida candidata.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-a2e8904a96",
+          "motivo": "Crear una empresa en una hora con un trámite 100% digital (línea 2 del resumen); medida con cifra y titular propio que mejor representa su apuesta por quitar trabas a la empresa. La línea 1 (sociedades al 5%) no tiene candidata.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-a369643043",
+          "motivo": "Zonas industriales con la evaluación ambiental resuelta y la red reservada (línea 3 del resumen); cubre la política industrial, distinta de la simplificación de trámites.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-d04788d0b3",
+          "motivo": "Evaluar la eficacia y el coste de los programas de gasto (línea 4 del resumen); cubre las cuentas públicas y se entiende sola.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-e904371c7f",
+          "motivo": "Dirección de hospitales y áreas de salud solo por concurso de mérito (línea 1 del resumen), primer apartado del programa sanitario y coherente con su idea central de despolitizar la Administración; más concreta que c-f1c5a700e6.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-23ba4e9ce1",
+          "motivo": "Abrir los centros públicos por la tarde con prioridad para los pacientes de la sanidad pública (línea 2 del resumen, listas de espera). El alquiler de horas a mutuas (c-6f38733168) empieza con «Y» y sus «tramos horarios vacantes» no se entienden sin la frase anterior.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-b0198db51f",
+          "motivo": "Sustituir progresivamente las guardias de 24 horas por turnos máximos de 12 (línea 3 del resumen, condiciones de los profesionales).",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-e4bc895f0a",
+          "motivo": "Visado de búsqueda de empleo de 6 meses con baremo de puntos y cupo según vacantes (líneas 1 y 2 del resumen): inmigración como activo económico con un Estado que decide quién entra; lleva cifras y plazos y concuerda con lo que dice en campaña.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-f3aab91c51",
+          "motivo": "Registro único para seguir cada orden de expulsión, con prioridad para quienes cometen delitos (línea 3 del resumen); cubre la vertiente de control.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-bf937fb1ff",
+          "motivo": "Itinerario de acogida gratuito con idioma, orientación laboral y Constitución (línea 4 del resumen); cubre la integración, distinta de la entrada y del control.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-bbbcf05a54",
+          "motivo": "Todos los cargos de la Administración y empresas públicas por mérito, capacidad y procedimientos abiertos (línea 1 del resumen); es la primera medida «innegociable» que su candidata cita en campaña.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-750eabe91d",
+          "motivo": "Reducir un 90% los asesores, con topes por cargo; segunda medida «innegociable» citada en campaña, con cifras, y distinta de la primera aunque esté en la misma línea del resumen.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-dc4d8be252",
+          "motivo": "Ningún político en los organismos independientes, con 10 años de carencia (línea 3 del resumen); cubre la independencia de los organismos de control y probablemente es la tercera «innegociable» que la cita de campaña deja cortada («quitar a […]»). La línea anticorrupción del resumen (juzgados, Fiscalía, imprescriptibilidad) no tiene candidata equivalente.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    }
+  ]
+}

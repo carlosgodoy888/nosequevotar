@@ -1,0 +1,3186 @@
+{
+  "fuente": "frente-amplio-programa-2026",
+  "partido": "frente-amplio",
+  "paginas": [
+    20,
+    38
+  ],
+  "citas": [
+    {
+      "cita": "Lejos de ser un gasto, invertir en infancia supone evitar costes mucho mayores en el futuro.",
+      "pagina": 21,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Prestación Universal por Crianza (200 €/mes por menor)"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Inversión en infancia como ahorro de costes futuros",
+      "etiquetas": [
+        "infancia",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos la Ley de Prestación Universal por Crianza que concederá 200 € al mes por cada menor de 18 años a cargo. La prestación se configurará como un derecho propio del menor, inembargable y desvinculado de los ingresos o situación laboral de los progenitores. La tramitaremos y abonaremos mensualmente de forma automática como deducción reembolsable del IRPF abonada por la Agencia Tributaria desde el momento del nacimiento.",
+      "pagina": 21,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Prestación Universal por Crianza (200 €/mes por menor)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prestación universal de 200 euros mensuales por menor",
+      "etiquetas": [
+        "infancia",
+        "familia",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implementación en 3 fases durante la legislatura (0-6 años el año 1, 7-12 el año 2 y 13-18 al cierre de mandato), financiada con fiscalidad progresiva.",
+      "pagina": 21,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Prestación Universal por Crianza (200 €/mes por menor)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Calendario por edades de la prestación por crianza",
+      "etiquetas": [
+        "infancia",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibición de cortes de suministros: Blindaje por ley contra el corte de luz, agua y gas en hogares vulnerables.",
+      "pagina": 21,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Escudo social, comedor escolar gratuito y nutrición sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición legal de cortes de suministros a hogares vulnerables",
+      "etiquetas": [
+        "energía",
+        "agua",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Bono social automático: Asignaremos el bono social eléctrico y térmico de oficio según renta, garantizando un consumo mínimo vital protegido.",
+      "pagina": 21,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Escudo social, comedor escolar gratuito y nutrición sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Concesión automática del bono social eléctrico y térmico",
+      "etiquetas": [
+        "energía",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Servicios básicos: Extenderemos tarifas sociales de agua e internet asequible.",
+      "pagina": 21,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Escudo social, comedor escolar gratuito y nutrición sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tarifas sociales de agua e internet",
+      "etiquetas": [
+        "agua",
+        "telecomunicaciones",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Elevaremos de inmediato el Indicador Público de Renta de Efectos Múltiples (IPREM) en 100 € iniciales hasta situarlo en un suelo de 700 € mensuales. Fijaremos la obligación legal de actualizar anualmente el IPREM conforme al IPC acumulado, evitando que las ayudas y subsidios asistenciales pierdan poder de compra frente a la inflación.",
+      "pagina": 21,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Escudo social, comedor escolar gratuito y nutrición sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subida del IPREM a 700 euros y actualización con el IPC",
+      "etiquetas": [
+        "servicios sociales",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollaremos y haremos cumplir la Ley de Atención a la Clientela, dotaremos de más recursos a los servicios públicos de consumo y reforzaremos la inspección de los servicios esenciales. Agilizaremos las reclamaciones colectivas y la devolución de cobros indebidos, asegurando que las sanciones disuadan de repetir los abusos y que las personas afectadas obtengan reparación efectiva.",
+      "pagina": 21,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Escudo social, comedor escolar gratuito y nutrición sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aplicación de la Ley de Atención a la Clientela y reclamaciones",
+      "etiquetas": [
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Estableceremos la gratuidad total y universal del servicio de comedor escolar para todo el alumnado matriculado en Educación Infantil y Primaria en centros de la red pública en todas las comunidades autónomas.",
+      "pagina": 22,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Escudo social, comedor escolar gratuito y nutrición sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comedor escolar gratuito en Infantil y Primaria públicas",
+      "etiquetas": [
+        "educación",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Exigiremos por ley que los menús escolares se elaboren con productos frescos de proximidad y temporada, libres de ultraprocesados y adaptados a requerimientos nutricionales y alergias.",
+      "pagina": 22,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Escudo social, comedor escolar gratuito y nutrición sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Requisitos legales de los menús escolares",
+      "etiquetas": [
+        "educación",
+        "alimentación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Servicios complementarios: Desarrollaremos el Pacto de Estado con extraescolares gratuitas y servicios de cuidado profesional a domicilio (Plan Corresponsables).",
+      "pagina": 22,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Escudo social, comedor escolar gratuito y nutrición sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Extraescolares gratuitas y cuidado a domicilio",
+      "etiquetas": [
+        "conciliación",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transformaremos de forma radical el Ingreso Mínimo Vital (IMV) para ser concedido de oficio a través de la interconexión automatizada de datos fiscales y de la Seguridad Social, suprimiendo el laberinto burocrático actual.",
+      "pagina": 22,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Reforma integral del Ingreso Mínimo Vital (IMV)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Concesión de oficio del Ingreso Mínimo Vital",
+      "etiquetas": [
+        "servicios sociales",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Hay que avanzar hacia que la prestación del IMV alcance el 60 % de la renta mediana de la comunidad autónoma de residencia, con la regla de las unidades de consumo, para situar el nivel de ingresos del hogar por encima del umbral de la pobreza.",
+      "pagina": 22,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Reforma integral del Ingreso Mínimo Vital (IMV)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "IMV hasta el 60 % de la renta mediana autonómica",
+      "etiquetas": [
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Extenderemos de forma plena el IMV a jóvenes de 18 a 30 años sin exigir requisitos desproporcionados de emancipación previa, garantizando un suelo de renta equivalente al 40 % de la mediana de ingresos nacional, tal y como recomiendan la AIReF y el Instituto de Estudios Fiscales. Garantizaremos además los itinerarios de inclusión sociolaboral, entendidos como un doble derecho.",
+      "pagina": 22,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Reforma integral del Ingreso Mínimo Vital (IMV)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Extensión del IMV a jóvenes de 18 a 30 años",
+      "etiquetas": [
+        "servicios sociales",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Descentralización y seguridad jurídica: Traspasaremos la gestión a las comunidades autónomas y protegeremos frente a reclamaciones por regularizaciones tardías de buena fe.",
+      "pagina": 22,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Reforma integral del Ingreso Mínimo Vital (IMV)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Traspaso de la gestión del IMV a las comunidades",
+      "etiquetas": [
+        "servicios sociales",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Tomaremos en consideración de manera preferente los ingresos recientes, no los del año anterior, para que el IMV pueda dar respuesta a las situaciones de pobreza sobrevenida.",
+      "pagina": 22,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Reforma integral del Ingreso Mínimo Vital (IMV)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cálculo del IMV con ingresos recientes",
+      "etiquetas": [
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Burocracia cero: Principio de «una sola vez», interoperabilidad entre administraciones y atención presencial obligatoria.",
+      "pagina": 22,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Equiparación de familias monomarentales y simplificación administrativa para familias vulnerables"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Simplificación de trámites y atención presencial obligatoria",
+      "etiquetas": [
+        "burocracia",
+        "administración pública",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cuentas básicas: Garantizaremos de forma efectiva una cuenta de pago básica gratuita para personas vulnerables.",
+      "pagina": 22,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.1. Reducir la desigualdad y acabar con la pobreza",
+        "Equiparación de familias monomarentales y simplificación administrativa para familias vulnerables"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cuenta bancaria básica gratuita para personas vulnerables",
+      "etiquetas": [
+        "consumo",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Despliegue presupuestario del Sistema de Atención a la Dependencia para elevar la inversión pública del 0,8 % al 1,7 % del PIB en 2030, con un plan con tiempos y objetivos presupuestarios concretos.",
+      "pagina": 23,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inversión en dependencia del 1,7 % del PIB en 2030",
+      "etiquetas": [
+        "dependencia",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzaremos en la plena implementación de la Ley 4/2026 de modificación de la Ley para la promoción de la Autonomía y Atención a la Dependencia, impulsando la transición hacia un modelo público de apoyos y cuidados de larga duración basado en los derechos, la autonomía personal y la voluntad y preferencias de cada persona.",
+      "pagina": 23,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aplicación de la Ley 4/2026 de dependencia",
+      "etiquetas": [
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El despliegue de los nuevos servicios como el asistente personal o los cuidados en viviendas para que sean alternativa a las residencias.",
+      "pagina": 23,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Asistente personal y cuidados en vivienda frente a residencias",
+      "etiquetas": [
+        "dependencia",
+        "mayores"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El acuerdo, con las CCAA, de estándares mínimos de calidad para todo el Estado.",
+      "pagina": 23,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estándares mínimos estatales de calidad en dependencia",
+      "etiquetas": [
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El acuerdo de nuevas y mayores intensidades en los servicios y el incremento de las prestaciones económicas.",
+      "pagina": 23,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más intensidad de servicios y prestaciones de dependencia",
+      "etiquetas": [
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoción de la complementariedad entre servicios para garantizar que las personas puedan vivir en sus casas hasta el final con los cuidados que precisen.",
+      "pagina": 23,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Combinación de servicios para cuidados en el domicilio",
+      "etiquetas": [
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El establecimiento de los apoyos que han de tener a su disposición las personas cuidadoras no profesionales y cuidadoras principales, para ver cumplidos los nuevos derechos que se les reconoce por Ley, incluido el de conciliación de los cuidados que prestan con su vida familiar y personal, o con convalecencias médicas.",
+      "pagina": 23,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyos para personas cuidadoras no profesionales",
+      "etiquetas": [
+        "dependencia",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vincularemos el incremento de fondos a objetivos compartidos, transparentes y monitorizables en ampliación de la cobertura, reducción de listas de espera, mejora de la calidad e intensidad de los cuidados y apoyos, eliminación de los copagos y mejora en las condiciones salariales y de calidad en el empleo de las profesionales.",
+      "pagina": 23,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondos de dependencia ligados a objetivos y fin de copagos",
+      "etiquetas": [
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Duplicación de servicios de atención a domicilio y descanso familiar: Duplicaremos las horas e intensidad mínima de ayuda a domicilio (incluyendo fines de semana en gran dependencia) y reconoceremos por ley el «derecho al respiro» (mínimo 1 mes al año con centros de día o estancias temporales financiado al 50 % entre Estado y comunidades autónomas).",
+      "pagina": 23,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Doble de ayuda a domicilio y derecho al respiro",
+      "etiquetas": [
+        "dependencia",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dignificación de los profesionales y apoyo a cuidadoras no profesionales: Reforzaremos las plantillas, subiremos los salarios y mejoraremos la formación, la estabilidad y los tiempos asistenciales, además de dar mayor protección social y apoyo al descanso de cuidadoras no profesionales.",
+      "pagina": 23,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Plantillas y salarios del sector de cuidados",
+      "etiquetas": [
+        "dependencia",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos la protección social a las cuidadoras principales, con acceso adaptado o automático a prestaciones o subsidios cuando se produce el fallecimiento de la persona en situación de dependencia.",
+      "pagina": 24,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prestaciones para cuidadoras tras el fallecimiento de la persona cuidada",
+      "etiquetas": [
+        "dependencia",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Análisis de la pertinencia de la introducción en el sistema de cuidados de larga duración español de las trabajadoras del hogar y cuidados directamente contratadas por las familias; mediante el establecimiento de prestaciones que cubran tanto el salario como las cotizaciones, y un mecanismo que garantice la formación de las profesionales.",
+      "pagina": 24,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Sistema de promoción de la autonomía y atención a la dependencia y modelo de cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estudio de incluir a trabajadoras del hogar en el sistema de cuidados",
+      "etiquetas": [
+        "dependencia",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuevas leyes de cuidados y familias: Aprobaremos la Ley de Familias (reconociendo la diversidad familiar), la Ley de Cuidados y de Sostenibilidad de la Vida, y el Pacto de Estado por los Cuidados.",
+      "pagina": 24,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Marco legislativo, marco de cuidados y sistema de rentas (IMV)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de Familias, Ley de Cuidados y pacto de Estado",
+      "etiquetas": [
+        "familia",
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporaremos a la Ley de Familias el principio de libre designación de personas de referencia, para reconocer la diversidad de vínculos afectivos, familiares y de convivencia más allá de los modelos tradicionales de pareja y familia. Las personas designadas, sin necesidad de parentesco ni convivencia, serán referentes a efectos de permisos retribuidos por enfermedad, hospitalización, fallecimiento y cuidados, así como para el acompañamiento y la crianza de menores. Ampliaremos los permisos retribuidos y la protección laboral de quienes asuman estos cuidados.",
+      "pagina": 24,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Marco legislativo, marco de cuidados y sistema de rentas (IMV)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Personas de referencia sin parentesco a efectos de permisos",
+      "etiquetas": [
+        "familia",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantía de ingresos y erradicación de la pobreza severa: Incrementaremos gradualmente la renta garantizada del Ingreso Mínimo Vital (IMV) para asegurar que ningún hogar viva por debajo del 40 % de la renta media, equiparando pensiones mínimas y no contributivas al umbral de la pobreza.",
+      "pagina": 24,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Marco legislativo, marco de cuidados y sistema de rentas (IMV)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subida del IMV y pensiones mínimas al umbral de pobreza",
+      "etiquetas": [
+        "servicios sociales",
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliación y retribución del permiso parental por cuidado de hijos: Estableceremos la retribución del permiso parental para el cuidado de menores que llegará progresivamente a las 10 semanas retribuidas y hasta los 12 años, garantizando la retribución al 100 % de la base reguladora por la Seguridad Social para evitar la brecha por falta de ingresos. Se hará con carácter retroactivo, desde la aprobación de la directiva que crea el permiso: Directiva (UE) 2019/1158 relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores.",
+      "pagina": 24,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Ampliación de permisos por cuidado de menores, de familiares, por nacimiento y adopción y por fallecimiento"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permiso parental retribuido de 10 semanas",
+      "etiquetas": [
+        "conciliación",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliación del permiso por nacimiento y adopción: Ampliaremos el permiso por nacimiento hasta las 20 semanas para cada progenitor con carácter intransferible, ofreciendo flexibilidad para su disfrute a tiempo parcial a partir de la semana 16. Se duplicará para familias monoparentales.",
+      "pagina": 24,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Ampliación de permisos por cuidado de menores, de familiares, por nacimiento y adopción y por fallecimiento"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permiso por nacimiento de 20 semanas por progenitor",
+      "etiquetas": [
+        "conciliación",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Flexibilidad y corresponsabilidad en familias monoparentales: Autorización a las familias monoparentales para transferir semanas de su permiso de maternidad a personas de su entorno directo para recibir apoyo tras el parto, promoviendo la corresponsabilidad y atendiendo a sus particularidades.",
+      "pagina": 25,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Ampliación de permisos por cuidado de menores, de familiares, por nacimiento y adopción y por fallecimiento"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cesión de semanas de permiso en familias monoparentales",
+      "etiquetas": [
+        "conciliación",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliación de permisos por cuidado de familiares: Ampliaremos de forma generalizada los permisos retribuidos para el cuidado de familiares y personas en situación de dependencia del entorno.",
+      "pagina": 25,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Ampliación de permisos por cuidado de menores, de familiares, por nacimiento y adopción y por fallecimiento"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ampliación de permisos para cuidar a familiares",
+      "etiquetas": [
+        "conciliación",
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliaremos el permiso retribuido por fallecimiento del cónyuge, pareja de hecho o familiares hasta segundo grado de consanguinidad de los dos días actuales a diez días hábiles, que podrán disfrutarse de forma continua o repartidos en las cuatro semanas siguientes al fallecimiento.",
+      "pagina": 25,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Ampliación de permisos por cuidado de menores, de familiares, por nacimiento y adopción y por fallecimiento"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permiso por fallecimiento de dos a diez días",
+      "etiquetas": [
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos además un nuevo permiso retribuido de hasta quince días para acompañar a un familiar en cuidados paliativos y un permiso de un día para acompañar a quien reciba la prestación de ayuda para morir, porque el duelo y los cuidados al final de la vida también deben estar protegidos en el trabajo.",
+      "pagina": 25,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Ampliación de permisos por cuidado de menores, de familiares, por nacimiento y adopción y por fallecimiento"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permisos por cuidados paliativos y ayuda para morir",
+      "etiquetas": [
+        "conciliación",
+        "cuidados paliativos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Universalización de la educación de 0 a 3 años: Integraremos plenamente el primer ciclo de educación infantil en el sistema educativo, ampliaremos plazas públicas gratuitas garantizadas para toda familia solicitante y comedor gratuito en la red pública de Infantil y Primaria.",
+      "pagina": 25,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Educación Infantil (0-3 años), becas y Plan Corresponsables"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazas públicas gratuitas de 0 a 3 años",
+      "etiquetas": [
+        "educación",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejoraremos la calidad del servicio de la etapa 0-3, promoviendo la pareja educativa, reduciendo las ratios actuales y apostando por mejores condiciones para sus profesionales. Para ello realizaremos las modificaciones necesarias en el Real Decreto 132/2010, de 12 de febrero, para establecer las siguientes relaciones numéricas alumnado-profesor en el primer ciclo de la etapa de Educación Infantil:",
+      "pagina": 25,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Educación Infantil (0-3 años), becas y Plan Corresponsables"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reducción de ratios en la etapa de 0 a 3 años",
+      "etiquetas": [
+        "educación",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizaremos el acceso gratuito y universal a servicios de conciliación para todas las familias con hijos e hijas menores de edad. Para ello aumentaremos un 20 % la financiación del Plan Corresponsables, extraescolares, campamentos y demás servicios de conciliación, y revertiremos los recortes para convertirlo en un auténtico sistema público de apoyo a los cuidados.",
+      "pagina": 25,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.2. Derecho a cuidar y a recibir cuidados",
+        "Educación Infantil (0-3 años), becas y Plan Corresponsables"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Servicios de conciliación gratuitos y Plan Corresponsables",
+      "etiquetas": [
+        "conciliación",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos un Plan Estratégico Estatal para los servicios sociales, con el objetivo de promover su modernización y mejora en todo el Estado, reduciendo el asistencialismo y promoviendo el trabajo centrado en las personas y en sus relaciones, así como la activación comunitaria.",
+      "pagina": 25,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.3. Inclusión para que nadie quede atrás"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan Estratégico Estatal de servicios sociales",
+      "etiquetas": [
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incrementaremos la financiación estatal a los servicios sociales comunitarios y la redirigiremos a programas e inversiones estratégicos para el refuerzo del sistema, su modernización e innovación.",
+      "pagina": 26,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.3. Inclusión para que nadie quede atrás"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más financiación estatal a servicios sociales comunitarios",
+      "etiquetas": [
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ley de Profesiones de los Servicios Sociales: Aprobaremos una ley que regule las profesiones de las trabajadoras sociales, educadores sociales y psicólogos sociales, entre otras, como pieza esencial del sistema de servicios sociales, y que mejore sus condiciones laborales.",
+      "pagina": 26,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.3. Inclusión para que nadie quede atrás"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de profesiones de los servicios sociales",
+      "etiquetas": [
+        "servicios sociales",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos a través de las administraciones competentes la creación de redes de acompañamiento psicosocial comunitario para prevenir problemas de salud mental asociados a la pobreza, el aislamiento, la violencia y la exclusión social, con especial atención a jóvenes y personas mayores.",
+      "pagina": 26,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.3. Inclusión para que nadie quede atrás"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Redes comunitarias de acompañamiento psicosocial",
+      "etiquetas": [
+        "salud mental",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos la educación inclusiva mediante la puesta a disposición de las comunidades autónomas de más fondos para profesionales de apoyo.",
+      "pagina": 26,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.3. Inclusión para que nadie quede atrás"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fondos para profesionales de apoyo en educación inclusiva",
+      "etiquetas": [
+        "educación",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollaremos plenamente la Ley 4/2026 de extensión y refuerzo de los derechos de las personas con discapacidad, garantizando el cumplimiento efectivo de los nuevos derechos reconocidos en materia de accesibilidad universal, vida independiente o autonomía personal.",
+      "pagina": 26,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.3. Inclusión para que nadie quede atrás"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desarrollo de la Ley 4/2026 de discapacidad",
+      "etiquetas": [
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Blindaje del gasto sanitario público: Compromiso desde los Presupuestos Generales del Estado del 8 % del PIB estatal para la sanidad pública.",
+      "pagina": 26,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Financiación, gobernanza y gestión de la sanidad pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gasto sanitario público del 8 % del PIB",
+      "etiquetas": [
+        "sanidad",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo obligatorio de la Atención Primaria: Continuaremos aumentando los fondos finalistas a Atención Primaria para cumplir la recomendación de la OMS de destinar el 25 % del presupuesto sanitario a Atención Primaria.",
+      "pagina": 26,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Financiación, gobernanza y gestión de la sanidad pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "25 % del presupuesto sanitario a Atención Primaria",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostaremos de nuevo por una Ley de Gestión Pública e Integridad del Sistema Nacional de Salud para consagrar la gestión pública directa como la vía general para los centros y servicios del Sistema Nacional de Salud (SNS).",
+      "pagina": 26,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Financiación, gobernanza y gestión de la sanidad pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de gestión pública directa del SNS",
+      "etiquetas": [
+        "sanidad",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogaremos expresamente la Ley 15/1997, sobre habilitación de nuevas formas de gestión del SNS, que había abierto la puerta a la colaboración con entidades privadas, y los modelos de gestión indirecta pasarán a ser estrictamente excepcionales. Requerirán una justificación objetiva de que no es posible la gestión directa y una evaluación previa obligatoria por un comité técnico especializado.",
+      "pagina": 26,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Financiación, gobernanza y gestión de la sanidad pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogación de la Ley 15/1997 sobre gestión del SNS",
+      "etiquetas": [
+        "sanidad",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan de reversión e internalización: Revisaremos los contratos de los servicios privatizados, evaluaremos su impacto y resultados y elaboraremos planes de internalización paulatina de servicios privatizados garantizando la atención y la equidad.",
+      "pagina": 26,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Financiación, gobernanza y gestión de la sanidad pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión de contratos e internalización de servicios sanitarios",
+      "etiquetas": [
+        "sanidad",
+        "servicios públicos",
+        "contratación pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Blindaremos por ley la universalidad de la atención sanitaria para residentes en España, independientemente de su estatus administrativo. Se volverá a apostar por la Ley de universalidad del SNS que termine de garantizar lo conseguido a través del Real Decreto 180/2026 del actual Ministerio de Sanidad.",
+      "pagina": 26,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Financiación, gobernanza y gestión de la sanidad pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Atención sanitaria universal con independencia de la situación administrativa",
+      "etiquetas": [
+        "sanidad",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguiremos reforzando los planes de inversión en nuevas tecnologías con fondos finalistas para las comunidades autónomas.",
+      "pagina": 27,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Financiación, gobernanza y gestión de la sanidad pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Inversión en nuevas tecnologías sanitarias",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Supervisión, transparencia y Alta Inspección: Desarrollaremos los medios de la Alta Inspección (Ley 16/2003), publicaremos de forma homogénea costes, plantillas, tiempos de espera y calidad (incluidos conciertos), y ejecutaremos auditorías para detectar sobrecostes y desvíos.",
+      "pagina": 27,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Financiación, gobernanza y gestión de la sanidad pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Alta Inspección, publicación de datos y auditorías sanitarias",
+      "etiquetas": [
+        "sanidad",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Creación de órganos de control independientes: Crearemos el Observatorio de Evaluación, Control, Transparencia, Calidad y Sostenibilidad del SNS, y la Agencia de Calidad y Evaluación del Sistema para publicar presupuestos y resultados de salud.",
+      "pagina": 27,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Financiación, gobernanza y gestión de la sanidad pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Observatorio y agencia de evaluación del SNS",
+      "etiquetas": [
+        "sanidad",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Integración de mutuas de funcionariado (MUFACE/MUGEJU/ISFAS): Aplicaremos el plan propuesto para la integración definitiva de todas las mutuas de funcionarios al Sistema Nacional de Salud.",
+      "pagina": 27,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Financiación, gobernanza y gestión de la sanidad pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Integración de MUFACE, MUGEJU e ISFAS en el SNS",
+      "etiquetas": [
+        "sanidad",
+        "función pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Equidad territorial y liquidación turística: Actualizaremos los criterios del FOGA y del FCS, junto con la creación de un mecanismo ágil para liquidar la asistencia a turistas internacionales.",
+      "pagina": 27,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Financiación, gobernanza y gestión de la sanidad pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondos sanitarios territoriales y cobro de asistencia a turistas",
+      "etiquetas": [
+        "sanidad",
+        "financiación autonómica",
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Salud bucodental: Continuaremos la ampliación de la cobertura bucodental realizada en esta legislatura (menores hasta 14 años, embarazadas, mayores de 65 años, pacientes oncológicos específicos) hasta alcanzar al menos el 50 % de la población residente al final de la legislatura.",
+      "pagina": 27,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Ampliación de la cartera de servicios y prestaciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cobertura bucodental pública para el 50 % de la población",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Salud visual: Universalizaremos el «Plan Veo» (gafas y lentillas gratuitas) a todos los grupos de edad de la población residente (ampliando la medida inicial para menores de 16 años).",
+      "pagina": 27,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Ampliación de la cartera de servicios y prestaciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gafas y lentillas gratuitas para todas las edades",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Salud auditiva: Financiación pública e inclusión de los audífonos en la cartera común de servicios para toda la población que los necesite, con programas prioritarios de ayudas para mayores de 65 años y personas con discapacidad.",
+      "pagina": 27,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Ampliación de la cartera de servicios y prestaciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Audífonos en la cartera común de servicios",
+      "etiquetas": [
+        "sanidad",
+        "mayores",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Banco público de prótesis y órtesis: Crearemos un banco público accesible para las comunidades autónomas con el fin de reutilizar, optimizar la vida útil y mejorar la sostenibilidad financiera.",
+      "pagina": 27,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Ampliación de la cartera de servicios y prestaciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Banco público de prótesis y órtesis",
+      "etiquetas": [
+        "sanidad",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Salud sexual y gratuidad de productos: Dispensación gratuita de preservativos en farmacias comunitarias para jóvenes (prevención de ITS) y distribución gratuita de copas menstruales para la salud reproductiva y sostenibilidad.",
+      "pagina": 27,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Ampliación de la cartera de servicios y prestaciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Preservativos y copas menstruales gratuitos",
+      "etiquetas": [
+        "sanidad",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Servicios sanitarios rurales y comunidades vulnerables: Ampliaremos especialidades médicas (Traumatología, ORL, Oncología, Dermatología, Neurología, etc.) en hospitales rurales. Podrá establecerse que algunas especialidades hospitalarias puedan ofrecer consultas fuera del hospital, acercando la atención especializada a la comunidad.",
+      "pagina": 27,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Ampliación de la cartera de servicios y prestaciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más especialidades médicas en hospitales rurales",
+      "etiquetas": [
+        "sanidad",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Aumentaremos la dotación de recursos y condiciones laborales de la Atención Primaria en función de los determinantes sociales de la población asignada.",
+      "pagina": 28,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Ampliación de la cartera de servicios y prestaciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Recursos de Atención Primaria según determinantes sociales",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Inversión finalista en salud mental: Crearemos un fondo específico para la Red de Salud Mental Comunitaria y aumentaremos las ratios de profesionales (psiquiatría, psicología clínica, enfermería especializada, trabajo social, terapeutas y expertos por experiencia) hasta un mínimo de 10 por cada 100.000 habitantes.",
+      "pagina": 28,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud mental y bienestar emocional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondo de salud mental y ratio mínima de profesionales",
+      "etiquetas": [
+        "salud mental",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derechos humanos y estrategia «Cero Contenciones»: Apostaremos por un modelo asistencial comunitario de proximidad y desarrollaremos la estrategia «Cero Contenciones».",
+      "pagina": 28,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud mental y bienestar emocional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia de eliminación de contenciones en salud mental",
+      "etiquetas": [
+        "salud mental",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Permiso por riesgo suicida: Crearemos un permiso laboral de acompañamiento para familiares y personas del entorno cercano de pacientes en riesgo de suicidio.",
+      "pagina": 28,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud mental y bienestar emocional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permiso laboral por riesgo de suicidio de un allegado",
+      "etiquetas": [
+        "salud mental",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estrategia de cultura y salud: Primera estrategia estatal con fondos finalistas para prescribir actividades culturales desde Atención Primaria y desarrollar programas culturales dentro de los centros sanitarios.",
+      "pagina": 28,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud mental y bienestar emocional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prescripción de actividades culturales desde Atención Primaria",
+      "etiquetas": [
+        "sanidad",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reformaremos el artículo 43 de la Constitución para incluir el derecho al aborto, incluyendo expresamente en la misma que los poderes públicos garantizarán el ejercicio del derecho de las mujeres a la interrupción voluntaria del embarazo en condiciones de igualdad real y efectiva con cuantas prestaciones y servicios sean necesarios para dicho ejercicio.",
+      "pagina": 28,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud sexual, reproductiva, obstétrica y duelo perinatal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inclusión del aborto en el artículo 43 de la Constitución",
+      "etiquetas": [
+        "reforma constitucional",
+        "igualdad",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantía del aborto (IVE): Estrategia para garantizar la IVE en centros públicos en todas las comunidades autónomas y ciudades autónomas, financiada con el Fondo Social Europeo Plus (FSE+) e incluyendo gastos de desplazamiento. Formación obligatoria en IVE en planes de estudio y especialidades sanitarias.",
+      "pagina": 28,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud sexual, reproductiva, obstétrica y duelo perinatal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aborto en centros públicos y formación sanitaria obligatoria",
+      "etiquetas": [
+        "sanidad",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ley Integral de Salud Obstétrica: Reconoceremos el embarazo, parto y posparto como procesos naturales. Tipificaremos la violencia obstétrica, crearemos un canal de denuncia confidencial y garantizaremos derechos por ley (acompañamiento, libre movimiento, alivio del dolor y ratio OMS de 1 matrona por mujer en parto activo en máximo 5 años).",
+      "pagina": 28,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud sexual, reproductiva, obstétrica y duelo perinatal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de salud obstétrica y tipificación de la violencia obstétrica",
+      "etiquetas": [
+        "sanidad",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliación de protección por duelo perinatal y secuelas: Inscripción en el Registro Civil de la pérdida gestacional desde el sexto mes de gestación, permiso para el otro progenitor tras muerte fetal desde los 180 días y ampliación del permiso maternal por complicaciones físicas tras el parto acreditadas médicamente.",
+      "pagina": 28,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud sexual, reproductiva, obstétrica y duelo perinatal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro de pérdida gestacional y permisos por duelo perinatal",
+      "etiquetas": [
+        "sanidad",
+        "conciliación",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Atención integral al climaterio y menopausia: Incluiremos la atención a la menopausia como derecho con consultas extendidas, valoración individualizada multidisciplinar y control de precios de medicamentos para evitar desabastecimientos e incrementos especulativos.",
+      "pagina": 29,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud sexual, reproductiva, obstétrica y duelo perinatal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Atención a la menopausia y control de precios de medicamentos",
+      "etiquetas": [
+        "sanidad",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estudio de fertilidad y reproducción asistida: Incluiremos la valoración de la fertilidad previa a los intentos de concepción en el SNS y aumentaremos los recursos finalistas para servicios de reproducción asistida en edades tempranas.",
+      "pagina": 29,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud sexual, reproductiva, obstétrica y duelo perinatal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Valoración de fertilidad en el SNS y reproducción asistida",
+      "etiquetas": [
+        "sanidad",
+        "población"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos el refuerzo de la provisión pública mediante el despliegue de infraestructuras y capacidades propias del sistema sanitario público, incluidos bancos públicos de óvulos y otros recursos necesarios, y promoveremos un debate público y bioético sobre el modelo de reproducción asistida.",
+      "pagina": 29,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud sexual, reproductiva, obstétrica y duelo perinatal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bancos públicos de óvulos y debate sobre reproducción asistida",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos el Real Decreto de listas de espera impulsado en la legislatura, que incluya gestión de tiempos y registros iniciando el cómputo con la indicación facultativa (máximo de cinco días para la inscripción sin alterar la fecha por falta de agenda) y prohíba las listas paralelas o de «paso B»; que incluya por primera vez los tiempos de Atención Primaria (medicina de familia, pediatría y enfermería) y de Salud Mental; y se amplíen a 25 los procedimientos quirúrgicos analizados y se evalúen 15 pruebas diagnósticas y terapéuticas.",
+      "pagina": 29,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Tiempos de espera, listas de espera y diagnóstico"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Real Decreto de listas de espera sanitarias",
+      "etiquetas": [
+        "sanidad",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan de modernización tecnológica e infraestructuras: Continuaremos la financiación finalista a comunidades autónomas para renovar la tecnología diagnóstica en hospitales públicos (Anatomía Patológica, Microbiología) y acelerar diagnósticos.",
+      "pagina": 29,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Tiempos de espera, listas de espera y diagnóstico"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Financiación para renovar tecnología diagnóstica hospitalaria",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Industria farmacéutica pública y autonomía estratégica: Crearemos una empresa/industria farmacéutica con participación 100 % pública y expansión de iniciativas existentes (Certera, Terafront) para asegurar liderazgo investigador, reforzar la producción en España/Europa y evitar desabastecimientos.",
+      "pagina": 29,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Política farmacéutica, investigación e industria pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Empresa farmacéutica de titularidad pública",
+      "etiquetas": [
+        "sanidad",
+        "empresas públicas",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ley de Medicamentos y acceso innovador: Reforma legislativa para reducir los tiempos de acceso a fármacos innovadores, fijar precios sostenibles para el SNS, coordinar farmacias comunitarias con Atención Primaria y proteger el suministro.",
+      "pagina": 29,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Política farmacéutica, investigación e industria pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la ley de medicamentos",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cláusulas de acceso justo y medicamentos huérfanos: Obligación de aplicar cláusulas de acceso justo en fármacos desarrollados con fondos públicos y creación de un fondo finalista para medicamentos huérfanos de elevado impacto económico.",
+      "pagina": 29,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Política farmacéutica, investigación e industria pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cláusulas de acceso en fármacos con fondos públicos y medicamentos huérfanos",
+      "etiquetas": [
+        "sanidad",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Independencia de la industria: Garantizaremos la independencia total de la gestión de la sanidad respecto a las multinacionales farmacéuticas y biotecnológicas.",
+      "pagina": 29,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Política farmacéutica, investigación e industria pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Independencia de la gestión sanitaria respecto a la industria farmacéutica",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reclasificación profesional: Reclasificación inmediata de profesionales como la incluida en la reforma del estatuto marco, para todas las profesiones sanitarias según su formación y los créditos de la misma, cumpliendo el Acuerdo Marco para una Administración del Siglo XXI.",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Profesionales sanitarios y salud laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reclasificación profesional de las profesiones sanitarias",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Libranza de la mañana del día de guardias de 24 horas: Impondremos el descanso/libranza la mañana del día de la guardia (libranza del entrante) igual que ahora se libra la posterior.",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Profesionales sanitarios y salud laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Libranza previa a las guardias de 24 horas",
+      "etiquetas": [
+        "sanidad",
+        "empleo público",
+        "salud laboral"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoveremos que los servicios autonómicos de salud aumenten sus plantillas en función de sus especificidades para implantar turnos de 8 y 12 h.",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Profesionales sanitarios y salud laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más plantilla sanitaria para turnos de 8 y 12 horas",
+      "etiquetas": [
+        "sanidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reformaremos de forma definitiva la Ley de Ordenación de las Profesiones Sanitarias actualizando las profesiones sanitarias y sus competencias generales.",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Profesionales sanitarios y salud laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la Ley de Ordenación de las Profesiones Sanitarias",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumento y planificación de plazas de formación sanitaria especializada: Continuaremos con el aumento de plazas de la FSE según las necesidades del SNS identificadas entre las comunidades autónomas y el ministerio.",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Profesionales sanitarios y salud laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más plazas de formación sanitaria especializada",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Continuaremos con la creación de especialidades sanitarias, diplomas, diplomas de acreditación avanzada, etc., según las necesidades de perfiles profesionales definidas (Enfermedades Infecciosas, Genética Médica, Genética Clínica de Laboratorio, Enfermería de Críticos/Urgencias y Práctica Avanzada…).",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Profesionales sanitarios y salud laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Creación de nuevas especialidades sanitarias",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Gestión de las incapacidades temporales (IT): Blindaje por ley para que el control de las altas/bajas médicas corresponda en exclusiva a los médicos del SNS, limitando las mutuas a un papel de apoyo y financiación en enfermedades profesionales.",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Profesionales sanitarios y salud laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Control de bajas médicas exclusivo de médicos del SNS",
+      "etiquetas": [
+        "sanidad",
+        "seguridad social",
+        "salud laboral"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ley Antitabaquismo Extendida: Prohibiremos fumar en terrazas y playas, implantaremos el empaquetado genérico, prohibiremos vapeadores desechables y equipararemos dispositivos electrónicos/tabaco calentado al tabaco tradicional.",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de fumar en terrazas y playas y vapeadores desechables",
+      "etiquetas": [
+        "sanidad",
+        "adicciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fiscalidad saludable e impuestos finalistas: Crearemos impuestos específicos a bebidas energéticas, refrescos azucarados, tabaco y productos ultraprocesados para destinar su recaudación a mejoras en salud.",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Impuestos a bebidas azucaradas, tabaco y ultraprocesados",
+      "etiquetas": [
+        "impuestos",
+        "sanidad",
+        "alimentación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección de menores frente a la publicidad: Regularemos con severidad la publicidad y patrocinio de alimentos ultraprocesados y alcohol orientado a la infancia y adolescencia.",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Regulación de publicidad de ultraprocesados y alcohol a menores",
+      "etiquetas": [
+        "publicidad",
+        "infancia",
+        "alimentación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Salud pública y emergencias: Desplegaremos la Agencia de Salud Pública estatal, reforzaremos agencias autonómicas y homologaremos protocolos para emergencias y pandemias con acceso equitativo a material y vacunas.",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Agencia estatal de Salud Pública y protocolos de pandemias",
+      "etiquetas": [
+        "sanidad",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fortaleceremos la red de Centros de Tratamiento de Adicciones (alcohol, drogas y juego) en todo el Estado, con un protocolo de actuación común en cada sistema de salud autonómico y una evaluación del número de personas usuarias en cada comunidad, de modo que el Ministerio de Sanidad disponga de informes realistas y pueda lanzar campañas ajustadas a la realidad de la población y a los riesgos de adicción actuales.",
+      "pagina": 30,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Red de centros de tratamiento de adicciones con protocolo común",
+      "etiquetas": [
+        "adicciones",
+        "sanidad",
+        "juego"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asimismo, impulsaremos campañas para la prevención y la detección de consumos adictivos.",
+      "pagina": 31,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Salud pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Campañas de prevención de adicciones",
+      "etiquetas": [
+        "adicciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ley de Organizaciones de Pacientes: Marco legal que garantiza la participación estructurada de los pacientes en los órganos de toma de decisiones del SNS.",
+      "pagina": 31,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Derechos de pacientes y Ley Celíaca"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de participación de organizaciones de pacientes",
+      "etiquetas": [
+        "sanidad",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ley Celíaca: Promulgaremos una ley específica con un sello oficial de control del Ministerio, ayudas económicas directas para la compra de alimentos sin gluten y controles de salud infantiles específicos.",
+      "pagina": 31,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.4. Una sanidad pública más fuerte",
+        "Derechos de pacientes y Ley Celíaca"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley celíaca con ayudas para alimentos sin gluten",
+      "etiquetas": [
+        "sanidad",
+        "alimentación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Suelo legal de gasto educativo público: Aprobaremos una Ley de Financiación Educativa que blinde legalmente un porcentaje mínimo de inversión estatal y que deberá llegar al 7 % del PIB en 2030.",
+      "pagina": 31,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de financiación educativa con el 7 % del PIB en 2030",
+      "etiquetas": [
+        "educación",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crearemos de forma prioritaria plazas públicas en todas las etapas —incluyendo de 0 a 3 años— e implantaremos una hoja de ruta progresiva que avance para que todo el alumnado pueda disfrutar de la educación pública.",
+      "pagina": 31,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Creación de plazas públicas en todas las etapas educativas",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En el periodo de coexistencia con centros concertados se prohibirán de forma inmediata las cuotas obligatorias en centros sostenidos con fondos públicos, sancionando incumplimientos. El objetivo es que el 100 % de los fondos públicos vayan destinados a la educación pública.",
+      "pagina": 31,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de cuotas en concertados y fondos solo para la pública",
+      "etiquetas": [
+        "educación",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reducción legal de ratios por aula: Fijaremos por ley ratios máximas por aula:",
+      "pagina": 31,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ratios máximas de alumnado por aula fijadas por ley",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato, disponiendo que el alumnado NEAE compute el doble a efectos de ratio.",
+      "pagina": 31,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ratios máximas por aula en Primaria, FP, Secundaria y Bachillerato",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan estatal de inclusión y lucha contra la segregación: Planes contra la segregación escolar, reserva y tope máximo de alumnado NEAE por centro, gestión adecuada de la matrícula viva y acceso garantizado a actividades extraescolares y deportivas complementarias.",
+      "pagina": 31,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan contra la segregación escolar y reparto de alumnado NEAE",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Atención a trastornos del neurodesarrollo y dificultades severas: Plan estatal de recursos para alumnado con trastornos del neurodesarrollo o del aprendizaje, junto a la creación de una red de centros de atención educativa para casos severos.",
+      "pagina": 32,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan estatal para alumnado con trastornos del neurodesarrollo",
+      "etiquetas": [
+        "educación",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Salud mental y prevención del acoso escolar: Crearemos unidades de emergencia para la atención a la salud mental y prevención del suicidio en el ámbito educativo, junto con planes integrales contra el bullying y recursos reforzados en centros de alta complejidad.",
+      "pagina": 32,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Unidades de salud mental y planes contra el acoso escolar",
+      "etiquetas": [
+        "educación",
+        "salud mental"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Lenguas cooficiales y modelo lingüístico: Lanzaremos un Plan Estatal para el aprendizaje y divulgación de las lenguas cooficiales en todo el Estado, garantizando la inmersión lingüística en catalán como lengua vehicular en Cataluña.",
+      "pagina": 32,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de lenguas cooficiales e inmersión en catalán",
+      "etiquetas": [
+        "lenguas",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzaremos, mediante el currículo educativo de competencia estatal, los aprendizajes basados en valores democráticos, igualdad y memoria democrática.",
+      "pagina": 32,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Valores democráticos y memoria en el currículo estatal",
+      "etiquetas": [
+        "educación",
+        "memoria democrática"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Regulación de la inteligencia artificial y teléfonos móviles: Abriremos un estudio pedagógico con la comunidad educativa para regular el uso responsable de la IA y limitar/regular el uso de teléfonos móviles en los centros escolares.",
+      "pagina": 32,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estudio para regular IA y móviles en los centros escolares",
+      "etiquetas": [
+        "educación",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan de infraestructuras, climatización y escuela rural: Plan estatal de inversión para construcción, reforma y climatización de aulas en colaboración con las comunidades autónomas, potenciando la escuela pública rural para combatir la despoblación.",
+      "pagina": 32,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Financiación y modelo de una educación pública para la igualdad de oportunidades"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan estatal de climatización de aulas y escuela rural",
+      "etiquetas": [
+        "educación",
+        "despoblación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumento del presupuesto de becas al promedio europeo (0,44 % PIB): Incrementaremos las cuantías de becas postobligatorias hasta el 0,44 % del PIB, garantizando el cobro al inicio de curso, elevando las ayudas de residencia y creando becas-salario para evitar el abandono escolar por motivos económicos.",
+      "pagina": 32,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Becas, ayudas y equidad educativa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Becas postobligatorias hasta el 0,44 % del PIB y becas-salario",
+      "etiquetas": [
+        "educación",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo de becas para familias vulnerables: Duplicaremos las becas en las etapas educativas obligatorias para alumnado de la escuela pública perteneciente a familias vulnerables (alcanzando a 500.000 estudiantes más).",
+      "pagina": 32,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Becas, ayudas y equidad educativa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Doble de becas en etapas obligatorias para familias vulnerables",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo del alumnado con necesidades específicas (NEAE): Incrementaremos un 60 % las becas para alumnado NEAE (por motivos socioeconómicos, trastornos o discapacidad), incluiremos nuevos colectivos e impondremos el criterio de renta familiar como determinante tras la acreditación técnica.",
+      "pagina": 32,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Becas, ayudas y equidad educativa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aumento del 60 % de las becas para alumnado NEAE",
+      "etiquetas": [
+        "educación",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Gratuidad de servicios complementarios: Reforzaremos los Programas de Cooperación Territorial para asegurar ayudas directas y gratuidad en servicios de comedor, transporte escolar y material didáctico.",
+      "pagina": 32,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Becas, ayudas y equidad educativa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gratuidad de comedor, transporte escolar y material",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reducción de la carga lectiva docente: Fijación estatal por ley de un máximo de 18 horas lectivas en Secundaria, Bachillerato, FP y Régimen Especial, y de 23 horas en Infantil y Primaria.",
+      "pagina": 32,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Mejora de las condiciones del profesorado: cuidar a quien nos enseña"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Máximo legal de horas lectivas del profesorado",
+      "etiquetas": [
+        "educación",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan Estatal de Desburocratización Docente: Simplificaremos informes, programaciones y evaluaciones, unificaremos plataformas digitales escolares y eliminaremos trámites duplicados.",
+      "pagina": 33,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Mejora de las condiciones del profesorado: cuidar a quien nos enseña"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reducción de tareas burocráticas del profesorado",
+      "etiquetas": [
+        "educación",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estatuto del Docente y condiciones laborales: Aprobaremos el Estatuto del Docente, reduciremos la interinidad laboral, mejoraremos la formación continuada y reforzaremos la gestión de tutorías y resolución de conflictos.",
+      "pagina": 33,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Mejora de las condiciones del profesorado: cuidar a quien nos enseña"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estatuto del Docente y reducción de la interinidad",
+      "etiquetas": [
+        "educación",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Financiación autonómica para universidades públicas (LOSU): Modificaremos la Ley Orgánica del Sistema Universitario (LOSU) para que las comunidades autónomas destinen al menos el 1 % de su PIB regional a la financiación de sus universidades públicas.",
+      "pagina": 33,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Sistema universitario, UNED y universidades privadas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Financiación universitaria autonómica mínima del 1 % del PIB",
+      "etiquetas": [
+        "universidad",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliaremos las plazas públicas de grado y máster en las universidades públicas, especialmente en titulaciones necesarias para acceder a una profesión, y reduciremos sus precios.",
+      "pagina": 33,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Sistema universitario, UNED y universidades privadas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más plazas y menores precios en grado y máster públicos",
+      "etiquetas": [
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estándares y auditorías a universidades privadas: Aprobaremos normativa estatal que exija a la universidad privada requisitos de funcionamiento docente e investigador idénticos a la pública, junto con auditorías de calidad periódicas por la ANECA con facultad sancionadora ante incumplimientos.",
+      "pagina": 33,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Sistema universitario, UNED y universidades privadas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Requisitos y auditorías para universidades privadas",
+      "etiquetas": [
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transformación y expansión presencial de la UNED: Dotación presupuestaria a la UNED para abrir centros presenciales, residencias a precios asequibles y descuentos por renta en comunidades autónomas con déficit de oferta universitaria pública.",
+      "pagina": 33,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Sistema universitario, UNED y universidades privadas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Centros presenciales y residencias de la UNED",
+      "etiquetas": [
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sostenibilidad financiera y plantillas universitarias: Planes de financiación plurianual para docencia e investigación, ampliación de plazas públicas de grado/ máster, reducción de precios hacia la gratuidad y planes estatales de reposición para reducir el empleo precario del PDI y del PTGAS.",
+      "pagina": 33,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Sistema universitario, UNED y universidades privadas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Financiación plurianual y plantillas universitarias",
+      "etiquetas": [
+        "universidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoveremos la investigación en las universidades públicas con más becas y ayudas, aumentaremos las ayudas FPI y FPU para contratos predoctorales y recuperaremos las ayudas Margarita Salas para estabilizar la carrera investigadora y acabar con la precariedad posdoctoral.",
+      "pagina": 33,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Sistema universitario, UNED y universidades privadas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas FPI, FPU y Margarita Salas para investigación",
+      "etiquetas": [
+        "universidad",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reformaremos de forma integral la ANECA para que sea un organismo de calidad y supervisión académica y no un filtro de acceso.",
+      "pagina": 33,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Sistema universitario, UNED y universidades privadas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la ANECA",
+      "etiquetas": [
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminaremos la figura de profesor sustituto, que precariza a quien la ocupa y desincentiva nuevas contrataciones, estabilizaremos todos los contratos y repondremos por completo las plazas pendientes.",
+      "pagina": 33,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.5. Una educación pública para la igualdad de oportunidades",
+        "Sistema universitario, UNED y universidades privadas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de la figura de profesor sustituto universitario",
+      "etiquetas": [
+        "universidad",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Suelo de inversión pública del 0,2 % del PIB: Garantizaremos por ley una asignación presupuestaria mínima continuada destinada a la cultura de al menos el 0,2 % del PIB estatal.",
+      "pagina": 34,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Financiación y modernización del sector público cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gasto público mínimo en cultura del 0,2 % del PIB",
+      "etiquetas": [
+        "cultura",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ley del Sistema Público de la Cultura: Desarrollaremos el mandato del artículo 149.2 de la Constitución, estableciendo las responsabilidades del Estado en materia cultural, un suelo mínimo de inversión pública estatal, garantía de los derechos culturales, mecanismos estables de financiación y cooperación con las comunidades autónomas, respetando sus competencias.",
+      "pagina": 34,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Financiación y modernización del sector público cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley del Sistema Público de la Cultura",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Trabajaremos para la aprobación de la Ley del Cine y de la Cultura Audiovisual cuya tramitación fue interrumpida por la convocatoria electoral. Dicha Ley tiene como objetivo la actualización de la normativa de 2007 a la realidad cultural y tecnológica de 2026, así como el fortalecimiento de toda la cadena de valor industrial y creativa del sector audiovisual. Una de sus medidas más relevantes es, además, la protección de los productores independientes en el contexto de la emergencia de las grandes plataformas.",
+      "pagina": 34,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Financiación y modernización del sector público cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley del Cine y de la Cultura Audiovisual",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ley de Archivos para proteger el patrimonio, mejorar la gestión documental y seguir trabajando en el cumplimiento íntegro de la Ley de Memoria Democrática de 2022.",
+      "pagina": 34,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Financiación y modernización del sector público cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de Archivos y gestión documental",
+      "etiquetas": [
+        "cultura",
+        "memoria democrática"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nueva Ley de Patrimonio Cultural para agilizar el cumplimiento de los mandatos de las diversas convenciones internacionales que España ha refrendado desde el año 2005, abordando temas pendientes como la protección de tipos de bienes culturales como el audiovisual, el industrial, el sonoro o el paisaje cultural y la promoción y sensibilización contra la detección ilegal de metales y el expolio, integrando así la educación ciudadana sobre la importancia de la conservación preventiva y el necesario fomento del cruce de datos y el trabajo conjunto entre las distintas administraciones.",
+      "pagina": 34,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Financiación y modernización del sector público cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva Ley de Patrimonio Cultural",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogaremos la Ley 18/2013 que reconoce y protege la tauromaquia como patrimonio cultural.",
+      "pagina": 34,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Financiación y modernización del sector público cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogación de la ley de la tauromaquia como patrimonio",
+      "etiquetas": [
+        "tauromaquia",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Equidad territorial en la cultura: Desarrollaremos y ampliaremos el Plan de Impulso Territorial a los Equipamientos Culturales (PITEC), con financiación estatal y en cooperación con las comunidades autónomas y entidades locales, para reforzar las infraestructuras culturales y corregir los desequilibrios territoriales, atendiendo a las necesidades y prioridades de cada territorio.",
+      "pagina": 34,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Financiación y modernización del sector público cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliación del plan de equipamientos culturales territoriales",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollo del Estatuto del Artista: Desplegaremos por completo la agenda normativa avanzando en el tratamiento fiscal y en el sistema de cotización y prestaciones de la Seguridad Social de los trabajadores y trabajadoras por cuenta propia, así como en el desarrollo reglamentario íntegro de la Ley de Enseñanzas Artísticas y la revisión de las titulaciones de Formación Profesional.",
+      "pagina": 34,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Seguir mejorando el trabajo cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desarrollo del Estatuto del Artista",
+      "etiquetas": [
+        "cultura",
+        "autónomos",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Modernización del sector público y mejoras laborales: Seguiremos con la renovación de teatros, museos, archivos y demás equipamientos culturales pertenecientes al Estado, así como con la revisión de plantillas y recursos del Ministerio de Cultura. En este sentido, cabe destacar la necesidad de un refuerzo integral de los cuerpos facultativos del Ministerio de Cultura para garantizar el desarrollo de la carrera funcionarial de los profesionales del patrimonio cultural, ampliando el número de puestos de trabajo y revisando las funciones relativas a cada uno de los cuerpos.",
+      "pagina": 35,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Seguir mejorando el trabajo cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Renovación de equipamientos y plantillas del Ministerio de Cultura",
+      "etiquetas": [
+        "cultura",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Red de residencias y apoyo a la creación: Ampliaremos ayudas directas a la creación artística y consolidaremos la red de residencias para asegurar la independencia creativa al margen de la situación económica o residencia geográfica.",
+      "pagina": 35,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Seguir mejorando el trabajo cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ayudas a la creación artística y residencias",
+      "etiquetas": [
+        "cultura",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fortalecimiento del asociacionismo y sindicalismo cultural: Consolidación y ampliación de las líneas de ayudas destinadas a fortalecer las estructuras, capacidades organizativas y funcionamiento de las asociaciones y sindicatos del sector cultural, favoreciendo su sostenibilidad, su capacidad de representación y su participación en las políticas públicas culturales.",
+      "pagina": 35,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Seguir mejorando el trabajo cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ayudas a asociaciones y sindicatos del sector cultural",
+      "etiquetas": [
+        "cultura",
+        "sindicatos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulso de la economía social en la cultura: Fortaleceremos las entidades de economía social en el ámbito cultural, mediante políticas de apoyo a su desarrollo, consolidación y sostenibilidad, el reconocimiento de su contribución social y el impulso de su presencia en el conjunto del ecosistema cultural.",
+      "pagina": 35,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Seguir mejorando el trabajo cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a la economía social en la cultura",
+      "etiquetas": [
+        "cultura",
+        "economía social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Daremos cumplimiento al Plan de Derechos Culturales en su fase 2027-2030.",
+      "pagina": 35,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Seguir desarrollando los derechos culturales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de Derechos Culturales 2027-2030",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impacto social de la cultura y desarrollo cultural territorial: Reforzaremos el apoyo a proyectos culturales con impacto social y a iniciativas en el medio rural, favoreciendo la participación ciudadana, el fortalecimiento del tejido cultural local y la cohesión territorial.",
+      "pagina": 35,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Seguir desarrollando los derechos culturales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a proyectos culturales sociales y rurales",
+      "etiquetas": [
+        "cultura",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulso de la transversalidad de la cultura en las políticas públicas: Reforzaremos la integración de la cultura en los ámbitos educativo, sanitario y penitenciario, así como en las políticas de desarrollo sostenible, mediante proyectos intersectoriales, la cooperación entre administraciones y la defensa de la cultura como objetivo propio en la Agenda Post-2030.",
+      "pagina": 35,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Seguir desarrollando los derechos culturales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cultura en educación, sanidad y prisiones",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsaremos políticas culturales que reconozcan y protejan la diversidad étnico-racial, garanticen la participación de las comunidades históricamente infrarrepresentadas, combatan la discriminación y amplíen su presencia en la creación, las instituciones y los espacios de decisión cultural.",
+      "pagina": 35,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Seguir desarrollando los derechos culturales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Diversidad étnico-racial en las políticas culturales",
+      "etiquetas": [
+        "cultura",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Infraestructuras digitales públicas y soberanía digital en la cultura: Impulsaremos plataformas digitales públicas para la creación, difusión y acceso a la cultura; apoyaremos plataformas digitales comunitarias de interés público y modelos de gestión participativa que refuercen la soberanía digital y el acceso equitativo, y lucharemos contra las brechas digitales.",
+      "pagina": 35,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Seguir desarrollando los derechos culturales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Plataformas digitales públicas para la cultura",
+      "etiquetas": [
+        "cultura",
+        "derechos digitales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reconocimiento profesional de la mediación cultural: Impulsaremos el reconocimiento y la profesionalización de la mediación cultural, mediante la definición de sus competencias, perfiles y condiciones laborales, y el fortalecimiento de su papel como herramienta fundamental para garantizar el ejercicio efectivo de los derechos culturales.",
+      "pagina": 36,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Seguir desarrollando los derechos culturales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Profesionalización de la mediación cultural",
+      "etiquetas": [
+        "cultura",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguir reforzando y modernizando las salas de música: Ampliaremos las ayudas a salas de música en vivo (priorizando medianas y pequeñas) para programación artística, adaptación acústica, accesibilidad, seguridad y transición ecológica.",
+      "pagina": 36,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Fortalecimiento y desarrollo de los sectores culturales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ayudas a salas de música en vivo",
+      "etiquetas": [
+        "cultura",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección de librerías y envíos a distancia: Estableceremos un coste mínimo de envío obligatorio en la venta de libros a distancia para evitar que las grandes plataformas utilicen el envío gratuito como ventaja desleal frente a las librerías independientes.",
+      "pagina": 36,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Fortalecimiento y desarrollo de los sectores culturales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Coste mínimo obligatorio de envío en la venta de libros",
+      "etiquetas": [
+        "cultura",
+        "comercio"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Internacionalización y digitalización cultural: Dotación presupuestaria al Plan de Acción de las Industrias Culturales para fomentar la digitalización, la transición ecológica (eficiencia, medición de emisiones y reutilización) y la presencia internacional en ferias y festivales (audiovisual y sector literario).",
+      "pagina": 36,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Fortalecimiento y desarrollo de los sectores culturales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Presupuesto para el Plan de Acción de las Industrias Culturales",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Obligatoriedad del establecimiento de bibliotecas públicas en municipios de más de 2.000 personas. Modificaremos la Ley Reguladora de Bases del Régimen Local para reducirlo de 5.000 a 2.000.",
+      "pagina": 36,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Fortalecimiento y desarrollo de los sectores culturales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Biblioteca pública obligatoria en municipios de más de 2.000 habitantes",
+      "etiquetas": [
+        "cultura",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomento de la creación digital en lenguas del Estado: Nueva línea de ayudas para la creación de contenido digital en lenguas cooficiales.",
+      "pagina": 36,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Promoción y creación de la diversidad lingüística en la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ayudas a contenido digital en lenguas cooficiales",
+      "etiquetas": [
+        "lenguas",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Protección y promoción de la cultura gitana y la lengua romaní: Impulsaremos medidas para el reconocimiento, protección y difusión del patrimonio cultural del pueblo gitano y la revitalización de la lengua romaní, apoyando la creación cultural gitana y su presencia en las instituciones y políticas culturales públicas.",
+      "pagina": 36,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Promoción y creación de la diversidad lingüística en la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Promoción de la cultura gitana y la lengua romaní",
+      "etiquetas": [
+        "cultura",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan Nacional de Diversidad Cultural y Lingüística: Blindaremos el reconocimiento de la pluralidad cultural y lingüística como una política estructural del Ministerio de Cultura, que defina el marco de actuaciones de las políticas públicas a nivel nacional y en relación con las comunidades autónomas.",
+      "pagina": 36,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Promoción y creación de la diversidad lingüística en la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan Nacional de Diversidad Cultural y Lingüística",
+      "etiquetas": [
+        "cultura",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguiremos impulsando el Archivo Histórico de Movimientos Sociales. Abriremos al público el Archivo de Movimientos Sociales, como un espacio de referencia para la memoria histórica de los movimientos sociales y la lucha antifranquista en España.",
+      "pagina": 36,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Por una cultura con memoria democrática"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Apertura del Archivo de Movimientos Sociales",
+      "etiquetas": [
+        "memoria democrática",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguiremos con el proceso de devoluciones de los bienes incautados por la República y no devueltos por el franquismo a sus legítimos dueños.",
+      "pagina": 37,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Por una cultura con memoria democrática"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Devolución de bienes incautados aún no restituidos a sus dueños",
+      "etiquetas": [
+        "memoria democrática",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Plan de refugios climáticos culturales: Impulsaremos un plan de eficiencia energética para todos los edificios dependientes del Ministerio de Cultura, así como la convocatoria de ayudas para la reconversión de los espacios culturales para que puedan pasar a formar parte de la Red Estatal de Refugios Climáticos.",
+      "pagina": 37,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Cultura y emergencia climática"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eficiencia energética y refugios climáticos en espacios culturales",
+      "etiquetas": [
+        "cultura",
+        "medio ambiente",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Comité Estatal de Emergencia Climática en patrimonio cultural: Crearemos un órgano de coordinación institucional, a nivel estatal, autonómico y local, en el marco del Plan Nacional de Gestión de Riesgo y Emergencias en Patrimonio Cultural, para poder prevenir y actuar en situaciones de riesgo para el patrimonio derivadas de los cambios ambientales y los fenómenos meteorológicos extremos derivados de la emergencia climática.",
+      "pagina": 37,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.6. La cultura como derecho",
+        "Cultura y emergencia climática"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comité de riesgos climáticos para el patrimonio cultural",
+      "etiquetas": [
+        "cultura",
+        "emergencias",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde Frente Amplio consideramos el feminismo como un proyecto de país capaz de transformar las estructuras económicas, sociales e institucionales para liberar la vida cotidiana y garantizar que todas las personas, independientemente de su género, orientación sexual o identidad, puedan desarrollar su proyecto de vida en libertad y dignidad.",
+      "pagina": 37,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Feminismo como proyecto de transformación social",
+      "etiquetas": [
+        "igualdad",
+        "ideología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Frente a quienes pretenden hacer retroceder los derechos conquistados por el movimiento feminista y LGTBI+, apostamos por blindar y ampliar las libertades públicas con políticas valientes y recursos suficientes.",
+      "pagina": 37,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Protección y ampliación de derechos feministas y LGTBI",
+      "etiquetas": [
+        "igualdad",
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizaremos el derecho al propio cuerpo mediante el blindaje constitucional del aborto libre y universal en la sanidad pública.",
+      "pagina": 37,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aborto en la sanidad pública recogido en la Constitución",
+      "etiquetas": [
+        "igualdad",
+        "sanidad",
+        "reforma constitucional"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Erradicaremos todas las formas de violencia machista y LGTBIfóbica con redes sólidas de prevención y acogida.",
+      "pagina": 37,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Redes de prevención y acogida frente a la violencia",
+      "etiquetas": [
+        "violencia machista",
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Educaremos en igualdad a través de la coeducación y la educación sexoafectiva en las aulas.",
+      "pagina": 37,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Coeducación y educación sexoafectiva en las aulas",
+      "etiquetas": [
+        "educación",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adaptaremos la normativa electoral para consolidar una paridad real y efectiva. Proponemos un modelo de listas en el que el formato cremallera se aplique como garantía mínima, permitiendo la presencia consecutiva de mujeres en puestos elegibles como mecanismo legítimo de acción positiva frente a la desigualdad histórica.",
+      "pagina": 37,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Listas electorales cremallera como mínimo de paridad",
+      "etiquetas": [
+        "sistema electoral",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Al mismo tiempo, entendemos que no hay emancipación feminista sin justicia social ni redistribución del tiempo y la riqueza.",
+      "pagina": 37,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Vínculo entre feminismo y redistribución",
+      "etiquetas": [
+        "igualdad",
+        "ideología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asignaremos de forma obligatoria por ley al menos un 5 % del presupuesto no financiero del Estado a políticas de igualdad efectiva entre mujeres y hombres (superando el 4,4 % actual).",
+      "pagina": 38,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano",
+        "Más recursos para poder garantizar vidas libres de violencias machistas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "5 % del presupuesto estatal para políticas de igualdad",
+      "etiquetas": [
+        "igualdad",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentaremos un 10 % (con carácter adicional anual) la partida contra las violencias machistas y blindaremos con carácter plurianual las partidas estructurales del Pacto de Estado contra la Violencia de Género para asegurar su estabilidad.",
+      "pagina": 38,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano",
+        "Más recursos para poder garantizar vidas libres de violencias machistas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aumento anual del 10 % de la partida contra la violencia machista",
+      "etiquetas": [
+        "violencia machista",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acceso prioritario a vivienda pública: Garantizaremos acceso prioritario a vivienda pública y protegida para mujeres víctimas de violencia machista.",
+      "pagina": 38,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano",
+        "Más recursos para poder garantizar vidas libres de violencias machistas"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prioridad en vivienda pública para víctimas de violencia machista",
+      "etiquetas": [
+        "violencia machista",
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Solo sí es sí: El consentimiento explícito de las mujeres es lo que determina si existe o no agresión sexual y deberá ser el eje vertebrador de las normas legales, evitando que tengan que demostrar que ha habido violencia y/o intimidación. Serán estrictamente agravantes de la conducta y no requisitos del tipo penal básico.",
+      "pagina": 38,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano",
+        "Garantía del consentimiento, más protección judicial y violencia vicaria"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Consentimiento como eje del delito de agresión sexual",
+      "etiquetas": [
+        "violencia machista",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Suspensión cautelar automática del régimen de visitas: Estableceremos la suspensión cautelar automática del régimen de visitas, estancia y comunicaciones respecto al progenitor investigado por violencia machista, violencia vicaria, delitos contra la libertad sexual o violencia grave a menores, manteniéndose mientras exista riesgo.",
+      "pagina": 38,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano",
+        "Garantía del consentimiento, más protección judicial y violencia vicaria"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suspensión automática de visitas al progenitor investigado",
+      "etiquetas": [
+        "violencia machista",
+        "justicia",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforma de la violencia vicaria y sistema VioGén: Ampliaremos por ley la definición de violencia vicaria y reforzaremos el sistema VioGén incorporando una evaluación del riesgo específica para hijas e hijos de las víctimas.",
+      "pagina": 38,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano",
+        "Garantía del consentimiento, más protección judicial y violencia vicaria"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Definición legal de violencia vicaria y cambios en VioGén",
+      "etiquetas": [
+        "violencia machista",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibición del SAP y pseudociencias: Cumpliremos de forma efectiva la prohibición del Síndrome de Alienación Parental (SAP) y teorías equivalentes mediante el control de informes periciales, formación obligatoria a la judicatura, fiscalía y equipos psicosociales, y procedimientos ágiles para impugnar resoluciones basadas en estos planteamientos.",
+      "pagina": 38,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano",
+        "Garantía del consentimiento, más protección judicial y violencia vicaria"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Aplicación de la prohibición del Síndrome de Alienación Parental",
+      "etiquetas": [
+        "violencia machista",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Juzgados especializados y centros de crisis 24 horas: Crearemos más Juzgados de Violencia sobre la Mujer y dotaremos adecuadamente de personal y recursos a los Centros de Crisis 24 horas.",
+      "pagina": 38,
+      "apartado": [
+        "Derechos sociales para una vida digna",
+        "2.7. Feminismo que pone la vida en el centro y transforma lo cotidiano",
+        "Garantía del consentimiento, más protección judicial y violencia vicaria"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más juzgados de violencia sobre la mujer y centros de crisis",
+      "etiquetas": [
+        "justicia",
+        "violencia machista"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

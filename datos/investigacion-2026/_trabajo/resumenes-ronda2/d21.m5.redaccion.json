@@ -1,0 +1,58 @@
+{
+  "resumenes": [
+    {
+      "tema": "medio-ambiente-y-energia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende una regulación energética «neutral en las tecnologías», prohibir por ley los cambios retroactivos sobre proyectos de generación y dejar de penalizar fiscalmente la electricidad.", "apoyos": ["c-8a412e72ce", "c-f203a41b30", "c-77b372fcbc", "c-201872c47c", "c-2d6e54653f"] },
+        { "texto": "En agua, plantea una Comisión Técnica del Agua independiente, triplicar el ritmo de renovación de las redes y tarifas progresivas por consumo.", "apoyos": ["c-0ee49eb9cd", "c-600802a280", "c-42f0b0ac76"] },
+        { "texto": "Contra los incendios, quiere gestionar un millón de hectáreas de monte al año y bomberos forestales todo el año.", "apoyos": ["c-c63947f808", "c-4019392612", "c-6918dca851"] },
+        { "texto": "Propone una nueva Ley de Bienestar Animal redactada con veterinarios y protectoras, y bajar el IVA de los medicamentos veterinarios del 10% al 4%.", "apoyos": ["c-a0e821a6c3", "c-d4e9d8e892"] }
+      ],
+      "nota": "Todo procede del programa. Se priorizan energía, agua, incendios y bienestar animal; quedan fuera residuos, olas de calor y la reforma de la profesión veterinaria por espacio."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide que el marco financiero europeo 2028-2034 incluya una estrategia contra la despoblación, con incentivos fiscales, conectividad y fondos para el relevo generacional en el medio rural.", "apoyos": ["c-3b69c1619d"] },
+        { "texto": "Defiende una PAC y una política pesquera que modernicen el sector primario y aseguren competencia equitativa frente a las importaciones de terceros países.", "apoyos": ["c-f798250bfe"] },
+        { "texto": "Plantea incentivos fiscales al riego inteligente y rebajar el IVA de los trabajos de prevención de incendios, con la ganadería extensiva y los cultivos como cortafuegos.", "apoyos": ["c-a9eebbcbec", "c-af07ba36ae", "c-c63947f808"] }
+      ],
+      "nota": "Se omiten las citas de hospitales comarcales y plantillas policiales, que solo tocan el medio rural de pasada."
+    },
+    {
+      "tema": "transporte",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una Estrategia Estatal de Infraestructuras a 25 años y que ninguna gran obra se apruebe sin demostrar que compensa más que mejorar lo existente.", "apoyos": ["c-ac7fb5a2f1", "c-46db4cadc4"] },
+        { "texto": "Defiende «conservar antes que inaugurar», con programas plurianuales de conservación de firmes, puentes y túneles.", "apoyos": ["c-8d6a6d94c2", "c-571a598ea0", "c-451337aee4"] },
+        { "texto": "En el tren, plantea una revisión independiente de la señalización de toda la alta velocidad en seis meses, extender el ERTMS y planes de fiabilidad para Cercanías.", "apoyos": ["c-bb7fc17ee9", "c-bd2d300bbd", "c-15ef6dd65d"] },
+        { "texto": "Quiere elegir por mérito a los gestores de las empresas públicas de infraestructuras.", "apoyos": ["c-dee4d56e47"] }
+      ],
+      "nota": "Se sigue el programa; la única declaración (caída de la inversión en infraestructuras desde 2008) es un diagnóstico y no se incluye."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Rechaza cualquier retroceso en igualdad entre hombres y mujeres, protección frente a la violencia de género y derechos LGTBIQ+.", "apoyos": ["c-062968ca62", "c-95c7457049", "c-330bdb30ba", "c-dc3c35b5ba"] },
+        { "texto": "Se opone a limitar la ley de plazos del aborto y pide garantizarlo en la sanidad pública de todas las comunidades.", "apoyos": ["c-7012a87ae1", "c-1e910b6147"] },
+        { "texto": "Propone elevar a ley que las parejas de mujeres, casadas o no, inscriban a sus hijos como de ambas, e incluir el método ROPA en la sanidad pública.", "apoyos": ["c-48c6cefd96", "c-4fb55ff19c"] },
+        { "texto": "En el deporte, quiere extender el objetivo del 40% de mujeres a las presidencias federativas.", "apoyos": ["c-11a038a3a3"] }
+      ],
+      "nota": "Se usa «violencia de género» (término de c-95c7457049) en lugar de «violencia machista»."
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea reforzar el pilar europeo dentro de la OTAN con compras conjuntas de armamento y una base industrial de defensa comunitaria.", "apoyos": ["c-647eda98a7", "c-3a2b317ddf", "c-5a1814b0c0"] },
+        { "texto": "Propone eliminar progresivamente la salida forzosa de soldados y marineros a los 45 años y reconocer la profesión militar como de riesgo.", "apoyos": ["c-bb55e46d93", "c-33b149c651"] },
+        { "texto": "En la UE, pide aplicar los informes Draghi y Letta y congelar fondos a los gobiernos que vulneren el Estado de derecho.", "apoyos": ["c-4fd43fe26b", "c-69e4152e19"] },
+        { "texto": "Para Ceuta y Melilla quiere un estatus europeo de protección específico; su candidata planteó además su entrada plena en la unión aduanera y en Schengen.", "apoyos": ["c-819d4ba6a8", "c-a66a059f9f"] }
+      ],
+      "nota": "Lo de la unión aduanera y Schengen para Ceuta y Melilla solo viene de una declaración de la candidata (11-11-2026) y va atribuido. Se omiten citas de vivienda, cultura o fiscalidad que solo tocan la UE de pasada."
+    }
+  ]
+}

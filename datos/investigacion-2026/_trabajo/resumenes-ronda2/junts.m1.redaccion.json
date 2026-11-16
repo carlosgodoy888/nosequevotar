@@ -1,0 +1,89 @@
+{
+  "resumenes": [
+    {
+      "tema": "impuestos",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una deducción del 15% en el IRPF por el alquiler y la hipoteca y una rebaja del impuesto de sociedades para pequeñas empresas y cooperativas.", "apoyos": ["c-6b811c9249", "c-be73c4da20"] },
+        { "texto": "Pide eximir del IVA a los autónomos que facturan menos de 85.000 euros anuales e incentivar fiscalmente a las empresas que crean empleo.", "apoyos": ["c-7c497689e6", "c-b40b9b4c7d"] },
+        { "texto": "Su cabeza de lista por Barcelona quiere que Cataluña recaude y gestione sus impuestos, como los vascos, fuera del sistema de financiación común de la LOFCA.", "apoyos": ["c-363c7c71f3", "c-08789b8a19"] },
+        { "texto": "Sus portavoces critican lo que llaman la «voracidad recaudatoria» del Gobierno sobre las clases medias.", "apoyos": ["c-c5a0fe9dea", "c-f6c7d33a23"] }
+      ],
+      "nota": "El partido no ha publicado programa: todo procede de declaraciones y de su web. Las medidas fiscales concretas salen de una lista publicada en junts.cat el 27-10-2026."
+    },
+    {
+      "tema": "sanidad",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Destaca haber impulsado la eliminación del copago para personas con grado III+ de dependencia y el refuerzo de los derechos de las personas con ELA.", "apoyos": ["c-cfa2d9702b", "c-661ad3eca3"] },
+        { "texto": "Su ponencia política de 2024 propone ampliar las plazas de Medicina y Enfermería en las universidades catalanas.", "apoyos": ["c-f2fbc936cb"] },
+        { "texto": "La misma ponencia plantea garantizar en todas las comarcas de Cataluña servicios de interrupción del embarazo a partir de los 16 años.", "apoyos": ["c-ba2cc3a244"] },
+        { "texto": "Su diputado Isidre Gavín pidió al Gobierno negociar con los médicos y criticó que se formen con dinero público médicos que después se van.", "apoyos": ["c-ce3874e601", "c-f9f67029e5"] }
+      ],
+      "nota": "Sin programa publicado. Las propuestas de la ponencia de 2024 se refieren a Cataluña y así se indica."
+    },
+    {
+      "tema": "educacion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone recuperar el distrito universitario catalán y ampliar las plazas de Medicina y Enfermería en las universidades catalanas.", "apoyos": ["c-a0845506fe", "c-f2fbc936cb"] },
+        { "texto": "Plantea destinar recursos para reducir las ratios y hacer efectiva la escuela inclusiva, y recuperar la autoridad de los docentes con mejores condiciones laborales y salariales.", "apoyos": ["c-d5e37429b0", "c-dcd8572ad6"] },
+        { "texto": "Defiende el catalán en las aulas y en los patios, «sin complejos ni renuncias».", "apoyos": ["c-ad9e24a67e"] }
+      ],
+      "nota": "Sin programa publicado. Las medidas de ratios y docentes (junts.cat, 21-09-2026) parecen referirse a la escuela en Cataluña, pero la cita no lo dice expresamente, así que no se ha añadido."
+    },
+    {
+      "tema": "inmigracion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide aprobar con urgencia su ley para traspasar a Cataluña las competencias en inmigración, que su cabeza de lista por Barcelona califica de «innegociables».", "apoyos": ["c-7e5a58fdb9", "c-3272f16727", "c-4c535e7ce7", "c-9686bd9bbe"] },
+        { "texto": "Defiende una inmigración «ordenada, reglada», con capacidad real de integración y control efectivo de las fronteras, y sostiene que la capacidad de acogida de Cataluña no es infinita.", "apoyos": ["c-62c56d4c1c", "c-0d571028fa", "c-d22c7baf68"] },
+        { "texto": "Plantea el catalán como lengua común y de acogida para integrar y resume su postura en «derechos, sí; deberes y catalanidad, también».", "apoyos": ["c-7d45438f8a", "c-187fea6e37"] }
+      ],
+      "nota": "Sin programa publicado; todo procede de declaraciones."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Su ponencia política de 2024 propone suprimir la Audiencia Nacional.", "apoyos": ["c-c38300aa32"] },
+        { "texto": "Pide impulsar la jubilación anticipada de los funcionarios de prisiones y exige desclasificar los documentos sobre el 17-A.", "apoyos": ["c-8a0f59f349", "c-b2b356106f"] },
+        { "texto": "Su portavoz de Interior en el Parlament quiere que los Mossos sean «la policía integral, la policía nacional de Cataluña».", "apoyos": ["c-3f77681d9a"] },
+        { "texto": "Su cabeza de lista por Barcelona reclama efectivos adecuados y coordinación policial, y una diputada defendió que ningún maltratador tenga la custodia ni visitas de sus hijos.", "apoyos": ["c-9a22dfd080", "c-054a8b6793", "c-fe1b1fcfcc"] }
+      ],
+      "nota": "Sin programa publicado. No se usa c-a10a46728c porque sin contexto no se sabe a quién se refiere. «17-A» se deja tal cual porque la cita no dice más."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Reclama aplicar por completo la amnistía, con la rehabilitación de los inhabilitados y el regreso de los que llama «exiliados», encabezados por Carles Puigdemont.", "apoyos": ["c-5bcaf5f5c7"] },
+        { "texto": "Su ponencia de 2024 propone suprimir la Audiencia Nacional y derogar el delito de injurias a la Corona y la llamada «ley mordaza».", "apoyos": ["c-c38300aa32", "c-358edfc3af"] },
+        { "texto": "Sostiene que espiar a alguien por ser independentista es delito y exige desclasificar los documentos del 17-A.", "apoyos": ["c-59b8f600d7", "c-b2b356106f"] },
+        { "texto": "Sobre pactos, su cabeza de lista afirma que con ellos ni Abascal ni Colau serán ministros y que no se presenta «para poner o quitar presidentes».", "apoyos": ["c-7d87aceb29", "c-e1e8fb6eac"] }
+      ],
+      "nota": "Sin programa publicado; todo procede de declaraciones y de la ponencia de 2024."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende que Cataluña sea un «Estado propio en forma de república» reconocido como estado miembro de la Unión Europea.", "apoyos": ["c-9af81441b9", "c-4c8c3be302", "c-12208277b4"] },
+        { "texto": "Quiere que Cataluña recaude y gestione sus impuestos fuera del sistema de la LOFCA, y su ponencia de 2024 plantea una Agencia de Seguridad Social propia.", "apoyos": ["c-363c7c71f3", "c-08789b8a19", "c-0344d64f1d", "c-a5ceb85422"] },
+        { "texto": "Pide traspasar a Cataluña las competencias en inmigración y Rodalies de forma integral, «con vías, trenes, estaciones y dinero».", "apoyos": ["c-7e5a58fdb9", "c-4c535e7ce7", "c-b6c64a80ed"] },
+        { "texto": "Defiende la oficialidad del catalán en las instituciones europeas y el derecho legal a ser atendido en catalán por las grandes empresas.", "apoyos": ["c-b7208bbf45", "c-df7a6da8b9"] }
+      ],
+      "nota": "Sin programa publicado; tema con muchas citas, se han priorizado las medidas concretas y los mensajes de campaña."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone contratos temporales de hasta 120 días para las campañas agrícolas y una doble tarifa eléctrica para las comunidades de regantes.", "apoyos": ["c-4179a2a255", "c-521d139838"] },
+        { "texto": "Su diputado Isidre Gavín defiende una política agraria propia para Cataluña, sin recortes, y pide más días de pesca, menos limitaciones y una planificación que no sea anual.", "apoyos": ["c-674be49f08", "c-5567216539"] },
+        { "texto": "Como cabeza de lista por Lleida, reclama que Cataluña quede fuera de una medida por exceso de producción que, según dice, no se da allí.", "apoyos": ["c-096b113af7"] }
+      ],
+      "nota": "Sin programa publicado. La cita c-096b113af7 no dice de qué medida se trata, así que no se concreta."
+    }
+  ]
+}

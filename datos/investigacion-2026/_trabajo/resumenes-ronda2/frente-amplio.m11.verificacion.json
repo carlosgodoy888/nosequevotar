@@ -1,0 +1,62 @@
+{
+  "revisiones": [
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [
+        "Sin fallos que obliguen a corregir. Los ids existen en el tema y las frases conservan la fuerza de las citas del programa (5 % del presupuesto no financiero, 10 % anual adicional, artículo 43, Ley Trans, reparación de víctimas, Cuelgamuros, Acuerdos de 1979, financiación de confesiones, «Ley Mordaza» entre comillas y atribuida).",
+        "Duda del redactor sobre «violencia de género»: se acepta. Es el término legal y el del Pacto de Estado que nombra la misma cita c-3e033ffd3c; no cambia el alcance de la medida y evita adoptar el término propio del partido.",
+        "Duda sobre el artículo 15: correcto seguir el programa (artículo 43). La petición de incluirlo también en el artículo 15 solo aparece en un comunicado de Izquierda Unida (c-8cdcc9fcbe).",
+        "Representatividad aceptable con el límite de 90 palabras (el texto ya tiene 89): cubre presupuesto de igualdad, violencia contra las mujeres, aborto, derechos LGTBI, memoria democrática, laicidad y libertades civiles. Quedan fuera bloques con peso en el programa, como las medidas judiciales contra la violencia machista (consentimiento, suspensión de visitas, violencia vicaria, juzgados especializados), la igualdad salarial, la trata y la ley contra el racismo, pero meterlos obligaría a quitar líneas de peso similar."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone destinar por ley al menos el 5 % del presupuesto no financiero estatal a igualdad y subir un 10 % anual la partida contra la violencia de género.",
+          "apoyos": ["c-a10aa9ecf4", "c-3e033ffd3c"]
+        },
+        {
+          "texto": "Plantea incluir el aborto como derecho en el artículo 43 de la Constitución y desplegar la Ley Trans.",
+          "apoyos": ["c-7f786cec85", "c-abb812b05c", "c-5839ae31c8", "c-2b264cf856"]
+        },
+        {
+          "texto": "Pide reparar a todas las víctimas de la dictadura franquista y convertir Cuelgamuros en un espacio de memoria democrática.",
+          "apoyos": ["c-bb7c73fab6", "c-92fac121ce", "c-ffe86361d3"]
+        },
+        {
+          "texto": "Quiere revisar los Acuerdos de 1979 con la Santa Sede, suprimir la financiación pública de las confesiones religiosas y derogar la que llama «Ley Mordaza».",
+          "apoyos": ["c-6a092b8688", "c-f92de4551a", "c-db867ce5db", "c-fdd0718372"]
+        }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: «propone reducirlo» es ambiguo, porque puede leerse como rebajar el objetivo del 5 % cuando la cita c-b8e36a1d9b habla de «una reducción efectiva de las partidas militares». Se reescribe como «reducir esas partidas», tomando el «objetivo de la OTAN» del propio apartado de la cita.",
+        "Frase 2: «que toda la UE reconozca a Palestina» no es fiel. La UE como tal no reconoce Estados y la cita c-fd3b60df16 habla de que «la totalidad de Estados miembros reconozcan formalmente al Estado de Palestina». Se corrige a «todos los Estados miembros».",
+        "Frases 3 y 4: fieles y con ids válidos. Se mantienen.",
+        "Dudas del redactor: es correcto omitir la frase de Ada Colau sobre Ceuta (c-dc25d7480a), porque es una opinión sin propuesta, y el rechazo al acuerdo UE-Mercosur, que solo aparece en declaraciones de Izquierda Unida (c-ca7be6a4ef, c-d2e485c625). Por el límite de palabras (el texto final tiene 90) queda fuera el desarme nuclear (TPAN y blindar por ley el compromiso de 1986), que tiene peso en el programa. Si se quiere incluir, habría que sacrificar otra línea."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Rechaza el objetivo de la OTAN del 5 % del PIB en gasto militar y propone reducir esas partidas en favor de lo que llama «seguridad humana».",
+          "apoyos": ["c-b8e36a1d9b", "c-966eb42e80", "c-bc1113358a"]
+        },
+        {
+          "texto": "Plantea una ley de embargo integral de armas a Israel, denunciar el Acuerdo de Asociación UE-Israel y que todos los Estados miembros reconozcan a Palestina.",
+          "apoyos": ["c-4e1c7bec16", "c-72523d77f3", "c-fd3b60df16"]
+        },
+        {
+          "texto": "Pide retirar el apoyo al plan de autonomía marroquí y un referéndum sobre el Sáhara Occidental supervisado por la ONU que incluya la independencia.",
+          "apoyos": ["c-b13843188c", "c-471caeb6aa", "c-bc1113358a"]
+        },
+        {
+          "texto": "Propone elevar la ayuda al desarrollo del 0,27 % al 0,7 % de la renta nacional bruta.",
+          "apoyos": ["c-5a40645d0c", "c-bc1113358a"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,14 +1,16 @@
 {
   "partido": "frente-obrero",
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-16",
   "fuentes": [
     "frente-obrero-programa-general"
   ],
   "resumen": {
-    "vigentes": 248,
+    "vigentes": 249,
     "medidas": 189,
     "medidas_concretas": 96,
-    "posiciones": 59,
+    "posiciones": 60,
+    "de_programa": 248,
+    "declaraciones": 1,
     "exactas": 244,
     "normalizadas": 4,
     "sustituidas": 0
@@ -6387,6 +6389,28 @@
       "verificacion": "exacta",
       "estado": "vigente",
       "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-b86e850fbf",
+      "partido": "frente-obrero",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "un sindicalismo de clase, independiente y combativo, que no viva de las subvenciones ni de los pactos con el poder",
+      "idioma": "es",
+      "url": "https://elenclave.es/frente-obrero-munecos-pepe-alvarez-unai-sordo-sede-ccoo-madrid-569-millones-vender-a-trabajadores/",
+      "medio": "El Enclave",
+      "quien": "Roberto Vaquero Arribas",
+      "cargo": "presidente del Frente Obrero y candidato por Madrid",
+      "partido_de_quien": "Frente Obrero",
+      "fecha": "2026-11-11",
+      "nota": "Modelo sindical sin subvenciones públicas, durante la huelga general",
+      "temas": [
+        "empleo"
+      ],
+      "verificacion": "fuente-abierta-corregida",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
     }
   ]
 }

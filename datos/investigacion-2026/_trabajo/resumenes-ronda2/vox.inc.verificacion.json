@@ -1,0 +1,20 @@
+{
+  "revisiones": [
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: «su candidato prioriza «recuperar Ceuta»» se apoya también en c-014ace0c1c, que no es del candidato sino de Isabel Pérez Moñino, portavoz nacional; la atribución no cubre todos los apoyos. Se atribuye a «sus dirigentes», que abarca al candidato (c-88a7f4168f) y a la portavoz (c-014ace0c1c), y «recuperar Ceuta» sigue entre comillas como término del partido.",
+        "Peso: la parte de programa (fronteras con participación militar y militarización de la de Ceuta y Melilla, c-82f13ab1f1 y c-610a185737) se mantiene delante y la de campaña va atribuida; las otras tres frases siguen siendo de programa. Sin cambios en ese aspecto.",
+        "Resto de frases comprobadas contra sus citas (c-e30afa996f, c-29014530c9, c-9904bc6820, c-a577d1022a, c-cee847a5d4, c-95c689fbe5, c-cedd6788f4, c-5379fabca8): fieles, con la misma fuerza y con ids del tema. Total tras la corrección: 90 palabras, dentro del límite."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone aumentar la inversión en Defensa, mejorar los sueldos militares y reconocer el servicio en las Fuerzas Armadas como profesión de riesgo.", "apoyos": ["c-e30afa996f", "c-29014530c9", "c-9904bc6820"] },
+        { "texto": "Plantea proteger las fronteras con participación militar y militarizar las de Ceuta y Melilla; en campaña, sus dirigentes sitúan como prioridad «recuperar Ceuta».", "apoyos": ["c-82f13ab1f1", "c-610a185737", "c-88a7f4168f", "c-014ace0c1c"] },
+        { "texto": "Pide sanciones, suspender acuerdos y revisar relaciones con Marruecos hasta que respete la soberanía española, y presión internacional para recuperar Gibraltar.", "apoyos": ["c-a577d1022a", "c-cee847a5d4"] },
+        { "texto": "Rechaza el acuerdo UE-Mercosur y plantea retirar la cooperación al desarrollo a los países que no colaboren en la gestión de los flujos migratorios.", "apoyos": ["c-95c689fbe5", "c-cedd6788f4", "c-5379fabca8"] }
+      ]
+    }
+  ]
+}

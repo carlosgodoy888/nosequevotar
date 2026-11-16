@@ -1,0 +1,118 @@
+{
+  "partido": "erc",
+  "lote": "erc.2",
+  "temas": [
+    {
+      "tema": "familias-y-cuidados",
+      "elegidas": [
+        { "id": "c-548c4cc2e2", "motivo": "Es la primera línea de su postura (prestación universal por crianza desde 200 euros, mayor donde la vida es más cara) y la única medida del tema con cifra propia de ayuda directa a las familias.", "texto": null, "cambio": null },
+        { "id": "c-90b63181d4", "motivo": "Cubre la segunda línea (proteger a quien cuida a un familiar con cotizaciones pagadas con fondos públicos), distinta de la prestación por crianza.", "texto": null, "cambio": null },
+        { "id": "c-060b1c5998", "motivo": "Cubre la tercera línea, la financiación de la dependencia, con las cifras de 2.018 y 7.200 millones que recoge el resumen.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-a399ccc52c", "por_que_no": "Equiparar monoparentales a numerosas es parte de la segunda línea, pero menos central que la prestación por crianza y que las cotizaciones de las cuidadoras." },
+        { "id": "c-fd9e482fb9", "por_que_no": "No se entiende sola: «sus vulnerabilidades» remite a los menores mencionados antes." },
+        { "id": "c-748ceee9f2", "por_que_no": "Empieza con «Asimismo» y depende de la medida anterior sobre dependencia; además la elegida ya cubre esa línea." }
+      ],
+      "nota": "c-90b63181d4 también aparece como candidata «de otro tema» en pensiones; se usa solo aquí, que es su tema principal."
+    },
+    {
+      "tema": "impuestos",
+      "elegidas": [
+        { "id": "c-eeefd7e81c", "motivo": "Resume su línea de gravar más a quien más tiene con medida concreta y cifras (impuesto permanente a grandes fortunas, nuevo tramo desde 100 millones) y es justo lo que repite Rufián en campaña: «impuestos a las grandes fortunas y no al trabajo».", "texto": null, "cambio": null },
+        { "id": "c-68e0b92c40", "motivo": "Primera línea del resumen: subir del 30 % al 35 % el tipo máximo del IRPF sobre ganancias de capital; complementa la anterior con la fiscalidad de las rentas del capital.", "texto": null, "cambio": null },
+        { "id": "c-d4b315ac9e", "motivo": "Cubre la otra cara de su postura, bajar el IRPF del trabajo por debajo de 35.000 euros («no al trabajo», en palabras de su campaña).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-68e0b92c40", "por_que_no": "Igual de representativa que la elegida primera, pero la de grandes fortunas es la que destaca en campaña; va segunda." },
+        { "id": "c-56273ac471", "por_que_no": "El impuesto permanente a la banca es parte de la tercera línea, pero la medida de grandes fortunas la representa con más concreción y respaldo de campaña." },
+        { "id": "c-660ab0c31f", "por_que_no": "Suprimir la ley Beckham es una pieza más acotada de su postura que las elegidas." }
+      ],
+      "nota": "La Agencia Tributaria de Cataluña (c-51a8a67bd1, 70 palabras) se deja para la parte de financiación autonómica; la rebaja del IVA de alimentos (c-9f5c9213f3) queda fuera por ser variante de la línea de aliviar a las rentas bajas."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "elegidas": [
+        { "id": "c-700c78b893", "motivo": "Es la primera línea del resumen: reformar la ley de violencia de género para incluir las violencias económica, vicaria y digital; medida concreta y sin remisiones.", "texto": null, "cambio": null },
+        { "id": "c-f41ce7b5af", "motivo": "Cubre la línea de derechos LGBTI+ con su medida más clara: reconocimiento legal de las identidades no binarias.", "texto": null, "cambio": null },
+        { "id": "c-d47d6b5c1b", "motivo": "Ley integral contra la trata, la otra gran ley que el resumen sitúa en su primera línea, distinta de la reforma de la ley de violencia de género.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-2d1f2d1b2c", "por_que_no": "Prohibir las terapias de conversión es parte de la línea LGBTI+, ya cubierta por la de identidades no binarias." },
+        { "id": "c-a993b0bce5", "por_que_no": "Igualdad en la filiación de familias LGBTI+: buena, pero más larga (64 palabras) y de la misma línea que la segunda elegida." },
+        { "id": "c-e9008748e7", "por_que_no": "Violencia vicaria y digital: variante de la primera elegida." }
+      ],
+      "nota": "La tercera línea del resumen (derogar la «ley mordaza», delitos de ofensa religiosa e injurias a la Corona) no tiene medida candidata en este tema."
+    },
+    {
+      "tema": "pensiones",
+      "elegidas": [
+        { "id": "c-d8a407768c", "motivo": "Blindar la revalorización con la inflación es su medida central en pensiones y la que mejor recoge su rechazo a recortes; corta y clara.", "texto": null, "cambio": null },
+        { "id": "c-4a65cbcfed", "motivo": "Cubre la línea de jubilación anticipada sin penalización en profesiones peligrosas, en su formulación general.", "texto": null, "cambio": null },
+        { "id": "c-f9ba1785bf", "motivo": "Añade la dimensión territorial propia de su postura: actualizar las pensiones según el IPC de cada territorio.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-f9ba1785bf", "por_que_no": "Más distintiva, pero más larga (58 palabras) y la revalorización con la inflación representa mejor por sí sola la línea principal; va tercera." },
+        { "id": "c-65e2161ef8", "por_que_no": "Empieza con «En particular, … este derecho» y no se entiende sin la anterior." },
+        { "id": "c-d1c12deecd", "por_que_no": "Mutualistas al RETA: de otro tema (empleo) y hay medidas propias suficientes." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "transporte",
+      "elegidas": [
+        { "id": "c-370fb233f4", "motivo": "Rodalies es el eje de su programa de transporte y esta medida lleva cifra y plazo (Plan 2026-2030, 1.400 millones adicionales); encaja con el mensaje de campaña de Rufián de «poner pasta donde toca» en Rodalies.", "texto": null, "cambio": null },
+        { "id": "c-1bc70c96ac", "motivo": "Cubre la primera línea del resumen, el traspaso de infraestructuras, con su prioridad explícita: los aeropuertos de Girona, Reus y Sabadell.", "texto": null, "cambio": null },
+        { "id": "c-911f18a878", "motivo": "Representa su modelo para las vías de alta capacidad (viñeta como sistema único de pago), línea distinta de las anteriores y propia de su postura.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-b906abab8f", "por_que_no": "Culminar el traspaso de Rodalies es igual de central, pero la campaña pone el acento en la inversión y no en el traspaso; además ya hay una medida de traspaso (aeropuertos)." },
+        { "id": "c-2355dadbe6", "por_que_no": "Corredor Mediterráneo y mercancías es parte de la tercera línea, pero la redacción es larga (68 palabras) y mezcla varias cosas." },
+        { "id": "c-fa25fe2130", "por_que_no": "La aportación a la ATM remite a «este modelo» y no se entiende sola." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "organizacion-territorial",
+      "elegidas": [
+        { "id": "c-3393085310", "motivo": "Primera línea de su postura: negociar un referéndum de autodeterminación con acompañamiento internacional.", "texto": null, "cambio": null },
+        { "id": "c-2d6c56f665", "motivo": "Línea de financiación con su medida más concreta y con cifra (condonar más de 17.100 millones del FLA); no hay alternativa igual de concreta en financiación, así que se elige con el cambio mínimo.", "texto": "Condonar de forma efectiva los más de 17.100 millones de euros del FLA. Llevar a cabo la tramitación del proyecto de ley, que supone una reducción de deuda de la Generalitat equivalente a la inversión que hace en cuatro años. Además, la eliminación de esta deuda supondrá un ahorro de alrededor de 1.500 millones de euros anuales en intereses abonados por la Generalitat de Catalunya.", "cambio": "Se ha quitado «impulsado por Esquerra Republicana» tras «proyecto de ley»." },
+        { "id": "c-2e8a225604", "motivo": "Cubre la línea lingüística con su medida marco, la Ley del plurilingüismo, en vez de alguna de sus piezas sueltas.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-1a5ba68f10", "por_que_no": "Nuevo modelo de financiación: demasiado genérico para votar algo concreto." },
+        { "id": "c-542fc5e178", "por_que_no": "Derogar el artículo 145 es concreto, pero menos central que referéndum, financiación y lengua." },
+        { "id": "c-3bde9a1f1f", "por_que_no": "Traspaso de inmuebles del Estado: línea de traspasos, cuyos ejemplos principales (Rodalies, aeropuertos) ya están en transporte." }
+      ],
+      "nota": "La medida de la Agencia Tributaria de Cataluña está en impuestos (no elegida) y el salario mínimo catalán no figura entre las candidatas."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "elegidas": [
+        { "id": "c-67f0ffc7bd", "motivo": "Primera línea del resumen: precios justos que cubran costes reformando la Ley de la cadena alimentaria; medida clara y de 50 palabras.", "texto": null, "cambio": null },
+        { "id": "c-ca2b4c5c6d", "motivo": "Cubre la segunda línea, descentralizar la PAC y los fondos europeos agrarios y pesqueros, rasgo propio de su postura.", "texto": null, "cambio": null },
+        { "id": "c-3e29e0ad38", "motivo": "Rechazo a ratificar el acuerdo UE-Mercosur, la otra parte de la segunda línea y una decisión concreta que se puede votar.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-40c99da961", "por_que_no": "Seguros agrarios (tercera línea) es más secundaria que precios, PAC y Mercosur." },
+        { "id": "c-fd39021886", "por_que_no": "Actualizar costes por combustibles y fertilizantes es variante de la primera y muy larga (77 palabras)." },
+        { "id": "c-c3fc9873a1", "por_que_no": "Canales de Urgell: actuación local, menos representativa del conjunto." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "elegidas": [
+        { "id": "c-e01b5cab95", "motivo": "Primera línea del resumen, con cifra y plazo: inversión pública en investigación hasta el 1,5 % del PIB en 2030.", "texto": null, "cambio": null },
+        { "id": "c-73bb19ad89", "motivo": "Cubre la línea de cultura con su medida más general y votable: completar el Estatuto del Artista.", "texto": null, "cambio": null },
+        { "id": "c-47d24ad7a5", "motivo": "Cubre la línea digital: obligar a las grandes plataformas a proteger a los menores de prácticas manipuladoras o adictivas.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-fb2eeaaf90", "por_que_no": "Traspaso de museos (Plan de Soberanía Cultural) es parte de la línea cultural, pero mezcla traspasos y gobernanza de varios museos; se prefiere el Estatuto del Artista." },
+        { "id": "c-04d75a1fae", "por_que_no": "IA transparente y auditable es igual de válida para la línea digital, pero la protección de menores en plataformas es más concreta." },
+        { "id": "c-43e30efcd1", "por_que_no": "Territorializar el 2 % cultural: larga (72 palabras) y más técnica." }
+      ],
+      "nota": ""
+    }
+  ]
+}

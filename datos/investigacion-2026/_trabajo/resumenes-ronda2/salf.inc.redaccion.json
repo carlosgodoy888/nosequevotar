@@ -1,0 +1,28 @@
+{
+  "resumenes": [
+    {
+      "tema": "democracia-e-instituciones",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone suprimir 12 ministerios, la mitad de los altos cargos, el Senado y el Consejo de Estado, y reducir los asesores a 400.",
+          "apoyos": ["c-d41acc4ca4", "c-d0d5412ea8", "c-b309c71eaf", "c-53b2486a79"]
+        },
+        {
+          "texto": "Plantea que la corrupción de cargos públicos no prescriba, que el condenado devuelva el triple y que el denunciante cobre el 15 % de lo recuperado.",
+          "apoyos": ["c-1a885dd6f5", "c-84ebf31df1", "c-68f3cebae7", "c-0ff364dc2d"]
+        },
+        {
+          "texto": "Pide reformar la Constitución para prohibir las amnistías, acabar con los aforamientos y sustituir el Constitucional por una sala del Supremo.",
+          "apoyos": ["c-7118889e8d", "c-227a4bd785", "c-bda52236cf"]
+        },
+        {
+          "texto": "Bloquearía el sueldo público de su candidato, que lo perdería si en 2030 sus votos no han respaldado todo el programa.",
+          "apoyos": ["c-ee427c1179", "c-f0ad1f8513"]
+        }
+      ],
+      "nota": "Sustituida la frase 4 (CGPJ elegido por jueces, antigüedad o sorteo y publicación en 24 horas de gastos de más de 1.000 euros) por el compromiso de bloquear el sueldo público del candidato, que estaba en el programa (c-ee427c1179) pero no en el resumen y que el candidato ha destacado en campaña (c-f0ad1f8513). Las demás citas nuevas (ministerios, Senado, aforados, corrupción) ya estaban recogidas. El resumen estaba en 89 palabras y no cabía una quinta frase."
+    }
+  ],
+  "sin_cambios": ["vivienda", "pensiones", "impuestos", "sanidad", "inmigracion", "seguridad-y-justicia"]
+}

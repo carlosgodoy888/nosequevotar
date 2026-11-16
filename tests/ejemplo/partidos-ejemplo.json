@@ -2,21 +2,44 @@
   {
     "id": "norte",
     "nombre": "Partido Norte",
-    "ambito": "estatal"
+    "circunscripciones": [
+      "madrid",
+      "soria"
+    ],
+    "documento": "programa"
   },
   {
     "id": "sur",
     "nombre": "Partido Sur",
-    "ambito": "estatal"
+    "circunscripciones": [
+      "madrid",
+      "soria"
+    ],
+    "documento": "programa"
   },
   {
     "id": "este",
     "nombre": "Partido Este",
-    "ambito": "estatal"
+    "circunscripciones": [
+      "madrid",
+      "soria"
+    ],
+    "documento": "programa_general"
   },
   {
     "id": "oeste",
     "nombre": "Partido Oeste",
-    "ambito": "estatal"
+    "circunscripciones": [
+      "madrid"
+    ],
+    "documento": "programa"
+  },
+  {
+    "id": "centro",
+    "nombre": "Partido Centro",
+    "circunscripciones": [
+      "madrid"
+    ],
+    "documento": null
   }
 ]

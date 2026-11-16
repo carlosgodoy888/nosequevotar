@@ -1,0 +1,50 @@
+{
+  "resumenes": [
+    {
+      "tema": "empleo",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone bajar la jornada máxima a 37,5 horas de inmediato y, progresivamente, a 32 horas semanales sin rebaja salarial.",
+          "apoyos": ["c-a3f8516cdf", "c-44d5e18056", "c-1f4d99238d"]
+        },
+        {
+          "texto": "Quiere fijar por ley el salario mínimo en al menos el 60 % del salario medio neto.",
+          "apoyos": ["c-b1902764c9", "c-a3f8516cdf"]
+        },
+        {
+          "texto": "Plantea que, en empresas desde 50 trabajadores, las plantillas ocupen entre un tercio y la mitad de los consejos de administración y se repartan el 10 % del beneficio.",
+          "apoyos": ["c-9f8a150172", "c-157a40fe42", "c-e7966fe96f"]
+        },
+        {
+          "texto": "Propone además subir la prestación por desempleo al 80 % de la base reguladora los seis primeros meses y crear un Plan de Empleo Garantizado.",
+          "apoyos": ["c-f00ff97d76", "c-07faa7b1a8", "c-1667f0d087"]
+        }
+      ],
+      "nota": "Todo sale del programa; las declaraciones (subida del SMI de al menos un 7 % en un comunicado de IU, reflexiones sobre tecnología y siniestralidad) no añaden medidas que el programa no recoja. Quedan fuera por espacio el gravamen del 30 % sobre beneficios no compartidos, la reforma del despido improcedente y la autorización previa de despidos colectivos."
+    },
+    {
+      "tema": "pensiones",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone incluir en la Constitución la pensión pública, su revalorización automática con el IPC y que ninguna sea inferior al salario mínimo.",
+          "apoyos": ["c-7a9bccedda", "c-ceba06889f", "c-a3f8516cdf"]
+        },
+        {
+          "texto": "Quiere devolver la jubilación a los 65 años y permitirla a los 60 en oficios de especial penosidad, como la construcción o la limpieza.",
+          "apoyos": ["c-31ce5d663f", "c-7629158d18"]
+        },
+        {
+          "texto": "Para reforzar los ingresos de la Seguridad Social plantea elevar progresivamente el tope de cotización y añadir una aportación de las empresas más automatizadas.",
+          "apoyos": ["c-67548cec88", "c-814894a2c3"]
+        },
+        {
+          "texto": "También propone subir por encima de la media las pensiones contributivas más bajas y las no contributivas.",
+          "apoyos": ["c-4921e52c41", "c-5a7bc125c5"]
+        }
+      ],
+      "nota": "Todo sale del programa. La nota de prensa del 24 de octubre cifra en unos 10.000 millones la pensión mínima y la jubilación a los 65 y detalla su financiación (impuesto mínimo del 15 % a grandes empresas, impuesto del 2 % a patrimonios de más de un millón); no se incluye porque el programa ya cubre las medidas. Quedan fuera por espacio la eliminación de coeficientes reductores con más de 40 años cotizados y la supresión de las deducciones por planes privados."
+    }
+  ]
+}

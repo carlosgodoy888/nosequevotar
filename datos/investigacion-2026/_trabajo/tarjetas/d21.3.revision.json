@@ -1,0 +1,183 @@
+{
+  "partido": "d21",
+  "lote": "d21.3",
+  "temas": [
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-84d575954b",
+          "motivo": "Medida fiscal concreta y de gran alcance (punto 2 del resumen): actualizar por ley cada año los tramos del IRPF con el IPC; se entiende sola y tiene 68 palabras.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-8e0ce5d16e",
+          "motivo": "Cubre la línea empresarial (punto 3): impuesto de sociedades del 5% sobre los beneficios que las pymes reinviertan, con cifra y apartado propio.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-9452f5a88f",
+          "motivo": "Cubre el eje de su filosofía fiscal (punto 1): concentrar la inspección donde está el fraude real y rendir cuentas cada año de lo recuperado.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-7012a87ae1",
+          "motivo": "Puntos 1 y 2 del resumen: oponerse a cualquier intento de derogar o limitar la ley de plazos del aborto; es su compromiso más claro en el tema.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-48c6cefd96",
+          "motivo": "Línea distinta (punto 3): elevar a ley la inscripción de los hijos de parejas de mujeres como hijos de ambas sin exigir matrimonio.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-5693c3c255",
+          "motivo": "Cubre el punto 4: reconocer por vía ágil la filiación de todo niño sea cual sea su nacimiento. Es de familias-y-cuidados, pero solo hay dos medidas propias y no está elegida en ese tema (lote d21.2).",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-4bd19e0a21",
+          "motivo": "Punto 2 del resumen: reforzar por ley la AIReF, publicar sus proyecciones con un simulador y debatirlas en las Cortes. La asamblea ciudadana (punto 1, c-71e7e1ef27) sería la más representativa pero tiene 87 palabras.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-9503d1f20a",
+          "motivo": "Cubre el punto 3: simplificar la compatibilidad entre pensión y trabajo para quien quiera seguir activo; es la única medida propia válida de esa línea.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-33b149c651",
+          "motivo": "Cubre el punto 4 (jubilación anticipada sin recorte por profesión de riesgo). Es de politica-exterior-y-defensa, pero allí no está elegida (solo en «casi») y aquí faltan medidas propias válidas.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-571a598ea0",
+          "motivo": "Representa su lema «conservar antes que inaugurar» (punto 2) con programas plurianuales de conservación y financiación estable; enlaza con lo que destaca en campaña (caída de la inversión en mantenimiento).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-ac7fb5a2f1",
+          "motivo": "Cubre el punto 1: Estrategia Estatal de Infraestructuras a 25 años y programas de inversión a 6 años.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-bb7fc17ee9",
+          "motivo": "Cubre el punto 3 (seguridad ferroviaria): revisión independiente de la señalización de toda la alta velocidad en los primeros seis meses.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-02c0417698",
+          "motivo": "Su línea principal en el tema (punto 2): que cualquier licencia, título o requisito aprobado en una comunidad valga automáticamente en toda España.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-3820f2dce0",
+          "motivo": "Cubre el punto 3: la comunidad autónoma asume la competencia urbanística del ayuntamiento que bloquee proyectos o incumpla sus objetivos de vivienda. Es de vivienda, pero allí no está elegida (lote d21.1) y aquí solo hay dos propias válidas.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-3e6878e6ce",
+          "motivo": "Completa el punto 2 con la prohibición por ley de repetir trámites o pagar tasas duplicadas entre regiones. La de Ceuta y Melilla (c-819d4ba6a8) queda fuera porque remite a «este marco de insularidad adaptada» y no se entiende sola.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "corregido",
+      "problemas": [
+        "c-c63947f808 (un millón de hectáreas y cortafuegos vivos) ya está elegida en su tema principal, medio-ambiente-y-energia (lote d21.2); no puede ir en dos temas a la vez. Se sustituye por c-d68bf47a4f, la única medida de pesca, que cubre otra parte del sector primario. c-af07ba36ae (IVA de los trabajos de prevención) no vale: sin el apartado no se sabe que habla de incendios y mezcla dos acciones; c-91c89ef8a9 empieza con «Y» y sería una variante de la línea del riego."
+      ],
+      "elegidas": [
+        {
+          "id": "c-3b69c1619d",
+          "motivo": "Única medida propia y punto 1 del resumen: exigir en el marco financiero europeo 2028-2034 una estrategia contra la despoblación con incentivos fiscales, conectividad y fondos para el relevo generacional.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-a9eebbcbec",
+          "motivo": "Cubre el punto 3 en su parte agrícola: incentivos fiscales al riego inteligente para explotaciones. Es de medio-ambiente-y-energia, pero allí no está elegida y aquí solo hay una propia.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-d68bf47a4f",
+          "motivo": "Cubre la pesca, parte del tema y del punto 2 del resumen (política pesquera): incentivos a las cofradías por retirar y entregar en puerto la basura de las redes. Es de medio-ambiente-y-energia, pero allí no está elegida.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-ebc4d70716",
+          "motivo": "Punto 1 del resumen, con cifra y plazo: ley que fije una inversión pública en ciencia de al menos el 1,25% del PIB en 2030.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-93b283be8b",
+          "motivo": "Cubre el punto 3 y la parte de cultura de creadores: que quien entrene modelos de IA informe de las obras usadas, obtenga licencia y pague a sus titulares.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-845ece1843",
+          "motivo": "Cubre el punto 4 (deporte): reconocer como cotizados los años de carrera de los deportistas de alto nivel desde 1980.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    }
+  ]
+}

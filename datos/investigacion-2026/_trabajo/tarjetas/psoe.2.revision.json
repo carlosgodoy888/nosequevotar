@@ -1,0 +1,110 @@
+{
+  "partido": "psoe",
+  "lote": "psoe.2",
+  "temas": [
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-3d7efc980e", "motivo": "Línea de conflictos del resumen (dos Estados en Israel y Palestina, sanciones de la UE a quien la obstaculice), la más concreta y reconocible de su política exterior; la de reforma de la ONU mezcla demasiadas acciones.", "texto": null, "cambio": null },
+        { "id": "c-ac710fe079", "motivo": "Línea europeísta del resumen: superar los bloqueos de la unanimidad en la UE y reforzar el Parlamento Europeo; breve y votable.", "texto": null, "cambio": null },
+        { "id": "c-a141f0b6d9", "motivo": "Línea de cooperación al desarrollo con su objetivo cuantificado (0,7 % de la RNB en ayuda oficial al desarrollo).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-7ac9e01194", "motivo": "Primera línea del resumen: más efectivos de Policía Nacional y Guardia Civil y su redistribución territorial.", "texto": null, "cambio": null },
+        { "id": "c-649537a8d3", "motivo": "Segunda línea del resumen y la más propia de su postura en seguridad: sustituir la Ley de Seguridad Ciudadana de 2015 garantizando reunión y manifestación.", "texto": null, "cambio": null },
+        { "id": "c-c3205f9a30", "motivo": "Línea de justicia del resumen con plazos y cifras (juicios por despido y desahucio en tres meses, desalojo de viviendas ocupadas en 48 horas, más jueces y fiscales).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-8a8fb7d108", "motivo": "Su línea principal es el apoyo económico a la crianza; la prestación por crianza pasa de 80 palabras, así que va la Cuenta de Futuro de 1.000 euros al nacer, siguiente medida del resumen y con cifra.", "texto": null, "cambio": null },
+        { "id": "c-3e8fa96de8", "motivo": "Línea de cuidados y servicios sociales del resumen: la primera Ley de Servicios Sociales con cartera común pactada con las comunidades.", "texto": null, "cambio": null },
+        { "id": "c-1f5f867098", "motivo": "Protección de la infancia en el entorno digital (edad mínima de 16 años en redes), en el resumen y repetida en campaña.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-f8ac57932f", "motivo": "Primera línea del resumen y eje de su propuesta fiscal: más progresividad en las rentas del capital, hasta un tipo máximo del 35 % por encima de 300.000 euros.", "texto": null, "cambio": null },
+        { "id": "c-8294729142", "motivo": "Vertiente de alivio para rentas medias y bajas: mínimo por descendiente convertido en crédito fiscal reembolsable, con cifra de hogares.", "texto": null, "cambio": null },
+        { "id": "c-4479a55f51", "motivo": "Línea de gravar más a grandes empresas y rentas altas con la medida más concreta y votable de ese bloque (cotizadas cuyo ejecutivo cobre más de 100 veces la mediana de su plantilla).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "corregido",
+      "problemas": [
+        "c-87105f7e83 termina con «, retomando la iniciativa legislativa impulsada durante la anterior legislatura», que alude al trabajo legislativo previo de la propia candidatura (criterio d) y no llevaba cambio. Como no hay otra medida sobre las «terapias de conversión», se mantiene con el cambio mínimo: quitar ese inciso."
+      ],
+      "elegidas": [
+        { "id": "c-4e2d908183", "motivo": "Línea central contra la violencia de género con la nueva medida legislativa que destaca el resumen: una ley orgánica contra la violencia vicaria.", "texto": null, "cambio": null },
+        { "id": "c-582ba84e0b", "motivo": "Línea de derechos LGTBI del resumen: que la Ley 4/2023 sea el suelo común en toda España frente a retrocesos autonómicos.", "texto": null, "cambio": null },
+        { "id": "c-87105f7e83", "motivo": "Otra línea del resumen, la penalización de las «terapias de conversión», breve y votable.", "texto": "Culminar la reforma del Código Penal para penalizar las llamadas «terapias de conversión».", "cambio": "Se ha quitado «, retomando la iniciativa legislativa impulsada durante la anterior legislatura», que alude a una iniciativa previa de la propia candidatura." }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-ae3d8d7d6a", "motivo": "Primera línea del resumen y compromiso que su candidato repite en campaña: blindar en la Constitución las pensiones públicas y su revalorización con el IPC.", "texto": null, "cambio": null },
+        { "id": "c-c019c0b0dc", "motivo": "Línea de consolidar y financiar el sistema: acelerar la cuota de solidaridad durante la próxima legislatura.", "texto": null, "cambio": null },
+        { "id": "c-f7928bb186", "motivo": "Línea de mejoras de prestaciones concretas del resumen, con cifra (pensión de orfandad del 20 % al 30 %).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-bf97752f36", "motivo": "Primera línea del resumen tras los accidentes ferroviarios de 2026: Pacto de Estado por la Seguridad Ferroviaria con auditoría técnica en dos meses; 72 palabras, dentro del límite.", "texto": null, "cambio": null },
+        { "id": "c-e726e17bf1", "motivo": "Línea de modernización ferroviaria del resumen: Cercanías y Media Distancia y corredores Mediterráneo y Atlántico.", "texto": null, "cambio": null },
+        { "id": "c-2baf3e93dd", "motivo": "Línea de carreteras con cifra y plazo (5.000 km de firme y 1.629 millones en cuatro años).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-743fd19fad", "motivo": "Línea de financiación autonómica con cifra (el Estado asume 83.000 millones de deuda autonómica); la del nuevo sistema de financiación es más larga y nombra al Gobierno.", "texto": null, "cambio": null },
+        { "id": "c-783d64d393", "motivo": "Línea institucional del resumen: un Senado territorial con circunscripciones autonómicas.", "texto": null, "cambio": null },
+        { "id": "c-3327ce6fc1", "motivo": "Línea de lenguas cooficiales: extender su uso a la Administración General del Estado en sus territorios.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-8697d8f3c8", "motivo": "Primera línea del resumen y única candidata que la recoge: la Ley de Agricultura Familiar y Profesional dentro de un paquete para el sector agrario. Termina en «cinco objetivos:» sin enumerarlos, pero lo que se vota (aprobar el paquete y la ley) se entiende.", "texto": null, "cambio": null },
+        { "id": "c-0842091f4d", "motivo": "Línea de pesca del resumen: un Plan de Transición Justa para la pesca y la acuicultura.", "texto": null, "cambio": null },
+        { "id": "c-4b541a70fe", "motivo": "Tercera medida propia del tema (estrategia de alimentación ecológica); las de otro tema solo pueden usarse si faltan propias.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "corregido",
+      "problemas": [
+        "La cultura, que es una de las cuatro líneas del resumen y una parte importante de las medidas del tema, quedaba sin ninguna medida, mientras que la segunda y la tercera elegidas de digital (responsabilidad de las plataformas y ley de IA) eran dos variantes de la misma línea de regulación tecnológica, ambas con nuevas sanciones y delitos. Se sustituye la ley de IA (c-ba287dca65) por la Ley General de Cultura (c-ce11b0e11c), para que las tres cubran ciencia, digital y cultura."
+      ],
+      "elegidas": [
+        { "id": "c-3ac9d23e25", "motivo": "Línea de control a las plataformas digitales, que ocupa buena parte de sus medidas del tema y que su candidato destaca en campaña (responsabilidad incluso penal de los directivos).", "texto": null, "cambio": null },
+        { "id": "c-1bbf27aea8", "motivo": "Línea de ciencia con cifras y plazo: subir cada año la inversión pública en I+D hasta el 1,25 % del PIB y el 1,5 % en 2035.", "texto": null, "cambio": null },
+        { "id": "c-ce11b0e11c", "motivo": "Línea de cultura del resumen: la Ley General de Cultura con derechos culturales y financiación estable, su medida principal en cultura.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

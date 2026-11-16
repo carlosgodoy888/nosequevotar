@@ -1,0 +1,89 @@
+{
+  "revisiones": [
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: omitía por completo la protección de menores en entornos digitales, que en el programa ocupa un apartado propio con siete citas (edad mínima de 16 años para usar redes sociales, ley en el primer año de legislatura, verificación de edad). Se añade la edad mínima de 16 años (c-1f5f867098, c-02f9f982c5).",
+        "Para hacer sitio se acortan las frases 1 y 2 sin cambiar su contenido; la frase 1 conserva la financiación con la nueva tributación de grandes patrimonios y rentas del capital.",
+        "Fidelidad: «pagar cuatro semanas al 100%» era ambiguo; la cita habla de una prestación de la Seguridad Social para el cuidado de hijos menores de 8 años. Se precisa «por cuidado de hijos menores de 8 años». Sigue atribuida a su candidato, porque solo sale de una declaración de campaña (15-11-2026).",
+        "Quedan fuera por espacio, como ya señalaba el redactor, discapacidad, mayores y longevidad, la «unión de amistad», la universalización de 0 a 3 años y violencia de género; es una limitación del formato, no un error."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone una prestación estatal por crianza para todos los hogares con menores, reforzada para rentas bajas y financiada gravando grandes patrimonios y rentas del capital.",
+          "apoyos": ["c-8dc684f55c", "c-9edb006d39"]
+        },
+        {
+          "texto": "Plantea una «Cuenta de Futuro» de 1.000 euros al nacer, un crédito fiscal reembolsable por descendiente en el IRPF y una edad mínima de 16 años en redes sociales.",
+          "apoyos": ["c-8a8fb7d108", "c-8294729142", "c-1f5f867098", "c-02f9f982c5"]
+        },
+        {
+          "texto": "En cuidados, quiere una Ley de Servicios Sociales, menos listas de espera en dependencia y permisos parentales retribuidos.",
+          "apoyos": ["c-3e8fa96de8", "c-fd2c174e35", "c-59512c7c12", "c-44da3bf0a4"]
+        },
+        {
+          "texto": "Su candidato se comprometió a pagar cuatro semanas al 100% por cuidado de hijos menores de 8 años.",
+          "apoyos": ["c-75f105f42d"]
+        }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad y equilibrio: el resumen solo recogía la vertiente de integración y acogida y omitía la línea del programa sobre control, que la definición del tema incluye: una política migratoria europea que combine la lucha contra las mafias con una gestión eficaz del asilo y las fronteras (c-ed62688196). Se añade.",
+        "Peso de las fuentes: la frase de la agencia estatal de Movilidad Humana procedía de un anuncio de Pedro Sánchez como presidente del Gobierno (30-06-2026), no del programa ni de un compromiso de campaña, y además la cita dice solo «poner en marcha el proceso para la creación», más débil que «anunció una agencia». Con un programa que trata el tema a fondo, se sustituye por la línea de programa citada arriba.",
+        "Se mantiene fuera por espacio el bloque sobre españoles en el exterior (voto exterior, red consular, Plan Integral de Retorno, estudio de una circunscripción exterior), aunque la definición del tema incluye la emigración; es una omisión consciente del formato."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende una migración «ordenada, legal y segura» ligada a las necesidades demográficas y económicas, con trámites más sencillos y más contratación en origen.",
+          "apoyos": ["c-25921b5543", "c-0a3acfbc55"]
+        },
+        {
+          "texto": "Propone desplegar el Plan de Integración y Ciudadanía 2026-2030, con 500 millones iniciales, y presenta la integración como un compromiso de derechos y obligaciones.",
+          "apoyos": ["c-5137fd8b8e", "c-cbd3006cb1"]
+        },
+        {
+          "texto": "Quiere ampliar las vías legales de protección internacional y reforzar la acogida, sobre todo de los menores que llegan solos.",
+          "apoyos": ["c-ced36fa5bd", "c-c773767248", "c-3cffc3902f"]
+        },
+        {
+          "texto": "En la Unión Europea, defiende combinar la lucha contra las mafias con una gestión eficaz del asilo y de las fronteras.",
+          "apoyos": ["c-ed62688196"]
+        }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: omitía las emergencias, que la definición del tema incluye y que en el programa suman una docena de citas (Agencia Estatal de Protección Civil y Emergencias, cuerpo de técnicos de protección civil, centro de predicción de fenómenos extremos, medios contra incendios, UME). Se añade la Agencia Estatal de Protección Civil y Emergencias (c-acdd6cb63b) a la primera frase.",
+        "Para hacer sitio, la frase sobre la Ley de Seguridad Ciudadana se acorta (se quita la mención a las cámaras corporales) y la frase de justicia quita «como máximo», sin cambiar la fuerza de las citas.",
+        "Quedan fuera por espacio violencia de género, la ley orgánica contra la trata y la ley que prohíbe el proxenetismo, ciberdelincuencia, delitos de odio y aforamientos."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone aumentar y redistribuir los efectivos de Policía Nacional y Guardia Civil, un primer plan nacional contra el narcotráfico y una Agencia Estatal de Protección Civil y Emergencias.",
+          "apoyos": ["c-7ac9e01194", "c-8b427d629a", "c-acdd6cb63b"]
+        },
+        {
+          "texto": "Quiere sustituir la Ley de Seguridad Ciudadana de 2015 por otra que garantice reunión y manifestación.",
+          "apoyos": ["c-649537a8d3"]
+        },
+        {
+          "texto": "En justicia, plantea más jueces y fiscales, juicios por despido y desahucio en tres meses y desalojo de viviendas ocupadas en 48 horas.",
+          "apoyos": ["c-c3205f9a30", "c-dcd08c67a6", "c-63e5662d92"]
+        },
+        {
+          "texto": "Pide un mandato de cinco años para la Fiscalía General y que la investigación penal pase a la Fiscalía bajo supervisión judicial.",
+          "apoyos": ["c-9d45151e5c"]
+        }
+      ]
+    }
+  ]
+}

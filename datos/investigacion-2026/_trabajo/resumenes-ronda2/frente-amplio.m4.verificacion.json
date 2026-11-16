@@ -1,0 +1,34 @@
+{
+  "revisiones": [
+    {
+      "tema": "economia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3 (forma y alcance): no decía a qué empresas se aplica. En el programa, un tercio de los consejos corresponde a empresas de 50 a 1.000 trabajadores, la mitad a las de más de 1.000 y el reparto del 10 % del beneficio a las de 50 o más trabajadores (c-9f8a150172, c-157a40fe42). Tal como estaba, parecía aplicarse a todas las empresas. Se añade «en empresas desde 50 trabajadores».",
+        "Frase 1 (forma): la sintaxis mezclaba en la misma enumeración un sustantivo («topes»), una subordinada («que la CNMC pueda») y un infinitivo («gravar»). Se reescribe con tres infinitivos paralelos y la misma fuerza que las citas.",
+        "Frase 2 (neutralidad): «Estado emprendedor» es un término del partido (título del capítulo 6, que figura en el apartado de c-0f475d51bb); además de las comillas, se atribuye con «lo que llama». Se precisa que la Agencia Industrial Pública se crea a partir de la SEPI, como dice la cita.",
+        "Representatividad: la definición del tema incluye las cuentas públicas, y el programa les dedica un bloque amplio sobre la regla de gasto de comunidades y ayuntamientos (c-0068227297, c-e7eb667c2f, c-05d4279990, c-9e18379f1e, c-9dfa1dc40c, c-c808742bae, c-7d99ebeeba, entre otras). El resumen solo mencionaba el Pacto de Estabilidad. Para no pasar de 90 palabras, la regla de gasto ocupa el lugar de la línea ICO de 3.000 millones, que es una medida concreta pero de menos peso. Quedan fuera por espacio: la condonación condicionada de deuda autonómica y local, la reforma del artículo 135, la financiación directa del BCE, los límites a la concentración bancaria, el turismo (limitación de cruceros, tasa turística municipal) y la línea ICO.",
+        "Dudas del redactor: es correcto dejar fuera vivienda, energía, impuestos y empleo, porque tienen tema propio, y también no usar las 6 declaraciones, porque el programa ya cubre lo mismo; la de Baleares (c-704b4ace01) es además de ámbito autonómico. «Estado emprendedor» puede usarse entre comillas, pero atribuido. La regla de gasto sí debía entrar, por el peso que tiene en el tema de cuentas públicas."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone topar precios de alimentos básicos ante emergencias o abusos, gravar los márgenes de grandes alimentarias y permitir a la CNMC fijar precios máximos.",
+          "apoyos": ["c-a2ad6015eb", "c-dfff22a31b", "c-ffc8a31354", "c-c7fdc18c53"]
+        },
+        {
+          "texto": "Defiende lo que llama un «Estado emprendedor», con una Agencia Industrial Pública sobre la SEPI y una banca pública estatal.",
+          "apoyos": ["c-0f475d51bb", "c-e8d21aa142", "c-57158de839", "c-07aea092e3"]
+        },
+        {
+          "texto": "Quiere que las plantillas tengan entre un tercio y la mitad de los consejos de administración y el 10 % del beneficio en empresas desde 50 trabajadores.",
+          "apoyos": ["c-9f8a150172", "c-157a40fe42", "c-e7966fe96f"]
+        },
+        {
+          "texto": "Propone superar el Pacto de Estabilidad y Crecimiento y reformar la regla de gasto de comunidades y ayuntamientos.",
+          "apoyos": ["c-9e8d3444bc", "c-0068227297", "c-e7eb667c2f", "c-05d4279990", "c-9e18379f1e", "c-9dfa1dc40c"]
+        }
+      ]
+    }
+  ]
+}

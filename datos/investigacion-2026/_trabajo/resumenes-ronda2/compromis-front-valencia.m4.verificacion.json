@@ -1,0 +1,81 @@
+{
+  "revisiones": [
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: el resumen omitía la línea de la DANA y la emergencia climática, que la introducción del programa (c-41f9ef1ca4) presenta como exigencia en cualquier acuerdo, y la medida de impedir por ley construir en zonas inundables (c-e40c60cb98). Se incorpora en una frase propia.",
+        "Para dejar sitio dentro de 90 palabras se quitan los contratos a precio fijo para renovables, la empresa pública de energía, Red Eléctrica y la reversión de la reforma de Costas, y se agrupa la parte de factura y titularidad pública de las eléctricas en una frase.",
+        "Duda del redactor sobre Red Eléctrica: al salir del resumen desaparece la contradicción entre el 51 % (c-9df1336a37) y el 100 % (c-81735e0410); «titularidad pública» sin cifra no era del todo exacto, porque con el 51 % la titularidad sería mayoritaria y no total.",
+        "Las frases sobre factura, electrificación, nucleares, plan de biodiversidad y espectáculos taurinos eran fieles a sus citas y se mantienen con la misma fuerza."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone sacar de la factura el impuesto eléctrico y los cargos de política energética y recuperar progresivamente la titularidad pública de las grandes eléctricas.",
+          "apoyos": ["c-c207416820", "c-3003b3e7dd"]
+        },
+        {
+          "texto": "Quiere electrificar el sistema al 100 % en 2030, dejar los combustibles fósiles en 2040 y no prorrogar más las nucleares.",
+          "apoyos": ["c-bdfa254a5a", "c-098f58154f"]
+        },
+        {
+          "texto": "Tras la DANA, plantea como exigencia en cualquier acuerdo proteger frente a la emergencia climática y propone impedir por ley construir en zonas inundables.",
+          "apoyos": ["c-41f9ef1ca4", "c-e40c60cb98"]
+        },
+        {
+          "texto": "También propone un plan de emergencia por la biodiversidad y suprimir los espectáculos taurinos con muerte y sufrimiento animal.",
+          "apoyos": ["c-48141869f9", "c-9ebd3de6c6"]
+        }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone reforzar la ley de la cadena alimentaria para que los precios cubran los costes de producción y etiquetar la parte del precio que va al productor.",
+          "apoyos": ["c-e3c0e953c7", "c-5fdf60ed36"]
+        },
+        {
+          "texto": "Reivindica una PAC adaptada a la agricultura mediterránea que priorice a los profesionales y defiende un IVA reducido para la producción agraria.",
+          "apoyos": ["c-250d72df03", "c-311530a0f4"]
+        },
+        {
+          "texto": "Plantea un estatuto de los agricultores y ganaderos profesionales, más controles a las importaciones extracomunitarias y apoyo al relevo generacional.",
+          "apoyos": ["c-98db40a62f", "c-5ad87cd4bf", "c-dd1832aeee"]
+        },
+        {
+          "texto": "Propone además un fondo que pague a los municipios rurales por sus servicios ambientales y una moratoria de nuevas macrogranjas.",
+          "apoyos": ["c-a71f0bfc03", "c-c1df017bb9"]
+        }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Plantea eliminar lo que llama «privilegios fiscales» de la aviación y destinar los 6.000 millones anuales recaudados al ferrocarril.",
+          "apoyos": ["c-2b167a6817"]
+        },
+        {
+          "texto": "Quiere limitar los vuelos nacionales con alternativa ferroviaria de menos de dos horas y media y reestructurar Adif con más personal propio e inversión en mantenimiento.",
+          "apoyos": ["c-4145580ad7", "c-3d240c03b6"]
+        },
+        {
+          "texto": "Para el País Valenciano propone un plan de Cercanías de 1.500 millones con 58 trenes nuevos, acelerar el Corredor Mediterráneo y un servicio Avant Alicante-Valencia en una hora.",
+          "apoyos": ["c-f75de9535a", "c-4d9ffd77eb", "c-f10f04cee9"]
+        },
+        {
+          "texto": "Su candidata pide además que la Generalitat asuma Cercanías con la financiación necesaria.",
+          "apoyos": ["c-befb538996", "c-fadc008e44"]
+        }
+      ]
+    }
+  ]
+}

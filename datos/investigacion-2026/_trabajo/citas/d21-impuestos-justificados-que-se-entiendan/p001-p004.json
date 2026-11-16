@@ -1,0 +1,290 @@
+{
+  "fuente": "d21-impuestos-justificados-que-se-entiendan",
+  "partido": "d21",
+  "paginas": [
+    1,
+    4
+  ],
+  "citas": [
+    {
+      "cita": "Los impuestos son la columna vertebral del Estado de Bienestar.",
+      "pagina": 2,
+      "apartado": [
+        "Impuestos justificados y que se entiendan"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Los impuestos como base del Estado de bienestar",
+      "etiquetas": [
+        "impuestos",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La buena noticia es que no hace falta subir ni bajar impuestos para hacerlo mucho mejor: basta con un sistema progresivo, transparente, neutral y sencillo, que trate con respeto a quien cumple y concentre toda su fuerza en quien hace trampas.",
+      "pagina": 2,
+      "apartado": [
+        "Impuestos justificados y que se entiendan"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Sistema fiscal progresivo y sencillo sin subir ni bajar impuestos",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada año, cada ciudadano recibirá en su móvil un desglose digital e interactivo de lo que ha aportado (IRPF, cotizaciones sociales e IVA estimado) y de su destino: \"De sus 8.000€, 2.800€ financiaron Sanidad, 1.200€ Educación…\". Incluirá encuestas rápidas para que la ciudadanía valore y audite en tiempo real los servicios que paga.",
+      "pagina": 2,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Entender lo que pagas",
+        "El Recibo del Contribuyente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desglose anual digital de impuestos pagados y su destino",
+      "etiquetas": [
+        "impuestos",
+        "transparencia",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para quienes tengan rentas sencillas, Hacienda preparará y presentará la declaración completa: si pasado el plazo no cambias nada, está hecha.",
+      "pagina": 2,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Entender lo que pagas",
+        "La Renta en un Clic"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Declaración de la renta preparada y presentada por Hacienda",
+      "etiquetas": [
+        "impuestos",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aplicará de oficio todas las deducciones estatales y autonómicas que te correspondan cruzando los datos que ya tienen las administraciones, y toda carta de Hacienda empezará con una frase clara: qué ocurre, qué tienes que hacer y en qué plazo.",
+      "pagina": 2,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Entender lo que pagas",
+        "La Renta en un Clic"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Deducciones aplicadas de oficio y cartas de Hacienda claras",
+      "etiquetas": [
+        "impuestos",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y un asistente oficial, disponible las 24 horas, resolverá tus dudas en lenguaje claro: si te lo dijo Hacienda, vale, y quien siga sus respuestas no podrá ser sancionado.",
+      "pagina": 2,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Entender lo que pagas",
+        "La Renta en un Clic"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Asistente oficial de Hacienda con respuestas que eximen de sanción",
+      "etiquetas": [
+        "impuestos",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "no se puede castigar con la misma dureza a un ciudadano que se equivoca en una casilla que a quien defrauda a sabiendas.",
+      "pagina": 2,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Entender lo que pagas",
+        "Derecho a Equivocarnos"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Distinción entre error del contribuyente y fraude deliberado",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Modificaremos la Ley General Tributaria para reconocer el Derecho al Error: si no hay mala fe ni intención de enriquecerse ilícitamente, la Administración ofrecerá un periodo de corrección guiada, sin sanciones.",
+      "pagina": 2,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Entender lo que pagas",
+        "Derecho a Equivocarnos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la Ley General Tributaria para corregir errores sin sanción",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "si tu sueldo sube solo para seguir el ritmo de los precios, hoy puedes saltar de tramo en el IRPF y pagar más aunque no seas más rico, porque la escala estatal no se actualiza con la inflación. Por ley, los tramos, los mínimos personales y familiares y las reducciones se actualizarán cada año según el IPC, siempre desde el 1 de enero siguiente y sin efectos retroactivos.",
+      "pagina": 3,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Pagar lo que es justo",
+        "Que la Inflación No Suba tus Impuestos"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Actualización anual del IRPF según el IPC",
+      "etiquetas": [
+        "impuestos",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las ganancias por la venta de activos mantenidos menos de un año tributarán como las rentas del trabajo, igual que ocurría hasta 2014. La inversión a largo plazo, la que construye empresas y ahorro, conservará su tratamiento actual.",
+      "pagina": 3,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Pagar lo que es justo",
+        "La Especulación a Corto Plazo, como el Trabajo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ganancias de activos de menos de un año tributan como trabajo",
+      "etiquetas": [
+        "impuestos",
+        "ahorro"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Hacienda comprobará por ti, con inteligencia artificial y los datos que ya tiene la Administración, si cumples los requisitos de cada incentivo, y te dará una respuesta vinculante en un plazo máximo de un mes.",
+      "pagina": 3,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Un sistema fiscal que funcione",
+        "Incentivos que se Puedan Usar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comprobación de requisitos de incentivos fiscales con respuesta vinculante",
+      "etiquetas": [
+        "impuestos",
+        "empresas",
+        "inteligencia artificial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Concentraremos inspectores y análisis de datos donde está el fraude de verdad, aprovechando al máximo la nueva información europea sobre criptoactivos disponible desde 2026, y publicaremos cada año un cuadro de mando abierto con lo que recupera cada euro invertido en inspección.",
+      "pagina": 3,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Un sistema fiscal que funcione",
+        "Perseguir el Fraude Real, No el Bizum"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inspección centrada en grandes fraudes y cuadro de mando anual",
+      "etiquetas": [
+        "impuestos",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "España dedica unos 60.000 millones de euros al año a beneficios fiscales (deducciones, exenciones y tipos reducidos), y muchos nunca se evalúan. Todos tendrán un objetivo medible y una evaluación independiente: si no lo cumplen, desaparecerán y su coste volverá al sistema.",
+      "pagina": 3,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Un sistema fiscal que funcione",
+        "Cada Beneficio Fiscal, con Fecha de Caducidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Evaluación independiente y supresión de beneficios fiscales ineficaces",
+      "etiquetas": [
+        "impuestos",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisaremos también los impuestos especiales (medioambientales, sobre el tabaco y el resto) para equipararlos a la Unión Europea, con un calendario anunciado y sin sorpresas.",
+      "pagina": 3,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Un sistema fiscal que funcione",
+        "Cada Beneficio Fiscal, con Fecha de Caducidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Equiparación de los impuestos especiales a la Unión Europea",
+      "etiquetas": [
+        "impuestos",
+        "unión europea",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los cambios tributarios entrarán en vigor solo el 1 de enero, se anunciarán con al menos seis meses de antelación y nunca tendrán efectos retroactivos.",
+      "pagina": 4,
+      "apartado": [
+        "Impuestos justificados y que se entiendan",
+        "Un sistema fiscal que funcione",
+        "Reglas Estables"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cambios tributarios solo el 1 de enero y con preaviso",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

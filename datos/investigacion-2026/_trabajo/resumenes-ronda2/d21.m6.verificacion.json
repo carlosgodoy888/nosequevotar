@@ -1,0 +1,34 @@
+{
+  "revisiones": [
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: el bloque de ciencia es el de mayor peso (documento sectorial completo, unas 28 citas) y su cita de posición (c-0f383e2c00) enumera como líneas inversión garantizada por ley, autonomía con rendición de cuentas, carrera investigadora y plazas por mérito; el resumen solo recogía la inversión. Se añade la autonomía de los centros (financiación basal en bloque, gestión propia, CSIC independiente) recortando palabras en otras frases para no pasar de 90.",
+        "Fidelidad: la frase de cultura decía «instituciones culturales» sin precisar que son las públicas (museos nacionales, teatros y auditorios públicos, Biblioteca Nacional, Filmoteca); se añade «públicas».",
+        "Fidelidad menor: «computar a efectos de cotización la carrera» se cambia por «reconocer como cotizada la carrera», más cercano a la cita (c-845ece1843); el IVA del 10 % se mantiene con la misma fuerza que la cita.",
+        "Las demás frases (1,25 % del PIB en 2030 por ley, incentivo del 35 % al cine, licencia y remuneración por las obras de entrenamiento de la IA, registro de algoritmos públicos, IVA del 10 % en servicios deportivos) son fieles; todas las citas son de programa de estas elecciones, ninguna autonómica o local, y no hay términos valorativos ni etiquetas.",
+        "Se mantiene fuera, por el límite de palabras, la Agencia Nacional de Ciberseguridad Independiente, el IVA del 10 % para la música grabada y los usos de la IA en sanidad, Hacienda, policía o energía, que encajan mejor en otros temas."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone fijar por ley una inversión pública en ciencia de al menos el 1,25 % del PIB en 2030 y dar autonomía a los centros científicos.",
+          "apoyos": ["c-ebc4d70716", "c-0f383e2c00", "c-23d6b2538c", "c-8128621d67", "c-9563fc2848", "c-ad015ad4ef"]
+        },
+        {
+          "texto": "En cultura plantea elegir por concurso de méritos a los directores de instituciones culturales públicas y un incentivo fiscal al cine del 35 %.",
+          "apoyos": ["c-c1f054459b", "c-594c650193", "c-6acba045e6"]
+        },
+        {
+          "texto": "Pide licencia y pago por las obras con que se entrena la IA y un registro de algoritmos públicos.",
+          "apoyos": ["c-93b283be8b", "c-e94335cf83", "c-05ad9f6880"]
+        },
+        {
+          "texto": "En deporte propone reconocer como cotizada la carrera de los deportistas de alto nivel desde 1980 y un IVA deportivo del 10 %.",
+          "apoyos": ["c-845ece1843", "c-f3bd805529"]
+        }
+      ]
+    }
+  ]
+}

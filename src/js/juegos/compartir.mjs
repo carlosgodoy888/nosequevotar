@@ -1,30 +1,32 @@
-// Imagen para compartir, dibujada con canvas y las tipografías de la web, sin librerías.
-// Nada de datos personales ni de la provincia: solo la frase, los datos elegidos y la dirección.
+// Imagen y texto para compartir el resultado. La imagen se dibuja con canvas y las tipografías de la web,
+// sin librerías. No lleva la provincia ni ningún dato de quien hace el test: solo el resultado, los temas
+// elegidos y la dirección de la web. El enlace lleva a la portada.
 
-export const URL_TEST = 'https://nosequevotar.es/test/';
-export const FORMATOS = { vertical: { ancho: 1080, alto: 1920 }, horizontal: { ancho: 1200, alto: 630 } };
+export const URL_WEB = 'https://nosequevotar.es/';
+export const FORMATOS = { cuadrada: { ancho: 1080, alto: 1350 }, historia: { ancho: 1080, alto: 1920 } };
 
 const TINTA = '#16181D';
 const PAPEL = '#FFFFFF';
 const SEPIA = '#EFE3C8';
 const GRIS = '#5D636B';
+const REGLA = '#C9CCD1';
 const SANS = '"Archivo", system-ui, sans-serif';
 const SERIF = '"Source Serif 4", Georgia, serif';
+const DURO = String.fromCharCode(160);
 
 // Espera a que estén las tipografías propias (preload en la cabecera) antes de dibujar.
 export async function tipografiasListas() {
   if (!document.fonts) return;
   await Promise.all([
-    document.fonts.load(`900 64px ${SANS}`), document.fonts.load(`700 32px ${SANS}`), document.fonts.load(`400 40px ${SERIF}`),
+    document.fonts.load(`900 64px ${SANS}`), document.fonts.load(`700 32px ${SANS}`), document.fonts.load(`500 32px ${SANS}`), document.fonts.load(`400 40px ${SERIF}`),
   ]).catch(() => {});
   await document.fonts.ready;
 }
 
 function lineas(ctx, texto, ancho) {
-  const palabras = texto.split(/\s+/);
   const res = [];
   let actual = '';
-  for (const p of palabras) {
+  for (const p of texto.split(/\s+/)) {
     const prueba = actual ? `${actual} ${p}` : p;
     if (ctx.measureText(prueba).width > ancho && actual) { res.push(actual); actual = p; } else actual = prueba;
   }
@@ -32,116 +34,153 @@ function lineas(ctx, texto, ancho) {
   return res;
 }
 
+// Escribe un texto en varias líneas (como mucho maxLineas, con puntos suspensivos) y devuelve la y siguiente.
 function escribir(ctx, texto, x, y, ancho, alto, maxLineas) {
   let ls = lineas(ctx, texto, ancho);
   if (maxLineas && ls.length > maxLineas) {
     ls = ls.slice(0, maxLineas);
     let ultima = ls.at(-1);
     while (ctx.measureText(`${ultima}…`).width > ancho && ultima.includes(' ')) ultima = ultima.slice(0, ultima.lastIndexOf(' '));
-    ls[ls.length - 1] = `${ultima}…`;
+    ls[ls.length - 1] = `${ultima.replace(/(?:[,.;:]| y)$/, '')}…`;
   }
   ls.forEach((l, i) => ctx.fillText(l, x, y + i * alto));
   return y + ls.length * alto;
 }
 
-// Palotes agrupados de cinco: cuatro verticales y uno que los cruza.
-function palotes(ctx, n, x, y, alto, grosor) {
-  const paso = alto * 0.32;
-  let cx = x;
-  for (let resto = n; resto > 0; resto -= 5) {
-    const k = Math.min(5, resto);
-    const verticales = k === 5 ? 4 : k;
-    ctx.lineWidth = grosor;
-    ctx.strokeStyle = TINTA;
-    for (let i = 0; i < verticales; i++) {
-      ctx.beginPath(); ctx.moveTo(cx + i * paso, y); ctx.lineTo(cx + i * paso, y + alto); ctx.stroke();
-    }
-    if (k === 5) { ctx.beginPath(); ctx.moveTo(cx - paso * 0.4, y + alto * 0.8); ctx.lineTo(cx + paso * 3.4, y + alto * 0.2); ctx.stroke(); }
-    cx += paso * 4 + paso * 1.6;
+// El tamaño de letra más grande, entre dos límites, con el que el texto cabe en las líneas pedidas.
+function ajustar(ctx, texto, ancho, fuente, maximo, minimo, maxLineas) {
+  let cuerpo = maximo;
+  for (; cuerpo > minimo; cuerpo -= 2) {
+    ctx.font = fuente(cuerpo);
+    if (lineas(ctx, texto, ancho).length <= maxLineas) break;
   }
+  ctx.font = fuente(cuerpo);
+  return cuerpo;
 }
 
-function marco(ctx, ancho, alto, escala) {
-  ctx.fillStyle = SEPIA; ctx.fillRect(0, 0, ancho, alto);
-  const m = 48 * escala;
-  ctx.fillStyle = PAPEL; ctx.fillRect(m, m, ancho - 2 * m, alto - 2 * m);
-  ctx.strokeStyle = TINTA; ctx.lineWidth = 3 * escala; ctx.strokeRect(m, m, ancho - 2 * m, alto - 2 * m);
-  return m;
+// La casilla marcada de la web: un cuadrado con un aspa.
+function casilla(ctx, x, y, lado, grosor) {
+  ctx.strokeStyle = TINTA; ctx.lineWidth = grosor; ctx.lineCap = 'butt';
+  ctx.strokeRect(x + grosor / 2, y + grosor / 2, lado - grosor, lado - grosor);
+  const m = lado * 0.24;
+  ctx.beginPath(); ctx.moveTo(x + m, y + m); ctx.lineTo(x + lado - m, y + lado - m); ctx.moveTo(x + lado - m, y + m); ctx.lineTo(x + m, y + lado - m); ctx.stroke();
 }
 
-// Aviso y dirección en una línea si caben; si no, el aviso encima de la dirección.
-function pie(ctx, ancho, alto, m, escala, anio) {
-  const x = m + 40 * escala;
-  const util = ancho - 2 * x;
-  const aviso = `Programas de ${anio} · No es un consejo de voto`;
-  const fuenteAviso = `500 ${26 * escala}px ${SANS}`;
-  const fuenteDominio = `800 ${30 * escala}px ${SANS}`;
-  ctx.font = fuenteAviso; const anchoAviso = ctx.measureText(aviso).width;
-  ctx.font = fuenteDominio; const anchoDominio = ctx.measureText('nosequevotar.es').width;
-  const unaLinea = anchoAviso + anchoDominio + 32 * escala <= util;
-  const y = alto - m - 56 * escala;
-  const yAviso = unaLinea ? y : y - 44 * escala;
-  ctx.fillStyle = TINTA; ctx.fillRect(x, yAviso - 34 * escala, util, 2 * escala);
-  ctx.font = fuenteAviso; ctx.fillStyle = GRIS; ctx.textAlign = 'left';
-  ctx.fillText(aviso, x, yAviso + 6 * escala);
-  ctx.font = fuenteDominio; ctx.fillStyle = TINTA; ctx.textAlign = unaLinea ? 'right' : 'left';
-  ctx.fillText('nosequevotar.es', unaLinea ? x + util : x, y + 6 * escala);
-  ctx.textAlign = 'left';
+function listaNombres(nombres) {
+  if (nombres.length <= 1) return nombres.join('');
+  return `${nombres.slice(0, -1).join(', ')} y ${nombres.at(-1)}`;
 }
 
 /**
  * @param {HTMLCanvasElement} canvas
- * @param {Object} datos { tipo: 'resultado' | 'favorita', formato, frase, anio, filas: [{ nombre, porcentajeTexto, x }], texto }
+ * @param {Object} datos { formato: 'cuadrada' | 'historia', anio, filas: [{ nombre, porcentaje, porcentajeTexto, primero }], temas: [nombres] }
  */
 export async function dibujar(canvas, datos) {
   await tipografiasListas();
-  const anio = datos.anio || 2023;
-  const { ancho, alto } = FORMATOS[datos.formato];
+  const { ancho, alto } = FORMATOS[datos.formato] || FORMATOS.cuadrada;
+  const historia = datos.formato === 'historia';
   canvas.width = ancho; canvas.height = alto;
   const ctx = canvas.getContext('2d');
-  const vertical = datos.formato === 'vertical';
-  const escala = vertical ? 1.25 : 0.82;
-  const m = marco(ctx, ancho, alto, escala);
-  const x = m + 40 * escala;
+  ctx.textBaseline = 'alphabetic';
+
+  // Mesa sepia y hoja blanca con filete, como las papeletas de la web.
+  ctx.fillStyle = SEPIA; ctx.fillRect(0, 0, ancho, alto);
+  const m = 44;
+  const arriba = historia ? 150 : m;
+  const abajo = historia ? 190 : m;
+  ctx.fillStyle = PAPEL; ctx.fillRect(m, arriba, ancho - 2 * m, alto - arriba - abajo);
+  ctx.strokeStyle = TINTA; ctx.lineWidth = 4; ctx.strokeRect(m, arriba, ancho - 2 * m, alto - arriba - abajo);
+
+  const x = m + 56;
   const util = ancho - 2 * x;
-  let y = m + (vertical ? 120 : 64) * escala;
+  const fin = alto - abajo;
+  let y = arriba + 92;
 
-  ctx.fillStyle = TINTA; ctx.font = `700 ${24 * escala}px ${SANS}`;
-  ctx.fillText(datos.tipo === 'resultado' ? 'Test sin siglas · nosequevotar.es' : 'Mi propuesta favorita del test sin siglas', x, y);
-  y += 56 * escala;
+  // Cabecera: marca a la izquierda, elecciones a la derecha.
+  casilla(ctx, x, y - 34, 40, 5);
+  ctx.fillStyle = TINTA; ctx.font = `800 34px ${SANS}`; ctx.textAlign = 'left';
+  ctx.fillText('No sé qué votar', x + 56, y);
+  ctx.fillStyle = GRIS; ctx.font = `500 26px ${SANS}`; ctx.textAlign = 'right';
+  ctx.fillText(`Elecciones generales ${datos.anio}`, x + util, y - 2);
+  ctx.textAlign = 'left';
+  y += 34;
+  ctx.fillStyle = TINTA; ctx.fillRect(x, y, util, 4);
 
-  if (datos.tipo === 'resultado') {
-    ctx.font = `900 ${(vertical ? 64 : 50) * escala}px ${SANS}`;
-    y = escribir(ctx, datos.frase, x, y + 20 * escala, util, (vertical ? 72 : 56) * escala, 4) + 40 * escala;
-    for (const f of datos.filas) {
-      ctx.fillStyle = TINTA; ctx.fillRect(x, y, util, 2 * escala);
-      y += (vertical ? 70 : 52) * escala;
-      ctx.font = `800 ${(vertical ? 44 : 36) * escala}px ${SANS}`; ctx.textAlign = 'left';
-      ctx.fillText(f.nombre, x, y);
-      ctx.textAlign = 'right';
-      ctx.fillText(f.porcentajeTexto.replace(' ', ' '), x + util, y);
-      ctx.textAlign = 'left';
-      y += 20 * escala;
-      palotes(ctx, f.x, x, y, (vertical ? 44 : 30) * escala, 4 * escala);
-      y += (vertical ? 70 : 46) * escala;
-    }
-  } else {
-    ctx.font = `400 ${(vertical ? 56 : 42) * escala}px ${SERIF}`;
-    y = escribir(ctx, `«${datos.texto}»`, x, y + 30 * escala, util, (vertical ? 78 : 58) * escala, vertical ? 14 : 5) + 30 * escala;
-    ctx.font = `500 ${26 * escala}px ${SANS}`; ctx.fillStyle = GRIS;
-    escribir(ctx, `Una propuesta real de un programa de ${anio}. El partido se ve al hacer el test.`, x, y + 10 * escala, util, 36 * escala, 2);
+  // Titular.
+  const primeros = datos.filas.filter(f => f.primero).map(f => f.nombre);
+  y += historia ? 104 : 86;
+  ctx.fillStyle = GRIS; ctx.font = `700 34px ${SANS}`;
+  ctx.fillText('Mi resultado en el test sin siglas', x, y);
+  y += historia ? 96 : 84;
+  ctx.fillStyle = TINTA;
+  const titular = primeros.length ? `Encajo más con ${listaNombres(primeros)}` : 'No encajo con ninguna candidatura';
+  const cuerpo = ajustar(ctx, titular, util, c => `900 ${c}px ${SANS}`, historia ? 92 : 84, 50, 3);
+  y = escribir(ctx, titular, x, y, util, cuerpo * 1.08, 3);
+
+  // Pie: se reserva antes de pintar las filas para saber cuántas caben.
+  const altoPie = 214;
+  const yPie = fin - altoPie;
+
+  // Filas: nombre, porcentaje (de −100 a +100) y barra. La barra solo enseña la afinidad positiva:
+  // con cero o menos se queda vacía y habla la cifra.
+  y += historia ? 36 : 0;
+  const altoFila = historia ? 132 : 104;
+  const caben = Math.max(1, Math.floor((yPie - y - 90) / altoFila));
+  const filas = datos.filas.slice(0, Math.min(caben, historia ? 8 : 5));
+  for (const f of filas) {
+    y += altoFila;
+    ctx.fillStyle = TINTA; ctx.textAlign = 'right'; ctx.font = `900 46px ${SANS}`;
+    const pct = f.porcentajeTexto.replace(' ', DURO);
+    ctx.fillText(pct, x + util, y - 34);
+    const anchoPct = ctx.measureText(pct).width;
+    ctx.textAlign = 'left';
+    ajustar(ctx, f.nombre, util - anchoPct - 32, c => `800 ${c}px ${SANS}`, 42, 28, 1);
+    escribir(ctx, f.nombre, x, y - 34, util - anchoPct - 32, 46, 1);
+    ctx.fillStyle = REGLA; ctx.fillRect(x, y - 14, util, 14);
+    if (f.porcentaje > 0) { ctx.fillStyle = TINTA; ctx.fillRect(x, y - 14, Math.max(6, (util * Math.min(100, f.porcentaje)) / 100), 14); }
   }
-  pie(ctx, ancho, alto, m, escala, anio);
+  if (datos.filas.length > filas.length) {
+    y += 48;
+    ctx.fillStyle = GRIS; ctx.font = `500 26px ${SANS}`;
+    ctx.fillText(`y ${datos.filas.length - filas.length} ${datos.filas.length - filas.length === 1 ? 'candidatura' : 'candidaturas'} más`, x, y);
+  }
+
+  // Temas elegidos.
+  y += 62;
+  if (y < yPie - 20) {
+    ctx.fillStyle = GRIS; ctx.font = `500 28px ${SANS}`;
+    const temas = `En ${datos.temas.length} temas: ${listaNombres(datos.temas.map(t => t.toLowerCase()))}.`;
+    escribir(ctx, temas, x, y, util, 38, Math.max(1, Math.min(3, Math.floor((yPie - y) / 38))));
+  }
+
+  // Pie: qué es, la dirección y el aviso.
+  ctx.fillStyle = TINTA; ctx.fillRect(x, yPie, util, 4);
+  ctx.fillStyle = TINTA;
+  ajustar(ctx, 'Medidas reales de los programas, votadas sin saber de qué partido son.', util, c => `400 ${c}px ${SERIF}`, 30, 22, 1);
+  const yp = escribir(ctx, 'Medidas reales de los programas, votadas sin saber de qué partido son.', x, yPie + 56, util, 40, 1);
+  ctx.font = `900 50px ${SANS}`;
+  ctx.fillText('nosequevotar.es', x, yp + 48);
+  ctx.fillStyle = GRIS; ctx.font = `500 26px ${SANS}`; ctx.textAlign = 'right';
+  ctx.fillText('No es un consejo de voto', x + util, yp + 44);
+  ctx.textAlign = 'left';
+
+  // En las historias, una invitación fuera de la hoja.
+  if (historia) {
+    ctx.fillStyle = TINTA; ctx.font = `800 40px ${SANS}`; ctx.textAlign = 'center';
+    ctx.fillText('¿Y tú con quién encajas?', ancho / 2, 104);
+    ctx.font = `700 34px ${SANS}`;
+    ctx.fillText('Haz el test en nosequevotar.es', ancho / 2, alto - 104);
+    ctx.textAlign = 'left';
+  }
 }
 
-export function textoResultado(filas, anio = 2023) {
-  const lista = filas.map(f => `${f.nombre} (${f.porcentajeTexto.replace(' ', ' ')})`);
-  const unidos = lista.length > 1 ? `${lista.slice(0, -1).join(', ')} y ${lista.at(-1)}` : lista[0];
-  return `En el test sin siglas, coincido más con el programa de ${anio} de ${unidos}. No es un consejo de voto. ${URL_TEST}`;
-}
-
-export function textoFavorita(texto) {
-  return `Mi propuesta favorita del test sin siglas: «${texto}» ${URL_TEST}`;
+// Texto para acompañar la imagen o para enviar solo. Nombra a las primeras candidaturas con afinidad
+// positiva (las que recibe, tres como mucho); si no hay ninguna, lo dice.
+export function textoResultado(filas, empatadasEnCabeza = 1) {
+  const lista = filas.map(f => `${f.nombre} (${f.porcentajeTexto.replace(' ', DURO)})`);
+  const cabeza = empatadasEnCabeza > 1 ? 'Mis primeras candidaturas' : 'Con quien más encajo';
+  const resultado = lista.length ? `${cabeza}: ${listaNombres(lista)}.` : 'No encajo con ninguna candidatura.';
+  return `He hecho el test sin siglas de No sé qué votar: votas medidas reales de los programas sin saber de qué partido son. ${resultado} No es un consejo de voto. Haz el tuyo: ${URL_WEB}`;
 }
 
 const aBlob = (canvas) => new Promise((ok, mal) => canvas.toBlob(b => (b ? ok(b) : mal(new Error('No se pudo crear la imagen'))), 'image/png'));
@@ -156,7 +195,7 @@ export async function descargar(canvas, nombre) {
   return 'descargada';
 }
 
-// Comparte la imagen si el dispositivo lo permite; si no, la descarga.
+// Comparte la imagen con su texto si el dispositivo lo permite; si no, la descarga.
 export async function compartir(canvas, nombre, texto) {
   const blob = await aBlob(canvas);
   const archivo = new File([blob], nombre, { type: 'image/png' });

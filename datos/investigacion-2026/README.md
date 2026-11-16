@@ -11,6 +11,9 @@ Datos de trabajo para las páginas de partidos y de temas y para el test con los
 | `partidos.json` | Mapa de candidaturas: qué nombres del BOE forman cada una, miembros, relación con 2023, estado del programa, dudas y revisión | A mano. Es el único de esta tabla que se edita |
 | `partidos.md` | Tabla de las candidaturas con sus listas proclamadas, los votos de 2023 que les corresponden y lo pendiente | `node scripts/investigacion/resumen-partidos.mjs` |
 | `fuentes.json` | Registro de cada documento usado: dirección, fecha de consulta, huella SHA-256 y estado | A mano, al añadir una fuente |
+| `temas.json` | Los 18 temas, las etiquetas que van a cada uno y, por su posición, el orden estándar | A mano; el orden lo aplica `ordenar-temas.mjs` |
+| `orden-temas.json` y `orden-temas.md` | La encuesta de la que sale el orden de los temas, con cada respuesta asignada a un tema, y la tabla resultante | El JSON, a mano; el Markdown, con `node scripts/investigacion/ordenar-temas.mjs` |
+| `tarjetas/` | Las tarjetas del test: medidas candidatas, selección y banco en limpio | Ver «Las tarjetas del test» |
 | `_trabajo/` | Archivos intermedios, entre ellos el resultado completo de los agentes que investigaron y verificaron las candidaturas | — |
 
 `candidaturas-boe.json`, `resultados-2023.json` y `partidos.md` no se editan a mano. Las circunscripciones y los votos de 2023 de cada candidatura no se escriben en `partidos.json`: los calcula `resumen-partidos.mjs`, que además se para si alguna lista del BOE queda sin asignar o asignada dos veces. Los documentos descargados están fuera del repositorio, en `../datos-nosequevotar/fuentes/descargas/` (variable `DATOS_DIR`).
@@ -32,7 +35,9 @@ Decididos por el responsable del proyecto el 10 de noviembre de 2026.
 | Periodo | Desde las generales de julio de 2023. Todo va fechado; en los resúmenes manda lo más reciente |
 | Quién habla por un partido | Líder, cabezas de lista, portavoces nacionales y parlamentarios, y cuentas oficiales. En una coalición, lo que dice el líder de un partido miembro se atribuye a ese miembro |
 | Postura ante un tema | Resumen neutro de 2 a 4 frases, cada una apoyada en citas. Sin etiquetas ideológicas ni valoraciones. Si no hay base suficiente, se dice |
-| Sin programa | Se recogen sus declaraciones con medidas concretas, marcadas como «declaración, no programa». Si entran en el test se decide después |
+| Sin programa | Se recogen sus declaraciones con medidas concretas, marcadas como «declaración, no programa». No entran en el test |
+| Orden de los temas | Decisión del 16-11-2026: un solo orden para la página de temas, los temas dentro de cada partido y el test, de más a menos citado como problema en el barómetro del CIS de octubre de 2026 (suma de «principal problema de España» y «problema que más le afecta personalmente»). Las quejas sobre la política en general no suman a ningún tema |
+| Test | Decisión del 16-11-2026: solo programas (o, si no hay, un documento general, avisándolo). La tarjeta es la medida tal como está escrita; solo se quita el nombre de la propia candidatura. Los nombres de territorio y las menciones a otros partidos se dejan. De cada candidatura y tema, hasta tres medidas: las más representativas del conjunto de lo que propone en el tema, teniendo en cuenta lo que más destaca en campaña |
 | Declaraciones cuando llega el programa | Se conservan (decisión del 12-11-2026). Si un partido publica programa después de que se recogieran sus declaraciones, el programa se extrae entero y se añade; las declaraciones siguen vigentes y visibles, cada una con su fuente y su fecha, y los resúmenes se reescriben con todo. Lo mismo vale para un documento parcial o general que ya se usara |
 | Copias | No se piden copias a Internet Archive. Copia local y SHA-256; se enlaza la dirección original o la copia que ya exista |
 | Cambios | Cuando sale un programa o una versión nueva, lo anterior no se borra: se marca como «sustituida» y deja de salir en los documentos generados |
@@ -64,6 +69,23 @@ Los Markdown por partido (`partidos/<partido>.md`) se generan con `generar-md.mj
 Qué dice la web de cada partido depende de `programa.estado`: «publicado» no lleva aviso; «documento_parcial» y «programa_general» avisan de que no hay programa completo o de que no es de estas elecciones y enlazan el documento; el resto avisa de que solo hay declaraciones. Es la misma regla para todos.
 
 Un documento programático de un partido sin programa (sectorial o general) se extrae entero, igual que un programa: se registra en `fuentes.json`, se cambia `programa.estado` y se siguen los pasos 1 a 7. Si la web del partido no deja descargarlo, vale la copia que publique un medio, comprobando en el texto que el documento es del partido y anotándolo en la `nota` de la fuente.
+
+## El orden de los temas
+
+El orden en que están los temas en `temas.json` es el que usan la página de temas, los temas dentro de cada partido y el test. No se cambia a mano: `orden-temas.json` guarda la encuesta (fuente, preguntas y porcentaje de cada respuesta) y a qué tema va cada respuesta, y `node scripts/investigacion/ordenar-temas.mjs` suma, ordena, reescribe `temas.json` y deja la tabla en `orden-temas.md` (`--mirar` solo la enseña). Para usar otra encuesta: sustituir `fuente`, `preguntas` y `respuestas`, revisar la asignación y volver a ejecutar el script; después, `generar-web.mjs` y `generar-banco.mjs`.
+
+## Las tarjetas del test
+
+| Paso | Qué hace | Script |
+| --- | --- | --- |
+| 1 | Reunir las medidas concretas de programa que pueden ser tarjeta (`tarjetas/candidatas.json`), con avisos: nombra a su partido, a otro partido, a una persona o a su territorio, está traducida o depende del título de su apartado | `preparar-tarjetas.mjs` |
+| 2 | Elegir, por candidatura y tema, hasta tres medidas en orden (agentes que eligen y agentes que revisan la elección, con el resumen del tema y las declaraciones de campaña delante). Resultado en `_trabajo/tarjetas/<partido>.<lote>.eleccion.json` y `.revision.json` | — |
+| 3 | Unir las elecciones revisadas en `tarjetas/seleccion.json`. Comprueba cada medida, quita de un tema la que esté en dos y solo acepta un cambio de texto si quita el nombre de la propia candidatura | `unir-tarjetas.mjs` (`--mirar` solo enseña avisos) |
+| 4 | Generar el banco de la web (`src/contenido/juegos/banco-2026.json` y `partidos-2026.json`) y el banco en limpio para leerlo y aprobarlo (`tarjetas/banco.md`) | `generar-banco.mjs`, después de `generar-web.mjs` |
+
+`seleccion.json` es el archivo que se edita a mano: quitar o cambiar una tarjeta, o cambiar su orden (la primera de cada tema es la del test rápido). Una candidatura con `"bloqueada": true` no se vuelve a pisar al repetir el paso 3. Cuando el banco esté revisado, se pone la fecha en `aprobado` y se repite el paso 4; mientras tanto, la construcción de la web avisa de que está pendiente.
+
+Si cambia un programa (edición nueva, citas sustituidas), `generar-banco.mjs` se para y dice qué tarjetas apuntan a citas que ya no están vigentes.
 
 ## Cómo se actualiza
 

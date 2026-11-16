@@ -1,0 +1,57 @@
+{
+  "resumenes": [
+    {
+      "tema": "campo-y-medio-rural",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone dejar de autorizar nuevas explotaciones ganaderas y avícolas o su ampliación, limitar por ley su tamaño y retirar las subvenciones a ese sector.", "apoyos": ["c-2bd04b472f", "c-608567bd4f", "c-e0d2ec280b", "c-d37c62464d"] },
+        { "texto": "Plantea un impuesto climático a los alimentos de origen animal según sus emisiones y gravar más los lácteos animales que los vegetales.", "apoyos": ["c-1bc45a112e", "c-357cf5d017", "c-2255d9d983"] },
+        { "texto": "Quiere prohibir las granjas peleteras, la alimentación forzosa y la exportación de animales vivos, y eliminar las jaulas.", "apoyos": ["c-37c9a578e2", "c-9df8f21bb0", "c-b56d76234c", "c-7ef724bbf8", "c-d24335908f"] },
+        { "texto": "Pide trasladar ayudas de la ganadería a la agricultura, priorizar las explotaciones pequeñas, prohibir el glifosato y fomentar la producción ecológica y local.", "apoyos": ["c-656df0cd2e", "c-edeb77f02c", "c-ae0515519e", "c-b2be7b4eb8", "c-73f16f949c"] }
+      ],
+      "nota": "Se dejan fuera por espacio el Plan de recuperación rural contra la despoblación (c-c3a39864f0), la reconversión pesquera y las declaraciones sobre caza y perros de caza."
+    },
+    {
+      "tema": "transporte",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende reducir el tráfico rodado favoreciendo los desplazamientos a pie, en bicicleta y en transporte público, y fomentar el teletrabajo con incentivos fiscales y ayudas directas.", "apoyos": ["c-ffef16aca7", "c-bdbe52c0e6", "c-ac34e10acb"] },
+        { "texto": "Propone llevar el transporte de mercancías al ferrocarril eléctrico y potenciar cercanías y media distancia que conecten las comarcas.", "apoyos": ["c-4dbf962677", "c-48c8d0179a"] },
+        { "texto": "Plantea una norma que obligue a adaptar carreteras, tendidos eléctricos y catenarias para reducir la mortalidad de la fauna silvestre.", "apoyos": ["c-e3b92b9ef1", "c-5185a3c072", "c-502b863479", "c-01cc0348e7"] },
+        { "texto": "También pide permitir y regular el acceso de los animales al transporte público.", "apoyos": ["c-814c9938be"] }
+      ],
+      "nota": "La propuesta de autobuses cada 15 minutos sale de una propuesta local para el área de Almería (c-297fa31695) y no se incluye."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone un Pacto de Estado por la Igualdad en el Empleo y actualizar la ley de conciliación para favorecer el empleo de las mujeres.", "apoyos": ["c-7c75bce5ef", "c-6969018a95"] },
+        { "texto": "Contra la violencia sobre la mujer plantea unidades policiales 24 horas, formación judicial especializada, ayudas económicas a las víctimas y acoger también a sus animales.", "apoyos": ["c-de3ff7ab29", "c-b80547dea2", "c-5bf1b2a143", "c-d81be7fb5d"] },
+        { "texto": "Pide más contenidos educativos sobre diversidad sexual, de género y familiar, prevenir el acoso por orientación sexual e incluir a las familias LGTBI+ en las políticas familiares.", "apoyos": ["c-48610789e6", "c-8c35dcff3a", "c-ab66fe78be", "c-60ae5b807d"] },
+        { "texto": "Además propone prohibir los sacrificios rituales de animales por motivos religiosos.", "apoyos": ["c-b1a4d5ec6f", "c-59b1c45f47", "c-b615523e75"] }
+      ],
+      "nota": "Se incluye la prohibición de sacrificios rituales porque sus citas están asignadas a este tema. Queda fuera la composición de candidaturas con al menos la mitad de mujeres (c-19c3a4d0e8)."
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "base": "escasa",
+      "frases": [
+        { "texto": "En septiembre de 2026 el partido pidió protección para la población de Ceuta y alimentos, agua y alojamiento para los migrantes sin plaza de acogida.", "apoyos": ["c-c799e0afcd", "c-c185b5fc35"] },
+        { "texto": "Su presidente pidió en 2023 que España deje de apoyar la posición de Marruecos sobre el Sáhara Occidental y favorezca el referéndum de autodeterminación previsto por la ONU.", "apoyos": ["c-5b7f23e5d3"] }
+      ],
+      "nota": "Solo hay declaraciones y ninguna cita del programa. Se evita el término «ocupación» de la cita de 2023. Queda fuera la campaña sobre el sacrificio de perros en Marruecos (c-02695d63f8)."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone prohibir el uso de animales en espectáculos, tradiciones y festejos, retirarles las subvenciones y derogar la ley que protege la tauromaquia como patrimonio cultural.", "apoyos": ["c-7e3267b6be", "c-7ef469db34"] },
+        { "texto": "También pide prohibir que los menores asistan o participen en la tauromaquia y la caza.", "apoyos": ["c-b9ab667506", "c-32b8c7e6e4", "c-78053e864c"] },
+        { "texto": "Plantea una estrategia nacional para acabar con la experimentación con animales y más financiación para los métodos que la sustituyan.", "apoyos": ["c-1ed0ed1cb7", "c-7cfc6cb19b", "c-a13fecde37"] },
+        { "texto": "Propone además más inversión en I+D+i, libre acceso a la investigación financiada con fondos públicos y actividades culturales gratuitas o con descuentos.", "apoyos": ["c-a484ac35f7", "c-a6cc4588ef", "c-95225ea631"] }
+      ],
+      "nota": "El acceso libre a museos y monumentos (c-a816d75587) figura en el apartado de juventud y no se menciona para no generalizarlo."
+    }
+  ]
+}

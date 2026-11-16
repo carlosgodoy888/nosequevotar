@@ -1,0 +1,58 @@
+{
+  "revisiones": [
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 1: «todos los cargos públicos» amplía el alcance de la cita, que habla de los cargos «en la Administración y empresas públicas» (no de cargos electos ni de ministros). Se acota a la Administración y las empresas públicas.",
+        "Representatividad: la redacción omitía el bloque de organismos independientes de «España Limpia» (siete citas de programa: prohibición de nombrar a personas con carrera política, mayoría de tres quintos, sorteo si hay bloqueo, mandatos desacoplados), que además la candidata citó entre sus medidas «innegociables» (c-1d740c490b). Se incorpora en la frase 3 en lugar de la limitación a dos mandatos y las listas abiertas, que tienen menos peso en el tema y no caben dentro del límite de palabras.",
+        "Frase 2: «medios» por «recursos», que es lo que dice la cita (c-6d75150b37).",
+        "Frase sobre pactos: se mantiene. Es una declaración de campaña sobre pactos, va atribuida a la candidata y la mención a otro partido está entre comillas, tal como figura en la cita.",
+        "Se acepta que la Administración digital y proactiva, RTVE y la financiación de partidos queden fuera: el bloque «España Limpia» es el que más pesa en el tema."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone cubrir por mérito todos los cargos de la Administración y empresas públicas salvo los secretarios de Estado, tipificar el delito de «enchufismo» y recortar un 90% los asesores.",
+          "apoyos": ["c-bbbcf05a54", "c-489d19b405", "c-354bfb840a", "c-20eb56934d", "c-750eabe91d", "c-1d740c490b"]
+        },
+        {
+          "texto": "Contra la corrupción plantea juzgados especializados, doblar los recursos de la Fiscalía Anticorrupción y que estos delitos no prescriban.",
+          "apoyos": ["c-ada0ff91bf", "c-6d75150b37", "c-344a789edc"]
+        },
+        {
+          "texto": "Quiere que los jueces elijan a los vocales judiciales del CGPJ, excluir a los políticos de los organismos independientes y suprimir el aforamiento parlamentario.",
+          "apoyos": ["c-54e4615fbc", "c-dc4d8be252", "c-a67e86a983", "c-b42c1d2731", "c-6261b56c10"]
+        },
+        {
+          "texto": "Su candidata afirmó que el partido no está «para facilitar que Vox entre en los gobiernos».",
+          "apoyos": ["c-b7c8baae3b"]
+        }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende que las comunidades autónomas sirvan para acercar la gestión al ciudadano y no para «fragmentar la economía».",
+          "apoyos": ["c-e99346095e"]
+        },
+        {
+          "texto": "Propone que cualquier licencia, título o requisito aprobado en una comunidad sea válido en toda España y que se prohíba duplicar trámites o tasas entre regiones.",
+          "apoyos": ["c-02c0417698", "c-3e6878e6ce"]
+        },
+        {
+          "texto": "En vivienda plantea que la comunidad autónoma asuma la competencia urbanística de los ayuntamientos que bloqueen proyectos o incumplan sus objetivos.",
+          "apoyos": ["c-3820f2dce0", "c-c8ef0eceee"]
+        },
+        {
+          "texto": "También propone un estatus europeo de protección específico para Ceuta y Melilla, cuya plena entrada en la unión aduanera y en Schengen defendió su candidata.",
+          "apoyos": ["c-819d4ba6a8", "c-a66a059f9f"]
+        }
+      ]
+    }
+  ]
+}

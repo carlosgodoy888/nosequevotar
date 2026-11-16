@@ -1,0 +1,73 @@
+{
+  "resumenes": [
+    {
+      "tema": "economia",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone un impuesto de sociedades del 5 % para los beneficios que las pymes reinviertan.",
+          "apoyos": ["c-8e0ce5d16e", "c-e30e2f8803"]
+        },
+        {
+          "texto": "Plantea crear una empresa en una hora, una licencia provisional automática si la Administración no resuelve a tiempo y derogar en 12 meses las normas sin una justificación clara.",
+          "apoyos": ["c-a2e8904a96", "c-a4be3a6be5", "c-3d7648f5b3", "c-43174b2fb9"]
+        },
+        {
+          "texto": "Quiere que cualquier licencia aprobada en una comunidad autónoma valga en toda España y habilitar zonas industriales con la evaluación ambiental resuelta y la capacidad de red reservada.",
+          "apoyos": ["c-02c0417698", "c-3e6878e6ce", "c-a369643043"]
+        },
+        {
+          "texto": "Pide evaluar todos los programas de gasto y suprimir los beneficios fiscales que no cumplan su objetivo.",
+          "apoyos": ["c-d04788d0b3", "c-eb63a0645e", "c-0eb47159be"]
+        }
+      ],
+      "nota": "Todo procede del programa; la única declaración (sobre la aportación de los inmigrantes) no se usa. Quedan fuera por espacio medidas concretas como la bonificación del 50 % (75 % en pymes) en cotizaciones por mejoras salariales ligadas a productividad, el IVA del 10 % a los alquileres turísticos, la compra agregada de energía para pymes, la contratación pública por lotes y la ley de financiación de la ciencia (1,25 % del PIB público en 2030). El SMI y el IRPF se dejan para empleo e impuestos."
+    },
+    {
+      "tema": "sanidad",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende elegir a los gerentes sanitarios por concurso de mérito y auditar con IA los recursos para reinvertir lo ahorrado.",
+          "apoyos": ["c-f1c5a700e6", "c-e904371c7f", "c-04cd0b2e69", "c-8ddbbd0b56", "c-1a34d21f04"]
+        },
+        {
+          "texto": "Plantea abrir las instalaciones públicas por la tarde y alquilar sus horas libres a mutuas, reinvirtiendo esos ingresos en la sanidad pública.",
+          "apoyos": ["c-23ba4e9ce1", "c-6f38733168"]
+        },
+        {
+          "texto": "Propone sustituir progresivamente las guardias de 24 horas por turnos máximos de 12, reconocer a enfermería en el grupo A1 y adecuar las ratios a la media europea.",
+          "apoyos": ["c-b0198db51f", "c-249b638fd2", "c-c2e9d7f79a", "c-12a53828a1"]
+        },
+        {
+          "texto": "Quiere además un historial clínico accesible en cualquier centro público y defiende garantizar el aborto en la red pública.",
+          "apoyos": ["c-c3bee30f49", "c-1e910b6147"]
+        }
+      ],
+      "nota": "Todo procede del programa. Quedan fuera por espacio las Unidades de Enlace de salud mental en colegios, el seguimiento en 72 horas tras una conducta suicida, el triaje por IA en el móvil, los hospitales monotemáticos y la ley contra agresiones a sanitarios. En la primera frase se resume «concurso público de mérito» de la dirección de hospitales y áreas de salud como «gerentes sanitarios»."
+    },
+    {
+      "tema": "educacion",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone un plan para situar a España entre los diez primeros países europeos en PISA en ocho años como máximo.",
+          "apoyos": ["c-ba9fa886f6", "c-51541c5ed9"]
+        },
+        {
+          "texto": "Plantea pruebas de acceso a los grados de Educación, un «MIR Educativo» de dos años de prácticas remuneradas y una carrera docente que no dependa solo de la antigüedad.",
+          "apoyos": ["c-788d4dcee3", "c-f4d57fa9ee", "c-90bbb1ae65", "c-6a363aa49d"]
+        },
+        {
+          "texto": "Plantea que ninguna familia de renta baja o media pague más de la mitad del coste medio de una plaza de 0 a 3 años.",
+          "apoyos": ["c-431c4b487b", "c-638a947a97"]
+        },
+        {
+          "texto": "También propone una materia obligatoria de Cultura Económica y Financiera en la ESO.",
+          "apoyos": ["c-f7a5790c38", "c-e3e105ced1"]
+        }
+      ],
+      "nota": "Todo procede del programa. La carrera docente se describe con la fuerza de la cita: el partido dice que abrirá un proceso para diseñarla con los profesores. Quedan fuera por espacio el Índice Socioeducativo y los equipos de refuerzo, la Hucha de Formación de unos 500 euros para quien cumpla 18 años, el pago de becas al inicio de curso, el plan de rehabilitación de colegios y las reformas de la FP."
+    }
+  ]
+}

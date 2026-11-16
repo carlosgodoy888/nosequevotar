@@ -1,0 +1,507 @@
+{
+  "fuente": "pacma-programa-2026",
+  "partido": "pacma",
+  "paginas": [
+    1,
+    12
+  ],
+  "citas": [
+    {
+      "cita": "En el Partido Animalista Con el Medio Ambiente queremos avanzar hacia una sociedad más justa, equitativa, solidaria y respetuosa, sin discriminaciones, en la que todos y todas seamos tenidos en cuenta, con independencia de nuestro género, raza u origen étnico, convicciones, discapacidad, edad, orientación sexual o especie.",
+      "pagina": 5,
+      "apartado": [
+        "Presentación"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo de sociedad sin discriminaciones, incluida la especie",
+      "etiquetas": [
+        "ideología",
+        "igualdad",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "No cabe ya lugar a dudas de que los animales están dotados de sensibilidad física y psíquica, y de que, por tanto, deberían recibir un trato que asegure su máximo bienestar.",
+      "pagina": 6,
+      "apartado": [
+        "Nuestro compromiso con los Animales"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Animales como seres sensibles con derecho a bienestar",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Entre las principales causas del abandono se encuentran las camadas no deseadas y el fin de la temporada de caza. Es necesario resolver este problema en su origen, estableciendo la esterilización obligatoria, prohibiendo la compraventa de animales como compañía y su uso como instrumentos de caza.",
+      "pagina": 6,
+      "apartado": [
+        "Nuestro compromiso con los Animales"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Enfoque contra el abandono animal desde su origen",
+      "etiquetas": [
+        "bienestar animal",
+        "caza"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defendemos un estilo de vida que no contribuya a la explotación de los animales. Apostamos por ampliar el círculo de consideración moral, teniendo en cuenta también sus necesidades.",
+      "pagina": 6,
+      "apartado": [
+        "Nuestro compromiso con los Animales"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Estilo de vida sin explotación animal",
+      "etiquetas": [
+        "bienestar animal",
+        "ideología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA, impulsaremos la aprobación de una verdadera Ley de Bienestar y Protección de los Animales, con la finalidad de ampliar y mejorar las condiciones de bienestar y protección para todos los animales, en base a las siguientes propuestas:",
+      "pagina": 7,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nueva ley estatal de bienestar y protección animal",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA lucharemos por tener una verdadera Ley de Bienestar y Protección de los Animales que proteja a todos los animales, sin distinciones, excepciones, ni exclusiones, como es la proposición de Ley General de Bienestar y Protección de los Animales, conocida popularmente como “Ley Cero”, que el Partido Animalista presentó ya en 2017 a las Cortes Generales.",
+      "pagina": 7,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Ampliación del ámbito de aplicación para otorgar protección a todos los animales, sin exclusiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley de protección animal sin exclusiones de especies",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los animales, al margen de razones de salubridad e higiene, deben recogerse por razones morales.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Prohibición de compraventa de animales como compañía"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Recogida de animales abandonados por razones morales",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA proponemos la prohibición del comercio de animales como compañía, así como su exhibición y exposición al público con fines comerciales, de manera que solo puedan ser adoptados.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Prohibición de compraventa de animales como compañía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir la venta y exhibición comercial de animales de compañía",
+      "etiquetas": [
+        "bienestar animal",
+        "comercio"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las camadas indeseadas son la principal causa de abandono de animales. Por ello, PACMA lleva años exponiendo la necesidad de introducir la esterilización obligatoria de los animales de compañía.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Esterilización obligatoria de los animales de compañía"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Esterilización obligatoria frente al abandono",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA proponemos la esterilización obligatoria también de los perros, que, en todos los casos, deben realizarse por profesionales veterinarios. En aquellos casos en los que no sea aconsejable por razones de salud del animal, se valorarán otras medidas anticonceptivas, teniendo siempre como prioridad su salud y bienestar.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Esterilización obligatoria de los animales de compañía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Esterilización obligatoria de perros por veterinarios",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, queremos impulsar que las diferentes administraciones públicas desarrollen campañas subvencionadas de esterilización de animales destinadas preferentemente a protectoras y personas con recursos insuficientes para afrontar la esterilización de los animales que tengan a su cargo.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Esterilización obligatoria de los animales de compañía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Campañas subvencionadas de esterilización para protectoras y rentas bajas",
+      "etiquetas": [
+        "bienestar animal",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "PACMA lleva muchos años trabajando para establecer el sacrificio cero, diferenciándolo de los supuestos de eutanasia del animal, con la finalidad de evitar un sufrimiento grave e irremediable, como consecuencia de padecer una enfermedad o lesión sin posibilidad de curación que no permita tener una calidad de vida compatible con los parámetros mínimos de bienestar animal, y que, en todos los casos, debe ser prescrita y realizada por profesionales veterinarios, mediante métodos no crueles e indoloros, evitando causarles estrés u otros sufrimientos psíquicos, y suministrándoles sedación previamente.",
+      "pagina": 8,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Abandono y sacrificio cero"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sacrificio cero y eutanasia solo por motivos veterinarios",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El método CER es el más ético y efectivo y supone un trabajo conjunto entre la Administración, las entidades de defensa y protección animal y el voluntariado.",
+      "pagina": 9,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Colonias estables y controladas de gatos: método CER (Captura-Esterilización-Retorno)"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Defensa del método CER para colonias felinas",
+      "etiquetas": [
+        "bienestar animal",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En primer lugar, es imprescindible articular mecanismos para que, por un lado, los ayuntamientos cumplan de manera efectiva con la Ley y, por otro, impedir que la gestión de las colonias se convierta en un negocio para empresas que nada tienen que ver con la protección de los animales, como ya sucede en muchos casos con el servicio de recogida y acogida de animales abandonados.",
+      "pagina": 9,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Colonias estables y controladas de gatos: método CER (Captura-Esterilización-Retorno)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cumplimiento municipal y gestión no empresarial de colonias felinas",
+      "etiquetas": [
+        "bienestar animal",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, se debe asegurar que los ayuntamientos se hagan cargo tanto de la alimentación como de la atención y los tratamientos veterinarios que los gatos integrantes de las colonias requieran. Para ello, es necesario que las líneas de subvención que prevé la Ley estatal sean de una dotación suficiente y estable, dado que la efectividad del método requiere continuidad.",
+      "pagina": 10,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Colonias estables y controladas de gatos: método CER (Captura-Esterilización-Retorno)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cargo municipal de colonias felinas y subvenciones estables",
+      "etiquetas": [
+        "bienestar animal",
+        "municipios",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para un buen desarrollo, es igualmente necesaria la implementación de campañas de información dirigidas a la ciudadanía sobre el control poblacional de las colonias mediante el CER y sus beneficios, aún desconocidos para gran parte de la población.",
+      "pagina": 10,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Colonias estables y controladas de gatos: método CER (Captura-Esterilización-Retorno)"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Campañas informativas sobre el método CER",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Resulta imposible reproducir el entorno de los animales en un zoológico.",
+      "pagina": 10,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Fin de los zoológicos, acuarios y de toda cautividad con fines de entretenimiento"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Imposibilidad de reproducir el hábitat animal en zoológicos",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por todo ello, el Partido Animalista propone la prohibición de mantener animales cautivos con fines de exposición, exhibición y/o entretenimiento, y que los zoológicos, acuarios y otros recintos con animales que no tengan como finalidad su cuidado, recuperación, custodia, reintroducción o mantenimiento, sean reconvertidos en centros de recuperación y rescate o reservas.",
+      "pagina": 10,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Fin de los zoológicos, acuarios y de toda cautividad con fines de entretenimiento"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir la cautividad de animales para exhibición y reconvertir zoológicos",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En su lugar, propondremos el fomento de proyectos donde el uso de las últimas tecnologías permita contemplar y estudiar a los animales en sus entornos naturales, sin necesidad de interferir en el curso normal de su vida silvestre.",
+      "pagina": 10,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Fin de los zoológicos, acuarios y de toda cautividad con fines de entretenimiento"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Proyectos tecnológicos para observar fauna en su hábitat",
+      "etiquetas": [
+        "bienestar animal",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "España es conocida mundialmente por sus tradiciones y festejos crueles con los animales, particularmente con los toros. No podremos considerarnos un país avanzado mientras esto no cambie.",
+      "pagina": 10,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Abolición de los espectáculos, tradiciones y festejos con animales"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a los festejos con animales y la tauromaquia",
+      "etiquetas": [
+        "tauromaquia",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Más allá, el dolor, el maltrato, la tortura o la muerte no deberían formar parte de ninguna tradición que represente a un pueblo civilizado.",
+      "pagina": 11,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Abolición de los espectáculos, tradiciones y festejos con animales"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Tradiciones sin maltrato animal",
+      "etiquetas": [
+        "tauromaquia",
+        "bienestar animal",
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde el Partido Animalista exigimos proteger a la infancia de la violencia de la tauromaquia y la caza, prohibiendo su asistencia y participación en estas actividades en las que se ejerce violencia extrema contra los animales, y avanzar hacia la supresión de las excepciones legales al maltrato y sufrimiento de los propios animales, permitidos también en otros espectáculos, como circos y delfinarios.",
+      "pagina": 11,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Abolición de los espectáculos, tradiciones y festejos con animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Menores fuera de toros y caza; suprimir excepciones legales al maltrato",
+      "etiquetas": [
+        "tauromaquia",
+        "infancia",
+        "caza"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por todo ello, desde PACMA hemos explicado al Gobierno que España debe liderar e impulsar la habilitación y puesta en marcha de alguno de los proyectos de santuarios para cetáceos en Europa.",
+      "pagina": 11,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Abolición de los espectáculos, tradiciones y festejos con animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Impulso español a santuarios de cetáceos en Europa",
+      "etiquetas": [
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es hora de que todos los espectáculos con los animales sean prohibidos. Por ello, propondremos establecer la prohibición de utilización de animales en todo tipo de espectáculos, tradiciones y festejos, tanto privados como públicos.",
+      "pagina": 12,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Abolición de los espectáculos, tradiciones y festejos con animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir animales en espectáculos, tradiciones y festejos",
+      "etiquetas": [
+        "bienestar animal",
+        "tauromaquia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mientras conseguimos una prohibición real, exigiremos la prohibición de su retransmisión televisiva o radiofónica, la retirada inmediata de toda subvención pública que reciban directa o indirectamente, así como de cualquier reconocimiento que los proteja como patrimonio o bien de interés cultural, empezando por derogar la Ley 18/2013, de 12 de noviembre, para la regulación de la Tauromaquia como patrimonio cultural, cuya finalidad fue la de impedir que las comunidades autónomas pudieran prohibir las corridas de toros, como quisieron hacer en Cataluña, o, incluso, regularlas sin herir ni matar a los animales, como intentaron llevar a cabo en Baleares.",
+      "pagina": 12,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Abolición de los espectáculos, tradiciones y festejos con animales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sin retransmisión, subvenciones ni protección cultural; derogar Ley 18/2013",
+      "etiquetas": [
+        "tauromaquia",
+        "subvenciones",
+        "medios de comunicación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada año, millones de animales son abatidos por los cazadores mientras PACMA es el único partido que se opone a ello.",
+      "pagina": 12,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Oposición a la caza"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Oposición a la caza",
+      "etiquetas": [
+        "caza"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La actividad cinegética no es una herramienta necesaria para la gestión y el equilibrio medio ambiental, como los gobiernos central y autonómicos están tratando de “vendernos” en los últimos años. Muy al contrario, como ya ha advertido el Parlamento Europeo, la caza es una de las principales causas de la pérdida de la biodiversidad.",
+      "pagina": 12,
+      "apartado": [
+        "Nuestro compromiso con los Animales",
+        "Por una verdadera Ley de Bienestar y Protección de los Animales",
+        "Oposición a la caza"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo de la caza como herramienta de gestión ambiental",
+      "etiquetas": [
+        "caza",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

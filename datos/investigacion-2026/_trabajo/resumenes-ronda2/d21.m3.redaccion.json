@@ -1,0 +1,73 @@
+{
+  "resumenes": [
+    {
+      "tema": "familias-y-cuidados",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone fijar por ley reducir la pobreza infantil a la mitad en la legislatura, del 28% a menos del 14%, y que las ayudas lleguen de oficio.",
+          "apoyos": ["c-c9ca20a36e", "c-ebe1c71fbf", "c-69441851a7", "c-6aa81adf23", "c-c7ce331846", "c-23ca0d4ba4"]
+        },
+        {
+          "texto": "Plantea reunir las prestaciones en un «Escudo Social Único» con un ingreso mensual y un «Bono Crianza» por hijo, mayor en hogares con menos renta.",
+          "apoyos": ["c-053f993fd3", "c-e444d01616", "c-6c101d3a69"]
+        },
+        {
+          "texto": "Quiere pagar al 50% del salario las ocho semanas de permiso parental hoy no retribuidas.",
+          "apoyos": ["c-2bd3085724"]
+        },
+        {
+          "texto": "Pide además que las rentas bajas y medias no paguen más de la mitad de una plaza de 0 a 3 años.",
+          "apoyos": ["c-431c4b487b"]
+        }
+      ],
+      "nota": "Todo procede del programa. Quedan fuera por espacio medidas también concretas: auditoría del 50% estatal en dependencia, título de familia monoparental desde el primer hijo, filiación de hijos de parejas de mujeres sin requisito de matrimonio, acogimiento familiar y adopción."
+    },
+    {
+      "tema": "inmigracion",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende la inmigración como un activo económico y que el Estado decida quién entra, cómo y cuándo, con «tolerancia cero con la xenofobia».",
+          "apoyos": ["c-877ab3abb4", "c-1d4d13d4f3", "c-a6dd2f8610"]
+        },
+        {
+          "texto": "Propone un visado de búsqueda de empleo de 6 meses, prorrogable a 9, con baremo de puntos, y formar trabajadores en los países de origen.",
+          "apoyos": ["c-e4bc895f0a", "c-9c36c819b8", "c-22ca5c630c", "c-923a46ac35"]
+        },
+        {
+          "texto": "Plantea un registro único para seguir cada orden de expulsión, con prioridad para quienes cometen delitos, y aplicar completo el Pacto Europeo de Migración y Asilo.",
+          "apoyos": ["c-a95db07244", "c-f3aab91c51", "c-7a0696fb98", "c-c84175094c"]
+        },
+        {
+          "texto": "También propone un itinerario gratuito de acogida y facilidades para los españoles que regresen.",
+          "apoyos": ["c-bf937fb1ff", "c-80c93d173b", "c-a50ec72c8d", "c-5bc7fcd497", "c-101e51f5af"]
+        }
+      ],
+      "nota": "Se sigue el programa. No se usan las dos declaraciones de la candidata: la de Infobae repite la valoración positiva de la inmigración que ya recoge el programa, y la de The Objective sobre Ceuta y Melilla (unión aduanera y Schengen pleno) trata más de fronteras y relación con la UE que de política migratoria."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone dimensionar las plantillas policiales según la carga real de trabajo y reconocer por ley la profesión de riesgo con jubilación anticipada sin recorte de pensión.",
+          "apoyos": ["c-3f5a8942cc", "c-d124d9c83f"]
+        },
+        {
+          "texto": "Plantea una nueva ley procesal contra las instrucciones interminables y la multirreincidencia, y un espacio digital para que las víctimas sigan su caso.",
+          "apoyos": ["c-081d3456c1", "c-5bfbf84cc5"]
+        },
+        {
+          "texto": "Contra la corrupción, propone juzgados especializados, que esos delitos no prescriban e inhabilitar de por vida a los condenados.",
+          "apoyos": ["c-ada0ff91bf", "c-344a789edc", "c-d3573c41d6"]
+        },
+        {
+          "texto": "Quiere que los jueces elijan a los vocales judiciales del CGPJ y eliminar los aforamientos de diputados y senadores.",
+          "apoyos": ["c-54e4615fbc", "c-b42c1d2731", "c-6261b56c10"]
+        }
+      ],
+      "nota": "Todo procede del programa. Muchas citas del tema tratan de emergencias, incendios, inundaciones o ciberseguridad; se prioriza lo de policía, justicia y corrupción, núcleo del tema. «Inquiokupación» (vivienda) no se usa."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "revisiones": [
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 4: «su candidato» es impreciso; las dos citas son de Néstor Rego, cabeza de lista al Congreso por A Coruña, no de un candidato único del partido. Se cambia a «su candidato por A Coruña».",
+        "Para no pasar de 90 palabras con esa precisión se acortan las frases 1 («sin el umbral del 5 %») y 2 («también sobre la autodeterminación»), sin cambiar su sentido.",
+        "Peso: la frase de campaña sustituye a una que repetía Organización territorial; las tres frases del programa se mantienen. Las ids existen en el tema y las frases son fieles a las citas."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone reformar la ley electoral con un reparto proporcional directo, Galicia como circunscripción, sin el umbral del 5 % y con voto desde los 16 años.", "apoyos": ["c-efbaaa3f44", "c-e6c20c6628", "c-563beb713e", "c-e9be5bd10a"] },
+        { "texto": "Defiende permitir referendos vinculantes, también sobre la autodeterminación, y denunciar y revocar el Concordato con la Santa Sede.", "apoyos": ["c-09fe06c5d8", "c-614c7d8bd8"] },
+        { "texto": "Contra la corrupción, plantea inhabilitar a los cargos públicos que cometan fraude fiscal y regular estrictamente las puertas giratorias.", "apoyos": ["c-5342fcc809", "c-3da26e6f0f", "c-0aa88206ec"] },
+        { "texto": "En campaña, su candidato por A Coruña rechaza facilitar un gobierno «de la derecha y de la ultraderecha» y no dará «un cheque en blanco a nadie».", "apoyos": ["c-3292490469", "c-034978da88"] }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 2: «el nuevo sistema de financiación planteado y pide otro para una hipotética investidura» es confuso: «planteado» no dice por quién y «pide otro para una hipotética investidura» parece que pide un sistema destinado a la investidura. Se reescribe como «rechaza el nuevo sistema de financiación y pide otro ante una hipotética investidura», que es lo que dicen las dos declaraciones.",
+        "Peso: el concierto económico y la Hacienda Gallega del programa siguen en primer lugar en la frase y lo de campaña va atribuido con «en campaña». Las ids existen en el tema; el total queda en 89 palabras."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende ampliar el autogobierno de Galicia y que el Estado reconozca el derecho de autodeterminación de los pueblos, empezando por Galicia.", "apoyos": ["c-cadb5befe1", "c-734c0e7866", "c-18f0bd7737", "c-09fe06c5d8"] },
+        { "texto": "Propone un concierto económico con Hacienda Gallega propia; en campaña rechaza el nuevo sistema de financiación y pide otro ante una hipotética investidura.", "apoyos": ["c-0d3e164368", "c-2c3e344e56", "c-0ef9808ab2", "c-efa4cf4698"] },
+        { "texto": "Reclama traspasar a Galicia competencias estatales como Seguridad Social y pensiones, relaciones laborales, policía, energía, puertos, aeropuertos y ferrocarriles.", "apoyos": ["c-bce8f084a9", "c-b734010a27", "c-3629b5f939", "c-5fc18b3978", "c-90fd896ea1", "c-48c0fda1c8"] },
+        { "texto": "Pide suprimir las diputaciones y la administración periférica del Estado, garantizar el gallego en la Administración estatal y RTVE, y su oficialidad plena en la UE.", "apoyos": ["c-58ddad3820", "c-56804f77f6", "c-2a82eea1ec", "c-9b5bc552e3", "c-befdb8f4ef"] }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 4: la cita dice que la AP-9 gratuita es «el objetivo principal del BNG para la próxima legislatura»; el resumen omitía «para la próxima legislatura» y daba a entender que era su objetivo principal en general. Se añade.",
+        "Frase 4: «pide inversiones ferroviarias para una hipotética investidura» es confuso; se cambia a «ante una hipotética investidura».",
+        "Para no pasar de 90 palabras se acortan las frases 2 («el tren como transporte prioritario») y 3 («la A-54»), sin cambiar su sentido.",
+        "Peso: la frase de campaña sustituye a la bonificación juvenil, que es una medida menor; las tres frases del programa se mantienen. Las ids existen en el tema."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Reclama transferir a Galicia las competencias de carreteras, ferrocarril, puertos y aeropuertos, y que la AP-9 y la AP-53 sean públicas y sin peajes.", "apoyos": ["c-48c0fda1c8", "c-00805d26d9", "c-beb110106a", "c-a1ad0850af", "c-66ae933c8d", "c-694a690deb"] },
+        { "texto": "Defiende el tren como transporte prioritario y pide implantar cercanías en las principales ciudades gallegas y una empresa pública gallega de ferrocarril.", "apoyos": ["c-665bb9b50e", "c-4c39d9fd08", "c-8b4803bd0d", "c-b82d6b7cbe"] },
+        { "texto": "Pide completar el Corredor Atlántico de mercancías, la variante de Ourense del AVE y la A-54, y licitar ya la A-74.", "apoyos": ["c-8d3fd07205", "c-b712fa73d2", "c-1e091254f9", "c-987e22001c"] },
+        { "texto": "En campaña fija la gratuidad de la AP-9 como objetivo principal para la próxima legislatura y pide inversiones ferroviarias ante una hipotética investidura.", "apoyos": ["c-eab4aaef00", "c-efa4cf4698"] }
+      ]
+    }
+  ]
+}

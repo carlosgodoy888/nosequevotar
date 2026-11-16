@@ -1,0 +1,483 @@
+{
+  "fuente": "d21-revolucion-pyme",
+  "partido": "d21",
+  "paginas": [
+    1,
+    4
+  ],
+  "citas": [
+    {
+      "cita": "Ha llegado la hora de que el Estado deje de ser una carga y allane el camino para que nuestras pequeñas y medianas empresas crezcan sin frenos y conquisten nuevos mercados.",
+      "pagina": 2,
+      "apartado": [
+        "Revolución PYME"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Papel del Estado para facilitar el crecimiento de las pymes",
+      "etiquetas": [
+        "empresas",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "el impuesto de sociedades para las PYMES será del 5% sobre todos los beneficios que se mantengan dentro de la empresa. Las pequeñas y medianas empresas no pagarán ni un solo euro adicional por este impuesto mientras reinviertan sus ganancias en crecer, contratar personal, subir sueldos, digitalizarse o acumular reservas. Solo tributarán de forma ordinaria en el momento en que decidan repartir dividendos.",
+      "pagina": 2,
+      "apartado": [
+        "Crecer sin frenos",
+        "Impuesto de Sociedades al 5% para Beneficios Reinvertidos en PYMES"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Impuesto de sociedades del 5% para beneficios reinvertidos de pymes",
+      "etiquetas": [
+        "impuestos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "sustituiremos los saltos regulatorios bruscos que desincentivan el crecimiento empresarial al superar umbrales de facturación o plantilla por un modelo de transición en rampa.",
+      "pagina": 2,
+      "apartado": [
+        "Crecer sin frenos",
+        "De “Efecto Escalón” a “Rampa Progresiva”"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transición gradual de obligaciones al superar umbrales de tamaño empresarial",
+      "etiquetas": [
+        "empresas",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Toda nueva norma incluirá un \"Test PYME\" preceptivo para evitar que el crecimiento se penalice con asfixia burocrática, y las nuevas exigencias se aplicarán de forma gradual con periodos de referencia plurianuales y plazos amplios de adaptación.",
+      "pagina": 2,
+      "apartado": [
+        "Crecer sin frenos",
+        "De “Efecto Escalón” a “Rampa Progresiva”"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Test pyme obligatorio en toda nueva norma y aplicación gradual",
+      "etiquetas": [
+        "empresas",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "emprender y fallar no puede ser una cadena perpetua.",
+      "pagina": 2,
+      "apartado": [
+        "Crecer sin frenos",
+        "Segunda Oportunidad Real para Emprender sin Miedo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Consecuencias del fracaso empresarial para los emprendedores",
+      "etiquetas": [
+        "empresas",
+        "autónomos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobaremos una reforma del mecanismo de Segunda Oportunidad para garantizar planes de pago realistas, un tratamiento proporcionado de la deuda pública y un apoyo efectivo al reemprendimiento. Alinearemos nuestra normativa con la Unión Europea reforzando la tutela judicial, para que los emprendedores que han tropezado puedan volver a generar riqueza.",
+      "pagina": 2,
+      "apartado": [
+        "Crecer sin frenos",
+        "Segunda Oportunidad Real para Emprender sin Miedo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la ley de segunda oportunidad para emprendedores",
+      "etiquetas": [
+        "empresas",
+        "autónomos",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "los derechos laborales no pueden financiarse a costa de asfixiar a los negocios más pequeños.",
+      "pagina": 2,
+      "apartado": [
+        "Crecer sin frenos",
+        "Marco Laboral Proporcional"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Coste de los derechos laborales para los negocios pequeños",
+      "etiquetas": [
+        "empleo",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Si el Estado aprueba un nuevo permiso, deberá habilitar un periodo transitorio de adaptación de 2 años en el que el Estado debe garantizar que las micropymes no asumen el sobrecoste.",
+      "pagina": 2,
+      "apartado": [
+        "Crecer sin frenos",
+        "Marco Laboral Proporcional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Periodo transitorio de dos años para micropymes ante nuevos permisos",
+      "etiquetas": [
+        "empleo",
+        "empresas",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "implantaremos un protocolo de constitución 100% digital y rápido. Cualquier ciudadano podrá crear su empresa en una hora, unificando Notaría, Registro Mercantil, Agencia Tributaria y Seguridad Social, complementado con la declaración responsable por defecto y una ordenanza municipal estandarizada en todo el país.",
+      "pagina": 3,
+      "apartado": [
+        "Fuera todas las barreras innecesarias",
+        "Crear una Empresa en 1 Hora - el Modelo Estonia en España"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Constitución de empresas digital en una hora",
+      "etiquetas": [
+        "empresas",
+        "burocracia",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "si una empresa presenta una solicitud completa y la Administración no resuelve en el tiempo estipulado, podrá iniciar su actividad de inmediato mediante una licencia provisional automática, salvo en casos tasados de seguridad o salud pública.",
+      "pagina": 3,
+      "apartado": [
+        "Fuera todas las barreras innecesarias",
+        "Licencias Ágiles"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Licencia provisional automática si la Administración no resuelve a tiempo",
+      "etiquetas": [
+        "empresas",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "reconoceremos legalmente que el primer error formal, involuntario y no fraudulento de una PYME en un trámite administrativo (tributario, laboral o de licencias) debe dar lugar a una subsanación sin sanción económica.",
+      "pagina": 3,
+      "apartado": [
+        "Fuera todas las barreras innecesarias",
+        "Derecho al Error"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subsanación sin sanción del primer error formal de una pyme",
+      "etiquetas": [
+        "empresas",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El Estado debe acompañar y asistir a los negocios que cumplen, y no tratarlos por defecto como culpables.",
+      "pagina": 3,
+      "apartado": [
+        "Fuera todas las barreras innecesarias",
+        "Derecho al Error"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Relación de la Administración con los negocios cumplidores",
+      "etiquetas": [
+        "empresas",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "reconoceremos el derecho de los trabajadores a explorar la continuidad de empresas viables ante procesos de cierre, jubilación o reestructuración.",
+      "pagina": 3,
+      "apartado": [
+        "Fuera todas las barreras innecesarias",
+        "Economía Social - Que la Jubilación no Cierre la Empresa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Derecho de los trabajadores a dar continuidad a empresas viables",
+      "etiquetas": [
+        "economía social",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para hacerlo efectivo, reformaremos la capitalización por desempleo creando una vía rápida que permita a la plantilla agrupar su pago único en tiempo récord para adquirir la empresa y transformarla en cooperativa o sociedad laboral, salvando sus puestos de trabajo. Contarán además con una línea de avales públicos, y los propietarios que vendan a sus empleados tendrán un incentivo fiscal directo.",
+      "pagina": 3,
+      "apartado": [
+        "Fuera todas las barreras innecesarias",
+        "Economía Social - Que la Jubilación no Cierre la Empresa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Capitalización del desempleo, avales e incentivo fiscal para compra por plantilla",
+      "etiquetas": [
+        "economía social",
+        "empleo",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "abriremos las compras del Estado a la pequeña y mediana empresa para eliminar intermediarios innecesarios.",
+      "pagina": 3,
+      "apartado": [
+        "Competir en igualdad de condiciones y con voz propia",
+        "Acceso Real de la PYME a la Contratación Pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Acceso de las pymes a la contratación pública",
+      "etiquetas": [
+        "contratación pública",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomentaremos la división de los grandes contratos públicos en lotes de menor tamaño, exigiendo a la Administración una justificación técnica excepcional si decide no hacerlo.",
+      "pagina": 3,
+      "apartado": [
+        "Competir en igualdad de condiciones y con voz propia",
+        "Acceso Real de la PYME a la Contratación Pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "División de contratos públicos en lotes más pequeños",
+      "etiquetas": [
+        "contratación pública",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminaremos las fianzas previas desproporcionadas.",
+      "pagina": 3,
+      "apartado": [
+        "Competir en igualdad de condiciones y con voz propia",
+        "Acceso Real de la PYME a la Contratación Pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de fianzas previas desproporcionadas en contratación pública",
+      "etiquetas": [
+        "contratación pública",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cuando haya subcontratación, habilitaremos, a través de la plataforma de facturación electrónica, un sistema de pago directo y automático a las PYMES subcontratadas, impidiendo que las grandes adjudicatarias retengan el dinero que pertenece a sus proveedores.",
+      "pagina": 3,
+      "apartado": [
+        "Competir en igualdad de condiciones y con voz propia",
+        "Acceso Real de la PYME a la Contratación Pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pago directo a pymes subcontratadas en contratos públicos",
+      "etiquetas": [
+        "contratación pública",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "protegeremos la liquidez de los pequeños negocios frente a los abusos.",
+      "pagina": 4,
+      "apartado": [
+        "Competir en igualdad de condiciones y con voz propia",
+        "Trazabilidad Total contra la Morosidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Protección de la liquidez de los pequeños negocios",
+      "etiquetas": [
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Endureceremos el régimen sancionador con intereses de demora automáticos, registro de reincidencia y la exclusión definitiva de la contratación pública para las empresas que incumplan sistemáticamente los plazos de pago.",
+      "pagina": 4,
+      "apartado": [
+        "Competir en igualdad de condiciones y con voz propia",
+        "Trazabilidad Total contra la Morosidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sanciones a la morosidad y exclusión de contratación pública",
+      "etiquetas": [
+        "empresas",
+        "contratación pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, integraremos en la factura electrónica la trazabilidad total del pago (público y privado) para penalizar a quienes se financian ahogando a sus proveedores.",
+      "pagina": 4,
+      "apartado": [
+        "Competir en igualdad de condiciones y con voz propia",
+        "Trazabilidad Total contra la Morosidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Trazabilidad de pagos en la factura electrónica contra la morosidad",
+      "etiquetas": [
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "abriremos un proceso de actualización del diálogo social abriéndolo a colectivos que actualmente no cuentan con representación propia, como son las pymes, los autónomos y las empresas de la economía social/cooperativas.",
+      "pagina": 4,
+      "apartado": [
+        "Competir en igualdad de condiciones y con voz propia",
+        "Reforma del Diálogo Social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incorporar pymes, autónomos y cooperativas al diálogo social",
+      "etiquetas": [
+        "sindicatos",
+        "autónomos",
+        "economía social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "la ANCI ofrecerá, directamente o mediante proveedores homologados, un paquete básico de protección (monitorización, copias de seguridad, filtrado de correo fraudulento y respuesta ante incidentes) por suscripción, gratuito para micropymes y autónomos y con cuota reducida según tamaño para el resto.",
+      "pagina": 4,
+      "apartado": [
+        "Escudo digital PYME: ciberseguridad al alcance de todas las empresas",
+        "Servicio Público de Ciberprotección Gestionada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Servicio público de ciberseguridad gratuito para micropymes y autónomos",
+      "etiquetas": [
+        "empresas",
+        "autónomos",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Una PYME atacada notificará una sola vez y esa comunicación llegará a la ANCI, a la Agencia Española de Protección de Datos y, si procede, a las fuerzas de seguridad, con un equipo de respuesta rápida que la ayude a recuperar su actividad.",
+      "pagina": 4,
+      "apartado": [
+        "Escudo digital PYME: ciberseguridad al alcance de todas las empresas",
+        "Servicio Público de Ciberprotección Gestionada"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Notificación única de ciberataques y equipo de respuesta rápida",
+      "etiquetas": [
+        "empresas",
+        "ciencia y tecnología",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "en colaboración con cámaras de comercio, asociaciones empresariales y agencias autonómicas, cada PYME podrá tener acceso a un asesor de referencia cercano.",
+      "pagina": 4,
+      "apartado": [
+        "Escudo digital PYME: ciberseguridad al alcance de todas las empresas",
+        "Red de Ciberasesores y Cadena de Suministro"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Red de asesores de ciberseguridad para pymes",
+      "etiquetas": [
+        "empresas",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Facilitaremos guías y cláusulas tipo para que las grandes empresas sujetas a la normativa europea de ciberseguridad apoyen a sus proveedores PYME en lugar de limitarse a exigirles requisitos, e impulsaremos prácticas cofinanciadas de jóvenes especialistas en PYMES.",
+      "pagina": 4,
+      "apartado": [
+        "Escudo digital PYME: ciberseguridad al alcance de todas las empresas",
+        "Red de Ciberasesores y Cadena de Suministro"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Guías de ciberseguridad en la cadena de suministro y prácticas cofinanciadas",
+      "etiquetas": [
+        "empresas",
+        "ciencia y tecnología",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

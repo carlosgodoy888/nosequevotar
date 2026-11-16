@@ -1,0 +1,112 @@
+{
+  "revisiones": [
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una deducción del 15% en el IRPF por el alquiler y la hipoteca y una rebaja del impuesto de sociedades para pequeñas empresas y cooperativas.", "apoyos": ["c-6b811c9249", "c-be73c4da20"] },
+        { "texto": "Pide eximir del IVA a los autónomos que facturan menos de 85.000 euros anuales e incentivar fiscalmente a las empresas que crean empleo.", "apoyos": ["c-7c497689e6", "c-b40b9b4c7d"] },
+        { "texto": "Su cabeza de lista por Barcelona quiere que Cataluña recaude y gestione sus impuestos, como los vascos, fuera del sistema de financiación común de la LOFCA.", "apoyos": ["c-363c7c71f3", "c-08789b8a19"] },
+        { "texto": "Sus portavoces critican lo que llaman la «voracidad recaudatoria» del Gobierno sobre las clases medias.", "apoyos": ["c-c5a0fe9dea", "c-f6c7d33a23"] }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Destaca haber impulsado la eliminación del copago para personas con grado III+ de dependencia y el refuerzo de los derechos de las personas con ELA.", "apoyos": ["c-cfa2d9702b", "c-661ad3eca3"] },
+        { "texto": "Su ponencia política de 2024 propone ampliar las plazas de Medicina y Enfermería en las universidades catalanas.", "apoyos": ["c-f2fbc936cb"] },
+        { "texto": "La misma ponencia plantea garantizar en todas las comarcas de Cataluña servicios de interrupción del embarazo a partir de los 16 años.", "apoyos": ["c-ba2cc3a244"] },
+        { "texto": "Su diputado Isidre Gavín pidió al Gobierno negociar con los médicos y criticó que se formen con dinero público médicos que después se van.", "apoyos": ["c-ce3874e601", "c-f9f67029e5"] }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "corregido",
+      "problemas": [
+        "La segunda frase convertía la mejora de las condiciones laborales y salariales en el medio para recuperar la autoridad docente («con mejores condiciones»); la cita c-dcd8572ad6 plantea dos objetivos separados: recuperar la autoridad y mejorar las condiciones."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone recuperar el distrito universitario catalán y ampliar las plazas de Medicina y Enfermería en las universidades catalanas.", "apoyos": ["c-a0845506fe", "c-f2fbc936cb"] },
+        { "texto": "Plantea destinar recursos para reducir las ratios y hacer efectiva la escuela inclusiva, recuperar la autoridad de los docentes y mejorar sus condiciones laborales y salariales.", "apoyos": ["c-d5e37429b0", "c-dcd8572ad6"] },
+        { "texto": "Defiende el catalán en las aulas y en los patios, «sin complejos ni renuncias».", "apoyos": ["c-ad9e24a67e"] }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Pide aprobar con urgencia su ley para traspasar a Cataluña las competencias en inmigración, que su cabeza de lista por Barcelona califica de «innegociables».", "apoyos": ["c-7e5a58fdb9", "c-3272f16727", "c-4c535e7ce7", "c-9686bd9bbe"] },
+        { "texto": "Defiende una inmigración «ordenada, reglada», con capacidad real de integración y control efectivo de las fronteras, y sostiene que la capacidad de acogida de Cataluña no es infinita.", "apoyos": ["c-62c56d4c1c", "c-0d571028fa", "c-d22c7baf68"] },
+        { "texto": "Plantea el catalán como lengua común y de acogida para integrar y resume su postura en «derechos, sí; deberes y catalanidad, también».", "apoyos": ["c-7d45438f8a", "c-187fea6e37"] }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "corregido",
+      "problemas": [
+        "«Pide impulsar la jubilación anticipada» sale de c-8a0f59f349 («Impulso de la jubilación anticipada…»), un elemento de la lista de junts.cat del 27-10-2026 que mezcla propuestas y logros que el partido se atribuye; no consta que lo pida como medida pendiente. Se cambia por «Defiende», que vale en ambos casos."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Su ponencia política de 2024 propone suprimir la Audiencia Nacional.", "apoyos": ["c-c38300aa32"] },
+        { "texto": "Defiende la jubilación anticipada de los funcionarios de prisiones y exige desclasificar los documentos sobre el 17-A.", "apoyos": ["c-8a0f59f349", "c-b2b356106f"] },
+        { "texto": "Su portavoz de Interior en el Parlament quiere que los Mossos sean «la policía integral, la policía nacional de Cataluña».", "apoyos": ["c-3f77681d9a"] },
+        { "texto": "Su cabeza de lista por Barcelona reclama efectivos adecuados y coordinación policial, y una diputada defendió que ningún maltratador tenga la custodia ni visitas de sus hijos.", "apoyos": ["c-9a22dfd080", "c-054a8b6793", "c-fe1b1fcfcc"] }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "La primera frase rebajaba la petición: la cita c-5bcaf5f5c7 reclama la aplicación «inmediata y total» de la amnistía, no solo «por completo»; y habla de «políticos» inhabilitados.",
+        "La tercera frase presentaba como postura del partido lo que dijo un diputado (Josep Pagès, c-59b8f600d7) y omitía «perseguir»; se atribuye y se completa. Se quita de ella el 17-A, que ya figura en seguridad y justicia, para no pasar de 90 palabras.",
+        "La cita c-e1e8fb6eac dice «presidentes españoles»; se completa la cita textual."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Reclama la aplicación inmediata y total de la amnistía, con la rehabilitación de los políticos inhabilitados y el regreso de los que llama «exiliados», encabezados por Carles Puigdemont.", "apoyos": ["c-5bcaf5f5c7"] },
+        { "texto": "Su ponencia de 2024 propone suprimir la Audiencia Nacional y derogar el delito de injurias a la Corona y la llamada «ley mordaza».", "apoyos": ["c-c38300aa32", "c-358edfc3af"] },
+        { "texto": "Un diputado sostiene que perseguir o espiar a alguien por ser independentista es delito.", "apoyos": ["c-59b8f600d7"] },
+        { "texto": "Su cabeza de lista afirma que con ellos ni Abascal ni Colau serán ministros y que no se presenta «para poner o quitar presidentes españoles».", "apoyos": ["c-7d87aceb29", "c-e1e8fb6eac"] }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "corregido",
+      "problemas": [
+        "La segunda frase presentaba como postura general lo que dice su cabeza de lista (c-363c7c71f3, c-08789b8a19), sin atribuirlo como se hace en impuestos; y usaba como apoyo c-0344d64f1d («nuestra lengua y nuestro dinero no son negociables»), que no respalda ni la LOFCA ni la Agencia de Seguridad Social.",
+        "La tercera frase aplicaba «de forma integral» y «con vías, trenes, estaciones y dinero» también a las competencias de inmigración; en c-b6c64a80ed solo se refiere al traspaso de Rodalies."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende que Cataluña sea un «Estado propio en forma de república» y estado miembro de la Unión Europea.", "apoyos": ["c-9af81441b9", "c-4c8c3be302", "c-12208277b4"] },
+        { "texto": "Su cabeza de lista quiere que Cataluña recaude y gestione su dinero fuera de la LOFCA, y la ponencia de 2024 plantea una Agencia de Seguridad Social propia.", "apoyos": ["c-363c7c71f3", "c-08789b8a19", "c-a5ceb85422"] },
+        { "texto": "Pide traspasar a Cataluña las competencias en inmigración y hacer efectivo el traspaso integral de Rodalies, «con vías, trenes, estaciones y dinero».", "apoyos": ["c-7e5a58fdb9", "c-4c535e7ce7", "c-b6c64a80ed"] },
+        { "texto": "Defiende la oficialidad del catalán en las instituciones europeas y el derecho legal a ser atendido en catalán por las grandes empresas.", "apoyos": ["c-b7208bbf45", "c-df7a6da8b9"] }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "corregido",
+      "problemas": [
+        "«Defiende una política agraria propia para Cataluña» no está en c-674be49f08: Gavín dice que hablar de una política agraria española «es absurdo» porque la agricultura catalana no tiene nada que ver con la de otros territorios, y pide que lleguen los recursos sin recortes; se ajusta a lo que dice.",
+        "La tercera frase no tenía sujeto claro («Como cabeza de lista por Lleida, reclama…»); se nombra a Gavín para que no se lea como postura general del partido."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone contratos temporales de hasta 120 días para las campañas agrícolas y una doble tarifa eléctrica para las comunidades de regantes.", "apoyos": ["c-4179a2a255", "c-521d139838"] },
+        { "texto": "Su diputado Isidre Gavín sostiene que la agricultura catalana «no tiene nada que ver» con la de otros territorios y pide que lleguen recursos sin recortes.", "apoyos": ["c-674be49f08"] },
+        { "texto": "En pesca, pide más días, menos limitaciones y una planificación que no sea anual.", "apoyos": ["c-5567216539"] },
+        { "texto": "Como cabeza de lista por Lleida, Gavín reclama que Cataluña quede fuera de una medida por un exceso de producción que, según dice, no se da allí.", "apoyos": ["c-096b113af7"] }
+      ]
+    }
+  ]
+}

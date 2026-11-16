@@ -1,0 +1,35 @@
+{
+  "revisiones": [
+    {
+      "tema": "vivienda",
+      "veredicto": "corregido",
+      "problemas": [
+        "Tope de alquiler: «topar el alquiler al 25 % de la renta del barrio» presenta el 25 % como la cifra fijada; el programa (c-ad7b9e6c76) fija como techo la menor entre el 25 % de la renta neta media por hogar de la sección censal y el índice SERPAVI, de modo que el 25 % es un máximo. Se reescribe como máximo y con «renta media del barrio».",
+        "Prohibición de compra: «prohibir la compra de vivienda a empresas con ánimo de lucro» recoge solo la segunda parte de c-0ae2974dc9. La regla general del programa, que coincide con la declaración de Ada Colau (c-b417406f6b), es prohibir a cualquier comprador la compra de vivienda que no sea para residencia habitual o alquiler asequible regulado; la prohibición se aplica «de forma absoluta» a las personas jurídicas con ánimo de lucro. Se recogen las dos cosas.",
+        "Pisos turísticos: el programa habla de la extinción de las licencias de viviendas de uso turístico «en un plazo máximo de 3 años»; se usa «extinguir», que es el verbo del programa, en lugar de «eliminar».",
+        "Representatividad: la sección de medidas fiscales del programa (impuesto del 10 % sobre viviendas de empresas y grandes propietarios, fin del régimen fiscal de las SOCIMI, recargos en el IBI) y el contrato de alquiler indefinido quedan fuera por el límite de 90 palabras. Se acepta porque la reforma constitucional, el parque público, el tope de alquiler, los pisos turísticos, la expropiación y la prohibición de compra son las líneas con más peso, pero queda anotado.",
+        "Resueltas las dudas del redactor: el tope se reescribe como máximo (ver el primer punto); omitir los impuestos, las SOCIMI y el contrato indefinido se acepta por espacio; evitar «fondos buitre» y hablar de «grandes tenedores corporativos», que es el término del propio programa (encabezado de c-6e111d1860), es correcto.",
+        "Fidelidad y apoyos de las demás frases: los ids existen en el tema y respaldan lo que se dice. Las declaraciones (c-def42adeab, c-7be53db666, c-b417406f6b) solo repiten lo que ya está en el programa, así que no hace falta atribuirlas. No hay adjetivos valorativos, etiquetas ideológicas ni el nombre del partido."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone elevar la vivienda a derecho fundamental en la Constitución y prohibir desahucios de personas vulnerables sin alternativa habitacional.",
+          "apoyos": ["c-cbfd59ab27", "c-70431cdefd", "c-8fbed6fbbf", "c-50d0c91425", "c-f408261bfd"]
+        },
+        {
+          "texto": "Prevé dedicar el 1 % del PIB anual a sumar 1,5 millones de viviendas públicas en 12 años.",
+          "apoyos": ["c-ff320fef10", "c-633e8835c3", "c-5bc9ecfd5c", "c-f408261bfd"]
+        },
+        {
+          "texto": "En zonas tensionadas, quiere topar el alquiler en el 25 % de la renta media del barrio como máximo y extinguir en tres años las licencias de pisos turísticos.",
+          "apoyos": ["c-ad7b9e6c76", "c-af5e74edc0", "c-f408261bfd"]
+        },
+        {
+          "texto": "Plantea expropiar por fases a grandes tenedores corporativos y limitar la compra de vivienda a residencia habitual o alquiler asequible, vetándola a empresas con ánimo de lucro.",
+          "apoyos": ["c-6e111d1860", "c-0ae2974dc9", "c-def42adeab", "c-7be53db666", "c-b417406f6b"]
+        }
+      ]
+    }
+  ]
+}

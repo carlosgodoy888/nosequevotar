@@ -1,0 +1,403 @@
+{
+  "nota": "Retrato del cabeza de lista de cada partido: la primera persona que figura en «cabeza» de partidos-2026.json. Todos llevan el mismo recorte (3:4, 300×400) y van en blanco y negro; la web los tiñe con el sepia. Lo usa src/plantillas/partidos.mjs. «original» es el archivo descargado (guardado fuera del repositorio) con su huella SHA-256; «encuadre» son las fracciones de la imagen original usadas para recortar (coronilla, barbilla y centro de la cara).",
+  "actualizado": "2026-11-16",
+  "cambios": "Recortada y en blanco y negro.",
+  "retratos": {
+    "pp": {
+      "persona": "Alberto Núñez Feijóo",
+      "archivo": "/retratos/pp.jpg",
+      "autor": "Partido Popular",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.es",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:ALBERTO_N%C3%9A%C3%91EZ_FEIJ%C3%93O.jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/ALBERTO_N%C3%9A%C3%91EZ_FEIJ%C3%93O.jpg",
+        "sha256": "4d25e2f59393acd05c08750e4d8f7044418ab98e1ccf7c3c7d15fa4036d505f3",
+        "bytes": 935738,
+        "descargado": "2026-11-16",
+        "fecha": "14 May 2025",
+        "licenciaEnOrigen": "CC0"
+      },
+      "encuadre": {
+        "coronilla": 0.052,
+        "barbilla": 0.46,
+        "centro": 0.49
+      }
+    },
+    "psoe": {
+      "persona": "Pedro Sánchez",
+      "archivo": "/retratos/psoe.jpg",
+      "autor": "Pool Moncloa / Carlos Spottorno",
+      "licencia": "uso con atribución",
+      "licenciaUrl": null,
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:Pedro_S%C3%A1nchez_in_2026.jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pedro_S%C3%A1nchez_in_2026.jpg",
+        "sha256": "307dceaf5eabc8cdfcc3f38b6b84a6bc2fe5f073fdb96efd5bb0864bd386a08b",
+        "bytes": 68688,
+        "descargado": "2026-11-16",
+        "fecha": "11 February 2026",
+        "licenciaEnOrigen": "Attribution"
+      },
+      "encuadre": {
+        "coronilla": 0.023,
+        "barbilla": 0.59,
+        "centro": 0.51
+      }
+    },
+    "vox": {
+      "persona": "Santiago Abascal",
+      "archivo": "/retratos/vox.jpg",
+      "autor": "Gage Skidmore",
+      "licencia": "CC BY-SA 2.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.es",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:Santiago_Abascal_(54349274173)_(cropped).jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Santiago_Abascal_%2854349274173%29_%28cropped%29.jpg",
+        "sha256": "1adcd55387fbe68735e8a30683862d626c644f969ab1b4e9489c58d0af89bec2",
+        "bytes": 4723925,
+        "descargado": "2026-11-16",
+        "fecha": "20 February 2025, 12:12",
+        "licenciaEnOrigen": "CC BY-SA 2.0"
+      },
+      "encuadre": {
+        "coronilla": 0.052,
+        "barbilla": 0.62,
+        "centro": 0.49
+      }
+    },
+    "frente-amplio": {
+      "persona": "Ada Colau",
+      "archivo": "/retratos/frente-amplio.jpg",
+      "autor": "Robo71",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.es",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:Ada-Colau-Encuentro-2024.jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ada-Colau-Encuentro-2024.jpg",
+        "sha256": "c09a5e8836cf33c19ebf03f4210ddd921571b747392bbd4df27cbd8bca390bf4",
+        "bytes": 1180590,
+        "descargado": "2026-11-16",
+        "fecha": "1 June 2024",
+        "licenciaEnOrigen": "CC0"
+      },
+      "encuadre": {
+        "coronilla": 0.085,
+        "barbilla": 0.47,
+        "centro": 0.44
+      }
+    },
+    "podemos": {
+      "persona": "Irene Montero",
+      "archivo": "/retratos/podemos.jpg",
+      "autor": "The Left",
+      "licencia": "CC0 1.0",
+      "licenciaUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.es",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:Irene_Montero_Gil,_2024_(cropped).jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Irene_Montero_Gil%2C_2024_%28cropped%29.jpg",
+        "sha256": "598adafc19bcbefc9e8f41098a1fc59623f66a42a0d3a1a11af1b181b823221e",
+        "bytes": 489552,
+        "descargado": "2026-11-16",
+        "fecha": "11 July 2024",
+        "licenciaEnOrigen": "CC0"
+      },
+      "encuadre": {
+        "coronilla": 0.068,
+        "barbilla": 0.62,
+        "centro": 0.46
+      }
+    },
+    "erc": {
+      "persona": "Gabriel Rufián",
+      "archivo": "/retratos/erc.jpg",
+      "autor": "Marcpuigperez",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:Gabriel_Rufi%C3%A1n_Portavoz_de_Esquerra_Republicana_en_el_Congreso_de_los_diputados_(cropped).jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gabriel_Rufi%C3%A1n_Portavoz_de_Esquerra_Republicana_en_el_Congreso_de_los_diputados_%28cropped%29.jpg",
+        "sha256": "e63c2d461067ce5c5911464311e47351670ed21499e9f310927871cacfdc8d84",
+        "bytes": 483609,
+        "descargado": "2026-11-16",
+        "fecha": "16 February 2022, 10:28:52",
+        "licenciaEnOrigen": "CC BY-SA 4.0"
+      },
+      "encuadre": {
+        "coronilla": 0.058,
+        "barbilla": 0.458,
+        "centro": 0.51
+      }
+    },
+    "compromis-front-valencia": {
+      "persona": "Àgueda Micó",
+      "archivo": "/retratos/compromis-front-valencia.jpg",
+      "autor": "Coalició Compromís",
+      "licencia": "CC BY 2.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/2.0/deed.es",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:%C3%80gueda_Mic%C3%B3_(cropped).jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%C3%80gueda_Mic%C3%B3_%28cropped%29.jpg",
+        "sha256": "8ecfcab00e28ea47d7c642e574b0a9a46080e392468700eb572ead2b4a738457",
+        "bytes": 652261,
+        "descargado": "2026-11-16",
+        "fecha": "29 October 2014, 00:38:52",
+        "licenciaEnOrigen": "CC BY 2.0"
+      },
+      "encuadre": {
+        "coronilla": 0.06,
+        "barbilla": 0.64,
+        "centro": 0.51
+      }
+    },
+    "junts": {
+      "persona": "Míriam Nogueras",
+      "archivo": "/retratos/junts.jpg",
+      "autor": "Junts per Catalunya",
+      "licencia": "material de prensa del partido",
+      "licenciaUrl": null,
+      "origen": "web de Junts",
+      "origenUrl": "https://junts.cat/",
+      "original": {
+        "url": "https://junts.cat/wp-content/uploads/2026/06/miriam-nogueras.webp",
+        "sha256": "51f0deb8ed3ec0954392fd92ba24983f649b808cd6744b6822b15610ae6e3ac6",
+        "bytes": 155812,
+        "descargado": "2026-11-16",
+        "fecha": "2026-06-11",
+        "licenciaEnOrigen": "Material de prensa del partido"
+      },
+      "encuadre": {
+        "coronilla": 0.058,
+        "barbilla": 0.506,
+        "centro": 0.47
+      }
+    },
+    "eh-bildu": {
+      "persona": "Oskar Matute",
+      "archivo": "/retratos/eh-bildu.jpg",
+      "autor": "EH Bildu",
+      "licencia": "CC BY-SA 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.es",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:BC_OSKAR_MATUTE.jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/BC_OSKAR_MATUTE.jpg",
+        "sha256": "d129a638ab64fd6f8e42c2ce4098798fbbb0292dbb7bc8ddabe1fd6820e21be1",
+        "bytes": 310386,
+        "descargado": "2026-11-16",
+        "fecha": "13 June 2023, 11:17:42",
+        "licenciaEnOrigen": "CC BY-SA 3.0"
+      },
+      "encuadre": {
+        "coronilla": 0.114,
+        "barbilla": 0.37,
+        "centro": 0.55
+      }
+    },
+    "eaj-pnv": {
+      "persona": "Maribel Vaquero",
+      "archivo": "/retratos/eaj-pnv.jpg",
+      "autor": "EAJ-PNV Gipuzkoa",
+      "licencia": "CC BY-SA 2.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.es",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:Maribel_Vaquero_2019_(cropped).jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Maribel_Vaquero_2019_%28cropped%29.jpg",
+        "sha256": "db53b3356719c59af5025cba30246192ee9f0bf24c16c3f7295274d2bb15d1fd",
+        "bytes": 1173563,
+        "descargado": "2026-11-16",
+        "fecha": "4 November 2019, 12:57:09",
+        "licenciaEnOrigen": "CC BY-SA 2.0"
+      },
+      "encuadre": {
+        "coronilla": 0.052,
+        "barbilla": 0.63,
+        "centro": 0.44
+      }
+    },
+    "pacma": {
+      "persona": "Asier Esparza",
+      "archivo": "/retratos/pacma.jpg",
+      "autor": "PACMA",
+      "licencia": "material de prensa del partido",
+      "licenciaUrl": null,
+      "origen": "web de PACMA",
+      "origenUrl": "https://pacma.es/",
+      "original": {
+        "url": "https://pacma.es/wp-content/uploads/2026/10/ASIER-ESPARZA-1.jpeg",
+        "sha256": "5d3eb4d371af1cb689f3dda4d33a920e3e2df775a0913772bb33f1fa40a0b468",
+        "bytes": 249345,
+        "descargado": "2026-11-16",
+        "fecha": "2026-10-06",
+        "licenciaEnOrigen": "Material de prensa del partido"
+      },
+      "encuadre": {
+        "coronilla": 0.046,
+        "barbilla": 0.48,
+        "centro": 0.51
+      }
+    },
+    "bng": {
+      "persona": "Néstor Rego",
+      "archivo": "/retratos/bng.jpg",
+      "autor": "Elisardojm",
+      "licencia": "CC BY-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:N%C3%A9stor_Rego_Candamil,_XV_Asemblea_Nacional_Bloque_Nacionalista_Galego_21.jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/N%C3%A9stor_Rego_Candamil%2C_XV_Asemblea_Nacional_Bloque_Nacionalista_Galego_21.jpg",
+        "sha256": "3838775f7ea084a2b71ae4af71eeb6e47c0dfc614b607026662b836968c67e18",
+        "bytes": 2921225,
+        "descargado": "2026-11-16",
+        "fecha": "28 February 2016, 21:42:15",
+        "licenciaEnOrigen": "CC BY-SA 4.0"
+      },
+      "encuadre": {
+        "coronilla": 0.1,
+        "barbilla": 0.5,
+        "centro": 0.504
+      }
+    },
+    "unidad-del-pueblo-canario": {
+      "persona": "Luis Campos",
+      "archivo": "/retratos/unidad-del-pueblo-canario.jpg",
+      "autor": "Nueva Canarias-Bloque Canarista",
+      "licencia": "material de prensa del partido",
+      "licenciaUrl": null,
+      "origen": "web de Nueva Canarias",
+      "origenUrl": "https://www.nuevacanariasbc.org/",
+      "original": {
+        "url": "https://www.nuevacanariasbc.org/wp-content/uploads/2026/06/L.-Campos.jpg",
+        "sha256": "8d3ef2fe6ab7334ab9693abce9146d8fa0c87e0cf562dfb5562290d90d988898",
+        "bytes": 72467,
+        "descargado": "2026-11-16",
+        "fecha": "2026-06",
+        "licenciaEnOrigen": "Material de prensa del partido"
+      },
+      "encuadre": {
+        "coronilla": 0.01,
+        "barbilla": 0.508,
+        "centro": 0.32
+      }
+    },
+    "cc-primero-canarias": {
+      "persona": "Cristina Valido",
+      "archivo": "/retratos/cc-primero-canarias.jpg",
+      "autor": "Coalición Canaria",
+      "licencia": "material de prensa del partido",
+      "licenciaUrl": null,
+      "origen": "web de Coalición Canaria",
+      "origenUrl": "https://coalicioncanaria.org/",
+      "original": {
+        "url": "https://coalicioncanaria.org/wp-content/uploads/2025/10/10.-Cristina-Valido.jpeg",
+        "sha256": "f11811bde778d1b338b52d59df1135af3807aafc0b3f7523f909bcb228d10694",
+        "bytes": 69003,
+        "descargado": "2026-11-16",
+        "fecha": "2025-10-28",
+        "licenciaEnOrigen": "Material de prensa del partido"
+      },
+      "encuadre": {
+        "coronilla": 0.055,
+        "barbilla": 0.486,
+        "centro": 0.49
+      }
+    },
+    "upn-pp": {
+      "persona": "Leticia San Martín",
+      "archivo": "/retratos/upn-pp.jpg",
+      "autor": "UPN",
+      "licencia": "material de prensa del partido",
+      "licenciaUrl": null,
+      "origen": "web de UPN",
+      "origenUrl": "https://www.upn.org/",
+      "original": {
+        "url": "https://www.upn.org/wp-content/uploads/2024/07/Leticia-San-Martin.jpg",
+        "sha256": "4048d38be92363eaa5e18e5cd01c814d3f45b0afe575f2b3edd70885e0e75c4e",
+        "bytes": 188924,
+        "descargado": "2026-11-16",
+        "fecha": "2024-07-23",
+        "licenciaEnOrigen": "Material de prensa del partido"
+      },
+      "encuadre": {
+        "coronilla": 0.085,
+        "barbilla": 0.4,
+        "centro": 0.465
+      }
+    },
+    "frente-obrero": {
+      "persona": "Roberto Vaquero",
+      "archivo": "/retratos/frente-obrero.jpg",
+      "autor": "DISTRITOTV (YouTube)",
+      "licencia": "CC BY 3.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by/3.0/deed.es",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:Roberto_Vaquero_2023_(cropped).jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Roberto_Vaquero_2023_%28cropped%29.jpg",
+        "sha256": "1d8734abfb031414ff4049ae260a8260e366aa0a12ce72db37631d480d60e07a",
+        "bytes": 228072,
+        "descargado": "2026-11-16",
+        "fecha": "26 June 2023",
+        "licenciaEnOrigen": "CC BY 3.0"
+      },
+      "encuadre": {
+        "coronilla": 0.1,
+        "barbilla": 0.57,
+        "centro": 0.48
+      }
+    },
+    "salf": {
+      "persona": "Alvise Pérez",
+      "archivo": "/retratos/salf.jpg",
+      "autor": "Unión Europea 2024. Fuente: Parlamento Europeo",
+      "licencia": "uso con atribución",
+      "licenciaUrl": "https://www.europarl.europa.eu/legal-notice/",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:1720511531544_20240709_PEREZ_FERNANDEZ_Luis_ES_004.jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/1720511531544_20240709_PEREZ_FERNANDEZ_Luis_ES_004.jpg",
+        "sha256": "1e40e2a68f06edb222fb898b00bbcd91d5f17c1369ec5ec3d5bd296c41e23a1d",
+        "bytes": 4012904,
+        "descargado": "2026-11-16",
+        "fecha": "June 2024",
+        "licenciaEnOrigen": "European Parliament"
+      },
+      "encuadre": {
+        "coronilla": 0.065,
+        "barbilla": 0.71,
+        "centro": 0.49
+      }
+    },
+    "d21": {
+      "persona": "Miriam González Durántez",
+      "archivo": "/retratos/d21.jpg",
+      "autor": "Junta de Andalucía",
+      "licencia": "CC BY-SA 2.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-sa/2.0/deed.es",
+      "origen": "Wikimedia Commons",
+      "origenUrl": "https://commons.wikimedia.org/wiki/File:2024_04_22_-_Miriam_Gonz%C3%A1lez_(cropped).jpg",
+      "original": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/2024_04_22_-_Miriam_Gonz%C3%A1lez_%28cropped%29.jpg",
+        "sha256": "8218496971356cf6c45ce1a93d7e2f59dd0ee0bb1261a7c778bf1da47cdaa71e",
+        "bytes": 361191,
+        "descargado": "2026-11-16",
+        "fecha": "22 April 2024, 11:45:10",
+        "licenciaEnOrigen": "CC BY-SA 2.0"
+      },
+      "encuadre": {
+        "coronilla": 0.089,
+        "barbilla": 0.505,
+        "centro": 0.478
+      }
+    }
+  }
+}

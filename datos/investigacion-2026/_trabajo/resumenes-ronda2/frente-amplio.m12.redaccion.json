@@ -1,0 +1,27 @@
+{
+  "resumenes": [
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone llevar la inversión en I+D+i al 3 % del PIB en 2030 y aumentar un 15 % los programas de la Agencia Estatal de Investigación.",
+          "apoyos": ["c-a6475b38ae", "c-3a296d6bfb", "c-27c13f520e"]
+        },
+        {
+          "texto": "En cultura, quiere fijar por ley una inversión pública mínima del 0,2 % del PIB y derogar la ley que protege la tauromaquia como patrimonio cultural.",
+          "apoyos": ["c-64dd02a076", "c-15d8be639e", "c-f790d0a2d1", "c-4e89217a87"]
+        },
+        {
+          "texto": "Pide que la CNMC supervise a las grandes plataformas digitales, con multas de hasta el 6 % de su facturación mundial.",
+          "apoyos": ["c-926f597edb", "c-d76e700b66"]
+        },
+        {
+          "texto": "También plantea una ley sobre el uso de la inteligencia artificial en la administración pública e impulsar el software libre.",
+          "apoyos": ["c-4ec7285bce", "c-5bae6561eb", "c-2d60a119bf", "c-4b9fe985ee"]
+        }
+      ],
+      "nota": "119 citas, casi todas del programa. Se priorizan las medidas con cifra (I+D+i, cultura, multas a plataformas). Quedan fuera por espacio la regulación de la IA en el trabajo, la protección de menores en entornos digitales, la nube soberana y el impuesto europeo a empresas de IA. La declaración de Tesh Sidi sobre la CNMC coincide con el programa y solo se usa como apoyo adicional."
+    }
+  ]
+}

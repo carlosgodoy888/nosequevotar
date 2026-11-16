@@ -4,8 +4,8 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Sin candidatura única: Maribel Vaquero (Gipuzkoa), Idoia Sagastizabal (Bizkaia) y Gorka Urtaran (Álava). El presidente del partido, Aitor Esteban, no encabeza ninguna lista.
-- **Programa para el 29 de noviembre:** publicado (comprobado el 12 de noviembre de 2026)
-- **Citas recogidas:** 304 vigentes: 256 medidas, de ellas 108 concretas, y 48 posiciones. De programa, verificadas contra su página: 304 exactas y 0 normalizadas.
+- **Programa para el 29 de noviembre:** publicado (comprobado el 16 de noviembre de 2026)
+- **Citas recogidas:** 314 vigentes: 261 medidas, de ellas 113 concretas, y 53 posiciones. De programa, verificadas contra su página: 304 exactas y 0 normalizadas. Declaraciones verificadas abriendo su fuente: 10.
 
 ## Lo que dicen sus documentos
 
@@ -679,4 +679,41 @@ Programa de estas elecciones · 9 de noviembre de 2026 · 43 páginas · en cast
 
 - **03.** «Asegurar que Euskadi participe directamente en los mecanismos de programación, ejecución y seguimiento de los fondos europeos que afecten a sus ámbitos competenciales.» (p. 42) · medida · _Participación de Euskadi en programación, ejecución y seguimiento de fondos europeos_
 - **04.** «Promover una financiación europea adecuada para las prioridades industriales, energéticas, tecnológicas, sociales y territoriales de Euskadi, garantizando que las decisiones sobre los recursos respondan a las necesidades de nuestro país.» (p. 42) · medida · _Financiación europea adecuada para las prioridades de Euskadi_
+
+## Lo que han dicho sus portavoces
+
+Declaraciones, no programa.
+
+### Vivienda
+
+- «La política de vivienda necesita grandes acuerdos. Las soluciones no pueden partir desde la confrontación, o conmigo o contra mí, o blanco o negro. Como si no hubiera otra opción. Necesita el concurso de todas las administraciones y de todos los agentes. Hay que plantear soluciones desde la centralidad, no desde el extremismo y la polarización» · Gorka Urtaran, cabeza de lista al Congreso por Araba/Álava, (EAJ-PNV) · 15 de noviembre de 2026 · [documento del partido: EAJ-PNV (web del partido; acto en Alegría-Dulantzi)](https://www.eaj-pnv.eus/es/noticias/58732/urtaran-defiende-que-eaj-pnv-es-la-poliza-a-todo-r/) · posición · _Política de vivienda basada en acuerdos entre administraciones_
+- «Queremos que tengas libertad para decidir si quieres comprar o alquilar, pero que tengas las oportunidades de hacer lo que quieras. Quien quiera comprar, que compre. Y quien quiera alquilar, que alquile.» · Idoia Sagastizabal, cabeza de lista al Congreso por Bizkaia, (EAJ-PNV) · 13 de noviembre de 2026 · [documento del partido: EAJ-PNV (web del partido; acto con Euzko Gaztedi)](https://www.eaj-pnv.eus/es/noticias/58727/eaj-pnv-defiende-en-un-encuentro-con-jovenes-agili/) · posición · _Libertad para elegir entre comprar o alquilar vivienda_
+
+### Empleo y salarios
+
+- «mejores salarios, condiciones laborales dignas y un salario mínimo propio adaptado al coste de la vida de Euskadi» · Idoia Sagastizabal, cabeza de lista al Congreso por Bizkaia, (EAJ-PNV) · 13 de noviembre de 2026 · [documento del partido: EAJ-PNV (web del partido; acto con Euzko Gaztedi)](https://www.eaj-pnv.eus/es/noticias/58727/eaj-pnv-defiende-en-un-encuentro-con-jovenes-agili/) · medida concreta · _Salario mínimo propio para Euskadi_
+
+### Economía y empresas
+
+- «La SEPI tiene como objetivo impulsar proyectos industriales, preservar nuestra capacidad industrial. No puede mirar hacia otro lado. No puede hacer dejación de sus funciones. La SEPI sabe lo que tiene que hacer para salvar a Tubos Reunidos. Y si lo hace, va a contar con el apoyo de EAJ-PNV en Madrid, en los ayuntamientos de la comarca de Aiaraldea, en la Diputación y en el Gobierno vasco» · Gorka Urtaran, cabeza de lista al Congreso por Araba/Álava, (EAJ-PNV) · 13 de noviembre de 2026 · [documento del partido: EAJ-PNV (web del partido; acto en Amurrio)](https://www.eaj-pnv.eus/es/noticias/58725/el-pnv-defiende-la-industria-como-motor-del-desarr/) · medida concreta · _Pide a la SEPI intervenir para salvar Tubos Reunidos_
+
+### Democracia e instituciones
+
+- «Decimos claramente que vamos a estar en contra de un bloque PP-Vox, no vamos a posibilitar un Gobierno PP-Vox y además nos van a tener enfrente» · Maribel Vaquero, cabeza de lista al Congreso por Gipuzkoa y portavoz de EAJ-PNV en el Congreso, (EAJ-PNV) · 14 de noviembre de 2026 · [declaración en medios: Infobae (entrevista de la agencia EFE)](https://www.infobae.com/espana/agencias/2026/11/14/vaquero-pnv-pp-vox-nos-tendran-enfrente-pero-no-cejaremos-en-trabajar-por-euskadi/) · medida concreta · _Descarta facilitar un Gobierno de PP y Vox_
+- «No vamos a poner alfombras rojas y azules, no vamos a dar el voto a nadie, como han dicho otros, gratis et amore; vamos a plantear la agenda vasca, lo que interesa a esta sociedad. Lo tenemos clarísimo» · Aitor Esteban, presidente del Euzkadi Buru Batzar (EBB) de EAJ-PNV, (EAJ-PNV) · 13 de noviembre de 2026 · [documento del partido: EAJ-PNV (web del partido; entrevista en Onda Vasca)](https://www.eaj-pnv.eus/es/noticias/58724/aitor-esteban-el-pnv-es-el-seguro-para-que-los-int/) · posición · _Apoyo a cualquier Gobierno condicionado a la agenda vasca_
+
+### Pensiones
+
+- «Necesitamos asegurar que las pensiones mantengan su poder adquisitivo, mejorar las más bajas, reducir la brecha de género y corregir las penalizaciones injustas de quienes han cotizado durante más de cuarenta años» · Idoia Sagastizabal, cabeza de lista al Congreso por Bizkaia, (EAJ-PNV) · 12 de noviembre de 2026 · [documento del partido: EAJ-PNV (web del partido; mitin de inicio de campaña en Vitoria-Gasteiz)](https://www.eaj-pnv.eus/es/noticias/58723/eaj-pnv-se-presenta-ante-la-ciudadania-de-euskadi-/) · medida concreta · _Pensiones con poder adquisitivo y sin penalizar carreras largas_
+
+### Transporte e infraestructuras
+
+- «Queremos recuperar la puntualidad y las frecuencias del Irun-Brinkola y ofrecer a sus personas usuarias los estándares de calidad de Euskotren y el Topo. No queremos seguir dependiendo de decisiones tomadas a cientos de kilómetros por quienes no conocen nuestras necesidades ni sufren las consecuencias de sus retrasos. Hemos demostrado que cuando Euskadi gestiona, Euskadi funciona» · Maribel Vaquero, cabeza de lista al Congreso por Gipuzkoa y portavoz de EAJ-PNV en el Congreso, (EAJ-PNV) · 14 de noviembre de 2026 · [documento del partido: EAJ-PNV (web del partido; visita a Tolosa)](https://www.eaj-pnv.eus/es/noticias/58728/eaj-pnv-denuncia-decadas-de-abandono-ferroviario-d/) · medida concreta · _Gestión vasca de la línea de Cercanías Irun-Brinkola_
+- «Somos la puerta norte de la península hacia Europa. Nuestra industria, nuestros puertos y nuestra economía necesitan conexiones ferroviarias competitivas. Europa apuesta por corredores transeuropeos y Madrid sigue arrastrando una visión centralista de las infraestructuras.» · Maribel Vaquero, cabeza de lista al Congreso por Gipuzkoa y portavoz de EAJ-PNV en el Congreso, (EAJ-PNV) · 14 de noviembre de 2026 · [documento del partido: EAJ-PNV (web del partido; visita a Tolosa)](https://www.eaj-pnv.eus/es/noticias/58728/eaj-pnv-denuncia-decadas-de-abandono-ferroviario-d/) · posición · _Prioridad al Corredor Atlántico frente a la red radial_
+
+### Ciencia, cultura y digital
+
+- «Dar el voto al Partido Nacionalista Vasco tiene un doble valor, porque supone la defensa de Euskadi y construir la casa vasca, y que podamos tener una selección vasca también en fútbol» · Maribel Vaquero, cabeza de lista al Congreso por Gipuzkoa y portavoz de EAJ-PNV en el Congreso, (EAJ-PNV) · 14 de noviembre de 2026 · [declaración en medios: Infobae (agencia EFE)](https://www.infobae.com/espana/agencias/2026/11/14/esteban-el-voto-seguro-para-defender-a-euskadi-y-a-la-seleccion-vasca-es-el-del-pnv/) · posición · _Oficialidad internacional de la selección vasca de fútbol_
+
+Sin declaraciones recogidas sobre: Sanidad, Inmigración, Educación, Medio ambiente y energía, Política exterior y defensa, Seguridad y justicia, Familias y servicios sociales, Impuestos, Campo y medio rural.
 

@@ -1,0 +1,34 @@
+{
+  "revisiones": [
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: el bienestar animal ocupa más de la mitad de las 252 citas (bloque 1 del programa, con unas 140 citas) y solo tenía una frase; faltaba la experimentación con animales, que tiene apartado propio (1.5, unas diez citas, «nos oponemos firmemente», «avanzar hacia la prohibición», «Estrategia nacional para el fin de la experimentación»). Se añade a la cuarta frase con la fuerza de las citas («avanzar hacia el fin»), sin pasar de 30 palabras por frase ni de 90 en total.",
+        "Para dejar sitio sin perder contenido se aprietan las frases 1 y 2 («con renovables», «productos animales»); el sentido no cambia.",
+        "Fidelidad comprobada: todos los ids existen en el tema y respaldan sus frases (cese de autorizaciones c-2bd04b472f, límite de tamaño c-608567bd4f, impuesto climático c-201758641c y c-1bc45a112e, 30 % en 2030 c-7f70f35564, glifosato c-ae0515519e, pirotecnia c-5bc51577d4, ley sin exclusiones c-a88521aec1, abolir la caza c-c993784671, espectáculos c-7e3267b6be). «Abolir» los espectáculos sigue el título del apartado del programa («Abolición de los espectáculos, tradiciones y festejos con animales»).",
+        "Dudas del redactor: es correcto no nombrar la tauromaquia (queda dentro de los espectáculos con animales) y no usar declaraciones: las 15 repiten líneas del programa; la única de campaña (c-4bd575c15d, 15-11-2026) se refiere a un festejo concreto ya cubierto por la prohibición general, y la carta a los gobiernos autonómicos sobre la caza (c-55dfbd1eb7) y la cita del programa andaluz (c-53e6615c6a) no se usan, así que no hay propuestas autonómicas presentadas como estatales.",
+        "Neutralidad y forma: sin adjetivos valorativos, etiquetas ni nombre del partido; «macrogranjas» no se adopta (se habla de explotaciones ganaderas). Cuatro frases y 90 palabras."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende acelerar la transición a una economía sin emisiones con renovables y considera insostenible el modelo de combustibles fósiles y nuclear.",
+          "apoyos": ["c-b47be457ad", "c-50634dd802", "c-6f6ecb6c03"]
+        },
+        {
+          "texto": "Propone no autorizar nuevas explotaciones ganaderas ni ampliaciones, limitar su tamaño y crear un impuesto climático sobre la ganadería y los productos animales.",
+          "apoyos": ["c-2bd04b472f", "c-608567bd4f", "c-201758641c", "c-1bc45a112e"]
+        },
+        {
+          "texto": "Plantea proteger al menos el 30 % del territorio en 2030 y prohibir el glifosato y la pirotecnia.",
+          "apoyos": ["c-7f70f35564", "c-ae0515519e", "c-5bc51577d4"]
+        },
+        {
+          "texto": "Quiere una ley que proteja a todos los animales sin excepciones, abolir la caza y los espectáculos con animales, y avanzar hacia el fin de la experimentación animal.",
+          "apoyos": ["c-a88521aec1", "c-c993784671", "c-a534ac9aa4", "c-7e3267b6be", "c-a13fecde37", "c-1ed0ed1cb7"]
+        }
+      ]
+    }
+  ]
+}

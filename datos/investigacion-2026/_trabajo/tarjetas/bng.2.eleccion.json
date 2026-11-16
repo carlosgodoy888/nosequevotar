@@ -1,0 +1,132 @@
+{
+  "partido": "bng",
+  "lote": "bng.2",
+  "temas": [
+    {
+      "tema": "seguridad-y-justicia",
+      "elegidas": [
+        { "id": "c-50a255d5e8", "motivo": "Primera línea de su postura (derogar íntegra la «Ley Mordaza»), que además repite en campaña Néstor Rego como incumplimiento del Gobierno; es la medida que mejor resume su enfoque de seguridad centrado en libertades.", "texto": null, "cambio": null },
+        { "id": "c-5fc18b3978", "motivo": "Línea competencial: traspaso de la seguridad pública a Galicia con una Policía Gallega; distinta de la primera y central en su programa.", "texto": null, "cambio": null },
+        { "id": "c-70593f6223", "motivo": "Línea penal: derogar la prisión permanente revisable, citada en el resumen junto a la Ley Mordaza; aporta su postura sobre penas y reinserción.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-173611058c", "por_que_no": "Representa la línea de suprimir delitos contra la libertad de expresión, pero roza el límite de 80 palabras y se solapa con la de la Ley Mordaza (derecho de manifestación)." },
+        { "id": "c-00b33c66ba", "por_que_no": "Mezcla tres acciones distintas (pelotas de goma, devoluciones en caliente, presunción de veracidad) y empieza con «Debe también», que remite a lo anterior." },
+        { "id": "c-578bf7180e", "por_que_no": "Traspaso de prisiones a Galicia: línea real, pero ya queda cubierta la vía competencial con la Policía Gallega y la medida acumula varias acciones." }
+      ],
+      "nota": "Las medidas de violencia machista del resumen (feminicidio, geolocalización, plazas judiciales) están en el tema igualdad-y-derechos; aquí la única es la de prostitución (c-6c58b8427b), poco representativa del tema."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "elegidas": [
+        { "id": "c-292cb552e9", "motivo": "Primera línea del resumen: servicios sociales públicos en titularidad, gestión y financiación, con más gasto en protección social; es la que mejor resume su modelo en el tema.", "texto": null, "cambio": null },
+        { "id": "c-f0b68c7bff", "motivo": "Línea de financiación de la dependencia y deuda con Galicia (más de 3.000 millones), lleva cifra y es distinta de la primera.", "texto": null, "cambio": null },
+        { "id": "c-1c45d54948", "motivo": "Línea de rentas: traspaso del Ingreso Mínimo Vital para una renta gallega no inferior al SMI.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-0f7ec7b9a8", "por_que_no": "Reconocimiento legal de las familias monoparentales: línea secundaria del resumen (punto 4)." },
+        { "id": "c-d053b176cf", "por_que_no": "Asistencia personal para personas con discapacidad: línea secundaria del resumen (punto 4)." },
+        { "id": "c-a8f92d2e09", "por_que_no": "Empieza con «También para poder…» y no se entiende sola." }
+      ],
+      "nota": "Sin declaraciones de campaña en este tema."
+    },
+    {
+      "tema": "impuestos",
+      "elegidas": [
+        { "id": "c-9b1e60b655", "motivo": "Impuestos permanentes y más progresivos a banca, grandes energéticas y grandes fortunas con gestión gallega: une su línea redistributiva con la soberanía fiscal, y en campaña Rego pide gravar los beneficios extraordinarios de las energéticas.", "texto": null, "cambio": null },
+        { "id": "c-c212618b95", "motivo": "Línea principal del resumen: política fiscal propia de Galicia y que las empresas que operan allí tributen allí (el concierto económico que Rego defiende en campaña).", "texto": null, "cambio": null },
+        { "id": "c-f9564df884", "motivo": "Línea de progresividad del IRPF: menos tributación del trabajo y más del capital.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-c5df9dcd5d", "por_que_no": "Tributación en Galicia de las empresas que operan allí: misma línea de soberanía fiscal, pero más estrecha que c-c212618b95." },
+        { "id": "c-ec97c655e1", "por_que_no": "Rebaja permanente del IVA de alimentación básica e higiene: línea real (punto 3 del resumen) que se queda fuera por haber cuatro líneas y tres huecos." },
+        { "id": "c-f220dfc97e", "por_que_no": "IVA del 5% a electricidad y gas: misma línea del IVA, alternativa a c-ec97c655e1." }
+      ],
+      "nota": "c-c212618b95 recoge la línea uno del resumen (política fiscal propia), pero no va primera porque empieza con «En consonancia,», que remite a lo anterior, aunque se entiende sola. El concierto económico como tal está en organizacion-territorial (c-0d3e164368). Si quien revisa prefiere que la soberanía fiscal vaya primera, bastaría con invertir las dos primeras; c-c5df9dcd5d sirve como alternativa sin conector."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "elegidas": [
+        { "id": "c-6a8447a4a8", "motivo": "Línea de violencia machista, la primera del resumen: introducir el feminicidio en la ley y un estatuto de la víctima; corta, clara y aparece en el resumen de dos temas.", "texto": null, "cambio": null },
+        { "id": "c-cb671b9032", "motivo": "Línea abolicionista: oposición a legalizar los vientres de alquiler e impedirlos vía terceros países.", "texto": null, "cambio": null },
+        { "id": "c-de981e45ff", "motivo": "Línea de memoria democrática: derogar la Ley de Amnistía de 1977 para juzgar los crímenes del franquismo.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-0a72fe5995", "por_que_no": "Gestión pública de las pulseras de control telemático: es lo que destaca en campaña Noa Presas, pero el resumen pone en el centro la reforma legal y el feminicidio." },
+        { "id": "c-6a61420519", "por_que_no": "Reforma legal integral que incluye la violencia vicaria: muy representativa, pero larga (67 palabras) y más técnica (Convenio de Estambul, informes Grevio)." },
+        { "id": "c-614c7d8bd8", "por_que_no": "Revocar el Concordato: línea real (laicidad), alternativa a la Ley de Amnistía como tercera." }
+      ],
+      "nota": "La derogación de la «Ley Mordaza» va en seguridad-y-justicia (c-50a255d5e8). Las medidas LGBT (no binarias, sanciones a entidades) se quedan fuera por haber cuatro líneas y tres huecos."
+    },
+    {
+      "tema": "pensiones",
+      "elegidas": [
+        { "id": "c-22b8d577fe", "motivo": "Primera línea del resumen (deshacer las reformas y volver a jubilarse a los 65), expresada en la medida concreta que mejor entiende cualquier persona.", "texto": null, "cambio": null },
+        { "id": "c-b646e38d13", "motivo": "Línea de subida de las pensiones (mínimas al nivel del SMI), que es lo que Rego dice en campaña («Defendemos la subida de las pensiones»).", "texto": null, "cambio": null },
+        { "id": "c-e305c539f8", "motivo": "Línea de financiación: presupuestos e impuestos a la riqueza, sin tope en las bases de cotización.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-e3de82ade5", "por_que_no": "Derogar las reformas de 2011, 2013, 2021 y 2023: es el núcleo de la línea uno, pero quien no sepa de política no sabe qué hacían esas reformas; se prefiere su consecuencia concreta (65 años)." },
+        { "id": "c-1df650f141", "por_que_no": "Revalorización con el IPC real: misma línea que la subida de las mínimas, menos destacada." },
+        { "id": "c-b734010a27", "por_que_no": "Traspaso de Seguridad Social y pensiones a Galicia (punto 4): línea real que se queda fuera por espacio; también está entre las transferencias de organizacion-territorial." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "transporte",
+      "elegidas": [
+        { "id": "c-a1ad0850af", "motivo": "AP-9 y AP-53 públicas y sin el «expolio» de los peajes: Rego dice en campaña que la gratuidad de la AP-9 es «el objetivo principal del BNG para la próxima legislatura».", "texto": null, "cambio": null },
+        { "id": "c-8b4803bd0d", "motivo": "Línea del tren como prioridad: implantar cercanías en las principales ciudades gallegas (en campaña pide inversiones ferroviarias).", "texto": null, "cambio": null },
+        { "id": "c-8d3fd07205", "motivo": "Línea de grandes obras pendientes: completar el Corredor Atlántico de mercancías, que Ana Pontón destaca en campaña.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-66ae933c8d", "por_que_no": "Dice expresamente «libre de peajes», pero nombra al BNG y al PP; c-a1ad0850af cubre la misma reclamación sin delatar a quien la firma." },
+        { "id": "c-48c0fda1c8", "por_que_no": "Traspaso general de puertos, aeropuertos, carreteras y ferrocarril: representativa, pero la campaña se centra en la AP-9." },
+        { "id": "c-b712fa73d2", "por_que_no": "Variante de Ourense del AVE: obra concreta de la misma línea que el Corredor Atlántico, menos destacada en campaña." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "organizacion-territorial",
+      "elegidas": [
+        { "id": "c-0d3e164368", "motivo": "Concierto económico para que Galicia recaude todos los impuestos: línea central del tema, que Rego repite en campaña frente al nuevo sistema de financiación.", "texto": null, "cambio": null },
+        { "id": "c-58ddad3820", "motivo": "Línea de reorganización administrativa: suprimir las diputaciones provinciales, clara y votable.", "texto": null, "cambio": null },
+        { "id": "c-2a82eea1ec", "motivo": "Línea lingüística: el gallego disponible en toda la Administración General del Estado en igualdad con el castellano.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-2c3e344e56", "por_que_no": "Hacienda Gallega: misma línea que el concierto, menos completa." },
+        { "id": "c-befdb8f4ef", "por_que_no": "Oficialidad del gallego en la UE: alternativa más corta para la línea lingüística, pero de alcance menor en lo estatal." },
+        { "id": "c-c9beb139fd", "por_que_no": "Traspaso de competencias marítimas: la línea de transferencias es real, pero esta medida es sectorial y enumera muchas cosas." }
+      ],
+      "nota": "No hay candidata sobre el derecho de autodeterminación (punto 1 del resumen)."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "elegidas": [
+        { "id": "c-37946fcf9a", "motivo": "Rechazo del acuerdo UE-Mercosur: línea uno del resumen y lo que destaca Noa Presas en campaña (el agro «no puede ser la moneda de cambio» de los acuerdos comerciales).", "texto": null, "cambio": null },
+        { "id": "c-32f68c7d91", "motivo": "Línea pesquera: eliminar el principio de estabilidad relativa, citado en el resumen.", "texto": null, "cambio": null },
+        { "id": "c-eb10a9fa6e", "motivo": "Línea del monte: reconocer en el Código Civil la propiedad comunal.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-3050d37ffb", "por_que_no": "Reforma de la Ley de la cadena alimentaria contra ventas a pérdidas: muy representativa, pero pasa de 80 palabras (89)." },
+        { "id": "c-faf9d01012", "por_que_no": "Pesca artesanal exenta de TAC y cuotas: misma línea pesquera, alternativa a la estabilidad relativa." },
+        { "id": "c-1cf2e9f172", "por_que_no": "Capacidad de Galicia para negociar en pesca: misma línea pesquera, más genérica." }
+      ],
+      "nota": "No hay candidata sobre los recortes de la PAC (punto 2 del resumen)."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "elegidas": [
+        { "id": "c-67167ba00c", "motivo": "Primera línea del resumen: I+D+i al 3% del PIB en 2030, con cifra y plazo.", "texto": null, "cambio": null },
+        { "id": "c-eb9f98e3c3", "motivo": "Línea de derechos digitales: ley de transparencia algorítmica y supervisión humana, tal como la resume el punto 2.", "texto": null, "cambio": null },
+        { "id": "c-014ccd93fc", "motivo": "Línea de infraestructura digital pública: nube pública gallega, citada expresamente en el resumen.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-82762586c1", "por_que_no": "Estatuto del Personal de Investigación: misma línea que la inversión en I+D+i, sin cifra." },
+        { "id": "c-5ced1978f7", "por_que_no": "Revisión humana obligatoria de las decisiones automatizadas: misma línea que la ley de transparencia algorítmica." },
+        { "id": "c-cdfedae440", "por_que_no": "Red pública estatal de almacenamiento y computación: alternativa a la nube gallega en la misma línea." }
+      ],
+      "nota": "Sin declaraciones de campaña en este tema. La línea cultural (gallego en la IA, transferencias de audiovisual y deporte) se queda fuera por espacio."
+    }
+  ]
+}

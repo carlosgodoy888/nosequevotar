@@ -1,0 +1,2508 @@
+{
+  "fuente": "eh-bildu-programa-2026",
+  "partido": "eh-bildu",
+  "paginas": [
+    1,
+    15
+  ],
+  "citas": [
+    {
+      "cita": "Ese es nuestro compromiso, frenar al bloque reaccionario, y avanzar en derechos y libertades.",
+      "pagina": 4,
+      "apartado": [
+        "Nuestro compromiso"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivo general del programa: ampliar derechos y libertades",
+      "etiquetas": [
+        "ideología",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Que toda persona pueda contar con una vivienda digna y asequible es un derecho básico que se debe garantizar. Para ello, es necesario romper con las reglas actuales y cambiar de raíz el mercado de la vivienda, convertido hoy en un negocio basado en la especulación y el rentismo.",
+      "pagina": 5,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Vivienda como derecho y cambio profundo del mercado",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por eso se deberán tomar medidas que ofrezcan seguridad, estabilidad y garantías de acceso para toda persona que necesite un hogar, interviniendo el mercado y regulando el uso de los alojamientos, acabando con la especulación, impidiendo los desahucios, estableciendo regulaciones de los precios y aportando seguridad mediante contratos duraderos y prorrogables automáticamente.",
+      "pagina": 5,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Intervención pública en el mercado de la vivienda y regulación de precios",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer contratos de arrendamiento ordinarios con prórroga automática como mecanismo para ofrecer estabilidad y seguridad a inquilinas e inquilinos y también a pequeños propietarios.",
+      "pagina": 5,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Contratos de alquiler con prórroga automática",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Establecer de manera estructural y permanente la prohibición de desahucios para personas y familias vulnerables sin alternativa habitacional, acompañado del mecanismo de compensación con financiación estatal.",
+      "pagina": 5,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición permanente de desahucios de personas vulnerables sin alternativa",
+      "etiquetas": [
+        "vivienda",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Un mecanismo especial de financiación estatal dirigido a ayuntamientos que hayan aplicado y declarado zonas tensionadas, para impulsar el desarrollo de los planes de vivienda locales asociados a la declaración y regulación del alquiler.",
+      "pagina": 5,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Financiación estatal a ayuntamientos con zonas tensionadas declaradas",
+      "etiquetas": [
+        "vivienda",
+        "financiación local"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Presentaremos de nuevo la Proposición de Ley para prohibir la publicidad y contratación de pisos turísticos ilegales por parte de las plataformas digitales, tomada en consideración por el pleno, pero bloqueada en su tramitación.",
+      "pagina": 5,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ley contra anuncios de pisos turísticos ilegales en plataformas",
+      "etiquetas": [
+        "vivienda",
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prohibición de la compra especulativa de viviendas por parte de entidades jurídicas con ánimo de lucro, fondos de inversión y persona gran tenedora física o jurídica.",
+      "pagina": 5,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibir compras de vivienda por fondos, sociedades y grandes tenedores",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Condicionar la compra de vivienda por parte de extranjeros multipropietarios a la inscripción en el padrón municipal durante al menos los 2 años previos a la compra de vivienda. El inmueble adquirido deberá dedicarse a vivienda habitual y efectiva del propietario o a alquiler regulado bajo los índices de precios de referencia.",
+      "pagina": 5,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Requisito de empadronamiento previo a extranjeros multipropietarios para comprar vivienda",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La compra de edificios completos de inmuebles quedará condicionada a que su finalidad/destino sea el de alquiler regulado en función de los índices de precios, quedando prohibida la compra con finalidad turística o especulativa.",
+      "pagina": 5,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Compra de edificios completos solo para alquiler regulado",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer de manera estructural el máximo de 2% de actualización anual de renta en los contratos de arrendamiento, siempre que el IPC interanual a fecha de actualización supere este porcentaje.",
+      "pagina": 5,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tope permanente del 2% a la actualización anual del alquiler",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminar cualquier deducción fiscal cuando se produzca incremento de renta sobre el anterior contrato o sobre el índice de precios de referencia.",
+      "pagina": 5,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sin deducciones fiscales a arrendadores que suban la renta",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer un IVA del 21% para alojamientos turísticos de corta duración.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "IVA del 21% a los alojamientos turísticos de corta duración",
+      "etiquetas": [
+        "vivienda",
+        "turismo",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminar las SOCIMIs como figura promotora de vivienda, acabando así con las ventajas y privilegios fiscales de las que gozan, la concentración de capital especulativo en el parque residencial que promueven y el impacto en el alza de precios del mercado que generan.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.1. Vivienda"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Suprimir las SOCIMI como figura promotora de vivienda",
+      "etiquetas": [
+        "vivienda",
+        "impuestos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Lograr salarios dignos y suficientes, condiciones laborales justas y defender los derechos de la mayoría trabajadora serán los objetivos a lograr en el ámbito laboral.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Objetivos laborales: salarios suficientes y derechos de los trabajadores",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reducción de la jornada laboral hasta las 32 horas semanales o la jornada de 4 días sin reducción salarial.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Jornada laboral de 32 horas o 4 días sin bajar salario",
+      "etiquetas": [
+        "empleo",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Con el objetivo de posibilitar la correcta adaptación de las micro, pequeñas y medianas empresas, para estas empresas se establecerá una reducción inicial hasta las 35 horas semanales, con una senda progresiva durante el plazo máximo de 3 años hasta alcanzar el objetivo. La reducción se establecerá mediante reforma de Ley del Estatuto de los Trabajadores.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reducción de jornada gradual en pymes vía Estatuto de los Trabajadores",
+      "etiquetas": [
+        "empleo",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer la adaptación a la realidad socioeconómica mediante un SMI propio, que permita alcanzar valores de suficiencia, evitando la pérdida de poder adquisitivo de los sectores más dependientes del Salario Mínimo Interprofesional como jóvenes, mujeres y sectores vulnerables.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Salario mínimo propio adaptado a la realidad socioeconómica territorial",
+      "etiquetas": [
+        "empleo",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Modificación del Estatuto de los Trabajadores para que las CCAA puedan establecer su propio SMI en atención a la realidad socioeconómica constituyendo el SMI fijado por el estado el mínimo legal indisponible.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comunidades autónomas podrían fijar un SMI propio superior al estatal",
+      "etiquetas": [
+        "empleo",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer por ley, como parámetro de suficiencia para el establecimiento de las cuantías, la referencia que establece la Carta Social Europea.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cuantía del SMI referenciada por ley a la Carta Social Europea",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adoptar las medidas que impidan a las empresas la absorción de los aumentos mediante pluses y complementos.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Impedir que subidas del SMI se compensen con pluses y complementos",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Indemnización por despido improcedente de al menos 45 días, cumpliendo con la resolución del Comité Europeo de Derechos Sociales de establecer indemnizaciones disuasorias y suficientes",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo",
+        "Recuperar medidas laborales importantes para los y las trabajadoras que aún siguen pendientes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Indemnización mínima de 45 días por despido improcedente",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Salarios de tramitación.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo",
+        "Recuperar medidas laborales importantes para los y las trabajadoras que aún siguen pendientes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Recuperar los salarios de tramitación en los despidos",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta",
+      "contexto": true
+    },
+    {
+      "cita": "Recuperar en el Estatuto de los Trabajadores la necesaria autorización previa de la autoridad laboral en los Expedientes de Regulación de Empleo, con el objetivo de proteger el empleo y la viabilidad de la actividad empresarial.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo",
+        "Recuperar medidas laborales importantes para los y las trabajadoras que aún siguen pendientes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Autorización administrativa previa para los ERE",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Medidas específicas orientadas a reducir la precariedad, temporalidad y parcialidad que aún afectan especialmente a sectores como mujeres y personas jóvenes, con el objetivo de reducir la brecha salarial existente.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo",
+        "Recuperar medidas laborales importantes para los y las trabajadoras que aún siguen pendientes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducir temporalidad y parcialidad en mujeres y jóvenes",
+      "etiquetas": [
+        "empleo",
+        "igualdad",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Acabar con la práctica del uso abusivo de las horas extras, muchas de ellas no remuneradas o compensadas con descanso, mediante la implantación del registro horario digital obligatorio accesible a la Inspección de Trabajo, así como establecer por ley el recargo de las horas extras.",
+      "pagina": 6,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro horario digital obligatorio y recargo legal de horas extra",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Control de las extinciones de contrato por no superar el periodo de prueba para evitar que el período sea utilizado para encubrir contrataciones fraudulentas y despidos sin causa. Mediante la negociación colectiva se fijará la duración del periodo de prueba y a falta de pacto colectivo se fijará un periodo máximo de 3 meses para el personal técnico titulado y un mes para el resto.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Límites al periodo de prueba en los contratos",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reformar los sistemas de atención y tramitación de la administración laboral en las prestaciones y desempleo, aumentando para ello recursos y plantillas que aseguren el acceso y tramitación en tiempo y forma tanto presencial como electrónicamente para todas las personas que necesiten estos servicios.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Más recursos y personal en los servicios de prestaciones por desempleo",
+      "etiquetas": [
+        "empleo",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defender una verdadera inclusión laboral de las personas con discapacidad con mejoras en la inclusión laboral a través del cumplimiento real y efectivo de la cuota de reserva de empleo en las empresas, en coherencia a la Observación General nº 8 del Comité sobre los Derechos de las Personas con Discapacidad, en relación con el derecho a un trabajo libremente elegido o aceptado, en igualdad de condiciones con el resto de la población. Para ello, proponemos garantizar puestos accesibles, apoyos al empleo, adaptaciones, carrera profesional, estabilidad y políticas activas que permitan participar en igualdad en el mercado laboral.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cumplimiento de la cuota de empleo para personas con discapacidad",
+      "etiquetas": [
+        "empleo",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El reconocimiento y establecimiento efectivo del Marco Vasco y Navarro de Relaciones Laborales para la negociación colectiva para que atienda a la realidad sindical, laboral, social y económica propia.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Marco propio vasco y navarro de relaciones laborales",
+      "etiquetas": [
+        "sindicatos",
+        "empleo",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Agilizar los trámites de homologación y equivalencias de las titulaciones extranjeras como mecanismo necesario en los procesos de inclusión socio-laboral.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Agilizar la homologación de títulos extranjeros",
+      "etiquetas": [
+        "inmigración",
+        "empleo",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Realizar mejoras en las condiciones laborales de las empleadas de hogar para una equiparación laboral plena con el resto de trabajadores y trabajadoras a través de una revisión estricta del régimen de internas, una revisión en el reconocimiento de enfermedades profesionales, una Inspección de Trabajo que persiga eficazmente los abusos y los excesos de jornada en los domicilios, y la eliminación de trabas para el cobro de las prestaciones por desempleo y pensiones, así como la promoción de la negociación colectiva para hacer posible la regulación y mejoras de las condiciones laborales en el empleo de hogar a través de un convenio colectivo.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Equiparación laboral de las empleadas de hogar",
+      "etiquetas": [
+        "empleo",
+        "igualdad",
+        "salud laboral"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transferencia completa de la competencia de Inspección de Trabajo incluida la capacidad para realizar las convocatorias para la cobertura de las plazas necesarias, todo ello con el objetivo de contar con un instrumento fundamental para la protección de los y las trabajadoras.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transferir la Inspección de Trabajo a las instituciones vascas y navarras",
+      "etiquetas": [
+        "empleo",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transitoriamente, y hasta que la transferencia sea efectiva, realizar convocatorias para ampliar las plantillas de la Inspección de Trabajo, compromiso adoptado con nuestras instituciones, pero no ejecutado por el Ministerio.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliar mientras tanto la plantilla de la Inspección de Trabajo",
+      "etiquetas": [
+        "empleo",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transferencia de la competencia sobre las políticas pasivas de Empleo a Navarra.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.2. Empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transferir a Navarra las políticas pasivas de empleo",
+      "etiquetas": [
+        "empleo",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Frente a las amenazas de recortar y privatizar las pensiones, defenderemos no solo su carácter público, sino que trabajaremos para adoptar las medidas necesarias para que todas las pensiones, en todas sus modalidades, especialmente las mínimas, no contributivas y de viudedad, logren valores de suficiencia.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.3. Pensiones"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Pensiones públicas y suficientes, sobre todo las mínimas",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Blindar el carácter público de las pensiones/el sistema público de pensiones rechazando cualquier intento de recorte, privatización o aumento de la edad de jubilación y periodo de cómputo.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.3. Pensiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Sistema público de pensiones sin subir edad de jubilación",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Garantizar el poder adquisitivo de las y los pensionistas, manteniendo y blindando la revalorización anual al IPC.",
+      "pagina": 7,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.3. Pensiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revalorización anual de las pensiones con el IPC",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentar las pensiones mínimas al menos hasta los 1.220 €, estableciendo la cuantía y su actualización acorde al SMI como exige el movimiento de pensionistas.",
+      "pagina": 8,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.3. Pensiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pensiones mínimas de al menos 1.220 euros ligadas al SMI",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuevo alza de las pensiones de viudedad y no contributivas de al menos un 15 % hasta alcanzar valores de suficiencia, como medida para enfrentar la precariedad que sufren quienes perciben estas pensiones, en su mayoría mujeres.",
+      "pagina": 8,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.3. Pensiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subida mínima del 15% en viudedad y no contributivas",
+      "etiquetas": [
+        "pensiones",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Culminar la tramitación de la Ley que reconoce el derecho a pensión sin penalización de las personas con al menos 40 años de cotización.",
+      "pagina": 8,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.3. Pensiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Jubilación sin penalización con 40 años cotizados",
+      "etiquetas": [
+        "pensiones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transferencia del Régimen Económico de la Seguridad Social a las instituciones vascas y navarras.",
+      "pagina": 8,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.3. Pensiones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transferir el régimen económico de la Seguridad Social",
+      "etiquetas": [
+        "seguridad social",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La contención de precios no puede descansar exclusivamente en ayudas públicas que compensen a posteriori los incrementos decididos por los mercados. Por eso debe garantizarse la capacidad de intervención pública sobre las condiciones de formación de los precios, el reparto del valor y la apropiación de rentas, evitando que las crisis económicas se conviertan en oportunidades de enriquecimiento para las grandes corporaciones y empobrecimiento para la mayoría social.",
+      "pagina": 8,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Intervención pública en la formación de precios",
+      "etiquetas": [
+        "coste de la vida",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer un mecanismo de intervención extraordinaria sobre los márgenes de las grandes empresas de los sectores energético y alimentario, que impida que, en situaciones de emergencia, crisis de abastecimiento o incrementos extraordinarios de costes, trasladen de forma desproporcionada dichas subidas a los precios finales al consumidor mientras incrementan sus márgenes de beneficio, que actualmente suponen uno de los elementos inflacionarios.",
+      "pagina": 8,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Intervención de márgenes de grandes empresas energéticas y alimentarias en crisis",
+      "etiquetas": [
+        "coste de la vida",
+        "energía",
+        "alimentación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Este mecanismo establecerá obligaciones de absorción a las empresas de una parte de los incrementos de costes mediante los márgenes empresariales, atendiendo a criterios objetivos como la posición de mercado, la capacidad económica y financiera, la evolución de los costes y márgenes y la existencia de rentas extraordinarias.",
+      "pagina": 8,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Obligar a grandes empresas a absorber parte de las subidas de costes",
+      "etiquetas": [
+        "coste de la vida",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Para garantizar su aplicación, se deberán establecer los instrumentos legislativos y de supervisión necesarios, reforzando especialmente las capacidades de la CNMC y del Observatorio de Márgenes Empresariales, así como los mecanismos de transparencia, inspección y sanción.",
+      "pagina": 8,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforzar la CNMC y el Observatorio de Márgenes Empresariales",
+      "etiquetas": [
+        "coste de la vida",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Recuperar el mecanismo de intervención sobre el precio del gas utilizado para generación eléctrica en situaciones extraordinarias de encarecimiento como la actual, tomando como referencia la experiencia del mecanismo ibérico o “tope al gas”.",
+      "pagina": 8,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Recuperar el tope al precio del gas para generar electricidad",
+      "etiquetas": [
+        "energía",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer límites temporales a los precios de bienes y servicios esenciales, como la electricidad, el gas, los combustibles, el transporte y determinados productos básicos, ante situaciones de emergencia, crisis de abastecimiento o incrementos extraordinarios e injustificados de precios.",
+      "pagina": 8,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Topes temporales de precios a bienes y servicios esenciales",
+      "etiquetas": [
+        "coste de la vida",
+        "energía",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estos mecanismos deberán contar con criterios objetivos de activación, duración y revisión, garantizando la protección de las personas consumidoras y evitando que las situaciones de crisis se traduzcan en oportunidades de especulación y enriquecimiento extraordinario.",
+      "pagina": 9,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Criterios de activación y duración de los topes de precios",
+      "etiquetas": [
+        "coste de la vida",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adoptar, para su traslado y defensa ante las instituciones europeas, una posición favorable a la reforma del sistema de formación de precios del mercado eléctrico europeo, superando las limitaciones del actual modelo marginalista, para evitar que los costes de las tecnologías de generación más caras determinen sistemáticamente la retribución de toda la electricidad y garantizar que los menores costes de generación renovable se trasladen efectivamente a los precios que pagan los consumidores.",
+      "pagina": 9,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma del sistema marginalista de precios eléctricos en la UE",
+      "etiquetas": [
+        "energía",
+        "unión europea",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reforzar la intervención y supervisión pública sobre toda la cadena de producción, transformación y distribución alimentaria, garantizando una distribución justa del valor entre productores, industria y distribución, e impidiendo que las grandes cadenas de distribución e intermediarios incrementen injustificadamente sus márgenes comerciales a costa de las personas consumidoras y del sector productor.",
+      "pagina": 9,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más supervisión pública de la cadena alimentaria y sus márgenes",
+      "etiquetas": [
+        "alimentación",
+        "agricultura y pesca",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para ello, deberán establecerse controles obligatorios sobre los precios y márgenes comerciales de las grandes distribuidoras e intermediarios, reforzar la inspección y el régimen sancionador frente a las prácticas comerciales abusivas y garantizar el cumplimiento efectivo de la normativa que prohíbe las compras por debajo de los costes efectivos de producción.",
+      "pagina": 9,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Controles obligatorios de precios y márgenes de grandes distribuidoras",
+      "etiquetas": [
+        "alimentación",
+        "comercio",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asimismo, combatir las estrategias de reduflación, las modificaciones encubiertas de precios y otras prácticas de manipulación comercial que perjudican a las personas consumidoras.",
+      "pagina": 9,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Actuar contra la reduflación y cambios de precio encubiertos",
+      "etiquetas": [
+        "consumo",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para todo ello, se deberá desarrollar el Observatorio de la Cadena Alimentaria como instrumento efectivo de seguimiento de los precios, los costes y los márgenes comerciales en todos los eslabones de la cadena, garantizando la transparencia de la formación de precios y de la distribución del valor.",
+      "pagina": 9,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Desarrollar el Observatorio de la Cadena Alimentaria",
+      "etiquetas": [
+        "alimentación",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer ayudas y reducciones de precio para los sectores productivos especialmente afectados por los incrementos extraordinarios de los costes energéticos y de los principales insumos como la industria, el transporte profesional y el sector primario.",
+      "pagina": 9,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ayudas a industria, transporte y sector primario por costes energéticos",
+      "etiquetas": [
+        "subvenciones",
+        "industria",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estas medidas priorizarán la protección de la actividad productiva y el empleo, la estabilidad de los costes de producción y la continuidad de las explotaciones y empresas, condicionando las ayudas públicas al mantenimiento de la actividad y evitando que se traduzcan en incrementos de los márgenes empresariales o en beneficios extraordinarios.",
+      "pagina": 9,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ayudas condicionadas al mantenimiento de la actividad y el empleo",
+      "etiquetas": [
+        "subvenciones",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se deberán favorecer, asimismo, soluciones estructurales que reduzcan la dependencia de los combustibles fósiles y de los mercados energéticos volátiles.",
+      "pagina": 9,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducir la dependencia productiva de combustibles fósiles",
+      "etiquetas": [
+        "energía",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mantener y ampliar rebajas de tarifas y los bonos subvencionados de viajero frecuente actuales, incluidas la financiación estatal para la bonificación de los transportes dependientes de instituciones autonómicas, forales y locales.",
+      "pagina": 9,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mantener y ampliar descuentos y abonos de transporte público",
+      "etiquetas": [
+        "transporte",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliar y automatizar el acceso al bono social eléctrico y térmico, garantizando que todas las personas y hogares que cumplan los requisitos accedan efectivamente a esta prestación, evitando que el desconocimiento, la complejidad o la falta de recursos administrativos impidan el ejercicio de un derecho reconocido legalmente.",
+      "pagina": 9,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.4. Contención de precios y carestía de la vida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acceso automático al bono social eléctrico y térmico",
+      "etiquetas": [
+        "energía",
+        "servicios sociales",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nuestro objetivo será en primer lugar defender las competencias que actualmente se materializan en Hego Euskal Herria, adquirir las competencias que todavía ejerce el Ministerio de Sanidad, y trabajar en colaboración con el resto de colectivos, profesionales y ciudadanía de todas comunidades Autónomas para fortalecer los derechos de la salud individual y colectiva y garantizar el cumplimiento de los mismos.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Asumir competencias sanitarias y reforzar el derecho a la salud",
+      "etiquetas": [
+        "sanidad",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliar la cartera común básica con prestaciones como la de la salud bucodental y los productos ópticos y salud visual para aquellos colectivos históricamente desatendidos o en situación de mayor vulnerabilidad con un enfoque transversal de equidad social.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Ciudadanía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incluir salud bucodental y visual en la cartera común",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asimismo, las personas que han sufrido las consecuencias de la talidomida o de la poliomielitis tendrán las prestaciones necesarias para paliar los daños generados.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Ciudadanía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prestaciones para afectados por talidomida y poliomielitis",
+      "etiquetas": [
+        "sanidad",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobar la gratuidad de productos de higiene menstrual mediante su distribución farmacéutica y aplicar el IVA superreducido a estos productos en todos los puntos de venta.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Ciudadanía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Productos menstruales gratuitos en farmacias e IVA superreducido",
+      "etiquetas": [
+        "sanidad",
+        "igualdad",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer la dispensación farmacéutica gratuita de preservativos femeninos y masculinos, así como de kits básicos de detección de ITS.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Ciudadanía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Preservativos y pruebas de ITS gratuitos en farmacias",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Regular y restringir la comercialización y la publicidad de los alimentos ultraprocesados y bebidas azucaradas y energéticas en menores de edad.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Ciudadanía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Restringir venta y publicidad de ultraprocesados a menores",
+      "etiquetas": [
+        "alimentación",
+        "publicidad",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Modificar la ley Orgánica 3/2021 de 4 de marzo, de regulación de la Eutanasia para garantizar el derecho a recibir la prestación de todas las personas, que abarque por igual el sufrimiento de origen físico, como psíquico. Con el objetivo de blindar el derecho a morir dignamente frente a la intromisión judicial de terceros. Asegurando así que el procedimiento de la petición de la ayuda a morir constituya un acto de estricta intimidad personal y de autodeterminación.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Ciudadanía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma de la ley de eutanasia: sufrimiento psíquico y recursos de terceros",
+      "etiquetas": [
+        "sanidad",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar en la detección, prevención y sensibilización de la violencia obstétrica de la mano de colectivos feministas especializados en la materia.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Ciudadanía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prevención de la violencia obstétrica",
+      "etiquetas": [
+        "sanidad",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollar mecanismos de control y seguimiento de las medidas legislativas relativas al derecho al olvido oncológico.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Ciudadanía"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Seguimiento del derecho al olvido oncológico",
+      "etiquetas": [
+        "sanidad",
+        "derechos y libertades"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transitoriamente y mientras la transferencia no se haga efectiva, proponer la reserva de un 53% de las plazas del MIR, EIR, PIR, etc. para aquellos profesionales que dominen las dos lenguas oficiales del País Vasco.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Profesionales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reserva del 53% de plazas MIR, EIR y PIR para quien domine euskera y castellano",
+      "etiquetas": [
+        "sanidad",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar un cambio de modelo de acceso a la formación de las especialidades MIR, EIR, PIR, etc.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Profesionales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cambiar el acceso a la formación sanitaria especializada",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Además, propondremos la creación de la especialidad de enfermedades infecciosas.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Profesionales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Crear la especialidad médica de enfermedades infecciosas",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Colaborar para priorizar, prestigiar y asegurar la especialidad de familia y comunitaria. Con el objetivo de reforzar la atención primaria.",
+      "pagina": 10,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Profesionales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforzar medicina familiar y atención primaria",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Modificar la ley 44/2003, de 21 de noviembre de ordenación de las profesiones sanitarias, para abordar las nuevas necesidades sociosanitarias y transformar el Sistema Público de Salud a la actualidad. Para ello, proponemos reconocer como profesiones sanitarias las siguientes: la biología, el trabajo social, las ciencias de la actividad física y del deporte, y la psicología.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Profesionales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevas profesiones sanitarias reconocidas en la ley 44/2003",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transferencia de la competencia de la formación especializada de todas las categorías del sistema de salud y de la competencia de las áreas de capacitación específica de las profesiones sanitarias.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Profesionales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transferir la formación sanitaria especializada",
+      "etiquetas": [
+        "sanidad",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar un cambio de modelo en la atención de salud mental en la nueva estrategia de Salud Mental del Sistema Nacional de Salud. Proponemos cambiar la concepción y por lo tanto el abordaje, poniendo el foco en los determinantes sociales como eje del modelo. El objetivo es dotar de capacidad de decisión a las personas afectadas y garantizar que sean el centro del abordaje.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Gobernanza"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Modelo de salud mental centrado en determinantes sociales",
+      "etiquetas": [
+        "salud mental",
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogar la Ley 15/1997 de 25 de abril, sobre habilitación de nuevas formas de gestión del Sistema Nacional de Salud, aprobada por el PP que permite la privatización y externalización de los servicios sanitarios.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Gobernanza"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Derogar la Ley 15/1997 de nuevas formas de gestión sanitaria",
+      "etiquetas": [
+        "sanidad",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Regular y canalizar la financiación y el sistema de patrocinio de la industria farmacéutica y de tecnologías médicas, orientándola a los objetivos y líneas estratégicas del Sistema Público de Salud.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Gobernanza"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Regular el patrocinio de la industria farmacéutica",
+      "etiquetas": [
+        "sanidad",
+        "industria"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar junto con las comunidades autónomas hacia la creación de una Farmacia Pública con el objetivo de fomentar la autogestión de las comunidades autónomas de los materiales básicos de mayor uso en el Sistema Sanitario Público, de los medicamentos considerados básicos por la Organización Mundial de la Salud y de los fármacos que se ven abocados a la rotura de stock.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Gobernanza"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Crear una farmacéutica pública con las comunidades autónomas",
+      "etiquetas": [
+        "sanidad",
+        "empresas públicas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Impulsar la reforma del Real Decreto Legislativo 1/2015 del 24 de julio, para afrontar los nuevos retos relacionados con el acceso a la innovación, al abastecimiento de medicamentos y la sostenibilidad de la prestación farmacéutica.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Gobernanza"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reformar la ley de medicamentos (RDL 1/2015)",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar en la transformación del Sistema Público de Salud hacia atender las necesidades de las personas desde la perspectiva biopsicosocial reforzando el derecho a la salud y permitiendo a la vez una mejor planificación y optimización de los recursos humanos dedicados a los cuidados sociosanitarios.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Gobernanza"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Enfoque biopsicosocial del sistema público de salud",
+      "etiquetas": [
+        "sanidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Solicitaremos la competencia de los Centros de Vacunación Internacional a través del Convenio de encomienda de gestión y asimismo iniciaremos los trámites para la gestión de la transferencia de la competencia en Sanidad Exterior.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.1 Salud, derechos colectivos y bienestar comunitario",
+        "Gobernanza"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transferir vacunación internacional y Sanidad Exterior",
+      "etiquetas": [
+        "sanidad",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defendemos, mediante la capacidad y herramientas propias de nuestro autogobierno, un sistema educativo propio para Euskal Herria, de calidad, inclusivo, coeducativo, participativo, laiko, euskaldun y soberano.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.2 Educación"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Sistema educativo propio para Euskal Herria",
+      "etiquetas": [
+        "educación",
+        "organización territorial",
+        "lenguas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostamos por una bajada de ratios como una oportunidad para mejorar la calidad educativa.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.2 Educación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducir el número de alumnos por aula",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostar por la estabilización de las profesionales, mejorando sus condiciones laborales y aumentando la formación para adecuarse a las nuevas necesidades.",
+      "pagina": 11,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.2 Educación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Estabilidad y formación del profesorado",
+      "etiquetas": [
+        "educación",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentar la financiación, acercándonos progresivamente al 6% de inversión definido por la UNESCO.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.2 Educación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Inversión educativa hacia el 6% recomendado por la UNESCO",
+      "etiquetas": [
+        "educación",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyaremos cambios normativos que tengan por objetivo reforzar la atención del alumnado con necesidades educativas especiales.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.2 Educación"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más atención al alumnado con necesidades educativas especiales",
+      "etiquetas": [
+        "educación",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Sabemos que las necesidades de ser cuidado están presentes en la vida de todas nosotras y sabemos lo lejos que estamos de un sistema público que cubra todo esto como se merece.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.3 Cuidados"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Necesidad de un sistema público de cuidados",
+      "etiquetas": [
+        "dependencia",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Situar el cuidado como una cuestión central para el futuro de nuestras sociedades, limitando la privatización y el ánimo de lucro en este sector, y avanzando hacia su universalidad y gratuidad.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.3 Cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cuidados universales, gratuitos y con menos gestión privada",
+      "etiquetas": [
+        "dependencia",
+        "servicios sociales",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Incluir la visión de los cuidados temporales en el sistema de atención a la dependencia.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.3 Cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Cuidados temporales dentro del sistema de dependencia",
+      "etiquetas": [
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dar pasos en el derecho subjetivo a los cuidados, empezando por la retroactividad de las prestaciones económicas por la dependencia desde la fecha de solicitud.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.3 Cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prestaciones de dependencia con efecto desde la solicitud",
+      "etiquetas": [
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Medidas relativas a la reparación de género en el sector de los cuidados, desde la desprecarización laboral hasta el reconocimiento de los cuidados familiares con cambios coordinados con la Seguridad Social en lo que respecta a bonificaciones, pensiones y permisos retribuidos.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.3 Cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reconocimiento laboral y de cotización de los cuidados familiares",
+      "etiquetas": [
+        "igualdad",
+        "dependencia",
+        "seguridad social"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Medidas relativas a saldar deudas históricas con colectivos como las personas afectadas por la poliomielitis o quienes sufrieron esterilizaciones forzadas.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.3 Cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reparación a afectados por polio y esterilizaciones forzadas",
+      "etiquetas": [
+        "discapacidad",
+        "derechos humanos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Modificar cuestiones relativas al copago en la ley de dependencia, con el objetivo de excluir el copago relativo a los cuidados personales y que las familias o personas afectadas, solamente, se hagan cargo del copago correspondiente al hospedaje y manutención avanzando hacia la gratuidad del sistema.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.3 Cuidados"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Eliminar el copago de cuidados personales en dependencia",
+      "etiquetas": [
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asegurar el acceso a la administración pública en tiempo y forma para toda la ciudadanía. Para ello, y mientras la brecha digital sea una realidad, se deberán establecer obligatoriamente canales presenciales ágiles que permitan realizar cualquier trámite en tiempo y forma, evitando la falta de citas y el colapso al que se enfrentan miles de personas en su relación con la administración que conlleva la imposibilidad de acceso a la protección laboral y social a la que la tienen derecho.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.4 Administración pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Atención presencial obligatoria para cualquier trámite administrativo",
+      "etiquetas": [
+        "administración pública",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para asegurar este servicio, deberán realizarse las inversiones en recursos y plantillas necesarios para respetar y asegurar el derecho de la ciudadanía a un servicio de calidad.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.4 Administración pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más recursos y personal para la atención administrativa",
+      "etiquetas": [
+        "administración pública",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aplicar procesos abreviados para la solicitud y reconocimiento de las figuras e instrumentos básicos de protección laboral y social, como las prestaciones por desempleo o las ayudas para colectivos vulnerables.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.4 Administración pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Trámites abreviados para prestaciones de desempleo y ayudas sociales",
+      "etiquetas": [
+        "burocracia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer como requisito el conocimiento del euskara para los servicios que la administración pública estatal ofrece en Araba, Bizkaia, Gipuzkoa y Nafarroa, incluyendo la administración de justicia, asegurando el derecho de la ciudadanía a interactuar y ser atendida en nuestra lengua tanto de manera presencial como telemática o telefónica. Para ello se deberán modificar las leyes que establecen los criterios de funcionamiento, selección y acceso a la administración general del estado.",
+      "pagina": 12,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.4 Administración pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Euskera como requisito en la administración estatal en territorio vasco",
+      "etiquetas": [
+        "lenguas",
+        "función pública",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proponer medidas de control para atajar el fraude y comercio que hoy en día se da con las citas presenciales auspiciado por la limitada disponibilidad de las mismas.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.4 Administración pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Control de la reventa de citas presenciales",
+      "etiquetas": [
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reconocimiento pleno a las administraciones públicas vascas y navarras de la competencia para decidir a través de la negociación colectiva el incremento salarial de sus plantillas sin someterse a los límites fijados en el Estado.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.5. Servicios públicos",
+        "1.5.4 Administración pública"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subidas salariales públicas propias sin límites estatales",
+      "etiquetas": [
+        "empleo público",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "El objetivo será mantener y reforzar el escudo social que durante los últimos años EH Bildu ha acordado y mantenido como red de apoyo a las personas y familias más vulnerables de nuestra sociedad, ofreciendo un mínimo de seguridad y estabilidad a quienes se encuentran en peor situación.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.6. Escudo social"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Mantener y reforzar el escudo social",
+      "etiquetas": [
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Hacer estructural y permanente la garantía de suministros básicos para personas vulnerables, la cual impide el corte de los mismos a hogares vulnerables, en vigor hasta 31 de diciembre gracias a los acuerdos de prórroga alcanzados por EH Bildu los últimos 3 años.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.6. Escudo social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición permanente de cortes de suministros a hogares vulnerables",
+      "etiquetas": [
+        "servicios sociales",
+        "energía",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliar, agilizar, automatizar la percepción de los bonos sociales eléctrico y térmico, para garantizar el acceso efectivo a todas las personas con derecho al mismo, superando las trabas administrativas que impiden que gran parte de las personas con derecho a su percepción lo hagan.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.6. Escudo social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Concesión automática de los bonos sociales eléctrico y térmico",
+      "etiquetas": [
+        "servicios sociales",
+        "energía",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mantener y ampliar el acceso y duración del Suministro Mínimo Vital.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.6. Escudo social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliar el Suministro Mínimo Vital",
+      "etiquetas": [
+        "servicios sociales",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumentar el IPREM en función del IPC, con un aumento extraordinario que permita compensar la pérdida de cuantías de los últimos años en prestaciones, desempleo, subvenciones y ayudas que dependen de este índice.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.6. Escudo social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Actualizar el IPREM con el IPC y subida extraordinaria",
+      "etiquetas": [
+        "servicios sociales",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reformular la calificación de vulnerabilidad, ampliando los condicionantes y requisitos como el límite de renta, condiciones especiales, cargas familiares etc. para que las medidas de protección amparadas en esta calificación puedan ser accesibles para más personas y familias en un contexto de aumento extraordinario de la carestía de la vida y dificultades económicas de los hogares.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.6. Escudo social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliar los criterios para considerar a un hogar vulnerable",
+      "etiquetas": [
+        "servicios sociales",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transferencia integral de la competencia del Ingreso Mínimo Vital. Transitoriamente, y hasta que la transferencia sea efectiva, ampliar las condiciones y requisitos para hacerlo accesible a más personas. Además, se propone aumentar las cuantías y simplificar trámites para garantizar el acceso a su percepción.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.6. Escudo social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Transferir el Ingreso Mínimo Vital y ampliar su acceso y cuantía",
+      "etiquetas": [
+        "servicios sociales",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Defenderemos e impulsaremos medidas para avanzar hacia un sistema de conciliación igualitario y en el cual se garanticen los derechos de todas las personas menores de edad.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.7. Familias e infancia"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Conciliación igualitaria y derechos de la infancia",
+      "etiquetas": [
+        "conciliación",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Avanzar hacia medidas que mejoren la conciliación y la protección a las familias desde una perspectiva interseccional, incluyendo el cumplimiento íntegro de la Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20 de junio de 2019.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.7. Familias e infancia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cumplir íntegramente la directiva europea de conciliación",
+      "etiquetas": [
+        "conciliación",
+        "familia",
+        "unión europea"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Garantizar la participación de jóvenes y niños y niñas en el devenir político y social.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.7. Familias e infancia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación política y social de niños y jóvenes",
+      "etiquetas": [
+        "infancia",
+        "juventud",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proponemos que se oriente a las CCAA a desarrollar prestaciones económicas de apoyo a la crianza acordes con índices de gasto de crianza territoriales. También es necesario que esta prestación sea compatible con la percepción del IMV y otros complementos de ayuda a la infancia.",
+      "pagina": 13,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.7. Familias e infancia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prestaciones autonómicas por crianza compatibles con el IMV",
+      "etiquetas": [
+        "familia",
+        "infancia",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejorar en los permisos retribuidos por maternidad y paternidad y avanzar en el reconocimiento de esos permisos como derecho de la infancia, con medidas como:",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.7. Familias e infancia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Mejora de los permisos de maternidad y paternidad",
+      "etiquetas": [
+        "conciliación",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Equiparar la duración de los permisos de lactancia, permiso para ausentarse en el trabajo para cuidar a los menores a cargo y permiso a suspensión con reserva de puesto de trabajo a los que acceden las familias biparentales a las familias monoparental y monomarentales ampliando la duración en igual tiempo al que disfrutaría una segunda persona progenitora en una familia biparental.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.7. Familias e infancia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permisos de familias monoparentales iguales a los de biparentales",
+      "etiquetas": [
+        "conciliación",
+        "familia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Equiparar el permiso retribuido de lactancia de la misma manera para trabajadores y trabajadoras por cuenta ajena o autónomos/as.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.7. Familias e infancia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Permiso de lactancia igual para asalariados y autónomos",
+      "etiquetas": [
+        "conciliación",
+        "autónomos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear un permiso de maternidad preparto y otro puerperal, ambos universales y retribuidos, para reconocer y proteger los derechos reproductivos y las necesidades de la primera infancia.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.7. Familias e infancia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevos permisos retribuidos de preparto y puerperio",
+      "etiquetas": [
+        "conciliación",
+        "infancia",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejorar las prestaciones por cuidados de menores afectados por Cáncer u otras enfermedades graves.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.7. Familias e infancia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prestación por cuidado de menores con enfermedad grave",
+      "etiquetas": [
+        "infancia",
+        "seguridad social",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dotar a las oficinas de extranjería de Nafarroa y de la Comunidad Autónoma del País Vasco de recursos humanos suficientes para no vulnerar los derechos de los y las solicitantes de reagrupaciones familiares y trámites que afectan directamente a la infancia.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.7. Familias e infancia"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más personal en oficinas de extranjería de Navarra y País Vasco",
+      "etiquetas": [
+        "inmigración",
+        "infancia",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La redistribución de la riqueza debe ser un objetivo que cualquier sociedad justa debe asegurar. La política fiscal es uno de los instrumentos eficaces para ello.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.8. Política fiscal"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Fiscalidad como herramienta de redistribución",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por eso resulta necesario que el sector privado, especialmente las grandes empresas, aporten lo que deben en un momento de acumulación de capital por parte de estas con grandes márgenes de beneficio que, sin embargo, no revierten como deberían en la ciudadanía y los servicios públicos.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.8. Política fiscal"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Mayor contribución fiscal de las grandes empresas",
+      "etiquetas": [
+        "impuestos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Recuperar el impuesto a la energéticas que PNV, UPN, PP, VOX y JUNTS tumbaron, haciéndolo permanente. El impuesto se concertará con nuestras haciendas para que nuestras instituciones gestionen y recauden el impuesto.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.8. Política fiscal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Impuesto permanente a energéticas gestionado por las haciendas forales",
+      "etiquetas": [
+        "impuestos",
+        "energía",
+        "financiación autonómica"
+      ],
+      "traduccion": null,
+      "verificacion": "normalizada"
+    },
+    {
+      "cita": "Aumentar el peso impositivo del impuesto a la banca y las grandes fortunas.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.8. Política fiscal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Subir los impuestos a la banca y las grandes fortunas",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobar un nuevo impuesto especial sobre los beneficios de las grandes distribuidoras alimentarias, concertado con las haciendas forales para su gestión y recaudación.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.8. Política fiscal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nuevo impuesto a beneficios de grandes distribuidoras alimentarias",
+      "etiquetas": [
+        "impuestos",
+        "alimentación",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer un 21% de IVA para los alojamientos turísticos de corta duración.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.8. Política fiscal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "IVA del 21% a los alojamientos turísticos de corta duración",
+      "etiquetas": [
+        "impuestos",
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revertir las reglas fiscales para la contención de la inversión pública que impiden a las entidades locales llevar a cabo inversiones necesarias en servicios y actuaciones destinadas a la ciudadanía.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.8. Política fiscal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Flexibilizar las reglas fiscales de inversión de los ayuntamientos",
+      "etiquetas": [
+        "financiación local",
+        "gasto público",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Derogar la modificación del artículo 135 de la constitución española realizada por PP y PSOE que establece la prioridad del pago de deuda sobre la inversión social y pública.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.8. Política fiscal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revertir la reforma del artículo 135 de la Constitución",
+      "etiquetas": [
+        "reforma constitucional",
+        "deuda pública",
+        "gasto público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Rechazar cualquier retorno a las políticas de austeridad que suponen privatizaciones y recortes en servicios públicos, derechos laborales o pensiones.",
+      "pagina": 14,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.8. Política fiscal"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Rechazo a políticas de austeridad y recortes",
+      "etiquetas": [
+        "gasto público",
+        "servicios públicos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "EH Bildu concibe la transición ecosocial como una transformación urgente y sistémica que enfrente la emergencia climática, sitúe en el centro la sostenibilidad de la vida, responda al principio de justicia climática y genere una nueva prosperidad respetando los límites ecológicos del planeta.",
+      "pagina": 15,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Concepción de la transición ecológica y social",
+      "etiquetas": [
+        "medio ambiente",
+        "economía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prioritariamente, buscamos acelerar la descarbonización y reducir la dependencia energética exterior, aplicando el principio de la autosuficiencia conectada, es decir, impulsando la mayor provisión posible de energía, bienes y recursos desde la proximidad, mediante el aprovechamiento de las capacidades propias y su articulación en redes de cooperación e interdependencia entre territorios, exigiendo pleno respeto a la capacidad de decisión de las instituciones propias de Euskal Herria, así como al Concierto Económico y al Convenio Económico.",
+      "pagina": 15,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Descarbonización y autosuficiencia energética de proximidad",
+      "etiquetas": [
+        "energía",
+        "medio ambiente",
+        "organización territorial"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ambición climática: Revisión al alza de los objetivos de la planificación de energía y clima (PNIEC), con el objetivo de adelantar la descarbonización, al menos, a 2045.",
+      "pagina": 15,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.1 Energía y clima"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Adelantar la descarbonización al menos a 2045 en el PNIEC",
+      "etiquetas": [
+        "medio ambiente",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Dependencia fósil: Reducir urgentemente el uso de los combustibles fósiles como vía prioritaria para reducir emisiones y dependencia energética exterior. Actuar para ello en todos los sectores estableciendo objetivos más ambiciosos en cada uno de ellos.",
+      "pagina": 15,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.1 Energía y clima"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reducción del uso de combustibles fósiles en todos los sectores",
+      "etiquetas": [
+        "energía",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Despliegue renovable: Generar las condiciones sociales, fiscales, administrativas, planificatorias y económicas óptimas para realizar un despliegue renovable rápido y a la escala necesaria, impulsando la participación pública y comunitaria desde la generación al consumo, haciéndola compatible con la soberanía alimentaria y estableciendo las condiciones para su aceptabilidad mediante un retorno social justo, transparente y territorialmente distribuido, que garantice que los beneficios reviertan en las comunidades que las acoge.",
+      "pagina": 15,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.1 Energía y clima"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Despliegue rápido de renovables con participación y retorno local",
+      "etiquetas": [
+        "energía",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Calendario nuclear: Apostaremos por mantener el calendario de cierre nuclear definido en el PNIEC.",
+      "pagina": 15,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.1 Energía y clima"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mantener el calendario de cierre de centrales nucleares",
+      "etiquetas": [
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Adaptación a la emergencia climática: EH Bildu apuesta por una estrategia bottom-up, con la comarca como unidad adaptativa ideal, a través de estrategias integrales que combinen políticas de planificación territorial, agua, forestal, urbanística, agrícola-ganadera, movilidad, infraestructuras etc. encaminadas a hacer nuestros territorios más resilientes. Como orientación general, apoyaremos las modificaciones legislativas más avanzadas según criterios científico-técnicos, respetando la distribución competencial.",
+      "pagina": 15,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.1 Energía y clima"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Adaptación al cambio climático desde el ámbito comarcal",
+      "etiquetas": [
+        "medio ambiente",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Electrificación: Apuesta por la electrificación como vía prioritaria a la descarbonización. Apoyo a establecer objetivos de electrificación vinculantes.",
+      "pagina": 15,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.1 Energía y clima"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Objetivos vinculantes de electrificación",
+      "etiquetas": [
+        "energía",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Refuerzo del sistema eléctrico: Reforzar las redes eléctricas, el almacenamiento y los mecanismos de flexibilidad necesarios para integrar más energía renovable y responder a la demanda creciente.",
+      "pagina": 15,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.1 Energía y clima"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reforzar redes eléctricas y almacenamiento",
+      "etiquetas": [
+        "energía",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Reformar el mercado eléctrico para evitar que el aumento del precio del gas fósil en los mercados internacionales presione excesivamente al alza el precio del conjunto de la electricidad.",
+      "pagina": 15,
+      "apartado": [
+        "1. Derechos y libertades",
+        "1.9. Transición ecosocial y desarrollo económico",
+        "1.9.1 Energía y clima"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reforma del mercado eléctrico para limitar el efecto del gas",
+      "etiquetas": [
+        "energía",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

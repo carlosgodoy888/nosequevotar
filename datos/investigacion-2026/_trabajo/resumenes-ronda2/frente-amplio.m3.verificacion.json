@@ -1,0 +1,36 @@
+{
+  "revisiones": [
+    {
+      "tema": "impuestos",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: omitía las herencias, que el programa trata con peso en su apartado 3.2 (tope de 10 millones por heredero con marginal del 100 %, impuesto estatal a herencias de más de un millón) y que la nota de presentación del programa del 16-11-2026 destaca; se añade el tope de 10 millones.",
+        "Representatividad: la fiscalidad de la vivienda (recargos del IBI a vacías y turísticas, IBI progresivo contra grandes tenedores, coeficientes, pisos turísticos) tiene muchas más citas que la plantilla de la Agencia Tributaria; se agrupa en una sola idea y se deja fuera la Agencia Tributaria por espacio.",
+        "Fidelidad, frase 1: la cita habla del «nuevo» esfuerzo tributario; sin ese matiz parecía que todo el esfuerzo fiscal recaería sobre esos grupos.",
+        "Fidelidad, frase 2: faltaba «de euros» en «más de un millón».",
+        "Claridad, frase 3: «subirlo hasta el 52 %» era ambiguo; ahora dice que se refiere al tipo máximo del IRPF desde 300.000 euros.",
+        "Forma: el texto original tenía 92 palabras contando el signo %; la versión corregida tiene 90 contándolo.",
+        "Ids comprobados: todos existen en las citas de impuestos. Todo sale del programa; las notas de prensa repiten sus medidas y no hace falta citarlas ni atribuirlas aparte."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone que el nuevo esfuerzo tributario recaiga sobre grandes empresas, sector financiero y grandes fortunas, con un mínimo del 20 % en Sociedades.",
+          "apoyos": ["c-0557791d28", "c-a9de281ff2", "c-16db985c01", "c-7f42104139"]
+        },
+        {
+          "texto": "Pide gravar al menos un 2 % los patrimonios de más de un millón de euros (3 % desde 50 millones).",
+          "apoyos": ["c-947178d4ea", "c-85a1dcb76a", "c-81ce2721a8"]
+        },
+        {
+          "texto": "Quiere bajar el IRPF a salarios de hasta 27.000 euros, subir el tipo máximo al 52 % desde 300.000 y rebajar el IVA de bienes básicos.",
+          "apoyos": ["c-86af3051ff", "c-8c1e22bdc5", "c-74ee0dce58", "c-0557791d28"]
+        },
+        {
+          "texto": "Plantea limitar las herencias a 10 millones por heredero y gravar más las viviendas vacías, turísticas y de grandes tenedores.",
+          "apoyos": ["c-66c5401699", "c-e5e8e0b792", "c-5400e3661e", "c-b4965c02f6", "c-ec028dcabb", "c-854cf9e47f"]
+        }
+      ]
+    }
+  ]
+}

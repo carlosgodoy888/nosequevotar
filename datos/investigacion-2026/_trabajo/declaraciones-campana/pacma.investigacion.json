@@ -1,0 +1,65 @@
+{
+  "id": "pacma",
+  "investigacion": {
+    "citas": [
+      {
+        "tema": "medio-ambiente-y-energia",
+        "temas_secundarios": ["ciencia-cultura-y-digital"],
+        "cita": "Tras la concentración de este sábado, el Partido Animalista reafirmó que mantendrá ambas vías judiciales para lograr la prohibición del cruel festejo y la anulación de esa declaración.",
+        "idioma": "es",
+        "traduccion": "",
+        "quien": "el partido",
+        "cargo": "nota de prensa oficial",
+        "partido_de_quien": "PACMA",
+        "fecha": "2026-11-15",
+        "tipo": "documento_partido",
+        "url": "https://pacma.es/notas-de-prensa/pacma-vuelve-a-medinaceli-y-redobla-su-ofensiva-contra-el-toro-jubilo-tras-mas-de-quince-anos-de-lucha/",
+        "medio": "PACMA (web oficial)",
+        "clase": "medida",
+        "medida_concreta": true,
+        "nota": "Recursos judiciales contra el Toro Júbilo y su declaración BIC"
+      },
+      {
+        "tema": "democracia-e-instituciones",
+        "temas_secundarios": [],
+        "cita": "si alguno de los partidos que la componen o de las izquierdas o en general hubiesen sido un poco más avispados, realmente nos habrían contactado muchísimo antes",
+        "idioma": "es",
+        "traduccion": "",
+        "quien": "Asier Esparza Billalabeitia",
+        "cargo": "candidato a la presidencia del Gobierno y cabeza de lista por Madrid",
+        "partido_de_quien": "PACMA",
+        "fecha": "2026-11-12",
+        "tipo": "medio",
+        "url": "https://www.aionsur.com/pacma-reprocha-a-frente-amplio-que-nunca-lo-tuvo-en-cuenta-para-formar-parte-del-bloque/",
+        "medio": "AION SUR",
+        "clase": "posicion",
+        "medida_concreta": false,
+        "nota": "Dice que Frente Amplio no contó con PACMA para su bloque"
+      },
+      {
+        "tema": "democracia-e-instituciones",
+        "temas_secundarios": [],
+        "cita": "Aprovechen ahora que están hablando de nosotros e invítennos. Es una televisión pública y merecemos visibilidad como cualquier otro partido político",
+        "idioma": "es",
+        "traduccion": "",
+        "quien": "Asier Esparza Billalabeitia",
+        "cargo": "candidato a la presidencia del Gobierno y cabeza de lista por Madrid",
+        "partido_de_quien": "PACMA",
+        "fecha": "2026-11-12",
+        "tipo": "medio",
+        "url": "https://www.aionsur.com/pacma-reprocha-a-frente-amplio-que-nunca-lo-tuvo-en-cuenta-para-formar-parte-del-bloque/",
+        "medio": "AION SUR",
+        "clase": "posicion",
+        "medida_concreta": false,
+        "nota": "Pide espacio en la televisión pública para partidos pequeños"
+      }
+    ],
+    "sitios_bloqueados": [
+      "diariocritico.com (robots.txt prohíbe a ClaudeBot y GPTBot las secciones de noticias)",
+      "catalunyapress.es (robots.txt prohíbe a GPTBot)",
+      "europapress.es (la herramienta de búsqueda no permite acceder)"
+    ],
+    "busquedas_hechas": 10,
+    "notas": "Campaña con muy poca cobertura de PACMA. No se ha encontrado crónica del mitin del 15 de noviembre en Madrid (Ibercenter AZCA) ni entrevistas de campaña con Esparza; las notas de prensa de pacma.es desde el 10 de noviembre son convocatorias, la exclusión de la lista de Barcelona y acciones locales (Almería, Jaén, Fuengirola, fiestas con renos) firmadas por coordinadores locales, que no se recogen. Las notas oficiales están redactadas en tercera persona; la cita del Toro Júbilo es texto literal de la propia nota del partido (El Español, 15-11-2026, reproduce entre comillas parte de la misma frase). Las dos citas de Esparza proceden de un vídeo en las redes de PACMA en respuesta a Ada Colau en La Revuelta (martes 10-11-2026); la fecha exacta del vídeo no consta y se usa la de publicación de la noticia (12-11-2026). No se usaron frases que son lema de campaña («votar por convicción...», «Vota por lo que crees»). Revisados sin citas útiles: que.es (12-11), elespanol.com (15-11), anecdotas.substack.com, politicaelectoral.com, enplatatv.com y los sitemaps diarios de europapress.tv del 10 al 16 de noviembre (ninguna pieza de PACMA)."
+  }
+}

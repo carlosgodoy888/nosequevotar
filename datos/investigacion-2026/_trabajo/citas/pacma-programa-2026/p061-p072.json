@@ -1,0 +1,2196 @@
+{
+  "fuente": "pacma-programa-2026",
+  "partido": "pacma",
+  "paginas": [
+    61,
+    72
+  ],
+  "citas": [
+    {
+      "cita": "Medidas para garantizar la atención temprana a menores con discapacidad y sus familias, destinando recursos a la detección precoz, el diagnóstico y la atención de trastornos del desarrollo o situaciones de riesgo en la población infantil de 0 a 6 años.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.3. Prevención e integración social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Atención temprana a menores de 0 a 6 años con discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "infancia",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoción de la detección precoz del maltrato infantil, el acoso escolar, y la discriminación en el ámbito escolar, a través de la creación de equipos multidisciplinares que asesoren, informen y formen a los y las profesionales que trabajan con niños y niñas y adolescentes.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.3. Prevención e integración social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Equipos multidisciplinares contra maltrato infantil y acoso escolar",
+      "etiquetas": [
+        "educación",
+        "infancia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Lucha efectiva contra el absentismo y el abandono escolar a través de la implantación de programas específicos.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.3. Prevención e integración social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas contra el absentismo y el abandono escolar",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisión de los criterios de concertación con la enseñanza privada para garantizar que los conciertos respeten criterios de servicio público y evitar que se fomente la segregación.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.3. Prevención e integración social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisión de los criterios de los conciertos educativos",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliación del servicio de orientación de los centros de secundaria públicos con plazas de psicología y pedagogía.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.3. Prevención e integración social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plazas de psicología y pedagogía en orientación de secundaria",
+      "etiquetas": [
+        "educación",
+        "salud mental"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implantación de programas de mediación intercultural.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.3. Prevención e integración social"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas de mediación intercultural en centros educativos",
+      "etiquetas": [
+        "educación",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La educación en valores debe ser un objetivo transversal en todo el sistema educativo, impactando no solo en el currículum establecido, sino también en la cultura escolar y en todos los actores que forman parte de ella.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.4. Educación en valores"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Educación en valores como objetivo transversal",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomento y desarrollo del respeto y la empatía hacia los animales en los objetivos educativos transversales de todas las etapas educativas.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.4. Educación en valores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Respeto a los animales en los objetivos educativos",
+      "etiquetas": [
+        "educación",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoción en los sistemas educativos de la participación de los y las estudiantes en el desarrollo y cambio de la ciudadanía hacia un modelo sostenible.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.4. Educación en valores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación estudiantil hacia un modelo sostenible",
+      "etiquetas": [
+        "educación",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Implantación de programas específicos que desarrollen la corresponsabilidad y el reparto equitativo de las tareas domésticas y las responsabilidades familiares a fin de fomentar y educar desde la infancia en la igualdad de género.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.4. Educación en valores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Programas escolares de corresponsabilidad e igualdad de género",
+      "etiquetas": [
+        "educación",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Revisión de los planes de estudio y libros de texto con la finalidad de revertir la escasa presencia de mujeres en los materiales educativos e incluir como referentes formativos a las mujeres relevantes de la historia, la ciencia, la literatura, la filosofía y demás materias.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.4. Educación en valores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Revisar planes de estudio para incluir referentes femeninos",
+      "etiquetas": [
+        "educación",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desarrollo de planes de educación en los centros que den acceso a formación e información sobre la diversidad sexual, de género y familiar.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.4. Educación en valores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación escolar sobre diversidad sexual, de género y familiar",
+      "etiquetas": [
+        "educación",
+        "lgtbi"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Enfoque de la educación sexual no sólo respecto a la prevención del embarazo y las enfermedades de transmisión sexual, sino también en su esfera emocional y afectiva.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.4. Educación en valores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Educación sexual con dimensión emocional y afectiva",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoción del voluntariado como herramienta para potenciar la empatía y la solidaridad en la juventud.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.4. Educación en valores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Promoción del voluntariado entre los jóvenes",
+      "etiquetas": [
+        "juventud",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecer convenios con todas las entidades sociales, culturales, ambientales y animalistas para hacer extensivo el programa que garantice que el alumnado participe en servicios de voluntariado con el aprendizaje de educación en valores que esto conlleva.",
+      "pagina": 61,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.4. Educación en valores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Convenios con entidades para voluntariado del alumnado",
+      "etiquetas": [
+        "educación",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Formación del profesorado en las materias referidas.",
+      "pagina": 62,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.4. Educación en valores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación del profesorado en educación en valores",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario sustituir la acción puntual que se está llevando a cabo en los últimos cursos por un proceso continuo de acompañamiento desde el inicio de la Educación Secundaria.",
+      "pagina": 62,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.5. Orientación profesional en la Educación Secundaria"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Orientación profesional continua desde el inicio de secundaria",
+      "etiquetas": [
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostamos por la creación de departamentos de orientación académica y profesional en los centros de Educación Secundaria, que elaboren y pongan en marcha planes de actuación para cada curso, ciclo y etapa, con diferentes acciones que deberán ser implementadas. Además de ofrecer una orientación personalizada e individualizada a los alumnos y alumnas, organizarán e impulsarán talleres y jornadas de orientación profesional en los centros, de manera que el alumnado reciba la información y tenga el conocimiento suficiente sobre la oferta de las diferentes enseñanzas, ciclos formativos y formaciones profesionales, así como de sus diferentes salidas laborales.",
+      "pagina": 62,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.5. Orientación profesional en la Educación Secundaria"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Departamentos de orientación académica y profesional en secundaria",
+      "etiquetas": [
+        "educación",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La cultura es fundamental en la evolución de la sociedad. A su vez, el arte es fundamental para la cultura, como medio, forma y fuente de expresión.",
+      "pagina": 62,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.6. Fomento del arte y la cultura"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Importancia del arte y la cultura para la sociedad",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomento de la enseñanza de disciplinas artísticas, promocionando su oferta en los centros de educación públicos.",
+      "pagina": 62,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.6. Fomento del arte y la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más enseñanza artística en centros públicos",
+      "etiquetas": [
+        "cultura",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incentivo de la creación artística, mediante subvenciones y programas de apoyo a las entidades culturales y a los artistas, que les faciliten las herramientas necesarias para su desarrollo: cesión de espacios e instalaciones, aportación de medios técnicos y de asesoramiento artístico para la preparación de sus proyectos.",
+      "pagina": 62,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.6. Fomento del arte y la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Subvenciones y apoyo a la creación artística",
+      "etiquetas": [
+        "cultura",
+        "subvenciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyo a la inversión y producción cinematográfica, así como promoción de la atracción de rodajes, producción y postproducción mediante incentivos fiscales.",
+      "pagina": 62,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.6. Fomento del arte y la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Incentivos fiscales a la producción cinematográfica y rodajes",
+      "etiquetas": [
+        "cultura",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Respaldo y acompañamiento en las diferentes fases de creación, producción y exhibición artística, con la creación de residencias artísticas, colaboración en la difusión del trabajo de los artistas y una oferta formativa de especialización, con profesionales de prestigio o a través de la realización de encuentros y foros.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.6. Fomento del arte y la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Residencias artísticas y formación especializada para artistas",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoción e internacionalización de creadores y compañías de artes escénicas para la realización de giras nacionales e internacionales.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.6. Fomento del arte y la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Internacionalización de compañías de artes escénicas",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Elaboración de planes que ayuden a consolidar en nuestro país un sector de las artes escénicas y musicales de primer nivel.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.6. Fomento del arte y la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Planes para el sector de artes escénicas y musicales",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecimiento de programas de apoyo a las músicas y danzas populares y contemporáneas que promuevan la creación, la visibilidad de nuevos talentos, la formación y la distribución en medios de comunicación, especialmente en radios y televisiones públicas.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.6. Fomento del arte y la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a músicas y danzas populares y contemporáneas",
+      "etiquetas": [
+        "cultura",
+        "medios de comunicación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Puesta en marcha y apoyo de iniciativas de protección, estudio y difusión del patrimonio cultural en sus múltiples expresiones: artística, histórica, paisajística y natural, industrial e inmaterial.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.6. Fomento del arte y la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Protección y difusión del patrimonio cultural",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aprobación de una Estrategia de Turismo Cultural para dar a conocer nuestro país con el valor añadido de la cultura y el patrimonio, destacando los festivales culturales y las fiestas populares más significativas, siempre que no impliquen la utilización de animales.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.6. Fomento del arte y la cultura"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Estrategia de Turismo Cultural sin fiestas con animales",
+      "etiquetas": [
+        "turismo",
+        "cultura",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las políticas de apoyo a la cultura deberían centrarse en hacer más accesibles y asequibles los productos culturales, por una cultura al alcance de todos y todas.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.7. Cultura accesible y asequible"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Cultura accesible y asequible para toda la población",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "PACMA propone la puesta en marcha de políticas para la participación activa en el ámbito cultural de las personas con discapacidad o con dificultades personales o sociales, no sólo como espectadoras, sino también como autoras, productoras y promotoras.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.7. Cultura accesible y asequible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación cultural de personas con discapacidad",
+      "etiquetas": [
+        "cultura",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es fundamental mejorar la accesibilidad física y cognitiva de los espacios culturales, con salas accesibles, visitas guiadas y creación de materiales adaptados.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.7. Cultura accesible y asequible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Accesibilidad física y cognitiva de espacios culturales",
+      "etiquetas": [
+        "cultura",
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para que la cultura sea asequible, apostamos por el impulso de una oferta cultural amplia y variada, dirigida a todos los públicos, con actividades culturales gratuitas y a precios reducidos, como encuentros, muestras, exposiciones, festivales y otras actividades culturales, así como descuentos, bonificaciones y promociones para la compra de libros, entradas a conciertos y espectáculos de música y danza, cine, teatro, museos y otros espacios y actividades culturales.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.7. Cultura accesible y asequible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Actividades gratuitas y descuentos en productos culturales",
+      "etiquetas": [
+        "cultura",
+        "consumo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyamos la labor de las bibliotecas para garantizar el acceso a la cultura, pero vemos con preocupación cómo en los últimos años la asistencia a las mismas va en descenso, en buena medida por el crecimiento de las nuevas tecnologías.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.8. Bibliotecas como centros para la difusión cultural"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Apoyo a las bibliotecas ante el descenso de asistencia",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostamos por el futuro de las bibliotecas públicas como espacios de referencia cultural, de creación, intercambio, producción y formación cultural, mediante su apertura a la realización de actividades, exposiciones, talleres, jornadas, ciclos, debates, conferencias y encuentros.",
+      "pagina": 63,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.3. Educación y Cultura para todos y todas",
+        "3.3.8. Bibliotecas como centros para la difusión cultural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Bibliotecas públicas como espacios de actividad cultural",
+      "etiquetas": [
+        "cultura"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA queremos impulsar la creación de puestos de trabajo de calidad y poner fin a la discriminación todavía existente en el acceso a los mismos.",
+      "pagina": 64,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Empleo de calidad y sin discriminación en el acceso",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apostamos por un desarrollo económico basado en la creación de empleo estable, apostando por un modelo económico basado en el fomento del I+D+i, en el sector de las energías renovables, el turismo sostenible y cultural, y la agricultura.",
+      "pagina": 64,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Modelo económico basado en I+D+i, renovables, turismo y agricultura",
+      "etiquetas": [
+        "economía",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por todo ello, es necesario un Pacto de Estado por la Igualdad en el Empleo, a través del cual se pueda combatir la discriminación laboral y salarial todavía existente y promover la presencia de mujeres en puestos de responsabilidad.",
+      "pagina": 64,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.1. Por la igualdad en el empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Pacto de Estado por la Igualdad en el Empleo",
+      "etiquetas": [
+        "igualdad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En casos como el de la LOREG, la solución pasaba por establecer, no que las candidaturas deben tener una composición paritaria de mujeres y hombres, sino una composición equilibrada en la que las mujeres representen, al menos, la mitad de los candidatos/as, para no perjudicar la mayor y más relevante presencia de mujeres en candidaturas como las de PACMA, y así en otros ámbitos, sectores y empresas en las que la presencia de mujeres sea mayoritaria, y que no debería, bajo ningún concepto, verse perjudicada por leyes cuya finalidad, supuestamente, es favorecerla.",
+      "pagina": 65,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.1. Por la igualdad en el empleo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Listas electorales con al menos la mitad de mujeres, sin cremallera obligatoria",
+      "etiquetas": [
+        "sistema electoral",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Conciliar la vida personal, familiar y laboral es una condición fundamental para garantizar la igualdad entre mujeres y hombres.",
+      "pagina": 65,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.2. Por la conciliación personal, familiar y laboral"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Conciliación como condición para la igualdad",
+      "etiquetas": [
+        "conciliación",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde el Partido Animalista defendemos la puesta en marcha de políticas familiares públicas, que apoyen la igualdad de oportunidades.",
+      "pagina": 65,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.2. Por la conciliación personal, familiar y laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Políticas familiares públicas",
+      "etiquetas": [
+        "familia",
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesaria una actualización de la Ley para promover la conciliación de la vida familiar y laboral de las personas trabajadoras, que promueva la igualdad de género, estableciendo el compromiso de todas las administraciones públicas de adoptar medidas destinadas a favorecer el acceso y la permanencia de las mujeres en el empleo, la autonomía personal y la atención a las personas en situación de dependencia, contemplando medidas, recursos y prestaciones económicas.",
+      "pagina": 65,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.2. Por la conciliación personal, familiar y laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Actualizar la ley de conciliación de la vida familiar y laboral",
+      "etiquetas": [
+        "conciliación",
+        "igualdad",
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se debe prever, asimismo, que las comunidades autónomas fomenten y presten apoyo y asesoramiento para la elaboración de planes de igualdad en las empresas privadas.",
+      "pagina": 65,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.2. Por la conciliación personal, familiar y laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo autonómico a planes de igualdad en empresas",
+      "etiquetas": [
+        "igualdad",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para conseguir una verdadera conciliación, es necesaria una reestructuración y reorganización de los sistemas laboral, educativo y de recursos sociales.",
+      "pagina": 65,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.2. Por la conciliación personal, familiar y laboral"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Reorganizar sistemas laboral, educativo y social para conciliar",
+      "etiquetas": [
+        "conciliación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Del sistema laboral: se debe promover, prestar apoyo y asesoramiento para la elaboración de planes de igualdad en las empresas, fomentando la implantación de medidas de conciliación laboral, personal y familiar entre sus plantillas, como permitir a sus trabajadores adaptar la duración y distribución de la jornada laboral en función de sus circunstancias personales y familiares, o ejercer el teletrabajo.",
+      "pagina": 65,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.2. Por la conciliación personal, familiar y laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Planes de igualdad, jornada adaptable y teletrabajo en empresas",
+      "etiquetas": [
+        "conciliación",
+        "empleo",
+        "igualdad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se debe fomentar e incentivar la creación de guarderías en los propios centros de trabajo, tanto para el cuidado de niños y niñas como de animales de compañía, así como los permisos retribuidos en casos de fallecimiento, accidente o enfermedad grave de familiares, incluidos los animales.",
+      "pagina": 65,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.2. Por la conciliación personal, familiar y laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Guarderías en el trabajo y permisos retribuidos incluyendo animales",
+      "etiquetas": [
+        "conciliación",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Del sistema educativo: rompiendo los roles de género preestablecidos. Hombres y mujeres deben compartir equitativamente las responsabilidades domésticas y familiares. De la misma manera se debe educar a los hijos e hijas a participar en las tareas domésticas y familiares.",
+      "pagina": 65,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.2. Por la conciliación personal, familiar y laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Educación en corresponsabilidad doméstica y familiar",
+      "etiquetas": [
+        "conciliación",
+        "igualdad",
+        "educación"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Del sistema de recursos sociales: las leyes deben prever la elaboración de planes de apoyo a las familias, donde se contemplen ayudas económicas y servicios como centros de atención socioeducativa y ludotecas; aulas matinales, comedores escolares y actividades extraescolares; pisos tutelados, centros residenciales y programas de estancia diurna para personas mayores y/o dependientes; centros de atención y cuidado para animales; ayudas para la contratación de personal para el cuidado de familiares y apoyo psicológico estable.",
+      "pagina": 65,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.2. Por la conciliación personal, familiar y laboral"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Planes de apoyo a las familias con ayudas y servicios",
+      "etiquetas": [
+        "familia",
+        "servicios sociales",
+        "dependencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Elaboración y puesta en marcha de un Plan nacional para promover la formación, el empleo y la accesibilidad universal de las personas con discapacidad.",
+      "pagina": 66,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.3. Por el derecho al trabajo de las personas con discapacidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan nacional de formación, empleo y accesibilidad para discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mecanismos para la participación de estudiantes con discapacidad en los cursos de formación para el empleo, facilitando la adaptación de los materiales y puestos de formación.",
+      "pagina": 66,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.3. Por el derecho al trabajo de las personas con discapacidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación para el empleo adaptada a personas con discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Análisis de las necesidades de formación para ajustar las políticas a la realidad.",
+      "pagina": 66,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.3. Por el derecho al trabajo de las personas con discapacidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Análisis de necesidades formativas de personas con discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoción de encuentros empresariales sobre responsabilidad social, en relación con la discapacidad, para promover la inserción laboral.",
+      "pagina": 66,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.3. Por el derecho al trabajo de las personas con discapacidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Encuentros empresariales sobre inserción laboral y discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "empleo",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Asesoramiento a las empresas sobre inserción laboral de personas con discapacidad.",
+      "pagina": 66,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.3. Por el derecho al trabajo de las personas con discapacidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Asesoramiento a empresas sobre contratación de personas con discapacidad",
+      "etiquetas": [
+        "discapacidad",
+        "empleo",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Vigilancia del cumplimiento de la normativa en materia de eliminación de barreras arquitectónicas y accesibilidad.",
+      "pagina": 66,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.3. Por el derecho al trabajo de las personas con discapacidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Control del cumplimiento de normas de accesibilidad",
+      "etiquetas": [
+        "discapacidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Inclusión de la colaboración de las ONG que apoyan a las personas con discapacidad, como asesoras para la elaboración de los itinerarios de inserción laboral.",
+      "pagina": 66,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.3. Por el derecho al trabajo de las personas con discapacidad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "ONG de discapacidad como asesoras de inserción laboral",
+      "etiquetas": [
+        "discapacidad",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La lucha contra el desempleo debe fijar sus cimientos en la formación de ciudadanos y ciudadanas que sean capaces de dar un vuelco a esta situación, preparándolos para poder hacer frente a los nuevos retos que plantea la evolución de la sociedad actual.",
+      "pagina": 66,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.4. Mayor preparación y formación de la juventud de cara al futuro profesional"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Formación como base de la lucha contra el desempleo",
+      "etiquetas": [
+        "empleo",
+        "educación",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomento de un sistema de formación profesional que responda a las exigencias presentes y futuras del mercado laboral, potenciando la formación en nuevas tecnologías y la adaptación de los sectores tradicionales (agricultura, turismo, construcción).",
+      "pagina": 66,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.4. Mayor preparación y formación de la juventud de cara al futuro profesional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación profesional adaptada al mercado laboral",
+      "etiquetas": [
+        "educación",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sistema de becas que apueste por una mayor preparación y cualificación de los jóvenes, y desincentive la incorporación a edades muy tempranas al mercado laboral.",
+      "pagina": 66,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.4. Mayor preparación y formación de la juventud de cara al futuro profesional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Becas para prolongar la formación de los jóvenes",
+      "etiquetas": [
+        "educación",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Intervenciones específicas que atiendan las barreras lingüísticas, socioeconómicas, culturales y burocráticas.",
+      "pagina": 66,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.4. Mayor preparación y formación de la juventud de cara al futuro profesional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Medidas contra barreras que favorecen el abandono escolar",
+      "etiquetas": [
+        "educación",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Medidas contra la segregación escolar residencial, reformulando los algoritmos y criterios de matriculación y reparto de plazas para evitar la concentración excesiva de alumnado extranjero en determinados centros públicos, dado que la diversidad equilibrada mejora el rendimiento de los entornos vulnerables.",
+      "pagina": 67,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.4. Mayor preparación y formación de la juventud de cara al futuro profesional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Reformar criterios de matriculación contra la segregación escolar",
+      "etiquetas": [
+        "educación",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporación a las plantillas de los colegios e institutos de mediadores interculturales que compartan el idioma y contexto de las comunidades mayoritarias del barrio, claves para generar confianza mutua, resolver conflictos y conectar a las familias con el centro escolar.",
+      "pagina": 67,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.4. Mayor preparación y formación de la juventud de cara al futuro profesional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mediadores interculturales en las plantillas de los centros",
+      "etiquetas": [
+        "educación",
+        "inmigración"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Agilización en la homologación de títulos, flexibilizando y acelerando la burocracia para convalidar los estudios que los/as jóvenes hayan realizado en sus países de origen, puesto que el retraso en estos trámites provoca que sean escolarizados en cursos inferiores, lo que fomenta el desinterés y el abandono por desfase madurativo.",
+      "pagina": 67,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.4. Mayor preparación y formación de la juventud de cara al futuro profesional"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Agilizar la homologación de estudios extranjeros",
+      "etiquetas": [
+        "educación",
+        "inmigración",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA proponemos la creación de un tejido de oferta turística alternativa al modelo actual, en los ámbitos cultural, deportivo, entorno rural, zonas de interior, congresos y negocios.",
+      "pagina": 67,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.5. Contra la estacionalidad en el empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Oferta turística alternativa para reducir la estacionalidad",
+      "etiquetas": [
+        "turismo",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estos modelos de turismo deben implantarse de forma sostenible y respetuosa con el medio ambiente y los animales, las ciudades y sus vecinos/as.",
+      "pagina": 67,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.5. Contra la estacionalidad en el empleo"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Turismo sostenible y respetuoso con vecinos y animales",
+      "etiquetas": [
+        "turismo",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Promoción a nivel internacional.",
+      "pagina": 67,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.5. Contra la estacionalidad en el empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Promoción internacional del turismo alternativo",
+      "etiquetas": [
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Establecimiento de convenios con los operadores turísticos.",
+      "pagina": 67,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.5. Contra la estacionalidad en el empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Convenios con operadores turísticos para turismo alternativo",
+      "etiquetas": [
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Formación y cualificación de los trabajadores del sector, tanto de los profesionales en activo, como de los desempleados.",
+      "pagina": 67,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.5. Contra la estacionalidad en el empleo"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación de trabajadores y desempleados del sector turístico",
+      "etiquetas": [
+        "turismo",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde el Partido Animalista proponemos una reconversión inteligente y efectiva de estos centros de trabajo, para reactivar e impulsar el crecimiento del tejido productivo industrial y empresarial, favoreciendo las nuevas iniciativas e incorporando la I+D+I, que permita la creación de empresas respetuosas con el medio ambiente, adaptadas a las exigencias que marca el desafío de la lucha contra el cambio climático y que puedan competir en el más alto nivel de desarrollo tecnológico en un escenario global.",
+      "pagina": 67,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.6. Reactivación del tejido productivo industrial ético y sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Reconversión de centros de trabajo cerrados por la crisis hacia industria sostenible",
+      "etiquetas": [
+        "industria",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Proponemos medidas de fomento del empleo en el sector, a través de programas de formación, asesoramiento técnico y empresarial, creación de infraestructuras comunes, subvenciones, bonificaciones y beneficios fiscales, dirigidas a la creación de un modelo de producción agrícola sostenible y ecológico, superando la producción extensiva tradicional, que busque la calidad de los productos, el respeto al medio ambiente, el impulso y la conservación del entorno rural, la inserción en el empleo de colectivos tradicionalmente excluidos y la cercanía al consumidor.",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.7. Fomento del empleo en el sector agrícola a través de un modelo de producción sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Ayudas al empleo agrícola en un modelo sostenible y ecológico",
+      "etiquetas": [
+        "agricultura y pesca",
+        "empleo",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA apostamos por impulsar la oferta y el número de plazas de las acciones formativas de Formación Profesional para el Empleo en las diferentes ramas de la construcción, así como por una transformación del propio sector, que pase por la rehabilitación energética de viviendas y edificios, para hacerlos más eficientes y sostenibles. Esta medida debe combinarse con un esfuerzo en particular hacia la rehabilitación de inmuebles ubicados en los centros de las ciudades, con el objetivo de:",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.8. Reconversión del sector de la construcción en un modelo sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación en construcción y rehabilitación energética de edificios",
+      "etiquetas": [
+        "vivienda",
+        "empleo",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Transformar el entorno urbano para hacerlo más sostenible, habitable, atractivo y accesible.",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.8. Reconversión del sector de la construcción en un modelo sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Objetivo de la rehabilitación de centros urbanos: entorno sostenible",
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliar la oferta de viviendas, evitando la gentrificación.",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.8. Reconversión del sector de la construcción en un modelo sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Objetivo de la rehabilitación urbana: más viviendas sin gentrificación",
+      "etiquetas": [
+        "vivienda",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejorar la movilidad de los residentes, para reducir la dependencia de los vehículos motorizados.",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.8. Reconversión del sector de la construcción en un modelo sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Objetivo de la rehabilitación urbana: menos dependencia del coche",
+      "etiquetas": [
+        "transporte",
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mejorar la imagen de las ciudades.",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.8. Reconversión del sector de la construcción en un modelo sostenible"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Objetivo de la rehabilitación urbana: imagen de las ciudades",
+      "etiquetas": [
+        "urbanismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para el desarrollo y el futuro de nuestra sociedad es fundamental el trabajo de los autónomos y autónomas y las pymes, que luchan por sobrevivir en un mercado cada vez más complicado.",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.9. Apoyo a emprendedores/as, autónomos/as y pymes"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Importancia de autónomos y pymes",
+      "etiquetas": [
+        "autónomos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, proponemos la creación de un fondo de financiación destinado a facilitar el acceso de autónomos/as y pymes a líneas de crédito a interés cero, para apoyar el desarrollo de proyectos orientados a la consecución de alguno de los siguientes fines:",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.9. Apoyo a emprendedores/as, autónomos/as y pymes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondo de créditos a interés cero para autónomos y pymes",
+      "etiquetas": [
+        "autónomos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Crear empleo estable.",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.9. Apoyo a emprendedores/as, autónomos/as y pymes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fin financiable por el fondo para pymes: empleo estable",
+      "etiquetas": [
+        "empresas",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incorporar tecnología medioambientalmente sostenible o técnicas que contribuyan a reducir el impacto medioambiental de la actividad.",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.9. Apoyo a emprendedores/as, autónomos/as y pymes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fin financiable por el fondo para pymes: tecnología sostenible",
+      "etiquetas": [
+        "empresas",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Contribuir a mejorar las condiciones de bienestar de los animales.",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.9. Apoyo a emprendedores/as, autónomos/as y pymes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Fin financiable por el fondo para pymes: bienestar animal",
+      "etiquetas": [
+        "empresas",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para el crecimiento de la actividad económica y promover el emprendimiento, consideramos relevante el impulso a las empresas de nueva creación y apostamos por un apoyo decidido a las mismas por medio de las siguientes propuestas:",
+      "pagina": 68,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.9. Apoyo a emprendedores/as, autónomos/as y pymes"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Apoyo a las empresas de nueva creación",
+      "etiquetas": [
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Política de mayores bonificaciones fiscales para emprendedores/as, startups y empresas innovadoras.",
+      "pagina": 69,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.9. Apoyo a emprendedores/as, autónomos/as y pymes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más bonificaciones fiscales para emprendedores y startups",
+      "etiquetas": [
+        "impuestos",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ampliación del soporte y asesoramiento gratuito, por parte de los entes públicos, para la creación y primeros años de desarrollo de estos modelos de negocio.",
+      "pagina": 69,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.9. Apoyo a emprendedores/as, autónomos/as y pymes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Asesoramiento público gratuito a empresas de nueva creación",
+      "etiquetas": [
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Elaboración de un censo de las empresas de nueva creación, e integración en un portal web donde puedan darse a conocer y a través del cual se potencie el mecenazgo.",
+      "pagina": 69,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.9. Apoyo a emprendedores/as, autónomos/as y pymes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Censo y portal web de empresas de nueva creación",
+      "etiquetas": [
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fortalecimiento de los programas de formación, orientación y asesoramiento gratuitos, en materia fiscal, nuevas tecnologías, nuevos mercados, sostenibilidad medioambiental, calidad, atención al público, ...",
+      "pagina": 69,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.9. Apoyo a emprendedores/as, autónomos/as y pymes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Formación y asesoramiento gratuitos a emprendedores",
+      "etiquetas": [
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Agilización de los procesos de creación de empresas y del inicio de las actividades, mediante la eliminación de trabas burocráticas y la simplificación administrativa de los trámites exigibles.",
+      "pagina": 69,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.4. Por un empleo justo y de calidad",
+        "3.4.9. Apoyo a emprendedores/as, autónomos/as y pymes"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Simplificar trámites para crear empresas",
+      "etiquetas": [
+        "empresas",
+        "burocracia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La solución real pasa por la construcción masiva de vivienda pública, así como por la adquisición de viviendas vacías, para destinarlas tanto a compra como a alquiler social. Con la misma finalidad, se deben perseguir acuerdos con las entidades financieras que dispongan de viviendas deshabitadas para destinarlas también al alquiler a precios sociales.",
+      "pagina": 69,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.5. Por una vivienda digna: mayor parque de vivienda social destinada a compra y alquiler"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Construcción de vivienda pública y compra de viviendas vacías",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incentivos fiscales, ofreciendo bonificaciones del 100% en el IRPF o exenciones del IBI a los pequeños propietarios/as que pongan su vivienda en el mercado un 10% o 15% por debajo del precio medio de la zona; reduciendo temporalmente el Impuesto de Transmisiones Patrimoniales en viviendas de segunda mano y el IVA en viviendas de obra nueva, para compradores de primera vivienda habitual.",
+      "pagina": 70,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.5. Por una vivienda digna: mayor parque de vivienda social destinada a compra y alquiler"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bonificaciones en IRPF, IBI, ITP e IVA para vivienda",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Seguridad jurídica ante impagos, mediante seguros o avales públicos.",
+      "pagina": 70,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.5. Por una vivienda digna: mayor parque de vivienda social destinada a compra y alquiler"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Seguros o avales públicos frente a impagos de alquiler",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Persecución efectiva del fraude, blindando legalmente el uso del alquiler por habitaciones y de temporada mediante un registro obligatorio, evitando que se utilicen de forma fraudulenta para sortear la Ley de Vivienda.",
+      "pagina": 70,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.5. Por una vivienda digna: mayor parque de vivienda social destinada a compra y alquiler"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Registro obligatorio del alquiler por habitaciones y de temporada",
+      "etiquetas": [
+        "vivienda"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Descentralización y teletrabajo, potenciando las infraestructuras de transporte (AVE, cercanías) y la conectividad digital en ciudades medianas y zonas rurales, para distribuir el empleo y la habitabilidad, rebajando la presión de demanda en capitales saturadas.",
+      "pagina": 70,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.5. Por una vivienda digna: mayor parque de vivienda social destinada a compra y alquiler"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Transporte y conectividad en ciudades medianas y zonas rurales",
+      "etiquetas": [
+        "vivienda",
+        "transporte",
+        "telecomunicaciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desincentivar la compra especulativa, aplicando recargos fiscales a la compra de viviendas por parte de fondos de inversión y no residentes.",
+      "pagina": 70,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.5. Por una vivienda digna: mayor parque de vivienda social destinada a compra y alquiler"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Recargos fiscales a compra de vivienda por fondos y no residentes",
+      "etiquetas": [
+        "vivienda",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Restringir las licencias de pisos turísticos en cascos históricos y barrios tensionados.",
+      "pagina": 70,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.5. Por una vivienda digna: mayor parque de vivienda social destinada a compra y alquiler"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Limitar licencias de pisos turísticos en zonas tensionadas",
+      "etiquetas": [
+        "vivienda",
+        "turismo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por ello, desde PACMA impulsaremos una reforma de la Ley Arrendamientos Urbanos que, de manera expresa, declare nulas las cláusulas que prohíban la tenencia de animales de compañía en los contratos.",
+      "pagina": 70,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.5. Por una vivienda digna: mayor parque de vivienda social destinada a compra y alquiler"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Nulidad de cláusulas de alquiler que prohíben animales de compañía",
+      "etiquetas": [
+        "vivienda",
+        "bienestar animal"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Por lo tanto, es más una cuestión de conectar a las personas con los pueblos, y acompañarlas en el proceso de cambio, para generar así actividad económica y social.",
+      "pagina": 70,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.6. Contra la despoblación rural"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Conectar a las personas con los pueblos contra la despoblación",
+      "etiquetas": [
+        "despoblación",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA proponemos, en esta misma línea, el desarrollo de un Plan de recuperación rural, que prevea la creación de un servicio de asesoramiento integral para las personas dispuestas a vivir y emprender en el entorno rural, que les pueda orientar desde el inicio, a la hora de elegir el pueblo que encaje mejor con su idea de negocio y los acompañe durante todo el proceso de cambio, de manera que la adaptación a su nueva vida sea lo más sencilla y exitosa posible.",
+      "pagina": 70,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.6. Contra la despoblación rural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan de recuperación rural con asesoramiento a nuevos pobladores",
+      "etiquetas": [
+        "despoblación",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En definitiva, se trata de generar seguridad, acompañamiento y conexión con los pueblos, con el objeto de garantizar la viabilidad de los proyectos emprendedores y, con ello, la fijación de población rural.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.6. Contra la despoblación rural"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Acompañar a nuevos pobladores para fijar población rural",
+      "etiquetas": [
+        "despoblación",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Como medidas prioritarias de este Plan, en un ejercicio de gobernanza multinivel de los gobiernos estatal, autonómicos y locales, es fundamental la prestación y cercanía de los servicios públicos esenciales, el impulso a la innovación, la digitalización, la plena conectividad territorial, la capacitación digital de la población rural y el refuerzo de las bolsas de vivienda.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.6. Contra la despoblación rural"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Prioridades del Plan de recuperación rural: servicios y conectividad",
+      "etiquetas": [
+        "despoblación",
+        "servicios públicos",
+        "telecomunicaciones"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Es necesario defender la investigación, el desarrollo y la innovación, como motores para la economía y la creación de empleo, teniendo en cuenta criterios éticos en el desarrollo y aplicación de la política tecnológica e industrial.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "I+D+i como motor económico con criterios éticos",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mayor inversión en I+D+i.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Aumento de la inversión en I+D+i",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Inclusión de la I+D entre los “sectores prioritarios”, emitiendo ofertas de empleo público y posibilidades de contratación en organismos públicos de investigación, universidades y centros tecnológicos.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "I+D como sector prioritario para empleo público",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empleo público",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Orientación de la I+D+i hacia el beneficio común, los retos sociales y medioambientales.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Orientar la I+D+i a retos sociales y ambientales",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Libre acceso a los resultados de las investigaciones científicas financiadas con fondos públicos.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Acceso abierto a la investigación con fondos públicos",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Creación y promoción de un portal digital de referencia que unifique y difunda las investigaciones realizadas en las universidades públicas, que ponga en contacto a las universidades de las diferentes comunidades autónomas entre sí, así como con las empresas privadas.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Portal digital de investigación de universidades públicas",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Puesta en marcha de programas de apoyo a la ciencia y formación de jóvenes investigadores, así como inversión en las infraestructuras deterioradas.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a jóvenes investigadores e infraestructuras científicas",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apuesta por la potenciación de los centros de investigación tecnológica.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Refuerzo de los centros de investigación tecnológica",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Apoyo de proyectos de innovación tecnológica en las pymes, con el objetivo de aumentar su productividad, eficiencia, presencia y reconocimiento a nivel nacional e internacional.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo a la innovación tecnológica en pymes",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Creación de fondos público-privados de capital riesgo y mejora del sistema de incentivos fiscales a las empresas.",
+      "pagina": 71,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Fondos público-privados de capital riesgo e incentivos fiscales",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "empresas",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Colaboración con investigaciones pioneras vinculadas a sectores económicos emergentes o consolidados. Estas colaboraciones perseguirán poner al servicio de los investigadores e investigadoras nuestros recursos energéticos, tecnológicos y naturales siempre que sean respetuosos con el medio ambiente y los animales.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Colaboración pública con investigaciones pioneras",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Puesta en marcha de un ciclo periódico e itinerante de conferencias sobre investigación e innovación en todos los campos del conocimiento.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ciclo itinerante de conferencias sobre investigación",
+      "etiquetas": [
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Aumento de las ayudas a la investigación tanto predoctorales como postdoctorales.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más ayudas predoctorales y postdoctorales",
+      "etiquetas": [
+        "ciencia y tecnología",
+        "universidad"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Financiación de proyectos enfocados a la perdurabilidad de los bienes de consumo, contra la obsolescencia programada.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Financiar proyectos contra la obsolescencia programada",
+      "etiquetas": [
+        "consumo",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Fomento de programas de desarrollo de productos plant-based.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Desarrollo de productos de origen vegetal",
+      "etiquetas": [
+        "alimentación",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Incentivación para el desarrollo y la aplicación de métodos alternativos a la experimentación en animales.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.7. I+D+I con fines sociales"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Métodos alternativos a la experimentación con animales",
+      "etiquetas": [
+        "bienestar animal",
+        "ciencia y tecnología"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Combatir el fraude es una medida de equidad impositiva, de justicia tributaria y de consolidación fiscal, que permite incrementar los ingresos para financiar el gasto público, sin incrementar la presión fiscal sobre la ciudadanía que está al día en el cumplimiento de sus obligaciones fiscales.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.8. Lucha contra el fraude fiscal"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Lucha contra el fraude fiscal como fuente de ingresos",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "A pesar de las medidas adoptadas, el fraude fiscal sigue siendo un problema persistente en España y se requieren soluciones adicionales para abordarlo de manera efectiva. Para ello proponemos la implementación de controles fiscales más rigurosos, el uso de tecnología avanzada para detectar actividades sospechosas, así como mejorar la cooperación entre los países para combatir el fraude fiscal internacional.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.8. Lucha contra el fraude fiscal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Más controles, tecnología y cooperación internacional contra el fraude",
+      "etiquetas": [
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para medir la eficacia y eficiencia del gasto público, desde PACMA proponemos, además, implantar, de cara a los presupuestos del Estado, de las Comunidades Autónomas y de los ayuntamientos, un sistema unificado de valoración de la eficacia y eficiencia de las partidas de gastos que figuren en estos, publicando esta información e incorporando las consecuencias de esta a la gestión pública.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.8. Lucha contra el fraude fiscal"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sistema unificado de evaluación de partidas de gasto público",
+      "etiquetas": [
+        "gasto público",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Hay una necesidad de construir una cultura de ejemplaridad en la Administración Pública que refuerce y devuelva la confianza de la ciudadanía en las instituciones, recupere el prestigio de la política y combata las dudas que actualmente inquietan a la ciudadanía sobre la garantía de las leyes o la equidad del sistema judicial.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.9. Regeneración democrática"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Ejemplaridad en la Administración para recuperar la confianza",
+      "etiquetas": [
+        "instituciones",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Desde PACMA nos proponemos redefinir la política, mediante reformas legales que mejoren la representación, el funcionamiento democrático y la participación ciudadana.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.9. Regeneración democrática"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Reformas legales de regeneración democrática",
+      "etiquetas": [
+        "instituciones",
+        "participación ciudadana"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Eliminación de los aforamientos.",
+      "pagina": 72,
+      "apartado": [
+        "3. Nuestro compromiso con las Personas",
+        "3.9. Regeneración democrática",
+        "3.9.1. Prevención y lucha contra la corrupción"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Supresión de los aforamientos",
+      "etiquetas": [
+        "instituciones",
+        "corrupción",
+        "justicia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

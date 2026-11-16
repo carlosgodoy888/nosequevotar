@@ -1,0 +1,69 @@
+{
+  "resumenes": [
+    {
+      "tema": "seguridad-y-justicia",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone derogar la Ley de Protección de la Seguridad Ciudadana, a la que llama «ley mordaza», abolir las pelotas de goma y reconocer el derecho de sindicación policial.",
+          "apoyos": ["c-f8ae42af7e", "c-2338890586", "c-1313c74608", "c-e644d0a22a"]
+        },
+        {
+          "texto": "En justicia, plantea crear diez nuevos juzgados, que el Congreso ratifique al Fiscal General del Estado y suprimir la Sala de lo Penal de la Audiencia Nacional.",
+          "apoyos": ["c-407b20c0b0", "c-f9193c2394", "c-bcd0218dd3"]
+        },
+        {
+          "texto": "Tras la DANA, pide reforzar Protección Civil y la UME con un fondo estatal estable, crear un fondo de reconstrucción e impedir construir en zonas inundables.",
+          "apoyos": ["c-41f9ef1ca4", "c-13b036e743", "c-73eb145d1e", "c-e40c60cb98"]
+        }
+      ],
+      "nota": "Muchas citas del tema tratan de emergencias y DANA; se resumen en una frase. Quedan fuera por espacio la prohibición de identificaciones por perfil étnico, la reforma del acceso a la carrera judicial y la petición de campaña de que siga la comisión de investigación de la DANA."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone rebajar la edad de voto a 16 años, ampliar el voto de las personas migrantes y eliminar el aforamiento parlamentario y judicial.",
+          "apoyos": ["c-7fd32b1d53", "c-375e489f14", "c-88d69ccef1"]
+        },
+        {
+          "texto": "Plantea sustituir la ley de secretos oficiales, reformar la Ley de Transparencia, regular los lobbies y crear una oficina antifraude.",
+          "apoyos": ["c-a1cccb7c47", "c-0f49275783", "c-a85884bdde", "c-05a1cd8f2c"]
+        },
+        {
+          "texto": "Quiere reformar la Constitución para suprimir la prioridad del pago de la deuda y pasar de un Estado aconfesional a uno laico.",
+          "apoyos": ["c-da4d13d8de", "c-71d0ae839b", "c-7b05ff91e1"]
+        },
+        {
+          "texto": "Dice querer formar parte de «una mayoría de izquierdas» que gobierne; su candidata planteó que el PSOE dependa de partidos como el suyo.",
+          "apoyos": ["c-8c26c4794e", "c-43b2533c85"]
+        }
+      ],
+      "nota": "La expresión «mayoría de izquierdas» es del propio programa y va entrecomillada. No se recoge el calificativo «franquista» que el programa aplica a la ley de secretos oficiales."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone reformar la financiación autonómica con criterios de población y servicios para acabar con lo que llama «infrafinanciación valenciana».",
+          "apoyos": ["c-3d2e58f9ff", "c-60e52eb2e3"]
+        },
+        {
+          "texto": "Defiende un «concierto económico responsable» o, en su defecto, que la Generalitat Valenciana recaude la mayor parte de los tributos, y pide condonar su deuda histórica.",
+          "apoyos": ["c-4c9bd157e7", "c-b612b0c8a7", "c-2e146f71b1"]
+        },
+        {
+          "texto": "Quiere traspasar a la Generalitat competencias como Cercanías, puertos, aeropuertos, costas o el Ingreso Mínimo Vital, y avanzar hacia un «Estado plurinacional».",
+          "apoyos": ["c-25a6b5d698", "c-0d65244908", "c-befb538996"]
+        },
+        {
+          "texto": "También plantea suprimir las diputaciones provinciales, reconocer jurídicamente las comarcas valencianas y convertir el Senado en un espacio de representación territorial.",
+          "apoyos": ["c-37cb754815", "c-ba4c036f89", "c-d3e6dacb51"]
+        }
+      ],
+      "nota": "Las medidas de financiación y competencias se refieren a la Comunidad Valenciana; las frases lo indican nombrando a la Generalitat."
+    }
+  ]
+}

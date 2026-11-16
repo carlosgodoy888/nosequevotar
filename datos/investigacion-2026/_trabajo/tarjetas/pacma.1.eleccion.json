@@ -1,0 +1,110 @@
+{
+  "partido": "pacma",
+  "lote": "pacma.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        { "id": "c-5f6db97995", "motivo": "Es la primera línea de su postura (construcción masiva de vivienda pública y compra de vacías para venta y alquiler social), la presenta como «la solución real» y se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-418d9ee7fb", "motivo": "Cubre la segunda línea, los incentivos fiscales (100% IRPF o exención del IBI a pequeños propietarios que alquilen un 10-15% por debajo del precio medio), con cifras concretas.", "texto": null, "cambio": null },
+        { "id": "c-d635a365da", "motivo": "Cubre la tercera línea, contra la especulación: recargos fiscales a la compra por fondos de inversión y no residentes; es corta y clara.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-0bd795bbaf", "por_que_no": "Reforma de la LAU para anular las cláusulas que prohíben animales: es su aportación más propia, pero es una línea secundaria en vivienda y nombra a PACMA; no representa por sí sola su postura sobre el acceso a la vivienda." },
+        { "id": "c-a554483721", "por_que_no": "Restringir licencias de pisos turísticos: misma línea antiespeculativa que la de los fondos, y menos central." }
+      ],
+      "nota": "La reforma de la LAU sobre animales de compañía (línea 4 del resumen) queda fuera por falta de hueco; si se prefiere, podría sustituir a c-d635a365da quitando «desde PACMA»."
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        { "id": "c-bdbe52c0e6", "motivo": "Fomento del teletrabajo con incentivos fiscales y ayudas a la contratación: es la medida laboral más desarrollada y concreta del programa y figura en el resumen; cabe en el límite (78 palabras).", "texto": null, "cambio": null },
+        { "id": "c-0759ec6bd9", "motivo": "Línea de conciliación: guarderías en los centros de trabajo y permisos retribuidos, incluido el cuidado de animales de compañía, que es el rasgo propio de su postura.", "texto": null, "cambio": null },
+        { "id": "c-6969018a95", "motivo": "Línea de igualdad en el empleo: actualizar la ley de conciliación con compromisos de las administraciones para el acceso y la permanencia de las mujeres en el empleo.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-822ef8186f", "por_que_no": "Fondo de créditos a interés cero para autónomos y pymes: es concreta, pero empieza con «Por ello» y termina en «alguno de los siguientes fines:» sin la lista, así que no se entiende sola." },
+        { "id": "c-ac34e10acb", "por_que_no": "Coworking públicos en zonas que haya que revitalizar: es secundaria y no aparece en el resumen." }
+      ],
+      "nota": "No hay medidas concretas para la línea 1 del resumen (empleo estable apoyado en I+D+i, renovables, etc.) ni para el Pacto de Estado por la Igualdad en el Empleo o el plan para personas con discapacidad."
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        { "id": "c-656df0cd2e", "motivo": "Aumentar las subvenciones a la agricultura en detrimento de la ganadería: es la medida económica más característica de su filosofía, figura en el resumen y se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-ffb1bf0fd5", "motivo": "Línea contra la obsolescencia programada: más garantía, reparación fácil y libertad para elegir taller; es concreta y figura en el resumen.", "texto": null, "cambio": null },
+        { "id": "c-f235f1d979", "motivo": "Línea de turismo sostenible: Estrategia nacional de turismo sostenible y respetuoso con la naturaleza, los animales y los vecinos, que figura en el resumen.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-06368daa59", "por_que_no": "Censo y portal de empresas nuevas: es la única de este lote sobre pymes, pero es menor; la medida fuerte de esa línea, el fondo de créditos a interés cero, está en empleo." },
+        { "id": "c-e0d2ec280b", "por_que_no": "«Cese de las subvenciones al sector»: sin el título no se sabe de qué sector habla." },
+        { "id": "c-edeb77f02c", "por_que_no": "Redistribuir las ayudas hacia las explotaciones pequeñas: es de la misma línea agraria que la elegida y la representa menos." }
+      ],
+      "nota": "La retirada de las subvenciones a la pesca y el fondo para pymes (en el resumen) no están entre las candidatas de este tema."
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        { "id": "c-391c2fab54", "motivo": "Línea principal: sanidad pública y universal, devolviendo al sistema público los servicios privatizados; es corta y se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-d84bacf95e", "motivo": "Segunda línea, la mejora de la atención: más especialistas en psiquiatría y psicología en la sanidad pública; está ligada a su plan de prevención del suicidio y no hay que retocarla, a diferencia de la bucodental.", "texto": null, "cambio": null },
+        { "id": "c-66de186bde", "motivo": "Tercera línea, la propia de su postura: zonas en los hospitales para que los ingresados reciban la visita de sus animales; nombraba al partido y no hay otra medida del tema que cubra esa línea.", "texto": "Por ello, proponemos que los hospitales permitan el acceso de animales, habilitando una zona o sala, donde las personas que se encuentren ingresadas puedan recibir la visita de sus animales de compañía. Para ello, promoveremos un plan conjunto entre el Consejo Interterritorial del Sistema Nacional de Salud, el Estado y las comunidades autónomas, con los protocolos de seguridad e higiene adecuados.", "cambio": "Se quita «desde PACMA » tras «Por ello, »." }
+      ],
+      "casi": [
+        { "id": "c-e2590aa0ff", "por_que_no": "Atención bucodental básica gratuita: es igual de representativa para la línea 2, pero nombra a PACMA y la de psiquiatría no hay que tocarla." },
+        { "id": "c-4456fcc528", "por_que_no": "Reconocer las clínicas veterinarias como centros sanitarios: es de otro tema (medio ambiente), nombra a PACMA y el tema ya tiene medidas propias suficientes." }
+      ],
+      "nota": "No hay medida concreta sobre las listas de espera ni sobre el copago."
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        { "id": "c-174f230dc9", "motivo": "No hay medidas propias del tema; de las dos que se ofrecen, la de los mediadores interculturales en colegios e institutos es la más cercana a su línea de integración y acceso a derechos, y aparece en el resumen.", "texto": null, "cambio": null },
+        { "id": "c-c4d65309f5", "motivo": "Cambiar los criterios de matrícula para evitar la concentración de alumnado extranjero en algunos centros, contra la segregación escolar; figura en el resumen.", "texto": null, "cambio": null }
+      ],
+      "casi": [],
+      "nota": "Ambas son DE OTRO TEMA (educación) y se usan aquí porque no hay ninguna propia; por eso no se eligen en educación. No hay medidas concretas para las líneas 1 y 2 del resumen (derechos, acogida de refugiados y menores, campañas contra el racismo)."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        { "id": "c-37abed0e70", "motivo": "Primera línea de su postura y su reivindicación institucional más repetida: circunscripción única, sin barrera electoral y con escaños proporcionales a los votos.", "texto": null, "cambio": null },
+        { "id": "c-341f1c2e8b", "motivo": "Línea anticorrupción: la eliminación de los aforamientos, la primera medida de su apartado contra la corrupción; se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-90daa4ce8f", "motivo": "Línea de igualdad entre partidos en los medios públicos: los mismos minutos de vídeos electorales para todas las candidaturas; se entiende sola.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-a8fbf36480", "por_que_no": "«Toma en consideración obligatoria por el Congreso de los Diputados»: sin el título del apartado no se sabe que habla de las ILP." },
+        { "id": "c-1146d7cd66", "por_que_no": "Concurso de méritos para dirigir las radiotelevisiones públicas: es la línea 4, pero mezcla varias acciones (concursos, mandatos y financiación) y roza el límite de palabras." },
+        { "id": "c-b87a6475bf", "por_que_no": "Ley de Transparencia efectiva: es más genérica que la de los aforamientos." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        { "id": "c-03abb87b4f", "motivo": "Reducir la ratio de alumnos por profesor en todas las etapas: es la que mejor resume su apuesta por una educación pública de calidad y se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-1c991aa716", "motivo": "Línea del Pacto de Estado por la Educación pública: plazas públicas suficientes de 0 a 3 años, una medida concreta que figura en el resumen.", "texto": null, "cambio": null },
+        { "id": "c-97cecd8129", "motivo": "Línea de los valores propios de su postura: una opción de menú 100% vegetal en todos los comedores escolares, que figura en el resumen.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-093c53f77f", "por_que_no": "Más fondos para becas: es igual de propia de la línea 1, pero es más genérica que la ratio." },
+        { "id": "c-8b9e209f5f", "por_que_no": "Revisar los conciertos con la enseñanza privada: es representativa de la línea 2, pero esa línea ya la cubre la ratio." },
+        { "id": "c-cdf26b4a94", "por_que_no": "Libros de texto gratuitos: es de la misma línea que la de 0 a 3 años." }
+      ],
+      "nota": "c-c4d65309f5 y c-174f230dc9 se han usado en inmigración, así que no se eligen aquí. No hay medida concreta sobre la escuela laica ni sobre los contenidos de respeto a los animales."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        { "id": "c-7e3267b6be", "motivo": "Prohibir el uso de animales en todo tipo de espectáculos, tradiciones y festejos: es el núcleo de su identidad animalista, lo destaca en campaña (nota del 15-11-2026 contra un festejo con animales) y no nombra al partido.", "texto": null, "cambio": null },
+        { "id": "c-7f70f35564", "motivo": "Línea de protección de la naturaleza: proteger al menos el 30% del territorio en 2030, con cifra y plazo; no hay otra medida equivalente que no nombre al partido.", "texto": "Se propone ampliar las zonas marinas y terrestres protegidas, de manera que las áreas naturales protegidas de bosques, humedales, turberas, pastizales y ecosistemas costeros, que, actualmente solo suponen un 18% del territorio, abarquen, al menos, un 30% para 2030. Este objetivo debe ser vinculante a nivel nacional, en cooperación con los gobiernos autonómicos y locales, siendo fundamental, además, que la protección de la biodiversidad se tenga en cuenta en todas las políticas, de manera transversal.", "cambio": "Se sustituye «PACMA propone» por «Se propone»." },
+        { "id": "c-ac9b7741ae", "motivo": "Línea de clima y emisiones: nuevo Plan Nacional de Calidad del Aire contra las fuentes más contaminantes (combustibles fósiles, ganadería intensiva, transporte); es la única medida del lote que toca a la vez la transición y la ganadería, y cabe en el límite (79 palabras).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-a534ac9aa4", "por_que_no": "Prohibir la caza deportiva: muy propia de su postura y de las que más destaca, pero es la misma línea de protección animal que la primera, y además nombra a PACMA." },
+        { "id": "c-a88521aec1", "por_que_no": "Ley de protección para todos los animales sin excepciones (la «Ley Cero»): es central, pero nombra dos veces al partido y su propia proposición de ley de 2017, y quitarlo exigiría reescribirla." },
+        { "id": "c-3028f5dde8", "por_que_no": "Incluye el freno a nuevas macrogranjas, pero mezcla muchas acciones distintas (tráfico, disolventes, ahorro, renovables)." }
+      ],
+      "nota": "Las medidas concretas de la línea 2 del resumen (no autorizar ni ampliar explotaciones ganaderas, impuesto climático sobre la ganadería) no están entre las candidatas de este lote; c-ac9b7741ae es lo más cercano."
+    }
+  ]
+}

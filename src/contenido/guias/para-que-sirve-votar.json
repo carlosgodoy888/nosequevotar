@@ -1,0 +1,226 @@
+{
+  "orden": 1,
+  "nombre": "Para qué sirve votar",
+  "titulo": "¿Para qué sirve votar el 29 de noviembre?",
+  "tituloSeo": "Para qué sirve votar: Congreso, Senado y Gobierno",
+  "descripcion": "El 29 de noviembre eliges a los diputados y senadores de tu provincia, no al presidente. Qué decide cada cámara, cómo sale el Gobierno y qué no se vota ese día.",
+  "resumen": "Eliges diputados y senadores, no al presidente. Qué decide cada cámara y qué no se vota ese día.",
+  "entradilla": "El 29 de noviembre no eliges al presidente del Gobierno: eliges a los diputados y a los senadores de tu provincia. Después, el Congreso elige al presidente.",
+  "esencial": [
+    "Votas dos veces, al Congreso y al Senado. Son dos votos independientes.",
+    "El Congreso elige al presidente del Gobierno y tiene la última palabra en las leyes.",
+    "El Senado revisa las leyes: puede cambiarlas o vetarlas, pero el Congreso decide al final.",
+    "Tu voto se cuenta en tu provincia: allí se reparten sus escaños.",
+    "Ese día no se elige el gobierno de tu comunidad autónoma ni el de tu ayuntamiento: tienen sus propias elecciones."
+  ],
+  "secciones": [
+    {
+      "titulo": "Qué significan las dos papeletas",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Las Cortes Generales tienen dos cámaras, el Congreso de los Diputados y el Senado. Con cada papeleta eliges a tus representantes en una de ellas."
+        },
+        {
+          "tipo": "tabla",
+          "titulo": "Qué eliges con cada papeleta",
+          "columnas": ["", "Papeleta blanca: Congreso", "Papeleta sepia: Senado"],
+          "filas": [
+            ["A quién eliges", "A los diputados de tu provincia. En total son 350.", "A los senadores de tu provincia o de tu isla. En total se eligen 209."],
+            ["Cómo votas", "Eliges la lista de un partido, tal como viene.", "Marcas a personas: hasta tres en una provincia. Pueden ser de partidos distintos."],
+            ["Para qué sirve esa cámara", "Elige al presidente del Gobierno, aprueba las leyes y los presupuestos y controla al Gobierno.", "Revisa las leyes que aprueba el Congreso: puede cambiarlas o vetarlas."]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Además de los 209 senadores que se votan, los parlamentos autonómicos nombran a otros: uno por comunidad y uno más por cada millón de habitantes."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cómo se rellena cada papeleta lo tienes en la guía [cómo se vota](/guia/como-se-vota/)."
+        }
+      ]
+    },
+    {
+      "titulo": "No votas al presidente: lo elige el Congreso",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "No hay papeleta para elegir presidente. En la del Congreso están los candidatos de un partido en tu provincia; quien aspira a presidir el Gobierno solo aparece en la papeleta de la provincia por la que se presenta."
+        },
+        {
+          "tipo": "pasos",
+          "items": [
+            {
+              "titulo": "Se constituyen el Congreso y el Senado",
+              "texto": "Las dos cámaras que salgan de las urnas se reúnen por primera vez el 23 de diciembre."
+            },
+            {
+              "titulo": "El rey propone un candidato",
+              "texto": "Después de hablar con los partidos que han conseguido escaños, el rey propone un candidato a presidente del Gobierno."
+            },
+            {
+              "titulo": "El Congreso vota la investidura",
+              "texto": "El candidato necesita la mayoría absoluta: 176 de los 350 diputados. Si no la consigue, 48 horas después se vota otra vez y le basta con tener más votos a favor que en contra."
+            },
+            {
+              "titulo": "Si nadie lo consigue, se repiten las elecciones",
+              "texto": "Si pasan dos meses desde la primera votación y ningún candidato ha sido elegido, se disuelven las cámaras y se convocan nuevas elecciones."
+            }
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Por eso, quién gobierna no depende solo de qué partido queda primero. Depende de qué candidato reúne más apoyos en el Congreso, y los partidos pueden pactar para sumarlos."
+        }
+      ]
+    },
+    {
+      "titulo": "Por qué tu voto se cuenta en tu provincia",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Los 350 escaños del Congreso están repartidos entre las 50 provincias, Ceuta y Melilla. Cada provincia tiene dos como mínimo y el resto según su población. Ceuta y Melilla tienen uno cada una."
+        },
+        {
+          "tipo": "tabla",
+          "titulo": "Diputados que se eligen el 29 de noviembre en algunas circunscripciones",
+          "columnas": ["Circunscripción", "Diputados"],
+          "filas": [
+            ["Madrid", "38"],
+            ["Barcelona", "32"],
+            ["Valencia", "16"],
+            ["Sevilla", "12"],
+            ["Zaragoza", "7"],
+            ["Navarra", "5"],
+            ["Teruel", "3"],
+            ["Soria", "2"],
+            ["Ceuta", "1"]
+          ]
+        },
+        {
+          "tipo": "caja",
+          "titulo": "Cómo se reparten los escaños de una provincia",
+          "items": [
+            "Solo cuentan los votos de esa provincia. No se suman a los de otras.",
+            "Entran en el reparto las listas con al menos el 3 % de los votos válidos de la provincia.",
+            "Los escaños se asignan con el método D'Hondt, que los reparte según los votos de cada lista."
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Cuantos menos escaños reparte una provincia, más votos necesita una lista para conseguir uno. Donde se eligen dos o tres diputados, suelen repartírselos las listas más votadas. En Madrid o Barcelona, con más de treinta, entran listas con un porcentaje de votos mucho menor."
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Si una lista no consigue ningún escaño en tu provincia, los votos que ha recibido allí no pasan a otra provincia ni a otro partido."
+        }
+      ]
+    },
+    {
+      "titulo": "¿Tiene sentido votar a partidos distintos en el Congreso y en el Senado?",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Puedes hacerlo: son dos votos independientes y ninguno condiciona al otro. La decisión es tuya. Esto es lo que conviene saber."
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            "En el Congreso eliges la lista entera de un partido. En el Senado marcas personas, y pueden ser de partidos distintos entre sí.",
+            "En el Senado no hay reparto proporcional: salen elegidos los candidatos con más votos. En una provincia se eligen cuatro senadores y cada votante marca hasta tres.",
+            "Como la mayoría de los votantes marca a los tres candidatos de un mismo partido, el partido más votado de la provincia suele conseguir tres senadores y el segundo, uno.",
+            "El orden de los nombres dentro de cada partido lo decide el partido. Puedes marcar a quien quieras, no solo a los primeros."
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Tu voto al Congreso influye en quién puede ser presidente y en qué leyes salen adelante. Tu voto al Senado influye en quién tiene la mayoría en la cámara que revisa esas leyes."
+        },
+        {
+          "tipo": "caja",
+          "titulo": "Qué puede hacer el Senado",
+          "items": [
+            "Tiene dos meses para cambiar o vetar cada ley que le envía el Congreso.",
+            "Para vetar una ley necesita la mayoría absoluta de los senadores. El Congreso puede levantar el veto con mayoría absoluta o, pasados dos meses, con mayoría simple.",
+            "Si el Senado cambia una ley, el Congreso decide si acepta o no cada cambio.",
+            "Su voto es imprescindible para reformar la Constitución y para autorizar al Gobierno a intervenir una comunidad autónoma.",
+            "No vota la investidura del presidente ni puede hacer caer al Gobierno."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Para qué sirve un escaño de un partido que no gobierna",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "El Gobierno necesita mayoría en el Congreso para casi todo: la investidura, las leyes y los presupuestos. Si el partido del presidente no tiene 176 diputados, depende de los votos de otros."
+        },
+        {
+          "tipo": "lista",
+          "items": [
+            "Todos los diputados votan la investidura: a favor, en contra o abstención.",
+            "Votan cada ley y los presupuestos, y pueden negociar cambios a cambio de su apoyo.",
+            "Proponen leyes.",
+            "Controlan al Gobierno con preguntas y comisiones de investigación.",
+            "Con mayoría absoluta pueden aprobar una moción de censura, que sustituye al presidente por otro candidato."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Qué decide cada gobierno",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "El 29 de noviembre eliges a quienes hacen las leyes del Estado y eligen al Gobierno central. Muchas cosas del día a día dependen de tu comunidad autónoma o de tu ayuntamiento, que no se votan ahora."
+        },
+        {
+          "tipo": "tabla",
+          "titulo": "Quién decide qué, en líneas generales",
+          "columnas": ["Quién", "Algunas cosas que decide", "Cuándo se elige"],
+          "filas": [
+            ["El Estado: las Cortes y el Gobierno central", "Pensiones y Seguridad Social, leyes laborales, inmigración y nacionalidad, defensa y política exterior, los impuestos estatales y las normas básicas de sanidad y educación.", "El 29 de noviembre."],
+            ["Tu comunidad autónoma", "La gestión de hospitales y centros de salud, de colegios e institutos y de los servicios sociales; vivienda y urbanismo; y una parte de los impuestos.", "En las elecciones autonómicas."],
+            ["Tu ayuntamiento", "Agua, alumbrado, recogida de basura, limpieza y arreglo de las calles. Según el tamaño del municipio, también transporte urbano, bibliotecas o instalaciones deportivas.", "En las elecciones municipales."]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "Es un resumen. En muchas materias el Estado fija las normas básicas y las comunidades las desarrollan y las aplican. El reparto exacto está en la Constitución y en el estatuto de cada comunidad."
+        }
+      ]
+    },
+    {
+      "titulo": "Cómo se deciden los gobiernos autonómicos y municipales",
+      "bloques": [
+        {
+          "tipo": "parrafo",
+          "texto": "Igual que el Gobierno central: no votas directamente al presidente de tu comunidad ni a tu alcalde. Votas a quienes los eligen."
+        },
+        {
+          "tipo": "tabla",
+          "titulo": "Cómo se eligen el gobierno de tu comunidad y el de tu ayuntamiento",
+          "columnas": ["", "Comunidad autónoma", "Ayuntamiento"],
+          "filas": [
+            ["A quién votas", "A los diputados de tu parlamento autonómico.", "A los concejales de tu municipio."],
+            ["Quién elige al que gobierna", "El parlamento autonómico elige al presidente de la comunidad.", "Los concejales eligen al alcalde. Si ningún candidato reúne la mayoría absoluta, es alcalde quien encabeza la lista más votada."],
+            ["Cuándo se vota", "Cada cuatro años, salvo adelanto. Muchas comunidades votan el cuarto domingo de mayo, a la vez que las municipales; otras tienen fechas propias.", "Cada cuatro años, el cuarto domingo de mayo. Las próximas tocan en mayo de 2027."]
+          ]
+        },
+        {
+          "tipo": "parrafo",
+          "texto": "En los municipios más pequeños, la elección del alcalde tiene reglas algo distintas."
+        }
+      ]
+    }
+  ],
+  "fuentes": [
+    { "texto": "Constitución Española, artículos 66 a 69, 90, 99, 113, 137 a 155 y 167, en el Boletín Oficial del Estado", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229" },
+    { "texto": "Ley Orgánica del Régimen Electoral General, artículos 42, 162 a 166, 172, 180 y 196, en el Boletín Oficial del Estado", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672" },
+    { "texto": "Real decreto de convocatoria: diputados por circunscripción y fecha de constitución de las cámaras, en el Boletín Oficial del Estado", "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742" },
+    { "texto": "Ley reguladora de las Bases del Régimen Local, artículo 26, en el Boletín Oficial del Estado", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392" }
+  ],
+  "actualizado": "2026-11-16"
+}

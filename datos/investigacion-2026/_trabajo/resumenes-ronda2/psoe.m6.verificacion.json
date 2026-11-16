@@ -1,0 +1,62 @@
+{
+  "revisiones": [
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: faltaba la línea de integración europea, que tiene un bloque propio en el programa («Avanzar hacia una Unión Europea más integrada y democrática»). Se añade la propuesta de superar los bloqueos de la unanimidad (c-ac710fe079) y se quita la Corte Penal Internacional para hacer sitio.",
+        "Forma: «Plantea promover» repetía el verbo; queda «Propone impulsar».",
+        "Fidelidad: «cerrar la brecha con el 0,7 %» se cambia por «alcanzar el 0,7 %», que dice lo mismo con palabras más claras y coincide con la declaración de c-04cc1b9c2d.",
+        "Dudas del redactor: dejar fuera Balcanes, Ceuta y Melilla, Gibraltar y el tratado de armas nucleares por espacio es razonable. Es correcto no usar las citas de clima, pesca, PAC y fiscalidad. Las declaraciones c-b9d431cecd y c-04cc1b9c2d son apoyos de más y no sustituyen al programa, así que se mantienen. c-5826d985d4 se deja solo en la frase del 5 % para no pasar de 6 apoyos."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende el multilateralismo, reformar la ONU para limitar el veto en su Consejo de Seguridad y superar los bloqueos de la unanimidad en la Unión Europea.",
+          "apoyos": ["c-97d0aa3a0a", "c-bcdad7df47", "c-845fbedd47", "c-ac710fe079"]
+        },
+        {
+          "texto": "Propone impulsar la solución de los dos Estados en Israel y Palestina, con sanciones de la UE a quienes la obstaculicen, y respalda la soberanía de Ucrania.",
+          "apoyos": ["c-3d7efc980e", "c-7f189d8b56"]
+        },
+        {
+          "texto": "Pide reforzar la defensa común europea y modernizar las Fuerzas Armadas, y rechaza elevar el gasto militar al 5 % del PIB.",
+          "apoyos": ["c-7a8c9e6844", "c-3976f027c8", "c-bf8b6e65fd", "c-6c47bf4e63", "c-5826d985d4", "c-b9d431cecd"]
+        },
+        {
+          "texto": "Quiere alcanzar el 0,7 % de la renta nacional bruta en ayuda oficial al desarrollo.",
+          "apoyos": ["c-a141f0b6d9", "c-04cc1b9c2d"]
+        }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: faltaba la responsabilidad de las plataformas. El programa le dedica un bloque propio y pide responsabilidad penal para los directivos que no retiren contenidos ilegales o de odio (c-3ac9d23e25, c-02f9f982c5). Se añade a la frase de menores y redes y se acorta esa frase para no pasar de 90 palabras.",
+        "Fuerza del verbo: el programa usa «Establecer» y «Aprobar» para la edad mínima y la ley de menores. «Plantea» lo rebajaba y se cambia por «Propone».",
+        "Fidelidad: en la frase de la ley de IA, «Pide» se cambia por «Quiere», porque el programa se compromete a aprobarla y no se la pide a otros (c-ba287dca65, c-bc623e1bf5).",
+        "Dudas del redactor: es correcto no adoptar «tecnooligarcas» y dejar fuera el impuesto a las grandes tecnológicas y el deporte. El bloque de violencia digital contra las mujeres tiene muchas citas, como la tipificación de los deepfakes sexuales, pero no cabe en el límite de palabras. Queda cubierto en parte por la frase sobre plataformas."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone subir cada año la inversión pública en I+D hasta el 1,25 % del PIB, y hasta el 1,5 % en 2035.",
+          "apoyos": ["c-1bbf27aea8", "c-97af197805"]
+        },
+        {
+          "texto": "Propone una edad mínima de 16 años en redes sociales, con verificación obligatoria, y responsabilidad penal para directivos de plataformas que no retiren contenidos ilegales.",
+          "apoyos": ["c-1f5f867098", "c-02f9f982c5", "c-46f0e99a43", "c-3ac9d23e25"]
+        },
+        {
+          "texto": "Quiere una ley de inteligencia artificial con supervisión humana, etiquetado de contenidos generados y multas de hasta 35 millones de euros.",
+          "apoyos": ["c-ba287dca65", "c-bc623e1bf5", "c-ccf9e0dcd4"]
+        },
+        {
+          "texto": "En cultura, propone una Ley General de Cultura y un abono de cine de 15 euros mensuales para menores de 25 años.",
+          "apoyos": ["c-ce11b0e11c", "c-1927b3cd31"]
+        }
+      ]
+    }
+  ]
+}

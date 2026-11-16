@@ -1,0 +1,171 @@
+{
+  "partido": "eh-bildu",
+  "lote": "eh-bildu.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-25c764082b",
+          "motivo": "Línea de regulación del alquiler: la prórroga automática es lo que más destaca en campaña (Matute la anuncia como su primera iniciativa en el Congreso) y figura en el resumen; breve y votable.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-e08c341469",
+          "motivo": "Línea contra la especulación (tercer punto del resumen): prohibir la compra especulativa por fondos y grandes tenedores, que también anuncia en campaña; más central que eliminar las SOCIMI o el IVA turístico.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-2904a26dc7",
+          "motivo": "Línea de la vivienda como derecho (primer punto del resumen): prohibición estructural de desahucios de personas vulnerables sin alternativa habitacional.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-7a1a24e7f6",
+          "motivo": "Primera línea del resumen y primera medida del apartado de empleo del programa: jornada de 32 horas o cuatro días sin rebaja salarial; breve y con cifra.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-786a169ae8",
+          "motivo": "Línea del salario mínimo propio de cada comunidad con el estatal como suelo, la que más repite Matute en campaña; se entiende sola mejor que c-9aee4313ef.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-d739696e9f",
+          "motivo": "Línea de recuperar derechos frente al despido (tercer punto del resumen): indemnización por despido improcedente de al menos 45 días, con cifra y fácil de votar.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [
+        "Aviso, no fallo: c-612d6fae33 (tope al gas) es de otro tema (medio-ambiente-y-energia, en el otro lote). Su uso aquí está justificado porque solo hay dos medidas propias válidas (c-e57e928846 empieza con «Este mecanismo» y no se entiende sola), pero si se elige también en medio-ambiente-y-energia hay que quitarla de uno de los dos temas; si se quita de aquí, economía queda con dos medidas."
+      ],
+      "elegidas": [
+        {
+          "id": "c-5813161106",
+          "motivo": "Línea central del tema: que las grandes energéticas y alimentarias no trasladen las subidas de costes a los precios mientras aumentan márgenes; coincide con lo que Matute anuncia en campaña.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-a4fee8680d",
+          "motivo": "Línea de limitar temporalmente los precios de bienes y servicios esenciales en emergencias, distinta de la intervención en márgenes y recogida en el resumen.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-612d6fae33",
+          "motivo": "Línea de recuperar el «tope al gas», citada en el resumen; se usa de otro tema porque solo hay dos medidas propias válidas.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-59a97ecf0c",
+          "motivo": "Línea contra la privatización sanitaria (segundo punto del resumen): derogar la ley que permite externalizar servicios es la medida más clara y votable de su modelo; la primera línea (transferencia de competencias) no tiene medida que se entienda sola. No hay alternativa equivalente sin nombrar a otro partido, así que se aplica el cambio mínimo, que es correcto.",
+          "texto": "Derogar la Ley 15/1997 de 25 de abril, sobre habilitación de nuevas formas de gestión del Sistema Nacional de Salud, que permite la privatización y externalización de los servicios sanitarios.",
+          "cambio": "Se ha quitado «aprobada por el PP » (nombra a otro partido)."
+        },
+        {
+          "id": "c-e46654ecb5",
+          "motivo": "Línea de ampliar la cartera común con salud bucodental y visual para colectivos vulnerables (tercer punto del resumen), distinta de la de gestión pública.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-3b18027c27",
+          "motivo": "Línea de autogobierno sanitario y lengua (cuarto punto del resumen): reserva del 53 % de plazas MIR, EIR y PIR a quien domine las dos lenguas oficiales del País Vasco; la acción se entiende sola aunque mencione «la transferencia».",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-d66bcc1989",
+          "motivo": "Primera línea del resumen: regularización efectiva, accesible y estable; breve y votable.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-ca344b1f3c",
+          "motivo": "Segunda línea del resumen: rechazo a devoluciones sumarias, externalización de fronteras, CIE y disposiciones restrictivas del Pacto Europeo; todas las acciones van en el mismo sentido y se pueden votar juntas.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-eae44e50ed",
+          "motivo": "Tercera línea del resumen: acceso a sanidad, educación, vivienda y padrón sea cual sea la situación administrativa, coherente con el discurso de integración de su candidato en campaña.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-87d685216c",
+          "motivo": "Línea de derogaciones (segundo punto del resumen); la de Secretos Oficiales pasa de 80 palabras y esta es la única de esa línea que cabe. No hay alternativa equivalente sin nombrar a otros partidos, así que se aplica el cambio mínimo, que es correcto. La primera línea (derecho a decidir) no tiene medidas candidatas.",
+          "texto": "Derogar la modificación del artículo 135 de la constitución española que establece la prioridad del pago de deuda sobre la inversión social y pública.",
+          "cambio": "Se ha quitado «realizada por PP y PSOE » (nombra a otros partidos)."
+        },
+        {
+          "id": "c-d263fe33e6",
+          "motivo": "Línea de garantizar canales presenciales en la administración (tercer punto del resumen); 80 palabras, dentro del límite.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-7d0d3985f7",
+          "motivo": "Única otra medida propia válida del tema (las demás pasan de 80 palabras); completa la línea de acceso a la administración con procesos abreviados para prestaciones. La del euskera en la administración estatal es de otro tema y no procede usarla habiendo medidas propias.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        {
+          "id": "c-4d073d399d",
+          "motivo": "Única medida candidata; recoge la línea de aumentar la financiación hasta acercarse al 6 % de la UNESCO, que figura en el resumen.",
+          "texto": null,
+          "cambio": null
+        }
+      ]
+    }
+  ]
+}

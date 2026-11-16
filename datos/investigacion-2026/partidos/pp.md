@@ -4,8 +4,8 @@ Generado con `node scripts/investigacion/generar-md.mjs` a partir de `partidos.j
 
 - **Tipo:** partido
 - **Cabeza de cartel:** Alberto Núñez Feijóo, número 1 por Madrid
-- **Programa para el 29 de noviembre:** publicado (comprobado el 12 de noviembre de 2026)
-- **Citas recogidas:** 791 vigentes: 726 medidas, de ellas 443 concretas, y 65 posiciones. De programa, verificadas contra su página: 675 exactas y 116 normalizadas.
+- **Programa para el 29 de noviembre:** publicado (comprobado el 16 de noviembre de 2026)
+- **Citas recogidas:** 804 vigentes: 734 medidas, de ellas 451 concretas, y 70 posiciones. De programa, verificadas contra su página: 675 exactas y 116 normalizadas. Declaraciones verificadas abriendo su fuente: 13.
 - **Pendiente:** El programa deja sin texto ocho medidas numeradas (83, 109, 132, 164, 167, 173, 200 y 210), con el aviso «Permanezca atento a la campaña para conocer esta nueva medida» (pp. 34, 43, 48, 57, 58, 59, 65 y 67). Cuando las publique habrá que descargar la versión nueva y volver a extraer.
 
 ## Lo que dicen sus documentos
@@ -914,4 +914,50 @@ Programa de estas elecciones · 10 de noviembre de 2026 · 64 páginas · en cas
 - **249.** «Ampliaremos plantilla y mejoraremos los medios, incluyendo la digitalización del registro civil consular y el aumento de los procedimientos telemáticos.» (p. 57) · medida concreta · _Más plantilla y digitalización del registro civil consular_
 - **249.** «Revisaremos todos los contratos de externalización de servicios existentes.» (p. 57) · medida concreta · _Revisión de los contratos de externalización consular_
 - **249.** «Fortaleceremos la Unidad de Emergencia Consular del Ministerio de Asuntos Exteriores, mediante la creación de una centralita operativa las 24 horas con número único para canalizar llamadas de emergencia consular desde cualquier lugar del mundo.» (p. 57) · medida concreta · _Centralita de emergencia consular 24 horas con número único_
+
+## Lo que han dicho sus portavoces
+
+Declaraciones, no programa.
+
+### Vivienda
+
+- «Conmigo la vivienda estará dentro de una Vicepresidencia porque es el mayor problema de España. Pero lo importante no es que esté dentro de una Vicepresidencia, lo importante es que vamos a hacer un millón de viviendas.» · Alberto Núñez Feijóo, presidente del PP, candidato a la presidencia del Gobierno y número 1 por Madrid, (PP) · 14 de noviembre de 2026 · [declaración en medios: Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/11/14/feijoo-ratifica-que-situara-vivienda-en-una-vicepresidencia-si-gobierna-y-promete-hacer-un-millon-de-hogares/) · medida concreta · _Vivienda en una vicepresidencia y un millón de viviendas_
+
+### Economía y empresas
+
+- «Ningún gasto se mantendrá por inercia, solo por su utilidad, no habrá incentivo para quien conduce una empresa al desastre. En mi Gobierno nadie será premiado por gestionar mal» · Alberto Núñez Feijóo, presidente del PP, candidato a la presidencia del Gobierno y número 1 por Madrid, (PP) · 10 de noviembre de 2026 · [documento del partido: Partido Popular (pp.es)](https://www.pp.es/actualidad/articulos/feijoo-presenta-el-programa-del-pp-como-la-cura-con-la-que-sanar-una-espana-herida-y-la-respuesta-para-reconstruir-el-pais/) · posición · _Revisión del gasto público y de la gestión empresarial pública_
+
+### Inmigración
+
+- «Y esto es lo que vamos a hacer, establecer cupos máximos y vías legales para que la gente venga de forma ordenada y para que la inmigración sea legal, ordenada, vinculada a las necesidades de nuestro mercado laboral con el compromiso de integrarse en el cumplimiento de las leyes que nosotros hemos de cumplir» · Alberto Núñez Feijóo, presidente del PP, candidato a la presidencia del Gobierno y número 1 por Madrid, (PP) · 16 de noviembre de 2026 · [declaración en medios: Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/11/16/feijoo-avisa-en-lleida-que-el-pp-no-ignorara-los-riesgos-del-fundamentalismo-islamico-los-vamos-a-enfrentar/) · medida concreta · _Cupos máximos y vías legales de inmigración laboral_
+- «Ahora bien, si no se respetan nuestros principios básicos, si no se respetan nuestras leyes, evidentemente tenemos derecho a expulsar a esos inmigrantes» · Alberto Núñez Feijóo, presidente del PP, candidato a la presidencia del Gobierno y número 1 por Madrid, (PP) · 16 de noviembre de 2026 · [declaración en medios: Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/11/16/feijoo-avisa-en-lleida-que-el-pp-no-ignorara-los-riesgos-del-fundamentalismo-islamico-los-vamos-a-enfrentar/) · posición · _Expulsión de inmigrantes que incumplan las leyes_
+- «El PP no va a ignorar los riesgos del fundamentalismo islámico, los vamos a enfrentar» · Alberto Núñez Feijóo, presidente del PP, candidato a la presidencia del Gobierno y número 1 por Madrid, (PP) · 16 de noviembre de 2026 · [documento del partido: Partido Popular (pp.es)](https://www.pp.es/actualidad/articulos/feijoo-anuncia-un-pacto-nacional-por-la-agricultura-la-ganaderia-la-pesca-los-montes-y-sus-cadenas-de-valor/) · posición · _Postura ante el fundamentalismo islámico_
+
+### Democracia e instituciones
+
+- «En el primer Consejo de Ministros arrancará una auditoría de todo lo que han tocado y saqueado» · Alberto Núñez Feijóo, presidente del PP, candidato a la presidencia del Gobierno y número 1 por Madrid, (PP) · 14 de noviembre de 2026 · [documento del partido: Partido Popular (pp.es)](https://www.pp.es/actualidad/articulos/feijoo-resume-el-sanchismo-en-la-corrupcion-machismo-incompetencia-y-soberbia-de-abalos-y-puente-en-transportes-el-cambio-es-decencia/) · medida concreta · _Auditoría de la gestión del Gobierno saliente desde el primer Consejo de Ministros_
+- «No habrá indultos para los corruptos. Quien haya robado, lo pagará; todo se sabrá, todo tendrá consecuencias. No habrá impunidad. El cambio es decencia» · Alberto Núñez Feijóo, presidente del PP, candidato a la presidencia del Gobierno y número 1 por Madrid, (PP) · 14 de noviembre de 2026 · [documento del partido: Partido Popular (pp.es)](https://www.pp.es/actualidad/articulos/feijoo-resume-el-sanchismo-en-la-corrupcion-machismo-incompetencia-y-soberbia-de-abalos-y-puente-en-transportes-el-cambio-es-decencia/) · medida concreta · _Compromiso de no indultar a condenados por corrupción_
+- «Ningún gobernante debe reclamar para sí un poder que haya considerado abusivo en manos de otros, las leyes tienen que poder debatirse y votarse, hay que presentar presupuestos todos los años y el Gobierno debe poder ser controlado, responder preguntas y celebrar el debate sobre el estado de la nación» · Alberto Núñez Feijóo, presidente del PP, candidato a la presidencia del Gobierno y número 1 por Madrid, (PP) · 10 de noviembre de 2026 · [documento del partido: Partido Popular (pp.es)](https://www.pp.es/actualidad/articulos/feijoo-presenta-el-programa-del-pp-como-la-cura-con-la-que-sanar-una-espana-herida-y-la-respuesta-para-reconstruir-el-pais/) · posición · _Presupuestos anuales y control parlamentario del Gobierno_
+
+### Medio ambiente y energía
+
+- «Apuesta por la agricultura del carbono, “el que reduce la contaminación debería de cobrar”, y por un Pacto Nacional del Agua con modernización de regadíos, con una inversión de 40.000 millones de euros en infraestructuras hídricas» · el partido, nota de prensa oficial del PP, (PP) · 16 de noviembre de 2026 · [documento del partido: Partido Popular (pp.es)](https://www.pp.es/actualidad/articulos/feijoo-anuncia-un-pacto-nacional-por-la-agricultura-la-ganaderia-la-pesca-los-montes-y-sus-cadenas-de-valor/) · medida concreta · _Feijóo propone agricultura del carbono y un Pacto Nacional del Agua con 40.000 millones en infraestructuras_
+
+### Seguridad y justicia
+
+- «Entre las medidas presentadas a los sindicatos y asociaciones de las FyCSE destacan el endurecimiento del Código Penal contra los desórdenes violentos, la recuperación del agravante por actuar con el rostro oculto, la multiplicación por cinco de las multas por vandalizar el espacio público hasta los 3.000 euros, el castigo a las bandas que utilicen a menores para delinquir y el refuerzo de la lucha contra la multirreincidencia y la okupación.» · el partido, nota de prensa oficial del PP, (PP) · 12 de noviembre de 2026 · [documento del partido: Partido Popular (pp.es)](https://www.pp.es/actualidad/articulos/feijoo-se-compromete-en-cataluna-a-dar-a-las-fycse-la-autoridad-que-se-merecen-estare-al-lado-de-quienes-levantan-espana-y-enfrente-de-quienes-la-destrozan/) · medida concreta · _Plan de seguridad presentado a sindicatos policiales_
+
+### Impuestos
+
+- «Quiero deciros que el primer año no pagaréis el impuesto de la renta de las personas físicas. Quiero deciros que tendréis una deducción del 75% el segundo, del 50% el tercer año y del 25% el cuarto año» · Alberto Núñez Feijóo, presidente del PP, candidato a la presidencia del Gobierno y número 1 por Madrid, (PP) · 13 de noviembre de 2026 · [documento del partido: Partido Popular (pp.es)](https://www.pp.es/actualidad/articulos/feijoo-pide-el-voto-a-los-jovenes-para-devolverles-todo-lo-que-el-gobierno-les-ha-quitado-no-os-voy-a-fallar-votad-con-ganas-al-pp/) · medida concreta · _Exención y rebaja escalonada del IRPF en el primer empleo joven_
+
+### Igualdad y derechos
+
+- «La libertad, la igualdad y la dignidad de las mujeres son innegociables. Y esto lo tienen que saber todos los inmigrantes que estamos dispuestos a acoger» · Alberto Núñez Feijóo, presidente del PP, candidato a la presidencia del Gobierno y número 1 por Madrid, (PP) · 16 de noviembre de 2026 · [declaración en medios: Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/11/16/feijoo-avisa-en-lleida-que-el-pp-no-ignorara-los-riesgos-del-fundamentalismo-islamico-los-vamos-a-enfrentar/) · posición · _Igualdad de las mujeres como exigencia a inmigrantes_
+
+### Campo y medio rural
+
+- «Señala que en el primer Consejo Europeo al que asista se sumará a la moratoria regulatoria que ya han pedido algunos países de la UE, y toda obligación que el Gobierno de España añada a la legislación europea “será derogada”» · el partido, nota de prensa oficial del PP, (PP) · 16 de noviembre de 2026 · [documento del partido: Partido Popular (pp.es)](https://www.pp.es/actualidad/articulos/feijoo-anuncia-un-pacto-nacional-por-la-agricultura-la-ganaderia-la-pesca-los-montes-y-sus-cadenas-de-valor/) · medida concreta · _Feijóo se sumará a la moratoria regulatoria europea y derogará las exigencias añadidas por España_
+
+Sin declaraciones recogidas sobre: Sanidad, Educación, Familias y servicios sociales, Pensiones, Transporte e infraestructuras, Organización territorial, Ciencia, cultura y digital.
 

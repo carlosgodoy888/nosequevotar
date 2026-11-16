@@ -1,0 +1,34 @@
+{
+  "revisiones": [
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: el resumen dejaba fuera toda la adaptación al cambio climático, una línea de peso en el programa (apartado 5.3, plan PNACC, agencia estatal de adaptación) y que se repite en dos capítulos: la prohibición por ley de edificar en zonas inundables y en los primeros 500 metros del litoral (c-d751b6d064, c-6d59c9c5c3). Se añade en la última frase.",
+        "Fidelidad y alcance: la cita c-4b7f3026d7 se compromete a cumplir el calendario de cierre de todas las centrales nucleares y pone Almaraz como ejemplo; la frase lo reducía a Almaraz. Se reformula como calendario de cierre nuclear, con Almaraz en 2027-2028.",
+        "Para no pasar de 90 palabras se quita «también» y se ajusta la redacción de la segunda frase (redes de distribución de titularidad pública), sin cambiar lo que dice. Queda en 90 palabras contando los signos % y en 87 sin contarlos.",
+        "Dudas del redactor: no usar las 4 declaraciones es correcto, porque el control de precios de la energía ya está en el programa con más detalle y lo del tren y los aeropuertos es de transporte. Quedan fuera, por espacio, la fiscalidad verde, los residuos y la mayor parte del bloque de bienestar animal. Este bloque se toca solo a través de las macrogranjas y en la sección de animales encaja mejor. Es una omisión aceptable con el límite de palabras.",
+        "Neutralidad: sin adjetivos valorativos ni términos cargados. «Oligopolio» y «emergencia climática» no se usan. Todos los ids existen en el tema."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone destinar por ley el 3,5 % del PIB anual a la transición ecológica, con electricidad 100 % renovable en 2040 y neutralidad climática en 2050.",
+          "apoyos": ["c-3cb6a198ab", "c-6d646fc7e5", "c-6ce01a9f30", "c-4941e37296"]
+        },
+        {
+          "texto": "Plantea redes de distribución de titularidad pública, una comercializadora pública y tres horas diarias de luz gratis para todos los hogares.",
+          "apoyos": ["c-24155a7783", "c-b05df902c8", "c-be296fb898", "c-ac16169348"]
+        },
+        {
+          "texto": "Defiende cumplir el calendario de cierre nuclear, con Almaraz en 2027-2028, y retirar los ciclos combinados de gas hasta 2045.",
+          "apoyos": ["c-4b7f3026d7", "c-e9948cc43c"]
+        },
+        {
+          "texto": "Quiere una gestión pública directa del agua, prohibir edificar en zonas inundables, proteger el 30 % del territorio y no autorizar nuevas macrogranjas.",
+          "apoyos": ["c-a25d2bba3c", "c-d751b6d064", "c-6d59c9c5c3", "c-bf910804e8", "c-218fa7612c"]
+        }
+      ]
+    }
+  ]
+}

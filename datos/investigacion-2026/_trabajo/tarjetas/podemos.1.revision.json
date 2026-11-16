@@ -1,0 +1,161 @@
+{
+  "partido": "podemos",
+  "lote": "podemos.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-c3674c05e5", "motivo": "Primera línea de su resumen (bajar los alquileres un 40 % en todo el Estado), con cifra, y la que su candidata repite en campaña («bajar el precio de los alquileres un 40 por ciento», «con un real decreto»).", "texto": null, "cambio": null },
+        { "id": "c-704bfb22d3", "motivo": "Tercera línea: ampliar el alquiler social expropiando el uso del 50 % de las viviendas de grandes tenedores; es la otra medida que más repite en campaña («expropiar más de 650.000 viviendas a los fondos buitre»). Empieza por «Estas políticas…», pero se entiende sola y cabe en 80 palabras (69).", "texto": null, "cambio": null },
+        { "id": "c-2928d9c44b", "motivo": "Segunda línea: moratoria a la compra que no sea para vivir; en campaña la resume como «que solo se puedan comprar casas para vivir», repetido en tres declaraciones, más que los pisos turísticos o el límite por propietario.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": []
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-66556f1a7b", "motivo": "Sin medidas propias del tema. Segunda línea del resumen (empresa pública de energía frente a los gigantes privados para bajar la factura); es lo que más destaca en campaña en economía: «recuperar para lo público una energética como Repsol», «Hay que nacionalizar Repsol».", "texto": null, "cambio": null },
+        { "id": "c-bd5ff8f755", "motivo": "La otra pata de la misma línea energética, en clave económica: intervenir el mercado eléctrico y pagar cada megavatio-hora según su coste de producción en vez del precio marginalista («No puedes ganar dinero con que la gente ponga la calefacción»). «En este sentido» no impide entenderla sola.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-7bf39c9db5", "motivo": "Primera línea del resumen: derogar de inmediato las leyes que permiten privatizar la sanidad (también la educación y las residencias, misma acción).", "texto": null, "cambio": null },
+        { "id": "c-5ac935f195", "motivo": "Tercera línea: garantizar el aborto en la sanidad pública, tema que la candidata ha defendido en campaña. La mención impersonal a la legislatura pasada no atribuye el logro a la candidatura.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-e349f391c7", "motivo": "Segunda línea del resumen y la propuesta más concreta de su postura: regularización inmediata de quienes viven y trabajan en España y nacionalidad por carta de naturaleza.", "texto": null, "cambio": null },
+        { "id": "c-acaf170cdc", "motivo": "Tercera línea: derogar la ley de extranjería y cerrar los CIE, con el fin de las redadas y la protección frente a la deportación de quien denuncie delitos de odio; todas las acciones van en la misma dirección y se puede votar en bloque.", "texto": null, "cambio": null },
+        { "id": "c-1bbff85df1", "motivo": "Completa la tercera línea en el plano europeo: derogar el Pacto Europeo de Migración y Asilo.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-6c6af2f86c", "motivo": "Única medida propia; segunda línea del resumen: generalizar referéndums y presupuestos participativos.", "texto": null, "cambio": null },
+        { "id": "c-392de48155", "motivo": "Tercera línea del resumen: DNI español y derecho al voto para quien vive y trabaja en España (medida de inmigración que allí no se usa).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-3a2da0dfcf", "motivo": "Única medida propia; segunda línea del resumen: educación infantil pública, universal y gratuita de 0 a 3 años.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-6798ce5b44", "motivo": "Segunda línea del resumen con su enfoque ambiental: pagar cada megavatio-hora según su coste de producción para que dejen de ser rentables las energías más contaminantes, con pago progresivo según el consumo.", "texto": null, "cambio": null },
+        { "id": "c-62efb8a614", "motivo": "Primera línea del resumen: subir los impuestos sobre los beneficios del oligopolio energético y usar lo recaudado para acelerar la transición (medida de impuestos que allí no se usa; entra porque dos medidas propias se han cedido a economía, que no tiene ninguna).", "texto": null, "cambio": null },
+        { "id": "c-4911c51cf0", "motivo": "Línea propia del tema en agua: quitar a los fondos especulativos los derechos de riego que acaparan.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-c25752eab1", "motivo": "Primera línea del resumen: salir de la OTAN cuanto antes y no aumentar el gasto militar, que es lo que más repite su candidata en campaña. Nombra a Donald Trump, pero no hay alternativa igual de representativa.", "texto": null, "cambio": null },
+        { "id": "c-2104d71785", "motivo": "Segunda línea: ruptura de relaciones con Israel y embargo de armas; no hay alternativa sin el nombre del partido, así que se quita solo «desde Podemos».", "texto": "Por supuesto, defendemos la ruptura inmediata de todas las relaciones diplomáticas y comerciales con el estado genocida de Israel y, en particular, un embargo a la compra y a la venta de armamento a dicho país.", "cambio": "Se quita «desde Podemos » tras «Por supuesto, »." }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-64704f1246", "motivo": "Tercera línea del resumen: formar en igualdad a los operadores jurídicos; es la medida propia que mejor se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-e6c84c1484", "motivo": "Misma tercera línea, otra acción: prohibir el lucro de terceros con la prostitución. Trae una errata del original («mediante como») y añade la regularización como medio, pero lo principal se entiende y no hay alternativa limpia.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-3114014229", "motivo": "Única medida propia; primera línea del resumen: subir el ingreso mínimo vital, ampliar su cobertura y reducir burocracia como paso hacia una renta básica.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-86ac06e8c2", "motivo": "Corazón de su postura (que paguen más las grandes fortunas): impuesto a los grandes patrimonios, lo que su candidata llama en campaña el «impuestazo a las grandes fortunas».", "texto": null, "cambio": null },
+        { "id": "c-2ba3bd5a8a", "motivo": "Tercera línea, con cifra: impuesto del 50 % a los beneficios extraordinarios de las empresas del IBEX.", "texto": null, "cambio": null },
+        { "id": "c-f16b92363d", "motivo": "Segunda línea: igualar en el IRPF las rentas del capital y las del trabajo, distinta de gravar el patrimonio o los beneficios empresariales.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-ecb093bfa6", "motivo": "Primera línea del resumen, nombrada expresamente: aplicar todas las medidas de la ley del «solo sí es sí».", "texto": null, "cambio": null },
+        { "id": "c-d4817a4f34", "motivo": "Misma línea feminista por la vía del dinero: desplegar todos los recursos del Pacto de Estado contra la Violencia de Género, cercana al presupuesto de 1.000 millones que destaca en campaña.", "texto": null, "cambio": null },
+        { "id": "c-1a10c32093", "motivo": "Cuarta línea: laicismo, fin del concordato y de los privilegios fiscales de la Iglesia.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-feefe0055e", "motivo": "Única medida propia y primera línea del resumen: subir las pensiones más bajas y las no contributivas para que ninguna sea inferior al SMI, protegiendo el sistema público.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-15ddc9ec43", "motivo": "Primera línea del resumen: mantener y ampliar los descuentos al transporte público urbano e interurbano.", "texto": null, "cambio": null },
+        { "id": "c-7e6489e2f3", "motivo": "Tercera línea: ampliar las zonas de bajas emisiones y ayudas para que las familias con menos recursos tengan un coche eléctrico al precio de uno de combustión.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": []
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-46bc6498db", "motivo": "Tercera línea del resumen y lo que destaca en campaña (el «oligopolio» de la alimentación): intervenir los márgenes de beneficio de la alimentación protegiendo a pequeños comercios y productores, lo que además recoge su primera línea. 77 palabras; Mercadona es una empresa, no un partido.", "texto": null, "cambio": null },
+        { "id": "c-9fcecf3f86", "motivo": "Segunda línea: leyes para impedir que los grandes fondos sigan acumulando tierras.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": []
+    }
+  ]
+}

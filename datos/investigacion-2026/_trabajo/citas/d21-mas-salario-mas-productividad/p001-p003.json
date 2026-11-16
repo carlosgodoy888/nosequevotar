@@ -1,0 +1,298 @@
+{
+  "fuente": "d21-mas-salario-mas-productividad",
+  "partido": "d21",
+  "paginas": [
+    1,
+    3
+  ],
+  "citas": [
+    {
+      "cita": "Ha llegado el momento de dar un giro radical a nuestra política económica y concentrar todas las energías del país en una meta inaplazable: elevar la productividad, reducir las cargas fiscales al trabajo y hacer que los sueldos en España crezcan con la fuerza y la dignidad que nuestra sociedad merece.",
+      "pagina": 2,
+      "apartado": [
+        "Más salario, más productividad"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Productividad, menos impuestos al trabajo y subida de salarios",
+      "etiquetas": [
+        "empleo",
+        "economía",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "desplegaremos un Plan Estatal de Dinamización e Integración de la IA a nivel nacional para mejorar nuestra productividad en todos los sectores.",
+      "pagina": 2,
+      "apartado": [
+        "Más salario, más productividad",
+        "Productividad, productividad y más productividad",
+        "Plan Estatal de Dinamización e Integración de la Inteligencia Artificial"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Plan estatal de integración de la inteligencia artificial",
+      "etiquetas": [
+        "inteligencia artificial",
+        "economía",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Se involucrará a las empresas y agentes sociales de cada sector, facilitando la transmisión de conocimiento y buenas prácticas para la integración de la IA con el objetivo de mejorar nuestra competitividad en todos los sectores, tanto el tecnológico como los más tradicionales.",
+      "pagina": 2,
+      "apartado": [
+        "Más salario, más productividad",
+        "Productividad, productividad y más productividad",
+        "Plan Estatal de Dinamización e Integración de la Inteligencia Artificial"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Participación de empresas y agentes sociales en la integración de la IA",
+      "etiquetas": [
+        "inteligencia artificial",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En paralelo, se pondrá en marcha un sistema de monitorización avanzado del impacto de la IA en el empleo para poder tomar medidas correctivas o de apoyo con agilidad, mitigar desajustes sociales y adaptar políticas en otras áreas como educación.",
+      "pagina": 2,
+      "apartado": [
+        "Más salario, más productividad",
+        "Productividad, productividad y más productividad",
+        "Plan Estatal de Dinamización e Integración de la Inteligencia Artificial"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Monitorización del impacto de la IA en el empleo",
+      "etiquetas": [
+        "inteligencia artificial",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "para que el esfuerzo y la innovación se traduzcan de inmediato en la nómina, los incentivos y bonus salariales ligados a aumentos objetivos y verificables de productividad tributarán en el IRPF del trabajador a un tipo único del 5%, hasta 5.000€ al año.",
+      "pagina": 2,
+      "apartado": [
+        "Más salario, más productividad",
+        "Productividad, productividad y más productividad",
+        "Incentivo Fiscal al Salario por Productividad Real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tipo del 5% en el IRPF para bonus por productividad",
+      "etiquetas": [
+        "impuestos",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Para quienes hoy pagan de media menos de un 5% de IRPF, estos pluses no tributarán nada ni les harán perder ninguna deducción.",
+      "pagina": 2,
+      "apartado": [
+        "Más salario, más productividad",
+        "Productividad, productividad y más productividad",
+        "Incentivo Fiscal al Salario por Productividad Real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Exención de pluses de productividad para tipos medios bajos",
+      "etiquetas": [
+        "impuestos",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La empresa que comparta esa mejora con su plantilla tendrá una bonificación del 50% en su cotización a la Seguridad Social por ese extra, que llegará al 75% en las PYMES de menos de 50 trabajadores.",
+      "pagina": 2,
+      "apartado": [
+        "Más salario, más productividad",
+        "Productividad, productividad y más productividad",
+        "Incentivo Fiscal al Salario por Productividad Real"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bonificación de cotizaciones por bonus de productividad",
+      "etiquetas": [
+        "seguridad social",
+        "empresas",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "despolitizaremos la fijación del Salario Mínimo Interprofesional mediante un Órgano Técnico Independiente que evaluará anualmente el contexto macroeconómico, la productividad y la mediana salarial (incluyendo cláusulas de revisión por inflación y \"filtros de prudencia\" específicos para colectivos vulnerables, como los jóvenes o las pequeñas empresas).",
+      "pagina": 3,
+      "apartado": [
+        "Más salario, más productividad",
+        "Un marco legal favorable a las subidas salariales",
+        "Actualización del SMI por un Órgano Técnico e Independiente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Órgano técnico independiente para fijar el salario mínimo",
+      "etiquetas": [
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Estableceremos una senda plurianual con el objetivo de que el SMI no baje de los 2/3 de la mediana salarial de nuestro país, pero ofreciendo a las empresas certidumbre absoluta para planificar adecuadamente sus costes laborales.",
+      "pagina": 3,
+      "apartado": [
+        "Más salario, más productividad",
+        "Un marco legal favorable a las subidas salariales",
+        "Actualización del SMI por un Órgano Técnico e Independiente"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Senda plurianual del SMI ligada a la mediana salarial",
+      "etiquetas": [
+        "empleo",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "impulsaremos la mejora de los salarios mediante incentivos fiscales estableciendo una deducción en el Impuesto sobre Sociedades para las empresas que incrementen los salarios de sus trabajadores por encima del IPC, con un incentivo reforzado para las mejoras salariales de los trabajadores jóvenes.",
+      "pagina": 3,
+      "apartado": [
+        "Más salario, más productividad",
+        "Un marco legal favorable a las subidas salariales",
+        "Subir Sueldos Tendrá Recompensa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Deducción en Sociedades por subir salarios por encima del IPC",
+      "etiquetas": [
+        "impuestos",
+        "empleo",
+        "juventud"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "La deducción se calculará sobre el incremento salarial real, de forma que las empresas que más contribuyan a mejorar el poder adquisitivo de sus empleados obtengan un mayor beneficio fiscal. El sistema será automático y sencillo, utilizando los datos salariales y de cotización ya disponibles en la Agencia Tributaria y la Seguridad Social, sin nuevas declaraciones ni obligaciones administrativas para las empresas.",
+      "pagina": 3,
+      "apartado": [
+        "Más salario, más productividad",
+        "Un marco legal favorable a las subidas salariales",
+        "Subir Sueldos Tendrá Recompensa"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Cálculo y aplicación automática de la deducción por subida salarial",
+      "etiquetas": [
+        "impuestos",
+        "burocracia",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "el Estado predicará con el ejemplo exigiendo por ley en todos los pliegos de contratación pública —especialmente en servicios intensivos en mano de obra como limpieza, seguridad, transporte o construcción— el cumplimiento estricto y certificado de convenios colectivos con salarios dignos.",
+      "pagina": 3,
+      "apartado": [
+        "Más salario, más productividad",
+        "Un marco legal favorable a las subidas salariales",
+        "Compra Pública Ejemplar - Ni un Euro Público a Empresas con Sueldos Precarios"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Exigencia legal de cumplir convenios en la contratación pública",
+      "etiquetas": [
+        "contratación pública",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mediante auditorías automáticas cruzando datos con la Seguridad Social, sancionaremos o rescindiremos contratos a cualquier empresa licitadora que intente competir mediante dumping salarial, tanto nacional como extranjera.",
+      "pagina": 3,
+      "apartado": [
+        "Más salario, más productividad",
+        "Un marco legal favorable a las subidas salariales",
+        "Compra Pública Ejemplar - Ni un Euro Público a Empresas con Sueldos Precarios"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sanción o rescisión a licitadores con dumping salarial",
+      "etiquetas": [
+        "contratación pública",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "impulsaremos una cultura de éxito compartido mediante un marco voluntario y bonificado de participación de los trabajadores en los beneficios.",
+      "pagina": 3,
+      "apartado": [
+        "Más salario, más productividad",
+        "Un marco legal favorable a las subidas salariales",
+        "Incentivos al Reparto de Beneficios con los Trabajadores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Marco voluntario de participación de trabajadores en beneficios",
+      "etiquetas": [
+        "empleo",
+        "empresas"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las empresas que implanten esquemas transparentes de reparto de ganancias con su plantilla disfrutarán de una exención fiscal y de cotizaciones sobre esos importes variables, siempre que se cumpla una condición innegociable: que el dinero extra no sustituya ni congele la subida periódica del salario base fijo, garantizando un suelo salarial sólido y un techo de ingresos abierto al crecimiento colectivo de todos los trabajadores.",
+      "pagina": 3,
+      "apartado": [
+        "Más salario, más productividad",
+        "Un marco legal favorable a las subidas salariales",
+        "Incentivos al Reparto de Beneficios con los Trabajadores"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Exención fiscal y de cotizaciones del reparto de beneficios",
+      "etiquetas": [
+        "impuestos",
+        "seguridad social",
+        "empleo"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

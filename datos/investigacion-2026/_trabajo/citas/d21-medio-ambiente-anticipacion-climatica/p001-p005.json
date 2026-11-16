@@ -1,0 +1,593 @@
+{
+  "fuente": "d21-medio-ambiente-anticipacion-climatica",
+  "partido": "d21",
+  "paginas": [
+    1,
+    5
+  ],
+  "citas": [
+    {
+      "cita": "La buena noticia es que España tiene ingenieros, científicos, agricultores, pescadores y empresas punteras que ya saben cómo hacerlo mejor. Por eso proponemos pasar de reaccionar a anticipar: prevención, datos y talento al servicio de lo que más queremos proteger.",
+      "pagina": 2,
+      "apartado": [
+        "Medio ambiente y adaptación climática: anticipar para proteger"
+      ],
+      "numero": null,
+      "clase": "posicion",
+      "medida_concreta": false,
+      "nota": "Política ambiental basada en prevención, datos y talento",
+      "etiquetas": [
+        "medio ambiente",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Prevenir Sale Más Barato que Apagar: invertiremos en el monte todo el año, no solo en agosto.",
+      "pagina": 2,
+      "apartado": [
+        "Gestión forestal frente a los incendios",
+        "Prevenir Sale Más Barato que Apagar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Inversión en el monte durante todo el año",
+      "etiquetas": [
+        "montes",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Gestionaremos un millón de hectáreas anuales, la escala que la ciencia forestal considera necesaria, para romper la continuidad del combustible en nuestras sierras. Lo haremos con aliados que ya existen: ganadería extensiva, castañares, olivares y cultivos que actúan como cortafuegos vivos y dan renta al mundo rural, junto a quemas controladas por profesionales.",
+      "pagina": 2,
+      "apartado": [
+        "Gestión forestal frente a los incendios",
+        "Prevenir Sale Más Barato que Apagar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Gestión forestal de un millón de hectáreas anuales",
+      "etiquetas": [
+        "montes",
+        "medio rural",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Rebajaremos el IVA de los trabajos de prevención y acabaremos con las trabas para recuperar bancales y fincas abandonadas.",
+      "pagina": 2,
+      "apartado": [
+        "Gestión forestal frente a los incendios",
+        "Prevenir Sale Más Barato que Apagar"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Rebaja del IVA en prevención y menos trabas a fincas abandonadas",
+      "etiquetas": [
+        "montes",
+        "impuestos",
+        "medio rural"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Saber Antes, Actuar Mejor: convertiremos la predicción de riesgo que ya elabora la AEMET en un sistema de alerta operativa: cuando se acerque una jornada de riesgo extremo, los medios se desplegarán con antelación y la población de las zonas afectadas recibirá el aviso en su móvil, con instrucciones claras.",
+      "pagina": 2,
+      "apartado": [
+        "Gestión forestal frente a los incendios",
+        "Saber Antes, Actuar Mejor"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Sistema de alerta operativa de incendios basado en AEMET",
+      "etiquetas": [
+        "emergencias",
+        "montes"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Igual que hoy cualquiera puede comprobar si su casa está en zona inundable, todo ciudadano podrá consultar el riesgo de incendio de su vivienda, sus rutas de evacuación y sus puntos seguros.",
+      "pagina": 2,
+      "apartado": [
+        "Gestión forestal frente a los incendios",
+        "Saber Antes, Actuar Mejor"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Consulta pública del riesgo de incendio por vivienda",
+      "etiquetas": [
+        "emergencias",
+        "montes"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y ningún pueblo se quedará sin plan de autoprotección por falta de técnicos: recibirá apoyo para diseñarlo y ejecutarlo.",
+      "pagina": 2,
+      "apartado": [
+        "Gestión forestal frente a los incendios",
+        "Saber Antes, Actuar Mejor"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Apoyo técnico a los municipios para planes de autoprotección",
+      "etiquetas": [
+        "emergencias",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Profesionales Todo el Año: la ley ya exige que los bomberos forestales trabajen todo el año, pero no se cumple en todo el país. La haremos cumplir, con financiación estatal condicionada a que cada Comunidad tenga operativos estables, formados y equipados que en invierno trabajen en la prevención del monte.",
+      "pagina": 3,
+      "apartado": [
+        "Gestión forestal frente a los incendios",
+        "Profesionales Todo el Año"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Bomberos forestales todo el año con financiación estatal condicionada",
+      "etiquetas": [
+        "montes",
+        "emergencias",
+        "empleo público"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Cada gran incendio contará en su puesto de mando con analistas que lean el fuego en tiempo real con satélites, sensores y modelos predictivos, para anticiparse a él en lugar de perseguirlo.",
+      "pagina": 3,
+      "apartado": [
+        "Gestión forestal frente a los incendios",
+        "Profesionales Todo el Año"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Analistas de incendios en los puestos de mando",
+      "etiquetas": [
+        "emergencias",
+        "montes"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y los datos de cada incendio (perímetro, medios desplegados y evolución) serán públicos y en tiempo real, para que universidades y empresas españolas innoven con ellos.",
+      "pagina": 3,
+      "apartado": [
+        "Gestión forestal frente a los incendios",
+        "Profesionales Todo el Año"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Publicación en tiempo real de los datos de cada incendio",
+      "etiquetas": [
+        "emergencias",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Restaurar Rápido, Replantar con Cabeza: tras un gran incendio, las obras urgentes para proteger el suelo y el agua se contratarán en días, no en meses, antes de que lleguen las lluvias.",
+      "pagina": 3,
+      "apartado": [
+        "Gestión forestal frente a los incendios",
+        "Restaurar Rápido, Replantar con Cabeza"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Contratación urgente de obras de restauración tras incendios",
+      "etiquetas": [
+        "montes",
+        "contratación pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y la regeneración seguirá criterios científicos: paisajes en mosaico y especies preparadas para el clima que viene, en lugar de repoblar por inercia lo mismo que ardió.",
+      "pagina": 3,
+      "apartado": [
+        "Gestión forestal frente a los incendios",
+        "Restaurar Rápido, Replantar con Cabeza"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Regeneración forestal con criterios científicos tras incendios",
+      "etiquetas": [
+        "montes",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Que el Agua la Gestionen los Que Saben: crearemos una Comisión Técnica del Agua, independiente y con una dirección avalada por las Cortes, que apruebe un Plan Director de Inversiones a largo plazo con un calendario vinculante, gobierne quien gobierne.",
+      "pagina": 3,
+      "apartado": [
+        "Agua: gestión experta y ni una gota perdida",
+        "Que el Agua la Gestionen los Que Saben"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Comisión Técnica del Agua independiente y plan director de inversiones",
+      "etiquetas": [
+        "agua",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Las Confederaciones Hidrográficas estarán dirigidas por profesionales de acreditada solvencia en gestión hídrica, con procedimientos abiertos y meritocráticos, y una ley marco pondrá orden en la maraña de normas que hoy retrasa cada obra durante años.",
+      "pagina": 3,
+      "apartado": [
+        "Agua: gestión experta y ni una gota perdida",
+        "Que el Agua la Gestionen los Que Saben"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Dirección profesional de confederaciones hidrográficas y ley marco del agua",
+      "etiquetas": [
+        "agua",
+        "administración pública"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Escudo Contra Inundaciones: ejecutaremos al 100% las obras comprometidas en los planes de gestión del riesgo de inundación, cuya ejecución va muy por detrás de lo previsto: balsas de laminación, drenaje urbano sostenible, ríos con espacio para desbordarse sin causar daños y retirada selectiva de cañas, escombros y obstáculos en puentes y tramos urbanos.",
+      "pagina": 3,
+      "apartado": [
+        "Agua: gestión experta y ni una gota perdida",
+        "Escudo Contra Inundaciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ejecución completa de las obras de los planes de inundación",
+      "etiquetas": [
+        "agua",
+        "infraestructuras",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Una red de sensores de caudal y modelos de inteligencia artificial avisará con precisión de las crecidas repentinas.",
+      "pagina": 3,
+      "apartado": [
+        "Agua: gestión experta y ni una gota perdida",
+        "Escudo Contra Inundaciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Red de sensores de caudal para avisos de crecidas",
+      "etiquetas": [
+        "emergencias",
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y haremos cumplir sin excepciones la prohibición de construir viviendas en las zonas de mayor riesgo, ayudando a adaptar las que ya existen.",
+      "pagina": 3,
+      "apartado": [
+        "Agua: gestión experta y ni una gota perdida",
+        "Escudo Contra Inundaciones"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Prohibición de construir viviendas en zonas inundables de mayor riesgo",
+      "etiquetas": [
+        "urbanismo",
+        "emergencias"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ni Una Gota Perdida: España invierte 24 euros por habitante al año en infraestructuras de agua; Francia y Alemania, cerca de 90. Reduciremos esa brecha para triplicar el ritmo de renovación de unas redes envejecidas en las que se pierde uno de cada diez litros.",
+      "pagina": 3,
+      "apartado": [
+        "Agua: gestión experta y ni una gota perdida",
+        "Ni Una Gota Perdida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Triplicar el ritmo de renovación de las redes de agua",
+      "etiquetas": [
+        "agua",
+        "infraestructuras"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Contadores inteligentes y detección de fugas en tiempo real en todo el ciclo urbano, y un registro digital con telecontrol de las captaciones para que cada litro extraído de nuestros acuíferos esté medido.",
+      "pagina": 3,
+      "apartado": [
+        "Agua: gestión experta y ni una gota perdida",
+        "Ni Una Gota Perdida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Contadores inteligentes y registro digital de captaciones de agua",
+      "etiquetas": [
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y la factura premiará a quien ahorra: impulsaremos un marco tarifario común con tarifas progresivas por tramos de consumo doméstico, con el agua esencial a precio reducido y tramos ajustados al número de personas del hogar.",
+      "pagina": 4,
+      "apartado": [
+        "Agua: gestión experta y ni una gota perdida",
+        "Ni Una Gota Perdida"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Marco tarifario común del agua con tramos progresivos",
+      "etiquetas": [
+        "agua",
+        "coste de la vida"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Más Agua sin Quitársela a Nadie: las empresas españolas han construido en torno a una cuarta parte de la capacidad de desalación del mundo. Pongamos ese talento a trabajar en casa: desalación alimentada con renovables para abaratar el agua a regantes y hogares, y reutilización masiva de aguas depuradas.",
+      "pagina": 4,
+      "apartado": [
+        "Agua: gestión experta y ni una gota perdida",
+        "Más Agua sin Quitársela a Nadie"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": false,
+      "nota": "Desalación con renovables y reutilización de aguas depuradas",
+      "etiquetas": [
+        "agua",
+        "energía"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "En el campo apostaremos por el riego inteligente (sensores de humedad, datos meteorológicos y automatización que dan a cada cultivo solo el agua que necesita) con amortización fiscal acelerada y deducciones en I+D+i para explotaciones y PYMES innovadoras.",
+      "pagina": 4,
+      "apartado": [
+        "Agua: gestión experta y ni una gota perdida",
+        "Más Agua sin Quitársela a Nadie"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivos fiscales al riego inteligente",
+      "etiquetas": [
+        "agua",
+        "agricultura y pesca",
+        "impuestos"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y extenderemos la regla que la PAC ya aplica en las cuencas más presionadas: parte del agua ahorrada volverá a ríos y acuíferos.",
+      "pagina": 4,
+      "apartado": [
+        "Agua: gestión experta y ni una gota perdida",
+        "Más Agua sin Quitársela a Nadie"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Devolución a ríos y acuíferos de parte del agua ahorrada",
+      "etiquetas": [
+        "agua",
+        "agricultura y pesca"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Nadie Solo Frente a Una Ola de Calor: el plan nacional contra el calor existe desde hace veinte años, pero no garantiza que nadie se quede atrás. Lo convertiremos en una obligación con resultados: cuando se active un aviso por calor extremo, toda persona inscrita en un registro voluntario (mayores que viven solos o personas con enfermedades crónicas) recibirá en 24 horas una llamada o visita de teleasistencia, su centro de salud o servicios sociales, y cada verano publicaremos los resultados.",
+      "pagina": 4,
+      "apartado": [
+        "Ciudades frescas y escudos frente al calor",
+        "Nadie Solo Frente a Una Ola de Calor"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Contacto en 24 horas con personas vulnerables ante calor extremo",
+      "etiquetas": [
+        "emergencias",
+        "mayores",
+        "servicios sociales"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Los refugios climáticos ampliarán horarios y se podrán localizar al instante desde el móvil.",
+      "pagina": 4,
+      "apartado": [
+        "Ciudades frescas y escudos frente al calor",
+        "Nadie Solo Frente a Una Ola de Calor"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Ampliación de horarios y localización de refugios climáticos",
+      "etiquetas": [
+        "emergencias",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Ciudades a la Sombra: publicaremos un mapa nacional de islas de calor, calle a calle, con datos satelitales abiertos. Con él, crearemos un fondo para que los Ayuntamientos planten árboles e instalen sombra, fuentes y cubiertas frescas allí donde más se sufre, empezando por los entornos escolares, los centros de salud y las paradas de transporte.",
+      "pagina": 4,
+      "apartado": [
+        "Ciudades frescas y escudos frente al calor",
+        "Ciudades a la Sombra"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Mapa nacional de islas de calor y fondo municipal de sombra",
+      "etiquetas": [
+        "urbanismo",
+        "medio ambiente",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y toda obra urbana financiada por el Estado tendrá que demostrar que refresca la calle en lugar de calentarla: más árbol y suelo permeable, menos asfalto.",
+      "pagina": 4,
+      "apartado": [
+        "Ciudades frescas y escudos frente al calor",
+        "Ciudades a la Sombra"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Requisito climático para obras urbanas con financiación estatal",
+      "etiquetas": [
+        "urbanismo",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Un Retorno de Envases que Funcione de Verdad: el nuevo sistema de depósito y retorno de botellas y latas llega con retraso y muchas dudas. Lo haremos fácil: su regulación garantizará puntos de devolución en el comercio de barrio y en los pueblos, no solo en las grandes superficies, con máquinas compactas o compartidas pagadas por los fabricantes que ponen los envases en el mercado, no por el pequeño comercio ni por el contribuyente. El depósito se recuperará al momento y cerca de casa: nunca será un impuesto encubierto.",
+      "pagina": 5,
+      "apartado": [
+        "Más economía circular, menos residuos",
+        "Un Retorno de Envases que Funcione de Verdad"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Puntos de devolución de envases pagados por los fabricantes",
+      "etiquetas": [
+        "medio ambiente",
+        "comercio"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Daremos a los Ayuntamientos financiación, tecnología y ordenanzas modelo para que cada hogar pague según lo que genera, con contenedores inteligentes, y desplegaremos de verdad la recogida de la materia orgánica, un tercio de lo que tiramos, para convertirla en compost y biogás.",
+      "pagina": 5,
+      "apartado": [
+        "Más economía circular, menos residuos",
+        "Paga Menos Quien Separe Más"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Tasa de basuras según generación y recogida de materia orgánica",
+      "etiquetas": [
+        "medio ambiente",
+        "municipios"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Sabremos cuánto se recicla realmente: con datos abiertos medidos a la salida de las plantas y auditoría pública de los sistemas colectivos de reciclaje.",
+      "pagina": 5,
+      "apartado": [
+        "Más economía circular, menos residuos",
+        "Paga Menos Quien Separe Más"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Datos abiertos y auditoría pública del reciclaje",
+      "etiquetas": [
+        "medio ambiente",
+        "transparencia"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Mar Limpio con Quienes Mejor lo Conocen: extenderemos a todo el litoral el modelo que ya funciona en Cataluña, donde las cofradías de pescadores han retirado más de medio millón de litros de residuos del mar en cinco años: incentivos por recoger, pesar y entregar en puerto la basura que sale en las redes, con trazabilidad completa.",
+      "pagina": 5,
+      "apartado": [
+        "Más economía circular, menos residuos",
+        "Mar Limpio con Quienes Mejor lo Conocen"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Incentivos a pescadores por retirar basura marina",
+      "etiquetas": [
+        "costas",
+        "agricultura y pesca",
+        "medio ambiente"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    },
+    {
+      "cita": "Y frenaremos los plásticos antes de que lleguen al mar con barreras y filtros en las desembocaduras de los ríos y en las redes de saneamiento.",
+      "pagina": 5,
+      "apartado": [
+        "Más economía circular, menos residuos",
+        "Mar Limpio con Quienes Mejor lo Conocen"
+      ],
+      "numero": null,
+      "clase": "medida",
+      "medida_concreta": true,
+      "nota": "Barreras y filtros de plásticos en ríos y saneamiento",
+      "etiquetas": [
+        "costas",
+        "medio ambiente",
+        "agua"
+      ],
+      "traduccion": null,
+      "verificacion": "exacta"
+    }
+  ]
+}

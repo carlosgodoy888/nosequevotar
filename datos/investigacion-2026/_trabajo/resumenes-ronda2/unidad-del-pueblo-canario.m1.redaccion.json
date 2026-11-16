@@ -1,0 +1,126 @@
+{
+  "resumenes": [
+    {
+      "tema": "vivienda",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Su cabeza de lista por Las Palmas propone expropiar viviendas de los «fondos buitre» en Canarias e impedir que extranjeros no residentes compren vivienda.",
+          "apoyos": ["c-dc6a77f15e", "c-237e824d27"]
+        },
+        {
+          "texto": "También pide la vivienda como derecho fundamental constitucional, que los ayuntamientos declaren zonas tensionadas y que las viviendas vacías sean «un bien social».",
+          "apoyos": ["c-695bd1db78", "c-8af2166a70", "c-7caa1735d8"]
+        },
+        {
+          "texto": "Rechaza también nuevas viviendas vacacionales en suelo residencial urbano y quiere impedir desahucios de personas vulnerables sin solución habitacional.",
+          "apoyos": ["c-ffc2da2209", "c-44ade07616"]
+        },
+        {
+          "texto": "Dirigentes de Nueva Canarias-Bloque Canarista plantean subir impuestos a los grandes tenedores, con un tipo del 20 % en Transmisiones Patrimoniales, sin descartar expropiaciones.",
+          "apoyos": ["c-b8beed546e", "c-ec444bf842", "c-dee409300f"]
+        }
+      ],
+      "nota": "No hay programa: todo procede de declaraciones de candidatos y dirigentes de NC-BC. El tipo del 20 % de Transmisiones Patrimoniales viene de una nota de prensa de NC-BC de septiembre de 2026 y probablemente se refiere a una propuesta autonómica canaria (el impuesto está cedido), pero la cita no lo dice. La derogación de la RIC en vivienda libre en alquiler sin límite de renta (c-ee93075d15) se ha llevado a economía por falta de espacio."
+    },
+    {
+      "tema": "economia",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Su cabeza de lista por Las Palmas plantea seguir subiendo pensiones y salario mínimo para que la gente «pueda llegar a final de mes».",
+          "apoyos": ["c-23dbf5027d"]
+        },
+        {
+          "texto": "Dirigentes de Nueva Canarias-Bloque Canarista piden limitar el crecimiento turístico y redistribuir sus beneficios con mejores salarios y «una contribución fiscal justa».",
+          "apoyos": ["c-22744e9141", "c-b138b97cf0", "c-e9e88294df"]
+        },
+        {
+          "texto": "Quieren orientar los incentivos del REF al empleo y la diversificación, y derogar el uso de la RIC en alquiler sin límite de renta.",
+          "apoyos": ["c-b138b97cf0", "c-88f8c1de5c", "c-ee93075d15"]
+        },
+        {
+          "texto": "Defienden también mantener el Fondo RUP con cofinanciación del 85 % y un precio justo para agricultores y ganaderos.",
+          "apoyos": ["c-7db61d6338", "c-454ea00b9e"]
+        }
+      ],
+      "nota": "No hay programa: todo procede de declaraciones. El objetivo de I+D+i del 3,2 % del gasto público en 2030 (c-6c2c2b5d7e) se refiere a enmiendas a una ley canaria y no se ha incluido."
+    },
+    {
+      "tema": "inmigracion",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Su cabeza de lista por Las Palmas defiende que las políticas migratorias tengan los derechos humanos «en el centro».",
+          "apoyos": ["c-3a80978ff4"]
+        },
+        {
+          "texto": "Reivindica haber propuesto reformar el artículo 35 de la Ley de Extranjería para que el traslado de menores migrantes desde Canarias sea obligatorio cuando sus recursos estén tensionados.",
+          "apoyos": ["c-1686320573"]
+        },
+        {
+          "texto": "Plantea además impedir que extranjeros no residentes compren vivienda en Canarias.",
+          "apoyos": ["c-dc6a77f15e", "c-237e824d27"]
+        },
+        {
+          "texto": "Un dirigente de Nueva Canarias-Bloque Canarista no descarta debatir una Ley de Residencia, pese a su «complicado encaje» europeo, y pide que los jóvenes cualificados no tengan que emigrar.",
+          "apoyos": ["c-5e3463b87f", "c-16b8c3f8ca", "c-6609b01065"]
+        }
+      ],
+      "nota": "No hay programa: todo procede de declaraciones, casi todas de posición. La frase de Marisol Collado sobre los «inmigrantes que están comprando nuestras casas» se usa solo como apoyo de la restricción de compra, sin adoptar su formulación."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "base": "escasa",
+      "frases": [
+        {
+          "texto": "Su cabeza de lista por Las Palmas afirma que nunca apoyará una investidura del Partido Popular y Vox.",
+          "apoyos": ["c-fb920471fb"]
+        },
+        {
+          "texto": "Sostiene que sus diputados decidirán el voto desde Canarias, sin instrucciones de partidos de ámbito estatal.",
+          "apoyos": ["c-6b2b16ba55", "c-e55ad796c8", "c-483c1ec737"]
+        }
+      ],
+      "nota": "Solo declaraciones. La cita sobre exigir transparencia y responsabilidades (c-0bcb5f98b5) no indica a qué asunto se refiere y no se ha usado. La vivienda como derecho fundamental en la Constitución ya figura en vivienda."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Sus dirigentes piden una financiación autonómica que tenga en cuenta la insularidad, la lejanía, el desempleo y la pobreza de Canarias para sostener los servicios públicos.",
+          "apoyos": ["c-3edad794e1", "c-88f8c1de5c"]
+        },
+        {
+          "texto": "Defienden mantener el Régimen Económico y Fiscal canario y darle «un contenido mucho más social».",
+          "apoyos": ["c-88f8c1de5c"]
+        },
+        {
+          "texto": "Quieren que «cualquier decisión que afecte a Canarias se tome en Canarias» y que los ayuntamientos puedan declarar zonas tensionadas de vivienda.",
+          "apoyos": ["c-483c1ec737", "c-6b2b16ba55", "c-8af2166a70"]
+        },
+        {
+          "texto": "También piden una gestión regionalizada de los fondos europeos y critican que el acuerdo de cogestión de aeropuertos no sitúe a Canarias en «los centros de decisión».",
+          "apoyos": ["c-7db61d6338", "c-0cd0c3256e"]
+        }
+      ],
+      "nota": "No hay programa: todo procede de declaraciones. No se incluyen la Selección Canaria de fútbol (c-651553e2a5, de 2025) ni la bonificación del transporte, que se cita como logro pasado."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "base": "escasa",
+      "frases": [
+        {
+          "texto": "Dirigentes de Nueva Canarias-Bloque Canarista piden poner límites al crecimiento turístico, al que atribuyen la ocupación del territorio y el consumo de recursos energéticos e hídricos.",
+          "apoyos": ["c-22744e9141", "c-17042aa43e"]
+        },
+        {
+          "texto": "En el ámbito canario, rechazan una macrogranja en la costa de La Aldea y critican los intentos de explotar tierras raras en Fuerteventura.",
+          "apoyos": ["c-50918d55e4", "c-046cb3068f"]
+        }
+      ],
+      "nota": "Solo declaraciones, casi todas de ámbito canario. La cita c-4661c802d9 pide enterrar un proyecto rechazado por 400.000 firmas, pero no dice cuál, y no se ha usado."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "resumenes": [
+    {
+      "tema": "educacion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone un Pacto de Estado por la Educación pública, con más fondos para becas, plazas públicas suficientes de 0 a 3 años y libros de texto gratuitos.", "apoyos": ["c-a0b5f7c43d", "c-093c53f77f", "c-1c991aa716", "c-cdf26b4a94"] },
+        { "texto": "Pide reducir la ratio de alumnos por profesor, una escuela pública «realmente laica» y revisar los conciertos con la enseñanza privada para evitar la segregación.", "apoyos": ["c-03abb87b4f", "c-eade588f17", "c-8b9e209f5f"] },
+        { "texto": "Plantea contenidos sobre respeto a los animales en todas las etapas, una opción de menú 100 % vegetal en los comedores y educación en igualdad y diversidad sexual.", "apoyos": ["c-6e7ed5913f", "c-da9f06510c", "c-97cecd8129", "c-e3b2a7a71f", "c-8c35dcff3a"] }
+      ],
+      "nota": "Se dejan fuera, por espacio, la orientación profesional en secundaria, la FP y la investigación. Las citas de los programas autonómicos (Andalucía, Extremadura) repiten lo del programa general y no se usan."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende políticas familiares públicas y actualizar la ley de conciliación de la vida familiar y laboral, con medidas, recursos y prestaciones económicas.", "apoyos": ["c-45b2683dbc", "c-6969018a95"] },
+        { "texto": "Propone planes de apoyo a las familias con ayudas y comedores escolares, plazas públicas de 0 a 3 años y más centros de día y residencias públicas para mayores.", "apoyos": ["c-ef61798dd3", "c-1c991aa716", "c-79793eb056", "c-8214f804b1"] },
+        { "texto": "Pide prohibir que los menores asistan o participen en la tauromaquia y la caza, y permitir entrar con animales en albergues, residencias y casas de acogida.", "apoyos": ["c-b9ab667506", "c-32b8c7e6e4", "c-814c9938be"] }
+      ],
+      "nota": "Las medidas sobre discapacidad y víctimas de violencia de género, también en las citas, quedan fuera por espacio. La guardería para animales en centros de trabajo viene del programa andaluz y no se usa."
+    },
+    {
+      "tema": "inmigracion",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende el acceso de las personas migrantes a derechos como la educación, la sanidad y el alojamiento, y programas de acogida en condiciones dignas.", "apoyos": ["c-5ccd63f123", "c-3440f1da2a", "c-266ebf25c1"] },
+        { "texto": "Propone más plazas en los centros de acogida, con atención especial a los menores no acompañados, y campañas contra la xenofobia y el racismo.", "apoyos": ["c-a538978679", "c-447a66db36"] },
+        { "texto": "En la escuela plantea mediadores interculturales, agilizar la homologación de títulos y cambiar los criterios de matrícula para evitar la «concentración excesiva de alumnado extranjero» en algunos centros.", "apoyos": ["c-174f230dc9", "c-ea2be9364e", "c-c4d65309f5"] }
+      ],
+      "nota": "No se incluyen las notas de prensa sobre Ceuta (septiembre de 2026) por espacio; el programa no trata fronteras ni regularización."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Sobre maltrato animal, propone suprimir la multa como alternativa a la prisión, elevar a más de cinco años la pena del tipo agravado y ampliar la inhabilitación.", "apoyos": ["c-87f004ede2", "c-7d4bba81ca"] },
+        { "texto": "Plantea unidades especializadas en protección animal en la Fiscalía General del Estado y en las Fuerzas y Cuerpos de Seguridad del Estado.", "apoyos": ["c-ecc8d5c80f", "c-6eb7fa457e"] },
+        { "texto": "Contra la violencia machista, pide unidades policiales especializadas disponibles las 24 horas y formación especializada de jueces, fiscales y demás personal de la justicia.", "apoyos": ["c-de3ff7ab29", "c-b80547dea2", "c-8e680b7c17"] },
+        { "texto": "También propone eliminar los aforamientos.", "apoyos": ["c-341f1c2e8b"] }
+      ],
+      "nota": "Las citas sobre incendios forestales y la petición de incluir a los perros de caza en la ley de protección animal no se recogen por espacio."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone una circunscripción electoral única, sin barrera mínima y con escaños proporcionales a los votos, y suprimir las firmas que se exigen a partidos sin representación.", "apoyos": ["c-7213968bf7", "c-37abed0e70", "c-2b3d656275"] },
+        { "texto": "Pide los mismos minutos de propaganda en los medios públicos para todos los partidos y una iniciativa legislativa popular con menos firmas y toma en consideración obligatoria.", "apoyos": ["c-90daa4ce8f", "c-8b23b7bfb7", "c-b15b1af5b0", "c-a8fbf36480"] },
+        { "texto": "Contra la corrupción, plantea eliminar los aforamientos, una Ley de Transparencia efectiva, limitar los cargos de libre designación y elegir por méritos la dirección de las radiotelevisiones públicas.", "apoyos": ["c-341f1c2e8b", "c-b87a6475bf", "c-0194556207", "c-1146d7cd66"] }
+      ],
+      "nota": "No se recoge la propuesta sobre «puertas giratorias» de antiguos altos cargos (nota de prensa de junio de 2026) ni la reforma constitucional para proteger las pensiones, por espacio."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "base": "escasa",
+      "frases": [
+        { "texto": "Pide mecanismos para que los ayuntamientos cumplan la ley de protección animal y atiendan las colonias de gatos, con subvenciones estatales suficientes y estables.", "apoyos": ["c-f51c76ff95", "c-d25e919093"] },
+        { "texto": "Plantea un proyecto de colaboración entre comunidades autónomas para elaborar libros de texto de copia libre.", "apoyos": ["c-4b368d609a"] }
+      ],
+      "nota": "Ninguna cita trata el modelo territorial del Estado; solo hay menciones a competencias municipales y a cooperación entre comunidades. La cita de las Escuelas Oficiales de Idiomas es del programa andaluz y no se usa."
+    }
+  ]
+}

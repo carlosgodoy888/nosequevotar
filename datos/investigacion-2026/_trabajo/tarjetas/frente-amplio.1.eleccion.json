@@ -1,0 +1,120 @@
+{
+  "partido": "frente-amplio",
+  "lote": "frente-amplio.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        {
+          "id": "c-ff320fef10",
+          "motivo": "Representa el eje central de su plan de vivienda, la creación de un gran parque público financiado con el 1 % del PIB anual. Lleva cifra y la repite su nota de prensa del 28 de octubre; es más corta y clara que la versión de los 1,5 millones de viviendas.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-ad7b9e6c76",
+          "motivo": "Cubre la regulación de precios: tope legal del alquiler en zonas tensionadas ligado al 25 % de la renta del barrio (línea 3 del resumen; Colau insiste en campaña en «regular los alquileres» y bajar precios).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-6e111d1860",
+          "motivo": "Cubre la línea contra los grandes tenedores: expropiación por fases a propietarios corporativos, lo que más destaca en campaña (Colau el 14 de noviembre, «expropiar a los fondos buitre», y nota de prensa del 6 de noviembre con las mismas fases).",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-633e8835c3",
+          "por_que_no": "Tiene la cifra de 1,5 millones de viviendas en 12 años, pero son 73 palabras y enumera muchos instrumentos (construcción, tanteo, expropiación, redensificación...). La de c-ff320fef10 recoge la misma línea de forma más clara."
+        },
+        {
+          "id": "c-50d0c91425",
+          "por_que_no": "Prohibir los desahucios de personas vulnerables sin alternativa habitacional es la línea 1 del resumen, pero solo había tres huecos y se ha dado prioridad al parque público, al tope del alquiler y a la expropiación, que pesan más en el programa y en la campaña. Es la mejor alternativa si se quiere cubrir esa línea."
+        },
+        {
+          "id": "c-0ae2974dc9",
+          "por_que_no": "Colau la repite en campaña (prohibir comprar casas para especular), pero es de la misma línea 4 que la expropiación, que tiene más protagonismo en campaña."
+        }
+      ],
+      "nota": "Quedan fuera por falta de hueco la extinción de licencias de pisos turísticos (c-af5e74edc0) y la reforma del artículo 47; el resumen da a ambas el mismo peso que a las líneas elegidas."
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        {
+          "id": "c-1f4d99238d",
+          "motivo": "Línea principal del resumen: reducción progresiva de la jornada hasta 32 horas semanales, que es el título de su apartado y sale en campaña (Martínez Barbero, IU, y Delgado con «trabajar menos y vivir mejor»). Es la única que se entiende sola sin mezclar otras medidas.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-b1902764c9",
+          "motivo": "Cubre la línea salarial: un suelo legal del salario mínimo en el 60 % del salario medio neto. Es lo que más repiten sus portavoces en campaña (Delgado, Gomila e IU).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-f00ff97d76",
+          "motivo": "Cubre la línea 4 del resumen, la protección por desempleo: subir la prestación al 80 % los seis primeros meses. Es concreta y lleva cifras.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-44d5e18056",
+          "por_que_no": "Recoge la rebaja inmediata a 37,5 horas, pero no dice que se trata de la jornada laboral (depende del título del apartado) y no menciona el objetivo de 32 horas."
+        },
+        {
+          "id": "c-a3f8516cdf",
+          "por_que_no": "Resume la postura (jornada, salario mínimo y pensiones), pero mezcla varias medidas distintas en una sola."
+        },
+        {
+          "id": "c-07faa7b1a8",
+          "por_que_no": "El Plan de Empleo Garantizado es parte de la línea 4, pero la medida mezcla la ampliación de la cobertura con el plan; la del 80 % es más clara."
+        }
+      ],
+      "nota": "La línea 3 del resumen (plantillas en los consejos de administración y reparto del 10 % del beneficio) se cubre en el tema economía con c-157a40fe42 para no repetir medida."
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        {
+          "id": "c-a2ad6015eb",
+          "motivo": "Línea 1 del resumen: topes de precio para los alimentos básicos. Es lo que destaca en campaña (Gomila: «limitaremos los precios de los alimentos básicos»; IU: «controlar los precios de los bienes básicos»).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-157a40fe42",
+          "motivo": "Cubre la «democracia en la empresa»: reparto obligatorio del 10 % del beneficio entre la plantilla. Es concreta, lleva cifra y cabe en el límite, cosa que no pasa con la de los consejos de administración (86 palabras).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-0f475d51bb",
+          "motivo": "Cubre el «Estado emprendedor» (línea 2): convertir la SEPI en una Agencia Industrial Pública capaz de crear empresas públicas y entrar en sectores estratégicos.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-ffc8a31354",
+          "por_que_no": "Permitir a la CNMC fijar precios máximos es parte de la línea 1, pero remite a «dichos sectores estratégicos» y no se entiende sola."
+        },
+        {
+          "id": "c-9f8a150172",
+          "por_que_no": "Plantillas en los consejos de administración, de un tercio a la mitad: es central, pero tiene 86 palabras y pasa del máximo."
+        },
+        {
+          "id": "c-57158de839",
+          "por_que_no": "La banca pública estatal forma parte de la línea 2, igual que la Agencia Industrial Pública; se ha elegido la Agencia porque el resumen la nombra primero. Es una alternativa válida."
+        }
+      ],
+      "nota": "La línea 4 (superar el Pacto de Estabilidad y reformar la regla de gasto) solo aparece en c-0249d1a040, que es más técnica; queda fuera por falta de hueco."
+    }
+  ]
+}

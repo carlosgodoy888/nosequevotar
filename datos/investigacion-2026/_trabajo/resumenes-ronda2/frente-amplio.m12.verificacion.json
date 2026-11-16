@@ -1,0 +1,34 @@
+{
+  "revisiones": [
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: el resumen omitía la protección de menores en entornos digitales, que es un subapartado entero del programa con unas diez citas (Ley Orgánica de protección de menores en entornos digitales, regulación de redes para menores de 16 años, competencias de la CNMC según la DSA, reforma de la LOMLOE). Pesa más que el software libre (cuatro citas), así que entra en la cuarta frase en lugar de este.",
+        "Fidelidad del verbo: «Pide que la CNMC supervise» describía como petición lo que el programa presenta como una ley propia («Aprobaremos un marco regulatorio integral que faculte a la CNMC»). Ahora dice «Propone facultar a la CNMC».",
+        "Tauromaquia (duda del redactor): se mantiene. La derogación de la Ley 18/2013 aparece en el programa en el apartado 2.6 «La cultura como derecho» (c-f790d0a2d1) y la repite en bienestar animal (c-4e89217a87). Esas citas solo están en este tema. Se nombra la ley como «ley de protección de la tauromaquia», que corresponde a su título, para ahorrar palabras.",
+        "Forma: se recortan palabras para que el texto, con la nueva medida, no pase de 90.",
+        "Siguen fuera por falta de espacio la inteligencia artificial en el trabajo, la nube soberana, el software libre y el impuesto europeo a empresas de IA. Las declaraciones de campaña no cambian lo que dice el programa. La de Tesh Sidi sobre la CNMC coincide con él y solo se usa como apoyo adicional."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone llevar la inversión en I+D+i al 3 % del PIB en 2030 y subir un 15 % los programas de la Agencia Estatal de Investigación.",
+          "apoyos": ["c-a6475b38ae", "c-3a296d6bfb", "c-27c13f520e"]
+        },
+        {
+          "texto": "En cultura, quiere fijar por ley una inversión mínima del 0,2 % del PIB y derogar la ley de protección de la tauromaquia.",
+          "apoyos": ["c-64dd02a076", "c-15d8be639e", "c-f790d0a2d1", "c-4e89217a87"]
+        },
+        {
+          "texto": "Propone facultar a la CNMC para supervisar a las grandes plataformas y multarlas con hasta el 6 % de su facturación mundial.",
+          "apoyos": ["c-926f597edb", "c-d76e700b66"]
+        },
+        {
+          "texto": "También plantea leyes sobre el uso de la inteligencia artificial en la administración y la protección de menores en internet.",
+          "apoyos": ["c-4ec7285bce", "c-5bae6561eb", "c-1e37cf7755", "c-515e72b5a1", "c-2986b852ab"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "partido": "compromis-front-valencia",
+  "lote": "compromis-front-valencia.2",
+  "temas": [
+    {
+      "tema": "seguridad-y-justicia",
+      "elegidas": [
+        { "id": "c-f8ae42af7e", "motivo": "Derogar la ley mordaza encabeza su postura en seguridad y la candidata lo reclama expresamente en campaña; es la medida que mejor resume su enfoque de libertades frente a la actuación policial.", "texto": null, "cambio": null },
+        { "id": "c-13b036e743", "motivo": "Representa la línea de emergencias tras la DANA (reforzar Protección Civil y la UME con fondo estable), muy presente en su campaña sobre prevención y protección.", "texto": null, "cambio": null },
+        { "id": "c-f9193c2394", "motivo": "Cubre la línea de reforma de la justicia (ratificación del Fiscal General por el Congreso); es la medida de ese bloque más clara y votable sin mezclar acciones.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-2338890586", "por_que_no": "Abolir las pelotas de goma es parte de la línea principal, pero es más parcial que derogar la ley mordaza, que además destaca en campaña." },
+        { "id": "c-e40c60cb98", "por_que_no": "Prohibir construir en zonas inundables está en su postura y en campaña, pero encaja más en ordenación del territorio; se prefirió Protección Civil/UME para la línea de emergencias." },
+        { "id": "c-407b20c0b0", "por_que_no": "Los diez juzgados están en el resumen, pero la medida mezcla varias acciones (juzgados, plantillas, informática)." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "elegidas": [
+        { "id": "c-2223897ad0", "motivo": "La prestación universal de 200 euros por hijo es la primera línea de su postura, lleva cifra y la candidata la repite en campaña.", "texto": null, "cambio": null },
+        { "id": "c-8f8f9601a3", "motivo": "Representa la línea de dependencia: que el Estado financie el 50 % del sistema, medida concreta con cifra.", "texto": null, "cambio": null },
+        { "id": "c-ba3d2273c4", "motivo": "Cubre la línea de equiparar las ayudas de familias monoparentales y numerosas, recogida en su postura.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-974e833ced", "por_que_no": "El Estatuto de las Personas Cuidadoras está en la línea de dependencia, pero se prefirió la financiación estatal del 50 %, más concreta; además el texto tiene una errata («que dé reconozca»)." },
+        { "id": "c-49ae837521", "por_que_no": "La ley de servicios sociales conecta con lo dicho en campaña sobre reforzarlos, pero no es una de sus líneas principales en el resumen." },
+        { "id": "c-1699893685", "por_que_no": "Subir la inversión en familias a la media de la UE es más genérica que la prestación de 200 euros." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "impuestos",
+      "elegidas": [
+        { "id": "c-28d77ce92e", "motivo": "Mantener y ampliar el impuesto a las grandes fortunas es la primera línea de su postura fiscal y resume su apuesta por más progresividad sobre los patrimonios altos.", "texto": null, "cambio": null },
+        { "id": "c-49c518ec6b", "motivo": "Representa la segunda línea: quitar ventajas a las rentas financieras frente a las del trabajo.", "texto": null, "cambio": null },
+        { "id": "c-2b167a6817", "motivo": "Cubre la línea de suprimir privilegios fiscales a la aviación, con cifra y destino, y la defiende en campaña su número 2 por Valencia.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-ce713ad671", "por_que_no": "El impuesto a los beneficios de oligopolios está en la primera línea y conecta con la campaña, pero sería una variante de la misma idea que el impuesto a grandes fortunas." },
+        { "id": "c-a779f73693", "por_que_no": "Gravar las viviendas vacías conecta con lo que dice en campaña sobre los grandes tenedores, pero el resumen pone como línea principal el gravamen desde la tercera vivienda, que no está entre las candidatas." },
+        { "id": "c-2f0a772399", "por_que_no": "La bajada del IVA de salud, higiene femenina y cultura es su cuarta línea; se prefirieron líneas más centrales." }
+      ],
+      "nota": "c-2b167a6817 (aviación) se usa aquí y no en transporte, donde no figura como candidata."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "elegidas": [
+        { "id": "c-e513e0a473", "motivo": "Representa la primera línea de su postura (derechos de las mujeres) con una medida concreta y votable: reforzar la prohibición de la gestación subrogada; no hay entre las candidatas medida sobre aborto.", "texto": null, "cambio": null },
+        { "id": "c-f152f6f494", "motivo": "Cubre la línea de derechos LGTBI, que la candidata cita en campaña, con una medida concreta: tipificar como delito las terapias de conversión.", "texto": null, "cambio": null },
+        { "id": "c-82e48a2a05", "motivo": "Representa la línea de laicismo, la que más medidas tiene en el programa, con la acción más concreta: acabar con la financiación pública de la Iglesia católica.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-28b7704342", "por_que_no": "Revisar los protocolos de protección de víctimas es de la línea de violencia machista, pero es técnica y transmite peor su postura que la de gestación subrogada." },
+        { "id": "c-7b05ff91e1", "por_que_no": "Pasar de aconfesionalidad a laicismo es la idea central de esa línea, pero se entiende peor sin conocimientos previos que el fin de la financiación de la Iglesia." },
+        { "id": "c-9405a433fc", "por_que_no": "Derogar la Ley de Amnistía de 1977 está en el resumen, pero es la cuarta línea, más secundaria." }
+      ],
+      "nota": "La medida c-e7f9015d5e (violencia de género) se descarta por mezclar muchas acciones y rozar el límite de longitud."
+    },
+    {
+      "tema": "pensiones",
+      "elegidas": [
+        { "id": "c-baa1a1fdce", "motivo": "Garantizar en la Constitución la revalorización de las pensiones es lo que más repite la candidata en campaña («blindar las pensiones») y está en su postura.", "texto": null, "cambio": null },
+        { "id": "c-55aa4571a3", "motivo": "Representa la primera línea del resumen: volver a jubilarse a los 65 años.", "texto": null, "cambio": null },
+        { "id": "c-4ab14bc354", "motivo": "Cubre la línea de financiación: eliminar el tope de la base máxima de cotización.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-794ba2bb62", "por_que_no": "Suprimir las desgravaciones a los planes privados está en la tercera línea, pero se prefirió el fin del tope de cotización, más directamente ligado a financiar las pensiones públicas." },
+        { "id": "c-e5b40bed31", "por_que_no": "Subir las no contributivas a 800 euros lleva cifra, pero es parte de la segunda línea y menos destacada en campaña." },
+        { "id": "c-5ea9a59330", "por_que_no": "Quitar coeficientes reductores tras 40 años es una variante de la línea de edad de jubilación." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "transporte",
+      "elegidas": [
+        { "id": "c-f75de9535a", "motivo": "El plan de Cercanías de 1.500 millones con 58 trenes nuevos lleva cifra, está en su postura y la candidata lo repite en campaña.", "texto": null, "cambio": null },
+        { "id": "c-4145580ad7", "motivo": "Representa su apuesta por el tren frente al avión: limitar vuelos nacionales con alternativa ferroviaria de menos de 2 horas y media.", "texto": null, "cambio": null },
+        { "id": "c-3d240c03b6", "motivo": "Cubre la línea de reestructurar Adif con más personal propio e inversión en mantenimiento, que conecta con su crítica en campaña a la liberalización ferroviaria.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-f10f04cee9", "por_que_no": "El Avant Alicante-Valencia en una hora está en el resumen, pero es más parcial que el plan general de Cercanías." },
+        { "id": "c-90a06efe7f", "por_que_no": "El Corredor Mediterráneo está en el resumen, pero la medida está planteada desde la agricultura y es menos concreta." },
+        { "id": "c-26a50f258f", "por_que_no": "Paralizar ampliaciones de puertos y aeropuertos refleja su enfoque, pero no está entre las líneas principales del resumen." }
+      ],
+      "nota": "La medida de quitar privilegios fiscales a la aviación (línea 1 del resumen) no es candidata en este tema; se ha usado en impuestos."
+    },
+    {
+      "tema": "organizacion-territorial",
+      "elegidas": [
+        { "id": "c-3d2e58f9ff", "motivo": "Reformar la financiación autonómica para acabar con la infrafinanciación valenciana es la primera línea de su postura y el centro de su discurso en campaña.", "texto": null, "cambio": null },
+        { "id": "c-4c9bd157e7", "motivo": "Representa la segunda línea: concierto económico o que la Generalitat recaude la mayoría de los tributos, en línea con lo que dice la candidata sobre más ingresos para las comunidades.", "texto": null, "cambio": null },
+        { "id": "c-25a6b5d698", "motivo": "Cubre la línea de traspaso de competencias (Cercanías, puertos, aeropuertos, costas, IMV), y la candidata destaca en campaña la de Cercanías.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-b612b0c8a7", "por_que_no": "La condonación de la deuda histórica está en el resumen, pero es complementaria a la reforma de la financiación." },
+        { "id": "c-37cb754815", "por_que_no": "Suprimir las diputaciones es su cuarta línea, más secundaria." },
+        { "id": "c-60e52eb2e3", "por_que_no": "El fondo transitorio de nivelación es una variante temporal de la línea de financiación." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "elegidas": [
+        { "id": "c-e3c0e953c7", "motivo": "Reforzar la ley de la cadena alimentaria para que los precios cubran los costes es la primera línea de su postura y lo repiten la candidata y la cabeza de lista por Alicante en campaña.", "texto": null, "cambio": null },
+        { "id": "c-250d72df03", "motivo": "Representa la línea de una PAC adaptada a la agricultura mediterránea que priorice a los profesionales, que la candidata menciona en campaña.", "texto": null, "cambio": null },
+        { "id": "c-98db40a62f", "motivo": "Cubre la línea del estatuto de agricultores y ganaderos profesionales, eje del apartado agrario del programa.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-5fdf60ed36", "por_que_no": "El etiquetado de la parte del precio que va al productor es de la primera línea, pero es una variante de la medida de la cadena alimentaria." },
+        { "id": "c-311530a0f4", "por_que_no": "El IVA reducido para la producción agraria está en el resumen, pero se prefirió la PAC, que destaca en campaña." },
+        { "id": "c-c1df017bb9", "por_que_no": "La moratoria de macrogranjas está en la cuarta línea, pero pertenece al apartado de derechos animales y es menos central en su postura agraria." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "elegidas": [
+        { "id": "c-fdbf459283", "motivo": "Superar el 3 % del PIB en investigación es la primera línea de su postura y lleva cifra.", "texto": null, "cambio": null },
+        { "id": "c-33f4432c43", "motivo": "Representa la segunda línea: una carrera investigadora estable que acabe con los contratos precarios encadenados.", "texto": null, "cambio": null },
+        { "id": "c-4a5236e380", "motivo": "Cubre la línea de cultura con el despliegue del Estatuto del Artista, que conecta con lo dicho en campaña sobre artistas con recursos y oportunidades.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-f72bd7fc8d", "por_que_no": "La cláusula de no retroceso es de la primera línea, pero sería una variante de la financiación científica." },
+        { "id": "c-d1a818eca2", "por_que_no": "Extender el Bono Cultural Joven a 16-30 años está en el resumen, pero la medida junta varias ayudas; se prefirió el Estatuto del Artista." },
+        { "id": "c-2e95ebdcb9", "por_que_no": "Es su medida sobre inteligencia artificial, pero mezcla demasiadas acciones distintas para votarla." }
+      ],
+      "nota": ""
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "resumenes": [
+    {
+      "tema": "vivienda",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone la construcción masiva de vivienda pública y la compra de viviendas vacías para venta y alquiler social.", "apoyos": ["c-5f6db97995"] },
+        { "texto": "Plantea bonificar al 100% en el IRPF o eximir del IBI a los pequeños propietarios que ofrezcan su vivienda un 10% o 15% por debajo del precio medio.", "apoyos": ["c-418d9ee7fb"] },
+        { "texto": "Pide recargos fiscales a la compra de vivienda por fondos de inversión y no residentes, y restringir las licencias de pisos turísticos en barrios tensionados.", "apoyos": ["c-d635a365da", "c-a554483721"] },
+        { "texto": "Quiere reformar la Ley de Arrendamientos Urbanos para anular las cláusulas que prohíban tener animales de compañía.", "apoyos": ["c-0bd795bbaf", "c-303a220e36"] }
+      ],
+      "nota": "Todo sale del programa de 2026; las citas del programa andaluz y las de urbanismo y medio ambiente no se usan. Quedan fuera por espacio los avales públicos ante impagos y el registro del alquiler por habitaciones y de temporada."
+    },
+    {
+      "tema": "empleo",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende crear empleo estable y de calidad apoyado en la I+D+i, las energías renovables, el turismo sostenible y la agricultura.", "apoyos": ["c-5da1184152", "c-c5259dafa5"] },
+        { "texto": "Propone un Pacto de Estado por la Igualdad en el Empleo y un Plan nacional de formación y empleo para personas con discapacidad.", "apoyos": ["c-7c75bce5ef", "c-6a9ca9482d"] },
+        { "texto": "Plantea fomentar el teletrabajo con incentivos fiscales y, para la conciliación, guarderías en los centros de trabajo, también para animales de compañía.", "apoyos": ["c-bdbe52c0e6", "c-605295aa99", "c-0759ec6bd9", "c-6969018a95"] },
+        { "texto": "Propone además un fondo para facilitar a autónomos y pymes créditos a interés cero.", "apoyos": ["c-822ef8186f"] }
+      ],
+      "nota": "Todo sale del programa de 2026; las citas del programa andaluz repiten medidas ya presentes y no se usan."
+    },
+    {
+      "tema": "pensiones",
+      "base": "escasa",
+      "frases": [
+        { "texto": "Propone reformar la Constitución para blindar las pensiones y garantizar que el sistema público no pueda recortarse ni privatizarse.", "apoyos": ["c-2492c5b452"] }
+      ],
+      "nota": "Una sola cita, concreta y del programa; se marca escasa por número de citas."
+    },
+    {
+      "tema": "impuestos",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Propone bajar el IVA veterinario al 4% o eximirlo, y deducir en el IRPF hasta el 10% de esos gastos, con un máximo de 500 euros anuales.", "apoyos": ["c-debf130be1", "c-7f40434366", "c-3607e41114"] },
+        { "texto": "Plantea un impuesto climático a los productos de origen animal y a las explotaciones ganaderas según sus emisiones, y gravar más los lácteos animales que los vegetales.", "apoyos": ["c-1bc45a112e", "c-201758641c", "c-357cf5d017"] },
+        { "texto": "En vivienda, pide recargos fiscales a la compra por fondos de inversión y no residentes.", "apoyos": ["c-d635a365da"] },
+        { "texto": "Pide controles más rigurosos y tecnología avanzada contra el fraude fiscal.", "apoyos": ["c-3d9a3e90c5", "c-b743cb7ecf"] }
+      ],
+      "nota": "La deducción del IRPF está sujeta a un límite de renta que la cita no cuantifica; no se menciona. Quedan fuera por espacio las bonificaciones del IRPF e IBI a pequeños propietarios (recogidas en vivienda) y la casilla del 0,7% para la protección animal."
+    },
+    {
+      "tema": "economia",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea un modelo económico basado en la I+D+i, las energías renovables, el turismo sostenible y la agricultura.", "apoyos": ["c-c5259dafa5", "c-5c481e0727"] },
+        { "texto": "Para autónomos y pymes propone un fondo de créditos a interés cero, más bonificaciones fiscales a emprendedores y menos trámites para crear empresas.", "apoyos": ["c-822ef8186f", "c-97538b2875", "c-2bd3ebd1fe"] },
+        { "texto": "Quiere aumentar las subvenciones a la agricultura en detrimento de la ganadería y retirar las de la pesca, cuya reconversión hacia otros sectores defiende.", "apoyos": ["c-656df0cd2e", "c-7b02144d31", "c-ca329f4957"] },
+        { "texto": "También propone una Estrategia nacional de turismo sostenible y leyes contra la obsolescencia programada que amplíen las garantías y faciliten la reparación.", "apoyos": ["c-f235f1d979", "c-ffb1bf0fd5"] }
+      ],
+      "nota": "Tema muy heterogéneo (85 citas, muchas de bienestar animal, cultura o medios). Se priorizan las medidas de política económica general; quedan fuera la prohibición del comercio de animales de compañía y de la exportación de animales vivos, la evaluación de la eficacia del gasto público y los economatos sociales."
+    },
+    {
+      "tema": "sanidad",
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende una sanidad pública y universal, sin copago, que reintegre los servicios privatizados y refuerce la atención primaria.", "apoyos": ["c-ca2bd96bb8", "c-050efc19db", "c-391c2fab54", "c-eb0c2f6aa8"] },
+        { "texto": "Propone planes contra las listas de espera, atención bucodental básica gratuita y más especialistas en psiquiatría y psicología, además de un plan de prevención del suicidio.", "apoyos": ["c-12f337423f", "c-e2590aa0ff", "c-d84bacf95e", "c-6f84502df9"] },
+        { "texto": "Pide reconocer las clínicas veterinarias como centros sanitarios y que los hospitales habiliten zonas para que los ingresados reciban la visita de sus animales.", "apoyos": ["c-4456fcc528", "c-66de186bde"] }
+      ],
+      "nota": "Todo sale del programa de 2026; la declaración de la campaña andaluza no se usa."
+    }
+  ]
+}

@@ -20,6 +20,8 @@ const calculado = (await leerJson(join(DIR, 'partidos-calculado.json'))).partido
 const config = await leerJson(join(DIR, 'temas.json'));
 const fuentes = new Map((await leerJson(join(DIR, 'fuentes.json'))).fuentes.map(f => [f.id, f]));
 const resumenes = (await leerJson(join(DIR, 'resumenes.json')).catch(() => ({ resumenes: {} }))).resumenes;
+// De dónde sale el orden de los temas (lo aplica ordenar-temas.mjs); la página de temas lo dice.
+const ordenTemas = (await leerJson(join(DIR, 'orden-temas.json')).catch(() => null))?.fuente;
 const circunscripciones = await leerJson(join(RAIZ, 'src', 'contenido', 'circunscripciones.json'));
 const nombreCirc = new Map(circunscripciones.map(c => [c.id, c.nombre]));
 
@@ -109,6 +111,7 @@ const salida = {
   nota: 'Generado por scripts/investigacion/generar-web.mjs a partir de datos/investigacion-2026/. No se edita a mano.',
   actualizado: new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Madrid' }),
   temas: config.temas.map(t => ({ id: t.id, nombre: t.nombre, definicion: t.definicion })),
+  ...(ordenTemas?.cita_breve ? { ordenTemas: { encuesta: ordenTemas.cita_breve, url: ordenTemas.pagina ?? ordenTemas.url } } : {}),
   partidos,
   fuentes: fuentesWeb,
   resumenes: posturas,

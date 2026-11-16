@@ -1,0 +1,85 @@
+{
+  "partido": "salf",
+  "lote": "salf.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-53a0c848b4", "motivo": "Su línea central y la que más repite en campaña: cero impuestos a la primera vivienda con un abaratamiento mínimo del 35 % garantizado por ley; las piezas que enumera sirven a un único objetivo votable.", "texto": null, "cambio": null },
+        { "id": "c-127deaeed4", "motivo": "Línea de ocupación e impago (desalojo policial en 48 horas, lanzamiento en 30 días), que el resumen recoge y el programa pone en su portada.", "texto": null, "cambio": null },
+        { "id": "c-9ebd1eae2e", "motivo": "Línea de suelo: todo el suelo de la Sareb y del Estado a concurso en 12 meses para vivienda protegida en propiedad; con plazo y se entiende sola.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-2d7c53c853", "motivo": "Primera línea del resumen: contrato indefinido único con indemnización de 12 a 33 días y mochila del 1,53 %, en una sola medida clara.", "texto": null, "cambio": null },
+        { "id": "c-b688bf398e", "motivo": "Línea de autónomos (cuota cero total), que el programa repite en portada y en varios apartados; es la versión más clara.", "texto": null, "cambio": null },
+        { "id": "c-d9c83fd209", "motivo": "Línea de bajas por enfermedad pagadas por la Seguridad Social desde el primer día, distinta de las anteriores y entendible sola.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-fc1bd25ed6", "motivo": "Primera línea del resumen: déficit cero en 2030 con techo de gasto y ninguna bajada de impuestos sin ahorro certificado por la AIReF; lleva fecha.", "texto": null, "cambio": null },
+        { "id": "c-839d78d9fc", "motivo": "Línea de empresas: dos regulaciones derogadas por cada nueva y unidad de mercado entre comunidades.", "texto": null, "cambio": null },
+        { "id": "c-181734f838", "motivo": "Línea de financiación de su rebaja fiscal mediante la devolución del rescate bancario, con cifras y plazo; nombra bancos, no partidos.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-ac2f3300e1", "motivo": "Recoge sus dos primeras líneas (plazos máximos y libre elección de centro si se superan) y es lo que destaca en campaña («60 días como máximo para operarte»).", "texto": null, "cambio": null },
+        { "id": "c-728c912384", "motivo": "Línea de profesionales: subida del 20 % a médicos y del 10 % al resto en cuatro años, con cifras y plazo; está en su portada.", "texto": null, "cambio": null },
+        { "id": "c-fd46d2f713", "motivo": "Línea de acceso a la tarjeta sanitaria (españoles y residentes legales con cotización o cobertura, urgencias para todos), distinta de las anteriores.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-da279e13af", "motivo": "Derogar la regularización de 2026 y prohibir por ley las regularizaciones masivas es centro de su postura y de su mensaje de campaña («fin de las regularizaciones»); se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-787ce19ec3", "motivo": "Línea de inmigración solo legal (visados con contrato previo y cupo anual votado en el Congreso) junto con la moratoria a países que no colaboran ni readmiten.", "texto": null, "cambio": null },
+        { "id": "c-bbe61f5e67", "motivo": "Expulsión en 48 horas con internamiento hasta la salida, la otra mitad de su mensaje de campaña; acción distinta de la regularización.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-d0d5412ea8", "motivo": "Primera línea de su postura y de su campaña («De 22 ministerios a 10»): supresión de 12 ministerios, 2 vicepresidencias y la mitad de los altos cargos; se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-1a885dd6f5", "motivo": "Línea de corrupción con su pieza principal, la imprescriptibilidad, que repite en campaña («La corrupción no prescribe»).", "texto": null, "cambio": null },
+        { "id": "c-7118889e8d", "motivo": "Línea de reforma constitucional del resumen: prohibir las amnistías y limitar los indultos, distinta de las dos anteriores.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-05dd2d04b6", "motivo": "Derecho a estudiar en castellano en toda España: línea principal del resumen y de su portada («Castellano garantizado»); la ley de dos tercios no tiene medida que se entienda sola.", "texto": null, "cambio": null },
+        { "id": "c-42ba4e4e0e", "motivo": "Línea de libertad de elección con el cheque escolar de igual importe en pública, concertada y privada; también en su portada.", "texto": null, "cambio": null },
+        { "id": "c-ba13a70367", "motivo": "Línea de contenidos fijados por un consejo académico independiente y neutralidad ideológica en el aula, distinta de las anteriores.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-fa45c0dd41", "motivo": "Única medida propia del tema y su primera línea: IVA de la luz y del agua al 4 % y supresión del impuesto a la producción eléctrica.", "texto": null, "cambio": null },
+        { "id": "c-abe72767ef", "motivo": "De otro tema, usada porque solo hay una propia: cubre la línea de veto al Pacto Verde y es literalmente su mensaje de campaña en el tema. Comprobado que no se elige en el lote salf.2.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

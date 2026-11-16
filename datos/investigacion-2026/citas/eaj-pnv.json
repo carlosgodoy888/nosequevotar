@@ -1,14 +1,16 @@
 {
   "partido": "eaj-pnv",
-  "actualizado": "2026-11-10",
+  "actualizado": "2026-11-16",
   "fuentes": [
     "eaj-pnv-programa-2026"
   ],
   "resumen": {
-    "vigentes": 304,
-    "medidas": 256,
-    "medidas_concretas": 108,
-    "posiciones": 48,
+    "vigentes": 314,
+    "medidas": 261,
+    "medidas_concretas": 113,
+    "posiciones": 53,
+    "de_programa": 304,
+    "declaraciones": 10,
     "exactas": 304,
     "normalizadas": 0,
     "sustituidas": 0
@@ -8356,6 +8358,233 @@
       "verificacion": "exacta",
       "estado": "vigente",
       "recogida": "2026-11-10"
+    },
+    {
+      "id": "c-407723ba20",
+      "partido": "eaj-pnv",
+      "tipo": "documento",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "No vamos a poner alfombras rojas y azules, no vamos a dar el voto a nadie, como han dicho otros, gratis et amore; vamos a plantear la agenda vasca, lo que interesa a esta sociedad. Lo tenemos clarísimo",
+      "idioma": "es",
+      "url": "https://www.eaj-pnv.eus/es/noticias/58724/aitor-esteban-el-pnv-es-el-seguro-para-que-los-int/",
+      "medio": "EAJ-PNV (web del partido; entrevista en Onda Vasca)",
+      "quien": "Aitor Esteban",
+      "cargo": "presidente del Euzkadi Buru Batzar (EBB) de EAJ-PNV",
+      "partido_de_quien": "EAJ-PNV",
+      "fecha": "2026-11-13",
+      "nota": "Apoyo a cualquier Gobierno condicionado a la agenda vasca",
+      "temas": [
+        "democracia-e-instituciones",
+        "organizacion-territorial"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-a78f26547f",
+      "partido": "eaj-pnv",
+      "tipo": "declaracion",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Decimos claramente que vamos a estar en contra de un bloque PP-Vox, no vamos a posibilitar un Gobierno PP-Vox y además nos van a tener enfrente",
+      "idioma": "es",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/14/vaquero-pnv-pp-vox-nos-tendran-enfrente-pero-no-cejaremos-en-trabajar-por-euskadi/",
+      "medio": "Infobae (entrevista de la agencia EFE)",
+      "quien": "Maribel Vaquero",
+      "cargo": "cabeza de lista al Congreso por Gipuzkoa y portavoz de EAJ-PNV en el Congreso",
+      "partido_de_quien": "EAJ-PNV",
+      "fecha": "2026-11-14",
+      "nota": "Descarta facilitar un Gobierno de PP y Vox",
+      "temas": [
+        "democracia-e-instituciones"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-a09690fff9",
+      "partido": "eaj-pnv",
+      "tipo": "documento",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Necesitamos asegurar que las pensiones mantengan su poder adquisitivo, mejorar las más bajas, reducir la brecha de género y corregir las penalizaciones injustas de quienes han cotizado durante más de cuarenta años",
+      "idioma": "es",
+      "url": "https://www.eaj-pnv.eus/es/noticias/58723/eaj-pnv-se-presenta-ante-la-ciudadania-de-euskadi-/",
+      "medio": "EAJ-PNV (web del partido; mitin de inicio de campaña en Vitoria-Gasteiz)",
+      "quien": "Idoia Sagastizabal",
+      "cargo": "cabeza de lista al Congreso por Bizkaia",
+      "partido_de_quien": "EAJ-PNV",
+      "fecha": "2026-11-12",
+      "nota": "Pensiones con poder adquisitivo y sin penalizar carreras largas",
+      "temas": [
+        "pensiones",
+        "igualdad-y-derechos"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-7930280f35",
+      "partido": "eaj-pnv",
+      "tipo": "documento",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "mejores salarios, condiciones laborales dignas y un salario mínimo propio adaptado al coste de la vida de Euskadi",
+      "idioma": "es",
+      "url": "https://www.eaj-pnv.eus/es/noticias/58727/eaj-pnv-defiende-en-un-encuentro-con-jovenes-agili/",
+      "medio": "EAJ-PNV (web del partido; acto con Euzko Gaztedi)",
+      "quien": "Idoia Sagastizabal",
+      "cargo": "cabeza de lista al Congreso por Bizkaia",
+      "partido_de_quien": "EAJ-PNV",
+      "fecha": "2026-11-13",
+      "nota": "Salario mínimo propio para Euskadi",
+      "temas": [
+        "empleo",
+        "organizacion-territorial"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-38da751389",
+      "partido": "eaj-pnv",
+      "tipo": "documento",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "La política de vivienda necesita grandes acuerdos. Las soluciones no pueden partir desde la confrontación, o conmigo o contra mí, o blanco o negro. Como si no hubiera otra opción. Necesita el concurso de todas las administraciones y de todos los agentes. Hay que plantear soluciones desde la centralidad, no desde el extremismo y la polarización",
+      "idioma": "es",
+      "url": "https://www.eaj-pnv.eus/es/noticias/58732/urtaran-defiende-que-eaj-pnv-es-la-poliza-a-todo-r/",
+      "medio": "EAJ-PNV (web del partido; acto en Alegría-Dulantzi)",
+      "quien": "Gorka Urtaran",
+      "cargo": "cabeza de lista al Congreso por Araba/Álava",
+      "partido_de_quien": "EAJ-PNV",
+      "fecha": "2026-11-15",
+      "nota": "Política de vivienda basada en acuerdos entre administraciones",
+      "temas": [
+        "vivienda"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-179d76236e",
+      "partido": "eaj-pnv",
+      "tipo": "documento",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Queremos que tengas libertad para decidir si quieres comprar o alquilar, pero que tengas las oportunidades de hacer lo que quieras. Quien quiera comprar, que compre. Y quien quiera alquilar, que alquile.",
+      "idioma": "es",
+      "url": "https://www.eaj-pnv.eus/es/noticias/58727/eaj-pnv-defiende-en-un-encuentro-con-jovenes-agili/",
+      "medio": "EAJ-PNV (web del partido; acto con Euzko Gaztedi)",
+      "quien": "Idoia Sagastizabal",
+      "cargo": "cabeza de lista al Congreso por Bizkaia",
+      "partido_de_quien": "EAJ-PNV",
+      "fecha": "2026-11-13",
+      "nota": "Libertad para elegir entre comprar o alquilar vivienda",
+      "temas": [
+        "vivienda"
+      ],
+      "verificacion": "fuente-abierta-corregida",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-0ec443d68f",
+      "partido": "eaj-pnv",
+      "tipo": "documento",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "Queremos recuperar la puntualidad y las frecuencias del Irun-Brinkola y ofrecer a sus personas usuarias los estándares de calidad de Euskotren y el Topo. No queremos seguir dependiendo de decisiones tomadas a cientos de kilómetros por quienes no conocen nuestras necesidades ni sufren las consecuencias de sus retrasos. Hemos demostrado que cuando Euskadi gestiona, Euskadi funciona",
+      "idioma": "es",
+      "url": "https://www.eaj-pnv.eus/es/noticias/58728/eaj-pnv-denuncia-decadas-de-abandono-ferroviario-d/",
+      "medio": "EAJ-PNV (web del partido; visita a Tolosa)",
+      "quien": "Maribel Vaquero",
+      "cargo": "cabeza de lista al Congreso por Gipuzkoa y portavoz de EAJ-PNV en el Congreso",
+      "partido_de_quien": "EAJ-PNV",
+      "fecha": "2026-11-14",
+      "nota": "Gestión vasca de la línea de Cercanías Irun-Brinkola",
+      "temas": [
+        "transporte",
+        "organizacion-territorial"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-e873b07c61",
+      "partido": "eaj-pnv",
+      "tipo": "documento",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Somos la puerta norte de la península hacia Europa. Nuestra industria, nuestros puertos y nuestra economía necesitan conexiones ferroviarias competitivas. Europa apuesta por corredores transeuropeos y Madrid sigue arrastrando una visión centralista de las infraestructuras.",
+      "idioma": "es",
+      "url": "https://www.eaj-pnv.eus/es/noticias/58728/eaj-pnv-denuncia-decadas-de-abandono-ferroviario-d/",
+      "medio": "EAJ-PNV (web del partido; visita a Tolosa)",
+      "quien": "Maribel Vaquero",
+      "cargo": "cabeza de lista al Congreso por Gipuzkoa y portavoz de EAJ-PNV en el Congreso",
+      "partido_de_quien": "EAJ-PNV",
+      "fecha": "2026-11-14",
+      "nota": "Prioridad al Corredor Atlántico frente a la red radial",
+      "temas": [
+        "transporte",
+        "economia"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-8d362f0ce8",
+      "partido": "eaj-pnv",
+      "tipo": "documento",
+      "clase": "medida",
+      "medida_concreta": true,
+      "cita": "La SEPI tiene como objetivo impulsar proyectos industriales, preservar nuestra capacidad industrial. No puede mirar hacia otro lado. No puede hacer dejación de sus funciones. La SEPI sabe lo que tiene que hacer para salvar a Tubos Reunidos. Y si lo hace, va a contar con el apoyo de EAJ-PNV en Madrid, en los ayuntamientos de la comarca de Aiaraldea, en la Diputación y en el Gobierno vasco",
+      "idioma": "es",
+      "url": "https://www.eaj-pnv.eus/es/noticias/58725/el-pnv-defiende-la-industria-como-motor-del-desarr/",
+      "medio": "EAJ-PNV (web del partido; acto en Amurrio)",
+      "quien": "Gorka Urtaran",
+      "cargo": "cabeza de lista al Congreso por Araba/Álava",
+      "partido_de_quien": "EAJ-PNV",
+      "fecha": "2026-11-13",
+      "nota": "Pide a la SEPI intervenir para salvar Tubos Reunidos",
+      "temas": [
+        "economia",
+        "empleo"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
+    },
+    {
+      "id": "c-533e56fffb",
+      "partido": "eaj-pnv",
+      "tipo": "declaracion",
+      "clase": "posicion",
+      "medida_concreta": false,
+      "cita": "Dar el voto al Partido Nacionalista Vasco tiene un doble valor, porque supone la defensa de Euskadi y construir la casa vasca, y que podamos tener una selección vasca también en fútbol",
+      "idioma": "es",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/14/esteban-el-voto-seguro-para-defender-a-euskadi-y-a-la-seleccion-vasca-es-el-del-pnv/",
+      "medio": "Infobae (agencia EFE)",
+      "quien": "Maribel Vaquero",
+      "cargo": "cabeza de lista al Congreso por Gipuzkoa y portavoz de EAJ-PNV en el Congreso",
+      "partido_de_quien": "EAJ-PNV",
+      "fecha": "2026-11-14",
+      "nota": "Oficialidad internacional de la selección vasca de fútbol",
+      "temas": [
+        "ciencia-cultura-y-digital",
+        "organizacion-territorial"
+      ],
+      "verificacion": "fuente-abierta",
+      "estado": "vigente",
+      "recogida": "2026-11-16"
     }
   ]
 }

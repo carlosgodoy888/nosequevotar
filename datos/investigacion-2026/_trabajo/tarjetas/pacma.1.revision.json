@@ -1,0 +1,85 @@
+{
+  "partido": "pacma",
+  "lote": "pacma.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-5f6db97995", "motivo": "Primera línea del resumen: construcción masiva de vivienda pública y compra de viviendas vacías para venta y alquiler social; el programa la presenta como «la solución real» y se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-418d9ee7fb", "motivo": "Segunda línea: incentivos fiscales (100% IRPF o exención del IBI a pequeños propietarios que pongan su vivienda un 10-15% por debajo del precio medio), con cifras concretas; todo el texto es un mismo paquete de incentivos fiscales.", "texto": null, "cambio": null },
+        { "id": "c-d635a365da", "motivo": "Tercera línea, contra la especulación: recargos fiscales a la compra por fondos de inversión y no residentes; corta y clara.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-bdbe52c0e6", "motivo": "Fomento del teletrabajo con incentivos fiscales y ayudas a la contratación y al equipamiento: la medida laboral más desarrollada del programa, en el resumen; 78 palabras, dentro del límite.", "texto": null, "cambio": null },
+        { "id": "c-0759ec6bd9", "motivo": "Línea de conciliación: guarderías en los centros de trabajo y permisos retribuidos, incluido el cuidado de animales de compañía, rasgo propio de su postura.", "texto": null, "cambio": null },
+        { "id": "c-6969018a95", "motivo": "Línea de igualdad en el empleo: actualizar la ley de conciliación con compromisos de las administraciones para el acceso y la permanencia de las mujeres en el empleo.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-656df0cd2e", "motivo": "Aumentar las subvenciones a la agricultura en detrimento de la ganadería: la medida económica más característica de su filosofía, en el resumen; se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-ffb1bf0fd5", "motivo": "Línea contra la obsolescencia programada: más garantía, reparación fácil y libertad de taller; concreta y en el resumen.", "texto": null, "cambio": null },
+        { "id": "c-f235f1d979", "motivo": "Línea de turismo sostenible: Estrategia nacional de turismo sostenible y respetuoso con la naturaleza, los animales y los vecinos, en el resumen.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-391c2fab54", "motivo": "Línea principal: sanidad pública y universal, devolviendo al sistema público los servicios privatizados; corta y se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-d84bacf95e", "motivo": "Segunda línea, mejora de la atención: más especialistas en psiquiatría y psicología en la sanidad pública; igual de representativa que la bucodental y no hay que retocarla.", "texto": null, "cambio": null },
+        { "id": "c-66de186bde", "motivo": "Tercera línea, la propia de su postura: zonas en los hospitales para que los ingresados reciban la visita de sus animales; ninguna otra medida propia del tema cubre esa línea, así que se elige con el cambio mínimo.", "texto": "Por ello, proponemos que los hospitales permitan el acceso de animales, habilitando una zona o sala, donde las personas que se encuentren ingresadas puedan recibir la visita de sus animales de compañía. Para ello, promoveremos un plan conjunto entre el Consejo Interterritorial del Sistema Nacional de Salud, el Estado y las comunidades autónomas, con los protocolos de seguridad e higiene adecuados.", "cambio": "Se quita «desde PACMA » tras «Por ello, »." }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-174f230dc9", "motivo": "No hay medidas propias del tema; de las dos que se ofrecen (de educación), los mediadores interculturales en colegios e institutos es la más cercana a su línea de integración y aparece en el resumen.", "texto": null, "cambio": null },
+        { "id": "c-c4d65309f5", "motivo": "Cambiar los criterios de matrícula para evitar la concentración de alumnado extranjero en algunos centros, contra la segregación escolar; en el resumen. No se usa en educación.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-37abed0e70", "motivo": "Primera línea del resumen: circunscripción única, sin barrera electoral y con escaños proporcionales a los votos; se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-341f1c2e8b", "motivo": "Línea anticorrupción: eliminación de los aforamientos, primera medida de su apartado contra la corrupción.", "texto": null, "cambio": null },
+        { "id": "c-90daa4ce8f", "motivo": "Línea de igualdad entre partidos en los medios públicos: los mismos minutos de vídeos electorales para todas las candidaturas; se entiende sola.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-03abb87b4f", "motivo": "Reducir la ratio de alumnos por profesor en todas las etapas: resume su apuesta por una educación pública de calidad y se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-1c991aa716", "motivo": "Línea del Pacto de Estado por la Educación pública: plazas públicas suficientes de 0 a 3 años, concreta y en el resumen.", "texto": null, "cambio": null },
+        { "id": "c-97cecd8129", "motivo": "Línea de valores propios: opción de menú 100% vegetal en todos los comedores escolares, en el resumen.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-7e3267b6be", "motivo": "Prohibir el uso de animales en todo tipo de espectáculos, tradiciones y festejos: núcleo de su postura animalista (línea 4), lo destaca en campaña (nota del 15-11-2026 contra un festejo con animales) y no nombra al partido.", "texto": null, "cambio": null },
+        { "id": "c-7f70f35564", "motivo": "Línea de protección de la naturaleza: proteger al menos el 30% del territorio en 2030, con cifra y plazo; no hay otra medida equivalente que no nombre al partido.", "texto": "Se propone ampliar las zonas marinas y terrestres protegidas, de manera que las áreas naturales protegidas de bosques, humedales, turberas, pastizales y ecosistemas costeros, que, actualmente solo suponen un 18% del territorio, abarquen, al menos, un 30% para 2030. Este objetivo debe ser vinculante a nivel nacional, en cooperación con los gobiernos autonómicos y locales, siendo fundamental, además, que la protección de la biodiversidad se tenga en cuenta en todas las políticas, de manera transversal.", "cambio": "Se sustituye «PACMA propone» por «Se propone»." },
+        { "id": "c-ac9b7741ae", "motivo": "Línea de clima y emisiones: nuevo Plan Nacional de Calidad del Aire contra las fuentes más contaminantes (combustibles fósiles, ganadería y agricultura intensivas, transporte); la única medida válida del lote que toca la transición y la ganadería; 79 palabras, dentro del límite. No se usa en sanidad.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

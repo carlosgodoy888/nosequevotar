@@ -39,7 +39,7 @@
             "**El mismo criterio.** Qué fuentes valen, desde qué fecha y qué cuenta como medida concreta se decide una vez y se aplica igual a todos.",
             "**Sin recortar.** Las medidas concretas de cada partido se ven todas. No elegimos las que más llaman la atención.",
             "**El mismo diseño.** Sin colores, sin logotipos y sin fotos.",
-            "**Un orden que no elegimos nosotros.** Los partidos salen por los votos que tuvieron en 2023, y los que no se presentaron entonces van al final."
+            "**Un orden que no elegimos nosotros.** Los partidos salen por los votos que tuvieron en 2023, y los que no se presentaron entonces van al final. Los temas van de más a menos citado como problema en el barómetro del CIS de octubre de 2026, sumando lo que la gente considera el principal problema de España y el que más le afecta personalmente."
           ]
         }
       ]
@@ -93,8 +93,19 @@
     {
       "titulo": "El test sin siglas",
       "bloques": [
-        { "tipo": "parrafo", "texto": "El [test sin siglas](/test/) usa todavía los programas de 2023 de diez partidos. Lo actualizaremos con la información de 2026." },
-        { "tipo": "parrafo", "texto": "Cada propuesta que te convence suma un palote al partido que la firma, y dos si es tu favorita del tema. Los temas que marcas como los que más te importan cuentan el doble. El porcentaje compara lo que ha sumado cada partido con lo que habría sumado si te hubieran convencido todas sus propuestas que has respondido." }
+        { "tipo": "parrafo", "texto": "En el [test sin siglas](/test/) lees medidas de los programas sin saber de qué partido son y votas a favor, en contra o te abstienes. Solo te preguntamos por los temas que eliges y solo salen los partidos que se presentan en tu provincia." },
+        {
+          "tipo": "lista",
+          "items": [
+            "**Solo programas.** Entran los partidos de esta web que han publicado programa. Si un partido solo tiene un documento general, usamos ese y lo decimos. Las declaraciones no entran, así que un partido sin ningún documento no sale en el test.",
+            "**La medida, tal como está escrita.** No la resumimos ni la reescribimos. Si está en catalán, gallego o euskera, va traducida. Solo quitamos el nombre del partido cuando aparece dentro de la frase.",
+            "**Las más representativas.** De cada partido y cada tema elegimos hasta tres medidas: las que mejor reflejan el conjunto de lo que propone en ese tema, teniendo en cuenta lo que más destaca en su campaña. No la más llamativa ni la más amable.",
+            "**Con una segunda revisión.** Cada elección la repasa otra lectura independiente, con las mismas reglas para todos los partidos.",
+            "**Rápido o completo.** En el rápido ves una medida de cada partido por tema. En el completo, hasta tres."
+          ]
+        },
+        { "tipo": "parrafo", "texto": "El resultado se calcula tema a tema. Cada medida de un partido que votas a favor suma un punto, cada una que votas en contra resta un punto y las abstenciones ni suman ni restan. La afinidad con el partido en ese tema es esa suma dividida entre sus medidas: va de +100 % (a favor de todas) a −100 % (en contra de todas), y 0 % significa tantas a favor como en contra, o solo abstenciones. El porcentaje final es la media de sus temas, y todos pesan lo mismo, tenga el partido una medida o tres. Si un partido no tiene medidas en uno de tus temas, ese tema no cuenta para él y el resultado lo dice." },
+        { "tipo": "parrafo", "texto": "El test es una muestra de cada programa, no el programa entero, y no es un consejo de voto. Todo se calcula en tu móvil: tus respuestas no se envían a ningún sitio." }
       ]
     },
     {
@@ -104,5 +115,5 @@
       ]
     }
   ],
-  "actualizado": "2026-11-12"
+  "actualizado": "2026-11-16"
 }

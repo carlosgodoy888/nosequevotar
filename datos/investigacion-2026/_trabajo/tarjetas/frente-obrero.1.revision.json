@@ -1,0 +1,181 @@
+{
+  "partido": "frente-obrero",
+  "lote": "frente-obrero.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-73489104e9", "motivo": "Es la medida central del apartado de vivienda del programa (paralizar desahucios hasta tener alternativa habitacional, línea 3 del resumen) y expresa su enfoque de protección a las familias trabajadoras frente a bancos y rentistas. Las de la línea 1 (vivienda pública) solo existen como medidas juveniles, más estrechas.", "texto": null, "cambio": null },
+        { "id": "c-9dea7ef014", "motivo": "Cubre la línea de vivienda pública y emancipación juvenil (línea 1 del resumen) con una acción concreta.", "texto": null, "cambio": null },
+        { "id": "c-d893c61ffd", "motivo": "Cubre la línea de orientar la vivienda pública hacia los españoles autóctonos (línea 4 del resumen), que figura en su propio apartado de vivienda. La referencia «como se ha visto en el programa» no impide entender la medida, que está en la primera frase.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "empleo",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-f06f7dad67", "motivo": "Derogar las reformas laborales que abaratan el despido es la primera línea del resumen y resume su enfoque de «los trabajadores primero».", "texto": null, "cambio": null },
+        { "id": "c-b860847f05", "motivo": "Prohibir las ETT representa la línea de acabar con la precariedad contractual (línea 2), y es más nítida que la restricción genérica de temporales.", "texto": null, "cambio": null },
+        { "id": "c-a97ce9c006", "motivo": "Cubre la línea de autónomos (línea 3): eximir de cuota a quien no llega al SMI.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "economia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-3810f215b1", "motivo": "Nacionalizar los sectores estratégicos es la medida que mejor resume su postura de fuerte intervención del Estado y reindustrialización (líneas 1 y 2 del resumen).", "texto": null, "cambio": null },
+        { "id": "c-a8b34f45c7", "motivo": "Cubre la línea de suprimir subvenciones que considera ideológicas (línea 4 del resumen).", "texto": null, "cambio": null },
+        { "id": "c-f086a781d9", "motivo": "Única otra medida propia del tema: limitar la publicidad de apuestas, alcohol y pornografía; votable y comprensible por sí sola. Las de otro tema que encajarían mejor (expropiación de tierras, fraude fiscal) se usan en sus temas principales.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "sanidad",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-beb167dcb8", "motivo": "Acabar con la externalización y privatización es el núcleo de su defensa de una sanidad totalmente pública (línea 1 del resumen).", "texto": null, "cambio": null },
+        { "id": "c-c31417c50f", "motivo": "Cubre la ampliación de prestaciones gratuitas (bucodental, fisioterapia, oftalmología), línea 3 del resumen.", "texto": null, "cambio": null },
+        { "id": "c-0597851bd7", "motivo": "Cubre una idea distinta de la privatización: una sanidad centralizada y homogénea, rasgo propio de su postura frente a la gestión autonómica (línea 1).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "inmigracion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-d7b991cb0e", "motivo": "Expulsión inmediata de irregulares y delincuentes reiterados: recoge en una sola medida concreta la línea 2 del resumen, que es el centro operativo de su postura de reducir la inmigración.", "texto": null, "cambio": null },
+        { "id": "c-d6c1e4d162", "motivo": "Cubre la línea de nacionalidad (línea 3): suspender concesiones hasta revisar las de los últimos veinte años.", "texto": null, "cambio": null },
+        { "id": "c-6a0ddfcb02", "motivo": "Cubre la línea de restringir el asilo (línea 4 del resumen).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-89cfdf2997", "motivo": "El proceso constituyente para acabar con el «régimen actual» es la primera línea del resumen y la única medida propia del tema.", "texto": null, "cambio": null },
+        { "id": "c-d572c5af30", "motivo": "Cubre la línea anticorrupción (línea 2): prohibir el indulto por corrupción. De otro tema, usada porque solo hay una propia y no se usa en seguridad-y-justicia.", "texto": null, "cambio": null },
+        { "id": "c-b7b72d4dfc", "motivo": "Cubre la línea de suprimir estructuras que considera ideológicas (línea 4): el Ministerio de Igualdad. De otro tema, no usada en igualdad-y-derechos.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "educacion",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-78e6a31b7e", "motivo": "Educación gratuita en todos los niveles es la primera línea del resumen y la medida que encabeza su apartado de educación.", "texto": null, "cambio": null },
+        { "id": "c-9f75f7d14d", "motivo": "Cubre la línea de reforzar la pública retirando dinero a la privada (línea 2).", "texto": null, "cambio": null },
+        { "id": "c-3efffe69e2", "motivo": "Cubre la línea 4 del resumen: sacar el islam de los centros públicos.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-bfe1373b62", "motivo": "Regulación inmediata de la factura de la luz y los combustibles: la medida que el programa pone primero y con plazo («inmediata»), línea 3 del resumen y eje de su «soberanía energética».", "texto": null, "cambio": null },
+        { "id": "c-de3c28a730", "motivo": "Cubre la apuesta nuclear y por el uranio nacional (línea 2), base de su modelo de independencia energética.", "texto": null, "cambio": null },
+        { "id": "c-3a3d7da1ca", "motivo": "Cubre la línea 4 (no derribar más presas), distinta de la energía.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-76f8211c13", "motivo": "Salir de la UE para recuperar la soberanía nacional encabeza su apartado «Soberanía nacional» y la línea 1 del resumen.", "texto": null, "cambio": null },
+        { "id": "c-2d0ec88b5a", "motivo": "Salida inmediata de la OTAN: decisión distinta de la UE y también central en la línea 1.", "texto": null, "cambio": null },
+        { "id": "c-b9b985c155", "motivo": "Cubre la línea 2: expulsar bases extranjeras y recuperar Gibraltar.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-8b1e3c7e21", "motivo": "Suprimir que el Gobierno elija miembros de órganos judiciales concreta la primera línea del resumen (independencia judicial) en una acción votable.", "texto": null, "cambio": null },
+        { "id": "c-855aa4a2d7", "motivo": "Cubre la línea anticorrupción (línea 2): penas mayores, también para los partidos.", "texto": null, "cambio": null },
+        { "id": "c-cd2f1a5c94", "motivo": "Cubre la línea policial (línea 3): integrar las policías autonómicas en la Policía Nacional.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-1bce72e9a2", "motivo": "Ventajas fiscales y ayudas a las familias con más hijos: la medida que mejor expresa su objetivo natalista (líneas 1 y 2 del resumen) y se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-7bc99be4b8", "motivo": "Cubre los servicios públicos para conciliar: guarderías públicas y gratuitas (línea 2).", "texto": null, "cambio": null },
+        { "id": "c-4ad3809bfe", "motivo": "Cubre la línea de conciliación laboral (línea 3): bajas más largas y flexibilidad obligatoria en las empresas, ambas con el mismo fin de conciliar.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-bccc34ca2f", "motivo": "Bajar el IRPF a quien menos gana y subirlo a las rentas altas resume su fiscalidad que prioriza a los trabajadores (líneas 1 y 2 del resumen) y abre su apartado fiscal.", "texto": null, "cambio": null },
+        { "id": "c-130c36ac20", "motivo": "Cubre la línea del IVA superreducido para productos de primera necesidad (línea 3).", "texto": null, "cambio": null },
+        { "id": "c-7320c13b5f", "motivo": "Cubre la línea contra el fraude fiscal, con multas y expropiación (línea 4).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-36bcdc75a2", "motivo": "Derogar las leyes de discriminación positiva y suprimir los cupos es la medida que mejor resume su postura de «igualdad real» frente al feminismo (líneas 1 y 2 del resumen).", "texto": null, "cambio": null },
+        { "id": "c-12485b7545", "motivo": "Cubre la línea 3 (islam y espacio público): prohibir el hijab en lugares y puestos públicos.", "texto": null, "cambio": null },
+        { "id": "c-70b6221971", "motivo": "Derogar la Ley Trans figura expresamente en la línea 2 del resumen, junto a la discriminación positiva.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-9ec2f56b83", "motivo": "Revertir el aumento de la edad de jubilación es la primera línea del resumen.", "texto": null, "cambio": null },
+        { "id": "c-944a1d6c2d", "motivo": "Cubre la línea de cuantía: calcular la pensión con los mejores años cotizados (línea 2).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": []
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-bf9d284289", "motivo": "Centralizar sanidad, educación y emergencias concreta la primera línea del resumen (reforzar el Gobierno central recuperando competencias).", "texto": null, "cambio": null },
+        { "id": "c-012ea8a56b", "motivo": "Cubre la línea 2: mismas competencias y mismo régimen fiscal para todas las comunidades.", "texto": null, "cambio": null },
+        { "id": "c-eaddb85303", "motivo": "Cubre la línea de lenguas (línea 4): derecho a estudiar en castellano o en las cooficiales. De otro tema, usada porque solo hay dos propias y no se usa en educación.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-080429edf2", "motivo": "Romper con la PAC y los tratados que merman la producción es la primera línea del resumen y abre su apartado «En defensa del campo español».", "texto": null, "cambio": null },
+        { "id": "c-33611723ad", "motivo": "Cubre la línea 2: expropiar tierras sin uso de grandes terratenientes y repartirlas entre agricultores y cooperativas.", "texto": null, "cambio": null },
+        { "id": "c-2f6f8e6852", "motivo": "Cubre la línea 3: prohibir parques solares en tierras de cultivo.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-d4ac14d456", "motivo": "Limitar el acceso de menores de dieciséis años a determinadas tecnologías concreta la primera línea del resumen (frenar la digitalización).", "texto": null, "cambio": null },
+        { "id": "c-e7270ae727", "motivo": "Cubre la línea de cultura accesible (línea 3): museos, patrimonio, bibliotecas y filmotecas gratis.", "texto": null, "cambio": null },
+        { "id": "c-5ff6906e96", "motivo": "Completa la línea 3 con la rebaja de impuestos sobre libros y material artístico; las demás líneas del resumen no tienen medida candidata.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

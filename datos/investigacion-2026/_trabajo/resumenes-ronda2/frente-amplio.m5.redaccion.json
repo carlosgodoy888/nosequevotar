@@ -1,0 +1,73 @@
+{
+  "resumenes": [
+    {
+      "tema": "sanidad",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Defiende una sanidad «100 % pública, universal y de gestión directa», con un mínimo del 8 % del PIB y el 25 % del presupuesto sanitario para Atención Primaria.",
+          "apoyos": ["c-0db002f962", "c-2bf59bfd94", "c-65a3b01437"]
+        },
+        {
+          "texto": "Propone que la gestión indirecta sea excepcional, internalizar servicios privatizados y prohibir que fondos de capital riesgo compren hospitales.",
+          "apoyos": ["c-24161a37cc", "c-e49e746046", "c-22126984af", "c-c6db578285"]
+        },
+        {
+          "texto": "Quiere extender la atención bucodental pública al menos a la mitad de la población e incluir gafas, lentillas y audífonos.",
+          "apoyos": ["c-06e335b5f8", "c-a7b5abc958", "c-90432d1d88", "c-2822da27a3", "c-43e12fba5b"]
+        },
+        {
+          "texto": "También plantea un fondo para salud mental, un decreto de listas de espera y recoger el aborto en la Constitución.",
+          "apoyos": ["c-3906e10df5", "c-be9d78743e", "c-7f786cec85", "c-abb812b05c"]
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "educacion",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone llevar por ley el gasto en educación pública al 7 % del PIB en 2030 y defiende la gratuidad desde los 0 años hasta la universidad.",
+          "apoyos": ["c-e546522172", "c-0db002f962"]
+        },
+        {
+          "texto": "Quiere limitar por ley los alumnos por aula a 15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato.",
+          "apoyos": ["c-5d6862e291", "c-3fe9c7fa79"]
+        },
+        {
+          "texto": "Plantea comedor gratuito en Infantil y Primaria públicas, plazas gratuitas de 0 a 3 años y más becas.",
+          "apoyos": ["c-6477f813b4", "c-22e7b626e4", "c-dc9ab01185", "c-c05e7a56c0"]
+        },
+        {
+          "texto": "Pide destinar todos los fondos públicos a la red pública y retirar los conciertos a centros que separen por sexo o por motivos religiosos.",
+          "apoyos": ["c-d1ccf6002d", "c-e554f3e2fd"]
+        }
+      ],
+      "nota": "Las ratios siguen el programa (15/20/23); una declaración de 2025 de su portavoz de Educación hablaba de 20 y 25 alumnos, y no se recoge."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone una prestación universal por crianza de 200 euros al mes por cada menor de 18 años, sin depender de los ingresos familiares.",
+          "apoyos": ["c-a61dd18da8", "c-b95badd8c3", "c-47693cde11"]
+        },
+        {
+          "texto": "Quiere ampliar el permiso por nacimiento a 20 semanas intransferibles por progenitor y duplicarlo en familias monoparentales.",
+          "apoyos": ["c-b7add7a44c"]
+        },
+        {
+          "texto": "Plantea subir la inversión en dependencia del 0,8 % al 1,7 % del PIB en 2030 y duplicar la ayuda a domicilio.",
+          "apoyos": ["c-462093eb69", "c-625e824dbc"]
+        },
+        {
+          "texto": "Defiende una Ley de Familias que reconozca la diversidad familiar y permita designar personas de referencia sin parentesco para los permisos de cuidado.",
+          "apoyos": ["c-64d001d319", "c-018503bb6f", "c-a286077bb3", "c-40bda6ccef"]
+        }
+      ],
+      "nota": ""
+    }
+  ]
+}

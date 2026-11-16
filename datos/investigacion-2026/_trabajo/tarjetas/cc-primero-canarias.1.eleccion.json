@@ -1,0 +1,220 @@
+{
+  "partido": "cc-primero-canarias",
+  "lote": "cc-primero-canarias.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        { "id": "c-a943e85fb6", "motivo": "Limitar la compra de vivienda por extranjeros es la línea propia del resumen (punto 3) y la que más destacan en campaña sus dos cabezas de lista (Sosa y Valido); esta es la versión del programa, más fiel que las declaraciones más duras.", "texto": null, "cambio": null },
+        { "id": "c-5fd07ba38f", "motivo": "Representa la otra gran línea: el fondo estatal de ocho años para vivienda pública y asequible, con plazo concreto; es la primera medida del apartado.", "texto": null, "cambio": null },
+        { "id": "c-a654df545e", "motivo": "Cubre la línea de vivienda vacacional (punto 1 del resumen): que Canarias pueda limitar los usos turísticos donde haya presión sobre la vivienda.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-5fd07ba38f", "por_que_no": "Igual de central para su modelo de vivienda, pero la limitación de compra a extranjeros es la que repiten sus candidatos en campaña y la que más distingue su postura." },
+        { "id": "c-96b1ab8393", "por_que_no": "Incentivos a pequeños propietarios: línea secundaria del resumen (punto 4), menos destacada." }
+      ],
+      "nota": "Se deja en vivienda la medida de vivienda vacacional (también ofrecida en economía)."
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        { "id": "c-23fafa3df3", "motivo": "Mejorar salarios con incentivos fiscales y bonificaciones ligados a mejoras salariales pactadas: concreta su línea principal de empleo estable y mejores salarios (puntos 1 y 2 del resumen).", "texto": null, "cambio": null },
+        { "id": "c-24866b478f", "motivo": "Cubre la línea de financiación estatal del Plan Integral de Empleo de Canarias (punto 3).", "texto": null, "cambio": null },
+        { "id": "c-4f0d32d3cf", "motivo": "Cubre el plan cuatrienal de empleo para menores de 35 años (punto 3), distinto del plan general.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-24866b478f", "por_que_no": "Representativa, pero más genérica y centrada en financiación; la de salarios recoge mejor lo que propone hacer con el empleo." },
+        { "id": "c-e0ef42c487", "por_que_no": "Bonificación del 50 % con cifra, pero remite a «las tres islas» y «esa propuesta» sin decir cuáles: no se entiende sola." }
+      ],
+      "nota": "La declaración de campaña (precariedad en aeropuertos) no tiene medida equivalente en el programa."
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        { "id": "c-68ad78aeb0", "motivo": "Actualizar las compensaciones por los sobrecostes de la insularidad para abaratar la cesta de la compra: línea del resumen (punto 3) y mensaje central de Valido en campaña sobre el supermercado.", "texto": null, "cambio": null },
+        { "id": "c-c882ff93d8", "motivo": "Que las administraciones canarias puedan usar sus remanentes en vivienda, sanidad o educación (punto 4); Sosa lo repite en campaña.", "texto": null, "cambio": null },
+        { "id": "c-10884edd51", "motivo": "Cubre la línea de turismo que contribuya al bienestar de los residentes (punto 2 del resumen).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-76341256e0", "por_que_no": "Compensar el 100 % del transporte de mercancías es muy destacado en campaña, pero es de transporte y se usa allí." },
+        { "id": "c-3229dbe958", "por_que_no": "Separar el REF de la financiación de servicios (punto 1) es de organización territorial y se usa allí; además hay medidas propias suficientes." }
+      ],
+      "nota": "No se usan medidas de otros temas porque hay propias suficientes."
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        { "id": "c-ef4a040cb3", "motivo": "Compensación estatal por los sobrecostes sanitarios de la insularidad: concreta su línea de financiación que reconozca el coste de atender ocho islas (puntos 1 y 2) y enlaza con el mensaje de campaña sobre financiación justa.", "texto": null, "cambio": null },
+        { "id": "c-a64dc8004f", "motivo": "Cubre la línea de reforzar la salud mental en los Presupuestos (punto 3).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-a64dc8004f", "por_que_no": "Línea real pero secundaria frente a la de financiación de los sobrecostes." }
+      ],
+      "nota": "Solo hay dos medidas candidatas."
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        { "id": "c-722960b759", "motivo": "Traslados obligatorios y automáticos a otras comunidades al superarse umbrales: línea central del resumen (punto 2) y única medida propia del tema.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-9e8db7040a", "por_que_no": "Empieza con «Incluiremos» sin decir dónde y mezcla transporte aéreo interinsular con autorizaciones de trabajo: no se entiende sola." }
+      ],
+      "nota": "Solo una medida válida."
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        { "id": "c-60a3db2af5", "motivo": "Informe público anual de las obligaciones estatales con Canarias (punto 3): única medida propia del tema, clara y votable, y refleja su idea de exigir y rendir cuentas.", "texto": null, "cambio": null },
+        { "id": "c-4158d388b9", "motivo": "Cumplir en las Cortes la Agenda Canaria y el Decreto Canarias (punto 2), coherente con su mensaje de campaña de condicionar el apoyo a negociar con Canarias.", "texto": null, "cambio": null },
+        { "id": "c-1379b41eeb", "motivo": "Que una reforma constitucional recoja la singularidad canaria (punto 4).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-4158d388b9", "por_que_no": "Recoge la línea 2 y se alinea con la campaña, pero es de otro tema y quien no conoce la «Agenda Canaria» no sabe bien qué vota; la propia del tema se entiende mejor." }
+      ],
+      "nota": "Hay una sola medida propia; se completan con dos de organización territorial no usadas allí. c-4158d388b9 menciona al Gobierno de Canarias como institución, no como gobierno del partido; no se cambia."
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        { "id": "c-cbb988189c", "motivo": "Becas del REF para quien debe estudiar fuera de su isla (punto 3): su propuesta más propia en educación y cercana al mensaje de campaña sobre las dificultades añadidas del alumnado de las islas.", "texto": null, "cambio": null },
+        { "id": "c-4a1462a326", "motivo": "Cubre la línea de inversión estatal en infraestructuras educativas (punto 1).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-4a1462a326", "por_que_no": "Igual de representativa, pero más genérica y menos ligada a lo que destacan en campaña." }
+      ],
+      "nota": "Solo hay dos medidas candidatas."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        { "id": "c-8063b09892", "motivo": "Sustituir progresivamente las centrales térmicas obsoletas por renovables: resume su línea principal de transición energética y suministro (puntos 1 y 2).", "texto": null, "cambio": null },
+        { "id": "c-2c4aa021a0", "motivo": "Cubre la línea del agua: compensar el sobrecoste de la desalación, que Sosa destaca en campaña con la cifra de 140 millones anuales.", "texto": null, "cambio": null },
+        { "id": "c-f0c488288c", "motivo": "Cubre la línea de adaptación de pueblos y ciudades al calor (punto 4).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-2c4aa021a0", "por_que_no": "Es la que más destaca la campaña, pero el resumen pone la transición energética como línea principal." },
+        { "id": "c-f7b1774c40", "por_que_no": "Eólica marina en Gran Canaria: concreta, pero es una variante de la línea energética y más parcial." },
+        { "id": "c-51b066e9ce", "por_que_no": "Saneamiento y depuración: línea del agua, pero menos destacada que la desalación." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "politica-exterior-y-defensa",
+      "elegidas": [
+        { "id": "c-91a3b396ef", "motivo": "Que Canarias participe en la posición española y en las negociaciones con Marruecos: primera línea del resumen (participar en la política exterior que afecta a las islas).", "texto": null, "cambio": null },
+        { "id": "c-e54e8312e9", "motivo": "Cubre la línea de defender ante la UE los fondos específicos de las regiones ultraperiféricas (punto 2).", "texto": null, "cambio": null },
+        { "id": "c-0d21f8f8f0", "motivo": "Cubre la línea de recuperar terrenos militares para uso civil, como el campo de tiro de Pájara (punto 3).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-e54e8312e9", "por_que_no": "Igual de importante, pero el resumen pone como primera línea la participación canaria en la política exterior." },
+        { "id": "c-0d21f8f8f0", "por_que_no": "Concreta y con nombre propio, pero es una línea más específica." }
+      ],
+      "nota": "No hay medida en el programa sobre el Sáhara Occidental (punto 4 del resumen)."
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "elegidas": [
+        { "id": "c-cb9983342a", "motivo": "Financiación estatal de las 1.400 plazas de la Policía Canaria: primera línea del resumen y lleva cifra.", "texto": null, "cambio": null },
+        { "id": "c-45dfacb378", "motivo": "Cubre la línea de emergencias: activación temprana de la UME en incendios de nivel 1 (punto 2).", "texto": null, "cambio": null },
+        { "id": "c-727b452d88", "motivo": "Desplazar preventivamente medios estatales ante fenómenos extremos (punto 2), distinta de la UME y clara por sí sola.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-45dfacb378", "por_que_no": "Concreta, pero la Policía Canaria es la primera línea del resumen y lleva cifra." },
+        { "id": "c-e142625a92", "por_que_no": "Cubriría la recuperación de La Palma (punto 4), pero habla de «el plan especial de empleo» sin decir cuál y mezcla dos acciones." }
+      ],
+      "nota": "El Centro Nacional de Vulcanología (punto 3) se usa en ciencia, su tema principal."
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "elegidas": [
+        { "id": "c-8644ecb729", "motivo": "Estrategia de envejecimiento y cuidados de larga duración: línea principal (punto 1), ligada a la dependencia que sus candidatos califican de intocable en campaña.", "texto": null, "cambio": null },
+        { "id": "c-a185e9cea7", "motivo": "Cubre la línea de que Canarias pueda tramitar el ingreso mínimo vital (punto 3).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-a185e9cea7", "por_que_no": "Concreta, pero es un aspecto de gestión; la de cuidados recoge mejor la línea principal." },
+        { "id": "c-2f080d36fe", "por_que_no": "Ley Canaria de Residencia para ordenar el crecimiento poblacional: no corresponde a ninguna línea del resumen de familias y daría una imagen poco fiel del tema." }
+      ],
+      "nota": "La de pensiones no contributivas (c-55a63d3bef) se usa en pensiones, su tema principal. Se dejan dos medidas."
+    },
+    {
+      "tema": "impuestos",
+      "elegidas": [
+        { "id": "c-3adac91bc1", "motivo": "Mantener la deducción del 60 % del IRPF en La Palma y extenderla a La Gomera y El Hierro: medida fiscal concreta con cifra (punto 2 del resumen).", "texto": null, "cambio": null },
+        { "id": "c-ce0a4cbb7c", "motivo": "Mantener el diferencial fiscal canario para el audiovisual: concreta la línea de proteger el régimen fiscal canario (punto 1).", "texto": null, "cambio": null },
+        { "id": "c-e348fccac6", "motivo": "Acceso a la información tributaria para evaluar el REF: refleja su línea de decidir más sobre el REF desde Canarias (punto 1).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-8d5bb3f2b8", "por_que_no": "Incentivos a la primera vivienda (punto 3), pero es de otro tema y hay medidas propias suficientes." },
+        { "id": "c-96b1ab8393", "por_que_no": "Incentivos al alquiler asequible (punto 3), de otro tema; hay medidas propias suficientes." }
+      ],
+      "nota": "Con tres medidas propias válidas no se usan las de otros temas, aunque la línea de incentivos fiscales (punto 3) queda sin representar."
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "elegidas": [],
+      "casi": [],
+      "nota": "No hay medidas candidatas."
+    },
+    {
+      "tema": "pensiones",
+      "elegidas": [
+        { "id": "c-55a63d3bef", "motivo": "Compatibilizar los complementos de renta canarios con las pensiones no contributivas sin tributar ni reducirlas: es toda su postura en el tema.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-e0ef42c487", "por_que_no": "De otro tema y no se entiende sola («las tres islas», «esa propuesta»)." }
+      ],
+      "nota": "c-23fafa3df3 se usa en empleo."
+    },
+    {
+      "tema": "transporte",
+      "elegidas": [
+        { "id": "c-5ae9b21bca", "motivo": "Proteger el descuento del 75 % para residentes en avión y barco: primera línea del resumen, con cifra, y Sosa la defiende en campaña.", "texto": null, "cambio": null },
+        { "id": "c-76341256e0", "motivo": "Compensar el 100 % del coste real del transporte de mercancías (punto 3), mensaje central de Valido en campaña.", "texto": null, "cambio": null },
+        { "id": "c-80cabc5861", "motivo": "Cubre la línea ferroviaria: convenio de diez años para el Tren de Gran Canaria y trato equivalente en Tenerife (punto 2).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-76341256e0", "por_que_no": "Muy destacada en campaña y con cifra, pero el descuento de residentes es la primera línea del resumen." },
+        { "id": "c-123c9a102a", "por_que_no": "Gratuidad de guaguas, citada por Sosa en campaña, pero la línea 3 ya queda cubierta con mercancías y los trenes son una línea propia del resumen." }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "organizacion-territorial",
+      "elegidas": [
+        { "id": "c-ee78507df0", "motivo": "Financiación autonómica que reconozca el coste real del archipiélago (punto 3): lo que más repiten sus candidatos en campaña («financiación autonómica justa»).", "texto": null, "cambio": null },
+        { "id": "c-82bf9d3d51", "motivo": "Calendario verificable para completar los traspasos del Estatuto: concreta su aspiración al máximo autogobierno (puntos 1 y 2).", "texto": null, "cambio": null },
+        { "id": "c-3229dbe958", "motivo": "Que el REF no compute como financiación ordinaria de los servicios (punto 3), distinta de la financiación general.", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-82bf9d3d51", "por_que_no": "Igual de representativa del autogobierno, pero la financiación es lo que destacan en campaña." },
+        { "id": "c-4158d388b9", "por_que_no": "Agenda Canaria y Decreto Canarias: se usa en democracia e instituciones, donde faltaban medidas." }
+      ],
+      "nota": "c-1379b41eeb, c-4158d388b9 y c-50d69b6123 se usan en otros temas con pocas medidas."
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "elegidas": [
+        { "id": "c-34e7c14ba9", "motivo": "Defender íntegramente el POSEI: primera línea del resumen y la que Valido repite en campaña.", "texto": null, "cambio": null },
+        { "id": "c-a0af7e92e7", "motivo": "Reclamar cada año el 100 % de la aportación estatal a las ayudas adicionales (punto 1), que la campaña también destaca («aportación estatal completa a las ayudas agrarias»).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-a0af7e92e7", "por_que_no": "Destacada en campaña y con cifra, pero sola no dice que son ayudas agrarias; el POSEI es más claro." },
+        { "id": "c-3adac91bc1", "por_que_no": "Deducción del IRPF en las islas verdes (punto 4), pero es de impuestos y se usa allí." }
+      ],
+      "nota": "No hay medidas sobre pesca, plagas ni relevo generacional en las candidatas."
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "elegidas": [
+        { "id": "c-cb988545a3", "motivo": "Centro Nacional de Vulcanología en La Palma con el 50 % del mantenimiento a cargo del Estado: línea propia del resumen (punto 2), con cifra.", "texto": null, "cambio": null },
+        { "id": "c-26bc920420", "motivo": "Cubre la línea cultural: ayudas para los desplazamientos de artistas canarios (punto 3).", "texto": null, "cambio": null },
+        { "id": "c-50d69b6123", "motivo": "Mecanismos de acuerdo sobre infraestructuras científicas estratégicas en Canarias: completa la línea de investigación (punto 1).", "texto": null, "cambio": null }
+      ],
+      "casi": [
+        { "id": "c-ce0a4cbb7c", "por_que_no": "Diferencial fiscal audiovisual (punto 3), pero es de impuestos y se usa allí." }
+      ],
+      "nota": "La financiación universitaria que destaca Valido en campaña no tiene medida candidata en este tema."
+    }
+  ]
+}

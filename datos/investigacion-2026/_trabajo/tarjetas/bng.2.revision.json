@@ -1,0 +1,96 @@
+{
+  "partido": "bng",
+  "lote": "bng.2",
+  "temas": [
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-50a255d5e8", "motivo": "Primera línea del resumen (derogar íntegra la «Ley Mordaza»), que Néstor Rego repite en campaña; corta, votable y se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-5fc18b3978", "motivo": "Línea competencial del resumen: traspaso de la seguridad pública a Galicia con una Policía Gallega; distinta de la primera.", "texto": null, "cambio": null },
+        { "id": "c-70593f6223", "motivo": "Línea penal del resumen: derogar la prisión permanente revisable (y la libertad vigilada posterior a la pena), misma idea de reinserción; 61 palabras, dentro del límite.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-292cb552e9", "motivo": "Primera línea del resumen: servicios sociales públicos en titularidad, gestión y financiación, con más gasto en protección social.", "texto": null, "cambio": null },
+        { "id": "c-f0b68c7bff", "motivo": "Línea de financiación de la dependencia y deuda con Galicia de más de 3.000 millones; lleva cifra y es distinta de la primera.", "texto": null, "cambio": null },
+        { "id": "c-1c45d54948", "motivo": "Línea de rentas: traspaso del Ingreso Mínimo Vital para una renta gallega no inferior al SMI.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-9b1e60b655", "motivo": "Impuestos permanentes y más progresivos a banca, grandes energéticas y grandes fortunas, con gestión gallega: une la línea redistributiva y la de soberanía fiscal, y coincide con lo que Rego pide en campaña (gravar a las energéticas).", "texto": null, "cambio": null },
+        { "id": "c-c212618b95", "motivo": "Línea principal del resumen: política fiscal propia de Galicia y que las empresas que operan allí tributen allí. El «En consonancia,» inicial no impide entenderla sola.", "texto": null, "cambio": null },
+        { "id": "c-f9564df884", "motivo": "Línea de progresividad del IRPF: menos tributación del trabajo y más del capital.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-6a8447a4a8", "motivo": "Primera línea del resumen (reforma legal contra la violencia machista): introducir el feminicidio en la ley y un estatuto de la víctima; corta y clara. La alternativa integral (c-6a61420519) es más larga y técnica.", "texto": null, "cambio": null },
+        { "id": "c-cb671b9032", "motivo": "Segunda línea del resumen: rechazo a legalizar los vientres de alquiler; no hay medida votable de abolición de la prostitución en sí.", "texto": null, "cambio": null },
+        { "id": "c-de981e45ff", "motivo": "Tercera línea del resumen: derogar la Ley de Amnistía de 1977 para amparar a las víctimas del franquismo.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-22b8d577fe", "motivo": "Primera línea del resumen (deshacer las reformas y volver a la jubilación a los 65), en su forma más concreta y comprensible.", "texto": null, "cambio": null },
+        { "id": "c-b646e38d13", "motivo": "Línea de subida de las pensiones, que Rego destaca en campaña: mínimas al nivel del SMI, con cifra.", "texto": null, "cambio": null },
+        { "id": "c-e305c539f8", "motivo": "Línea de financiación del resumen: presupuestos e impuestos a la riqueza, sin tope en las bases de cotización.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-a1ad0850af", "motivo": "AP-9 y AP-53 traspasadas, públicas y sin el «expolio» de los peajes: Rego dice en campaña que la gratuidad de la AP-9 es su objetivo principal. La versión que dice «libre de peajes» (c-66ae933c8d) nombra al BNG y al PP.", "texto": null, "cambio": null },
+        { "id": "c-8b4803bd0d", "motivo": "Línea del tren como prioridad: cercanías en las principales ciudades gallegas; en campaña piden inversiones ferroviarias.", "texto": null, "cambio": null },
+        { "id": "c-8d3fd07205", "motivo": "Línea de grandes obras pendientes: completar el Corredor Atlántico de mercancías, que Ana Pontón destaca en campaña.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-0d3e164368", "motivo": "Concierto económico para que Galicia recaude todos los impuestos: línea central del tema, que Rego repite en campaña frente al nuevo sistema de financiación.", "texto": null, "cambio": null },
+        { "id": "c-58ddad3820", "motivo": "Línea de reorganización administrativa: suprimir las diputaciones provinciales traspasando sus funciones a Galicia y los ayuntamientos.", "texto": null, "cambio": null },
+        { "id": "c-2a82eea1ec", "motivo": "Línea lingüística: el gallego en toda la Administración General del Estado en igualdad con el castellano.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-37946fcf9a", "motivo": "Rechazo del acuerdo UE-Mercosur: primera línea del resumen y lo que destaca Noa Presas en campaña; la reforma de la cadena alimentaria pasa de 80 palabras.", "texto": null, "cambio": null },
+        { "id": "c-32f68c7d91", "motivo": "Línea pesquera del resumen: eliminar el principio de estabilidad relativa.", "texto": null, "cambio": null },
+        { "id": "c-eb10a9fa6e", "motivo": "Línea del monte: reconocer en el Código Civil la propiedad comunal.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-67167ba00c", "motivo": "Primera línea del resumen: I+D+i al 3% del PIB en 2030, con cifra y plazo.", "texto": null, "cambio": null },
+        { "id": "c-eb9f98e3c3", "motivo": "Línea de derechos digitales: ley de transparencia algorítmica y supervisión humana.", "texto": null, "cambio": null },
+        { "id": "c-014ccd93fc", "motivo": "Línea de infraestructura digital pública: nube pública gallega, citada en el resumen.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

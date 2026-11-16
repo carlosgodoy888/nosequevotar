@@ -1,0 +1,106 @@
+{
+  "partido": "pp",
+  "lote": "pp.2",
+  "temas": [
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-60d6180a0a", "motivo": "Encabeza su línea principal en defensa (ley de programación y financiación con objetivos de personal y material); es una sola acción clara y breve, frente a la de efectivos, que mezcla muchas.", "texto": null, "cambio": null },
+        { "id": "c-1737eeb4e7", "motivo": "Cubre la segunda línea: reforzar el despliegue militar en Ceuta, Melilla y Canarias, más el pilar europeo de la OTAN.", "texto": null, "cambio": null },
+        { "id": "c-054fcf4150", "motivo": "Cubre la tercera línea de su postura exterior: mantener el apoyo a Ucrania y las sanciones a Rusia.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-9fdf372a5f", "motivo": "Primera línea de su postura (endurecer penas por disturbios violentos) y la que acaba de presentar en campaña a policías y guardias civiles el 12 de noviembre; una sola reforma, clara y sin cabecera.", "texto": null, "cambio": null },
+        { "id": "c-cf23560bf8", "motivo": "Representa su línea en justicia: que los jueces elijan a los doce vocales judiciales del CGPJ, medida central y concreta.", "texto": null, "cambio": null },
+        { "id": "c-23da7df478", "motivo": "Cubre la línea de lucha contra el crimen organizado (refuerzo de unidades y unidad permanente en la frontera sur), distinta del endurecimiento penal.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-a9fcb70b32", "motivo": "Primera línea del resumen: refundir las deducciones familiares del IRPF en una sola, reembolsable y de cobro mensual, que el programa presenta como eje de su política familiar.", "texto": null, "cambio": null },
+        { "id": "c-1dd57b1388", "motivo": "Cubre la línea de dependencia con su medida más concreta: deducción del 40% de la atención profesional y cotización del Estado por el cuidador familiar.", "texto": null, "cambio": null },
+        { "id": "c-03d8147a50", "motivo": "Cubre la línea de protección de menores en redes: prohibición de cuentas antes de los 14 y autorización paterna hasta los 16, medida corta y muy clara.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-3458678e0f", "motivo": "Primera línea del resumen: bajar el IRPF a rentas medias y bajas y a familias y elevar los mínimos; es la que mejor resume por sí sola su política fiscal.", "texto": null, "cambio": null },
+        { "id": "c-0d31b43e92", "motivo": "La rebaja del IRPF a jóvenes de 18 a 35 años (100% el primer año hasta 25% el cuarto) es la que Feijóo repite en campaña y lleva cifras y plazos.", "texto": null, "cambio": null },
+        { "id": "c-db38187ad5", "motivo": "Cubre la tercera línea: IVA del 0% para alimentos básicos mientras dure la crisis de inflación.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-79a0d24288", "motivo": "Primera línea del resumen (protección de las mujeres frente a la violencia, con una ley integral contra la trata); se entiende sola, a diferencia de la de los dispositivos.", "texto": null, "cambio": null },
+        { "id": "c-3ff7262052", "motivo": "Cubre la línea de revisar la Ley Trans y eliminar la libre autodeterminación registral del sexo.", "texto": null, "cambio": null },
+        { "id": "c-051bd75e04", "motivo": "Cubre la línea de derogar la Ley de Memoria Democrática y sustituirla por una ley de concordia; la otra medida de esa línea («La sustituiremos…») no se entiende sola, así que se usa esta con el cambio mínimo.", "texto": "DEROGAREMOS LA LEY DE MEMORIA DEMOCRÁTICA Y APROBAREMOS UNA LEY DE CONCORDIA. Derogaremos la mal llamada «ley de memoria democrática», porque no puede haber justicia ni reconciliación cuando se pacta con quienes niegan el sufrimiento de las víctimas y pretenden reescribir la historia —con los victimarios— desde la manipulación y el enfrentamiento.", "cambio": "Se ha quitado «corredactada por Bildu,» (nombra a otro partido) tras ««ley de memoria democrática»,»." }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-91ab499d65", "motivo": "Blindar la caja única de la Seguridad Social es una línea principal del resumen y la única medida propia del tema que se entiende sola y es de peso (la de revalorizar con el IPC no dice de qué habla sin el título del apartado).", "texto": null, "cambio": null },
+        { "id": "c-b8b3293800", "motivo": "Cubre la línea de incentivar la jubilación activa con deducciones en el IRPF.", "texto": null, "cambio": null },
+        { "id": "c-0b5e210b33", "motivo": "De otro tema, usada porque faltan medidas propias válidas: compatibilizar las pensiones de discapacidad con el empleo, que el resumen recoge en la tercera línea. No se usa en familias-y-cuidados.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-9cdabe49b5", "motivo": "Primera línea del resumen: priorizar mantenimiento y seguridad, con especial atención al ferrocarril (renovar vías y trenes y mantenimiento preventivo).", "texto": null, "cambio": null },
+        { "id": "c-a011e55198", "motivo": "Cubre el Plan Nacional de Infraestructuras de más de 300.000 millones en 15 años con el sector privado; el «Por ello» inicial no impide entenderla.", "texto": null, "cambio": null },
+        { "id": "c-822f2cd3df", "motivo": "Cubre la línea de carreteras: programa de conservación de los más de 26.500 km de la red estatal.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-c4c6477a5a", "motivo": "Resume su línea principal en financiación: ninguna comunidad sale del régimen común, sin regímenes bilaterales y con decisión multilateral.", "texto": null, "cambio": null },
+        { "id": "c-b725caaa88", "motivo": "Cubre la línea de Ceuta y Melilla con un nuevo modelo de financiación y su marco fiscal; más concreta que la de financiación local, de la misma línea.", "texto": null, "cambio": null },
+        { "id": "c-25e96019cb", "motivo": "Cubre la línea lingüística (castellano como lengua común), con la medida que el programa destaca con cabecera; no hay candidata sobre la enseñanza en castellano.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-60e1a4bffa", "motivo": "Primera línea del resumen: el Pacto Nacional para el Campo, el Mar y el Monte, medida paraguas de su programa rural.", "texto": null, "cambio": null },
+        { "id": "c-5d6e9f1a2a", "motivo": "Cubre la línea de exigir a los alimentos importados lo mismo que a los productores españoles.", "texto": null, "cambio": null },
+        { "id": "c-3f98d54017", "motivo": "Cubre la línea de protección de ingresos: seguro de ingresos y rentas frente a alteraciones del mercado.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-240ec72b06", "motivo": "Representa su línea de investigación e innovación con la medida más característica: aumentar la deducción fiscal por I+D+i. (La primera línea del resumen, redes sociales a menores, solo se ofrece en familias-y-cuidados, donde ya está elegida.)", "texto": null, "cambio": null },
+        { "id": "c-cbe2e3049c", "motivo": "Cubre la línea cultural con su medida principal, una nueva Ley de Mecenazgo con más incentivos.", "texto": null, "cambio": null },
+        { "id": "c-1845c577de", "motivo": "Completa la línea de innovación con las zonas de innovación estratégica, que el resumen recoge y el programa destaca con cabecera; la línea del cheque de formación en IA no tiene candidata y la del Premio de Tauromaquia es más llamativa que central.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

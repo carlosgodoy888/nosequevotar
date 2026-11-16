@@ -1,0 +1,96 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la noticia oficial de ehbildu.eus del 14-11-2026 sobre la manifestación de Bilbao, atribuido a Arnaldo Otegi, secretario general de EH Bildu. Postura sobre gobernabilidad.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "corregida",
+      "motivo": "Texto literal en la respuesta de Matute en la entrevista de Demócrata publicada el 16-11-2026. Ninguna de las dos fuentes dice que esté «propuesto como portavoz en el Congreso»: Demócrata lo presenta como candidato y número uno, y elDiario.es como cabeza de lista por Bizkaia y candidato principal. Se ajusta el cargo a lo comprobable.",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: cabeza de lista de EH Bildu al Congreso por Bizkaia y candidato principal de la coalición"
+    },
+    {
+      "n": 3,
+      "veredicto": "corregida",
+      "motivo": "Texto literal en la entrevista de elDiario.es del 13-11-2026 (respuesta sobre el apoyo «gratis» en la investidura). Se ajusta el cargo: la fuente no dice que esté propuesto como portavoz.",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: cabeza de lista de EH Bildu al Congreso por Bizkaia y candidato principal de la coalición"
+    },
+    {
+      "n": 4,
+      "veredicto": "corregida",
+      "motivo": "Texto literal entre comillas en Crónica Vasca del 12-11-2026, atribuido a Matute en el debate de la Diputación Permanente sobre el segundo decreto de vivienda. El pie de foto del medio lo identifica como «portavoz adjunto de EH Bildu en el Congreso» (la portavoz era Mertxe Aizpurua); en el texto aparece como «portavoz de EH Bildu».",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: portavoz adjunto de EH Bildu en el Congreso y cabeza de lista por Bizkaia"
+    },
+    {
+      "n": 5,
+      "veredicto": "corregida",
+      "motivo": "Texto literal en la entrevista de elDiario.es del 13-11-2026; a continuación Matute confirma que intentarán aprobarlo en la próxima legislatura, así que es propuesta. Se ajusta el cargo.",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: cabeza de lista de EH Bildu al Congreso por Bizkaia y candidato principal de la coalición"
+    },
+    {
+      "n": 6,
+      "veredicto": "corregida",
+      "motivo": "Texto literal en la entrevista de elDiario.es del 13-11-2026 (respuesta sobre el SMI propio). Se ajusta el cargo.",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: cabeza de lista de EH Bildu al Congreso por Bizkaia y candidato principal de la coalición"
+    },
+    {
+      "n": 7,
+      "veredicto": "corregida",
+      "motivo": "Texto literal en la entrevista de Demócrata del 16-11-2026 (respuesta sobre la subida del SMI). Se ajusta el cargo y, como en la cita 6, se añade organización territorial, porque la cita propone que las comunidades puedan elevar el SMI.",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: cabeza de lista de EH Bildu al Congreso por Bizkaia y candidato principal de la coalición; temas_secundarios: organizacion-territorial"
+    },
+    {
+      "n": 8,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la noticia oficial de ehbildu.eus del 16-11-2026, atribuido a Oihana Etxebarrieta, cabeza de lista al Congreso por Gipuzkoa. Medida concreta (pensiones mínimas iguales al SMI y subida mínima del 15 %).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 9,
+      "veredicto": "comprobada",
+      "motivo": "Texto literal entre comillas en la misma noticia oficial del 16-11-2026, atribuido a Etxebarrieta. Postura sobre el sistema público de pensiones.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 10,
+      "veredicto": "corregida",
+      "motivo": "Texto literal en la entrevista de Demócrata del 16-11-2026. Postura sobre la contribución fiscal de grandes empresas. Se ajusta el cargo.",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: cabeza de lista de EH Bildu al Congreso por Bizkaia y candidato principal de la coalición"
+    },
+    {
+      "n": 11,
+      "veredicto": "corregida",
+      "motivo": "Texto literal en la entrevista de Demócrata del 16-11-2026, con la errata del medio «Herrría». Se ajusta el cargo, y la nota se precisa porque la actual sugiere que la integración depende de la residencia o el trabajo, cuando lo que dice es que considera vasca a toda persona que vive o trabaja allí.",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: cabeza de lista de EH Bildu al Congreso por Bizkaia y candidato principal de la coalición; nota: Considera vasca a toda persona que vive o trabaja en Euskal Herria y defiende la integración"
+    },
+    {
+      "n": 12,
+      "veredicto": "rechazada",
+      "motivo": "El texto está literal en elDiario.es (13-11-2026), pero no se entiende solo: «Esas negociaciones» remite a la pregunta del periodista sobre el nuevo Estatuto vasco, y la cita no nombra en ningún momento el Estatuto ni de qué se negocia. Sin la pregunta, el lector no sabe de qué habla.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 13,
+      "veredicto": "corregida",
+      "motivo": "Texto literal en la entrevista de elDiario.es del 13-11-2026 (respuesta sobre la deslegitimación de la violencia). Se entiende sola y es una postura. Se ajusta el cargo.",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: cabeza de lista de EH Bildu al Congreso por Bizkaia y candidato principal de la coalición"
+    }
+  ],
+  "notas": "Se abrieron las cinco url con curl tras leer el robots.txt de cada sitio: ehbildu.eus, democrata.es, eldiario.es y cronicavasca.elespanol.com permiten el acceso a todos los agentes y no nombran a agentes de IA. Ninguna página estaba tras muro de pago. Las fechas cuadran: Crónica Vasca 12-11-2026, elDiario.es 13-11-2026 (actualizado el 14-11), ehbildu.eus 14-11 y 16-11, y Demócrata 16-11-2026, una entrevista posterior a la huelga del 11-11. La corrección que se repite en las citas de Matute: ninguna fuente dice que esté «propuesto como portavoz en el Congreso». elDiario.es lo presenta como cabeza de lista por Bizkaia y candidato principal («encabezar la delegación de EH Bildu en el Congreso», en sus palabras), y Crónica Vasca, como portavoz adjunto en la legislatura que termina. La afiliación de Matute a Alternatiba y la de Otegi a Sortu son correctas (la primera la confirma elDiario.es)."
+}

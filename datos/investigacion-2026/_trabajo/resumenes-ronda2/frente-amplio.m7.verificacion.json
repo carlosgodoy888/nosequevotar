@@ -1,0 +1,33 @@
+{
+  "revisiones": [
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "corregido",
+      "problemas": [
+        "Representatividad: omitía los medios de comunicación, que forman parte de la definición del tema y ocupan un apartado entero del programa (18.5) más varias medidas del 14.3 (registro de propiedad e inversión publicitaria, publicación de la publicidad institucional, reforma de la Ley de Publicidad Institucional). Se añade una frase sobre ello y, por el límite de palabras, sale la reforma del CGPJ, que es una sola medida y encaja más en justicia.",
+        "Fidelidad: el programa presenta la República federal como «horizonte» («plantea como horizonte», «nuestro horizonte es») y el referéndum como «derecho a decidir» para la cuestión territorial; la primera frase ahora recoge ese matiz en lugar de «avanzar hacia» y «regulación del referéndum» a secas.",
+        "Apoyos: se quita la declaración c-0c509a2c63 de la frase sobre corrupción, porque el programa (c-7dba353248, c-d858e7fe2a) basta y así el resumen no queda marcado como procedente en parte de declaraciones; se añade c-d858e7fe2a.",
+        "Forma: se recorta la frase de corrupción (sin la ley de grupos de interés) para dejar sitio a la de medios; el total queda en unas 87 palabras."
+      ],
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Plantea como horizonte una «República Federal» y «plurinacional», con Jefatura del Estado elegida y el «derecho a decidir» mediante referéndum.",
+          "apoyos": ["c-41aaedce80", "c-1367dffaf4", "c-bc5cd39580", "c-880bbe1c1e"]
+        },
+        {
+          "texto": "Propone proporcionalidad directa a nivel nacional en el sistema electoral, voto a los 16 años y bajar a 250.000 las firmas de la iniciativa legislativa popular.",
+          "apoyos": ["c-0e33e41461", "c-f36fd088c3", "c-008adf13c5"]
+        },
+        {
+          "texto": "Contra la corrupción, propone una Oficina Independiente y vetar veinte años la contratación pública a los condenados.",
+          "apoyos": ["c-e4444c38be", "c-7dba353248", "c-d858e7fe2a"]
+        },
+        {
+          "texto": "Propone un registro público de la propiedad de los medios y de la publicidad que reciben, y reformar el reparto de la publicidad institucional.",
+          "apoyos": ["c-76fa17bdc3", "c-5723bee595", "c-044040336f", "c-d63ee92e41"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "revisiones": [
+    {
+      "tema": "vivienda",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: el apoyo c-78e7807cc6 (régimen específico ante la Unión Europea) no respalda nada de lo que dice la frase; se quita.",
+        "Frase 3: «prohibirla a no residentes» hacía depender la propuesta de Cristina Valido de la compra «por extranjeros», cuando su cita habla de prohibir la compra a «quienes no viven aquí» sin distinguir nacionalidad; se cambia por «prohibir comprar a no residentes» (90 palabras en total)."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Defiende más vivienda asequible, medidas contra la especulación y que Canarias pueda limitar la vivienda vacacional donde haya presión acreditada.", "apoyos": ["c-1d36f02a42", "c-13d145a789", "c-a654df545e"] },
+        { "texto": "Propone un fondo estatal de ocho años para cofinanciar vivienda pública y asequible, ceder suelos y edificios estatales y regenerar barrios.", "apoyos": ["c-5fd07ba38f", "c-ac82759d8f", "c-0a67ca42ce"] },
+        { "texto": "Quiere limitar la compra de vivienda por extranjeros; en campaña, sus candidatos han planteado prohibir comprar a no residentes o exigir diez años de residencia.", "apoyos": ["c-a943e85fb6", "c-64033e61c8", "c-e74c4bb53f"] },
+        { "texto": "Plantea incentivos fiscales a pequeños propietarios que ofrezcan alquiler asequible y a la primera vivienda de jóvenes y familias con ingresos medios y bajos.", "apoyos": ["c-96b1ab8393", "c-8d5bb3f2b8"] }
+      ]
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Condiciona su apoyo a cualquier Gobierno a que atienda las necesidades de Canarias; en campaña, un candidato ha afirmado que no hará ministro a Santiago Abascal.", "apoyos": ["c-b6018807a4", "c-9efa0886cc", "c-43e01e5d13", "c-f619073368", "c-185b0fb5b8"] },
+        { "texto": "Defiende en las Cortes cumplir la Agenda Canaria y la propuesta de Decreto Canarias, con financiación, plazos y responsables por compromiso.", "apoyos": ["c-4158d388b9", "c-05d93081e8", "c-78ab191274", "c-4c19f7e65b"] },
+        { "texto": "Propone un informe público anual sobre las obligaciones estatales con Canarias y quiere rendir cuentas en cada isla.", "apoyos": ["c-60a3db2af5", "c-bc970ffc6d", "c-81d489b65d", "c-dd2a77e398"] },
+        { "texto": "Defiende que una eventual reforma constitucional recoja la singularidad canaria y que sus instituciones participen en las decisiones con impacto singular en las islas.", "apoyos": ["c-1379b41eeb", "c-045d3bb2f4"] }
+      ]
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "veredicto": "corregido",
+      "problemas": [
+        "Frase 3: «un candidato ha exigido 140 millones de euros anuales», justo después de la compensación por desalación, daba a entender que la cifra era para esa compensación; la cita solo dice «140 millones de euros al año para toda Canarias» en el contexto del agua. Se añade «para Canarias» (con «exige» en vez de «ha exigido») y, para no pasar de 90 palabras, se quita «También» al inicio de la frase 4."
+      ],
+      "base": "suficiente",
+      "frases": [
+        { "texto": "Plantea una transición energética que reduzca la dependencia exterior, garantice el suministro y dé acceso a energía limpia a precio razonable.", "apoyos": ["c-73404c240a", "c-2c5a3f4ffb", "c-592f1fcac1"] },
+        { "texto": "Propone sustituir progresivamente las centrales térmicas obsoletas, impulsar la eólica marina en Gran Canaria con consenso social y reforzar redes y almacenamiento.", "apoyos": ["c-8063b09892", "c-42c7b03a38", "c-f7b1774c40", "c-90e7c7f13c", "c-f7ad603c1e"] },
+        { "texto": "En agua, pide un programa estatal de saneamiento y depuración y compensar el sobrecoste de la desalación; un candidato exige 140 millones de euros anuales para Canarias.", "apoyos": ["c-51b066e9ce", "c-2c4aa021a0", "c-cfe4041155"] },
+        { "texto": "Reclama apoyo estatal para reducir emisiones del transporte, adaptar viviendas, equipamientos públicos y ciudades al calor y proteger las costas.", "apoyos": ["c-bdbec8c866", "c-618da400a5", "c-8c0a2e3feb", "c-a836291163", "c-f0c488288c", "c-50438d9719"] }
+      ]
+    }
+  ]
+}

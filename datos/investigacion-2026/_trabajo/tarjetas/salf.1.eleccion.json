@@ -1,0 +1,304 @@
+{
+  "partido": "salf",
+  "lote": "salf.1",
+  "temas": [
+    {
+      "tema": "vivienda",
+      "elegidas": [
+        {
+          "id": "c-53a0c848b4",
+          "motivo": "Es su línea central (cero impuestos a la primera vivienda con un abaratamiento mínimo del 35 % garantizado por ley) y la que más repite en campaña («Tu primera vivienda, 100 % libre de impuestos»); todas las piezas apuntan a un único objetivo votable.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-127deaeed4",
+          "motivo": "Cubre la línea de ocupación e impago (desalojo policial en 48 horas y lanzamiento en 30 días), que el programa destaca también en su resumen inicial («Okupa fuera en 48 horas»).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-9ebd1eae2e",
+          "motivo": "Cubre la línea de suelo: todo el suelo de la Sareb y del Estado a concurso en 12 meses para vivienda protegida en propiedad, con plazo y explicada por sí sola.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-c99138966d",
+          "por_que_no": "El aval del 20 % de la entrada es otra línea de su postura, pero es complementario del 35 % de ahorro de la primera elegida y no cabía junto a desalojos y suelo."
+        },
+        {
+          "id": "c-bf7738d806",
+          "por_que_no": "Es el resumen de portada: mezcla cinco medidas distintas (precio, okupas, impuestos, suelo, crédito) y no se sabría qué se vota."
+        },
+        {
+          "id": "c-4a5de566d7",
+          "por_que_no": "Licencia por silencio con plazos: línea secundaria de su postura y no se entiende sola sin saber que habla de licencias de obra."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "empleo",
+      "elegidas": [
+        {
+          "id": "c-2d7c53c853",
+          "motivo": "Es la primera línea de su postura: contrato indefinido único con indemnización de 12 a 33 días más la mochila del 1,53 %; recoge la reforma laboral de fondo en una sola medida clara.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-b688bf398e",
+          "motivo": "Cubre la línea de autónomos (supresión total de la cuota), que el programa repite en la portada y en tres apartados; es la versión más clara y corta.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-d9c83fd209",
+          "motivo": "Cubre la línea de bajas por enfermedad (pagadas por la Seguridad Social desde el primer día), distinta de las anteriores y entendible sin contexto.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-3e1b3821ad",
+          "por_que_no": "Resumen de portada que junta tres medidas distintas (cuña fiscal, contrato único, cuota de autónomos)."
+        },
+        {
+          "id": "c-d53993dd54",
+          "por_que_no": "La retirada de la prestación tras rechazar dos ofertas es línea de su postura, pero va mezclada con un complemento salarial del Ingreso Mínimo."
+        },
+        {
+          "id": "c-df82aef463",
+          "por_que_no": "La mochila austriaca sola es una variante de la primera elegida, que ya la incluye."
+        }
+      ],
+      "nota": "La bajada de la cuña fiscal del 41 al 29 % solo aparece en la portada mezclada con otras medidas (c-3e1b3821ad) o en una versión técnica poco legible (c-23f40cbb73)."
+    },
+    {
+      "tema": "economia",
+      "elegidas": [
+        {
+          "id": "c-fc1bd25ed6",
+          "motivo": "Es la primera línea de su postura: déficit cero en 2030 con techo de gasto y ninguna bajada de impuestos sin ahorro certificado por la AIReF; lleva fecha.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-839d78d9fc",
+          "motivo": "Cubre la línea de empresas: dos regulaciones derogadas por cada nueva y unidad de mercado entre comunidades.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-181734f838",
+          "motivo": "Cubre la línea de financiación de su rebaja fiscal con la devolución del rescate bancario, una de sus medidas con más cifra (4.700 millones al año durante 15 años); nombra a bancos, no a partidos.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-507578555c",
+          "por_que_no": "El derecho a pagar en efectivo sin límite es la cuarta línea de su postura; buena candidata, pero menos central que el déficit, las empresas y la financiación."
+        },
+        {
+          "id": "c-2fa472505e",
+          "por_que_no": "Versión de tabla de la misma devolución del rescate; se prefirió la medida desarrollada, que explica quién paga y cómo."
+        },
+        {
+          "id": "c-5a68cef9b9",
+          "por_que_no": "Nombra al partido y se refiere a un territorio que no se nombra («allí»): no se entiende sola."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "sanidad",
+      "elegidas": [
+        {
+          "id": "c-ac2f3300e1",
+          "motivo": "Recoge sus dos primeras líneas (plazos máximos de 60/30/7 días y libre elección de centro público o privado si se superan) y es lo que destaca en campaña («60 días como máximo para operarte»).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-728c912384",
+          "motivo": "Cubre la línea de profesionales: subida del 20 % a médicos y del 10 % al resto en cuatro años, con cifras y plazo; el programa la pone en su portada («Profesionales pagados como en Europa»).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-fd46d2f713",
+          "motivo": "Cubre la línea de acceso a la tarjeta sanitaria (españoles y residentes legales con cotización o cobertura, urgencias para todos), distinta de las anteriores.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-1f51b2c392",
+          "por_que_no": "La central de compras única también está en su portada, pero es el instrumento para financiar sueldos y plazas; se prefirió la medida de sueldos, más fácil de votar."
+        },
+        {
+          "id": "c-89073008a2",
+          "por_que_no": "Cita en 48 horas: misma línea de plazos que la primera elegida."
+        },
+        {
+          "id": "c-34121901c5",
+          "por_que_no": "Resumen de portada que junta tres medidas distintas."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "inmigracion",
+      "elegidas": [
+        {
+          "id": "c-da279e13af",
+          "motivo": "Derogar la regularización de 2026 y prohibir por ley las regularizaciones masivas es centro de su postura y lo destaca en campaña («fin de las regularizaciones»); se entiende sola mejor que la de expulsiones.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-787ce19ec3",
+          "motivo": "Cubre la línea de inmigración solo legal (visados con contrato previo y cupo anual votado en el Congreso) y la moratoria a países que no colaboran ni readmiten.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-bbe61f5e67",
+          "motivo": "Expulsión en 48 horas con internamiento hasta la salida, la otra mitad de su mensaje de campaña («expulsión en 48 horas»); acción distinta de la regularización.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-db137fbaf9",
+          "por_que_no": "Resumen de portada que mezcla tres medidas distintas."
+        },
+        {
+          "id": "c-a8e78fece5",
+          "por_que_no": "Pérdida de la residencia por condena de más de un año: cuarta línea de su postura, menos central que las elegidas."
+        },
+        {
+          "id": "c-0efbf6f9b7",
+          "por_que_no": "Condicionar ayudas y visados a la readmisión ya está cubierto por la moratoria de la segunda elegida; además nombra a países concretos."
+        }
+      ],
+      "nota": ""
+    },
+    {
+      "tema": "democracia-e-instituciones",
+      "elegidas": [
+        {
+          "id": "c-d0d5412ea8",
+          "motivo": "Primera línea de su postura y de su campaña («De 22 ministerios a 10»): supresión de 12 ministerios, 2 vicepresidencias y la mitad de los altos cargos, dicha de forma que se entiende sola.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-1a885dd6f5",
+          "motivo": "Cubre la línea de corrupción con su pieza principal, la imprescriptibilidad de los delitos de corrupción de cargos públicos, que repite en campaña («La corrupción no prescribe»).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-7118889e8d",
+          "motivo": "Cubre la línea de reforma constitucional: prohibir las amnistías y limitar los indultos, distinta de las dos anteriores.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-d41acc4ca4",
+          "por_que_no": "Misma línea que la primera y con la marca de «primer día», pero empieza elíptica («La mitad de los altos cargos y 400 asesores.») y no se entiende sola."
+        },
+        {
+          "id": "c-227a4bd785",
+          "por_que_no": "Supresión de los aforamientos, destacada en campaña; se dejó fuera para cubrir la línea de reforma constitucional sobre amnistías y Tribunal Constitucional."
+        },
+        {
+          "id": "c-0ff364dc2d",
+          "por_que_no": "Resumen de portada sobre corrupción que junta cuatro medidas distintas."
+        }
+      ],
+      "nota": "La supresión del Senado, muy destacada en campaña, solo aparece dentro de c-b309c71eaf, que mezcla muchas medidas distintas. La cláusula de penalización del sueldo nombra a su candidato y a su partido (c-ee427c1179, c-60d156e9a9) y no es una medida de gobierno votable."
+    },
+    {
+      "tema": "educacion",
+      "elegidas": [
+        {
+          "id": "c-05dd2d04b6",
+          "motivo": "El derecho a estudiar en castellano en toda España es una de sus líneas principales y va en su portada («Castellano garantizado»); es la más clara y se entiende sola.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-42ba4e4e0e",
+          "motivo": "Cubre la línea de libertad de elección con el cheque escolar de igual importe en pública, concertada y privada, también en su portada («El dinero sigue al alumno»).",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-ba13a70367",
+          "motivo": "Cubre la línea de contenidos fijados por un consejo académico independiente y neutralidad ideológica en el aula, distinta de las anteriores.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-a4b90f1e7e",
+          "por_que_no": "Recoge su primera línea (ley educativa por dos tercios, contenidos comunes, selectividad única), pero empieza «Aprobada por dos tercios…» sin decir qué se aprueba: no se entiende sola."
+        },
+        {
+          "id": "c-07f11c3ad5",
+          "por_que_no": "Resumen de portada que junta tres medidas distintas."
+        },
+        {
+          "id": "c-5032b21988",
+          "por_que_no": "FP desde los 15 y fin del aprobado automático: cuarta línea de su postura, menos central que las elegidas."
+        }
+      ],
+      "nota": "La primera línea del resumen (ley educativa común aprobada por dos tercios) no tiene ninguna medida que se entienda sola."
+    },
+    {
+      "tema": "medio-ambiente-y-energia",
+      "elegidas": [
+        {
+          "id": "c-fa45c0dd41",
+          "motivo": "Es su única medida propia del tema y su primera línea: IVA de la luz y del agua al 4 % y supresión del impuesto a la producción eléctrica.",
+          "texto": null,
+          "cambio": null
+        },
+        {
+          "id": "c-abe72767ef",
+          "motivo": "De otro tema (política exterior), usada porque solo hay una propia: cubre su segunda línea (veto al Pacto Verde) y es literalmente su mensaje de campaña en el tema.",
+          "texto": null,
+          "cambio": null
+        }
+      ],
+      "casi": [
+        {
+          "id": "c-0a23f1415c",
+          "por_que_no": "Los contratos de gas con Argelia son su tercera línea, pero la medida empieza con «Vuelta a la posición de la ONU» (Sáhara), otra acción que no se entiende sola."
+        },
+        {
+          "id": "c-c5cffdf762",
+          "por_que_no": "Recoge la Ley de Restauración, pero pasa de 50 palabras y es sobre todo diagnóstico; dice lo mismo que la elegida."
+        },
+        {
+          "id": "c-ec6b2ed3f8",
+          "por_que_no": "Repite la primera elegida (IVA de luz y agua al 4 %)."
+        }
+      ],
+      "nota": "c-abe72767ef tiene como tema principal politica-exterior-y-defensa: si en el otro lote se elige para ese tema, aquí habría que quitarla para no usarla en dos temas."
+    }
+  ]
+}

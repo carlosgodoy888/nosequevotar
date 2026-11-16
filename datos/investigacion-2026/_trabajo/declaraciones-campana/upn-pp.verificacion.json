@@ -1,0 +1,61 @@
+{
+  "revisiones": [
+    {
+      "n": 1,
+      "veredicto": "comprobada",
+      "motivo": "La frase está literal y entre comillas en el artículo de OKDIARIO Navarra (publicado el 15-11-2026, 11:21), atribuida a Leticia San Martín, «cabeza de lista de la coalición al Congreso», en un acto en Pamplona. Es un compromiso sobre pactos y el estatus de Navarra y se entiende sola. El artículo no da la fecha exacta del acto (como pronto el 14 o el 15 de noviembre), pero en cualquier caso es de campaña. El segundo apellido (Rodríguez) no figura en la fuente.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 2,
+      "veredicto": "comprobada",
+      "motivo": "Literal y entre comillas en el mismo artículo de OKDIARIO Navarra del 15-11-2026, atribuida a Leticia San Martín («ha manifestado»). Postura sobre el carácter foral y español de Navarra; aunque empieza por «Porque», se entiende sola.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 3,
+      "veredicto": "comprobada",
+      "motivo": "Literal y entre comillas en OKDIARIO Navarra (15-11-2026, 13:39), atribuida a Alberto Núñez Feijóo, «presidente del Partido Popular» y «candidato a la Presidencia del Gobierno», en un vídeo difundido por el PP de Navarra antes de su visita del 16-11. Es un compromiso sobre gobernabilidad y pactos.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 4,
+      "veredicto": "rechazada",
+      "motivo": "La frase está literal en elDiario.es (12-11-2026, acto de inicio de campaña en Pamplona) y la dice Leticia San Martín, pero es una declaración genérica sin contenido concreto: no recoge ninguna propuesta, compromiso sobre pactos ni postura identificable sobre democracia e instituciones.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 5,
+      "veredicto": "rechazada",
+      "motivo": "La frase está literal y entre comillas en OKDIARIO Navarra (13-11-2026), dicha por Javier Esparza, pero no se entiende sola: «el proyecto» y «la segunda fase» no dicen de qué obra se trata (el Canal de Navarra solo aparece en el texto del periodista y en la nota).",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 6,
+      "veredicto": "corregida",
+      "motivo": "Texto literal y entre comillas en OKDIARIO Navarra (13-11-2026), atribuido a Javier Esparza durante la visita a la presa de Itoiz. Es una postura sobre la alta velocidad en Navarra. La fuente solo lo presenta como «cabeza de lista al Senado por UPN-PP»; no menciona que sea portavoz de UPN en el Parlamento de Navarra, así que se ajusta el cargo a lo comprobado.",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: cabeza de lista de UPN-PP al Senado por Navarra"
+    },
+    {
+      "n": 7,
+      "veredicto": "comprobada",
+      "motivo": "Texto oficial del partido: la nota del PP en pp.es del 12-11-2026 («En la Diputación Permanente») lo atribuye a Sergio Sayas, «portavoz adjunto del GPP en el Congreso», en primera persona y seguido de «expone». La frase coincide literalmente con la nota, aunque esta no la pone entre comillas. La fuente de la cita 4 (elDiario.es) confirma que es «el número dos al Congreso». La frase critica al Gobierno, pero contiene una postura propia sobre vivienda: seguridad jurídica para quien alquila para proteger la oferta y bajar precios.",
+      "cita_corregida": "",
+      "campos_corregidos": ""
+    },
+    {
+      "n": 8,
+      "veredicto": "corregida",
+      "motivo": "Texto literal y entre comillas en OKDIARIO Navarra (16-11-2026), dicho por Maribel García Malo, a la que el artículo presenta como la candidata al Senado a través de la cual UPN-PP lanzó sus propuestas ese lunes. Es una medida concreta (escuela infantil sin coste para las familias). La fuente no dice que sea «número 2» ni parlamentaria foral (en el Senado las candidaturas no van numeradas como lista), así que se ajusta el cargo a lo comprobado. Queda como candidata que anuncia una propuesta en nombre de la coalición, no como cabeza de lista.",
+      "cita_corregida": "",
+      "campos_corregidos": "cargo: candidata de UPN-PP al Senado por Navarra"
+    }
+  ],
+  "notas": "Robots.txt leídos completos: navarra.okdiario.com (solo bloquea /api, /comments, /ads, /admin y /content/stats para todos; nada contra agentes de IA), www.eldiario.es (bloquea rutas de API, comentarios y buscador; nada contra agentes de IA) y www.pp.es (permite todo). Las seis páginas se abrieron con curl y se comprobaron las fechas de publicación en sus metadatos: 15-11 (citas 1 y 2), 15-11 (3), 12-11 (4), 13-11 (5 y 6), 12-11 (7) y 16-11 (8). No se ha comprobado en ninguna fuente el segundo apellido de Leticia San Martín (Rodríguez)."
+}

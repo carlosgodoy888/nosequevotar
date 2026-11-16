@@ -1,0 +1,101 @@
+{
+  "partido": "salf",
+  "lote": "salf.2",
+  "temas": [
+    {
+      "tema": "politica-exterior-y-defensa",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-cc7f5de4c6", "motivo": "Primera línea de su postura (referéndum de renegociación con la UE y, si Bruselas no acepta, otro sobre la salida); es la medida que más cambia la política exterior y se entiende sola en 53 palabras.", "texto": null, "cambio": null },
+        { "id": "c-5d7e981e05", "motivo": "Segunda línea: la relación con Marruecos, con el bloqueo comercial como respuesta; acción única y concreta, mejor que la variante de la inmigración como ataque híbrido o la reivindicación del Rif.", "texto": null, "cambio": null },
+        { "id": "c-f62f4b37c8", "motivo": "Tercera línea: cortar la ayuda al desarrollo salvo emergencias y programas con retorno (readmisión de nacionales), con cifra; añade la dimensión de cooperación que las otras dos no cubren.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "seguridad-y-justicia",
+      "veredicto": "corregido",
+      "problemas": [
+        "La segunda línea del resumen (corrupción imprescriptible, sin indultos y prohibición de las amnistías), que además es la que más destaca Alvise en campaña, quedaba fuera aunque tiene una medida válida y propia del tema: c-7f31e0b1c1 (26 palabras, se entiende sola, una sola acción).",
+        "Se sustituye la tercera elegida, c-25a9332887 (legítima defensa), que corresponde a la última línea del resumen, por c-7f31e0b1c1. Así las tres elegidas cubren las tres primeras líneas del resumen."
+      ],
+      "elegidas": [
+        { "id": "c-046bd36a8b", "motivo": "Su línea principal (cárcel de máxima dureza para asesinos, violadores, narcos y corruptos); coincide casi literalmente con lo que repite Alvise en campaña y se entiende sola.", "texto": null, "cambio": null },
+        { "id": "c-56a4cb9aa4", "motivo": "Línea de una justicia más rápida: 2.000 jueces y 1.500 fiscales más y juicios rápidos para multirreincidentes, con cifras.", "texto": null, "cambio": null },
+        { "id": "c-7f31e0b1c1", "motivo": "Segunda línea del resumen y eje anticorrupción que destaca en campaña: castigar con prisión, desde la Constitución, la aprobación de amnistías o indultos generales y el uso político del indulto.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-c2a6cf9527", "motivo": "Primera línea de su resumen: cada hijo suma 5.000 euros al mínimo exento de IRPF de cada progenitor, con cifra y ejemplo.", "texto": null, "cambio": null },
+        { "id": "c-6288d3d882", "motivo": "Segunda línea: copago farmacéutico cero para menores de 3 años, acción única y clara.", "texto": null, "cambio": null },
+        { "id": "c-e36c29e46e", "motivo": "Completa la segunda línea del resumen (prueba de paternidad gratuita al nacer); es la tercera medida propia del tema.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-5c74148169", "motivo": "Su medida estrella: nadie paga IRPF por los primeros 35.000 euros; la repite Alvise en campaña casi con las mismas palabras.", "texto": null, "cambio": null },
+        { "id": "c-e6ce371258", "motivo": "Segunda línea: supresión de Sucesiones, Donaciones y Patrimonio; Sucesiones también aparece en sus declaraciones de campaña.", "texto": null, "cambio": null },
+        { "id": "c-12e296f38e", "motivo": "Eliminación total del IBI, que destaca en campaña junto a Sucesiones; las tres juntas retratan su apuesta por grandes rebajas de impuestos.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-3c27511acb", "motivo": "Primera línea de su resumen: prohibir el burka y el niqab en el espacio público; acción única y clara.", "texto": null, "cambio": null },
+        { "id": "c-30e546abf2", "motivo": "Completa su línea sobre el islam: prohibir la financiación extranjera del culto y expulsar a imanes que prediquen contra la Constitución.", "texto": null, "cambio": null },
+        { "id": "c-664ff9a967", "motivo": "Tercera línea: el pago en efectivo como derecho constitucional; es la medida propia del tema que la recoge.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-2d36b1029e", "motivo": "Su línea principal: revalorización con el IPC y prohibición de recortes con rango constitucional; «pensiones blindadas en la Constitución» es lo que dice Alvise en campaña.", "texto": null, "cambio": null },
+        { "id": "c-868fb19720", "motivo": "Segunda línea: el sistema mixto con cuenta individual obligatoria y heredable, con cifras; mejor que c-c70c93d93d, que no dice quién ni cuánto aporta.", "texto": null, "cambio": null },
+        { "id": "c-3c5755d51d", "motivo": "Tercera línea: cobrar la pensión completa trabajando y jubilarse sin penalización con 40 años cotizados.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-5b43b3cce4", "motivo": "Única medida propia del tema y primera línea de su resumen: pagar en 30 días a las compañías el descuento del 75 % para residentes. La «Y» inicial es solo un enlace y la medida se entiende sola.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-782ef58093", "motivo": "Línea de reorganizar la administración local: supresión de las diputaciones, acción única y clara.", "texto": null, "cambio": null },
+        { "id": "c-b56f13c47c", "motivo": "Misma línea de su resumen: gestión mancomunada obligatoria en municipios de menos de 5.000 habitantes.", "texto": null, "cambio": null },
+        { "id": "c-f629992ed3", "motivo": "Cuarta línea de su resumen (ventajas fiscales territoriales): deducción de 1.000 euros en el IRPF para residentes en Canarias. Es de otro tema (impuestos), no se usa allí y solo hay dos medidas propias válidas.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-c5cffdf762", "motivo": "Única medida propia y centro de su postura: que España vete Mercosur, el recorte de la PAC y la Ley de Restauración; es lo que destaca en campaña.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": []
+    }
+  ]
+}

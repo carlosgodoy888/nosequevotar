@@ -1,0 +1,86 @@
+{
+  "partido": "erc",
+  "lote": "erc.2",
+  "temas": [
+    {
+      "tema": "familias-y-cuidados",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-548c4cc2e2", "motivo": "Primera línea del resumen: prestación universal por crianza desde 200 euros, mayor donde la vida es más cara; la única ayuda directa con cifra propia del tema (64 palabras, dentro del límite).", "texto": null, "cambio": null },
+        { "id": "c-90b63181d4", "motivo": "Segunda línea: cotizaciones con fondos públicos para quien cuida a un familiar, distinta de la prestación por crianza. Se usa solo aquí, su tema principal, y no en pensiones.", "texto": null, "cambio": null },
+        { "id": "c-060b1c5998", "motivo": "Tercera línea: financiación de la dependencia con las cifras de 2.018 y 7.200 millones del resumen; se entiende sola, a diferencia de c-748ceee9f2 («Asimismo…»).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "impuestos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-eeefd7e81c", "motivo": "Impuesto permanente y más alto a las grandes fortunas, con cifras: resume su línea de que pague más quien más tiene y es lo que repite Rufián en campaña («impuestos a las grandes fortunas y no al trabajo»).", "texto": null, "cambio": null },
+        { "id": "c-68e0b92c40", "motivo": "Línea de gravar las rentas del capital: subir del 30 % al 35 % el tipo máximo del IRPF sobre ganancias de capital.", "texto": null, "cambio": null },
+        { "id": "c-d4b315ac9e", "motivo": "La otra cara de su postura: bajar el IRPF del trabajo por debajo de 35.000 euros («no al trabajo»); «Al mismo tiempo» no impide entenderla sola.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "igualdad-y-derechos",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-700c78b893", "motivo": "Primera línea del resumen: reformar la ley de violencia de género para incluir las violencias económica, vicaria y digital.", "texto": null, "cambio": null },
+        { "id": "c-f41ce7b5af", "motivo": "Línea de derechos LGBTI+ con su medida más clara y breve: reconocimiento legal de las identidades no binarias.", "texto": null, "cambio": null },
+        { "id": "c-d47d6b5c1b", "motivo": "Ley integral contra la trata, la otra ley que el resumen sitúa en su primera línea y distinta de la reforma de la ley de violencia de género. Las líneas de «ley mordaza» y delitos de odio no tienen medida candidata válida.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "pensiones",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-d8a407768c", "motivo": "Blindar la revalorización de las pensiones con la inflación: su medida central en pensiones, corta y clara.", "texto": null, "cambio": null },
+        { "id": "c-4a65cbcfed", "motivo": "Línea de jubilación anticipada en profesiones peligrosas, en su formulación general (las de conductores y Agentes Rurales dependen de la anterior o son más acotadas).", "texto": null, "cambio": null },
+        { "id": "c-f9ba1785bf", "motivo": "Dimensión territorial propia de su postura: actualizar las pensiones según el IPC de cada territorio. Hay medidas propias suficientes, así que no se usan las de otro tema (mutualistas).", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "transporte",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-370fb233f4", "motivo": "Rodalies es el eje de su programa de transporte y esta medida lleva cifra y plazo (Plan 2026-2030, 1.400 millones adicionales); encaja con el mensaje de campaña de Rufián de «poner pasta donde toca».", "texto": null, "cambio": null },
+        { "id": "c-1bc70c96ac", "motivo": "Línea de traspaso de infraestructuras con su prioridad explícita: los aeropuertos de Girona, Reus y Sabadell («Països Catalans» es nombre de territorio y no delata).", "texto": null, "cambio": null },
+        { "id": "c-911f18a878", "motivo": "Su modelo para las vías de alta capacidad (viñeta como sistema único de pago), línea distinta de las anteriores; la del Corredor Mediterráneo es larga y mezcla varias cosas.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "organizacion-territorial",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-3393085310", "motivo": "Primera línea de su postura: negociar un referéndum de autodeterminación con acompañamiento internacional.", "texto": null, "cambio": null },
+        { "id": "c-2d6c56f665", "motivo": "Línea de financiación con su medida más concreta y con cifra (condonar más de 17.100 millones del FLA); no hay alternativa igual de concreta en este tema, así que va con el cambio mínimo, que se ha comprobado: solo falta lo que nombra al partido.", "texto": "Condonar de forma efectiva los más de 17.100 millones de euros del FLA. Llevar a cabo la tramitación del proyecto de ley, que supone una reducción de deuda de la Generalitat equivalente a la inversión que hace en cuatro años. Además, la eliminación de esta deuda supondrá un ahorro de alrededor de 1.500 millones de euros anuales en intereses abonados por la Generalitat de Catalunya.", "cambio": "Se ha quitado «impulsado por Esquerra Republicana» tras «proyecto de ley»." },
+        { "id": "c-2e8a225604", "motivo": "Línea lingüística con su medida marco, la Ley del plurilingüismo, en vez de alguna de sus piezas sueltas.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "campo-y-medio-rural",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-67f0ffc7bd", "motivo": "Primera línea del resumen: precios justos que cubran los costes de producción reformando la Ley de la cadena alimentaria (50 palabras).", "texto": null, "cambio": null },
+        { "id": "c-ca2b4c5c6d", "motivo": "Descentralizar la PAC y los fondos europeos agrarios y pesqueros, rasgo propio de su postura.", "texto": null, "cambio": null },
+        { "id": "c-3e29e0ad38", "motivo": "Rechazo a ratificar el acuerdo UE-Mercosur: decisión concreta y votable, distinta de la descentralización de la PAC.", "texto": null, "cambio": null }
+      ]
+    },
+    {
+      "tema": "ciencia-cultura-y-digital",
+      "veredicto": "correcto",
+      "problemas": [],
+      "elegidas": [
+        { "id": "c-e01b5cab95", "motivo": "Primera línea del resumen, con cifra y plazo: inversión pública en investigación hasta el 1,5 % del PIB en 2030.", "texto": null, "cambio": null },
+        { "id": "c-73bb19ad89", "motivo": "Línea de cultura con la medida que el resumen cita primero y la más votable: completar el Estatuto del Artista.", "texto": null, "cambio": null },
+        { "id": "c-47d24ad7a5", "motivo": "Línea digital: obligar a las grandes plataformas a proteger a los menores de prácticas manipuladoras o adictivas.", "texto": null, "cambio": null }
+      ]
+    }
+  ]
+}

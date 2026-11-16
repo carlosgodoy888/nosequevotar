@@ -1,0 +1,50 @@
+{
+  "resumenes": [
+    {
+      "tema": "campo-y-medio-rural",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone una ley de transición agroecológica para llegar al 25 % de superficie agraria ecológica en 2030 y al 100 % en 2050.",
+          "apoyos": ["c-f095286c5c", "c-dab7c543c8", "c-ae875bb64e"]
+        },
+        {
+          "texto": "Quiere reorientar la PAC hacia explotaciones familiares, excluir de las ayudas a fondos de inversión y no autorizar nuevas macrogranjas.",
+          "apoyos": ["c-a6d572bbb9", "c-745468d834", "c-218fa7612c"]
+        },
+        {
+          "texto": "Plantea un banco público de tierras y defiende la pesca artesanal, con el objetivo de acabar con el arrastre.",
+          "apoyos": ["c-4630569fef", "c-838de7e2c3", "c-1c86f78187", "c-3e09f27d5f", "c-f29c09d3ca"]
+        },
+        {
+          "texto": "Contra la despoblación, quiere fijar por ley servicios básicos a menos de 30 minutos y un plan de vivienda rural, con un piloto en Aragón de 75 millones.",
+          "apoyos": ["c-c4e99a1a54", "c-13a319519c"]
+        }
+      ],
+      "nota": "Todo procede del programa. Quedan fuera por espacio la cadena alimentaria (venta a pérdidas), los pagos por servicios ambientales, el lobo y el bienestar animal. El piloto de vivienda rural se sitúa en Aragón, como dice la cita."
+    },
+    {
+      "tema": "transporte",
+      "base": "suficiente",
+      "frases": [
+        {
+          "texto": "Propone un abono único estatal de transporte, con Cercanías a 20 euros al mes y descuentos en el resto de modos.",
+          "apoyos": ["c-325209e2b1", "c-8f38af2844"]
+        },
+        {
+          "texto": "Quiere unificar Adif y Renfe en un operador público, que la alta velocidad la opere solo Renfe y revertir la liberalización ferroviaria.",
+          "apoyos": ["c-f54cc017a4", "c-acffe1adcd", "c-84281b1e7c", "c-8e3bd9348d"]
+        },
+        {
+          "texto": "Plantea al menos triplicar la inversión anual en Cercanías y destinar al tren los casi 13.000 millones previstos para ampliar aeropuertos.",
+          "apoyos": ["c-9ae8c51f7a", "c-a943f17e0d", "c-55b144f643"]
+        },
+        {
+          "texto": "También propone prohibir los vuelos domésticos con alternativa competitiva en tren de 2,5 horas y electrificar toda la red ferroviaria antes de 2030.",
+          "apoyos": ["c-4ac61d560c", "c-ee029dbb56"]
+        }
+      ],
+      "nota": "Todo procede del programa; las declaraciones de campaña coinciden con él (unificación Adif-Renfe, fondos del plan DORA). Quedan fuera por espacio el coche eléctrico (leasing social), las mercancías por tren y la limitación de cruceros."
+    }
+  ]
+}

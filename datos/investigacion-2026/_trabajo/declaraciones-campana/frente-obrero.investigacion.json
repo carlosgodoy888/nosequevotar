@@ -1,0 +1,46 @@
+{
+  "id": "frente-obrero",
+  "investigacion": {
+    "citas": [
+      {
+        "tema": "empleo",
+        "temas_secundarios": [],
+        "cita": "un sindicalismo de clase, independiente y combativo, que no viva de las subvenciones ni de los pactos con el poder",
+        "idioma": "es",
+        "traduccion": "",
+        "quien": "Roberto Vaquero Arribas",
+        "cargo": "presidente del Frente Obrero y cabeza de lista por Madrid",
+        "partido_de_quien": "Frente Obrero",
+        "fecha": "2026-11-11",
+        "tipo": "medio",
+        "url": "https://elenclave.es/frente-obrero-munecos-pepe-alvarez-unai-sordo-sede-ccoo-madrid-569-millones-vender-a-trabajadores/",
+        "medio": "El Enclave",
+        "clase": "posicion",
+        "medida_concreta": false,
+        "nota": "Modelo sindical sin subvenciones públicas, durante la huelga general"
+      },
+      {
+        "tema": "politica-exterior-y-defensa",
+        "temas_secundarios": [],
+        "cita": "que responda a los intereses de España y no a los de Marruecos, EEUU o Israel",
+        "idioma": "es",
+        "traduccion": "",
+        "quien": "el partido",
+        "cargo": "",
+        "partido_de_quien": "Frente Obrero",
+        "fecha": "2026-11-16",
+        "tipo": "medio",
+        "url": "https://www.eldiariodemadrid.es/articulo/politica/frente-obrero-lona-sanchez-mohamed-vi-madrid-rio/20261116131903147017.html",
+        "medio": "El Diario de Madrid",
+        "clase": "posicion",
+        "medida_concreta": false,
+        "nota": "Orientación que reclama para la política exterior española"
+      }
+    ],
+    "sitios_bloqueados": [
+      "frenteobrero.es"
+    ],
+    "busquedas_hechas": 8,
+    "notas": "Muy poca cobertura de campaña con declaraciones literales. Ambas citas son fragmentos entrecomillados que el medio intercala en su propia frase; se recogen completos tal como aparecen. La primera cita es la continuación de «Vaquero ha reclamado»; El Diario de Madrid (11-11) recoge solo un trozo de la misma frase («de clase, independiente y combativo»). La segunda la reclama «la formación» y la recogen El Diario de Madrid y El Enclave (16-11). En la acción de la lona del 16-11 ambos medios dicen que el partido propone romper relaciones diplomáticas con Marruecos y desplegar el Ejército en las fronteras de Ceuta y Melilla, pero solo como paráfrasis del periodista, sin comillas, así que no se recoge como cita. Descartadas por ser ataques, lemas o frases sin propuesta: «Cuando el Gobierno subió la edad de jubilación, callaron...» (Vaquero, 11-11, crítica a UGT y CCOO), «Habéis permitido una invasión...» (Carmen López, portavoz, vídeo del 16-11), «Tirar el voto es votar a los mismos de siempre...» y «volverá a sacar a los trabajadores a la calle...». Vaquero abrió la campaña el 13-11 en el Ateneo Obrero de La Calzada (Gijón); la crónica de Gijón Radio TV no trae citas y la entrevista se emite en vídeo en YouTube, sin transcripción. El titular de Deia del 14-11 («No vamos a posibilitar un Gobierno de PP y Vox») es, según el resumen del buscador, de otro Vaquero del PNV, no de este partido (no comprobado: no se ha abierto); deia.eus está en la lista de sitios vetados. frenteobrero.es prohíbe en su robots.txt a ClaudeBot, anthropic-ai, Claude-Web y GPTBot, así que no se ha usado. No hay pronunciamientos encontrados sobre pactos o investidura. robertovaquero.es no tiene entradas nuevas desde el 10-11. La pancarta ante UGT es del 9-11, antes del periodo, y no se recoge."
+  }
+}
