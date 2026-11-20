@@ -6,7 +6,7 @@
 // El banco es un parámetro de la página (data-banco), para cambiar de edición sin tocar este código.
 import {
   calcularResultado, partidosEnJuego, partidosSinPrograma, papeletasDelTema, contarPreguntas,
-  minutos, textoMinutos, temasEnOrden, listaNombres, MIN_TEMAS,
+  minutos, textoMinutos, temasEnOrden, listaNombres, MIN_TEMAS, MIN_PARTIDOS,
 } from './motor.mjs';
 import { barajar } from './azar.mjs';
 import { dibujar, textoResultado, compartir, descargar, copiar, enlaceWhatsApp } from './compartir.mjs';
@@ -29,6 +29,9 @@ function nuevoEstado() {
   return {
     fase: 'provincia', partidos: [], sinPrograma: [], temas: [], modo: null, orden: {}, temaIdx: 0, papeletaIdx: 0,
     respuestas: {}, historial: [], abierta: null, formato: 'cuadrada',
+    // candidatas: todas las que entran por provincia (partidos son las que no se han descartado).
+    // dobles: medidas marcadas para contar doble.
+    candidatas: [], afinar: false, dobles: [], dobleExplicado: false,
   };
 }
 
@@ -53,7 +56,9 @@ function recuperar() {
     if (!e.temas.every(hayTema) || !e.partidos.every(hayPartido) || !(e.sinPrograma || []).every(hayPartido)) return null;
     if (!Object.keys(e.orden || {}).every(hayTema) || !Object.values(e.orden || {}).flat().every(hayTarjeta)) return null;
     if (!Object.keys(e.respuestas || {}).every(hayTarjeta)) return null;
-    return { ...nuevoEstado(), ...e };
+    // Un test guardado antes de poder descartar partidos o marcar medidas: entran todas y no hay marcas.
+    const candidatas = (e.candidatas?.length ? e.candidatas : e.partidos).filter(hayPartido);
+    return { ...nuevoEstado(), ...e, candidatas, dobles: (e.dobles || []).filter(hayTarjeta) };
   } catch { /* Estado guardado ilegible: se empieza de cero. */ }
   return null;
 }
@@ -153,6 +158,7 @@ ${guardado ? `<div class="juego__seguir"><p>Tienes un test a medias en esta pest
 function elegirProvincia(id) {
   estado = nuevoEstado();
   estado.partidos = partidosEnJuego(partidos, id).map(p => p.id);
+  estado.candidatas = [...estado.partidos];
   estado.sinPrograma = partidosSinPrograma(partidos, id).map(p => p.id);
   ir('temas');
 }
@@ -167,8 +173,8 @@ function textoCuentaTemas() {
 
 function quienesEntran() {
   const fuera = estado.sinPrograma.map(nombre);
-  return `<details class="juego__quienes"><summary>En tu provincia entran ${plural(estado.partidos.length, 'candidatura', 'candidaturas')}</summary>
-<p>${esc(listaNombres(estado.partidos.map(nombre)))}.</p>
+  return `<details class="juego__quienes"><summary>En tu provincia entran ${plural(estado.candidatas.length, 'candidatura', 'candidaturas')}</summary>
+<p>${esc(listaNombres(estado.candidatas.map(nombre)))}.</p>
 ${fuera.length ? `<p>${esc(listaNombres(fuera))} también ${fuera.length === 1 ? 'se presenta' : 'se presentan'}, pero no ${fuera.length === 1 ? 'entra' : 'entran'} en el test porque no ${fuera.length === 1 ? 'ha' : 'han'} publicado programa.</p>` : ''}
 <p>Las demás candidaturas de tu provincia no están en esta web.</p>
 </details>`;
@@ -217,23 +223,92 @@ function actualizarTemas() {
   pantalla.querySelector('[data-accion="todos"]').textContent = estado.temas.length === banco.temas.length ? 'Quitar todos' : 'Elegir todos';
 }
 
-// 3. Rápido o completo
+// 3. Rápido o completo, con la opción de descartar partidos
+// Lo que dura cada modo con los temas elegidos y los partidos que entran.
+function cuentaModo(modo) {
+  const n = contarPreguntas(banco, estado.temas, estado.partidos, modo);
+  return { minutos: textoMinutos(minutos(n)), preguntas: plural(n, 'pregunta', 'preguntas') };
+}
+
+function textoCuentaPartidos() {
+  const n = estado.partidos.length;
+  const total = estado.candidatas.length;
+  return n === total ? `Entran las ${total} candidaturas de tu provincia.` : `Entran ${n} de las ${total} candidaturas de tu provincia.`;
+}
+
 function elegirModo() {
   const boton = (modo, titulo, texto) => {
-    const n = contarPreguntas(banco, estado.temas, estado.partidos, modo);
-    return `<button type="button" class="boton juego__modo" data-accion="modo" data-modo="${modo}"><span class="juego__modo-titulo">${titulo}: ${esc(textoMinutos(minutos(n)))}</span><span class="juego__modo-texto">${plural(n, 'pregunta', 'preguntas')} · ${texto}</span></button>`;
+    const c = cuentaModo(modo);
+    return `<button type="button" class="boton juego__modo" data-accion="modo" data-modo="${modo}"><span class="juego__modo-titulo"><span>${titulo}:</span> <span class="juego__modo-minutos">${esc(c.minutos)}</span></span><span class="juego__modo-texto"><span class="juego__modo-preguntas">${esc(c.preguntas)}</span><span class="juego__modo-detalle"> · ${texto}</span></span></button>`;
   };
+  // Con muy pocas candidaturas no hay nada que descartar.
+  const sePuedeAfinar = estado.candidatas.length > MIN_PARTIDOS;
+  const abierto = sePuedeAfinar && estado.afinar;
+  const afinar = !sePuedeAfinar ? '' : `<section class="afinar" aria-label="Afinar el test">
+<button type="button" class="afinar__boton" data-accion="afinar" aria-expanded="${abierto}" aria-controls="afinar-panel"><span class="afinar__textos"><span class="afinar__titulo">Afinar el test: descartar partidos</span><span class="afinar__cuenta" id="afinar-cuenta" aria-live="polite">${esc(textoCuentaPartidos())}</span></span><span class="afinar__flecha" aria-hidden="true"></span></button>
+<div class="afinar__panel" id="afinar-panel"${abierto ? '' : ' hidden'}>
+<p class="juego__ayuda">Cuantos menos partidos, menos preguntas y más corto el test. Si es la primera vez que lo haces, te recomendamos dejarlos todos: puede que alguno te sorprenda.</p>
+<ul class="opciones afinar__lista" role="group" aria-label="Partidos que entran en el test">
+${estado.candidatas.map((id) => {
+    const marcado = estado.partidos.includes(id);
+    return `<li><button type="button" class="opcion" data-accion="partido" data-id="${esc(id)}" aria-pressed="${marcado}"><span class="casilla${marcado ? ' marcada' : ''}" aria-hidden="true"></span>${esc(nombre(id))}</button></li>`;
+  }).join('\n')}
+</ul>
+<p class="afinar__aviso" id="afinar-aviso" aria-live="polite"></p>
+<button type="button" class="enlace-boton" data-accion="todos-partidos"${estado.partidos.length === estado.candidatas.length ? ' hidden' : ''}>Volver a marcar todos</button>
+</div>
+</section>`;
   pintar(`<div class="juego__bloque">
 <p class="juego__rotulo">Paso 3 de 3</p>
 <h2>¿Test rápido o completo?</h2>
 <p class="juego__ayuda">Has elegido ${esc(cuentaTemas())}.</p>
-<div class="juego__modos">
+<div class="juego__modos${abierto ? ' juego__modos--fijo' : ''}" id="modos">
 ${boton('rapido', 'Rápido', 'una medida de cada candidatura en cada tema')}
 ${boton('completo', 'Completo', 'hasta tres medidas de cada candidatura en cada tema')}
 </div>
+${afinar}
 <p class="juego__ayuda">El completo afina más el resultado, sobre todo si has elegido pocos temas. Puedes dejarlo a medias y seguir después en esta misma pestaña.</p>
 <button type="button" class="enlace-boton" data-accion="a-temas">Cambiar los temas</button>
 </div>`);
+}
+
+// Abrir la lista o descartar un partido no repinta la pantalla: los dos botones siguen a la vista y sus
+// minutos se ponen al día al momento.
+function abrirAfinar() {
+  estado.afinar = !estado.afinar;
+  guardar();
+  pantalla.querySelector('[data-accion="afinar"]').setAttribute('aria-expanded', String(estado.afinar));
+  document.getElementById('afinar-panel').hidden = !estado.afinar;
+  document.getElementById('modos').classList.toggle('juego__modos--fijo', estado.afinar);
+}
+
+function actualizarAfinar(aviso) {
+  for (const b of pantalla.querySelectorAll('[data-accion="partido"]')) {
+    const marcado = estado.partidos.includes(b.dataset.id);
+    b.setAttribute('aria-pressed', String(marcado));
+    b.querySelector('.casilla').classList.toggle('marcada', marcado);
+  }
+  for (const b of pantalla.querySelectorAll('[data-accion="modo"]')) {
+    const c = cuentaModo(b.dataset.modo);
+    b.querySelector('.juego__modo-minutos').textContent = c.minutos;
+    b.querySelector('.juego__modo-preguntas').textContent = c.preguntas;
+  }
+  document.getElementById('afinar-cuenta').textContent = textoCuentaPartidos();
+  // El aviso sale debajo de la lista, que es donde está mirando quien acaba de tocar un partido.
+  document.getElementById('afinar-aviso').textContent = aviso || '';
+  pantalla.querySelector('[data-accion="todos-partidos"]').hidden = estado.partidos.length === estado.candidatas.length;
+}
+
+function alternarPartido(id) {
+  const dentro = estado.partidos.includes(id);
+  if (dentro && estado.partidos.length <= MIN_PARTIDOS) {
+    actualizarAfinar(`Tienen que entrar al menos ${MIN_PARTIDOS} partidos.`);
+    return;
+  }
+  // Siempre en el orden de la lista, se marquen en el orden que se marquen.
+  estado.partidos = estado.candidatas.filter(p => (p === id ? !dentro : estado.partidos.includes(p)));
+  guardar();
+  actualizarAfinar();
 }
 
 function empezar(modo) {
@@ -247,6 +322,8 @@ function empezar(modo) {
   estado.respuestas = {};
   estado.historial = [];
   estado.abierta = null;
+  estado.dobles = [];
+  estado.dobleExplicado = false;
   ir('papeleta');
 }
 
@@ -276,7 +353,8 @@ ${barra('avance', (van / total) * 100)}
 </div>
 <div class="mesa">
 <article class="hoja" id="hoja">
-<header class="hoja__cabeza"><span>${esc(tema(temaActual()).nombre)}</span><span>Elecciones generales ${ANIO}</span></header>
+<header class="hoja__cabeza"><span>${esc(tema(temaActual()).nombre)}</span>${botonDoble(id)}</header>
+${avisoDoble(id)}
 <p class="hoja__candidatura"><span class="hoja__rotulo">Candidatura</span><span class="hoja__tapa" aria-hidden="true"></span><span class="solo-lector">Partido oculto hasta el final</span></p>
 <p class="hoja__texto">${esc(tarjeta(id).texto)}</p>
 </article>
@@ -290,7 +368,7 @@ ${barra('avance', (van / total) * 100)}
 <button type="button" class="enlace-boton" data-accion="deshacer" aria-keyshortcuts="Backspace"${estado.historial.length ? '' : ' disabled'}>Deshacer el último voto</button>
 </div>
 ${marcador(temaActual())}
-<p class="juego__teclas">Con teclado: ← en contra · → a favor · ↓ me abstengo · Retroceso deshace.</p>
+<p class="juego__teclas">Con teclado: ← en contra · → a favor · ↓ me abstengo · ↑ cuenta doble · Retroceso deshace.</p>
 </div>`);
   avisar(`${progreso()}. Medida ${van + 1} de ${total}. ${tarjeta(id).texto}`);
 }
@@ -303,6 +381,7 @@ function votar(decision) {
   const seguir = () => {
     animando = false;
     estado.respuestas[id] = decision;
+    fijarDoble(id, decision);
     estado.historial.push(id);
     estado.papeletaIdx++;
     guardar();
@@ -337,9 +416,45 @@ function deshacer() {
   avisar(`Voto deshecho. ${progreso()}`);
 }
 
+// Medidas que cuentan doble: la bandera de la esquina de la papeleta.
+const EXPLICA_DOBLE = 'Esta medida contará el doble, votes a favor o en contra. Úsala para las propuestas que te parezcan especialmente importantes.';
+const RECUERDA_DOBLE = 'Esta medida contará el doble.';
+// La explicación larga sale hasta que se vota la primera medida marcada; después basta el recordatorio.
+const textoDoble = () => (estado.dobleExplicado ? RECUERDA_DOBLE : EXPLICA_DOBLE);
+
+function botonDoble(id) {
+  return `<button type="button" class="doble" data-accion="doble" aria-pressed="${estado.dobles.includes(id)}" aria-describedby="doble-aviso" aria-keyshortcuts="ArrowUp"><svg class="doble__bandera" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path class="doble__tela" d="M3.5 2h10l-2.6 3.5L13.5 9h-10z"/><path d="M3.5 1v14"/></svg>Cuenta doble</button>`;
+}
+
+function avisoDoble(id) {
+  const marcada = estado.dobles.includes(id);
+  return `<p class="doble__aviso" id="doble-aviso" aria-live="polite"${marcada ? '' : ' hidden'}>${marcada ? esc(textoDoble()) : ''}</p>`;
+}
+
+// Marcar o desmarcar no repinta la papeleta: cambia la bandera y el aviso, y el foco se queda donde estaba.
+function alternarDoble() {
+  const id = ordenActual()[estado.papeletaIdx];
+  const boton = pantalla.querySelector('[data-accion="doble"]');
+  const aviso = document.getElementById('doble-aviso');
+  if (!id || !boton || !aviso || animando) return;
+  const marcada = !estado.dobles.includes(id);
+  estado.dobles = marcada ? [...estado.dobles, id] : estado.dobles.filter(x => x !== id);
+  guardar();
+  boton.setAttribute('aria-pressed', String(marcada));
+  aviso.textContent = marcada ? textoDoble() : '';
+  aviso.hidden = !marcada;
+}
+
+// Al votar: la marca solo vale con un voto a favor o en contra; en una abstención se quita.
+function fijarDoble(id, decision) {
+  if (!estado.dobles.includes(id)) return;
+  estado.dobleExplicado = true;
+  if (decision === 'abstencion') estado.dobles = estado.dobles.filter(x => x !== id);
+}
+
 // 5. Resultado
 function resultadoActual() {
-  const respuestas = Object.entries(estado.respuestas).map(([id, decision]) => ({ tarjeta: id, decision }));
+  const respuestas = Object.entries(estado.respuestas).map(([id, decision]) => ({ tarjeta: id, decision, doble: estado.dobles.includes(id) }));
   return calcularResultado({ banco, partidos: enJuego(), temas: estado.temas, modo: estado.modo, respuestas });
 }
 
@@ -359,7 +474,7 @@ function detalle(f) {
 <ul class="detalle__medidas">${d.tarjetas.map((x) => {
       const t = tarjeta(x.id);
       const notas = [t.idioma ? `Traducida del ${IDIOMAS[t.idioma] || t.idioma}.` : '', t.cambiada ? 'Hemos quitado el nombre del partido.' : ''].filter(Boolean).join(' ');
-      return `<li class="detalle__medida detalle__medida--${x.decision || 'sin'}"><p class="detalle__voto"><span class="casilla casilla--pequena${x.decision === 'favor' ? ' marcada' : ''}" aria-hidden="true"></span>${esc(VOTADO[x.decision] || 'Sin votar')}</p><p class="detalle__texto">${esc(t.texto)}</p><p class="detalle__fuente">${enlaceFuente(t)}${notas ? ` · ${esc(notas)}` : ''}</p></li>`;
+      return `<li class="detalle__medida detalle__medida--${x.decision || 'sin'}"><p class="detalle__voto"><span class="casilla casilla--pequena${x.decision === 'favor' ? ' marcada' : ''}" aria-hidden="true"></span>${esc(VOTADO[x.decision] || 'Sin votar')}${x.doble ? ' · contó el doble' : ''}</p><p class="detalle__texto">${esc(t.texto)}</p><p class="detalle__fuente">${enlaceFuente(t)}${notas ? ` · ${esc(notas)}` : ''}</p></li>`;
     }).join('')}</ul></div>`;
   }).join('\n');
   return `<div class="detalle" id="detalle-${esc(f.partido)}"${estado.abierta === f.partido ? '' : ' hidden'}>
@@ -402,6 +517,13 @@ function notasResultado(r) {
   return notas.map(n => `<p>${n}</p>`).join('\n');
 }
 
+// Si se han descartado partidos, el resultado lo dice junto al titular.
+function avisoDescartadas() {
+  const fuera = estado.candidatas.filter(id => !estado.partidos.includes(id));
+  if (!fuera.length) return '';
+  return `<p class="acta__aviso">Has hecho el test con ${estado.partidos.length} de las ${estado.candidatas.length} candidaturas de tu provincia. Has descartado a ${esc(listaNombres(fuera.map(nombre)))}.</p>`;
+}
+
 function resultado() {
   const r = resultadoActual();
   const seguir = `<section class="resultado__seguir" aria-labelledby="seguir-titulo">
@@ -428,12 +550,13 @@ ${seguir}
 <section class="acta__hoja" aria-labelledby="resultado-frase">
 <p class="acta__rotulo"><span>Tu resultado</span><span>Programas de ${ANIO}</span></p>
 <h2 class="acta__frase" id="resultado-frase" data-enfocar>${esc(r.frase)}</h2>
-<p class="acta__base">En ${esc(cuentaTemas())}. Test ${estado.modo === 'rapido' ? 'rápido' : 'completo'}, ${plural(r.respondidas, 'medida votada', 'medidas votadas')} a favor o en contra${r.abstenciones ? ` y ${plural(r.abstenciones, 'abstención', 'abstenciones')}` : ''}.</p>
+<p class="acta__base">En ${esc(cuentaTemas())}. Test ${estado.modo === 'rapido' ? 'rápido' : 'completo'}, ${plural(r.respondidas, 'medida votada', 'medidas votadas')} a favor o en contra${r.abstenciones ? ` y ${plural(r.abstenciones, 'abstención', 'abstenciones')}` : ''}.${r.dobles ? ` Has marcado ${plural(r.dobles, 'medida', 'medidas')} para que ${r.dobles === 1 ? 'cuente' : 'cuenten'} el doble.` : ''}</p>
+${avisoDescartadas()}
 <p class="acta__escala" aria-hidden="true"><span>← En contra</span><span>0</span><span>A favor →</span></p>
 <ol class="acta__filas">${r.clasificados.map(filaResultado).join('')}</ol>
 <div class="acta__pie">
 ${notasResultado(r)}
-<p>Cada medida que votas a favor suma, cada una que votas en contra resta y las abstenciones ni suman ni restan. <strong>+100&nbsp;%</strong> es que has votado a favor de todas las medidas de una candidatura; <strong>−100&nbsp;%</strong>, en contra de todas; <strong>0&nbsp;%</strong>, tantas a favor como en contra, o solo abstenciones. Se calcula tema a tema y todos los temas pesan lo mismo.</p>
+<p>Cada medida que votas a favor suma, cada una que votas en contra resta y las abstenciones ni suman ni restan. <strong>+100&nbsp;%</strong> es que has votado a favor de todas las medidas de una candidatura; <strong>−100&nbsp;%</strong>, en contra de todas; <strong>0&nbsp;%</strong>, tantas a favor como en contra, o solo abstenciones. Se calcula tema a tema y todos los temas pesan lo mismo${r.dobles ? ', salvo las medidas que has marcado con la bandera: cada una vale por dos y da más peso a su tema' : ''}.</p>
 <p><strong>Esto no es un consejo de voto.</strong></p>
 </div>
 </section>
@@ -531,6 +654,10 @@ pantalla.addEventListener('click', (e) => {
       break;
     case 'a-modo': if (estado.temas.length >= MIN_TEMAS) ir('modo'); break;
     case 'a-temas': ir('temas'); break;
+    case 'afinar': abrirAfinar(); break;
+    case 'partido': alternarPartido(b.dataset.id); break;
+    case 'todos-partidos': estado.partidos = [...estado.candidatas]; guardar(); actualizarAfinar(); break;
+    case 'doble': alternarDoble(); break;
     case 'modo': empezar(b.dataset.modo); break;
     case 'votar': votar(b.dataset.decision); break;
     case 'deshacer': deshacer(); break;
@@ -553,7 +680,7 @@ pantalla.addEventListener('click', (e) => {
 document.addEventListener('keydown', (e) => {
   if (estado.fase !== 'papeleta' || e.altKey || e.ctrlKey || e.metaKey) return;
   if (e.target.closest('input, textarea, select')) return;
-  const teclas = { ArrowLeft: () => votar('contra'), ArrowRight: () => votar('favor'), ArrowDown: () => votar('abstencion'), Backspace: () => deshacer() };
+  const teclas = { ArrowLeft: () => votar('contra'), ArrowRight: () => votar('favor'), ArrowDown: () => votar('abstencion'), ArrowUp: () => alternarDoble(), Backspace: () => deshacer() };
   if (teclas[e.key]) { e.preventDefault(); teclas[e.key](); }
 });
 

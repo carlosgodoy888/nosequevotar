@@ -105,6 +105,8 @@
           ]
         },
         { "tipo": "parrafo", "texto": "El resultado se calcula tema a tema. Cada medida de un partido que votas a favor suma un punto, cada una que votas en contra resta un punto y las abstenciones ni suman ni restan. La afinidad con el partido en ese tema es esa suma dividida entre sus medidas: va de +100 % (a favor de todas) a −100 % (en contra de todas), y 0 % significa tantas a favor como en contra, o solo abstenciones. El porcentaje final es la media de sus temas, y todos pesan lo mismo, tenga el partido una medida o tres. Si un partido no tiene medidas en uno de tus temas, ese tema no cuenta para él y el resultado lo dice." },
+        { "tipo": "parrafo", "texto": "Mientras votas puedes marcar una medida con la bandera «Cuenta doble». Esa medida vale por dos, votes a favor o en contra: pesa el doble que las demás medidas de ese partido en su tema y, además, ese tema gana peso en su media. Solo cambia la cuenta del partido que firma la medida, que sigues sin conocer al marcarla. Si te abstienes, la bandera no cuenta." },
+        { "tipo": "parrafo", "texto": "Antes de empezar puedes descartar partidos para que el test sea más corto. Deben quedar al menos dos, y el resultado avisa de que no has hecho el test con todos y dice cuáles has descartado." },
         { "tipo": "parrafo", "texto": "El test es una muestra de cada programa, no el programa entero, y no es un consejo de voto. Todo se calcula en tu móvil: tus respuestas no se envían a ningún sitio." }
       ]
     },
@@ -115,5 +117,5 @@
       ]
     }
   ],
-  "actualizado": "2026-11-16"
+  "actualizado": "2026-11-20"
 }

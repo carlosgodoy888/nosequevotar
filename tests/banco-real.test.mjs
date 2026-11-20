@@ -67,7 +67,7 @@ test('simulación al azar: 52 circunscripciones × 2 modos, sin errores', () => 
         const elegidos = temas.filter(() => alea() < cuantos / temas.length).slice(0, cuantos);
         while (elegidos.length < MIN_TEMAS) elegidos.push(temas.find(t => !elegidos.includes(t)));
         const respuestas = elegidos.flatMap(tema => papeletasDelTema(banco, tema, ids, modo))
-          .map(t => ({ tarjeta: t.id, decision: ['favor', 'contra', 'abstencion'][Math.floor(alea() * 3)] }));
+          .map(t => ({ tarjeta: t.id, decision: ['favor', 'contra', 'abstencion'][Math.floor(alea() * 3)], doble: alea() < 0.15 }));
         const res = calcularResultado({ banco, partidos: enJuego, temas: elegidos, modo, respuestas });
         assert.equal(res.filas.length, enJuego.length);
         assert.equal(res.preguntas, respuestas.length);

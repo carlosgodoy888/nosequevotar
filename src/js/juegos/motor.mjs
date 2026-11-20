@@ -12,17 +12,27 @@
 //   de todas). Dos a favor y una abstención dan +0,67; tres a favor, +1; todo abstenciones, 0.
 // - La afinidad es la media de sus temas: todos los temas pesan lo mismo, tenga en ellos una medida o tres.
 //   Se enseña de −100 % a +100 %.
+// - Medidas que cuentan doble: quien hace el test puede marcar una medida para que valga por dos. Dentro de
+//   su tema pesa el doble que las demás medidas de esa candidatura y, además, el tema gana peso en su media
+//   (el peso de un tema es la media de los pesos de sus medidas: 1 sin marcas, 2 si todas están marcadas).
+//   Solo cambia la cuenta de la candidatura que firma la medida. En una abstención la marca no cuenta.
 // - Un tema en el que la candidatura no tiene medidas no cuenta para ella.
 // - Si tiene medidas en menos de la mitad de los temas elegidos, sale aparte, sin porcentaje.
-// - Con menos de MIN_RESPUESTAS votos a favor o en contra en total no hay clasificación.
+// - Con menos de MIN_RESPUESTAS votos a favor o en contra en total no hay clasificación. En un test muy
+//   corto (pocos temas y pocos partidos) ese mínimo baja a dos tercios de sus preguntas: con 6 preguntas, 4.
 // - Empates: mismo puesto, juntos, en orden alfabético.
 // - Solo se dice «encajas más con…» de candidaturas con afinidad positiva.
 
 export const MIN_TEMAS = 3;
+// Al descartar partidos tienen que quedar, al menos, estos.
+export const MIN_PARTIDOS = 2;
 export const MIN_RESPUESTAS = 8;
+// Votos a favor o en contra que hacen falta en un test de tantas preguntas.
+export const minimoDeVotos = (preguntas) => Math.min(MIN_RESPUESTAS, Math.ceil((preguntas * 2) / 3));
 export const SEGUNDOS_POR_PREGUNTA = 10;
 export const MODOS = { rapido: 1, completo: 3 };
 export const DECISIONES = ['favor', 'contra', 'abstencion'];
+const VALOR = { favor: 1, contra: -1, abstencion: 0 };
 
 const IGUAL = 1e-9;
 // Espacio duro entre la cifra y el signo de porcentaje, para que no se separen al cambiar de línea.
@@ -91,20 +101,24 @@ export function listaNombres(nombres) {
  * @param {Array}  entrada.partidos    Candidaturas que juegan: [{ id, nombre }].
  * @param {Array}  entrada.temas       Ids de los temas elegidos.
  * @param {string} entrada.modo        'rapido' | 'completo'.
- * @param {Array}  entrada.respuestas  [{ tarjeta, decision: 'favor' | 'contra' | 'abstencion' }].
+ * @param {Array}  entrada.respuestas  [{ tarjeta, decision: 'favor' | 'contra' | 'abstencion', doble?: true }].
  * @returns {Object} resultado
  */
 export function calcularResultado({ banco, partidos, temas, modo, respuestas }) {
   const ids = partidos.map(p => p.id);
   const enJuego = new Map(temas.flatMap(tema => papeletasDelTema(banco, tema, ids, modo)).map(t => [t.id, t]));
   const decisiones = new Map();
+  // Medidas marcadas para contar doble. En una abstención la marca no cuenta.
+  const dobles = new Set();
   for (const r of respuestas) {
     if (!banco.tarjetas.some(t => t.id === r.tarjeta)) throw new Error(`Respuesta a una tarjeta que no existe: ${r.tarjeta}`);
     if (!DECISIONES.includes(r.decision)) throw new Error(`Decisión no válida en ${r.tarjeta}: ${r.decision}`);
     if (!enJuego.has(r.tarjeta)) throw new Error(`La tarjeta ${r.tarjeta} no entra en este test (otro tema, otro modo o una candidatura que no juega)`);
     if (decisiones.has(r.tarjeta)) throw new Error(`Respuesta repetida: ${r.tarjeta}`);
     decisiones.set(r.tarjeta, r.decision);
+    if (r.doble && r.decision !== 'abstencion') dobles.add(r.tarjeta);
   }
+  const peso = (t) => (dobles.has(t.id) ? 2 : 1);
 
   const cuenta = (tarjetas, decision) => tarjetas.filter(t => decisiones.get(t.id) === decision).length;
   const respondidas = [...decisiones.values()].filter(d => d !== 'abstencion').length;
@@ -115,11 +129,15 @@ export function calcularResultado({ banco, partidos, temas, modo, respuestas }) 
       const favor = cuenta(tarjetas, 'favor');
       const contra = cuenta(tarjetas, 'contra');
       const abstencion = cuenta(tarjetas, 'abstencion');
-      const votadas = favor + contra + abstencion;
+      const votadas = tarjetas.filter(t => decisiones.has(t.id));
+      const pesos = votadas.reduce((n, t) => n + peso(t), 0);
+      const suma = votadas.reduce((n, t) => n + peso(t) * VALOR[decisiones.get(t.id)], 0);
       return {
         tema, sinMedidas: tarjetas.length === 0, favor, contra, abstencion,
-        afinidad: votadas ? (favor - contra) / votadas : null,
-        tarjetas: tarjetas.map(t => ({ id: t.id, decision: decisiones.get(t.id) || null })),
+        afinidad: votadas.length ? suma / pesos : null,
+        // Lo que pesa el tema en la media de la candidatura: 1 si no hay medidas marcadas.
+        peso: votadas.length ? pesos / votadas.length : 0,
+        tarjetas: tarjetas.map(t => ({ id: t.id, decision: decisiones.get(t.id) || null, doble: dobles.has(t.id) })),
       };
     });
     const conDatos = desglose.filter(d => d.afinidad !== null);
@@ -131,7 +149,8 @@ export function calcularResultado({ banco, partidos, temas, modo, respuestas }) 
       respondidas: desglose.reduce((n, d) => n + d.favor + d.contra, 0),
       temasConDatos: conDatos.length,
       sinMedidas: desglose.filter(d => d.sinMedidas).map(d => d.tema),
-      afinidad: conDatos.length ? conDatos.reduce((s, d) => s + d.afinidad, 0) / conDatos.length : null,
+      dobles: desglose.reduce((n, d) => n + d.tarjetas.filter(x => x.doble).length, 0),
+      afinidad: conDatos.length ? conDatos.reduce((s, d) => s + d.peso * d.afinidad, 0) / conDatos.reduce((s, d) => s + d.peso, 0) : null,
       aparte: conDatos.length * 2 < temas.length,
     };
   });
@@ -146,11 +165,12 @@ export function calcularResultado({ banco, partidos, temas, modo, respuestas }) 
   ponerPorcentajes(clasificados);
   const apartes = filas.filter(f => f.aparte).sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'));
 
-  const sinRanking = respondidas < MIN_RESPUESTAS || clasificados.length === 0;
+  const minimo = minimoDeVotos(enJuego.size);
+  const sinRanking = respondidas < minimo || clasificados.length === 0;
   // Solo encabezan el resultado las candidaturas con afinidad positiva: con cero o menos no se «encaja».
   const primeros = sinRanking ? [] : clasificados.filter(f => f.puesto === 1 && f.afinidad > IGUAL);
   let frase;
-  if (respondidas < MIN_RESPUESTAS) frase = `Has votado a favor o en contra de ${respondidas} ${respondidas === 1 ? 'medida' : 'medidas'}. Hacen falta al menos ${MIN_RESPUESTAS} para darte un resultado.`;
+  if (respondidas < minimo) frase = `Has votado a favor o en contra de ${respondidas} ${respondidas === 1 ? 'medida' : 'medidas'}. Hacen falta al menos ${minimo} para darte un resultado.`;
   else if (!clasificados.length) frase = 'Ninguna candidatura tiene medidas en bastantes de tus temas para darte un resultado.';
   else if (!primeros.length) frase = 'No encajas con ninguna candidatura';
   else frase = `Encajas más con ${listaNombres(primeros.map(f => f.nombre))}`;
@@ -167,7 +187,7 @@ export function calcularResultado({ banco, partidos, temas, modo, respuestas }) 
   });
 
   return {
-    temas: [...temas], modo, respondidas, abstenciones: decisiones.size - respondidas, preguntas: enJuego.size,
+    temas: [...temas], modo, respondidas, abstenciones: decisiones.size - respondidas, preguntas: enJuego.size, dobles: dobles.size,
     sinRanking, frase, primeros: primeros.map(f => f.partido),
     filas: [...clasificados, ...apartes], clasificados, apartes, porTema,
   };
