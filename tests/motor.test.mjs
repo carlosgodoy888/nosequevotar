@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import {
   calcularResultado, ponerPorcentajes, partidosEnJuego, partidosSinPrograma, papeletasDelTema, contarPreguntas,
-  minutos, textoMinutos, temasEnOrden, MIN_RESPUESTAS, MIN_TEMAS,
+  minutos, textoMinutos, temasEnOrden, MIN_RESPUESTAS, MIN_TEMAS, MIN_PARTIDOS, minimoDeVotos,
 } from '../src/js/juegos/motor.mjs';
 
 const leer = (ruta) => JSON.parse(readFileSync(new URL(ruta, import.meta.url), 'utf8'));
@@ -206,6 +206,86 @@ test('porcentajes con signo; mismo porcentaje redondeado sin empate: un decimal'
   assert.deepEqual(filas.map(f => f.porcentajeTexto), [pct('+83,3'), pct('+83,0'), pct('+80'), pct('+80'), pct('0'), pct('-50'), pct('-100')]);
   // Un cero y dos casi ceros sin empatar: con un decimal, y el cero sin signo.
   assert.deepEqual(ponerPorcentajes([{ afinidad: 0.004 }, { afinidad: 0 }, { afinidad: -0.004 }]).map(f => f.porcentajeTexto), [pct('+0,4'), pct('0,0'), pct('-0,4')]);
+});
+
+test('con partidos descartados el test puede ser muy corto: el mínimo de votos baja a dos tercios de las preguntas', () => {
+  assert.equal(MIN_PARTIDOS, 2);
+  assert.deepEqual([6, 9, 11, 12, 77].map(minimoDeVotos), [4, 6, 8, 8, 8]);
+  // Solo Norte y Sur, tres temas y test rápido: seis preguntas.
+  const dos = partidos.filter(p => ['norte', 'sur'].includes(p.id));
+  const calc = (votos) => calcularResultado({
+    banco, partidos: dos, temas: TEMAS, modo: 'rapido',
+    respuestas: TEMAS.flatMap(tema => ['norte', 'sur'].map(p => [tema, p])).map(([tema, p], i) => r(tema, p, 1, votos[i])),
+  });
+  const cuatro = calc(['favor', 'contra', 'favor', 'abstencion', 'favor', 'abstencion']);
+  assert.equal(cuatro.preguntas, 6);
+  assert.equal(cuatro.sinRanking, false);
+  assert.deepEqual(cuatro.clasificados.map(f => [f.partido, f.porcentajeTexto]), [['norte', pct('+100')], ['sur', pct('-33')]]);
+  const tres = calc(['favor', 'contra', 'favor', 'abstencion', 'abstencion', 'abstencion']);
+  assert.equal(tres.sinRanking, true);
+  assert.match(tres.frase, /Hacen falta al menos 4/);
+});
+
+// Medidas que cuentan doble (la bandera de la papeleta).
+const doble = (respuesta) => ({ ...respuesta, doble: true });
+
+test('cuenta doble en el completo: la medida marcada pesa el doble dentro de su tema', () => {
+  // Norte en vivienda: a favor (marcada), en contra y en contra. (+2 −1 −1) ÷ 4 = 0, en vez de −1/3.
+  const respuestas = [doble(r('vivienda', 'norte', 1, 'favor')), r('vivienda', 'norte', 2, 'contra'), r('vivienda', 'norte', 3, 'contra')];
+  const res = calcularResultado({ banco, partidos, temas: TEMAS, modo: 'completo', respuestas });
+  const d = fila(res, 'norte').desglose.find(x => x.tema === 'vivienda');
+  assert.equal(d.afinidad, 0);
+  assert.ok(Math.abs(d.peso - 4 / 3) < 1e-9);
+  assert.deepEqual(d.tarjetas.map(x => x.doble), [true, false, false]);
+  assert.equal(res.dobles, 1);
+});
+
+test('cuenta doble en el rápido: el tema pesa el doble para la candidatura que firma la medida, y solo para ella', () => {
+  const base = [
+    r('vivienda', 'norte', 1, 'favor'), r('empleo', 'norte', 1, 'contra'), r('sanidad', 'norte', 1, 'contra'),
+    r('vivienda', 'sur', 1, 'contra'), r('empleo', 'sur', 1, 'favor'), r('sanidad', 'sur', 1, 'favor'),
+    r('vivienda', 'este', 1, 'favor'), r('empleo', 'este', 1, 'favor'), r('sanidad', 'este', 1, 'abstencion'),
+  ];
+  const calc = (respuestas) => calcularResultado({ banco, partidos, temas: TEMAS, modo: 'rapido', respuestas });
+  const sin = calc(base);
+  const con = calc(base.map(x => (x.tarjeta === 'e-vivienda-norte-1' ? doble(x) : x)));
+  // Norte: (+1 −1 −1) ÷ 3 = −33 % sin marcar; (+2 −1 −1) ÷ 4 = 0 % con su medida de vivienda marcada.
+  assert.equal(fila(sin, 'norte').porcentajeTexto, pct('-33'));
+  assert.equal(fila(con, 'norte').porcentajeTexto, pct('0'));
+  // A las demás no les cambia nada, aunque también tengan medidas de vivienda.
+  for (const p of ['sur', 'este']) assert.equal(fila(con, p).afinidad, fila(sin, p).afinidad);
+  assert.equal(fila(con, 'sur').porcentajeTexto, pct('+33'));
+  assert.deepEqual([fila(con, 'norte').dobles, fila(con, 'sur').dobles, con.dobles], [1, 0, 1]);
+});
+
+test('cuenta doble: cuantas más medidas marcadas en un tema, más pesa ese tema', () => {
+  // Norte, completo: vivienda todo a favor y empleo todo en contra. Sin marcas, 0 %.
+  const afinidad = (marcadas) => {
+    const respuestas = [
+      ...tres('vivienda', 'norte', ['favor', 'favor', 'favor']).map((x, i) => (i < marcadas ? doble(x) : x)),
+      ...tres('empleo', 'norte', ['contra', 'contra', 'contra']),
+    ];
+    return fila(calcularResultado({ banco, partidos, temas: TEMAS, modo: 'completo', respuestas }), 'norte').afinidad;
+  };
+  // Vivienda pesa 1, 4/3, 5/3 y 2 frente al 1 de empleo.
+  for (const [marcadas, esperado] of [[0, 0], [1, 1 / 7], [2, 1 / 4], [3, 1 / 3]]) {
+    assert.ok(Math.abs(afinidad(marcadas) - esperado) < 1e-9, `${marcadas} marcadas: ${afinidad(marcadas)}`);
+  }
+});
+
+test('cuenta doble: en una abstención la marca no cuenta', () => {
+  const base = [
+    ...tres('vivienda', 'norte', ['favor', 'abstencion', 'contra']), ...tres('empleo', 'norte', ['favor', 'favor', 'contra']),
+    ...tres('sanidad', 'norte', ['contra', 'abstencion', 'abstencion']),
+  ];
+  const calc = (respuestas) => calcularResultado({ banco, partidos, temas: TEMAS, modo: 'completo', respuestas });
+  const marcadas = calc(base.map(x => (x.decision === 'abstencion' ? doble(x) : x)));
+  assert.equal(marcadas.dobles, 0);
+  assert.equal(fila(marcadas, 'norte').afinidad, fila(calc(base), 'norte').afinidad);
+  assert.ok(fila(marcadas, 'norte').desglose.every(d => d.tarjetas.every(x => !x.doble)));
+  // Sin abstenciones, marcarlo todo deja el resultado igual que no marcar nada.
+  const todo = [...tres('vivienda', 'sur', ['favor', 'favor', 'contra']), ...tres('empleo', 'sur', ['contra', 'contra', 'contra']), ...tres('sanidad', 'sur', ['favor', 'contra', 'favor'])];
+  assert.ok(Math.abs(fila(calc(todo.map(doble)), 'sur').afinidad - fila(calc(todo), 'sur').afinidad) < 1e-9);
 });
 
 test('errores claros con respuestas imposibles', () => {
